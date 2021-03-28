@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kit Harington Walks Back Comments About Male 'Sexism'", 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/kit-harington-male-sexism_us_59f0b30ee4b0d094a5b68d90', 'short_description': '"Do I think my position is the same as a woman’s in society? No."', 'date': '2017-10-25'}

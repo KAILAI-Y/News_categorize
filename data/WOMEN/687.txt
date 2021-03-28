@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'All Your Questions About At-Home Pregnancy Tests, Answered', 'authors': 'Allure, ContributorAllure Magazine', 'link': 'https://www.huffingtonpost.com/entry/all-your-questions-about-at-home-pregnancy-tests-answered_us_59493b78e4b0f7875b83e627', 'short_description': 'Now go forth and procreate — but only if you want to.', 'date': '2017-06-20'}

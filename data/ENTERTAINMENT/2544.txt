@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Mark Webber, Once Homeless And Destitute, Poured His Life Story Into His Latest Movie', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/flesh-and-blood-trailer_us_59d4d35ce4b06226e3f4f989', 'short_description': 'See the trailer for the semi-documentary "Flesh and Blood."', 'date': '2017-10-04'}

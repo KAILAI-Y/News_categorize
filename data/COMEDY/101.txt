@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert's Cartoon Trump Gives The WHCA Speech The Real President Wouldn't", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/cartoon-president-trump-white-house-correspondents_us_5ae6b4d5e4b055fd7fcd11fe', 'short_description': '"I look forward to locking you all up in the coming years."', 'date': '2018-04-30'}

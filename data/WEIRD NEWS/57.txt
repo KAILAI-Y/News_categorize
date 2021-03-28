@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Military Officers Punished After Guardsman Appears To Re-Enlist Using Dinosaur Puppet', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/robin-brown-reenlist-dinosaur-puppet_us_5ad7b6b8e4b03c426daaf173', 'short_description': "At least one officer's active-duty career is now extinct.", 'date': '2018-04-19'}

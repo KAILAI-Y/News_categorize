@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Chicago Artist Carefully Placed 'Real Fake' Sculpture Outside Trump Tower", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/real-fake-trump-tower-art_us_59553dade4b0da2c73220eb9', 'short_description': 'The golden sculpture not-so-subtly calls out Donald Trump as a bonafide phony.', 'date': '2017-06-29'}

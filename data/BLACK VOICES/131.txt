@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'SNL' Host Chadwick Boseman Appears On Black Jeopardy As T'Challa", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/chadwick-boseman-appears-on-snls-black-jeopardy-as-tchalla_us_5aca2827e4b07a3485e5b87f', 'short_description': '"Black Panther, welcome to Black Jeopardy!"', 'date': '2018-04-08'}

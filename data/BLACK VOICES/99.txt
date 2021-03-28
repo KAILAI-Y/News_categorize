@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Zendaya On Colorism: ‘I Am Hollywood’s Acceptable Version Of A Black Girl’', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/zendaya-colorism-hollywood_us_5ade10eae4b0df502a4e529f', 'short_description': '"And that has to change," the actress added.', 'date': '2018-04-23'}

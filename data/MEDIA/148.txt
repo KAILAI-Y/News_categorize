@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Sean Hannity Gets Called Out On His Own Show: You Don't Tell The Truth", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-jorge-ramos_us_5aa0b4e8e4b002df2c60a61d', 'short_description': "Univision's Jorge Ramos gets into it with Fox News host.", 'date': '2018-03-08'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Reformation Just Launched A Line Of Sustainable Denim', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/reformation-denim-collection_us_59de8763e4b0fdad73b1d920', 'short_description': 'The battle for sustainable denim is on 👖', 'date': '2017-10-12'}

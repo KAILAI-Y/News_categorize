@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Another Victory For 'Wonder Woman' As 'The Mummy' Gets Buried At The Box Office", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/wonder-woman-the-mummy-box-office_us_593d7059e4b02402687a4493', 'short_description': 'Sorry, Dark Universe.', 'date': '2017-06-11'}

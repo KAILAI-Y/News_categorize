@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Oprah Just Taught Everyone How To Respond To Trump’s Insults', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/oprah-winfrey-responds-to-trump_us_5aa5e158e4b086698a9f1312', 'short_description': 'She also offered some solid advice for anyone running against him.', 'date': '2018-03-12'}

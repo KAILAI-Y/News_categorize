@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Warning: This Festive Puzzle May Baffle You The Entire Holidays', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bear-holiday-puzzle_us_5a38fb28e4b0860bf4aaf1bd', 'short_description': '🤔🤔🤔', 'date': '2017-12-19'}

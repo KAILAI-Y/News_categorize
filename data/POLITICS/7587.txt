@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Defends Son's Meeting With Russian Lawyer As 'Very Standard'", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-defends-trump-jr_us_5967a11ae4b0a8d46d12fa0a', 'short_description': "It's not.", 'date': '2017-07-13'}

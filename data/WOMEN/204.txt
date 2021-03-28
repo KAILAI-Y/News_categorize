@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'A TV Series About The #MeToo Movement Is Coming To PBS', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/tv-series-metoo-pbs_us_5a5f63e6e4b096ecfca9784e', 'short_description': 'The five-part series titled ”#MeToo, Now What?” debuts on Feb. 2.', 'date': '2018-01-17'}

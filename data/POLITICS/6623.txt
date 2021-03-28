@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Defends Steve Bannon: 'He's Not A Racist'", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-steve-bannon_us_5993568de4b04b19336104af', 'short_description': '"He’s a good person," said the president about the White House chief strategist.', 'date': '2017-08-15'}

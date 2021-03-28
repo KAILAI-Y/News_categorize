@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'This Wild Hair Dryer Will Make Your Blowouts Go Way Faster', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/best-hair-dryers_us_59b6a06ee4b036fd85cc998c', 'short_description': 'Can hair-dly wait to try it.', 'date': '2017-09-11'}

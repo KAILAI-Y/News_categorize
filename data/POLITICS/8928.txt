@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Supreme Court To Weigh In On Tactic For Kicking People Off Voter Rolls', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/supreme-court-voter-purge_us_592da9ace4b0c0608e8baf3d', 'short_description': 'Ohio officials are illegally targeting people for not voting, plaintiffs say.', 'date': '2017-05-30'}

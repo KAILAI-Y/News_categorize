@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'New ‘Roseanne’ Teaser Makes Fun Of The Show’s Original Ending', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/new-roseanne-teaser-trailer-has-a-snarky-inside-joke-for-fans_us_5a43abe5e4b025f99e190141', 'short_description': 'And, as Becky would apparently say now, it’s “dope.”', 'date': '2017-12-27'}

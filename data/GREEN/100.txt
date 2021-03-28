@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Mountain Lion Captured In San Francisco Freed In California Wilds', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/mountain-lion-captured-in-san-franciso_us_5a07bdfce4b05673aa59aa27', 'short_description': 'It took two tranquilizer darts to subdue the young male.', 'date': '2017-11-12'}

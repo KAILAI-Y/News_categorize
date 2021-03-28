@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Most Americans Think It's Racist To Talk About Immigrants From 'Shithole Countries'", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/shithole-countries-racist-polling_us_5a5e6c49e4b096ecfca85c6e', 'short_description': 'America still sees itself as a nation of immigrants.', 'date': '2018-01-16'}

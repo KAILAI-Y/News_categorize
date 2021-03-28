@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Here Are All The Records Irma Has Broken So Far, According To A Meteorologist', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/hurricane-irma-records-broken_us_59b48a93e4b0dfaafcf84e6a', 'short_description': 'One hurricane expert described Irma as a "heavy hitter."', 'date': '2017-09-10'}

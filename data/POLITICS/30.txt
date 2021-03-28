@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Twitter Critics Mercilessly Mock Trump For Canceling Summit With Kim', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/twitter-mocks-trump-summit-cancellation_us_5b06e058e4b07c4ea10612b2', 'short_description': '"Pot meet kettle."', 'date': '2018-05-24'}

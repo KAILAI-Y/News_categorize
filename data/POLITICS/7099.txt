@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Leader Of Voter Fraud Probe Really Doesn't Want To Release Trump Meeting Documents", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/kris-kobach-trump-meeting_us_597cafc3e4b02a4ebb75c94a', 'short_description': 'Kris Kobach said making the documents public would undermine his work on the panel.', 'date': '2017-07-29'}

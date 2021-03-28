@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Protesters Unfurl 'Racism Is As American As Baseball' Sign At Boston Red Sox Game", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/boston-red-sox-racism-banner-fenway-park_us_59ba2529e4b02da0e13f3501', 'short_description': 'Security guards confiscated the sign within a matter of minutes.', 'date': '2017-09-14'}

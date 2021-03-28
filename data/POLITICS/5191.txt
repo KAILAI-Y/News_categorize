@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Ominously Tweets 'Only One Thing Will Work' With North Korea", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-north-korea-only-one-thing-will-work_us_59d939fde4b046f5ad98a952', 'short_description': 'Trump did not make clear to what he was referring.', 'date': '2017-10-07'}

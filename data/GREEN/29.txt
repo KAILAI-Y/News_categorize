@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': '3 Sharks Die of Apparent Cold Shock On Cape Cod', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/thresher-sharks-die-cape-cod-cold-shock_us_5a46c526e4b025f99e1b73cb', 'short_description': 'But NOAA manages to save 18 "cold-stunned" sea turtles in Texas.', 'date': '2017-12-30'}

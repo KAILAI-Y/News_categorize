@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Why Mornings Are Mandy Moore's Favorite Time Of The Day", 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/mandy-moore-morning-routine_us_5a03c319e4b0937b510f869e', 'short_description': 'Hint: Caffeine is involved.', 'date': '2017-11-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Is Having A Field Day Making Fun Of Donald Trump Jr.'s Emails", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-email-best-funniest-tweets_us_596500aae4b005b0fdc8b210', 'short_description': 'Love it!', 'date': '2017-07-11'}

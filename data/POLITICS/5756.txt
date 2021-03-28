@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sean Spicer Regrets His First Move As White House Press Secretary', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-regrets_us_59c015a8e4b093cfe776114b', 'short_description': 'He previously said he had "no regrets" about his time working for Trump.', 'date': '2017-09-18'}

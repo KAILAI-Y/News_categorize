@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Have You Ever Lived In One Of Jared Kushner's Apartment Buildings?", 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-apartment-buildings_us_5a0da608e4b0b37054f4ddf6', 'short_description': "HuffPost wants to hear from you if Kushner's company was your landlord.", 'date': '2017-11-17'}

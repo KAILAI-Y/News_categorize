@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Simpsons' Shared A Sneak Peek At Ed Sheeran's Cameo And It Looks Perfect", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ed-sheeran-the-simpsons-cameo_us_5a4f4491e4b01e1a4b1435fe', 'short_description': '"You didn\'t applaud?"', 'date': '2018-01-05'}

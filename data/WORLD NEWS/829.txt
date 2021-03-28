@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "The Top 1 Percent Owns Over Half Of The World's Household Wealth", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/top-1-percent-world-wealth_us_5a0b2ffde4b0bc648a0e4afa', 'short_description': 'The very, very rich are getting very, very richer.', 'date': '2017-11-14'}

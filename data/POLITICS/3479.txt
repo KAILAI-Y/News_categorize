@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Users Offer Alternative Entries For RNC's Trump-Themed Calendar", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/gop-calendar-rnc-maga-trump_us_5a2f8ae4e4b046175432df1d', 'short_description': '"MAGA: Mueller Ain\'t Going Anywhere"', 'date': '2017-12-12'}

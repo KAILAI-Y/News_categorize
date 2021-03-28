@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans See No Need For Legislation To Protect Robert Mueller', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/robert-mueller-trump_us_5ab02cdae4b0e862383a9081', 'short_description': '"I do not believe the president would take such a foolish action,” Sen. Orrin Hatch (R-Utah) said.', 'date': '2018-03-19'}

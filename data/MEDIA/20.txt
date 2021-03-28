@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Bill O’Reilly Offers To Stand Next To Sarah Sanders To Handle ‘Out Of Line’ Reporters', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/bill-oreilly-sarah-huckabee-sanders_us_5af11da2e4b0ab5c3d690b95', 'short_description': '"I will tell them exactly what I think of their behavior."', 'date': '2018-05-08'}

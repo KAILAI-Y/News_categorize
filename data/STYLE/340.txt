@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Lena Dunham Debuts A Drastic New Haircut With The Best Caption Ever', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/lena-dunham-haircut_us_59481ccce4b0cddbb008a761', 'short_description': 'Spot on.', 'date': '2017-06-19'}

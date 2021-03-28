@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Watch Melissa McCarthy And Jennifer Aniston Brilliantly Troll Science Deniers', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/melissa-mccarthy-jennifer-aniston-science-deniers_us_5a2a3546e4b0a290f04f974e', 'short_description': 'How much do we really know about "gravity" anyway?', 'date': '2017-12-08'}

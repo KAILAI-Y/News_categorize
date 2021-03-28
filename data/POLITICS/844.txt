@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Republican Poverty Agenda: More Job Training, More Pee', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/farm-bill-food-stamps_us_5acf99c2e4b077c89ce67c34', 'short_description': 'Republicans are pushing for some food stamp applicants to pass drug tests.', 'date': '2018-04-12'}

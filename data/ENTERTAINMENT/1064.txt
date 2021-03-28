@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Walking Dead' Actor Responds To Backlash Over Shocking Death", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/walking-dead-actor-responds-to-backlash-over-shocking-death_us_5a9063c9e4b03b55731bf098', 'short_description': 'Fans are not happy.', 'date': '2018-02-26'}

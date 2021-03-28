@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Readies For Passively-Kill-A-Bunch-Of-People-A-Rama', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/senate-vote-a-rama_us_597a4e19e4b0da64e877e737', 'short_description': 'Let the great experiment … begin!!!', 'date': '2017-07-27'}

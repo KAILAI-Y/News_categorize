@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Pennsylvania Man Charged With Murdering Teen In 'Savage' Road Rage Incident", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/david-desper-charged-murder_us_59591c3ce4b05c37bb7f03df', 'short_description': 'The victim had just graduated from high school.', 'date': '2017-07-02'}

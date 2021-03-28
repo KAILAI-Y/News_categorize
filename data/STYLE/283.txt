@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Hillary Clinton Is A Mid-Summer Wedding's Dream In Kitten Heels And A Caftan", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-caftan_us_598862dfe4b0cb15b1bf9f09', 'short_description': "She's giving us the blues (in a good way).", 'date': '2017-08-07'}

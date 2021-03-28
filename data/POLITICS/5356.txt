@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Opinions On Gun Control Are Massively Polarized. They Weren't Always.", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/gun-control-opinions-polarized_us_59d26480e4b09538b509cc76', 'short_description': 'Republican support for gun control plummeted during the Obama presidency.', 'date': '2017-10-02'}

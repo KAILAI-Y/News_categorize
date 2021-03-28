@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Safe Purge Everyone': Tweeters Troll Donald Trump Over Government Shutdown", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/twitter-reaction-government-shutdown-donald-trump_us_5a630cd6e4b0e563006ff540', 'short_description': '"Executive Time for everyone."', 'date': '2018-01-20'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Protesters Try To Arrest London's Mayor For Disrespecting Donald Trump", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/protesters-tryto-arrest-sadiqkahn_us_5a5ad4f0e4b03c4189664b45', 'short_description': 'More "stable geniuses," quips Mayor Sadiq Khan.', 'date': '2018-01-14'}

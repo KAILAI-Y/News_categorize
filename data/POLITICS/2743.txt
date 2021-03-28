@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How Do You Say Shithole In Norwegian?', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/how-do-you-say-shithole-in-norwegian_us_5a5c0fe4e4b0fcbc3a1167fe', 'short_description': 'Norway, like the U.S., is currently facing a serious backlash against immigration.', 'date': '2018-01-15'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Walking Dead' Might Have Fixed One Hell Of A Plot Hole", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/walking-dead-may-have-fixed-a-hell-of-a-plot-hole_us_5a108119e4b0e97dffedc21a', 'short_description': 'Things aren\'t so "plane" and simple anymore.', 'date': '2017-11-20'}

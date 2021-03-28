@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'News Anchor At Sinclair-Owned Station Hits Back At Trump', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/sinclair-news-anchor-hits-back-trump_us_5ac2883be4b04646b6453134', 'short_description': '"Actually, this isn\'t funny at all. None of it," said Mary Nam of Seattle\'s KOMO.', 'date': '2018-04-02'}

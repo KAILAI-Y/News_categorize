@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Sasha Obama Hangs Out With Cardi B And Offset At A Festival', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/sasha-obama-hanging-out-with-cardi-b-and-offset-at-a-festival-is-a-vibe_us_5ae71966e4b055fd7fce0bc7', 'short_description': '"Officially have a new fave Obama."', 'date': '2018-04-30'}

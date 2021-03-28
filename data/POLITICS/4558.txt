@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Tax Cut That Republicans Could Pass, Flaws And All', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/republicans-tax-cut-bill-reaction_us_59fb8f4ee4b0b0c7fa39191d', 'short_description': "They haven't really read it, but most of them still love it.", 'date': '2017-11-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Cheeky Cyclist Flips Trump Motorcade The Middle Finger Salute', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-motorcade-middle-finger_us_59f65944e4b077d8dfca78f5', 'short_description': 'A lone rider stands up to the man.', 'date': '2017-10-30'}

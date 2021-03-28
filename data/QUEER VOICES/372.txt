@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Catch A Sneak Peek At 'Indecent,' A Queer-Themed Broadway Play You Can Now Stream", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/indecent-broadway-play-hd_us_5a5fcfc0e4b0ccf9f12146aa', 'short_description': 'The Tony-winning drama examines an early-20th century scandal in New York.', 'date': '2018-01-24'}

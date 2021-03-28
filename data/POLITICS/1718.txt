@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Colorado House Members In Bulletproof Vests Vote To Eject Rep For Sex Harassment', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/colorado-house-steve-lebsock-sexual-harassment_us_5a99ee1be4b0479c02529546', 'short_description': 'Two Kevlar-wearing lawmakers said they  feared retaliation.', 'date': '2018-03-03'}

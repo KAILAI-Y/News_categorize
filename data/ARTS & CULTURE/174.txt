@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Alanis Morissette’s 'Jagged Little Pill' Is Getting Turned Into A Musical", 'authors': 'Maddie Crum', 'link': 'https://www.huffingtonpost.com/entry/alanis-morissettes-jagged-little-pill-is-getting-turned-into-a-musical_us_592d8aa2e4b0065b20b867fe', 'short_description': 'It will premiere in May 2018.', 'date': '2017-05-30'}

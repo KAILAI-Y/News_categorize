@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Indianapolis Colts' Edwin Jackson Killed By Suspected Drunk Driver", 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/edwin-jackson-colts-dead_us_5a782175e4b0905433b641e5', 'short_description': 'Jackson and his Uber driver were struck on the side of an interstate highway in Indiana.', 'date': '2018-02-05'}

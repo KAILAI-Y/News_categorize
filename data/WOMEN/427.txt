@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'What Matters', 'authors': "Gretchen Carlson, ContributorJournalist; Author, 'Be Fierce'", 'link': 'https://www.huffingtonpost.com/entry/gretchen-carlson-be-fierce-excerpt_us_59e40368e4b0a52aca18c23d', 'short_description': 'This is the real me.', 'date': '2017-10-16'}

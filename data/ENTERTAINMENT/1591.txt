@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Meryl Streep and Tom Hanks Have Too Much Fun Playing Each Other’s Characters', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tom-hanks-meryl-streep-impersonating-each-other_us_5a561ecce4b0b117f88126dd', 'short_description': 'Streep channeling Woody from "Toy Story" is an instant classic.', 'date': '2018-01-10'}

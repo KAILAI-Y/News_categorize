@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Women's March Inspired Them To Run. Now They're Unseating GOP Men.", 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/womens-march-inspired-democrats-unseating-gop-men_us_5a03099de4b06ff32c94cb55', 'short_description': 'Pissed off women FTW.', 'date': '2017-11-08'}

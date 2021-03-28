@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Claire Foy Receives Back-Pay After Parity Scandal On 'The Crown'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/claire-foy-gets-275000-back-pay-for-gender-gap_us_5ae7ef59e4b02baed1bd778d', 'short_description': 'She collected an additional $275,000, The Daily Mail reports.', 'date': '2018-05-01'}

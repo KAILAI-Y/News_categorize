@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Charles Barkley, Lakers Fan Trade Jabs About Weight, Ends In Tie Score', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/charles-barkley-lakers-fan-trade-jabs-about-weight-ends-in-tie-score_us_5a6b4845e4b06e253266f0bc', 'short_description': 'And it looks like nobody got hurt.', 'date': '2018-01-26'}

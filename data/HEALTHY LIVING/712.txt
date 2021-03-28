@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Experts May Disagree On Skin Cancer Diagnoses', 'authors': 'Andrew M. Seaman, Reuters', 'link': 'https://www.huffingtonpost.com/entry/experts-may-disagree-on-skin-cancer-diagnoses_us_5956a26fe4b0da2c73236aee', 'short_description': 'Pathology is not an exact science.', 'date': '2017-06-30'}

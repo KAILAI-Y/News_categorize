@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'VA Loan Program May Be Letting Veterans Down', 'authors': 'Ann Brenoff', 'link': 'https://www.huffingtonpost.com/entry/va-loans-veterans-buying-houses_us_59b6c70ee4b03e6197afbdee', 'short_description': 'A shortage of home appraisers is gumming up the works.', 'date': '2017-10-04'}

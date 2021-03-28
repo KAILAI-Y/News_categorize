@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jerry Brown: 'Troglodyte' Trump Supporters 'Dwell In Deep, Dark Caves'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jerry-brown-trump-supporters-troglodyte_us_59c0790de4b0186c22054329', 'short_description': "California's governor doesn't mince words.", 'date': '2017-09-19'}

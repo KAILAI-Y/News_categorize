@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Why Isn't There A Birth Control Emoji?", 'authors': 'Nicole Lee, Engadget', 'link': 'https://www.huffingtonpost.com/entry/why-isnt-there-a-birth-control-emoji_us_5afc5e5ee4b0779345d51dc6', 'short_description': 'Two women decided it was time to have one.', 'date': '2018-05-16'}

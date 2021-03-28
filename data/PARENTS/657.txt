@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Get Excited! 'Good Night Stories For Rebel Girls' Is Back For Volume Two", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/good-night-stories-for-rebel-girls-is-back-for-volume-two_us_59493577e4b0cddbb009a5dc', 'short_description': 'Bedtime just got even better.', 'date': '2017-06-20'}

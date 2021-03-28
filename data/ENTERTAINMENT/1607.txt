@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'For The Record, Meryl Streep Is Totally Here For An Oprah Presidency', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/for-the-record-meryl-streep-is-totally-here-for-an-oprah-presidency_us_5a54d816e4b003133ecc8eee', 'short_description': '"Wow, where do I send the check."', 'date': '2018-01-09'}

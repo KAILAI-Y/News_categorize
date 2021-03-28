@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "These Celebrities Give The Only Graduation Speech You'll Ever Need On 'Jimmy Kimmel'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/these-celebrities-give-the-only-graduation-speech-youll-ever-need_us_59392d4ae4b0b13f2c6751b2', 'short_description': '"Never give up — unless it\'s hard."', 'date': '2017-06-08'}

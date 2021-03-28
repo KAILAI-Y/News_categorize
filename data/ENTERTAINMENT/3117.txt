@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Dunkirk' And 'Girls Trip' Enjoyed Quite A Ride At The Box Office This Weekend", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/dunkirk-box-office_us_5974c376e4b00e4363e01ae2', 'short_description': 'Meanwhile, "Valerian and the City of a Thousand Planets" had no gas.', 'date': '2017-07-23'}

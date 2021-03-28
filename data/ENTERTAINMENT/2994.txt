@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Dark Tower' Debuts At No. 1 Despite Terrible Reviews", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/dark-tower-box-office_us_5987fd49e4b041356ec09366', 'short_description': 'The Stephen King adaptation starring Idris Elba and Matthew McConaughey earned a modest $19.5 million.', 'date': '2017-08-07'}

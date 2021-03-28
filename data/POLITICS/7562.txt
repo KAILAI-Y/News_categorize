@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Leader Of Voter Fraud Probe Doesn't Seem To Care People Are Deregistering To Vote", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/kris-kobach-voters-deregistering_us_5968d1fbe4b017418626f4f4', 'short_description': 'Kris Kobach said it could just be a "political stunt."', 'date': '2017-07-14'}

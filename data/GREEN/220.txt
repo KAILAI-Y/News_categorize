@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'While Hurricanes Batter The South, The West Is On Fire', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/fires-in-the-west-hurricanes-down-south_us_59b2db6fe4b0dfaafcf7dccc', 'short_description': 'More than 26,000 firefighters are currently fighting blazes across the West.', 'date': '2017-09-08'}

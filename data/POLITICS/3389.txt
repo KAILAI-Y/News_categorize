@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Who Needs The State Department?', 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/who-needs-the-state-department_us_5a32d28ce4b0ff955ad13eb8', 'short_description': 'The U.S. Has a New Set of “Ambassadors”', 'date': '2017-12-14'}

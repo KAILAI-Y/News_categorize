@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Avengers Talk Dirty In Jimmy Kimmel's 'Unnecessary Censorship'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/avengers-jimmy-kimmel-unnecessary-censorship_us_5ae2e97be4b02baed1b91af8', 'short_description': 'Language, superheroes.', 'date': '2018-04-27'}

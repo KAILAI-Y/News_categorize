@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Israeli Student Stole Auschwitz Artifacts For Art Project', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/auschwitz-theft-israeli-student_us_596f766fe4b00db3d0f4e656', 'short_description': 'She claims the right to "act according to my own laws."', 'date': '2017-07-19'}

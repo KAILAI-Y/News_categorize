@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Throws Support Behind Ron DeSantis For Florida Governor', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/trump-ron-desantis_us_5a3d53cae4b06d1621b439b4', 'short_description': 'DeSantis is widely expected to run for governor in 2018.', 'date': '2017-12-22'}

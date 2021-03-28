@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '35 Hilarious Holiday Card Outtakes', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/holiday-card-outtakes_us_5a2563cee4b03350e0b826e2', 'short_description': 'These kids were clearly not in the Christmas spirit.', 'date': '2017-12-04'}

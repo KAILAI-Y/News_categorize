@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Santa Fe High Schoolers Held Gun Violence Protest 1 Month Before Shooting', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/santa-fe-shooting-gun-violence-protest_us_5aff0885e4b07309e057b83e', 'short_description': 'A small group took part in the national protest on April 20.', 'date': '2018-05-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Is Fine, White House Says, And Will Get a Physical Soon To Prove It', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-physical-exam_us_5a29c0a0e4b069ec48ac008d', 'short_description': 'Concern over slurred words called ‘ridiculous’', 'date': '2017-12-08'}

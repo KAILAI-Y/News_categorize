@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Says Secret Rounds Of Golf Make Donald Trump A Better President', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-golfs-a-lot_us_5a4be59ce4b025f99e1e22ac', 'short_description': 'But Obama was apparently a slacker whenever he played golf.', 'date': '2018-01-02'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Begs Britain To Ignore Donald Trump And 'Take Us Back'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-plea-britain_us_5a2276e8e4b03350e0b6fd8a', 'short_description': '"We\'ll even drink tea."', 'date': '2017-12-02'}

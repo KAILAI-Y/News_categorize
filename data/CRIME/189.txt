@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Human Foot Washed Ashore In Canada Is 13th Found Since 2007', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/human-foot-washed-ashore-in-canada-is-13th-found-since-2007_us_5a344d5ae4b040881beaa8d7', 'short_description': '"It\'s just a freak thing," said the man who made the most recent find.', 'date': '2017-12-15'}

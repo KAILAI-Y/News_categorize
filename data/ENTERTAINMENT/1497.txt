@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ryan Reynolds Sure Knows How To Wish Betty White A Happy Birthday', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/ryan-reynolds-betty-white_us_5a60b018e4b01f3bca58ed35', 'short_description': 'He even recruits Deadpool.', 'date': '2018-01-18'}

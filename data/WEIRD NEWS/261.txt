@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Here's How Not To Bring Home Your Christmas Tree", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/christmas-tree-bring-home-car_us_5a1e7ff7e4b0dc52b02a6257', 'short_description': 'Nope.', 'date': '2017-11-29'}

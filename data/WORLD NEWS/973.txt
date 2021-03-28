@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S. Strikes ISIS In Yemen For The First Time, Killing Dozens Of Militants', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/us-strikes-isis-yemen_us_59e5bf3de4b02a215b32a0dc', 'short_description': 'The terror group has claimed responsibility for a series of attacks in the country since 2015.', 'date': '2017-10-17'}

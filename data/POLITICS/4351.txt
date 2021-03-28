@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Woman Says Alabama Senate Nominee Roy Moore Sexually Assaulted Her When She Was 14', 'authors': 'Sebastian Murdock and Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-sexual-advances_us_5a04984ae4b03deac08bf667', 'short_description': '“I wanted it over with — I wanted out."', 'date': '2017-11-09'}

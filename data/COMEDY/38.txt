@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Uses Oprah Analogy To Ridicule Trump-Hannity Bedtime Chats', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-hannity-friendship_us_5afaa096e4b09a94524bce56', 'short_description': '"Sean, what are you wearing?"', 'date': '2018-05-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'With Supreme Court Appeal, Texas Wants To Keep Congressional Map Intact', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/texas-gerrymandering_us_59984b2ee4b0e8cc855dff59', 'short_description': 'Texas Gov. Greg Abbott wants to keep boundaries intact for the 2018 election.', 'date': '2017-08-19'}

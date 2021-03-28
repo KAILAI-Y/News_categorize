@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Internet Pioneers Call For Congress To Stop FCC Vote And Keep Net Neutrality Alive', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/internet-pioneers-call-for-ajit-pai-to-cancel-vote-and-keep-net-neutrality-alive_us_5a2eec8ee4b078950282ce0f', 'short_description': '"It should be stopped."', 'date': '2017-12-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ted Cruz Boasts That GOP Is The Party Of Homer Simpson; Twitter Dies Laughing', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/ted-cruz-gop-is-homer-simpsons-party_us_5a8f3f03e4b0ee6416a14c00', 'short_description': "D'oh.", 'date': '2018-02-23'}

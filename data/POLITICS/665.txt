@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '9 Democrats Sign Up To Help Wall Street Steal Cars', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/democrats-wall-street-steal-cars_us_5ada52d5e4b01c279db45991', 'short_description': "They're backing a bill to undermine the Consumer Financial Protection Bureau.", 'date': '2018-04-22'}

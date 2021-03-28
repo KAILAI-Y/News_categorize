@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Will Not Campaign For Roy Moore In Alabama, White House Says', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-roy-moore_us_5a1c3f8ae4b0e771d6b7c949', 'short_description': 'Trump has expressed implicit support for the alleged sexual predator.', 'date': '2017-11-27'}

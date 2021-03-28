@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'New Video Shows Just How Nasty Eagles Fans Can Be As Super Bowl Nears', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/philadelphia-eagles-abusive-fans-video_us_5a686706e4b0e5630074f366', 'short_description': 'What a foul-mouthed flock.', 'date': '2018-01-24'}

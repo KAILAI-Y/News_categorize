@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Venezuela's President Maduro Mocks Trump After U.S. Sanctions", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/venezuela-maduro-sanctions_us_597f836ae4b00bb8ff389fb7', 'short_description': 'The move follows Sunday’s election of a legislative superbody that Washington denounced as a “sham” vote.', 'date': '2017-07-31'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report: Music Promoter Offered To Set Up Putin, Trump Meeting During Campaign', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/music-promoter-putin-trump-meet_us_5a336a53e4b040881be9342f', 'short_description': "The same man arranged Donald Trump Jr.'s meeting with a Kremlin-linked lawyer.", 'date': '2017-12-15'}

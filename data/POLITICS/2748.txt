@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Voters Have Turned On Steve Bannon', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-voters-steve-bannon_us_5a5ce230e4b04f3c55a4eeab', 'short_description': 'Just 1 percent say they side with Bannon over the president.', 'date': '2018-01-15'}

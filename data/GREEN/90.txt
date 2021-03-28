@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Nebraska', 'authors': 'Michael Brune, ContributorExecutive Director, Sierra Club', 'link': 'https://www.huffingtonpost.com/entry/nebraska_us_5a135f79e4b08b00ba673313', 'short_description': 'We must continue to promote clean, renewable energy sources that will make dirty fuels obsolete.', 'date': '2017-11-20'}

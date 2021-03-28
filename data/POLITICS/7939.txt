@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Chris Matthews On Trump's Family: At Least Mussolini Executed His Son-In-Law", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/chris-matthews-jared-kushner-mussolini_us_5956ade5e4b05c37bb7e56ee', 'short_description': 'The host was discussing Jared Kushner -- obviously without thinking.', 'date': '2017-06-30'}

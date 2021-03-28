@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '2 Women Accuse Democratic Assemblyman Of Sexual Harassment And Assault', 'authors': 'Jenavieve Hatch', 'link': 'https://www.huffingtonpost.com/entry/matt-dababaneh-accused-sexual-assault_us_5a25b85de4b086e4e503c8fa', 'short_description': 'Matt Dababneh allegedly forced a woman to watch him masturbate in January 2016.', 'date': '2017-12-04'}

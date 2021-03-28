@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Have A Growing Edge Over GOP In Party Affiliation', 'authors': 'Grace Sparks and Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/democrats-edge-party-affiliation_us_59370c45e4b0aba888b97beb', 'short_description': 'And more of the latest polling news.', 'date': '2017-06-06'}

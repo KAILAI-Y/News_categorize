@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'South Korean Envoys Meet Kim Jong Un In Pyongyang', 'authors': 'Christine Kim, Reuters', 'link': 'https://www.huffingtonpost.com/entry/korean-envoys-meet-pyongyang_us_5a9d26a1e4b0479c0254eb87', 'short_description': 'The visit is aimed at encouraging North Korea and the United States to talk.', 'date': '2018-03-05'}

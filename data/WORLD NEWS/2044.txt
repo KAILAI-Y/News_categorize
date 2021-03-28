@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'While Trump Slams London Mayor, Other World Leaders Send Support', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/world-leaders-trump-london-response_us_59343a08e4b0c242ca251780', 'short_description': 'One of these things is not like the others...', 'date': '2017-06-04'}

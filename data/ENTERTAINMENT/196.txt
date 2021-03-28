@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rick Moranis To Appear On Netflix 'SCTV' Documentary", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/rick-moranis-netflix-sctv-documentary_us_5af49ca3e4b00d7e4c18b25b', 'short_description': 'The actor has kept out of the spotlight since the late ’90s.', 'date': '2018-05-10'}

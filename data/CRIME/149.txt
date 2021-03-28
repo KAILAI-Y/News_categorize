@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Man Claims He's Infamous Alcatraz Escapee In Newly Surfaced Letter", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/alcatraz-escape-letter_us_5a6993e2e4b0022830095f09', 'short_description': 'The letter says all three inmates survived the escape.', 'date': '2018-01-25'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The NAACP Has A Plan To Overhaul The Nation's Charter Schools", 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/naacp-charter-schools_us_59777905e4b0c95f375f14e3', 'short_description': "After traveling the country, these are the group's recommendations.", 'date': '2017-07-26'}

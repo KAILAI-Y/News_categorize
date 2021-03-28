@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Works To Release Republican Memo Despite FBI Warning', 'authors': 'Steve Holland and Warren Strobel, Reuters', 'link': 'https://www.huffingtonpost.com/entry/white-house-gop-memo-fbi-warning_us_5a73507ce4b0905433b21c85', 'short_description': 'Democrats have called the four-page memo misleading.', 'date': '2018-02-01'}

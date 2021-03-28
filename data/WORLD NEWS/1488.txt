@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Trump Claims Mexico's President Praised His Border Policy. Mexico Says Nope.", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/mexico-trump-border-phone-call_us_598228a7e4b00f0084adce0b', 'short_description': "No such phone call took place, says Mexico's foreign affairs ministry.", 'date': '2017-08-02'}

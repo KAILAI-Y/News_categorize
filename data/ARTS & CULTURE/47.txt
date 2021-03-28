@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "As Trump's Scandals Mount, Filmmakers Gravitate Toward Short-Form Responses", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/short-films-in-trumps-america_us_5a006712e4b0baea263352c1', 'short_description': 'Artists are using nimble formats to comment on current events.', 'date': '2017-11-07'}

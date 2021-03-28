@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '15 Stunning Caribbean Vacation Rentals With Infinity Pools', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/stunning-caribbean-vacation-rentals-with-infinity-pools_us_5a9eed6ae4b0e9381c12fc9f', 'short_description': '*Cue wanderlust*', 'date': '2018-03-06'}

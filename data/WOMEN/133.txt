@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "15 Trailblazers On What History Books Will Say About Women's Activism In 2018", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/15-trailblazers-history-books-women-activism-2018_us_5a95c079e4b09c872bae8a0b', 'short_description': "Happy Women's History Month!", 'date': '2018-03-01'}

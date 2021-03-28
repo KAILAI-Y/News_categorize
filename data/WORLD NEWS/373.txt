@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Syrian Kurdish Fighters Capture 2 Members Of ISIS 'Beatles' Cell: Reports", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/syrian-kurdish-fighters-capture-isis-beatles_us_5a7c9b06e4b044b3821ab808', 'short_description': 'The terrorist gang is known for beheading Western hostages on camera.', 'date': '2018-02-08'}

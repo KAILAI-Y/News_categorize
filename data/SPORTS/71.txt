@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Aly Raisman Sues U.S. Olympic Committee For Silence On Larry Nassar', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/aly-raisman-sues-us-olympic-committee_us_5a993edbe4b089ec35393b79', 'short_description': '"I refuse to wait any longer for these organizations to do the right thing."', 'date': '2018-03-02'}

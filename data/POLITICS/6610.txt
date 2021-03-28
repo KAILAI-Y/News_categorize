@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: More CEOs Quit Trump's Advisory Council", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-more-ceos-quit-trumps-advisory-council_us_5992d42fe4b090964299c024', 'short_description': 'And the latest on what the president said about hate groups.', 'date': '2017-08-15'}

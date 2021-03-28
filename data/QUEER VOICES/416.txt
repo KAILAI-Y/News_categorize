@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Latin American Human Rights Court Urges Region To Approve Same-Sex Marriage', 'authors': 'Enrique Andres Pretel, Reuters', 'link': 'https://www.huffingtonpost.com/entry/latin-america-same-sex-marriage-court_us_5a577f58e4b0330eab08b249', 'short_description': 'LGBTQ rights advocates celebrated the Jan. 9 decision.', 'date': '2018-01-11'}

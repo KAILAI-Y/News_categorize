@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "‘Springsteen On Broadway’ Is The 'Rock and Roll Storybook' Dreams Are Made Of", 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/springsteen-on-broadway-review_us_59df7e77e4b0eb18af06b770', 'short_description': 'The iconic rocker takes on a whole new stage.', 'date': '2017-10-13'}

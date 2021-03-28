@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Rohingya Muslims Beg Myanmar Authorities For Safe Passage', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/rohingya-myanmar_us_59bee600e4b0edff971d0362', 'short_description': '“We’re terrified. We’ll starve soon and they’re threatening to burn down our houses,” one villager told Reuters.', 'date': '2017-09-17'}

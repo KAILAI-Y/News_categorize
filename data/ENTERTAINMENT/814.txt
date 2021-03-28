@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Billy Bush Reveals Why He Didn’t Shut Down Donald Trump's Lewd Comments", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/billy-bush-donald-trump-bill-maher_us_5aacc6e4e4b0337adf83f29f', 'short_description': '"He was the cash cow."', 'date': '2018-03-17'}

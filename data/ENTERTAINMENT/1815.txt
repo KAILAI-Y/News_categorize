@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Mark Hamill To Ajit Pai: Corporate Shills Have No Right To Wield A Light Saber', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/ajitpai-unworthy-light-saber_us_5a35a23ae4b040881beb2196', 'short_description': '"Jedis act selflessly for the common man, #AJediYouAre NOT."', 'date': '2017-12-17'}

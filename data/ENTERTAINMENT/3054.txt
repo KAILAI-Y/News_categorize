@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "24 Perfect Tweets About 'The Bachelorette' Season 13 'Men Tell All'", 'authors': 'Emma Gray, Claire Fallon, and Nick Offenberg', 'link': 'https://www.huffingtonpost.com/entry/perfect-tweets-the-bachelorette-season-13-men-tell-all_us_597fb8ade4b00bb8ff390052', 'short_description': '"Who\'s Lee?"', 'date': '2017-08-01'}

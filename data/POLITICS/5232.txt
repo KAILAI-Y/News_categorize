@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ivana Trump Wants President Trump To Keep Tweeting', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/ivana-trump-president-twitter_us_59d64d55e4b0cde458736de3', 'short_description': 'Because The New York Times "is going to twist every single word" of his, she explained.', 'date': '2017-10-05'}

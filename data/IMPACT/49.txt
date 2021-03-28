@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Meet 4 Zero-Waste Pioneers Helping Shoppers Ditch Plastic', 'authors': 'Tess Riley', 'link': 'https://www.huffingtonpost.com/entry/netherlands-zero-waste_us_5a96c852e4b07dffeb6eb2ec', 'short_description': '"This is a movement here to stay."', 'date': '2018-03-01'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'How To Stay Updated On The News Without Losing Your Mind', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/anxiety-from-reading-the-news_us_5a577c8be4b0330eab08ab34', 'short_description': "Because it's only becoming more of a struggle.", 'date': '2018-01-12'}

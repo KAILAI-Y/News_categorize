@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mitt Romney Announces Run For Utah Senate Seat', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/romney-running-for-senate_us_5a4d0bf2e4b06d1621bc7c4f', 'short_description': 'The former presidential nominee and harsh Trump critic is slated to be the clear front-runner.', 'date': '2018-02-16'}

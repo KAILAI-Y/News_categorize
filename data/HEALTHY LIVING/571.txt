@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Suicide 'Clusters' May Appear In Army Units", 'authors': 'Andrew M. Seaman, Reuters', 'link': 'https://www.huffingtonpost.com/entry/suicide-clusters-may-appear-in-army-units_us_597a0c3fe4b02a8434b4a872', 'short_description': 'One suicide attempt in a unit can foreshadow future attempts by other soldiers.', 'date': '2017-07-27'}

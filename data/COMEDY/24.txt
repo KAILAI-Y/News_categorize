@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon Reveals His Viewers' Biggest Wedding Fails", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-wedding-fails_us_5affca68e4b07309e05820b1', 'short_description': '"We sat there confused as the bride smacked the groom in the face."', 'date': '2018-05-19'}

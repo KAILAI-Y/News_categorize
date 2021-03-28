@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Jr.'s Valentine's Day Gift Ideas Are 'Grounds For Divorce'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-valentines-day-tweet_us_5a7c0524e4b08dfc93001223', 'short_description': '"I don\'t know one woman that would be happy to get this as a present."', 'date': '2018-02-08'}

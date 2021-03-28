@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Senate Health Care Bill Is Still Not Dead', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/senate-health-care-bill-not-dead_us_596ce63de4b0b95f893cfdd4', 'short_description': 'Does any Republican want to just kill this thing?', 'date': '2017-07-17'}

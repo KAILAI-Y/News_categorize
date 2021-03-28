@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'How Obama Won The French Election', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/macron-us-france-democrats_us_593ecf20e4b02402687bbd93', 'short_description': 'A political consulting firm founded by former Obama volunteers helped Emmanuel Macron take over French politics.', 'date': '2017-06-19'}

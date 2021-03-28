@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "George W. Bush Reportedly Sounds Off On Trump: 'Sorta Makes Me Look Pretty Good'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/george-w-bush-donald-trump-makes-me-look-good_us_5a9e124ae4b0479c025656fa', 'short_description': 'Former president zings Trump in candid comments.', 'date': '2018-03-06'}

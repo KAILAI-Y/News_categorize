@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Pink's Daughter Is So Over Jimmy Kimmel's Halloween Candy Prank", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/pinks-daughter-is-so-over-jimmy-kimmels-halloween-candy-prank_us_59fc7455e4b0b0c7fa399ab8', 'short_description': '"You promise? You don\'t, do you?"', 'date': '2017-11-03'}

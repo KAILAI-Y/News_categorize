@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Senate Is About To Confirm A Federal Judge Who Compared Abortion To Slavery', 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/john-bush-judge-trump-abortion_us_596f960be4b01696c6a239f6', 'short_description': 'NARAL is pressuring five GOP senators to help sink John Bush’s nomination.', 'date': '2017-07-19'}

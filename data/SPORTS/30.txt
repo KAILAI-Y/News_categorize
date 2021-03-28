@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': '32-Year-Old Minor-Leaguer Called Up To Lakers Aces NBA Debut', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/andre-ingram-lakers-debut_us_5ace22dce4b09212968df66c', 'short_description': '"The crowd, the lights -- it was once in a lifetime," Andre Ingram said after scoring 19 points.', 'date': '2018-04-11'}

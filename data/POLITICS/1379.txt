@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Political Obituary For The President’s Son-In-Law', 'authors': 'TomDispatch, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-youre-fired_us_5ab02155e4b02dedb93ba249', 'short_description': "Jared Kushner, you're fired!", 'date': '2018-03-19'}

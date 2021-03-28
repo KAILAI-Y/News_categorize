@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Kendrick Lamar Stops White Fan Rapping N-Word Onstage', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/kendrick-lamar-white-fan-n-word-onstage_us_5b031274e4b0a046186eb2ac', 'short_description': 'The Pulitzer Prize-winning artist gave her another shot.', 'date': '2018-05-21'}

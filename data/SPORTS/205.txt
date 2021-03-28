@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Shaun White Dismisses Sexual Harassment Allegations As 'Gossip'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/shaun-white-sexual-harassment-allegations-gossip_us_5a84020ce4b0adbaf3d8f2ed', 'short_description': 'He later admitted that "it was a poor choice of words."', 'date': '2018-02-14'}

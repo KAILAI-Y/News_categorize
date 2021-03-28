@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Conor McGregor Calls Floyd Mayweather's Strip Club A 'Crack Den'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/conor-mcgregor-calls-floyd-mayweathers-strip-club-a-crack-den_us_59a033d8e4b0821444c2c3c6', 'short_description': '"And that\'s no disrespect to the people that are in there."', 'date': '2017-08-25'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'U.S. Energy Regulator Rejects Plan To Aid Coal, Nuclear', 'authors': 'Timothy Gardner, Reuters', 'link': 'https://www.huffingtonpost.com/entry/us-coal-nuclear_us_5a53e3b4e4b0efe47ebbe208', 'short_description': 'The move was a blow to Energy Secretary Rick Perry.', 'date': '2018-01-08'}

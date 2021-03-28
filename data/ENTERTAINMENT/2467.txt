@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Lorne Michaels Defends SNL's Silence On Harvey Weinstein: 'It's A New York Thing'", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/lorne-michaels-snl-harvey-weinstein_us_59db3c27e4b072637c452329', 'short_description': 'The omission followed days of silence from other late-night comedians.', 'date': '2017-10-09'}

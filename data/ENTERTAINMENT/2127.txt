@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ben Affleck Maybe Joked About Sexual Harassment, And People Are Angry', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/ben-affleck-justice-league-press-tour_us_5a0b5fcce4b0b17ffce0f5e9', 'short_description': "How about we just don't?", 'date': '2017-11-15'}

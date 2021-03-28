@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Never Trust The Plug: The Latest Episode Of ‘Atlanta’ Teaches The Value Of Integrity', 'authors': 'Julia Craven and Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/atlanta-season-2-episode-2_us_5aa6dbe7e4b03c9edfae9baf', 'short_description': "Also, don't take your durag off for a white man.", 'date': '2018-03-12'}

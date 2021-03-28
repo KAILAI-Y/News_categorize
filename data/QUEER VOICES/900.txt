@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "For Jake Shears, Wanting To 'Make People Smile' Helped Him Become A Star", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/jake-shears-justin-sayre_us_59a584fce4b0446b3b8691d7', 'short_description': 'The Scissor Sisters frontman recalls his rise from go-go dancer to glam-pop rocker.', 'date': '2017-08-29'}

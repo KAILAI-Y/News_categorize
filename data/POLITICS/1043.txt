@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Says U.S. Will Use Military To Protect Border With Mexico', 'authors': 'Steve Holland, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-border-military_us_5ac3b24ae4b09712fec51bff', 'short_description': 'The president said he discussed the idea with Defense Secretary Jim Mattis.', 'date': '2018-04-03'}

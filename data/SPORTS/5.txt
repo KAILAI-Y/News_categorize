@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'NFL Bans Kneeling During The National Anthem', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/nfl-penalty-kneeling-national-anthem_us_5b052eb7e4b05f0fc8431d64', 'short_description': 'Teams can set their own policies for punishing players.', 'date': '2018-05-23'}

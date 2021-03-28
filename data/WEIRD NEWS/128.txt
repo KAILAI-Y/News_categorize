@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Friends That Never Text Back Are Always On Their Phones When You See Them’", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reddit-shower-thoughts-february-2018-part-4_us_5a900cade4b03b55731b3cf5', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-02-23'}

@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Nonprofits Thrive On An Open Internet', 'authors': 'Kristin Nimsger, ContributorChief Executive Officer at Social Solutions', 'link': 'https://www.huffingtonpost.com/entry/nonprofits-thrive-on-an-open-internet_us_5a2690b5e4b087120d865f1f', 'short_description': 'Preserving Net Neutrality is essential to social impact.', 'date': '2017-12-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Strategic Attack On Black Athletes", 'authors': 'Andrew Abramson, ContributorOpinion columnist', 'link': 'https://www.huffingtonpost.com/entry/trumps-strategic-attack-on-black-athletes_us_59cbba61e4b028e6bb0a672c', 'short_description': "It's all part of the president's strategy to distract his base.", 'date': '2017-09-27'}

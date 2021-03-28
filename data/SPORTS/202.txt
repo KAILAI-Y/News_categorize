@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Shaun White Makes History With Gold Medal Win In Halfpipe', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/shaun-white-pyeongchang-snowboarding-medal_us_5a836ef8e4b02b66c5130966', 'short_description': 'He became the first person to win three gold medals in Olympic snowboarding competitions.', 'date': '2018-02-14'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kim Cattrall Offers Curt Response To Cynthia Nixon's New York Governor Run", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/kim-cattrall-cynthia-nixon-governor_us_5ab3c354e4b054d118e08316', 'short_description': "Sorry, Cynthia, she's just not that into you.", 'date': '2018-03-23'}

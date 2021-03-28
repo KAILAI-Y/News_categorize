@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump To Dreamers: 'Gotcha, Suckers!'", 'authors': 'Philip Rotner, Contributor@PhilipRotner, Attorney and Columnist', 'link': 'https://www.huffingtonpost.com/entry/trump-to-dreamers-gotcha-suckers_us_59aeb232e4b0c50640cd61ef', 'short_description': 'Trump turns DACA dreams into nightmares.', 'date': '2017-09-05'}

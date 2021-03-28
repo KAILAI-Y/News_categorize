@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'What Next For Kurdistan?', 'authors': 'Aswo Safari and John Tirman, Contributors', 'link': 'https://www.huffingtonpost.com/entry/iraqi-kurdistan-referendum_us_59fa4711e4b01b4740481aa3', 'short_description': 'Assessing the fallout of September\'s referendum "disaster."', 'date': '2017-11-01'}

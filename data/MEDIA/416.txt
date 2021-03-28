@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Jake Tapper Unloads On 'Sick' And 'Disgusting' Fox News In Blistering Takedown", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jake-tapper-fox-news_us_59fa6ec0e4b01b4740482035', 'short_description': 'CNN host calls out Fox over a "deliberate lie."', 'date': '2017-11-02'}

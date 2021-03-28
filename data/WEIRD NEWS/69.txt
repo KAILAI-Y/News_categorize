@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Artist's Neon Signs Showcase The Worst Parts Of Each Social Media Platform", 'authors': 'David Moye and Damon Dahlen', 'link': 'https://www.huffingtonpost.com/entry/mike-campau-neon-social-media-signs_us_5acd2458e4b09212968c936e', 'short_description': '“I don’t think all social media is terrible," the artist insists.', 'date': '2018-04-10'}

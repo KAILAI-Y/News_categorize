@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Roy Moore Endorses Missouri GOP Candidate Who Expects 'Home Cooked Dinner At 6'", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-courtland-sykes-missouri-senate_us_5a940822e4b0ee6416a51c59', 'short_description': 'Birds of a feather ...', 'date': '2018-02-26'}

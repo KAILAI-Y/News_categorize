@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Couple Who Took In Florida Shooter: 'This Isn’t The Person We Knew'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/florida-shooting-nikolas-cruz_us_5a8ac155e4b004fc31946b11', 'short_description': '“Everything everybody seems to know, we didn’t know,” James Snead said of the 19-year-old.', 'date': '2018-02-19'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Donald Trump Learns The True Risks Of Staring At The Sun During An Eclipse', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-staring-at-the-sun_us_599be5f4e4b04c532f43fd72', 'short_description': 'BURNED!', 'date': '2017-08-22'}

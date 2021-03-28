@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Rafael Nadal Wins 10th French Open Title', 'authors': 'Martyn Herman, Reuters', 'link': 'https://www.huffingtonpost.com/entry/rafael-nadal-wins-10th-french-open-title_us_593d74a7e4b0b13f2c6b69c9', 'short_description': 'Nadal defeated Stan Wawrinka in just over two hours.', 'date': '2017-06-11'}

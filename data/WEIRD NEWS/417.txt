@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "This British Pundit Just Ate A Book On TV Because This Year Isn't Weird Enough", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/british-pundit-eats-a-book_us_593c4696e4b0c5a35ca01a78', 'short_description': 'The Labour Party won big and Matthew Goodwin is a man of his word.', 'date': '2017-06-10'}

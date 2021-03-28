@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Top GOP Races To Watch In 2018', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/top-gop-races-2018_us_5a455364e4b06d1621b7bd52', 'short_description': 'The midterm elections are shaping up to be one of the most contentious in recent history.', 'date': '2017-12-31'}

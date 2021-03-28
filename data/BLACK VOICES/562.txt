@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Chance The Rapper Livestreams Traffic Stop In Chicago', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/chance-the-rapper-chicago-police-livestream_us_59dc7f5ee4b0208970cf4f70', 'short_description': '"I just want y\'all to be here in case it gets out of hand."', 'date': '2017-10-10'}

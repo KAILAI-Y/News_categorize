@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's What States Have Been Doing On Gun Control Since The Florida Shooting", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/gun-control-states_us_5a8dba1fe4b03414379cb763', 'short_description': 'The massacre in Parkland has reignited the gun debate nationwide.', 'date': '2018-02-21'}

@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'WhatsApp Co-Founder To Leave Company Amid Disagreements With Facebook', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/jan-koum-whats-app-facebook_us_5ae787f9e4b055fd7fced7d5', 'short_description': "Jan Koum reportedly differed with WhatsApp's corporate parent over encryption and user privacy.", 'date': '2018-04-30'}

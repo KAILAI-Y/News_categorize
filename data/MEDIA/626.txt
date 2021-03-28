@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Tinder Users Are Swiping Left On Trump Fans And Sean Hannity Can't Deal", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-trump-tinder_us_59551869e4b05c37bb7c9535', 'short_description': 'He gets in full "You kids get off my lawn" mode.', 'date': '2017-06-29'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: Congressional Republicans Ponder Next Moves", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-congressional-republicans-ponder-next-moves_us_596f4487e4b0000eb1973ed5', 'short_description': 'An uncertain road ahead for the GOP', 'date': '2017-07-19'}

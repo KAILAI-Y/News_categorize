@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Alec Baldwin Regrets Having 'Bullied Women'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwin-says-ive-bullied-women_us_59fc4cb9e4b0b0c7fa397338', 'short_description': 'The actor admitted he\'s "treated women in a very sexist way."', 'date': '2017-11-03'}

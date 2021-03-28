@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jim Carrey Bestows Scott Pruitt With A Savage Nickname In Latest Painting', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jim-carrey-scott-pruitt-epa_us_5af25b4ce4b0a0d601e79cf8', 'short_description': '"EPA" takes on a whole new meaning.', 'date': '2018-05-09'}

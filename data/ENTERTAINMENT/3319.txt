@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Marvel Studios President 'Thanks God' For 'Wonder Woman'", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/marvel-studios-president-says-thank-god-for-wonder-woman_us_5953c7a2e4b05c37bb7b2394', 'short_description': 'Kevin Feige credits the DC Comics movie with empowering female superheroes.', 'date': '2017-06-28'}

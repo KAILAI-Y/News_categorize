@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Jim Bakker Says God Will Punish You For Making Fun Of Him', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jim-bakker-stop-making-fun-of-me_us_59e593f3e4b0a2324d1d2f54', 'short_description': '"I warned you but you didn’t listen."', 'date': '2017-10-17'}

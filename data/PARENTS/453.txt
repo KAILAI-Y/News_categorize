@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Funny Dad Shows How To Communicate With Babies And Toddlers', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/funny-dad-shows-how-to-communicate-with-babies-and-toddlers_us_598d39f9e4b0909642960f53', 'short_description': 'Accurate.', 'date': '2017-08-11'}

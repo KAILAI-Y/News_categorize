@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Obama: It's 'Frustrating' To Have To Convince Lawmakers Not To Inflict 'Real Human Suffering'", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/obama-health-care_us_59c2a2d1e4b0186c22077cb3', 'short_description': '"It is aggravating."', 'date': '2017-09-20'}

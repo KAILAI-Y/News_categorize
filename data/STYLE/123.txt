@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'ASOS and GLAAD Paired Up To Create A Gender-Fluid Clothing Line', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/asos-and-glaad-just-paired-up-to-create-a-gender-neutral-clothing-line_us_5a038120e4b0937b510f6d5b', 'short_description': 'All proceeds from the collection go directly to GLAAD.', 'date': '2017-11-09'}

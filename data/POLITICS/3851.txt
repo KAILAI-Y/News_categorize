@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report: Jared Kushner Met With Special Counsel To Talk About Michael Flynn And Russia', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-special-counsel_us_5a1fc5bfe4b0a8581e67fba3', 'short_description': 'They both attended a meeting with Russian ambassador Sergey Kislyak.', 'date': '2017-11-30'}

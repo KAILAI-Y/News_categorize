@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Judge Halts Razing Of Miami Forest Eyed For Walmart Center', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/judge-halts-forest-destruction-for-walmart_us_5a2d478fe4b0a290f0517999', 'short_description': "Environmentalists say the land's development would harm 20 endangered plants and animals.", 'date': '2017-12-10'}

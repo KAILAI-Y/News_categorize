@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Fox News Is 'Much More Important' Than CNN, Trump Tweets", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-fox-moreimportant-thancnn_us_5a1a0fbbe4b0d4906caf2c03', 'short_description': "The dig follows a Justice Department lawsuit to block AT&T's merger with Time Warner, which owns CNN.", 'date': '2017-11-26'}

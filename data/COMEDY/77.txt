@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Fake Melania Trump Notes The Spot-On Detail About Her New Waxwork', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/fake-melania-trump-colbert_us_5aed64d0e4b041fd2d26ed5d', 'short_description': 'The bogus FLOTUS also told "Late Show" host Stephen Colbert how the figure could soon come in handy.', 'date': '2018-05-05'}

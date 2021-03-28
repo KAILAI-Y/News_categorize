@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Court Rules TEPCO, Japanese Government Liable For 2011 Fukushima Nuclear Disaster', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/fukushima-class-action-lawsuit_us_59dc65f2e4b0208970cf46de', 'short_description': "It's the largest class-action lawsuit filed over the 2011 nuclear disaster in the region.", 'date': '2017-10-10'}

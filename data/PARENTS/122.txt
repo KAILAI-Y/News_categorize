@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Adam Levine Announces He And Behati Prinsloo Are Having Another Girl', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/adam-levine-announces-he-and-behati-prinsloo-are-having-another-girl_us_5a01cc62e4b0368a4e871c75', 'short_description': 'And he said Ellen DeGeneres can help name her!', 'date': '2017-11-07'}

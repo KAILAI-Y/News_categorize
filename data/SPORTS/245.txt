@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Olympic Snowboarding Coach Keeps Calm During Competition In Most Low Key Way', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/finnish-coach-hobby-winter-olympics_us_5a801cf7e4b0c6726e14455d', 'short_description': '"Someone please find out what this man is making!!!"', 'date': '2018-02-11'}

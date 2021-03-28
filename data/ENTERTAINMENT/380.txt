@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here’s What Is Coming To Amazon Prime In May 2018', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/amazon-prime-coming-may_us_5ade019ae4b036e7aeb5125f', 'short_description': "All the options you'll have this month.", 'date': '2018-04-26'}

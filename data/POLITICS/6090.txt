@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Congratulates Texas Governor On Harvey Recovery So Far', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-texas-harvey-recovery_us_59ab0881e4b0b5e530ff1337', 'short_description': 'The president said he saw "a lot of happiness" in a Houston shelter.', 'date': '2017-09-02'}

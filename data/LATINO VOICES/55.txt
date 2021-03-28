@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Watch How This School In Puerto Rico Reacts When Power Returns After 112 Days', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/puerto-rico-school-reacts-electricity-returns_us_5a5f5b21e4b0ee2ff32c4ff6', 'short_description': 'The viral video is both sweet and heartbreaking.', 'date': '2018-01-17'}

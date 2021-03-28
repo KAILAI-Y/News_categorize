@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's A Glimpse Of Donald Trump's Financial Interests", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-financial-disclosure_us_59444c81e4b01eab7a2dbe6f', 'short_description': 'Trump has thus far refused to release his tax returns.', 'date': '2017-06-16'}

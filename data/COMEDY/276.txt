@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Issues Warning About Donald Trump's Apparent Flip On Gun Control", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-guns_us_5a990832e4b0a0ba4ad1ffa7', 'short_description': 'Don\'t get excited about the new "gun-grabber-in-chief" just yet, said Noah.', 'date': '2018-03-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The RNC Asked Tweeters To Tell Donald Trump Their Priorities. They Didn't Hold Back.", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rnc-trump-priorities-twitter_us_5a9112e4e4b03b55731c65a1', 'short_description': '"Stop tweeting like a crazy loon."', 'date': '2018-02-24'}

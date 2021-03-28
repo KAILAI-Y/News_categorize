@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Star U.S. Diplomat Quits With Fiery Letter To Rex Tillerson', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/rex-tillerson-diplomat-letter_us_5a2d3fbae4b073789f6a91c5', 'short_description': 'The Trump administration has a “stinging disrespect” for diplomats, she wrote.', 'date': '2017-12-10'}

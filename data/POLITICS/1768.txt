@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Growing List Of Trump Administration Departures Will Make Your Head Spin', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-administration-resignations_us_5a979725e4b09c872bb121e9', 'short_description': 'A revolving door never spun so fast.', 'date': '2018-03-01'}

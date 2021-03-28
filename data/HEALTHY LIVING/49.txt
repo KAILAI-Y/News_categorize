@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Just A Reminder That You Should Get Regular Physicals', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/benefit-of-physicals_us_5a2960b9e4b0fa7986129cc3', 'short_description': "Yes, even if you're healthy.", 'date': '2017-12-08'}

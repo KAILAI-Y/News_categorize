@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver: ‘Yes, It F**king Is’ Time To Talk About Gun Control', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-florida-shooting_us_5a8a5876e4b00bc49f458a41', 'short_description': '"Last Week Tonight" host says kids are now leading the way on this debate.', 'date': '2018-02-19'}

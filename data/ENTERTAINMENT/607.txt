@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Toy Story 4' Coming To Theaters In 2019", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/toy-story-4-coming-to-theaters-in-2019_us_5ac8e289e4b07a3485e525eb', 'short_description': "It's a love story about toys.", 'date': '2018-04-07'}

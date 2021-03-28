@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration Paves Way For States To Force Medicaid Recipients To Work', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/medicaid-work-requirement_us_5a574a27e4b0a300f906267c', 'short_description': "It's an enormous shift in decades-long policy.", 'date': '2018-01-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Monday\'s Morning Email: “I Am The Devil" -- How Charles Manson Mesmerized America', 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-i-am-the-devil-how-charles-manson-mesmerized-america_us_5a12c661e4b0dd63b1ab83eb', 'short_description': 'The cult leader was 83.', 'date': '2017-11-20'}

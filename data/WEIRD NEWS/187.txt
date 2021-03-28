@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'This Penis-Shaped Weather Map Aroused A Storm Of Hilarity', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/penis-shaped-storm-gulf-coast_us_5a5e44d4e4b0c59bc1f94e8e', 'short_description': "That's a hard storm throbbing through the South.", 'date': '2018-01-16'}

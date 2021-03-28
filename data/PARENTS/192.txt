@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '18 Tweets From Parents That Prove Halloween Can Be The Worst', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/tweets-from-parents-that-prove-halloween-can-be-the-worst_us_59e8cae2e4b0aa3f77dc4cb0', 'short_description': 'Sugar-fueled kids are just the beginning...', 'date': '2017-10-19'}

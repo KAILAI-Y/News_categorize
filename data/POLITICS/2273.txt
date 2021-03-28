@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Fed Took On Wells Fargo. What About Everyone Else?', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/janet-yellen-banks-trust_us_5a78c467e4b00f94fe9408a1', 'short_description': "Janet Yellen's parting shot won't kill the greed.", 'date': '2018-02-06'}

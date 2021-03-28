@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Woman Dials Up The Sexiness With Boudoir Shoot In A T-Rex Costume', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/t-rex-boudoir-shoot_us_595ff5cee4b0615b9e919c3c', 'short_description': '"We tried to do a picture of her pulling the robe off her shoulder but her arms weren’t long enough.”', 'date': '2017-07-07'}

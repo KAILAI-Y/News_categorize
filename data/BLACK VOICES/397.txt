@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Oprah Calls For Day When No One Has To Say 'Me Too' During Golden Globes Speech", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/oprah-golden-globes-speech_us_5a52451ae4b089e14dbbbf4f', 'short_description': 'The media mogul is the first black woman to receive the Cecil B. DeMille Award.', 'date': '2018-01-08'}

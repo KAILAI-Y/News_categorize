@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Veep' Is Ending And Fans Just Can't Handle The News", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/veep-ending-hbo-season-7-last_us_59b0f961e4b0354e440f56b4', 'short_description': '"Because even Hollywood\'s best writers can\'t compete with the spectacle that is the real thing."', 'date': '2017-09-07'}

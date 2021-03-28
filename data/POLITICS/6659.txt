@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Racists Have A Friend In The White House', 'authors': 'Joseph A. Palermo, ContributorAuthor, historian, professor', 'link': 'https://www.huffingtonpost.com/entry/racists-have-a-friend-in-the-white-house_us_599204d8e4b0ed1f464c0d35', 'short_description': 'Trump avoided blaming the Nazis, because he needs their votes.', 'date': '2017-08-14'}

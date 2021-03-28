@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Cardi B Doesn't Owe You Anything", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/cardi-b-doesnt-owe-you-anything_us_5ac73f55e4b07a3485e33766', 'short_description': "Remember: Cardi's success is not ours.", 'date': '2018-04-19'}

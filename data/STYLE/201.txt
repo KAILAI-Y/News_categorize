@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Makeup Hacks And Tips Everyone Should Know', 'authors': 'Minou Clark', 'link': 'https://www.huffingtonpost.com/entry/makeup-hacks_us_59ce8567e4b05f005d3426e2', 'short_description': 'So many hacks, so little time.', 'date': '2017-10-04'}

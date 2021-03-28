@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Uber Has Picked A New CEO. Here's What He Needs To Do Out Of The Gate.", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/uber-new-ceo-now-what_us_59a432f1e4b0821444c4bc66', 'short_description': 'Dara Khosrowshahi faces a long to-do list.', 'date': '2017-08-28'}

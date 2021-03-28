@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Rock Almost Seems Happy For 'Baywatch' Razzie Award", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/dwayne-johnson-razzie-baywatch_us_5a9d7a43e4b0479c0255c809', 'short_description': '“But here’s the cool thing. The movie was so bad, they actually had to create a new category."', 'date': '2018-03-05'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Sarah Huckabee Sanders Dishes Dirt On The Trumps In Seth Meyers’ Spoof Briefing', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-fake-press-briefing-sarah-sanders_us_5a7ad1c1e4b07af4e81f6c0e', 'short_description': 'Including what Melania Trump really wants for her birthday.', 'date': '2018-02-07'}

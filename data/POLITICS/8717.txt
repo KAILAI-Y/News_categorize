@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Say Trump’s Infrastructure Push Is An Attempt To Distract From Russia Probe', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-infrastructure-russia-comey_us_59372bc4e4b0aba888b9a752', 'short_description': 'He\'s trying to "change the story."', 'date': '2017-06-06'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Often Says He Has Proof For His Claims. But He Never Comes Through.', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/trump-proof_us_59f221bce4b03cd20b80424b', 'short_description': 'Sad!', 'date': '2017-10-28'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Shirtless Tonga Olympian Pita Taufatofua Wins Olympic Opening Ceremony Again', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tonga-olympian-pita-taufatofua-wins-olympic-opening-ceremony-again_us_5a7d90d4e4b0c6726e1241f9', 'short_description': 'The Winter Games warmed up real quick!', 'date': '2018-02-09'}

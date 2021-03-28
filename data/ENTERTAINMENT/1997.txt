@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kelly Marie Tran Promotes 'The Last Jedi' In Traditional Vietnamese Garb", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/kelly-marie-tran-last-jedi_us_5a1f7557e4b0392a4ebb1cb5', 'short_description': 'The actress paid homage to her immigrant parents in a heartfelt post on Instagram.', 'date': '2017-11-30'}

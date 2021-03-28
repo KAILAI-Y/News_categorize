@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'HuffPost Headline Quiz: June 16 To June 22', 'authors': 'Christine Roberts and Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/huffpost-headline-quiz-june-16-to-june-22_us_594c41fae4b05c37bb755e58', 'short_description': 'Ready for a challenge?', 'date': '2017-06-23'}

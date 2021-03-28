@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hope Hicks Reportedly Admits To Lying, And Now People Want Answers', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/hope-hicks-white-lies_us_5a96402be4b0e6a523028375', 'short_description': 'The White House communications director said her job requires "white lies," The New York Times reports.', 'date': '2018-02-28'}

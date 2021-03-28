@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trevor Noah Spells Out Why Donald Trump Wouldn't Actually Confront A School Shooter", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-parkland-shooting_us_5a95350ce4b02cb368c5822c', 'short_description': 'Remember that bald eagle?', 'date': '2018-02-27'}

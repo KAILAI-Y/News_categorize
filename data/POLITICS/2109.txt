@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'One Year In, Betsy DeVos Has Supercharged Teacher Activism', 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/betsy-devos-education-one-year_us_5a821ba6e4b0892a03520700', 'short_description': '“She was a wake-up call to everyone who was concerned about the future of public education."', 'date': '2018-02-13'}

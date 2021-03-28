@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Lady Gaga Won't Get Sand Kicked In Her Face In This Outfit", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/lady-gaga-bikini_us_5a200b44e4b0392a4ebbaa63', 'short_description': '"Call me Princess Peach."', 'date': '2017-11-30'}

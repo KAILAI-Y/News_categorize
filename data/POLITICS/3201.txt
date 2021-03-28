@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '8.8 Million People Enrolled In Obamacare Plans For 2018', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/obamacare-enrollment-2018_us_5a3c1e31e4b0b0e5a7a0cadb', 'short_description': 'The truncated sign-up period for 2018 policies closed on Dec. 15.', 'date': '2017-12-21'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Alec Baldwin’s Latest Film Blasted For Treating ‘Disability As A Costume’', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwin-blind-disability_us_595e64fce4b0615b9e8fecc2', 'short_description': 'But the problem is bigger than this film.', 'date': '2017-07-06'}

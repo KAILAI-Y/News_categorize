@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Twitter Absolutely Loses It Over 'Evil' Avocado Macaroni And Cheese Recipe", 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/avocado-mac-and-cheese_us_599b2128e4b0771ecb06526b', 'short_description': 'Please keep the avocado out of our macaroni and cheese.', 'date': '2017-08-21'}

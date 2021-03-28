@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "James Corden Isn't Quite Squad-Ready As Taylor Swift's Backup Dancer", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/james-corden-taylor-swift_us_5a2a61cae4b0a290f04fb9fa', 'short_description': 'He hilariously tried to fill in before an actual concert.', 'date': '2017-12-08'}

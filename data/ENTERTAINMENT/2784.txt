@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chris Evans' Dog Shows Us All What True Love Looks Like", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/chris-evans-dog-true-love-twitter-video_us_59ac70ffe4b0dfaafcf11d78', 'short_description': 'The "Avengers" actor posted an adorable video of him reuniting with his dog after 10 weeks.', 'date': '2017-09-03'}

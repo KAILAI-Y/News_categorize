@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Tour Bus Bursts Into Flames After Crash In Germany, Killing At Least 18', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/german-tour-bus-crash_us_595a4b64e4b0da2c7324ac33', 'short_description': 'The bus collided with a truck in the state of Bavaria.', 'date': '2017-07-03'}

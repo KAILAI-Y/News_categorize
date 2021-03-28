@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Trump Tells Tillerson: Don't Waste Time Talking To North Korea", 'authors': 'Eline Gordts and Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/trum-north-korea-tillerson_us_59d0fd4de4b06791bb111aa4', 'short_description': 'The president made his comment, where else, on Twitter.', 'date': '2017-10-01'}

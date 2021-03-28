@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Someone Gave Shaun White's Gold Medal Run The Super Mario Treatment", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/shaun-white-gold-medal-run-gets-super-mario-treatment_us_5a9c4450e4b089ec353b5efe', 'short_description': 'The internet continues to make real life even better.', 'date': '2018-03-04'}

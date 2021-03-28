@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Supporters Defend Kirsten Gillibrand After Trump Delivers 'Sexist Smear'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/kirsten-gillibrand-trump-tweet_us_5a301297e4b01598ac489081', 'short_description': 'The president tweeted a sexually suggestive attack at the senator Tuesday morning.', 'date': '2017-12-12'}

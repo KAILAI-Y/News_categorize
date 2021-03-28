@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Scotland Bans Traveling Circuses From Using Wild Animals In Performances', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/scotland-traveling-circuses-wild-animals_us_5a3ab041e4b025f99e141d12', 'short_description': 'Animal rights organizations applauded the decision.', 'date': '2017-12-20'}

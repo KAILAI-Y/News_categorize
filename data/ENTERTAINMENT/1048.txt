@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Demi Lovato Brings Florida Shooting Survivors On Stage During Tour', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/demi-lovato-florida-shooting-survivors_us_5a95ad67e4b09c872bae72c7', 'short_description': '“This isn’t about politics. It’s about community.”', 'date': '2018-02-27'}

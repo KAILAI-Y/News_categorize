@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Lucy Hale Perfectly Shut Down A Troll Who Called Her 'Anorexic'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/lucy-hale-shuts-down-troll-who-called-her-anorexic-in-4-perfect-tweets_us_59c90952e4b01cc57ff3c0aa', 'short_description': 'Trolls be gone 👏', 'date': '2017-09-25'}

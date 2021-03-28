@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Walking Dead' Clears Up Mystery And Plot Hole At The Same Time", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/walking-dead-clear-up-a-mystery-and-plot-hole-at-the-same-time_us_5a988040e4b089ec35387c3d', 'short_description': 'Oh, heli-yeah.', 'date': '2018-03-05'}

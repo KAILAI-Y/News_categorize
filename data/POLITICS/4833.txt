@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Offers $430,000 Of His Own Money For Aides' Legal Fees In Russian Probe", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-430000-russia-probe_us_59ec0f2fe4b00f08619f5232', 'short_description': 'The funds raise ethical issues if associates have information about the president.', 'date': '2017-10-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hundreds Of Muslims And Allies Gather At Trump Tower To Break Ramadan Fast', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/trump-tower-iftar_us_5931c835e4b02478cb9b8402', 'short_description': '"We as Muslim Americans are here to stay," activist Linda Sarsour told the crowd.', 'date': '2017-06-02'}

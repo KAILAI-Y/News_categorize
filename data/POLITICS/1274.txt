@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'National Security Adviser H.R. McMaster To Leave White House', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/hr-mcmaster-white-house-resigns_us_5a98e80fe4b089ec3538c712', 'short_description': 'John Bolton, a former U.S. ambassador to the United Nations, will replace the general.', 'date': '2018-03-22'}

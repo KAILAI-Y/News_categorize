@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Missouri Gov. Eric Greitens May Have Committed A Felony: AG', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/missouri-ag-gov-eric-greitens-may-have-committed-a-felony_us_5ad610fde4b077c89ced0fa0', 'short_description': "Greitens may have unlawfully used a nonprofit's donor list to raise money.", 'date': '2018-04-17'}

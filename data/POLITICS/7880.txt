@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chris Christie Shuts Down New Jersey Beaches, Then Vacations On One', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/chris-christie-beach_us_5959ab98e4b05c37bb7f2cbc', 'short_description': '“I don’t know if it’s fair."', 'date': '2017-07-03'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Michael Che Dismisses Kanye West's Entire Slavery Narrative With A Single Word", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/michael-che-kanye-west_us_5aefb33ce4b0c4f19323f776', 'short_description': '"Weekend Update" anchor shuts down Kanye\'s incendiary comments.', 'date': '2018-05-07'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "'Glee' Star Naya Rivera Charged With Domestic Battery", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/naya-rivera-domestic-battery_us_5a1b97c3e4b0d4906cafad2c', 'short_description': 'Husband Ryan Dorsey says she struck him on the lip and head.', 'date': '2017-11-27'}

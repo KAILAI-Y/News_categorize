@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'South Park' Finally Attacks Trump Again, Focusing On North Korea", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-south-park-season-21-episode-2_us_59c3a16ee4b0c90504fbcd69', 'short_description': "The show still isn't using the president's name.", 'date': '2017-09-21'}

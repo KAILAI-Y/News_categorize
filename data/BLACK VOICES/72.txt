@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'History Professor Breaks Down What Kanye West Got Wrong In Saying Slavery Was A Choice', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/history-professor-kanye-west-slavery_us_5ae9bc85e4b00f70f0edf377', 'short_description': 'The rapper overlooked a few hundred years of history.', 'date': '2018-05-02'}

@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Self-Driving Uber In Fatal Accident Had 6 Seconds To React Before Crash', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/self-driving-uber-ntsb-report_us_5b06df0be4b05f0fc845e16a', 'short_description': 'The NTSB published a preliminary report on the incident Thursday.', 'date': '2018-05-24'}

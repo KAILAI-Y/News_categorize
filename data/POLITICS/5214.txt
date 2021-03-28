@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration Asks Court To Dismiss Lawsuit Against Transgender Military Ban', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/trump-trans-military-ban_us_59d6308ae4b0380b6c9a9320', 'short_description': 'The Justice Department called the challenge “premature."', 'date': '2017-10-05'}

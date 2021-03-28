@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Rachel McAdams Tops A Bevy Of Best-Dressed Stars Honoring Diane Keaton', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/diane-keaton-tribute_us_593a9781e4b0c5a35c9e9d30', 'short_description': 'But everyone else looked pretty amazing, too.', 'date': '2017-06-09'}

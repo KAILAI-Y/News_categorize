@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Ambassador Denies Anti-Muslim Comments, Then Denies Denial On Dutch TV', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/pete-hoekstra-dutch-tv-interview_us_5a3d6f01e4b0b0e5a7a21135', 'short_description': "The reporter's look of bewilderment says it all.", 'date': '2017-12-22'}

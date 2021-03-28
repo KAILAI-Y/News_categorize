@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: What To Expect As Mueller Indictment Looms", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-what-to-expect-as-mueller-indictment-looms_us_59f70889e4b077d8dfcacb0f', 'short_description': 'And who to watch.', 'date': '2017-10-30'}

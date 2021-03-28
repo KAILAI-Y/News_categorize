@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "This Yoplait Ad Goes Out To Every Mom Who's Been Judged", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/this-yoplait-ad-goes-out-to-every-mom-whos-been-judged_us_594dc22be4b02734df2a88d2', 'short_description': 'This video is encouraging mothers to #MomOn.', 'date': '2017-06-26'}

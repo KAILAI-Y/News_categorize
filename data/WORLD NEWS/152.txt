@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Far-Right Leader Viktor Orban Wins Hungary’s Election, Early Results Show', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/hungary-election-vote-orban_us_5ac8d6cde4b07a3485e52288', 'short_description': "The vote also has huge implications beyond Hungary's borders.", 'date': '2018-04-08'}

@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "Get These Last-Minute Summer Travel Deals Before They're Gone", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/last-minute-travel-deals_us_596e6d8fe4b00db3d0f3c2fa', 'short_description': "Spontaneous travel doesn't have to come at a steep price.", 'date': '2017-07-20'}

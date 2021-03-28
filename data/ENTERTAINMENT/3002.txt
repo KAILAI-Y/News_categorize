@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Anna Faris Was Dropping Hints About Trouble With Chris Pratt Before Split', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/anna-faris-interview-chris-pratt-split_us_5988a97be4b0449ed5042f16', 'short_description': 'We should have seen the signs.', 'date': '2017-08-07'}

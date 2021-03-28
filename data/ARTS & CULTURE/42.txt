@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "'Lost' Leonardo Da Vinci Sells For Record $450 Million At Auction", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/da-vinci-painting-record-sale_us_5a0ce419e4b0c0b2f2f7ac3f', 'short_description': '"Salvator Mundi," long missing, was expected to fetch at least $100 million.', 'date': '2017-11-16'}

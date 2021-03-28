@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Members Of Congress Use 'Game Of Thrones' Premiere To Jab Trump", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-congress_us_596cd96ae4b03389bb19467f', 'short_description': 'The Emmy Award-winning series premiered its seventh season on Sunday.', 'date': '2017-07-17'}

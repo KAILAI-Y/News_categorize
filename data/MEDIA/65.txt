@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Laura Ingraham Cracks At Hannity: I'm Glad The 'Heat's Off Me And On You!'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-laura-ingraham_us_5ad5662ce4b077c89cebf0c0', 'short_description': 'Fox News hosts joke about their negative press.', 'date': '2018-04-17'}

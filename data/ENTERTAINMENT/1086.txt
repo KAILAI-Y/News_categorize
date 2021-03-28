@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Mark Hamill Confirms Hollywood Star News By Zinging Donald Trump', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-hollywood-star-donald-trump_us_5a8ec9dce4b0617d463acdb3', 'short_description': 'The "Star Wars" actor will be honored on the Hollywood Walk of Fame.', 'date': '2018-02-22'}

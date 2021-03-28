@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Texas Mass Shooting Threatens To Eclipse Issue Of Bump Stocks Entirely', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/texas-mass-shooting-bump-stocks_us_5a006ff3e4b0baea26336666', 'short_description': 'How much more slaughter until enough is enough for Congress?', 'date': '2017-11-06'}

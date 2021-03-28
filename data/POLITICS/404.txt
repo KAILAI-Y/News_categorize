@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "America's Electorate Is Getting More Diverse. That's No Guarantee For Democrats.", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/voter-demographics-shift-elections_us_5ae0eb74e4b02baed1b5fa95', 'short_description': "But it probably doesn't hurt.", 'date': '2018-05-05'}

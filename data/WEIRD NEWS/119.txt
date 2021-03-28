@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'The Internet Is The Only Place We Simultaneously Desire Fame And Anonymity'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/shower-thoughts-reddit-march-2018-part-one_us_5a994910e4b089ec35394cbc', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-03-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Fire And Fury' Legal Team Hits Back At Trump In New Statement", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/fire-and-fury-author_us_5a53d3ace4b003133ecb3d97', 'short_description': '"My clients do not intend to cease publication, no such retraction will occur, and no apology is warranted."', 'date': '2018-01-08'}

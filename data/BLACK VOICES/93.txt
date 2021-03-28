@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'The Burden Of Being Black In A White Space', 'authors': 'Julia Craven', 'link': 'https://www.huffingtonpost.com/entry/starbucks-arrest-shopping-while-black_us_5ade8e29e4b0df502a4ec117', 'short_description': '“When you know that you did nothing wrong, how do you really react to it?”', 'date': '2018-04-24'}

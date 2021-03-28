@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jack White Shreds In Cut-For-Time 'SNL' Wedding Sketch", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jack-white-wedding-toast-snl_us_5ad4c1a6e4b016a07e9f0b41', 'short_description': 'We say "I do" to his sizzling solo.', 'date': '2018-04-16'}

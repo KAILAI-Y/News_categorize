@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jared Kushner Failed To Disclose WikiLeaks Email And Russia Dinner Invite, Senators Say', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-wikileaks_us_5a0df8a0e4b0b9cb33227a71', 'short_description': "The Senate Judiciary Committee wants more information from Trump's son-in-law.", 'date': '2017-11-16'}

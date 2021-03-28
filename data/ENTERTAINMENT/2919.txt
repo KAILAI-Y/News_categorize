@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Gwen Stefani Threw Her Son A 'Harry Potter' Birthday Party And, Um, Jealous", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/gwen-stefani-thew-her-son-a-harry-potter-birthday-party-and-um-jealous_us_5992f6ece4b09071f69c98c4', 'short_description': "'Twas magical.", 'date': '2017-08-15'}

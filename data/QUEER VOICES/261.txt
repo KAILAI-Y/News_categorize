@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "In 'This Close,' Two Pals Navigate Heartbreak, Sexuality... And Deafness", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/this-close-sundance-series_us_5a94729de4b02cb368c4ae59', 'short_description': 'Directed by Andrew Ahn, the Sundance Now series is a first for deaf artists.', 'date': '2018-02-27'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Swear Bear! People Think There's A Hidden F-Bomb In 'Paddington' Christmas Ad", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/paddington-christmas-commercial-marks-and-spencer_us_5a03d362e4b0937b510f8bc1', 'short_description': 'What would Aunt Lucy think?', 'date': '2017-11-09'}

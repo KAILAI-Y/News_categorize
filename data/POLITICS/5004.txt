@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hillary Clinton Compares Donald Trump With Harvey Weinstein', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-compares-trump-weinstein_us_59e47781e4b04d1d5182cfd3', 'short_description': '“After all, we have someone admitting to being a sexual assaulter in the Oval Office."', 'date': '2017-10-16'}

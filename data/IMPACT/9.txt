@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': '6 Incredible Photos That Show The World We Need To Protect', 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/natural-world-photographs_us_5af41479e4b09bb419e539a0', 'short_description': "A photographer visited some of the planet's most pristine places to capture images of the natural world.", 'date': '2018-05-12'}

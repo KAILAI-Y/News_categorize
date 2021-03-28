@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Bundo Boom! The Gay Bunny Book Is Absolutely Crushing The Pence Family Version', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/marlon-bundo-john-oliver-bestseller_us_5ab89296e4b054d118e457c6', 'short_description': 'The book unveiled by John Oliver on "Last Week Tonight" is defying all expectations.', 'date': '2018-03-26'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Believe It Or Not: Luke Skywalker's Lightsaber Bought By Ripley's For $450,000", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/skywalker-lightsaber-ripleys_us_59585b78e4b0da2c73240165', 'short_description': 'And little R2-D2 sells for a whopping $2.76 million.', 'date': '2017-07-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How The GOP Tax Plan Could Radically Reshape U.S. Housing Policy', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/gop-tax-reform-housing-policy_us_59ce7bf9e4b05f005d3421d0', 'short_description': "Donald Trump's tax agenda undercuts a major subsidy for homeowners.", 'date': '2017-09-29'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Dinosaurs March On White House To Save National Service From Extinction', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/dinosaur-protest-white-house-trump-national-service_us_59a881cde4b0dfaafcef0e6d', 'short_description': '"Rawr!"', 'date': '2017-08-31'}

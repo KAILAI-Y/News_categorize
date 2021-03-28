@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'A Wrenching New Ferguson Documentary Asks: How Can We Start A Revolution?', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/whose-streets-ferguson-documentary_us_598de5c0e4b08a2472741128', 'short_description': 'See an exclusive clip from "Whose Streets?"', 'date': '2017-08-11'}

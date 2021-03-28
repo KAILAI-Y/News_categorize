@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'WHO Sees High Risk From Kenya Cholera Outbreak', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/who-sees-high-risk-from-kenya-cholera-outbreak_us_5972627ce4b00e4363df7d69', 'short_description': 'The disease is spread by ingesting fecal matter.', 'date': '2017-07-21'}

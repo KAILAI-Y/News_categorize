@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Biggest Con May Be The One He Has Played On American Workers", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/trump-con-american-workers_us_5a622fd5e4b0125fd6365bf4', 'short_description': 'He promised to defend "forgotten Americans." Then he forgot them.', 'date': '2018-01-20'}

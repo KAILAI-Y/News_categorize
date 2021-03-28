@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Imagines Another Batch Of Donald Trump's Postcards Home", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-postcards-home_us_5929283be4b0df57cbfbe072', 'short_description': '"The Pope has a Golden Throne too! But for some reason, his doesn\'t flush."', 'date': '2017-05-27'}

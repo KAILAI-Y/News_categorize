@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Returns To White House\xa0Without Melania\xa0As CBS Airs Stormy Daniels Interview', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-white-house-return_us_5ab85cc6e4b0decad04b5a6a', 'short_description': 'The first lady is spending spring break in Florida.', 'date': '2018-03-26'}

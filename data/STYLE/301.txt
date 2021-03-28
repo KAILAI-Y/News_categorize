@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Rihanna's Low-Cut Red Gown Is A Wardrobe Malfunction Waiting To Happen", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/rihanna-red-dress_us_59773f15e4b0c95f375e7ade', 'short_description': '"I want you to stay" -- Rihanna, to her dress straps.', 'date': '2017-07-25'}

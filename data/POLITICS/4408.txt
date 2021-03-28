@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democrats Find Catharsis A Year After Hillary Clinton's Loss", 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-one-year-later_us_5a031201e4b09205305966f3', 'short_description': 'The movement that formed in the wake of her loss helped propel Democrats to election victories.', 'date': '2017-11-08'}

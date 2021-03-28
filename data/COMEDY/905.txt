@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Awww, Trump Doesn't Even Want America, He Just Wants To Play With The Box!", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/awww-trump-doesnt-care-about-america-he-just-wants-to-play-with-the-box_us_5955352ae4b05c37bb7ccb67', 'short_description': "Isn't that just a hoot?!", 'date': '2017-07-10'}

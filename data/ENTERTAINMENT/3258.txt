@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Joan Lee, Wife Of Marvel's Stan Lee, Has Died", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/joan-lee-dead-dies_us_595f79ffe4b0615b9e90ca4b', 'short_description': 'The pair had been married 69 years.', 'date': '2017-07-07'}

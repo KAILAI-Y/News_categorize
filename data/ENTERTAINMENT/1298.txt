@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kim Kardashian Is Sending Valentines To Taylor Swift And All Her 'Haters'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-is-sending-valentines-to-haters-like-taylor-swift_us_5a737538e4b0905433b256de', 'short_description': 'KIMBERLY.', 'date': '2018-02-01'}

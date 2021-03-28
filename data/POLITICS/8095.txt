@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Conservative’s Story About 'How Republicans Are Born' Backfires Spectacularly", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/grover-norquist-how-republicans-are-born_us_5950abfae4b02734df2b4f98', 'short_description': 'Grover Norquist gets schooled about taxes on Twitter.', 'date': '2017-06-26'}

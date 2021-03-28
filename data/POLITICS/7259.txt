@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump 'Disappointed' In Jeff Sessions But Won't Fire Him — For Now", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jeff-sessions_us_59779d6fe4b0a8a40e832b3c', 'short_description': '“We will see what happens. Time will tell. Time will tell."', 'date': '2017-07-25'}

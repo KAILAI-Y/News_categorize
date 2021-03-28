@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Election Delivers A Commanding Parliamentary Majority For Macron', 'authors': 'Ingrid Melander, Reuters', 'link': 'https://www.huffingtonpost.com/entry/polls-project-a-commanding-parliamentary-majority-for-macron_us_593d5c29e4b0c5a35ca05890', 'short_description': 'Turnout was low across the country.', 'date': '2017-06-11'}

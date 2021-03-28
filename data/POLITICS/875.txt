@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Reportedly Narrows In On Rosenstein Amid Frustration With Mueller Probe', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/trump-rod-rosenstein_us_5acd4cc7e4b06a6aac8ccf4b', 'short_description': 'The president also reportedly has weighed firing special counsel Robert Mueller.', 'date': '2018-04-11'}

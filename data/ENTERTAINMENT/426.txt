@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Channing Tatum And Arie Luyendyk Jr. Have A Day At The Races', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/channing-tatum-arie-luyendyk-indy_us_5addcb17e4b075b631e7f369', 'short_description': 'Just a couple of bachelors gearing up for fun at the Indy Grand Prix of Alabama.', 'date': '2018-04-23'}

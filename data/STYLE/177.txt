@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Janelle Reeves: I Live In Provo, Utah, And This Is My Style', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/provo-utah-style_us_59e0ad81e4b03a7be57fdd15', 'short_description': 'Find out how this blogger draws inspiration from her stylish community.', 'date': '2017-10-13'}

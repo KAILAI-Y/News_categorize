@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_597f2b0ce4b02a4ebb76d6ce', 'short_description': '"You say festival, but I hear Porta Potty."', 'date': '2017-08-04'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Black Panther' Premiere Gloriously Celebrates African Royalty", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/black-panther-premiere-african-royalty_us_5a707dcae4b05836a25697fd', 'short_description': '"The Black Panther premiere really put fashion shows to shame," one fan said.', 'date': '2018-01-30'}

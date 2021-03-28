@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Myanmar Crisis Reaches Alarming New High', 'authors': 'Krishna N. Das, Reuters', 'link': 'https://www.huffingtonpost.com/entry/myanmar-refugees-rohingya-crisis_us_59b7b5e5e4b031cc65cc7f21', 'short_description': 'Almost 400,000 Rohingya refugees have fled in the last two weeks.', 'date': '2017-09-12'}

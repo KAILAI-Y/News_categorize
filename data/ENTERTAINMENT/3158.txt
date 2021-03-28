@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Star Wars' Monopoly That Doesn't Exclude Rey Now Available To The Masses", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/star-wars-monopoly-wheresrey_us_596fac2fe4b062ea5f8ecab3', 'short_description': 'Just 18 months after "The Force Awakens."', 'date': '2017-07-19'}

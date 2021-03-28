@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Will Smith Shares Inspiring Tale Of How He Became 'The Fresh Prince Of Bel-Air'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/will-smith-fresh-prince-origin-story_us_5af69480e4b032b10bfaf2a6', 'short_description': 'It involves unpaid taxes, the IRS and a drunk Quincy Jones.', 'date': '2018-05-12'}

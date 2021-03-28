@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Hundreds Of Europe's Amazon Workers Plan Black Friday Strike", 'authors': 'Reuters Staff, Reuters', 'link': 'https://www.huffingtonpost.com/entry/amazon-europe-black-friday-strike_us_5a172d5fe4b0649480737fec', 'short_description': 'The walkout threatens profits on one of the biggest shopping days of the year.', 'date': '2017-11-23'}

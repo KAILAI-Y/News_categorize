@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Amy Sedaris' New Show Is For The Deranged Domestic Goddess Within", 'authors': 'Jillian Capewell', 'link': 'https://www.huffingtonpost.com/entry/at-home-with-amy-sedaris_us_59ee069ee4b00f0861a03c4a', 'short_description': '"At Home with Amy Sedaris" is the funny, lovable antidote to a Pinterest-perfect world.', 'date': '2017-10-24'}

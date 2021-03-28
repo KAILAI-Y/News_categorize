@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Our Narcissist In Chief', 'authors': 'Richard North Patterson, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/our-narcissist-in-chief_us_5a51b157e4b089e14dbb67fa', 'short_description': "Now more than ever, the president's psychological unfitness must be at the heart of our political conversation.", 'date': '2018-01-07'}

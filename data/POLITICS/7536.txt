@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Simply Unworkable': Insurers Blast New Provision In Senate Health Bill", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/senate-health-bill-insurers-unworkable_us_59697eb7e4b0d6341fe9111c', 'short_description': 'The industry sounds just as angry as the patient advocates.', 'date': '2017-07-15'}

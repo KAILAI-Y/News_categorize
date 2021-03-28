@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Gothamist To Rise From the Dead, Thanks To Anonymous Donors And Public Radio', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/gothamist-dcist-laist-dnainfo-coming-back_us_5a903665e4b0ee6416a2b54f', 'short_description': 'The deal will revive parts of DCist, LAist and DNAinfo.', 'date': '2018-02-23'}

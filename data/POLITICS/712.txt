@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Former NYC Mayor Rudy Giuliani Is Joining Trump's Legal Team", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/rudy-giuliani-trump-special-counsel_us_5ad905a1e4b03c426dacb83e', 'short_description': 'The former prosecutor said he hopes to negotiate an end to the special counsel investigation.', 'date': '2018-04-19'}

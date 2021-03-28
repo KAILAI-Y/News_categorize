@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Fox News Melts Down After Hillary Clinton Mocks Them For 'Trying To Impeach Me'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/fox-news-hillary-clinton-impeach-me_us_5ac57682e4b09ef3b24355c1', 'short_description': "The network isn't handling the critique very well.", 'date': '2018-04-05'}

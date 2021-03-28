@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Spain Issues Arrest Warrant For Ousted Catalan Leader', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/spain-puigdemont-arrest-warrant_us_59fcc30ce4b0baea2631abf1', 'short_description': 'Puigdemont left for Belgium after Catalonia’s regional government was sacked.', 'date': '2017-11-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'MSNBC Host Skewers Claims Clinton Helped Sell Uranium To Russians', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/joy-reid-clinton-uranium-one-trump_us_59f672f9e4b03cd20b827261', 'short_description': 'All it took were a few "fact-based questions."', 'date': '2017-10-30'}

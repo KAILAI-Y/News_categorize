@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Attacks Wall Street Journal, Claiming Paper Lied About Single Word In Interview', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-attacks-wsj-over-interview_us_5a5c1aa5e4b0fcbc3a116821', 'short_description': 'Newspaper just wanted a FAKE NEWS story, president tweets.', 'date': '2018-01-15'}

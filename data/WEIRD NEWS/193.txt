@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "We'd Swipe Right On This Flirty Kangaroo", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/wed-swipe-right-on-this-flirty-kangaroo_us_5a57886fe4b05b7a92eeb715', 'short_description': '"Draw me like one of your French marsupials." -- this kangaroo, probably.', 'date': '2018-01-11'}

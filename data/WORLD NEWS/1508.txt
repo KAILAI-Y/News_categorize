@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Venezuelans Vote For All-Powerful Assembly, Under Government Pressure', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/venezuela-vote-protests_us_597de482e4b02a4ebb75f7f0', 'short_description': 'The opposition is boycotting the election, which is expected to hand sweeping powers to the ruling party.', 'date': '2017-07-30'}

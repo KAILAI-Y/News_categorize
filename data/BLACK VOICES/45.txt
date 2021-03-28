@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'KKK Leader Found Guilty Of Firing Gun At Charlottesville Rally', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/kkk-leader-guilty-firing-gun-charlottesville-rally_us_5af30528e4b0aab8a78b6fa2', 'short_description': 'Video captured him shooting at the feet of a black counterprotester.', 'date': '2018-05-09'}

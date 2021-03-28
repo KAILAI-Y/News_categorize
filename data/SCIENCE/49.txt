@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': "World's Atmospheric CO2 Spiked To A Record Last Year: UN", 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/atmospheric-co2-2016_us_59f81663e4b0aec1467a64e5', 'short_description': '"Wake up world. We are killing our planet."', 'date': '2017-10-31'}

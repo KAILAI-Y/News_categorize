@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Wheel Of Fortune' Contestant Can't Solve The Puzzle — Even With Every Single Letter", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/wheel-of-fortune-fail-flamenco-flamingo_us_5ace0115e4b0259339df4546', 'short_description': 'Dude needs to get his birds and dances straight.', 'date': '2018-04-11'}

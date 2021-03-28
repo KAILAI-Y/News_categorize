@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "33 Anti-Valentine's Day Gifts For People Who Despise Valentine's Day", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/anti-valentines-day-gifts-for-people-who-despise-valentines-day_us_5a68a04ae4b0dc592a0e8449', 'short_description': '"Did you fall from heaven? Because so did Satan." 💘💋', 'date': '2018-01-24'}

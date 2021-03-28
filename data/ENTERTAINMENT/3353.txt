@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's Every Single Possible Twitter Joke All At Once", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/twitter-jokes-7-structures_us_594b8998e4b01cdedf008696', 'short_description': "These memes aren't at all played out, said no one ever.", 'date': '2017-06-22'}

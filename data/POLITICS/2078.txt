@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here Are The Autopsies For The Victims Of The Las Vegas Mass Shooting', 'authors': 'Nick Wing and Matt Ferner', 'link': 'https://www.huffingtonpost.com/entry/las-vegas-autopsy-documents_us_5a8234efe4b01467fcf08b97', 'short_description': 'The details are disturbing. But they sharpen a reality we must confront.', 'date': '2018-02-15'}

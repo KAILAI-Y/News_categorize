@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "3 Things To Know About The Cognitive Test Trump's Doctor Gave Him", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/trump-montreal-cognitive-assessment_us_5a5e6871e4b0ee2ff32b515f', 'short_description': 'It\'s reliable but may not reveal "subtle cognitive decline."', 'date': '2018-01-16'}

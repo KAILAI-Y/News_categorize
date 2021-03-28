@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'John Legend Tries In Earnest To Talk Kanye West Out Of Supporting Trump', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/john-legend-tried-to-talk-kanye-west-out-of-supporting-trump_us_5ae3416be4b055fd7fcb8562', 'short_description': 'West posted a private text from the singer to Twitter.', 'date': '2018-04-27'}

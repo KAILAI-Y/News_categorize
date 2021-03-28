@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ricky Gervais Stands Up For Truth In The Age Of Fake News', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/ricky-gervais-stands-up-for-truth-in-the-age-of-fake-news_us_59d12d9ee4b06791bb1141d7', 'short_description': '"Science doesn’t give a f**k what you believe."', 'date': '2017-10-12'}

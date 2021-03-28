@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Progressive Groups Push CNN To Invite Paul Ryan's Democratic Challenger To Town Hall", 'authors': 'Michael Calderone', 'link': 'https://www.huffingtonpost.com/entry/cnn-paul-ryan-randy-bryce_us_5995fbd6e4b0a2608a6aee33', 'short_description': 'They say the voters should hear from both the House speaker and Randy Bryce.', 'date': '2017-08-17'}

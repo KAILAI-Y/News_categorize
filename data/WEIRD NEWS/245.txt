@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Someone Got Donald Trump's Face Sculpted Into Their Hair", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-haircut-taiwan-salon_us_5a27dd34e4b044d1672614b4', 'short_description': 'So many questions.', 'date': '2017-12-06'}

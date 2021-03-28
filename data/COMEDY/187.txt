@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Michael Bolton Singing John Bolton's Scary Words About War Is Almost Soothing", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/michael-bolton-john-bolton-donald-trump-late-show_us_5abdee84e4b055e50accb843', 'short_description': 'Almost.', 'date': '2018-03-30'}

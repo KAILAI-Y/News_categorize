@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Janelle Monáe's New Music Video Is A Pink, Vagina-Inspired Celebration", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/janelle-monaes-new-music-video_us_5accf4a9e4b0a2e354804c16', 'short_description': "Come for Tessa Thompson crawling through Monáe's legs. Stay for the girl power anthem.", 'date': '2018-04-10'}

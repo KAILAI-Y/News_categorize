@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Rescuers In Rebel-Held Syrian Area Accuse Government Of Gas Attack', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/syria-chlorine-gas-attack_us_5a65bbb0e4b0e56300713733', 'short_description': 'More than a dozen civilians were injured in Douma, where almost 400,000 people are under siege.', 'date': '2018-01-22'}

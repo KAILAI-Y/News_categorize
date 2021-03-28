@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Gary Oldman Wins Best Actor For 'Darkest Hour' At Oscars", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/gary-oldman-wins-oscar-for-best-actor_us_5a9ca52de4b0479c0253ece0', 'short_description': "The actor's alleged violent past has resurfaced amid the Time's Up movement.", 'date': '2018-03-05'}

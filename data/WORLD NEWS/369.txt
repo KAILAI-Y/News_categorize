@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "U.S.-Led Airstrikes Target Pro-Syrian Forces After 'Unprovoked Attack,' Kill More Than 100 Fighters", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/syria-retaliatory-strike_us_5a7b9695e4b08dfc92ffcc42', 'short_description': 'No American troops were killed or wounded in the incident, officials said.', 'date': '2018-02-08'}

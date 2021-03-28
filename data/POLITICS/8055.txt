@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Some Would-Be Immigrants Are Lost In Limbo After Supreme Court Reverses Travel Ban Order', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/immigrants-limbo-travel-ban_us_5952dac5e4b02734df2e50ac', 'short_description': "Monday's SCOTUS ruling has led to confusion and anxiety among some immigrant groups.", 'date': '2017-06-27'}

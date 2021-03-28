@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kylie Jenner Absent From Kardashian Family Christmas Card', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/kylie-jenner-kardashian-family-christmas-card_us_5a41eb4fe4b025f99e181ca5', 'short_description': "Kim Kardashian tweeted the family's official card on Sunday.", 'date': '2017-12-26'}

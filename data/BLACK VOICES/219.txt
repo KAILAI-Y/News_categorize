@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Ryan Coogler Praises Ava DuVernay For Making 'The Impossible Look Easy'", 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/ryan-coogler-ava-duvernay_us_5aa684efe4b01b9b0a3d5136', 'short_description': "His open letter to DuVernay is an ode to all she's accomplished.", 'date': '2018-03-12'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Dog Owners More Likely To Exercise Regularly', 'authors': 'Carolyn Crist, Reuters', 'link': 'https://www.huffingtonpost.com/entry/dog-owners-more-likely-to-exercise-regularly_us_59834c68e4b06d488874b542', 'short_description': 'Regular dog walkers were more active on days with cold, rainy weather.', 'date': '2017-08-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Have A Way Out Of Their Health Care Mess: Working With Democrats', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/bipartisan-options-health-care-congress_us_596e8cd5e4b00db3d0f3d952', 'short_description': 'The case for bipartisan action just got stronger.', 'date': '2017-07-19'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Patton Oswalt Uses Icky Sauna Analogy To Describe Donald Trump', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/patton-oswalt-conan-donald-trump-analogy_us_5a2a4031e4b073789f68aeb5', 'short_description': 'Ewww.', 'date': '2017-12-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Explosive Trump Book To Release Early After President's Lawyer Tried To Stop It", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/trump-book-release-early_us_5a4eb824e4b003133ec6a55a', 'short_description': "The publisher pushed the book's release date forward after a cease-and-desist letter.", 'date': '2018-01-05'}

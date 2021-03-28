@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Actor Max Crumm Wants His New Play To Open Minds About Bisexuality', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/max-crumm-hot-mess_us_5a0f3387e4b045cf43712f96', 'short_description': 'Off-Broadway\'s "Hot Mess" is billed as a "romantic comedy with a little twist."', 'date': '2017-11-17'}

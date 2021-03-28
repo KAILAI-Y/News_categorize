@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Death Becomes Her' Is About To Become A Broadway Musical", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/death-becomes-her-musical_us_5a316aaee4b07ff75affb6a4', 'short_description': 'The show has an epic leading lady in Kristin Chenoweth.', 'date': '2017-12-13'}

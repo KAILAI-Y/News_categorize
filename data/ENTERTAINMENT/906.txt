@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Los Angeles DA Won't Prosecute Agent Who Allegedly Groped Terry Crews", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/terry-crews-adam-venit-criminal-charges_us_5aa07bbae4b002df2c608a30', 'short_description': 'Crews is also suing agent Adam Venit in civil court.', 'date': '2018-03-08'}

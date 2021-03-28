@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Hurricane Harvey's Public Health Impact Extends Beyond Flooding", 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/harvey-public-health-impact_us_59a42136e4b06d67e33913a6', 'short_description': '"Disasters magnify fragilities that are already present in society."', 'date': '2017-08-29'}

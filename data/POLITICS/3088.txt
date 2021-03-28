@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Barack Obama Tweets Uplifting Local Stories To Remind Us What Went Right In 2017', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/barack-obama-tweets-best-about-america_us_5a46730ae4b0b0e5a7a62291', 'short_description': '"Each of us can make a difference, and all of us ought to try."', 'date': '2017-12-29'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'At Least 2 Dead In Stabbing In Finnish City Of Turku', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/stabbing-finland-turku_us_5996f24fe4b0a2608a6bd3a5', 'short_description': 'Police shot and arrested the suspect.', 'date': '2017-08-18'}

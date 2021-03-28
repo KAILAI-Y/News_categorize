@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Anti-Abortion Democrat Faces Primary Challenge From The Left', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/dan-lipinski-abortion-marie-newman_us_5ab02e0ce4b0e862383a9154', 'short_description': 'Marie Newman might unseat Congressman Dan Lipinski on Tuesday.', 'date': '2018-03-20'}

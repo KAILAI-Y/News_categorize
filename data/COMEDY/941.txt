@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Puts Sean Spicer In The Hot Seat in 'Spicer After Dark'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-spicer-after-dark_us_594a23e5e4b00cdb99cb3edd', 'short_description': 'The "Late Show" host also had some harsh words for Steve Bannon.', 'date': '2017-06-21'}

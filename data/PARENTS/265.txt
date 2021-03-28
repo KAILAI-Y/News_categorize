@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'David Beckham Coached His Daughter At Her First Soccer Lesson', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/david-beckham-coached-his-daughter-at-her-first-soccer-lesson_us_59ce70a2e4b06791bb105bbf', 'short_description': 'And it was awesomely adorable.', 'date': '2017-09-29'}

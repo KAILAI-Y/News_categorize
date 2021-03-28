@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jennifer Lawrence Is Thirsting After Timothée Chalamet: ‘He’s Hot'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/jennifer-lawrence-timothee-chalamet-is-hot_us_5a8db937e4b0273053a71bee', 'short_description': '"I’m waiting for him to get a little bit older."', 'date': '2018-02-21'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Report: Trump Close To Response Addressing 'Unfair' Chinese Trade Practices", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-chinese-trade-practices_us_59811c2be4b0353fbb336669', 'short_description': 'An announcement could come as early as this week, the official told Reuters.', 'date': '2017-08-02'}

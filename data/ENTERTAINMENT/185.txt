@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Frightened Rabbit Singer Scott Hutchison Dead At 36', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/frightened-rabbit-singer-scott-hutchison-dead-at-36_us_5af59256e4b00d7e4c19d7ee', 'short_description': "The frontman's body was found in Scotland a day after he was reported missing.", 'date': '2018-05-11'}

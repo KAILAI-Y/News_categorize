@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Finally Says It: He Tweets From Bed', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-tweets-from-bed_us_5a6e66aae4b0ddb658c78a0e', 'short_description': '“But I am very busy during the day, very long hours. I am busy."', 'date': '2018-01-29'}

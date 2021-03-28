@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': '5 Disturbing Statements By The Cop Who Shot Philando Castile', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/philando-castile-officer-interview_us_5949bddde4b00cdb99cb2c1c', 'short_description': 'The officer described events that happened in a "split second."', 'date': '2017-06-21'}

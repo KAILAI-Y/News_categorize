@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Laura Ingraham Dumped By Yet Another Sponsor Despite Being Off TV For A Week', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/laura-ingraham-ace-hardware_us_5ac6e9c3e4b09d0a1191e4b0', 'short_description': 'Fox News host still losing advertisers after mocking mass shooting survivor.', 'date': '2018-04-06'}

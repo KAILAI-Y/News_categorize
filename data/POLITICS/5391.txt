@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Stephen King Warns Workers: Donald Trump 'Couldn't Give S**t One About You'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-king-donald-trump-tax-plan_us_59cda373e4b05f005d334641', 'short_description': "The horror master reveals what he thinks Trump's tax plan is really all about.", 'date': '2017-09-29'}

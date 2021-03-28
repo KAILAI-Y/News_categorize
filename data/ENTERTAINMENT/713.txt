@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kim Kardashian Has A Really Simple Explanation For Her 'Photoshop Fail'", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-has-a-really-simple-explanation-for-her-photoshop-fail_us_5aba6370e4b054d118e74f7f', 'short_description': '"This is actually really funny to me!"', 'date': '2018-03-27'}

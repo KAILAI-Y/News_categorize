@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'This Show Managed To Make The Breastfeeding vs. Formula-Feeding Debate Funny', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/this-show-managed-to-make-the-breastfeeding-vs-formula-feeding-debate-funny_us_596e3cd5e4b010d7767424d1', 'short_description': 'Comedic, but informative.', 'date': '2017-07-18'}

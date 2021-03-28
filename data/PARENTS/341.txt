@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Dad Confesses Feeling 'Jealous' Of His Wife In Emotional Facebook Post", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/dad-confesses-feeling-jealous-of-his-wife-in-emotional-facebook-post_us_59b2b249e4b0dfaafcf7a1ab', 'short_description': '"The jealousy was real and disheartening."', 'date': '2017-09-08'}

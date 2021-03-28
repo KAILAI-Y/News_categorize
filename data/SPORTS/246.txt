@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "U.S. Women's Hockey Team Survives A Scare At Winter Olympics", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/us-womens-hockey-team-survive-a-scare-at-winter-olympics_us_5a802d8de4b0c6726e144bef', 'short_description': 'The Americans had their hands full with Finland in their opener.', 'date': '2018-02-11'}

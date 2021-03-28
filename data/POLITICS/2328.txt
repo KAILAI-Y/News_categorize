@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "James Comey Defends FBI, Says History Will Catch Up To 'Weasels And Liars'", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/comey-nunes-fbi-memo_us_5a739ba3e4b06ee97af107ac', 'short_description': '"Not a lot of schools or streets named for Joe McCarthy," the ex-FBI director said.', 'date': '2018-02-02'}

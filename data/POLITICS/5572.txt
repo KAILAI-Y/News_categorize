@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pittsburgh Steelers Stay Off Field During Anthem, Crowd Boos Them When They Return', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/pittsburgh-steelers-booed-national-anthem_us_59c7e68ee4b0cdc77331ed41', 'short_description': 'One player broke with the team and stood on the sidelines.', 'date': '2017-09-24'}

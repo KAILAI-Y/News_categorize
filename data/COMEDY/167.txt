@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'SNL' Just Nailed Your Relationship With Leggings", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/snl-just-nailed-your-relationship-with-leggings_us_5aca7053e4b09d0a11950009', 'short_description': "The show's version of a Nike Women's ad is all too relatable.", 'date': '2018-04-08'}

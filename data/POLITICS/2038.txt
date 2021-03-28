@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Gay Olympian Finds 'Silver Lining' In Broken Thumb: He Won't Have To Shake Pence's Hand", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/gus-kenworthy-broken-thumb-mike-pence_us_5a862030e4b00bc49f426853', 'short_description': 'Sorry not sorry.', 'date': '2018-02-16'}

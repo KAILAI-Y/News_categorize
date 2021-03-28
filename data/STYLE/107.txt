@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Controversial Photo-Editing App Under Fire For Makeup Removal Feature', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/makeapp-makeup-removal-app_us_5a0c56bde4b0b17ffce1aca1', 'short_description': "The app's creator said his product was not intended to be misogynistic.", 'date': '2017-11-15'}

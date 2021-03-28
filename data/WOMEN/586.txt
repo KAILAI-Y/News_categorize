@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The Future Of The World Is At Stake', 'authors': 'Anna Shen, ContributorJournalist and Startup Advisor', 'link': 'https://www.huffingtonpost.com/entry/op-ed-the-future-of-the-world-is-at-stake_us_59850c62e4b0bd82320297b5', 'short_description': 'Diversity is key to real innovation.', 'date': '2017-08-09'}

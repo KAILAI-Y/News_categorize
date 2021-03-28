@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stormy Daniels Throws Weird New Twist In Alleged Trump Affair Drama', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stormy-daniels-denies-trump-letter_us_5a71508be4b0be822ba1830d', 'short_description': 'Strange "Jimmy Kimmel Live" interview raises even more questions. Or does it?', 'date': '2018-01-31'}

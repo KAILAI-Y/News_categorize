@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Innocent Man Awarded $1 Million After Spending 31 Years In Prison', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/man-awarded-1-million-after-wrongful-conviction_us_5ab3cdfbe4b0decad047bb9a', 'short_description': 'The award was described as "bittersweet" by his attorney.', 'date': '2018-03-22'}

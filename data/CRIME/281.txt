@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Unarmed Hotel Security Guard Who Found Las Vegas Shooter Hailed As Hero [UPDATE]', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/jesus-campos-las-vegas-shooter_us_59d5c607e4b0cde45872e30e', 'short_description': 'Jesus Campos, wounded in a barrage of gunfire, said he was "just doing" his job.', 'date': '2017-10-05'}

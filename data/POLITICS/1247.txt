@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Threatens To Veto Spending Bill Over Border Wall Funding, Then Signs It', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-threatens-veto-of-spending-bill-over-border-wall-funding_us_5ab4f979e4b008c9e5f676aa', 'short_description': '“I will never sign another bill like this again.”', 'date': '2018-03-23'}

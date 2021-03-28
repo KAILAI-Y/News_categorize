@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Australia Seeks To Block Pedophiles From Leaving Country For Child Sex', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/australia-law-passports-pedophiles-child-sex-tourism_us_592d87fbe4b053f2d2ae497f', 'short_description': 'The legislation would deny passports to thwart child sex tourism.', 'date': '2017-05-30'}

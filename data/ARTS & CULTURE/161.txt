@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Banksy Pulls Free UK Election Print Offer Amid Police Probe', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/banksy-pulls-election-print-uk_us_59365632e4b013c4816a99a7', 'short_description': '"I regret to announce this ill-conceived and legally dubious promotion has now been cancelled."', 'date': '2017-06-06'}

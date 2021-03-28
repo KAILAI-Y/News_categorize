@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'India Leads World In Mass Yoga Practices On International Yoga Day', 'authors': 'Vipin Das M, Reuters', 'link': 'https://www.huffingtonpost.com/entry/india-international-yoga-day_us_594a847fe4b0db570d3822e3', 'short_description': "'Yoga has connected the world with India.'", 'date': '2017-06-21'}

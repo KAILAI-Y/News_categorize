@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'They Fled War At Home. Now They’re Fighting Death In Crowded Refugee Camps.', 'authors': 'Peter Martell, On Assignment For HuffPost', 'link': 'https://www.huffingtonpost.com/entry/refugee-camps-disease-south-sudan-uganda_us_5ab92bfee4b008c9e5fa04cc', 'short_description': '“A refugee camp is a hotbed for disease."', 'date': '2018-04-03'}

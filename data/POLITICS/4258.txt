@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jeff Sessions Admits He Has No Idea What DOJ Is Doing To Prevent Election Hacking', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/jeff-sessions-election-hacking_us_5a0b561fe4b0bc648a0e7be8', 'short_description': '"I should be able to give you better information today than I am," he said.', 'date': '2017-11-14'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Texas House Map Must Be Redrawn, Federal Court Says', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/texas-gerrymandering_us_59a021d1e4b05710aa5bb88d', 'short_description': 'The court said lawmakers intentionally discriminated against minorities.', 'date': '2017-08-25'}

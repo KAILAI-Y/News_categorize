@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans Don't Appear Too Concerned About Mueller's Potential Firing", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/republicans-mueller-firing_us_5aae6cace4b0c33361b14366', 'short_description': 'One GOP senator insists the White House wants Mueller "to be able to finish the investigation."', 'date': '2018-03-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ivanka Trump Writes Elegant, Utterly Pointless Defense Of Paid Leave', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-writes-elegant-utterly-pointless-defense-of-paid-leave_us_595d00bce4b0da2c73266635', 'short_description': 'There’s something pretty big missing from her argument.', 'date': '2017-07-05'}

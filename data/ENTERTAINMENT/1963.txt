@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Last Jedi' Director Reveals The First Word Uttered In The Film", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/last-jedi-director-reveals-the-first-word-uttered-in-the-film_us_5a22c0bde4b03350e0b710d5', 'short_description': "Hint: It's a two-for-one deal!", 'date': '2017-12-02'}

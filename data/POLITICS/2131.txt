@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Budget Would Partly Replace Food Stamp Benefits With Canned Goods", 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/trump-budget-food-stamps_us_5a81d9fce4b0c6726e160112', 'short_description': 'The proposal is unlikely to get off the ground.', 'date': '2018-02-12'}

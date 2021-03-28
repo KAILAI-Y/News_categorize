@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Frasier' Cast Member John Mahoney Dead At 77", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/john-mahoney-dead-at-77_us_5a78ec3de4b018ad894f0d98', 'short_description': "Mahoney played Frasier's cantankerous dad, Martin Crane, for 11 years.", 'date': '2018-02-06'}

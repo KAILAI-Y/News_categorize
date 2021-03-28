@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chrissy Teigen Leaves $1,000 Tip For Outback Steakhouse Waitress', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-leaves-1000-tip-for-outback-steakhouse-waitress_us_59fc75a1e4b0415a420b2983', 'short_description': '"Praise the Lord," Mikayla Scott said.', 'date': '2017-11-03'}

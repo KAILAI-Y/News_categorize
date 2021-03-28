@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert And John Oliver Unite To Deliver An Urgent Message To Trump', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-john-oliver-trump-message_us_5a7bc9f0e4b044b382192b67', 'short_description': 'Do it, Mr. President.', 'date': '2018-02-08'}

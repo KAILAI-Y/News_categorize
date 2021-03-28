@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Um, Drake Has Been Collecting Birkin Bags For His Future Wife', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/um-drake-has-been-collecting-birkin-bags-for-his-future-wife_us_5a0474d1e4b0f76b05c3e99f', 'short_description': '"This may be the most Drake thing I\'ve ever read."', 'date': '2017-11-09'}

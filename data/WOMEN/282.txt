@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5a29cbbfe4b0a290f04f6ef5', 'short_description': 'LOLs for the holidays.', 'date': '2017-12-08'}

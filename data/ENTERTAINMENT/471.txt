@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Final 'Deadpool 2' Trailer Is Here To Help Meet Your Wisecrack Quota", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/deadpool-2-final-trailer_us_5ad8bcbce4b0e4d0715e389b', 'short_description': 'And the jokes just keep on coming.', 'date': '2018-04-19'}

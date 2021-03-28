@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5a86e285e4b004fc319141d3', 'short_description': 'The Olympics, "Friends," and the "50 Shades" trilogy provided some great inspiration.', 'date': '2018-02-16'}

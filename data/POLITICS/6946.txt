@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'President Confident His Jury Is The Grandest', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/president-confident-his-jury-is-the-grandest_us_59839e02e4b041356ebee09a', 'short_description': "Such a grand jury. The best. Like you wouldn't believe.", 'date': '2017-08-03'}

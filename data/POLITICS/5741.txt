@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Beyond Harvey And Irma', 'authors': 'Michael T. Klare, ContributorAuthor and Professor of Peace and World-Security Studies, Hamp...', 'link': 'https://www.huffingtonpost.com/entry/beyond-harvey-and-irma_us_59bf1f19e4b0edff971d1ae6', 'short_description': 'Militarizing homeland security in the climate-change era.', 'date': '2017-09-18'}

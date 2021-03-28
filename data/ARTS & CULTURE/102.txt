@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Alan Peckolick, Revolutionary Typographer, Dead At 76', 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/alan-peckolick-dead_us_5988ae58e4b0d7937388f5be', 'short_description': 'The artist famous for developing typefaces for Revlon and NYU was a legend in his field.', 'date': '2017-08-07'}

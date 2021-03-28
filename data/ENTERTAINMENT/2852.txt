@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Taylor Swift Fans Are Predictably Trolling Kim Kardashian With Snakes', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-taylor-swift-snakes_us_59a03980e4b06d67e3373690', 'short_description': 'Look what she made them do.', 'date': '2017-08-25'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'The Story Behind This Signed Baseball Will Probably Make You Cry', 'authors': 'Brittany Wong', 'link': 'https://www.huffingtonpost.com/entry/get-ready-to-cry-over-a-baseball_us_59a82c72e4b010ca289aec3e', 'short_description': '“An autographed ball by Babe Ruth could not be worth half as much as this ball is."', 'date': '2017-08-31'}

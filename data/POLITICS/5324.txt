@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans Admit Tax Reform Won't Benefit All Middle-Class Households", 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/tax-reform-middle-class_us_59d26b86e4b06791bb1225b2', 'short_description': 'Their plan simplifies the tax code partly by taking away some benefits.', 'date': '2017-10-02'}

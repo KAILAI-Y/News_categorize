@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Jake Tapper Grills GOP Senator: 'You Gave Me And Anderson Cooper A Huge Tax Break'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/jake-tapper-anderson-cooper-tax-break_us_5a3b2c69e4b0b0e5a79f85fe', 'short_description': 'We should all be CNN hosts, it seems.', 'date': '2017-12-21'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "London's Deadly Fire Puts Pressure On Prime Minister Theresa May", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/london-fire-may-corbyn_us_5942a9d2e4b06bb7d2717e8d', 'short_description': 'The blaze has led to anger at the government and a debate over public safety.', 'date': '2017-06-15'}

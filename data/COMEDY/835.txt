@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Hader Is Abso-Moochly Perfect As Anthony Scaramucci On 'SNL: Weekend Update'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/snl-anthony-scaramucci-mooch-bill-hader_us_598d2ec5e4b08a2472737938', 'short_description': '"I’m like human cocaine."', 'date': '2017-08-11'}

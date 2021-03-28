@@ -1,0 +1,1 @@
+{'category': 'EDUCATION', 'headline': "Florida's Teacher Gap Is No Mystery", 'authors': 'Peter Greene, ContributorTeacher, blogger, tailgate trombonist', 'link': 'https://www.huffingtonpost.com/entry/floridas-teacher-gap-is-no-mystery_us_5a14bda5e4b009b331ad75a1', 'short_description': 'There is no reason to be surprised that Florida teachers are “fleeing.”', 'date': '2017-11-22'}

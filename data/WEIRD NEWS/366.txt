@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Heroes On Jet Skis Rescue Trapped Elderly Couple From Texas Floods', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/grandma-saved-hurricane-harvey-texas-flood-jet-ski_us_59a59c95e4b084581a1393d5', 'short_description': 'And it all started with a call to Chick-fil-A.', 'date': '2017-08-31'}

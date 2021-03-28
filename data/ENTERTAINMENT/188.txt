@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Celebrities Reading Weird Texts From Their Moms Is A Mother's Day Treat", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-celebrities-mom-texts_us_5af55b28e4b032b10bf97987', 'short_description': 'Easy on the emojis!', 'date': '2018-05-11'}

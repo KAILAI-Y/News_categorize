@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Gorgeous Rainbow Baby-Themed Photo Shoot Offers Hope After Loss', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/gorgeous-rainbow-baby-themed-photo-shoot-offers-hope-after-loss_us_59aed796e4b0b5e5310142f6', 'short_description': 'These photos tell emotional stories.', 'date': '2017-09-05'}

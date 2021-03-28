@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Spoof Royal Wedding Video Sees Ceremony Taking A Very Different Turn', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/royal-wedding-video-mashup_us_5b040088e4b0a046186fb1a1', 'short_description': 'This is royally funny.', 'date': '2018-05-22'}

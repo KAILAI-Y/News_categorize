@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Asked People To Sign A Presidents Day Card For Trump. It Didn’t Go Well.', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/gop-trump-presidents-day_us_5a8ba412e4b0a1d0e12c60e4', 'short_description': '"How do you say \'Happy Presidents Day\' in Russian?"', 'date': '2018-02-20'}

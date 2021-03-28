@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Man Drives Through Mourners At St. Louis Vigil For Trans Woman Killed By Police', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trans-vigil-car-hits-protesters_us_599e4288e4b06d67e3351ccc', 'short_description': 'The motorist reportedly had his middle finger raised.', 'date': '2017-08-24'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "He's Baaaack! Will Ferrell Does Nostalgic Turn As George Dubya On 'SNL'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/will-ferrell-does-george-dubya-onsnl_us_5a6d5393e4b06e2532683045', 'short_description': 'He\'s no "economer," but stock market was "no bueno" when he was president.', 'date': '2018-01-28'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jimmy Kimmel Got His Own Mean Tweets After His Message To Trump Supporters', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-mean-tweets-after-his-message-to-trump-supporters_us_59959442e4b06ef724d6c292', 'short_description': '"I want to thank everyone for the feedback."', 'date': '2017-08-17'}

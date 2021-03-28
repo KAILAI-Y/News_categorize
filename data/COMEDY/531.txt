@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Someone Cut 'The Room' Into An Awesome Prince Song Parody", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/oh-shelia-someone-cut-the-room-into-an-awesome-prince-song-parody_us_5a216851e4b03350e0b63e9a', 'short_description': 'Scientists believe "The Room" is the reason doves cry.', 'date': '2017-12-01'}

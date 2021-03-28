@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Charlie Sheen Auctions Off Prized Babe Ruth Memorabilia', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/charlie-sheen-to-auction-off-prized-babe-ruth-memorabilia_us_5951fd57e4b05c37bb78ff7d', 'short_description': "Sheen was the owner of the Bambino's 1927 World Series ring.", 'date': '2017-06-27'}

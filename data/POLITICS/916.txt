@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mark Zuckerberg's Senate Testimony Predictably Led To Memes Galore", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/mark-zuckerberg-facebook-senate-testimony-memes_us_5acd0806e4b09212968c6193', 'short_description': 'Yes, there were a lot of "The Social Network" references.', 'date': '2018-04-10'}

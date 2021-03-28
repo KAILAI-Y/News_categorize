@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Texas Town's '0.5K' Fun Run Is A Cakewalk Even For The Lazy", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/boerne-texas-05k-run_us_5ae367dbe4b02baed1ba2ad2', 'short_description': "There's a donut stand about 150 meters into the run — it's next to the smoking section.", 'date': '2018-04-27'}

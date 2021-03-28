@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Details Where His $1 Million In Harvey Donations Will Go', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/trump-harvey-donations_us_59b05097e4b0354e440f0433', 'short_description': 'The president will donate to the American Red Cross, the Salvation Army and other relief organizations.', 'date': '2017-09-06'}

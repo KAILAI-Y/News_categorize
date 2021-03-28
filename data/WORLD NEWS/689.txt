@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Hamas Calls For New Palestinian Uprising Against Israel After Trump's Jerusalem Move", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/hamas-uprising-israel-jerusalem_us_5a2903b4e4b03ece03002578', 'short_description': "The U.S. officially recognized the holy city as Israel's capital.", 'date': '2017-12-07'}

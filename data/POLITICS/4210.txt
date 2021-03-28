@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Watch This GOP Congressman Literally Run Away From Questions About Roy Moore', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/mo-brooks-roy-moore_us_5a0c4ba0e4b0bc648a0f282a', 'short_description': 'Rep. Mo Brooks (R-Ala.) ran down a stairway blaming Democrats.', 'date': '2017-11-15'}

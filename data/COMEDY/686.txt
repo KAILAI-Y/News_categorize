@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Mitch McConnell Looking Queasy With Trump Prompts #FreeMcConnell Tweets', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/freemcconnell-mitch-mcconnell-trump-video_us_59e5af69e4b02a215b32990c', 'short_description': '“Blink once if you want us to come get you.”', 'date': '2017-10-17'}

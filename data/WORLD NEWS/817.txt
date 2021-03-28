@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Polish Woman Says She Was Dragged Out Of Church After Unfurling Anti-Racism Banner', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/polish-anti-racism-banner-church_us_5a0e10ece4b0dd63b1a95b1f', 'short_description': 'Her banner read, "Racism is a sin."', 'date': '2017-11-17'}

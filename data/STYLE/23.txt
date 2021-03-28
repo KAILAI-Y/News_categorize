@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Princess Charlotte Looks Adorable In Pictures From Her First Day Of School', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/princess-charlotte-first-day-school-photos_us_5a5397c6e4b0efe47ebb2d61', 'short_description': 'Her mother, the Duchess of Cambridge, took the sweet photos.', 'date': '2018-01-08'}

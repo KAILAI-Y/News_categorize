@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: Facebook: The New Federal Election Commission", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-facebook-the-new-federal-election-commission_us_59c39a8fe4b06f93538caa1b', 'short_description': 'The tech giant is now self-regulating political ads.', 'date': '2017-09-22'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Costa Rica's First Same-Sex Marriage Suffers Bureaucratic Hitch", 'authors': 'Enrique Andres Pretel, Reuters', 'link': 'https://www.huffingtonpost.com/entry/costa-rica-gay-marriage_us_5a642aa7e4b00228300373cd', 'short_description': 'Notaries are refusing to recognize the union until local laws are changed.', 'date': '2018-01-21'}

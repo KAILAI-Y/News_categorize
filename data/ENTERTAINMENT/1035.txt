@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Sterling K. Brown Thinks ‘Black Panther’ Can Inspire A New ‘This Is Us’ Episode', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/sterling-k-brown-idea-for-a-black-panther-this-is-us-crossover-episode_us_5a96e4f2e4b09c872bb0b1d9', 'short_description': "Let's make it happen.", 'date': '2018-02-28'}

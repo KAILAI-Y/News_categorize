@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "'Game Of Thrones' Featured A Consensual, Intimate Sex Scene", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-featured-a-consensual-intimate-sex-scene-and-it-was-beautiful_us_5975f8f8e4b09e5f6cd0b962', 'short_description': 'And it was beautiful.', 'date': '2017-07-24'}

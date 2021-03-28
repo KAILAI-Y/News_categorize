@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Gwyneth Paltrow: Ex-Husband Chris Martin Is Now 'Like My Brother'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/gwyneth-paltrow-chris-martin-brother-stephen-colbert_us_5a6aefbae4b0ddb658c53abd', 'short_description': '"We’re very familial."', 'date': '2018-01-26'}

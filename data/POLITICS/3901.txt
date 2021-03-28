@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Enough With The Death Raffles', 'authors': 'Valerie Plame  and Miranda Viscoli, Contributors', 'link': 'https://www.huffingtonpost.com/entry/enough-with-the-death-raffles_us_5a1d6a84e4b071403b290358', 'short_description': 'It is akin to selling cigarettes to raise money for lung cancer research.', 'date': '2017-11-28'}

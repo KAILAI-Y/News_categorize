@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'AFL-CIO Leader Says Hope For Working With Trump Has Faded', 'authors': 'Dave Jamieson', 'link': 'https://www.huffingtonpost.com/entry/afl-cio-richard-trumka-trump_us_59a6e415e4b084581a14e57e', 'short_description': 'AFL-CIO President Richard Trumka says the Wall Street wing in the White House has taken control.', 'date': '2017-08-30'}

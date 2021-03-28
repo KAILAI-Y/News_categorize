@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "What The White House Won't Say About Rob Porter's Exit", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/rob-porter-white-house_us_5a7cbf87e4b0c6726e1136f1', 'short_description': 'Things are still pretty unclear.', 'date': '2018-02-08'}

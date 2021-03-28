@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Steve Bannon Doesn't Deny Anything He Said In 'Fire And Fury'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-fire-and-fury-no-denial_us_5aaabff4e4b073bd829303ed', 'short_description': '"I don’t deny any of the content," he told a French outlet.', 'date': '2018-03-15'}

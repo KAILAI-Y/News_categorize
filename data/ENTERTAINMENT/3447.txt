@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Two Grown Men Had A Toddler-Like Meltdown On 'The Bachelorette' And It Was Amazing", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/lucas-blake-bachelorette_us_59360d9ae4b013c4816a8207', 'short_description': 'Whaboom out!', 'date': '2017-06-06'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Powerful Documentary Takes A Look At Being Undocumented and Queer In The South', 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/forbidden-docuentary-logo_us_59b0a81ce4b0dfaafcf54769', 'short_description': '"The time to be in the shadows, that time is over. That time is long gone."', 'date': '2017-09-07'}

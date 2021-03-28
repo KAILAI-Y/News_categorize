@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Nurses Endure A Shocking Amount Of Violence On The Job', 'authors': 'Anna Almendrala', 'link': 'https://www.huffingtonpost.com/entry/nurses-violence-police_us_59a9c2f9e4b0dfaafcf07093', 'short_description': "Usually, though, it's not at the hands of police officers.", 'date': '2017-09-01'}

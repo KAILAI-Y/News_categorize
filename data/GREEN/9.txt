@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Wildfire-Scarred California Communities Must Now Brace For Floods', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/california-wildfires-flood-threat_us_5a5275e8e4b003133ec8d697', 'short_description': "The state can't catch a break.", 'date': '2018-01-07'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Gigi Hadid Rocks Gray Lipstick Like It's No Big Deal", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/gigi-hadid-gray-lipstick_us_5971fb62e4b00e4363dee51e', 'short_description': 'When you need to match your nails no matter what.', 'date': '2017-07-21'}

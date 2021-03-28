@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Stormy Daniels' Attorney Predicts: 'I Do Not Think The President Will Serve Out His Term'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/michael-avenatti-trump-prediction_us_5ad94331e4b0e4d0715eced9', 'short_description': "Michael Avenatti said this won't end well for Donald Trump.", 'date': '2018-04-20'}

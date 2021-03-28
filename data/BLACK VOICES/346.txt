@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'This Necessary Database Could Help More Black Women Get Elected In 2018', 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/black-women-candidates-database-politicians_us_5a68b6e4e4b0dc592a0eae8e', 'short_description': 'The directory already has more than 400 candidates.', 'date': '2018-01-25'}

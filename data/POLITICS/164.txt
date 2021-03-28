@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Scam PACs Ripped Off Conservatives With Pro-Police, Anti-Abortion Messages: Prosecutors', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/scam-pac-arrest_us_5afdea34e4b0a59b4e01ffa8', 'short_description': 'The scam allegedly raised $23 million from donors from 2014 to 2017.', 'date': '2018-05-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "President Ruins D.C.'s Plan To Phone It In This Week", 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/president-ruins-dcs-plan-to-phone-it-in-this-week_us_595d5bace4b0d5b458e7de9b', 'short_description': 'So much for that 3-day week...', 'date': '2017-07-05'}

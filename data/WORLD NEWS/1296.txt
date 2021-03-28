@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Kremlin: We Received Trump Tower Email, Did Not Respond', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/kremlin-we-received-trump-tower-email-did-not-respond_us_59a6b036e4b00795c2a2e8d9', 'short_description': '"This is not our job, we left this matter without a response."', 'date': '2017-08-30'}

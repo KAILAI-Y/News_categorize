@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Anthony Lamar Smith's Brother: The Justice System Doesn't Care About Us", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/anthony-lamar-smith-brother-st-louis_us_59bc1740e4b0edff971bdab1', 'short_description': 'Antwan Johnson vowed to continue to fight for justice.', 'date': '2017-09-15'}

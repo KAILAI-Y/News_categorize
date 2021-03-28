@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Decision To Impose Tariffs Draws Bipartisan Condemnation", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-tariffs-republicans_us_5aa1a1dce4b06d2d28921aa4', 'short_description': '"Congress cannot be complicit as the administration courts economic disaster,” Sen. Jeff Flake warns.', 'date': '2018-03-08'}

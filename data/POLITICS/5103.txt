@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Goes After The Free Press Yet Again', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-media-attacks_us_59de2349e4b0b26332e852f2', 'short_description': 'The president suggested it might be time to "challenge" NBC\'s "license" to broadcast.', 'date': '2017-10-11'}

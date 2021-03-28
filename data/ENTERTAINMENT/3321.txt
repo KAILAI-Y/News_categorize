@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "What You Didn't Notice About Melissa McCarthy's Sean Spicer Sketch On 'SNL'", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-melissa-mccarthy-snl-podium_us_5952bee5e4b05c37bb7a2612', 'short_description': 'How to create a magical podium.', 'date': '2017-06-28'}

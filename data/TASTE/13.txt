@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Twitter Users Call Out New York Times’ Chopsticks Photo For Cultural Insensitivity', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/new-york-times-chopsticks-photo_us_5a454f27e4b06d1621b7b8fa', 'short_description': 'The chopsticks were placed in a manner reserved for funerals.', 'date': '2017-12-28'}

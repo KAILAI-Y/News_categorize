@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Judge To Settle Fight Over Charles Manson's 'Murderabilia'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/charles-manson-estate_us_5a52c8bbe4b089e14dbc36e2', 'short_description': "A pen pal and men claiming to be Manson's son and grandson are battling for the killer's estate.", 'date': '2018-01-08'}

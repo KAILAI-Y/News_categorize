@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Tropical Storm Ophelia Tears Through Ireland', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/tropical-storm-ophelia_us_59e4cbe3e4b03a7be582398d', 'short_description': 'It was the worst storm to hit Ireland in half a century.', 'date': '2017-10-16'}

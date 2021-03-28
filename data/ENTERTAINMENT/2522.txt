@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Rock & Roll Hall Of Fame Might Induct Radiohead In 2018', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/rock-roll-hall-fame-radiohead_us_59d64497e4b0380b6c9aad62', 'short_description': 'The institution will also consider Bon Jovi, Nina Simone, LL Cool J and Depeche Mode.', 'date': '2017-10-05'}

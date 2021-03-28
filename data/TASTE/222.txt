@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'How To Season Your Food With Salt Like A Chef', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/how-to-salt-like-a-chef_us_59760b3fe4b00e4363e106af', 'short_description': "It's all in the wrist.", 'date': '2017-07-25'}

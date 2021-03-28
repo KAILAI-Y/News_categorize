@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The GOP Tax Law May Be Growing A Little Less Unpopular', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/gop-tax-law-support-polls_us_5a678cc5e4b0022830076ba3', 'short_description': 'Some polls show ratings rising for the legislation, while others suggest less of a shift.', 'date': '2018-01-23'}

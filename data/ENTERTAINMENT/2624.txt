@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Charles Bradley, 'Screaming Eagle Of Soul,' Dead At 68", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/charles-bradley-dies_us_59c6accfe4b06ddf45f849ef', 'short_description': 'The singer was known for his powerful performances.', 'date': '2017-09-23'}

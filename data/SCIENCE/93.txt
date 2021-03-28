@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'The Fastest Way To Chill Your Beer', 'authors': 'Popular Science, ContributorPopular Science brings its readers amazing innovations and dis...', 'link': 'https://www.huffingtonpost.com/entry/the-fastest-way-to-chill-your-beer_us_592f2663e4b017b267edffa0', 'short_description': 'Happy drinking!', 'date': '2017-05-31'}

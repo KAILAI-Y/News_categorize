@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Oh The Horror: 'Kanye's Place' Terrifies On 'Saturday Night Live'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/kanyes-place-saturday-night-live_us_5aee8a8ee4b0c4f193235388', 'short_description': 'Donald Glover and pals face the monster.', 'date': '2018-05-06'}

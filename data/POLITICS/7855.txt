@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOPer Who Voted To Impeach Bill Clinton: Donald Trump Situation Is 'Much More Serious'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bob-inglis-donald-trump-bill-clinton-impeachment_us_595b4733e4b05c37bb7fe70b', 'short_description': '"This is something quite different."', 'date': '2017-07-04'}

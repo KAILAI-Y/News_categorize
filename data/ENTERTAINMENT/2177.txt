@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Trevor Noah Has A Brutal Response To Louis C.K. Sexual Misconduct Allegations', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-louis-ck-sexual-misconduct_us_5a053ea6e4b05673aa58825b', 'short_description': 'Ouch.', 'date': '2017-11-10'}

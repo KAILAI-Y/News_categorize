@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'More Than 100 Dead In Philippine Mudslides And Flash Flooding', 'authors': 'Manuel Mogato, Reuters', 'link': 'https://www.huffingtonpost.com/entry/philippines-tropical-storm-flooding_us_5a3e3cc1e4b025f99e1756fb', 'short_description': 'Dozens of people are also missing after a tropical storm struck.', 'date': '2017-12-23'}

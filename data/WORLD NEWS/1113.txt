@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Iran Snubs Trump's Demands And Vows To Strengthen Its Military, Missile Capabilities", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/iran-missile-military_us_59c4b7cee4b01cc57ff1204b', 'short_description': '"We will not seek permission from anyone to defend our country."', 'date': '2017-09-22'}

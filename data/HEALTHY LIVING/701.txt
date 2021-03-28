@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Study Says You Feel More Attractive When You Wear This Color', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/you-feel-more-attractive-when-you-wear-this-color_us_59565e57e4b0da2c73230101', 'short_description': 'Time to check your closet?', 'date': '2017-07-03'}

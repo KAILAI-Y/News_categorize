@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Has No Time For The GOP's Weird GIF Response To Comey Statement", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/twitter-has-no-time-for-the-gops-weird-gif-response-to-comey-statement_us_59385747e4b0c5a35c9b777d', 'short_description': '"This seems a tad tone deaf."', 'date': '2017-06-07'}

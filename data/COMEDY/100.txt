@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Dave Chappelle Shreds White House For Taking Offense At Michelle Wolf’s Jokes', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/dave-chappelle-michelle-wolf-white-house_us_5ae7dd72e4b055fd7fcf0535', 'short_description': '"I don’t know who those people think they are."', 'date': '2018-05-01'}

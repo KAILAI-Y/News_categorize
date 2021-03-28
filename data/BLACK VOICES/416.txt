@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Hip-Hop Pioneer Reggie 'Combat Jack' Ossé Dead At 48", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/hip-hop-pioneer-reggie-combat-jack-oss%C3%A9-dead-at-48_us_5a3a8380e4b025f99e13d190', 'short_description': 'The "Combat Jack Show" host was recently diagnosed with colon cancer.', 'date': '2017-12-20'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Satanists Adopted A Highway So You May As Well Start Playing Some AC/DC Now', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/satanists-adopt-a-highway_us_5a700680e4b00d0de2234857', 'short_description': "The devil didn't make them do it. They did it of their own free will.", 'date': '2018-01-30'}

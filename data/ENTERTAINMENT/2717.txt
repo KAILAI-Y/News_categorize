@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Joan Osborne Releases Album Of Bob Dylan Covers At The Perfect Time', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/joan-osborne-bob-dylan-covers-album_us_59b5dfe9e4b0b5e531070b36', 'short_description': "The singer got goosebumps while recording Dylan's songs.", 'date': '2017-09-11'}

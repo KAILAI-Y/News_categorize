@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Netflix To Shut Down Planned Louis C.K. Comedy Special', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/netflix-to-shut-down-planned-louis-ck-comedy-special_us_5a05ceede4b0e37d2f37310c', 'short_description': 'Netflix called the sexual misconduct allegations against him "disturbing."', 'date': '2017-11-10'}

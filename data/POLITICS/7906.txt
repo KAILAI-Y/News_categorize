@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Thousands March In LA To Call For Trump's Impeachment", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/impeachment-march-los-angeles_us_59595a8ce4b05c37bb7f16ee', 'short_description': 'The massive gathering was one of many impeachment marches across the country Sunday.', 'date': '2017-07-02'}

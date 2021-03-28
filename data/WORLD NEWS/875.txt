@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Saudi Arabia Says It Intercepts Missile Close To Capital', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/saudi-arabia-says-it-intercepts-missile-close-to-capital_us_59fe1136e4b0c9652fffa794', 'short_description': 'No casualties were reported.', 'date': '2017-11-04'}

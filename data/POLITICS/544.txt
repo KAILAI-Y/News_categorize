@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "FIFA Cites Ethics Rules After Trump's Threatening World Cup Tweet", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/fifa-warns-trump-off-bullying-for-world-cup_us_5ae3bd2ae4b04aa23f233b90', 'short_description': "North America's bid to host the 2026 World Cup could be in even more trouble now.", 'date': '2018-04-28'}

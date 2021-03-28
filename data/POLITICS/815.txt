@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Reporter Reveals How Trump Ginned Up That 'Best Sex' Front-Page Story", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/story-of-trump-best-sex-tabloid-headline_us_5acfdc6fe4b016a07e9aa5a0', 'short_description': 'He was blowing his own horn again.', 'date': '2018-04-13'}

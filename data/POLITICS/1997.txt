@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Open To Improving Gun Background Check System, White House Says', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-gun-background-checks_us_5a8ade5ee4b00bc49f46c0fe', 'short_description': 'A small step in the wake of the Parkland shooting.', 'date': '2018-02-19'}

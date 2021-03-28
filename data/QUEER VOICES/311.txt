@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Malaysian Newspaper Slammed For 'How To Spot A Gay' List", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/malaysia-newspaper-gay-list_us_5a81bb6ae4b08dfc93067b06', 'short_description': "The article underscores the country's rigid stance on LGBTQ rights.", 'date': '2018-02-12'}

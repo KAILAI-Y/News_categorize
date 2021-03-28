@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'This AI Robot Shading Chrissy Teigen Makes Us Fear For Humanity', 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-sophia-the-robot-twitter_us_5a579fd7e4b018a4f8b6c908', 'short_description': 'It was nice knowing you, Chrissy!', 'date': '2018-01-11'}

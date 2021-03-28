@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Charlotte Pence: I Bought The Gay Bunny Book', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/charlotte-pence-bought-john-oliver-book_us_5ab33c7ee4b054d118df9c5e', 'short_description': '“I think that everybody can come together over Marlon.”', 'date': '2018-03-22'}

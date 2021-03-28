@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Portugal Forest Fire Kills At Least 19, Government Says', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/portugal-forest-fire-deaths_us_5945c6bbe4b0f15cd5bbd127', 'short_description': 'The fire, which has yet to be controlled, is already one of the deadliest forest fires in Portugal in decades.', 'date': '2017-06-18'}

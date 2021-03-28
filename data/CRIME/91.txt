@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'U.S. Charges Iranians For Global Cyber Attacks', 'authors': 'Dustin Volz, Reuters', 'link': 'https://www.huffingtonpost.com/entry/doj-charges-iranians-cyber-attack_us_5ab50ce4e4b054d118e2365c', 'short_description': 'The attack pilfered more than 31 terabytes of academic data and intellectual property.', 'date': '2018-03-23'}

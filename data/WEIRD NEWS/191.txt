@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'People Are Suggesting How To #FixTrumpIn5Words', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/fix-trump-5-words-twitter_us_5a589cd8e4b0720dc4c635c4', 'short_description': '"Swap phone for fidget spinner."', 'date': '2018-01-12'}

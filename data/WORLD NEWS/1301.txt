@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Inflating The Russian Threat', 'authors': 'Jonathan Marshall, ContributorIndependent scholar and journalist', 'link': 'https://www.huffingtonpost.com/entry/inflating-the-russian-threat_us_59a5ca85e4b08299d89d0a74', 'short_description': 'U.S. media are exaggerating the military threat posed by the Kremlin.', 'date': '2017-08-29'}

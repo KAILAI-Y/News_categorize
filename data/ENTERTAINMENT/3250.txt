@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Game Of Thrones' Actor Iain Glen Shoots Down 'Evil Dany' Theory", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-actor-shoots-down-popular-evil-daenerys-theory_us_596118e6e4b0d5b458eacb84', 'short_description': 'Because, duh, he would.', 'date': '2017-07-08'}

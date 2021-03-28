@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "With Priebus Out, Tweeters Think Trump Is Just Copying 'Game Of Thrones' Now", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reince-priebus-out-twitter-reacts_us_597c4a98e4b0da64e8795407', 'short_description': '"Can\'t believe Joffrey killed off Reince Priebus."', 'date': '2017-07-29'}

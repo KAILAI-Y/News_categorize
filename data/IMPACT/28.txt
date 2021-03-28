@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "Here's What Everyone Gets Wrong About Social Anxiety", 'authors': 'Lauren Rearick', 'link': 'https://www.huffingtonpost.com/entry/social-anxiety-misconceptions_us_5abd17e8e4b04a59a315934a', 'short_description': 'This is not about being shy.', 'date': '2018-04-10'}

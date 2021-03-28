@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'New Earthquake Spreads Alarm, Sends Mexicans Into Streets', 'authors': 'Julia Love and Noe Torres, Reuters', 'link': 'https://www.huffingtonpost.com/entry/mexico-earthquake_us_59c66debe4b06ddf45f8410f', 'short_description': 'At least 384 people in Mexico have died from earthquakes this month.', 'date': '2017-09-23'}

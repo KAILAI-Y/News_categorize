@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Samantha Bee's Team Discovers Apologizing For Trump Is An 'Impossible Mission'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-full-frontal-donald-trump-apology_us_5a69b64ee4b00228300984bf', 'short_description': 'It\'s not as easy, as the "Full Frontal" correspondents find out.', 'date': '2018-01-25'}

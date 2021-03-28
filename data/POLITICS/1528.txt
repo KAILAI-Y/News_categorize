@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's New CIA Director Helped Oversee Controversial Torture Program", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/gina-haspel-cia-torture-program_us_5aa7cc83e4b087e5aaedde71', 'short_description': 'Gina Haspel was reportedly involved in the waterboarding of at least one terror suspect.', 'date': '2018-03-13'}

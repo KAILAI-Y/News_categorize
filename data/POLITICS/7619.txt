@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Judge Halts Deportation Of Nearly 200 Iraqi Immigrants', 'authors': 'Dan Levine, Reuters', 'link': 'https://www.huffingtonpost.com/entry/judge-halts-deportation-of-iraqi-immigrants_us_59656561e4b09b587d633d21', 'short_description': 'Judge Mark Goldsmith said the individuals could be targeted for attacks in Iraq.', 'date': '2017-07-12'}

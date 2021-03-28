@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Amazon Stock Surge Makes Jeff Bezos Richest Man On Earth', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/bezos-richest-man-on-earth_us_59f3e7c3e4b03cd20b81c5bf', 'short_description': 'His net worth jumped $10.4 billion in a single day to $93.8 billion.', 'date': '2017-10-28'}

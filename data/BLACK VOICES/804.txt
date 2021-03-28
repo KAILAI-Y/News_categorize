@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Dr. Dre Opens Up About His Assault On Music Journalist Dee Barnes', 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/dr-dre-opens-up-about-his-assault-on-music-journalist-dee-barnes_us_596640c2e4b005b0fdca5456', 'short_description': '"I was out of my f**king mind."', 'date': '2017-07-12'}

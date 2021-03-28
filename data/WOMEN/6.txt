@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Trump Knew A 'Scary' Amount About The Appearance Of Bill Gates' Daughter", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/trump-knew-a-scary-amount-about-the-appearance-of-bill-gates-daughter_us_5b008e4ce4b07309e058f5ba', 'short_description': 'Nope nope nope nope nope nope nope.', 'date': '2018-05-19'}

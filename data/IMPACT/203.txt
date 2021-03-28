@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "The South's Rising Progressive Stars", 'authors': 'Jordan Barkin, ContributorWriter', 'link': 'https://www.huffingtonpost.com/entry/the-souths-rising-progressive-stars_us_59b80e16e4b0883782dec34b', 'short_description': 'They will most likely become national figures in the next few years.', 'date': '2017-09-12'}

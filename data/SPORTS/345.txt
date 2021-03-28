@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Washington State Quarterback Tyler Hilinski Found Dead In Apparent Suicide', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/tyler-hilinski-dead_us_5a5ef045e4b096ecfca89cbe', 'short_description': 'Hilinski was widely expected to be the starter heading into the 2018 season.', 'date': '2018-01-17'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Mass Graves Suggest Systematic Killing Of Rohingya In Myanmar', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/rohingya-mass-graves-myanmar_us_5a734e7ae4b0905433b21a6e', 'short_description': "The country's government denies it's engaged in ethnic cleansing.", 'date': '2018-02-01'}

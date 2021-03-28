@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Playboy Joins Exodus From 'Sexually Repressive' Facebook", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/playboy-quits-facebook_us_5abb6a88e4b04a59a312cc58', 'short_description': 'Backlash to the Cambridge Analytica data scandal continues.', 'date': '2018-03-28'}

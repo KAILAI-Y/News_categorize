@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "This Was Fashion's Most Diverse Season Yet", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/diversity-in-fashion_us_59e4f2b1e4b03a7be582815a', 'short_description': "Of course, there's still plenty of work to be done.", 'date': '2017-10-16'}

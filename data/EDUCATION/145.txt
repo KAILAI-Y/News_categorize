@@ -1,0 +1,1 @@
+{'category': 'EDUCATION', 'headline': 'Seven Ways DeVos Has Failed Higher Education', 'authors': 'Jonathan Hebert, ContributorDisplaced Southerner -- Student Activism and Education Reform', 'link': 'https://www.huffingtonpost.com/entry/office-of-civil-rights-swings-towards-accused-devos_us_596cd845e4b022bb9372b358', 'short_description': 'Make it stop.', 'date': '2017-07-17'}

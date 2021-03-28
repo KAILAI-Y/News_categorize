@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Boko Haram Killings Doubled In Past 5 Months, Amnesty International Reports', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/boko-haram-killings_us_59ae7648e4b0354e440c482a', 'short_description': 'The Islamist militant group has killed more than 380 civilians in Nigeria and Cameroon since April.', 'date': '2017-09-05'}

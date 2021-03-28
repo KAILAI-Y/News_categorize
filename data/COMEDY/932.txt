@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trump Actually Has Other Fake Magazine Covers Hanging Around His Properties', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/trump-actually-has-other-fake-magazine-covers-hanging-around-his-properties_us_5954195de4b05c37bb7bcf68', 'short_description': "And we've uncovered them.", 'date': '2017-06-28'}

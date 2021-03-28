@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Tickets to SNL: A Survival Story', 'authors': 'Jenny Ward, ContributorComedy Writer, Actor, Woman-About-Town', 'link': 'https://www.huffingtonpost.com/entry/tickets-to-snl-a-survival-story_us_596680ade4b0524d8fa7fa85', 'short_description': 'The road to Studio 8H was a harrowing one.', 'date': '2017-07-12'}

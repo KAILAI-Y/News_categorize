@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Organization Ordered Presidential Seals For Trump Golf Courses: Report', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/presidential-seals-for-trump-golf-course_us_5a9d75d7e4b089ec353d7ec4', 'short_description': 'Using the presidential seal at a Trump golf course could be illegal.', 'date': '2018-03-06'}

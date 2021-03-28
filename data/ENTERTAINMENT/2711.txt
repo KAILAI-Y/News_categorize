@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Steve Bannon Swears He's Doesn't Care About Those 'SNL' Grim Reaper Skits", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-tries-to-brush-off-snl-showing-him-as-grim-reaper_us_59b67e3fe4b0dfaafcf92a49', 'short_description': '"You can call me anything you want."', 'date': '2017-09-11'}

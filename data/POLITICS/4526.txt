@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Tweets Cryptic Response To Twitter Account Deletion', 'authors': 'Doha Madani and Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-twitter-deleted-account_us_59fbd4f8e4b0415a420acde2', 'short_description': '"I guess the word must finally be getting out."', 'date': '2017-11-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: Judge Halts Trump Administration's Plan To Kill DACA", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-judge-halts-trump-administrations-plan-to-kill-daca_us_5a560212e4b0b117f880f598', 'short_description': 'While a lawsuit proceeds.', 'date': '2018-01-10'}

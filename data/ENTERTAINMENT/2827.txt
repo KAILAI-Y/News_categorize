@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Susan Bro Makes Powerful Plea At VMAs To 'Make Heather's Death Count'", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/susan-bro-mtv-vmas_us_599f24a6e4b0821444c1d19a', 'short_description': "Robert E. Lee's descendant joined Susan Bro to denounce racism and remember Heather Heyer.", 'date': '2017-08-28'}

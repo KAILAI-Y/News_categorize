@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Auschwitz Memorial Slams GOP Congressman For Recording Video Inside Gas Chamber', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/clay-higgins-auschwitz_us_595c9960e4b0da2c7325cb9d', 'short_description': 'Rep. Clay Higgins called for "invincible" military while in death chamber.', 'date': '2017-07-05'}

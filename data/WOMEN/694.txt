@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Bill Cosby Isn't The Exception, He's The Rule", 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/bill-cosby-mistrial-not-the-exception-the-rule_us_5943ebf0e4b0f15cd5baca95', 'short_description': 'A mistrial is a win for team Cosby. What did we expect?', 'date': '2017-06-17'}

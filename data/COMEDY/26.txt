@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Michelle Wolf's Netflix Trailer Gives Us A Closer Look At Her New Show", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/michelle-wolfs-netflix-trailer-gives-us-a-closer-look-at-her-new-show_us_5aff3723e4b07309e057f650', 'short_description': '"The Break with Michelle Wolf" starts May 27.', 'date': '2018-05-18'}

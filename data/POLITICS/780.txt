@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Campaign Continues Big Spending On Lawyers', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-campaign-continues-big-spending-on-lawyers_us_5ad42053e4b077c89ce9f089', 'short_description': "Trump's re-election campaign spent 20 percent of its 2018 expenditures on legal fees.", 'date': '2018-04-16'}

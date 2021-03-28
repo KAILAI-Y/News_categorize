@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Check Out Tokyo's New Godzilla Statue", 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/check-out-tokyos-new-godzilla-statue_us_5ab3df52e4b0decad047e348', 'short_description': 'Because of course they needed a new one.', 'date': '2018-03-22'}

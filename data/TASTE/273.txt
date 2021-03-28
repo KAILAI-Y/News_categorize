@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'These Wine Spritzer Recipes Are Coming For You, Whether You Like It Or Not', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/spritzer-recipes_us_5953f53fe4b0da2c7320a99e', 'short_description': "Don't think of them as a watered-down glass of wine. Think of them like boozy, bubbly water.", 'date': '2017-06-29'}

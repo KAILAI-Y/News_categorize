@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher Rips Donald Trump's Cabinet For ‘Verbally Fellating’ Their 'Dear Leader'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-donald-trump-gop-verbally-fellating_us_5944cb63e4b0f15cd5bb8b8e', 'short_description': '"These people used to have dignity."', 'date': '2017-06-17'}

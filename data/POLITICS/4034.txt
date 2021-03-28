@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Most Americans Aren't Planning To Talk Politics This Thanksgiving", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/most-americans-arent-planning-to-talk-politics-this-thanksgiving_us_5a15ab8de4b025f8e9330546', 'short_description': 'And more of the latest polling news.', 'date': '2017-11-22'}

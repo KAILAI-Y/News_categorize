@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Christina Aguilera And Melissa McCarthy Get 'Dirrty' On 'Carpool Karaoke'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/christina-aguilera-carpool-karaoke-melissa-mccarthy_us_5adef13ee4b036e7aeb5ed90', 'short_description': 'Rowdy!', 'date': '2018-04-24'}

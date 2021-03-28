@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mark Hamill Rips His Role In 'Last Jedi': 'He's Not My Luke Skywalker'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-last-jedi-luke-skywalker_us_5a3cf644e4b025f99e16864d', 'short_description': 'The actor dishes on his creative differences with director Rian Johnson.', 'date': '2017-12-22'}

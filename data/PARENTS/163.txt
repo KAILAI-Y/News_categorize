@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "AAP Issues New Guidelines For Doctors' Waiting Rooms", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/aap-issues-new-guidelines-for-doctors-waiting-rooms_us_59f1f28be4b07fdc5fbc5843', 'short_description': 'The notice offers new ways to prevent the spread of germs in these settings.', 'date': '2017-10-26'}

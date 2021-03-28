@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Theater Goes Nuts As Hillary Clinton Appears In The Audience', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-applause-broadway-show_us_595a8248e4b02734df33c3fd', 'short_description': '"We love you, Hillary!" the crowd called to the former presidential candidate.', 'date': '2017-07-03'}

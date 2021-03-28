@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Gayle King Says Oprah Is 'Intrigued By The Idea' Of Running For President", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/oprah-president-gayle-king_us_5a54b55be4b003133ecc2a89', 'short_description': 'But she\'s not "actively considering it at this time," said her longtime friend.', 'date': '2018-01-09'}

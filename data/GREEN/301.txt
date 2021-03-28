@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Snooty, World's Oldest Captive Manatee, Dead At 69", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/snooty-manatee-dead_us_5975903de4b09e5f6cd05ba1', 'short_description': '"A lot of people loved that manatee. We loved him too."', 'date': '2017-07-24'}

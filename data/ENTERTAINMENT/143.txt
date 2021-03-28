@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jim Carrey's New Blood-Dripping Portrait Takes Aim At 'National Disgrace' NRA", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jim-carrey-nra-oliver-north-portrait_us_5afa989ce4b0200bcab87906', 'short_description': '"The venom of greed is killing America."', 'date': '2018-05-15'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Emilia Clarke Should Never Try To Imitate Chewbacca Ever Again', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/emilia-clarke-chewbacca-tonight-show_us_5b04422ae4b003dc7e46e315', 'short_description': 'The "Solo" star\'s Wookiee mistake is pretty hilarious.', 'date': '2018-05-22'}

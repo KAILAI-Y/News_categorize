@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Bachelor' Curse Strikes Again As Nick Viall And Vanessa Grimaldi Split", 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/bachelor-stars-nick-viall-and-vanessa-grimaldi-split_us_59a03658e4b05710aa5bcb23', 'short_description': 'And the fairy tale ends.', 'date': '2017-08-25'}

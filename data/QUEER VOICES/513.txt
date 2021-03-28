@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Russell Tovey Says Playing A Gay Superhero 'Feels Wonderful'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/russell-tovey-gay-superhero_us_5a29b88ae4b073789f686a2b', 'short_description': 'The actor manipulates light and shares a steamy smooch as The Ray.', 'date': '2017-12-08'}

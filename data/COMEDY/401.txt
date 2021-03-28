@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Rips Donald Trump's 'Sh**ty' Handling Of Crisis In Puerto Rico", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-puerto-rico-recovery-grades_us_5a5f0989e4b096ecfca8b350', 'short_description': '“If that’s what Trump considers a 10, what would a 9 be?"', 'date': '2018-01-17'}

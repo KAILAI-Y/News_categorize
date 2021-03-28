@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Watch Rebel Wilson Re-enact Her 'Pitch Perfect' Audition", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rebel-wilson-pitch-perfect-graham-norton_us_5a2bb325e4b069ec48adab41', 'short_description': '“I was a little nervous but I thought, just crush it."', 'date': '2017-12-09'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Samantha Bee Takes Aim At 'Critically-Acclaimed Pervert' Louis C.K.", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-roy-moore-louis-ck_us_5a0d420fe4b0b37054f46e72', 'short_description': '“Each community has to kick out their own creeps."', 'date': '2017-11-16'}

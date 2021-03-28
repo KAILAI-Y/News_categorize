@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Lied He Was 'Ladies Man' At All-Male School, Biographer Says", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trump-biographer-trump-liar_us_5adafae9e4b009869bf99816', 'short_description': '"He has been doing this forever," the author said of Trump\'s habit of lying.', 'date': '2018-04-21'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'South Korea Joins The #MeToo Movement', 'authors': 'Sanga Kwak', 'link': 'https://www.huffingtonpost.com/entry/south-korea-metoo_us_5a79fcfae4b06505b4e8b592', 'short_description': 'South Korean prosecutor Seo Ji-hyeon inspired a wave of women to come forward and tell their stories.', 'date': '2018-02-06'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pro-Trump Bloggers Are Trying To Disown The Alt-Right Brand After Charlottesville', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/alt-right-charlottesville_us_59932926e4b04b193360992e', 'short_description': 'Meet the "New Right." Same as the alt-right?', 'date': '2017-08-16'}

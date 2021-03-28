@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Shawn Mendes Says He Almost Starred In 'Love, Simon'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/shawn-mendes-love-simon_us_5ab47ef5e4b008c9e5f5df9c', 'short_description': 'The singer "would\'ve loved" to play the lead in the gay teen comedy.', 'date': '2018-03-25'}

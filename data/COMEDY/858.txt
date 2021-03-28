@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Paul Ryan's 'Super Weird' New 'Action Hero' Video Backfires Spectacularly", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-action-hero_us_5981021de4b0353fbb33568c', 'short_description': "The House speaker's appeal for border wall funding gets really awkward.", 'date': '2017-08-01'}

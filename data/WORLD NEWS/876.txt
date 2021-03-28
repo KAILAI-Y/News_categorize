@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Lebanese Prime Minister Resigns, Attacking Iran, Hezbollah', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/lebanese-prime-minister-resigns_us_59fdf41be4b0baea26320425', 'short_description': 'Saad al-Hariri said he believed there was an assassination plot against him.', 'date': '2017-11-04'}

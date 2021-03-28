@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'SNL' Spoofs Oscars, Flames Hollywood Sex Harassment With 'Grabbies' Awards", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snl-sex-harassment-grabbies_us_5a9b8b52e4b0a0ba4ad40ed8', 'short_description': 'Awards granted for "Best Non-Apology" and "Handiest Actor."', 'date': '2018-03-04'}

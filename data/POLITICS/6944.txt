@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Morning Email: Trump Backs Plan To Reduce Number Of Legal Immigrants By Half', 'authors': 'Kate Sheppard', 'link': 'https://www.huffingtonpost.com/entry/morning-email-trump-immigration_us_5982eedbe4b00f0084ae1d9d', 'short_description': 'And other top news for Thursday, August 3, 2017.', 'date': '2017-08-03'}

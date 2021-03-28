@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Cheyenne Jackson Thinks 'American Horror Story' Has Never Been Scarier", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/cheyenne-jackson-american-horror-story_us_59dd0a0be4b0b26332e721dc', 'short_description': 'A single text message from creator Ryan Murphy drew him back to the franchise.', 'date': '2017-10-10'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Aaron Rodgers Says Colin Kaepernick Should Be On An NFL Team 'Right Now'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/aaron-rodgers-says-colin-kaepernick-should-be-on-an-nfl-team-right-now_us_59a6cd15e4b063ae34da5b11', 'short_description': 'What are you waiting for, NFL?', 'date': '2017-08-30'}

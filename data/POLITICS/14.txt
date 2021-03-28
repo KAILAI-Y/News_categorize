@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'All The Things The NRA Has Blamed For The Texas School Shooting', 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/nra-santa-fe-school-shooting_us_5b05c2eae4b07c4ea104731e', 'short_description': "Godlessness. Too many doors in schools. Ritalin. Guess what's not on the list?", 'date': '2018-05-25'}

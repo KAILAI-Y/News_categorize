@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Mario Cantone Reveals How Social Media Got Him To Play 'The Mooch'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/mario-cantone-podcast-interview_us_59a096cee4b0821444c338b3', 'short_description': 'The actor-comedian has harsh words for Donald Trump, however.', 'date': '2017-08-28'}

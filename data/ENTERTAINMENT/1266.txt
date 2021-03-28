@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Zendaya Wants To Return To Disney To Create More Roles For Women Of Color', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/zendaya-disney-roles-women-of-color_us_5a78a870e4b0d3df1d14362d', 'short_description': '"It’s important that young people see themselves on the screen," she said.', 'date': '2018-02-05'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Rick Perry Took Chartered Jet Day Before Price Resigned', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/rick-perry-chartered-flight_us_59d66663e4b0becae8030994', 'short_description': 'The company declined to answer questions about the cost of the flight.', 'date': '2017-10-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Former CBO Directors Express 'Strong Objection' To GOP Attacks On Agency", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/cbo-obamacare-repeal_us_59721303e4b09e5f6cced90c', 'short_description': "They don't call out Republicans by name, but the letter's target is obvious.", 'date': '2017-07-21'}

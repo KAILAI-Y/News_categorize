@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Sorry, Ben Affleck, Make Way For Justin Theroux's Giant Rat Tattoo", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/ben-affleck-justin-theroux-back-tattoos_us_5b02e29be4b0a046186e6821', 'short_description': 'Ther-oh-my-God!', 'date': '2018-05-21'}

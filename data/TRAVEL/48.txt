@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '*Swoon*: The Dreamy Italian Villa From ‘Call Me By Your Name’ Is For Sale', 'authors': 'PureWow, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/swoon-the-dreamy-italian-villa-from-call-me-by_us_5a8ee107e4b0d0e89988e41d', 'short_description': 'We’re calling our broker ASAP.', 'date': '2018-02-27'}

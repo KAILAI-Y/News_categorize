@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Houses Of Worship Damaged By Natural Disasters Can Now Receive FEMA Aid', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/churches-fema-disaster-aid_us_5a4e7229e4b003133ec6624b', 'short_description': 'The decision is retroactive to mid-August 2017, when Hurricane Harvey hit Texas.', 'date': '2018-01-04'}

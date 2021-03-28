@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Real Bartenders Try To Spell 'Daiquiri' On 'Jimmy Kimmel Live!'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/real-bartenders-try-to-spell-daiquiri-on-jimmy-kimmel-live_us_59e89f84e4b08f9f9edd214b', 'short_description': 'And don\'t get them started on "Yo" as an attention-getter.', 'date': '2017-10-19'}

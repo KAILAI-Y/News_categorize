@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'AAAAAAH! The Horrifying Moment A Disney Animatronic Lost Its Head', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/disney-ursula-head-off_us_5a6eacd5e4b01fbbefb33ee7', 'short_description': "Here's something you don't see every day.", 'date': '2018-01-29'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Texas Republican Jeb Hensarling Says This Will Be His Last Term In Congress', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/jeb-hensarling-congressional-retirement_us_59f8cb79e4b0d1cf6e9103c1', 'short_description': "Yet another Republican announces they won't seek re-election.", 'date': '2017-10-31'}

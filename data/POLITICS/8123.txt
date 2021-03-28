@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democrat Says Obama Made 'Serious Mistake' On Russian Hacking", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/adam-schiff-russian-hacking_us_594fd2dfe4b02734df2b0c57', 'short_description': 'But Donald Trump "is in no position" to whine about it.', 'date': '2017-06-25'}

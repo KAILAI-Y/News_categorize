@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's 'Made In America' Week Is Already Backfiring Spectacularly", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-made-in-america_us_596c391ce4b03389bb1878e1', 'short_description': 'The president and his family have relied heavily on foreign manufacturing.', 'date': '2017-07-17'}

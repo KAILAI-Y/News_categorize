@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Samantha Bee Tells Hope Hicks Exactly What She Thinks Of Her: 'F**k You'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-hope-hicks-donald-trump_us_5ab35ba9e4b008c9e5f41941', 'short_description': '"You helped burn down democracy, b***h."', 'date': '2018-03-22'}

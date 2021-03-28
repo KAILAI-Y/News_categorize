@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "FCC Commissioner Pleads: 'Please Stop Us From Killing Net Neutrality'", 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/rosenworcel-net-neutrality-fcc_us_5a16e240e4b0cee6c04e8a40', 'short_description': 'The FCC plans to vote on a plan to eliminate net neutrality next month.', 'date': '2017-11-23'}

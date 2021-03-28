@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Walking Dead' Season 8 Premiere Leaves Burning Questions", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/the-walking-dead-season-8-premiere-leaves-burning-questions_us_59ea1c23e4b0df10767caf21', 'short_description': '"I hope you got your sh***ing pants on."', 'date': '2017-10-23'}

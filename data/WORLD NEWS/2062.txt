@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Ravaged By Climate Change, The Great Barrier Reef May Never Be The Same', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/great-barrier-reef-bleaching-decline_us_592d2d23e4b053f2d2add8ac', 'short_description': 'The decline of the iconic reef is now inevitable, experts say.', 'date': '2017-06-01'}

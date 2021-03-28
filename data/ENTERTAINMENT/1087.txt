@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Oprah Surprised Tiffany Haddish, Who Responded Like Any Mere Mortal Would', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/tiffany-haddish-meets-oprah_us_5a8edfb1e4b0161d43198ca1', 'short_description': '“When I woke up today, I just knew it was going to be magical.”', 'date': '2018-02-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump: North Korea Sanctions 'Nothing Compared To What Will Have To Happen'", 'authors': 'Roberta Rampton, Reuters', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-north-korea_us_59b824e7e4b02da0e13cccc6', 'short_description': '“We think it’s just another very small step, not a big deal."', 'date': '2017-09-12'}

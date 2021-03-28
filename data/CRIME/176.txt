@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '2 Dead, 1 Injured In Shooting At California Law Firm', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/2dead-at-longbeach-law-firm_us_5a472539e4b0b0e5a7a692a0', 'short_description': 'The gunman was reportedly an attorney fired by the firm.', 'date': '2017-12-30'}

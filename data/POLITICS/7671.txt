@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Team Is Lawyering Up Like Crazy", 'authors': 'Igor Bobic and Alissa Scheller', 'link': 'https://www.huffingtonpost.com/entry/trump-lawyers-russia_us_5963edfee4b03f144e2d1a1f', 'short_description': 'The Russia probe is a boon to the legal profession.', 'date': '2017-07-11'}

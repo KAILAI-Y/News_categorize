@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '10 Democratic Primaries To Watch In 2018', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/ten-democratic-primaries-to-watch-in-2018_us_5a4d652fe4b0b0e5a7aad4d5', 'short_description': 'These races could shape the party’s prospects in the midterm elections.', 'date': '2018-01-06'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Driver Tries To Pass Homer Simpson License Off As Real To Cops', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/fake-homer-simpson-driver-license_us_5aaceecae4b0c33361b0b256', 'short_description': "D'oh!", 'date': '2018-03-17'}

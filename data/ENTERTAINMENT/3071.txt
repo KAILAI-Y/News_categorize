@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Actor And Playwright Sam Shepard Dead At 73', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/sam-shepard-dead-death_us_597f473ce4b02a4ebb77001f', 'short_description': 'The star was battling ALS.', 'date': '2017-07-31'}

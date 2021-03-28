@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Asks For Van Gogh, Museum Offers Solid Gold Toilet Instead', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/trump-guggenheim-gold-toilet_us_5a6a4182e4b01fbbefb013a7', 'short_description': 'The artist of the piece says, "Everything seems absurd until we die and then it makes sense.”', 'date': '2018-01-26'}

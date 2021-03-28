@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': '20 Killer Recipes For Your Labor Day Cookout', 'authors': 'Jennifer Segal, ContributorChef, Cookbook Author, Busy Mom', 'link': 'https://www.huffingtonpost.com/entry/20-killer-recipes-for-your-labor-day-cookout_us_59a868cbe4b0c50640cd5dfd', 'short_description': "You can't go wrong with these delicious holiday dishes.", 'date': '2017-09-02'}

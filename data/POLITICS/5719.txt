@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Afghanistan Again?', 'authors': "Ann Jones, ContributorAuthor, 'They Were Soldiers: How the Wounded Return From Ameri...", 'link': 'https://www.huffingtonpost.com/entry/afghanistan-again_us_59c18b0be4b0186c22069b6f', 'short_description': "The American Military's Repetition-Compulsion Complex", 'date': '2017-09-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Conservative Group Moves To Block Michigan Gerrymandering Reform', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/michigan-gerrymandering-reform_us_5ae38ba3e4b055fd7fcbd725', 'short_description': 'A new lawsuit is trying to block voters from creating an independent redistricting commission.', 'date': '2018-04-27'}

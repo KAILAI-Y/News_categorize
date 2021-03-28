@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Alt-Right' Group Takes Aim At 'Black Panther.' Ryan Coogler Responds.", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/black-panther-movie-targeted-facebook-group_us_5a7354b9e4b06ee97af09216', 'short_description': "The director doesn't seem fazed.", 'date': '2018-02-02'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Post-Referendum, Kurds In Northern Iraq Might Be Heading For A Catastrophe', 'authors': 'Lennart Pfahler, HuffPost Germany', 'link': 'https://www.huffingtonpost.com/entry/kurdish-referendum-iraq_us_59cd33d5e4b0f18c4e3ce16e', 'short_description': 'Turkey, Iran and Iraq have all threatened retaliation.', 'date': '2017-09-28'}

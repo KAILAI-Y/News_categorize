@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "EMILY's List Makes Its First 2018 House Race Pick", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/emilys-list-katie-porter_us_593088cfe4b02478cb99dd97', 'short_description': "The fund for Democratic women backs Katie Porter in California's 45th District.", 'date': '2017-06-02'}

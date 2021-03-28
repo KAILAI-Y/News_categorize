@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'LGBTQ Leader Calls On Trump To Address Anti-Gay Chechnya Crisis With Putin', 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/chad-griffin-trump-putin_us_595d07f9e4b02734df355278', 'short_description': '"I urge you to stand with the victims."', 'date': '2017-07-05'}

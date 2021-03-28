@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "5 Cable-Cutting Problems You Probably Didn't Think About", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/cable-cord-cutting-problems_us_5a81adb9e4b044b3821fa129', 'short_description': 'Some important things to keep in mind before you cut the cord.', 'date': '2018-02-12'}

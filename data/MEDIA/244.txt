@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Dan Rather Launching Weekly Show With The Young Turks', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/dan-rather-young-turks-show_us_5a6527b4e4b0e5630070e83a', 'short_description': 'The move is motivated by Trump "continually, relentlessly damning the press," the veteran newsman said.', 'date': '2018-01-22'}

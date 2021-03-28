@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "White Supremacists Didn't Show Up In Boston, But These Awesome Signs Did", 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/boston-free-speech-rally-sign-photos_us_5998666ae4b0a2608a6ca765', 'short_description': 'Everyone loves a good protest sign.', 'date': '2017-08-19'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Sweet Newborn Photos Pay Tribute To Firefighter Dad', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/sweet-newborn-photos-pay-tribute-to-firefighter-dad_us_59662fc2e4b03f144e2fa283', 'short_description': 'Baby Hudson took his newborn photos at the fire station.', 'date': '2017-07-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Roy Moore Tries, Fails To Heckle Jimmy Kimmel', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-jimmy-kimmel-heckle_us_5a206063e4b03350e0b53b50', 'short_description': 'The comedian replied with a zinger of his own.', 'date': '2017-11-30'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The NRA Wants To Solve Domestic Violence By Arming Victims. It Probably Won't Work.", 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/nra-guns-domestic-violence_us_5967dd57e4b01741862645f2', 'short_description': 'Adding guns to an already violent situation creates the potential for disaster.', 'date': '2017-07-15'}

@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Wonder Woman Of The '70s Was A Brainy Latina", 'authors': 'Claudette Bakhtiar, ContributorWriter, Lawyer, Mom', 'link': 'https://www.huffingtonpost.com/entry/wonder-woman-of-the-70s-was-a-brainy-latina_us_595f9f82e4b0cf3c8e8d5809', 'short_description': 'I was the bookish child of immigrants and she was my hero.', 'date': '2017-07-08'}

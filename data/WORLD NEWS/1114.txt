@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "London Set To Lose Uber After Officials Pull Company's License", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/uber-banned-london_us_59c4e095e4b01cc57ff155f4', 'short_description': 'The city says the ride-share app has demonstrated a "lack of corporate responsibility."', 'date': '2017-09-22'}

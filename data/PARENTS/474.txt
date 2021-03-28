@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "11-Year-Old Boy Stuns Idina Menzel With Show-Stopping Performance Of 'Let it Go'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/idina-menzel-let-it-go-boy-luke-chacko_us_5987c863e4b08b75dcc7b888', 'short_description': 'WOW!', 'date': '2017-08-07'}

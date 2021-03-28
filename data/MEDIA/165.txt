@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "CNN Analyst Has A Reality Check For Trump Over 'Insane' Plan To Arm Teachers", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jeffrey-toobin-donald-trump-arming-teachers_us_5a8e2612e4b0617d4639cd00', 'short_description': '"Does anybody remember their teachers?"', 'date': '2018-02-22'}

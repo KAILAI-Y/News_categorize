@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5aa1a8cfe4b01b9b0a39881c', 'short_description': 'How to use bitcoins, Sam Nunberg jokes and more.', 'date': '2018-03-09'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Here Is The Ultimate Reading List For Pregnant Women', 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/best-advice-for-pregnant-women_us_59ce7c28e4b05f005d3421e1', 'short_description': "What you should ACTUALLY expect when you're expecting.", 'date': '2017-10-06'}

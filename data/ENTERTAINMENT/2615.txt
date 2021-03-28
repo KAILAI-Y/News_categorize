@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jon Stewart's War On BS Continues With Jordan Klepper", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/jordan-klepper-the-opposition_us_59c57e88e4b06ddf45f7f60c', 'short_description': '"The Opposition" is trying to accomplish Jon Stewart\'s final goal with "The Daily Show."', 'date': '2017-09-25'}

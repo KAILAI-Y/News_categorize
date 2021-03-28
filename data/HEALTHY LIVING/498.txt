@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Guys Feel More Rivalry With Siblings, Study Shows', 'authors': 'Sara G. Miller, Live Science', 'link': 'https://www.huffingtonpost.com/entry/guys-feel-more-rivalry-with-siblings-study-shows_us_598b4fc8e4b0a66b8bb0a332', 'short_description': 'But those differences seem to fade by adulthood.', 'date': '2017-08-09'}

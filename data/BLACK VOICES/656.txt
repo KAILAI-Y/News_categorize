@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "The '4:44' Syllabus For Black Men Is Here", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/jay-z-syllabus_us_59b05665e4b0354e440f0c3e', 'short_description': "Based on Jay-Z's groundbreaking album, the syllabus features readings on themes like masculinity and mental health.", 'date': '2017-09-06'}

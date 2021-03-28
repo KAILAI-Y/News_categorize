@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ivanka Trump's Vacation Picture Has A Confederate Flag In The Background", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trumps-vacation-photos-accidentally-include-a-confederate-flag_us_5a452be9e4b0b0e5a7a55119', 'short_description': "Someone should've flagged this photo.", 'date': '2017-12-28'}

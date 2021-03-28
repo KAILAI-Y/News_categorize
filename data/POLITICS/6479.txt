@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Judge Drops Death Penalty Option In Mass Murder Case Tainted By Misconduct', 'authors': 'Matt Ferner', 'link': 'https://www.huffingtonpost.com/entry/scott-dekraai-death-penalty_us_5995d163e4b0a2608a6a83ad', 'short_description': "It's a rare move and leaves Scott Dekraai likely facing eight consecutive life sentences.", 'date': '2017-08-18'}

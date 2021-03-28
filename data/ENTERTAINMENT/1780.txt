@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "7 Netflix Tricks That'll Change How You Watch Your Favorite Shows", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/netflix-streaming-hacks_us_5a37f49de4b040881becf451', 'short_description': 'Your bingeing will never be the same.', 'date': '2017-12-20'}

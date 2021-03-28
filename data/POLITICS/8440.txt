@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's What You Can Do To Help After The Alexandria Shooting", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/alexandria-shooting-how-to-help_us_59413b6ce4b09ad4fbe4903c', 'short_description': 'The shooting happened as lawmakers practiced for a charity baseball game.', 'date': '2017-06-14'}

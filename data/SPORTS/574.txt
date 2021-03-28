@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Bryce Harper Tells Kids: 'No Participation Trophies'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bryce-harper-tells-kids-no-participation-trophies_us_592c3687e4b053f2d2ad6c3e', 'short_description': '"First place only," the Washington Nationals star says.', 'date': '2017-05-29'}

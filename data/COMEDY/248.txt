@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Does A Stellar Impression Of Donald Trump Firing Rex Tillerson', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-tillerson_us_5aa88dbce4b0f7a689cd74cf', 'short_description': '"Late Show" host has some parting gifts for the former secretary of state.', 'date': '2018-03-14'}

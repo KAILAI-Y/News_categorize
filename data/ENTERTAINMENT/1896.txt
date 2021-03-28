@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Judd Apatow Dismantles White House Explanation For Trump's Slurred Speech", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/judd-apatow-dismantles-white-house-explanation-for-trumps-slurred-speech_us_5a29976fe4b03ece030100a6', 'short_description': '"That’s not dry mouth."', 'date': '2017-12-09'}

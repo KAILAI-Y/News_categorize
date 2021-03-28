@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Newt Gingrich: Mayors Pander To Black Citizens By Removing Statues', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/newt-gingrich-mayors-removing-statues_us_5992bb75e4b08a24727711ac', 'short_description': '"They are ... doing something that meets current demagogic needs," he told Fox News.', 'date': '2017-08-15'}

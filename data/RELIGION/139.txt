@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': '7 Trends That Offer A Snapshot Of American Religion Today', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/7-trends-that-offer-a-snapshot-of-american-religion-today_us_59b9a559e4b02da0e13eedbe', 'short_description': 'If the U.S. was once a white Christian nation, it is no longer.', 'date': '2017-09-14'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'Princess Diaries' Star Heather Matarazzo Is Engaged To Writer-Comedian Heather Turman", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/heather-matarazzo-heather-turman-engaged_us_5a5e5f1ae4b096ecfca845a6', 'short_description': 'The pair collaborated on the 2017 film "Stuck."', 'date': '2018-01-16'}

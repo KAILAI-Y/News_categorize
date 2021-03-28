@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '14 Awesome Parenting Moments From Blake Lively And Ryan Reynolds', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/awesome-parenting-moments-from-blake-lively-and-ryan-reynolds_us_599bb7fae4b04c532f43e092', 'short_description': 'The famous couple has two little girls.', 'date': '2017-09-20'}

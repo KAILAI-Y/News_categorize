@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Egregiously Misquotes Fox News To Attack Rival', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-misquotes-fox-news_us_5a9283aae4b0ee6416a40440', 'short_description': "He's either lying or not paying close enough attention.", 'date': '2018-02-25'}

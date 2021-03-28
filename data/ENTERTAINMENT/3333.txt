@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "T.J. Miller's Dad Told Him That 'Silicon Valley' Was Starting To Suck", 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/tj-miller-silicon-valley_us_5951164ee4b02734df2bdee7', 'short_description': 'The comedian just revealed why he left the show.', 'date': '2017-06-26'}

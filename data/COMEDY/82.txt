@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Late Late Show' Predicts Kentucky Derby In 'Completely Accurate' Way", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/late-late-show-predicts-kentucky-derby-in-completely-accurate-way_us_5aec668ce4b0c4f19321cef7', 'short_description': 'Lay those bets down, people.', 'date': '2018-05-04'}

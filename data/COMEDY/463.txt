@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Dude Raps About The Hell Of 2017 While Stress-Eating A Whole Pizza', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/rap-2017-pizza_us_5a37fda5e4b01d429ccb3d46', 'short_description': 'Written, performed and eaten by the artist.', 'date': '2017-12-18'}

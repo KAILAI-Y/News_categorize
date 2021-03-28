@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Doug Jones' Win Breaks Alabama's Long Record Of Electing Climate Change Deniers", 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/doug-jones-climate_us_5a318833e4b07ff75affe283', 'short_description': 'The lesson to Democrats: Don’t shy away from climate change.', 'date': '2017-12-13'}

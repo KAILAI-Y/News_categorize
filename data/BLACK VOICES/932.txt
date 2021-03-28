@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'NYPD Sergeant Charged With Murder In Shooting Of Elderly Woman With Mental Illness', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/hugh-barry-deborah-danner-murder-charge_us_592efbcce4b0e09b11ece818', 'short_description': 'Sgt. Hugh Barry shot Deborah Danner in her apartment in October.', 'date': '2017-05-31'}

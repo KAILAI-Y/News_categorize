@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump D.C. Hotel Made Massive Profits Amid Ethics Concerns', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-hotel-dc-profits_us_598db0f1e4b09096429653c4', 'short_description': 'The hotel took home around $2 million in profit this year.', 'date': '2017-08-11'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Watch Diddy Surprise His Daughters With The Best Christmas Gift', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/diddy-christmas-daughters_us_5a41cf12e4b025f99e181154', 'short_description': '"IF THIS AIN\'T CHRISTMAS, I DON\'T KNOW WHAT IS!!!!"', 'date': '2017-12-26'}

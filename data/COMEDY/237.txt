@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Rips Tucker Carlson For Saying Gun Protest Students Aren’t Citizens', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-tucker-carlson-guns_us_5aab8738e4b0c33361af70bb', 'short_description': '“Get the f**k out of here man."', 'date': '2018-03-16'}

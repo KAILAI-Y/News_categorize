@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Virginia Man Wins The Lottery By Playing Numbers From A Dream', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/lottery-dream-numbers-jackpot_us_5a79402be4b00f94fe9456f0', 'short_description': 'Some dreams really do come true.', 'date': '2018-02-06'}

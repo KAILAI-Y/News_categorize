@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: What's On The Table As A Government Shutdown Looms", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-whats-on-the-table-as-a-government-shutdown-looms_us_5a5f2de0e4b0ee2ff32bea92', 'short_description': 'Including CHIP.', 'date': '2018-01-17'}

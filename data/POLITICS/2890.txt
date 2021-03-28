@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ruth Bader Ginsburg Has Law Clerks Lined Up Until 2020', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/ruth-bader-ginsburg-hires-law-clerks_us_5a54e7c7e4b01e1a4b1a056f', 'short_description': 'The move is another signal she has no plans to retire anytime soon.', 'date': '2018-01-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Reportedly Won't Block Former FBI Director James Comey From Testifying", 'authors': 'Mike Stone, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-james-comey_us_5932e1c4e4b075bff0f3f2e2', 'short_description': "The president doesn't seem interested in exerting executive privilege.", 'date': '2017-06-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Just Used Normal Winter Weather To Undermine The Science Behind Climate Change', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-climate-change-winter_us_5a458e5de4b06d1621b7e590', 'short_description': 'The president re-upped a favored talking point of climate change deniers.', 'date': '2017-12-29'}

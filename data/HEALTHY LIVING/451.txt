@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Spouse Criticism May Worsen Chronic Low Back Pain', 'authors': 'Carolyn Crist, Reuters', 'link': 'https://www.huffingtonpost.com/entry/spouse-hostility-may-worsen-chronic-low-back-pain_us_599b559ce4b04c532f43c6a9', 'short_description': 'Negative responses seem to work in a cycle.', 'date': '2017-08-21'}

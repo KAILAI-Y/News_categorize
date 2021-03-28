@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'For Kelsea Ballerini, Life Isn’t Always Happy And That’s OK', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/kelsea-ballerini-new-album_us_59f8c09ee4b046017faf4fb8', 'short_description': 'The country singer dishes on the emotions she poured into her new album, "Unapologetically."', 'date': '2017-11-03'}

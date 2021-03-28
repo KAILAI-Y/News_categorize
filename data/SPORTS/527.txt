@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Chris Christie Nabs Foul Ball At Mets Game, And No One Celebrates', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/chris-christie-mets-game-foul-ball_us_596eb170e4b00db3d0f3ec61', 'short_description': 'The crowd booed even as the New Jersey governor handed the ball to a child.', 'date': '2017-07-19'}

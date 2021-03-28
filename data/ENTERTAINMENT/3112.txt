@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Rock Proves He Can Do Literally Anything In Hilarious New Apple Short Film', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/the-rock-apple-siri-film_us_5975a588e4b09e5f6cd05faf', 'short_description': 'Dwayne Johnson hits all of his life goals... with a little help from Siri.', 'date': '2017-07-24'}

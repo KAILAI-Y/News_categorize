@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Warns Russia: Syria Strikes 'Coming'", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-syria-strikes-coming_us_5acded6de4b06a6aac8d8642', 'short_description': '"Get ready Russia, because they will be coming, nice and new and \'smart!\'"', 'date': '2018-04-11'}

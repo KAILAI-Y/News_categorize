@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Black Panther' Sinks 'Titanic' At Box Office; Twitter Goes Full Steam Ahead", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/black-panther-sinks-titanic-at-box-office-twitter-goes-full-steam-ahead_us_5acb6aabe4b0337ad1ea1313', 'short_description': 'BRB, moving to Wakanda.', 'date': '2018-04-09'}

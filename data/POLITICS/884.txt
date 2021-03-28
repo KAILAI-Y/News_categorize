@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "EPA Reportedly Used Social Media To Justify Pruitt's Expensive Security", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/epa-scott-pruitt-social-media_us_5acd6c2fe4b09212968cc50c', 'short_description': "Some lawmakers say tweets don't warrant Pruitt's 20-person security detail.", 'date': '2018-04-11'}

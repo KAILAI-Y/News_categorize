@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kelly Marie Tran Overhears Fans Talking About Her, Has The Sweetest Response', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kelly-marie-tran-star-wars-surprises-fans_us_5a3905f0e4b0fc99878ea537', 'short_description': '"They couldn\'t be more lovely."', 'date': '2017-12-19'}

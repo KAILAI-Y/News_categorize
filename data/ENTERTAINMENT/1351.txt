@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tom Hanks Will Play Mr. Rogers in 'You Are My Friend' Biopic", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/tom-hanks-will-play-mr-rogers_us_5a6f6a9de4b0ddb658c95ad5', 'short_description': 'The film will portray the growing friendship between Fred Rogers and journalist Tom Junod.', 'date': '2018-01-29'}

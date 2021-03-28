@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Affirming Kai: Loving Our Transgender Families', 'authors': 'Niki Breeser Tschirgi, ContributorWife, Mom, Author, & Life Lover', 'link': 'https://www.huffingtonpost.com/entry/affirming-kai-loving-our-transgender-families_us_59c53836e4b08d661550420b', 'short_description': 'Every child deserves to be loved and safe.', 'date': '2017-09-22'}

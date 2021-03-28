@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'On Sex, Power And Our Own Complicity', 'authors': 'Heron Greenesmith, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/on-sex-power-and-our-own-complicity_us_5a137ddbe4b010527d677fc9', 'short_description': 'We must demand accountability from people who have used power to coerce others into sex.', 'date': '2017-11-21'}

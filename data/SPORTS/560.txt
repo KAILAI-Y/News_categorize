@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Charles Barkley Announces He Will Attend 'Fat Farm' To Lose Weight", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/charles-barkley-fat-farm-lose-weight_us_593c1312e4b0b13f2c6af9f4', 'short_description': '"I have become lazy. Number one, I’m not healthy.”', 'date': '2017-06-10'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Netflix Suspends Production On Final 'House Of Cards' Season", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/netflix-suspends-production-on-final-house-of-cards-season_us_59f8b5d8e4b0d1cf6e90db3b', 'short_description': 'It\'s come to a halt "until further notice."', 'date': '2017-10-31'}

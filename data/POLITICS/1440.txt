@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Publisher Offered Free E-Book Of Torture Report In Response To Gina Haspel's CIA Nomination (UPDATE)", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/gina-haspel-torture-report_us_5aaa8eb9e4b045cd0a6f7722', 'short_description': 'Literary trolling.', 'date': '2018-03-15'}

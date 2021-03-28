@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'California Considering Unprecedented Law Restricting Police Firearm Use', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/california-police-force-legislation_us_5ac3c013e4b00fa46f872c28', 'short_description': "Opening fire should be enforced as the last resort, the bill's supporters say.", 'date': '2018-04-03'}

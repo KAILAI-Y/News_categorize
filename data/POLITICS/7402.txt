@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Senate Panel Unanimously Approves Chris Wray's Nomination As FBI Director", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/chris-wray-fbi-director_us_5970bd8ee4b0aa14ea781010', 'short_description': 'All 20 members of the committee voted to advance the nomination.', 'date': '2017-07-20'}

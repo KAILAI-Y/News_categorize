@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: Making Sense Of Tuesday's Health Care Votes", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-making-sense-of-tuesdays-health-care-votes_us_5978768be4b0a8a40e83f155', 'short_description': "And what's next.", 'date': '2017-07-26'}

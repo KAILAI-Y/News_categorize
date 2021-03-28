@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Here's Why We Say The Expression 'Hands Down'", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/why-we-say-the-expression-hands-down_us_5aec5c02e4b0ab5c3d64b9cf', 'short_description': 'A little slice of trivia to wow your friends during the Kentucky Derby.', 'date': '2018-05-04'}

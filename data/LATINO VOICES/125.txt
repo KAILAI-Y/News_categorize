@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'This News Anchor Just Broke A Major Barrier For Afro-Latina Journalists', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ilia-calderon-noticiero-univision_us_5a0345f5e4b03deac08a8e39', 'short_description': 'Ilia Calderón is stepping up to the big chair at Univision.', 'date': '2017-11-08'}

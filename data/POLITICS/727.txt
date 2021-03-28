@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here Comes Another Democratic Proposal To Let More Americans Buy Into Medicare', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/medicare-public-option-murphy-merkley_us_5ad771e5e4b029ebe0205b0b', 'short_description': 'The calls for government-run insurance of some kind are getting louder.', 'date': '2018-04-18'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'College’s ‘Women In Math’ Panel Features Only Male Speakers', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/colleges-women-in-math-panel-features-only-male-speakers-utah_us_5a8dcfa1e4b0273053a75035', 'short_description': 'Who thought this was a good idea?', 'date': '2018-02-21'}

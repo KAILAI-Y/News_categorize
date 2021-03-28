@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'LeBron James Once Gained 7 Pounds In A Single NBA Playoff Game', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/lebron-james-once-gained-7-pounds-in-a-single-nba-playoff-game_us_5ab00d33e4b00549ac7e3719', 'short_description': 'Teammates who reportedly saw the scale confirmed the story.', 'date': '2018-03-19'}

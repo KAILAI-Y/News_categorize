@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "The Absence Of Frozone's Wife In 'Incredibles 2' Is Causing A Controversy", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/incredibles-2-honey-frozone-wife_us_5ad8b446e4b03c426dac21df', 'short_description': 'Honey Best has thus far been an offscreen-only character.', 'date': '2018-04-19'}

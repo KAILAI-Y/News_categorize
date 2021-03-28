@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Watch Randy Rainbow's '16 Going On 17' Musical Takedown Of Roy Moore", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/watch-randy-rainbows-16-going-on-17-musical-takedown-of-roy-moore_us_5a2fb600e4b01598ac47cdcb', 'short_description': '"Flagrantly lusting, he\'s just disgusting."', 'date': '2017-12-12'}

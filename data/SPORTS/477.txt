@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Noah Syndergaard Just Sent A Trump-Bashing Tweet About Hurricanes', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/noah-syndergaard-trump-hurricanes_us_59c0e998e4b087fdf507ba5c', 'short_description': '"Stick to baseball," one commenter sniped.', 'date': '2017-09-19'}

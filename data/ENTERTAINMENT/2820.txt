@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Box Office Saw Its Worst Weekend In Years', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/worst-box-office-in-years-hitmans-bodyguard_us_59a34a3de4b06d67e3388235', 'short_description': 'The movies were not good, and neither was their revenue.', 'date': '2017-08-28'}

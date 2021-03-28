@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Wendy's Deliciously Trolls McDonald's Over Botched Black Friday Tweet", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/wendys-mcdonalds-black-friday-tweet_us_5a192e83e4b0cee6c04fe01e', 'short_description': 'This was yummy.', 'date': '2017-11-25'}

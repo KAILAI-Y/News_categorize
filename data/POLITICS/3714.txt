@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pursuing Unclear Concessions, House Freedom Caucus Nearly Derails Tax Bill Conference', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/freedom-caucus-tax-bill-conference-cr_us_5a2600e4e4b086e4e503fcf1', 'short_description': "The Fool's Gambit.", 'date': '2017-12-05'}

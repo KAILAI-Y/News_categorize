@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Everyone's Favorite Superhero Family Is Back In 'The Incredibles 2' Teaser", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/incredibles-2-teaser_us_5a105db3e4b0e97dffedbc0c', 'short_description': 'Get your super suit ready. (But leave the cape at home.)', 'date': '2017-11-18'}

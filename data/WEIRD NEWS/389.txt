@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Woman Hit In Face With Slug Reacts Just As You'd Expect", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/slug-forehead-row_us_59760bf6e4b0e79ec19ace5f', 'short_description': 'It’s all fun and games until someone gets slugged.', 'date': '2017-07-24'}

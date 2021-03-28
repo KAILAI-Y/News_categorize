@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's The White House Questionnaire For GOP Candidates Who Want Trump's Backing", 'authors': 'Kevin Robillard', 'link': 'https://www.huffingtonpost.com/entry/trump-gop-questionnaire_us_5ae0f0f5e4b04aa23f1ee5f2', 'short_description': 'It asks about immigration, Pakistan and trade.', 'date': '2018-04-26'}

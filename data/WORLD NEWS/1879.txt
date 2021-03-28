@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Presumed Death Toll From London High-Rise Fire Climbs To 79, Police Say', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/london-high-rise-fire-death-toll_us_5947a2d1e4b0f15cd5bc87af', 'short_description': 'Police say five people who were reported missing have been found safe and well.', 'date': '2017-06-19'}

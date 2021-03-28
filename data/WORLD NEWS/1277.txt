@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Building Collapse After Torrential Rains Kills At Least 21 In Mumbai', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mumbai-building-collapse-india_us_59a8083fe4b07e81d3559230', 'short_description': 'There are fears that more are trapped in the rubble.', 'date': '2017-08-31'}

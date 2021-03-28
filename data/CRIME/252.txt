@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Florida Police Release Eerie New Surveillance Video In Hunt For Suspected Serial Killer', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/tampa-bay-serial-killer_us_59f408efe4b07fdc5fbe5b46', 'short_description': 'A "person of interest" was seen running from area after first Tampa shooting.', 'date': '2017-10-28'}

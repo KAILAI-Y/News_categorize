@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Top Novartis Lawyer Resigns Over Michael Cohen Deal', 'authors': 'John Miller, Reuters', 'link': 'https://www.huffingtonpost.com/entry/novartis-lawyer-resigns-michael-cohen-deal_us_5afc07d4e4b0a59b4dff2326', 'short_description': "U.S. lawmakers demand details from Novartis and AT&T about their payments to Cohen's firm.", 'date': '2018-05-16'}

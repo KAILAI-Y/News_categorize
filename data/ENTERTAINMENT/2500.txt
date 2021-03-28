@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Nelly Arrested On Accusation Of Rape', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/nelly-rape_us_59d8f430e4b072637c446441', 'short_description': '"Nelly is the victim of a completely fabricated allegation," Nelly\'s attorney tells HuffPost.', 'date': '2017-10-07'}

@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Someone Give Bill Clinton His Own Travel Show, ASAP', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/bill-clinton-canada-vacation_us_59944386e4b0091416419f64', 'short_description': 'This is pure local tour guide magic.', 'date': '2017-08-16'}

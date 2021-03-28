@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Marco Rubio Defends Democratic Colleague Over Misleading Fox News Report', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/marco-rubio-fox-news-mark-warner_us_5a7cfdbae4b0c6726e11a837', 'short_description': 'But then Trump weighs in.', 'date': '2018-02-09'}

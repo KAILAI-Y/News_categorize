@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Stricken Tanker Leaks 8-Mile Long Oil Slick In East China Sea', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/oil-tanker-east-china-sea_us_5a5c8c1de4b03c4189675c03', 'short_description': 'A clean-up effort has begun and rescue teams have called a halt to the large-scale search for survivors.', 'date': '2018-01-15'}

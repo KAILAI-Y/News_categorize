@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Paul Newman's Rolex Just Sold For A Mind-Blowing Sum At Auction", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/paul-newmans-rolex-just-sold-for-a-mind-blowing-sum-at-auction_us_59f31398e4b077d8dfc90bb7', 'short_description': '"Drive Carefully Me," reads its inscription.', 'date': '2017-10-27'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Colbert Mocks ‘Kellyanne Kanye’ For His Bizarre Pro-Trump Tweetstorm', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-kanye-west-donald-trump_us_5ae14975e4b02baed1b6549a', 'short_description': '"Late Show" host tries to make sense of Kanye\'s pro-Trump tweets.', 'date': '2018-04-26'}

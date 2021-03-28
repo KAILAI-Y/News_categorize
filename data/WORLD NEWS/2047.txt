@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Photos Show Scene In London Morning After Deadly Terror Attacks', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/london-terror-attacks-photos_us_593421f4e4b0c242ca2507e1', 'short_description': 'London citizens brought flowers as police continue to investigate.', 'date': '2017-06-04'}

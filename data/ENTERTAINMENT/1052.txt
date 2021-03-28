@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Watch Kelly Clarkson Sing Mangled Google Translate Version Of 'Stronger'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/kelly-clarkson-stronger-google-translate_us_5a956e2de4b02cb368c5fa20', 'short_description': '"If you don\'t kill it, offer it a bribe."', 'date': '2018-02-27'}

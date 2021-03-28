@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The White House Keeps Attacking Congresswoman Who Has Been Right All Along', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/frederica-wilson-has-been-right-all-along_us_59ea16cfe4b05b4f1c3af45d', 'short_description': 'Calling Rep. Frederica Wilson (D-Fla.) a liar keeps backfiring.', 'date': '2017-10-20'}

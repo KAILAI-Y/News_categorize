@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Officials Warn Of Arrests As Migrant Caravan Reaches U.S. Border', 'authors': 'Delphine Schrank, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-arrests-migrant-caravan-border_us_5ae19ccbe4b055fd7fc88299', 'short_description': "Many aimed to seek asylum, defying Trump's call to keep them out.", 'date': '2018-04-26'}

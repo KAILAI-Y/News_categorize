@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Favorite Motorcycle Company Is Cutting Manufacturing Jobs", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-harley-davidson-jobs_us_596f9fe6e4b05453c5cd20d5', 'short_description': 'The layoffs come as the White House celebrates "Made in America" week.', 'date': '2017-07-19'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'RuPaul's Drag Race' Finalists Reflect On The Pulse Tragedy", 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/rupauls-drag-race-pulse-nightclub_us_593d66dae4b02402687a3e54', 'short_description': '"No one should go through life fearing what possibly could happen."', 'date': '2017-06-12'}

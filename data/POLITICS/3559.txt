@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Holds Rally Near Alabama Days Before Special Election', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-pensacola-rally_us_5a2b2c10e4b0a290f050e615', 'short_description': 'Watch live.', 'date': '2017-12-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Joy Reid: GOP In Bizarre Mirror Universe Where Clinton Is Guilty, Trump Is Blameless', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/reid-mirror-trump-universe_us_59fd28eae4b0baea2631db82', 'short_description': 'His campaign\'s connection to Russia is just a "hoax" in this "Earth Two."', 'date': '2017-11-04'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'The Brains Of Psychopaths May Be Wired Differently Than Yours Or Mine', 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/psychopath-brain-decision-making-study_us_595d3389e4b02e9bdb09d6d8', 'short_description': 'A new study of criminal minds reveals a flaw in their decision-making.', 'date': '2017-07-05'}

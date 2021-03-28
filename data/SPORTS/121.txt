@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Kirstie Alley Gets Ice Cold Clapback From Olympic Curlers Over 'Boring' Jibe", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kirstie-alley-olympics-curlers_us_5a8d24dbe4b03414379b8f4a', 'short_description': '"Kirstie Alley just became a burned stone here."', 'date': '2018-02-21'}

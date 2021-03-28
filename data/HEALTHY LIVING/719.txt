@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "If The Future Of Health Care Is Crowdfunding, We're All In Trouble", 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/health-care-crowdfuding_us_5953d33de4b05c37bb7b3f39', 'short_description': "Good luck if you're not a marketing whiz with rich friends.", 'date': '2017-06-29'}

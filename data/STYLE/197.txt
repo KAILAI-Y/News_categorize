@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Lauren Hutton Covers Vogue Italia's 'Timeless' Issue At Age 73", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/model-lauren-hutton-graces-vogue-italias-timeless-issue-at-73_us_59d64744e4b0becae802d756', 'short_description': '"This is the most important [cover] I have ever done."', 'date': '2017-10-05'}

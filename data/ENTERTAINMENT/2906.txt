@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "St. Vincent Will Direct Film Adaptation Of 'Dorian Gray' With Female Lead", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/st-vincent-dorian-gray_us_59945a63e4b0e789a94880a4', 'short_description': "That's right, boys: Narcissistic women can sell their souls to paintings too!", 'date': '2017-08-16'}

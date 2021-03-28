@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pennsylvania Congressional Upset Undercuts GOP Messaging On Tax Law', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/gop-tax-law-messaging_us_5aa97196e4b0004c0406bb4c', 'short_description': 'The GOP said cutting taxes would help them in 2018. It didn’t on Tuesday.', 'date': '2018-03-14'}

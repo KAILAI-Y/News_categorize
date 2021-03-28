@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Throws Rudy Giuliani Under The Bus: 'He'll Get His Facts Straight'", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/trump-giuliani-stormy-daniels-payment_us_5aec758ee4b0c4f19321f909', 'short_description': 'The president contradicted his lead attorney in remarks Friday.', 'date': '2018-05-04'}

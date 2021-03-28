@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'South Korea Working To Formally End The Korean War. Yes, That Korean War.', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/south-korea-north-korea-peace-treaty_us_5ad7f8ace4b03c426dab240a', 'short_description': 'For more than 60 years, an official peace treaty has remained elusive. Until now.', 'date': '2018-04-19'}

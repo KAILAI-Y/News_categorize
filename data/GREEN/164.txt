@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Photos Capture Destructive Fury Of Fires In California Wine Country', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/california-wine-country-on-fire-photos_us_59dbe55ce4b0208970cf1f4b', 'short_description': '15 fires have burned more than 73,000 acres.', 'date': '2017-10-09'}

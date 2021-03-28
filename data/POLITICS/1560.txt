@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Brags That He Won Most Of The Women's Vote In 2016. He Didn't.", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/trump-womens-vote-claim_us_5aa588afe4b07047bec7a905', 'short_description': 'The percentage he laid claim to was inflated by more than 10 points.', 'date': '2018-03-11'}

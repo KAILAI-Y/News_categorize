@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Annabelle: Creation' Scares The Competition, Takes Top Spot At The Box Office", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/anabelle-creation-box-office_us_5991615ce4b08a2472757a94', 'short_description': '“Annabelle is scary as hell."', 'date': '2017-08-14'}

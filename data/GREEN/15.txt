@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Check Out All These Doggos Enjoying The Bomb Cyclone', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/dogs-bomb-cyclone-snow-photos_us_5a4e5217e4b0b0e5a7ab99d2', 'short_description': 'To them, this snow is truly "the bomb."', 'date': '2018-01-04'}

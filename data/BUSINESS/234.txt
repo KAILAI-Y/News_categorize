@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Martin Shkreli Found Guilty On Several Counts Of Fraud', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/martin-shkreli-securities-fraud-trial_us_597f80cae4b00bb8ff3899cb', 'short_description': 'The trial of the so-called "Pharma Bro" centered around his stewardship of two hedge funds.', 'date': '2017-08-04'}

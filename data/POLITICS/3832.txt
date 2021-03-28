@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Completely Botches New York Times Attack Over Tax Bill Tweets', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-new-york-times_us_5a200d23e4b0a8581e687a28', 'short_description': '"The president is mistaken," tweeted Clifford Levy, the paper\'s deputy managing editor.', 'date': '2017-11-30'}

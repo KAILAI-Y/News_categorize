@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Miley Cyrus' Lip Sync Battle With Jimmy Fallon Is Exhausting Just To Watch", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/miley-cyrus-lip-sync-battle-jimmy-fallon_us_59d89632e4b072637c4441e9', 'short_description': 'So energetic.', 'date': '2017-10-07'}

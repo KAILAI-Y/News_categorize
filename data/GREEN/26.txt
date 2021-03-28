@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "States Across U.S. See Record-Cold New Year's Day As Rest Of The World Boils", 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/new-years-temperature_us_5a4abec7e4b025f99e1cff97', 'short_description': 'Ah yes, "that good old Global Warming," as President Donald Trump put it last week.', 'date': '2018-01-02'}

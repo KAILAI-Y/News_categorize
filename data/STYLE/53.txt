@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Here's What Actually Happens To The Money In Wishing Wells", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/money-wishing-fountains_us_5a37d674e4b01d429ccaafb9', 'short_description': 'The coins have to go somewhere eventually.', 'date': '2017-12-19'}

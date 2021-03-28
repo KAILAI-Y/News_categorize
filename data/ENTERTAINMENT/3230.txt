@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Madelaine Petsch Says Playing 'Riverdale' Mean Girl Is 'Quite Rewarding'", 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/madelaine-petsch-riverdale-season-2-fun_us_5963b8c9e4b09b587d60d6a0', 'short_description': 'Cheryl Blossom is ready to head back to Riverdale High.', 'date': '2017-07-10'}

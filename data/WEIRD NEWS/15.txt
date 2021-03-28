@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Meditation Is Like A Human's Way Of Clearing Browser Cache'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/shower-thoughts-reddit-may-18-2018_us_5afeb81de4b0463cdba0f694', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-05-18'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Stephen Fry Nails Why Some People Keep Falling For Fake News', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-fry-fake-news_us_5a20e521e4b03c44072c7029', 'short_description': '"People often form strikingly strong opinions from minimal information."', 'date': '2017-12-01'}

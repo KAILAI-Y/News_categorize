@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'The Libertarian Political Movement Is Dead', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/libertarian-political-movement-is-dead_us_5ace77a3e4b08337adc90d4e', 'short_description': "American democracy doesn't look much better.", 'date': '2018-04-11'}

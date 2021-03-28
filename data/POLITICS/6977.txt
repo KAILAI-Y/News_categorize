@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Proposed Immigration 'Meritocracy' Does Nothing For American Jobs", 'authors': 'Cody Lyon, ContributorNYC writer/reporter', 'link': 'https://www.huffingtonpost.com/entry/proposed-immigration-meritocracy-does-no-good-for_us_59825dfee4b0396a95c87499', 'short_description': "It's wrongheaded and laden with hypocrisy.", 'date': '2017-08-02'}

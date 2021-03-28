@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "ACLU Sues New Orleans For Censoring 'Grab Them By The P***y' Mural", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/aclu-new-orleans-trump-mural_us_5aa87ed1e4b018e2f1c29fb6', 'short_description': "A street artist painted the Trump quote mural on private property with the owner's permission.", 'date': '2018-03-14'}

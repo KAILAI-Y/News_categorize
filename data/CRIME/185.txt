@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Teen Gets 25 Years In Mental Health Facility For 'Slender Man' Stabbing", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/slender-man-conviction_us_5a3c243ce4b06d1621b306c4', 'short_description': 'The 16-year-old girl was convicted for stabbing a classmate 19 times in 2014.', 'date': '2017-12-21'}

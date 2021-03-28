@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mark Hamill Joins 'Star Wars' Fans At Disneyland, And They Totally Freak Out", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-star-wars-ride-fans_us_5a0d5cc0e4b0c0b2f2f7d996', 'short_description': 'The surprise is strong with this one.', 'date': '2017-11-16'}

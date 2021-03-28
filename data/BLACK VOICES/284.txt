@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Michelle Obama Hails 'Black Panther' For Inspiring 'People Of All Backgrounds'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-black-panther_us_5a8b0c40e4b05c2bcace0553', 'short_description': 'The former first lady has long been a proponent for diversity in entertainment.', 'date': '2018-02-19'}

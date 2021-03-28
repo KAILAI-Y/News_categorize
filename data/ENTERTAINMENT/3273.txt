@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Margaret Atwood Wants Drake To Make A Cameo In 'Handmaid's Tale'", 'authors': 'Katherine Brooks', 'link': 'https://www.huffingtonpost.com/entry/margaret-atwood-drake-handmaids-tale_us_595d219ee4b02734df35983b', 'short_description': 'We support you, Margaret, in this and all Drake-related endeavors.', 'date': '2017-07-05'}

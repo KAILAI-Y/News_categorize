@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Yep, The New 'Justice League' Trailer Is All About Wonder Woman", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/justice-league-wonder-woman-gal-gadot_us_5973b7b0e4b09e5f6ccfbc9d', 'short_description': 'The Amazon takes out a whole gang of assassins by herself.', 'date': '2017-07-22'}

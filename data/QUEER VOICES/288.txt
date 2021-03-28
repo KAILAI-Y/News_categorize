@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Gay Olympian Feels Bad Adam Rippon Is Dealing With Anti-LGBTQ Politics', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/eric-radford-adam-rippon_us_5a8ae787e4b00bc49f46db58', 'short_description': "Canada's Eric Radford has received support from Prime Minister Justin Trudeau and others.", 'date': '2018-02-19'}

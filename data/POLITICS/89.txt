@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Just One-Third Of Americans Think Trump Is Successfully Draining The Swamp', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/one-third-americans-trump-draining-swamp_us_5b0462d2e4b0784cd2af148e', 'short_description': 'That percentage has barely budged since last year.', 'date': '2018-05-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'American Neo-Nazi Is Using Holocaust Denial As A Legal Defense', 'authors': "Luke O'Brien", 'link': 'https://www.huffingtonpost.com/entry/neo-nazi-holocaust-denial-legal-defense_us_5a612a5ce4b0125fd6354368', 'short_description': 'Are Andrew Anglin and his attorney using a federal case as a soapbox for extremism?', 'date': '2018-01-19'}

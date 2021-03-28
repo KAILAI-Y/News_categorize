@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'No Jail Time For Fertility Doctor Who Used His Sperm To Impregnate Patients', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/no-jail-fertility-doctor-impregnate-patients_us_5a342aace4b01d429cc8b196', 'short_description': '"Our pain was not acknowledged," one of the victims said.', 'date': '2017-12-15'}

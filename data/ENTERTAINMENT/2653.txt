@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Hillary Lost The Election, But Kate McKinnon Won An Emmy For Playing Her', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/kate-mckinnon-emmy_us_59bf1326e4b02da0e142ee48', 'short_description': 'It\'s her second Emmy for her role on "SNL."', 'date': '2017-09-18'}

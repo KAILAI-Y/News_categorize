@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Two Dead In Shooting Incident At Israeli Embassy In Jordan', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/israel-embassy-jordan-shooting_us_5974e7bee4b00e4363e03f07', 'short_description': 'Police sealed off the embassy.', 'date': '2017-07-23'}

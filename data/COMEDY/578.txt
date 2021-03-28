@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Samantha Bee Issues Appeal To 'Our Impending First Family,' The Pences", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-mike-pence-family_us_5a0d3fc3e4b0c0b2f2f7c52a', 'short_description': '"I think it\'s weird as all hell."', 'date': '2017-11-16'}

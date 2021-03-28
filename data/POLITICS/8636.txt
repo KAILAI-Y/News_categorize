@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Move Over 'Hamilton,' D.C. Just Debuted 'Trump'", 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/trump-summer-theater_us_5939a736e4b0c5a35c9d8303', 'short_description': 'Based on James Comey’s show-stopping opener, this summer theater production is in for a long run.', 'date': '2017-06-08'}

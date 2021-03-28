@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'All The Outfits You Need To See From The CFDA/Vogue Fashion Fund Awards', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/cfda-awards-red-carpet_us_5a01b5a1e4b066c2c03a1a2e', 'short_description': 'Three words: Nicki, Nicki, Nicki.', 'date': '2017-11-07'}

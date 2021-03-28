@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "When Male 'Allies' Become Abusers", 'authors': 'Angelina Chapin', 'link': 'https://www.huffingtonpost.com/entry/why-male-allies-abuse-women_us_5af35072e4b04d3b2c903373', 'short_description': "A psychologist explains why men who advocate for women's rights can be abusive in their private lives.", 'date': '2018-05-09'}

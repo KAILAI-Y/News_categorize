@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': '11 North African And Middle Eastern Desserts', 'authors': 'SAVEUR, ContributorFollowing Food To Its Source', 'link': 'https://www.huffingtonpost.com/entry/11-north-african-and-middle-eastern-desserts_us_59832bdae4b03d0624b0ac78', 'short_description': 'Drown your problems in palm oil and honey.', 'date': '2017-08-03'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': '18 Realistic Ways To Become A Happier, More Chill Person In 2018', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/how-to-be-happier-next-year_us_5a381f75e4b0c65287ab8319', 'short_description': 'Because it was basically impossible to be one this year.', 'date': '2017-12-20'}

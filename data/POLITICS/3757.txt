@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Obama: Elect More Women 'Because Men Seem To Be Having Some Problems These Days'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/barack-obama-women_us_5a24dd9ce4b03350e0b7a354', 'short_description': "It's time to put women in charge, the former U.S. president says.", 'date': '2017-12-04'}

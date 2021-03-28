@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "European Human Rights Court Backs Belgium's Ban On Face Veils", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/belgium-niqab-ban_us_59678689e4b0d51cda60ad61', 'short_description': 'Women who repeatedly violate the ban can face jail time.', 'date': '2017-07-13'}

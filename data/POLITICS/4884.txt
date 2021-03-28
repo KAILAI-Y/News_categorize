@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Internet Swoons Over Melania Trump 'Impostor' Theory", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/fake-melania-conspiracy-theory_us_59e91966e4b05b4f1c3a32c6', 'short_description': "Take a deep breath. It's her.", 'date': '2017-10-20'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: A Look At Trump's Vague New Afghanistan Strategy", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-a-look-at-trumps-vague-new-afghanistan-strategy_us_599c118fe4b04c532f443b10', 'short_description': 'Which likely involves an increase in troops.', 'date': '2017-08-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Tammy Baldwin Aims To Win Back Rural Trump Country Running As A Progressive', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/tammy-baldwin-progressive_us_5a8f5c33e4b01e9e56b9ed11', 'short_description': '"If your solutions are progressive solutions, I think that’s OK."', 'date': '2018-02-26'}

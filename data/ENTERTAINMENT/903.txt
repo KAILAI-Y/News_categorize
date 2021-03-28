@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "New 'Handmaid's Tale' Teaser Finally Reveals Season 2 Release Date", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/new-handmaids-tale-teaser-finally-reveals-season-2-release-date_us_5aa19d0ee4b06d2d28921108', 'short_description': 'Blessed be this trailer.', 'date': '2018-03-08'}

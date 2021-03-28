@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Tennis Star Novak Djokovic Fires Balls At James Corden's Head In The Name Of Comedy", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/novak-djokovic-tennis-balls-james-corden_us_5a02f205e4b06ff32c94b027', 'short_description': '"This is horrible," Corden said.', 'date': '2017-11-08'}

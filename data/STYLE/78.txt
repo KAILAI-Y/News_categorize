@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'The Worst Beauty Trends Of 2017', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/worst-beauty-trends-2017_us_5a255bebe4b03c44072ee7b6', 'short_description': 'Bye-bye, glitter butts.', 'date': '2017-12-04'}

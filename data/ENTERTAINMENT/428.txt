@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chrissy Teigen Perfectly Nails Why The Royal Baby Watch Was So 'Weird'", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-perfectly-nails-why-the-royal-baby-watch-is-so-weird_us_5adde4fee4b089e33c8a8839', 'short_description': "She's got a point.", 'date': '2018-04-23'}

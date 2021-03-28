@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'The New iPhone Led Twitter To Think Of #iPhoneFeatures4Politicians', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-new-iphone-led-twitter-to-think-of-iphonefeatures4politicians_us_59b82cffe4b02da0e13ce29c', 'short_description': '"Ted Cruz Control," anyone?', 'date': '2017-09-12'}

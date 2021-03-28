@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Roy Moore Says Sexual Misconduct Allegations Are 'Simply Dirty Politics'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-allegations-dirty-politics_us_5a1d66d1e4b0e2ddcbb2952f', 'short_description': 'The Alabama Senate candidate called the accusations "malicious" and "false."', 'date': '2017-11-28'}

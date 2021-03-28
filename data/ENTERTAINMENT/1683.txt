@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'These 16 Movies Are Vying For Best Picture In The 2018 Oscar Race', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/best-picture-predictions-2018-oscars_us_5a4d5e9be4b0b0e5a7aace2e', 'short_description': '"Get Out" has the edge on this derby.', 'date': '2018-01-04'}

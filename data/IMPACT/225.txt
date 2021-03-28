@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "Flood Waters Don't Care Who You Voted For", 'authors': 'Marc Erlbaum, ContributorFilmmaker and Social Activist', 'link': 'https://www.huffingtonpost.com/entry/flood-waters-dont-care-who-you-voted-for_us_59a992f8e4b0d0c16bb524a3', 'short_description': 'They afflict everyone equitably.', 'date': '2017-09-01'}

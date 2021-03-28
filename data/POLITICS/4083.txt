@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Want A Simpler Tax Code? Sure, But It Will Cost You.', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/republican-tax-simplify_us_5a0f30f3e4b045cf43712df5', 'short_description': 'The GOP is taking advantage of Americans’ fear of tax season to shift the tax burden down the income ladder.', 'date': '2017-11-20'}

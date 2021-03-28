@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "Here's Where The Rockefeller Center Tree Comes From", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/rockefeller-center-christmas-tree_us_5a157ad3e4b09650540e8264', 'short_description': "The origin of both the tradition and 2017's tree.", 'date': '2017-11-28'}

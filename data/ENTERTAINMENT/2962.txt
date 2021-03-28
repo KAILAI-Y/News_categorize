@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The New 'SNL: Weekend Update' Is Certainly Going To Be Political", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/snl-weekend-update-premiere_us_598c6178e4b0449ed5083d2e', 'short_description': 'The show debuts Thursday, Aug. 10.', 'date': '2017-08-10'}

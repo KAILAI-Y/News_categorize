@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Progressives Just Won A Major Victory In New York Politics', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/progressives-take-credit-for-new-york-idc-deal_us_5ac522fee4b09ef3b2431175', 'short_description': "And they're not stopping there.", 'date': '2018-04-04'}

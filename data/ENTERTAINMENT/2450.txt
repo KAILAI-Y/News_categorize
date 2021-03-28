@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Seth MacFarlane Joked About Harvey Weinstein’s Reputation On Live TV In 2013', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/seth-macfarlane-harvey-weinstein_us_59ddae79e4b04fc4e1e9d3fa', 'short_description': 'He made the crack during the announcement of the Oscar nominations.', 'date': '2017-10-11'}

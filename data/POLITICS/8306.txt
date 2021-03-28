@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sean Spicer May Have A New Role At The White House, Reports Say', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-white-house-role_us_59482cfde4b07499199ddcaa', 'short_description': "He's reportedly leading the search for his own replacement.", 'date': '2017-06-19'}

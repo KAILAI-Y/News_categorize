@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Gigi Hadid And Zayn Malik Announce Their Breakup To Fans', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/gigi-hadid-zayn-malik-breakup_us_5aa825b3e4b0f7a689cd032c', 'short_description': 'The two posted statements to their Twitter accounts on Tuesday.', 'date': '2018-03-13'}

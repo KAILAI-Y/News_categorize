@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Neil deGrasse Tyson Picks Apart The Science Of Iconic ‘Game Of Thrones’ Scenes', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/neil-degrasse-tyson-game-of-thrones_us_59c8ab27e4b01cc57ff31a61', 'short_description': 'The famed astrophysicist shares his thoughts on dragons.', 'date': '2017-09-25'}

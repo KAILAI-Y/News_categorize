@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Ann Coulter Is Enraged With Delta For Allegedly Giving Away Her Seat', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/ann-coulter-delta-twitter-rant_us_596ab84be4b0d6341fe95e07', 'short_description': 'The right-wing pundit, who often complains about victim mentality, plays the victim.', 'date': '2017-07-16'}

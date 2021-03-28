@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Nigeria And Jamaica Just Made Winter Olympics History', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/nigeria-jamaica-winter-olympics-2018_us_5a8c0c61e4b0a1d0e12d13f1', 'short_description': 'Bobsledders for both countries blazed a trail at Pyeongchang in 2018.', 'date': '2018-02-20'}

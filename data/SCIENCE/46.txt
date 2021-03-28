@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'Neil deGrasse Tyson Brilliantly Trolls Flat-Earthers With 1 Hilarious Image', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/neil-degrasse-tyson-flat-earth_us_5a1bc9d1e4b06494807550d1', 'short_description': "Here's a view of the moon you'll never see.", 'date': '2017-11-27'}

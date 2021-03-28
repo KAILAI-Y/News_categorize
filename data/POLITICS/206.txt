@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Retail Group Spoofs 'Ferris Bueller' In Ad Bashing Donald Trump's Tariffs", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/retailers-spoof-ferris-bueller-ad_us_5afa1158e4b044dfffb526d6', 'short_description': '"Tariffs are B-A-D," says a deadpan Ben Stein in front of a chalkboard.', 'date': '2018-05-15'}

@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Japan May Have Worked Out The Secret Formula For A Happy Life', 'authors': 'Yukari Mitsuhashi, On assignment for HuffPost', 'link': 'https://www.huffingtonpost.com/entry/japan-ikigai-happiness_us_5ac3545ae4b00fa46f85fc70', 'short_description': "'Ikigai' is the Japanese word for finding what fulfils you", 'date': '2018-04-06'}

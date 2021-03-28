@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Try Not To Cry At This Surprise Military Reunion On 'The Ellen DeGeneres Show'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ellen-military-reunion_us_5a6b283ae4b01fbbefb0f8cc', 'short_description': 'Seriously. This gets emotional.', 'date': '2018-01-26'}

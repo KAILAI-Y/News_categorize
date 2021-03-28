@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Dad Drives Kids Bonkers Making Ramen From Their Exact Instructions', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/dad-drives-kids-bonkers-making-ramen-from-their-exact-instructions_us_599ebbe9e4b06d67e3358ade', 'short_description': 'Dry noodles everywhere!', 'date': '2017-08-24'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Has Spotted A Funny Musical Thing About Donald Trump's Speech Patterns", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-songs-fallon_us_5a62f4e2e4b002283002eeec', 'short_description': 'Lively up yourself for this impression.', 'date': '2018-01-20'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert 'Reveals' Original Acronym For Anti-Immigration RAISE Act", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-raise-donald-trump_us_5982f0cce4b00f0084ae1e58', 'short_description': '"They didn\'t use it. I don\'t know why."', 'date': '2017-08-03'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Late Show' Unveils Spoof Line Of Trump-Themed Mother's Day Gifts", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-mothers-day-gifts-spoof_us_5af6a3c6e4b0e57cd9f9cada', 'short_description': "Happy MAGA's Day!", 'date': '2018-05-12'}

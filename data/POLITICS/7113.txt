@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Joe Biden Reportedly Called John McCain Ahead Of Crucial Obamacare Repeal Vote', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/joe-biden-john-mccain_us_597cb903e4b0da64e8797fa9', 'short_description': "McCain has the same kind of brain cancer that Biden's son Beau died of in 2015.", 'date': '2017-07-29'}

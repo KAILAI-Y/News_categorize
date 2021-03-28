@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'How Trump Should Approach U.S.-Cuba Policy', 'authors': 'Paul Webster Hare, ContributorAmbassador', 'link': 'https://www.huffingtonpost.com/entry/trump-and-cuba-think-what-may-happen-soon-in-cuba_us_5936c8bae4b033940169ce14', 'short_description': 'The Trump Administration is about to reset U.S. Cuba policy.', 'date': '2017-06-06'}

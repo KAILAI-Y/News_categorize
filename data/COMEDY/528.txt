@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Oliver Fanboying Over 'Real Life Royalty' Beyoncé Is A True Delight", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-beyonce-freaking-out_us_5a2123cfe4b0a02abe902c74', 'short_description': '"I would drop to my f*****g knees."', 'date': '2017-12-01'}

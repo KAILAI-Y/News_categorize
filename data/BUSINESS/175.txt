@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Gun Stocks Climb After Las Vegas Shooting', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/gun-stocks-climb-after-las-vegas-shooting_us_59d24477e4b06791bb11f178', 'short_description': 'Heightened fear after mass shootings often leads to more gun sales.', 'date': '2017-10-02'}

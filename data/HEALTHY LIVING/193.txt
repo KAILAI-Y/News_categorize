@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Constantly Checking Social Media During A Tragedy Hurts Your Mental Health', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/social-media-tragedies_us_59e8af5be4b0d0e4fe6d9e03', 'short_description': "Here's how to stay informed without getting in too deep.", 'date': '2017-10-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The GOP Crusade Against Obamacare's Mandate Says A Lot About How The Party Changed", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/individual-mandate-gop_us_5a15b4f6e4b03dec8249bc83', 'short_description': 'They were the ones who first put the idea on the agenda.', 'date': '2017-11-25'}

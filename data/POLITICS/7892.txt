@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Launches The 'War On Christmas' In July", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-merry-christmas-july_us_59599f37e4b02734df332775', 'short_description': 'Is it that time of year already?', 'date': '2017-07-03'}

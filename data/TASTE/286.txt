@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "So, George Clooney's Tequila Brand Just Sold For $1 Billion", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/george-clooney-tequila_us_594a9b0fe4b0a3a837bc47bb', 'short_description': '"Finally something goes right for George Clooney." 😂', 'date': '2017-06-21'}

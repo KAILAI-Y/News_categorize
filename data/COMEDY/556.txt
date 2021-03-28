@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers: 'Wanna-Be Dictator' Trump Gets Into The Feud We've Been Waiting For", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-trump-lavar-ball_us_5a13eca8e4b0bfa88c1cb981', 'short_description': '🔥🔥🔥', 'date': '2017-11-21'}

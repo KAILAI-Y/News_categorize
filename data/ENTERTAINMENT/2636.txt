@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Ultimate Atlanta Road Trip Playlist', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-ultimate-atlanta-georgia-road-trip-playlist_us_59c2cff2e4b0c90504fb41b7', 'short_description': "An abundance of prime local talent goes into Atlantans' playlists.", 'date': '2017-09-21'}

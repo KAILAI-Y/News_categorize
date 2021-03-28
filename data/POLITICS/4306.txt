@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Corey Lewandowski’s Lesson For Harvard Students: Trump Did Great With Black Voters, And By The Way, I Didn’t Collude With Russia', 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/corey-lewandowski-harvard_us_5a0347b0e4b03deac08a9899', 'short_description': 'Why is Harvard doing this?', 'date': '2017-11-11'}

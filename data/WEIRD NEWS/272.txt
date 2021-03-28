@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Internet Turns Donald Trump's Turkey Pardoning Into Tremendous Thanksgiving Meme", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-turkey-pardon-photo-editing_us_5a152e26e4b025f8e9327230', 'short_description': '"President Trump didn’t pardon the whole turkey, just the white meat."', 'date': '2017-11-22'}

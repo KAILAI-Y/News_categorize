@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kentucky Just Made It Harder For Poor People To Get Health Care', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/trump-kentucky-medicaid-work-requirement_us_5a591c2ee4b03c4189658d23', 'short_description': "It's what the Trump administration wants -- and more states will likely follow.", 'date': '2018-01-13'}

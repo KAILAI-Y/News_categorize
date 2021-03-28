@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chelsea Clinton Schools Donald Trump On Showing Respect For The White House', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/chelsea-clinton-donald-trump-white-house_us_59817bf3e4b02b36343ed6ed', 'short_description': 'Critics slammed the president after he reportedly called the residence a "dump."', 'date': '2017-08-02'}

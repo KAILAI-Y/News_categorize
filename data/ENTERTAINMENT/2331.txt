@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taran Killam Clears Up His Criticism Of 'SNL' And Trump By Doubling Down", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/taran-killam-clears-up-his-criticism-of-snl-and-trump-by-doubling-down_us_59ef2da6e4b03535fa93cd1f', 'short_description': 'Oooh, Killam.', 'date': '2017-10-24'}

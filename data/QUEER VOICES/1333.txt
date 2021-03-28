@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Gay Man Makes History By Marrying Cop Killed In Terrorist Attack', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/france-policeman-posthumous-wedding_us_593018eee4b09ec37c32168e', 'short_description': 'The posthumous wedding is believed to be a first for France and the world.', 'date': '2017-06-01'}

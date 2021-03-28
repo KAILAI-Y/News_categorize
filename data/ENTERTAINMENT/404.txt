@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Massage Therapist Sues Marvel Comics' Stan Lee For Alleged Sexual Misconduct", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/marvel-stan-lee-sexual-misconduct_us_5adf5156e4b061c0bfa23e86', 'short_description': 'Lee denied all allegations through his attorney.', 'date': '2018-04-24'}

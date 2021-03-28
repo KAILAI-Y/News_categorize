@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Frances McDormand Takes 'Inclusion Rider' To The Oscars. Here's What It Means.", 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/frances-mcdormand-inlusion-rider-oscars_us_5a9cc623e4b0479c02542a3d', 'short_description': 'This tool has the power to change power dynamics in Hollywood.', 'date': '2018-03-05'}

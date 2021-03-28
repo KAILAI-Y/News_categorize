@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Trump's Explanation For Removing Sudan From His Travel Ban Is Cringeworthy", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/trump-travel-ban-sudan_us_59cc1ebae4b053a9c2f63c1f', 'short_description': '🤔 🤔 🤔', 'date': '2017-09-27'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'As Mass Coral Bleaching Occurs More Frequently, Hopes For Recovery Fade, Study Finds', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/coral-bleaching-study-science_us_5a4f0bf0e4b003133ec6b769', 'short_description': '"Before the 1980s, mass bleaching of corals was unheard of."', 'date': '2018-01-05'}

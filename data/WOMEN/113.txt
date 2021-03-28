@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Michelle Obama's Advice For Young Girl Leaders On International Women's Day", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-international-womens-day_us_5aa149a4e4b002df2c619ecc', 'short_description': '"So often, our own fear of failure is the thing that keeps us back."', 'date': '2018-03-08'}

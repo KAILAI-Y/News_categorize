@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Calls Out NRA For Silence Over Legal Gun Owner Philando Castile', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-philando-castile_us_5948a8b9e4b07499199e1e3e', 'short_description': '"According to their rhetoric, this is everything that they stand against, right?"', 'date': '2017-06-20'}

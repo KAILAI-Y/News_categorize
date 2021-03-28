@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Julia Louis-Dreyfus's Sons Did The Sweetest Thing For Her Last Day Of Chemo", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/julia-louis-dreyfuss-sons-beat-it-video-last-day-of-chemo_us_5a58eebfe4b04f3c55a2367d', 'short_description': '"Pretty swell, right?"', 'date': '2018-01-12'}

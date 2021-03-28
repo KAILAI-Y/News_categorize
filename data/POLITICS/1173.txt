@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Baffles Internet After Briefly Following CNN On Twitter', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-cnn-twitter_us_5ab9e5a2e4b0decad04d6035', 'short_description': '"That was brief."', 'date': '2018-03-27'}

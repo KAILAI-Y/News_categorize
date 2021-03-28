@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Photos Show Destruction From Mexico's Strongest Earthquake In Decades", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/mexico-earthquake-photos_us_59b2afa8e4b0354e441193e9', 'short_description': 'The 8.1-magnitude quake killed dozens of people and triggered a small tsunami.', 'date': '2017-09-08'}

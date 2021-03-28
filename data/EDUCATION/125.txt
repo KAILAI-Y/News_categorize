@@ -1,0 +1,1 @@
+{'category': 'EDUCATION', 'headline': 'As Teachers, We Are Responsible For James Alex Fields Jr.', 'authors': 'Sara Holbrook, ContributorAuthor/Poet/Educator', 'link': 'https://www.huffingtonpost.com/entry/we-own-james-alex-fields-jr-and-what-we-need-to-do_us_59906bd5e4b063e2ae05808d', 'short_description': 'We own this man. He is our failure.', 'date': '2017-08-13'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here Are The Movies Coming To Netflix This Week', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/good-movies-netflix_us_5b02ca0ce4b0463cdba46e15', 'short_description': 'You have a few options this week, including a new Gillian Jacobs movie.', 'date': '2018-05-21'}

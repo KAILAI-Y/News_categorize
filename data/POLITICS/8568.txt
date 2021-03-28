@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New York Attorney General Examining Eric Trump Charity Payments To Trump Properties', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/eric-trump-charity_us_593b2076e4b0c5a35c9fa069', 'short_description': 'A Forbes probe finds large sums were paid to a Trump golf club that hosted fundraisers.', 'date': '2017-06-10'}

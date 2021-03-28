@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Progressive Community Organizer Prevails in New Orleans Mayoral Race', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/latoya-cantrell-wins-new-orleans-mayoral-race_us_5a10acdbe4b0e97dffedc46c', 'short_description': 'City Councilwoman LaToya Cantrell is the city’s first female mayor.', 'date': '2017-11-19'}

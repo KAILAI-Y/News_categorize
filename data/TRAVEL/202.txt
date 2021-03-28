@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "Cuba's First 5-Star Luxury Hotel Opens Despite Uncertainty Over Trump", 'authors': 'Sarah Marsh, Reuters', 'link': 'https://www.huffingtonpost.com/entry/cuba-luxury-hotels_us_5937e862e4b0ce1e74094d17', 'short_description': 'The country is racing to build high-end properties despite concerns.', 'date': '2017-06-07'}

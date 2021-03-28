@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Supreme Court Calls For New Briefing In Travel Ban Case', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/travel-ban-supreme-court_us_59c94634e4b01cc57ff47fa3', 'short_description': 'The court also said that oral arguments in the case will no longer be held on Oct. 10.', 'date': '2017-09-25'}

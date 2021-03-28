@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Joey Fatone Cruelly Destroys *NSYNC Fans' Super Bowl Reunion Dreams", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/joey-fatone-nsync-super-bowl_us_5a67ab70e4b0dc592a0d91d5', 'short_description': '“If I was doing something, I’d be in rehearsals," Fatone says.', 'date': '2018-01-23'}

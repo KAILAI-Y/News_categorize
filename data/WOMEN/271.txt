@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Simple Book Helps Adult Men Answer Pressing Question: 'Where Does Your Penis Belong?'", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/where-does-your-penis-belong-in-your-pants_us_5a3417ace4b01d429cc8913b', 'short_description': "Hint: We shouldn't see it.", 'date': '2017-12-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jimmy Carter Calls Trump's Hiring Of John Bolton His 'Worst Mistake' Yet", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/jimmy-carter-trump-john-bolton-mistake_us_5ab96624e4b008c9e5fa6572', 'short_description': 'The former president has defended Trump in the past.', 'date': '2018-03-26'}

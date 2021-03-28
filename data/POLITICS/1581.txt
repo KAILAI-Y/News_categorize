@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Charles Koch Complains About Corporate Influence In Politics In Surprising Op-Ed', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/charles-koch-corporate-influence-problems_us_5aa1ed9ce4b086698a9c1930', 'short_description': "Trump's new tariffs have the billionaire donor singing a new tune.", 'date': '2018-03-09'}

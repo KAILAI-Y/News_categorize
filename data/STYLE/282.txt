@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '#BadPictureMonday Is The Hashtag We All Should Embrace Right Now', 'authors': 'Brittany Wong', 'link': 'https://www.huffingtonpost.com/entry/badpicturemonday-is-the-hashtag-we-all-need-right-now_us_598893b5e4b07e7f2150eb5c', 'short_description': 'Less filter, more human.', 'date': '2017-08-07'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Appeals Court Blocks D.C. Gun Law Restricting Concealed Carry', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/washington-dc-concealed-carry_us_5977938de4b0c95f375f4472', 'short_description': 'The 2-1 ruling struck down the local government’s third major attempt in 40 years to limit handgun rights.', 'date': '2017-07-25'}

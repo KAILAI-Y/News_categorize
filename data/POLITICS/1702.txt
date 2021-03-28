@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Bernie Sanders' Son Is Extremely Mad Online", 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/bernie-levi-sanders-mad-online_us_5a970774e4b0e6a52304509f', 'short_description': 'His enemies include the establishment, the city of Houston and Chobani yogurt.', 'date': '2018-03-05'}

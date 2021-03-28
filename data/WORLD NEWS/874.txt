@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Experts Urge Trump: 'Stick To The Script' In Asia, Don't Provoke North Korea", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/trump-asia-trip-north-korea_us_59fc8281e4b0415a420b43e4', 'short_description': 'Washington and Pyongyang have engaged in an escalating war of words.', 'date': '2017-11-04'}

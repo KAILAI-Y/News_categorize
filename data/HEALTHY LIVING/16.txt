@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "11 Weighted Blankets That Won't Weigh Down Your Wallet", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/where-to-buy-weighted-blankets-for-adults-and-kids_us_5a456833e4b06d1621b7d526', 'short_description': 'Sleep tight 😴', 'date': '2017-12-29'}

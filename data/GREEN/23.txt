@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Winter Storm Hitting East Coast Could Shatter All-Time Cold Temperature Records', 'authors': "Nick Visser, Lydia O'Connor, and Willa Frej", 'link': 'https://www.huffingtonpost.com/entry/winter-storm-bomb-cyclone_us_5a4c3d1ee4b0b0e5a7a96471', 'short_description': '"It will be massive," one forecaster wrote on Twitter.', 'date': '2018-01-03'}

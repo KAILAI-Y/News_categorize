@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Oprah Reacts To Trump's Tweet Calling Her 'Very Insecure'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/oprah-reacts-to-trumps-tweet-calling-her-very-insecure_us_5a8ed3c3e4b077f5bfec1211', 'short_description': '"I don’t like giving negativity power."', 'date': '2018-02-22'}

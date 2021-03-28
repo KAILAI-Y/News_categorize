@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Twitter Users Chew Out DJ Khaled For Refusing To Perform Oral Sex On Wife (NSFW)', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/dj-khaled-oral-sex_us_5aecd5c5e4b0ab5c3d65a0ed', 'short_description': 'Tongues are wagging about this revelation.', 'date': '2018-05-04'}

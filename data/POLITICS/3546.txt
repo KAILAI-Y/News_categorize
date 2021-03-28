@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's How Many Billions America's Richest Would Save On Estate Tax Repeal", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/estate-tax-break-forrichest_us_5a2caa82e4b069ec48adf517', 'short_description': 'Trump family would also make out like bandits.', 'date': '2017-12-10'}

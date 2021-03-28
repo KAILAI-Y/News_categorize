@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The New 'Powerpuff Girls' Will Break The Holy Powerpuff Trinity By Adding A Fourth Girl", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/powerpuff-girls-new-movie-four_us_59b1435fe4b0b5e531041ce6', 'short_description': 'Who. Is. She?', 'date': '2017-09-07'}

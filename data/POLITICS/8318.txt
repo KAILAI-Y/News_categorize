@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Killing Of Muslim Teen Was Road Rage, Not A Hate Crime, Police Say', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/muslim-teen-killing-virginia_us_59483a2ee4b0edb84c14e74f', 'short_description': 'An El Salvadoran national is accused of beating 17-year-old Nabra Hassanen with a baseball bat.', 'date': '2017-06-19'}

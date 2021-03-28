@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '8 Times Jada Pinkett Smith Totally Nailed The Whole Parenting Thing', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/8-times-jada-pinkett-smith-totally-nailed-the-whole-parenting-thing_us_59ba16eae4b02da0e13f2fdb', 'short_description': 'Happy birthday to this famous mom!', 'date': '2017-09-18'}

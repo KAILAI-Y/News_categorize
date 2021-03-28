@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Assemble! 'Avengers: Infinity War' Is Coming Out A Week Early", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/avengers-infinity-war-release-early_us_5a986345e4b0a0ba4ad1642b', 'short_description': 'And we have Robert Downey Jr. to thank.', 'date': '2018-03-01'}

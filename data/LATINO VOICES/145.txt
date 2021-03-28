@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Gina Rodriguez’s Sweet Salsa Moves Raise $10,000 For Puerto Rico', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/gina-rodriguez-raises-money-puerto-rico-ellen_us_59de75d7e4b00abf364603de', 'short_description': 'The actress busted a move for a good cause on “Ellen.”', 'date': '2017-10-11'}

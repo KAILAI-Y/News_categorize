@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "Here's How To Help The Victims Of Hurricane Irma", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/hurricane-irma-how-to-help-victims_us_59b397eae4b0dfaafcf82215', 'short_description': 'Money, blood and shelter are all needed.', 'date': '2017-09-09'}

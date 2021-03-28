@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Wonder Woman' Shatters Box Office With Biggest Female Director Opening. Ever.", 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/wonder-woman-box-office-biggest-female-director_us_59302606e4b0e09b11ee154e', 'short_description': 'A $100 million milestone.', 'date': '2017-06-04'}

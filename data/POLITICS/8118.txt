@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Senate Republicans: Where's Your Heart?", 'authors': 'Joe Peyronnin, ContributorHofstra Journalism Professor', 'link': 'https://www.huffingtonpost.com/entry/senate-republicans-wheres-your-heart_us_59517f06e4b0f078efd9841b', 'short_description': "They're pushing hard to repeal and replace Obamacare.", 'date': '2017-06-26'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Anthony Bourdain Slams Critics Who Say Chefs Shouldn't Talk Politics", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/anthony-bourdain-has-harsh-words-for-critics-who-dont-want-to-hear-his-political-views_us_59db980fe4b0b34afa5b14ca', 'short_description': '"F**k that."', 'date': '2017-10-09'}

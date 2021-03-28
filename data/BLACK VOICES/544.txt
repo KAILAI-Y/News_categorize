@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Britain's National Health Service Expertly Shut Down A Racist Twitter Troll", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/nhs-racist-twitter-troll-black-blood-donors_us_59e73ec0e4b08f9f9edbce22', 'short_description': '"Think he\'ll need hospital treatment for that burn."', 'date': '2017-10-18'}

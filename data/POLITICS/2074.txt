@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's 'Infrastructure Week' Crumbles Again", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-infrastructure-week_us_5a8593fde4b0058d5566a668', 'short_description': 'Talk of fixing roads and bridges was upstaged by domestic abuse, a porn star,  mass murder -- and presidential bumbling.', 'date': '2018-02-15'}

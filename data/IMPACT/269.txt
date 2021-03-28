@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'This Trendy Cafe Trains Refugees To Become Cooks', 'authors': 'Eleanor Goldberg', 'link': 'https://www.huffingtonpost.com/entry/this-restaurant-trains-and-then-employs-refugees_us_595e9eefe4b0d5b458e947e1', 'short_description': 'Refugees often get stuck in low-paying, menial jobs. This restaurant  wants to change that.', 'date': '2017-07-14'}

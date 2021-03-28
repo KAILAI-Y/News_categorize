@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Asian-Americans Share Their Perfect Twists On The Classic Thanksgiving Feast', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/my-asian-thanksgiving_us_5a15e0fbe4b0cee6c04e0637', 'short_description': 'Sticky rice next to the turkey? Heavenly.', 'date': '2017-11-22'}

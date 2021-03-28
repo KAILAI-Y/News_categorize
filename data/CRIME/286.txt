@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Charlottesville Rally Organizer Jason Kessler Indicted On Perjury Charge', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/jason-kessler-indicted_us_59d4eef8e4b0218923e6da60', 'short_description': '"I’ll admit that what I did was not legal."', 'date': '2017-10-04'}

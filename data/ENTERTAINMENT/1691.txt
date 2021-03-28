@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kim Kardashian Shuts Down Rumors She Partied While Son Was Hospitalized', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-son-hospitalized_us_5a4d2ddce4b025f99e1f7f6c', 'short_description': '"Don’t even try me when it comes to my kids.”', 'date': '2018-01-03'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Brandi Chastain Totally Agrees Her Hall Of Fame Plaque Looks Nothing Like Her', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/brandi-chastain-plaque-odd_us_5b052506e4b0784cd2afb267', 'short_description': 'Was it supposed to be Gary Busey or Mickey Rooney?', 'date': '2018-05-23'}

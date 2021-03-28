@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Court Says Texas Can Continue To Enforce Voter ID Law For Now', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/texas-voter-id_us_59b00231e4b0b5e53102a0cc', 'short_description': 'A lower court has ruled the law is intentionally discriminatory.', 'date': '2017-09-06'}

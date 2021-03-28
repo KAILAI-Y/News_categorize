@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Varsity Blues' Reunion Shows The Ol' Team Spirit", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/varsity-blues-amy-smart_us_5ae3073ce4b055fd7fcb025a', 'short_description': '"Friendships born out of a true desire to love, learn and support one another last a lifetime."', 'date': '2018-04-27'}

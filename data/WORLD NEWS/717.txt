@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Trump's Tensions With The U.K. Just Got Even Worse", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-tensions-uk-worse_us_5a1fe3f5e4b0392a4ebb5c4d', 'short_description': 'Politicians in the U.K. have message for the U.S. president: delete your account.', 'date': '2017-11-30'}

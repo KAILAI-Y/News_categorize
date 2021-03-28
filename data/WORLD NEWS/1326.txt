@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'North Korea Signals It Has A More Powerful ICBM In The Works', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/north-korea-icbm_us_599f51fde4b06d67e336a4a0', 'short_description': 'If developed, such a missile could possibly reach any place on the U.S. mainland, including Washington and New York.', 'date': '2017-08-24'}

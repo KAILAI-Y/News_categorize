@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Here's A List Of Countries And Leaders Trump Has Insulted Since His Election", 'authors': 'Jesselyn Cook and Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-insult-foreign-countries-leaders_us_59dd2769e4b0b26332e76d57', 'short_description': 'No country is safe, it seems.', 'date': '2017-11-05'}

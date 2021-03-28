@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Only About A Third Of Republicans Believe Voting Should Be As Easy As Possible', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/pew-voter-registration_us_5953ac40e4b05c37bb7ae92b', 'short_description': "There's also a gap in attitudes toward voter access along racial lines.", 'date': '2017-06-28'}

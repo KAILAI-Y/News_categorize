@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Alec Baldwin's Trump Faces Ominous 'Sopranos' Scenario In 'SNL' Finale", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwins-trump-faces-sopranos-ending-on-snl_us_5b00fa3de4b0a046186ca26c', 'short_description': 'Things look black.', 'date': '2018-05-20'}

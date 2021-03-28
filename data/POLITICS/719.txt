@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Asks For Extension To File His 2017 Tax Return', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-tax-returns-extension_us_5ad6ea79e4b03c426da95d48', 'short_description': '“He will file his tax return by the extension deadline."', 'date': '2018-04-18'}

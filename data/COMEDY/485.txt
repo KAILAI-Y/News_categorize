@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah: Trump Backs Roy Moore Because 'Birds Of A Feather Molest Together'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-roy-moore_us_5a2fab78e4b0461754330877', 'short_description': '"It’s simple, people."', 'date': '2017-12-12'}

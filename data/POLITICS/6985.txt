@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: Anthony Scaramucci Is Speaking Out", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-anthony-scaramucci-is-speaking-out_us_5981b1ffe4b09d24e9942117', 'short_description': "Here's his take on his brief tenure at the White House.", 'date': '2017-08-02'}

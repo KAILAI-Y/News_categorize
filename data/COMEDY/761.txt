@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Explains Why Ted Cruz Definitely Didn't 'Like' That Porno", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/daily-show-trevor-noah-ted-cruz-porn-twitter_us_59b8d1c5e4b02da0e13d6565', 'short_description': '"It\'s part of being a normal human being."', 'date': '2017-09-13'}

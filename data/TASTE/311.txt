@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': '12 Juicy Berry Recipes That Taste Like Summer', 'authors': 'Jennifer Segal, ContributorChef, Cookbook Author, Busy Mom', 'link': 'https://www.huffingtonpost.com/entry/12-juicy-berry-recipes-that-taste-like-summer_us_59374ed8e4b04ff0c46682b1', 'short_description': 'Strawberries, raspberries, blueberries — oh my!', 'date': '2017-06-11'}

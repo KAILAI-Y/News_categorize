@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Asks People To Chime In On The 'Crisis' In Wakanda", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-crisis-wakanda-black-panther_us_5a91347de4b0ee6416a39591', 'short_description': "Even though it's fictitious.", 'date': '2018-02-24'}

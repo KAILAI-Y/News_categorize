@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: Here's How Trump Is Undermining Obamacare", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-heres-how-trump-is-undermining-obamacare_us_59e09ec7e4b04d1d5181017f', 'short_description': 'And sabotaging insurance markets.', 'date': '2017-10-13'}

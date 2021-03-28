@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Watch Trump Apologize To Women In A Mashup We Wish Was Real', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/watch-trump-apologize-to-women-in-a-mashup-we-wish-was-real_us_5a3bddfde4b06d1621b2a11d', 'short_description': 'He even quotes feminist author bell hooks 😂', 'date': '2017-12-21'}

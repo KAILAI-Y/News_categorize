@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sen. Jeff Flake Donates To Roy Moore's Democratic Opponent", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/jeff-flake-donate-doug-jones-campaign_us_5a271370e4b0c2117626899a', 'short_description': 'Flake added "Country over Party" on the check and tweeted an image of it.', 'date': '2017-12-05'}

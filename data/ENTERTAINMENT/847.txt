@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ben Affleck And Matt Damon's Company To Add Inclusion Rider To All Films", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/ben-affleck-and-matt-damons-company-to-add-inclusion-rider-for-all-films_us_5aa7c8d5e4b03c9edfafa8c2', 'short_description': 'A step in the right direction.', 'date': '2018-03-13'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "PBS Suspends 'Tavis Smiley Show' While It Investigates Host's Alleged Misconduct", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/tavis-smiley-suspended-pbs_us_5a31be65e4b07ff75b0022e6', 'short_description': "Smiley's show has been suspended indefinitely.", 'date': '2017-12-14'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher On GOP Health Care Bill: 'Behold, A Turd!'", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-gop-health-care-bill-turd_us_594deca5e4b05c37bb7696fa', 'short_description': 'But the "Real Time" host did warn that the bill could actually pass.', 'date': '2017-06-24'}

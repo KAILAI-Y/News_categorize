@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'FDA Backs Pioneering Gene-Altering Cancer Treatment', 'authors': 'Toni Clarke, Reuters', 'link': 'https://www.huffingtonpost.com/entry/fda-backs-pioneering-gene-altering-cancer-treatment_us_5967675fe4b0d51cda606543', 'short_description': 'A new cancer drug won enthusiastic support from a federal advisory panel.', 'date': '2017-07-13'}

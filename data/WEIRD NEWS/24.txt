@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Woman Says She Took Home 'Kittens,' Only To Find Out They Were Bobcats", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/bobcats-kittens-texas_us_5af49587e4b0e57cd9f7868e', 'short_description': 'But the finder has raised questions by changing her story about where the cats came from.', 'date': '2018-05-10'}

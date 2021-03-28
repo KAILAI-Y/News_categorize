@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'TSA Announces Stricter Security Rules', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/tsa-announces-stricter-security-rules_us_5978c758e4b0a8a40e84b224', 'short_description': 'The rules have been piloted in 10 U.S. airports and will soon expand to all airports.', 'date': '2017-07-26'}

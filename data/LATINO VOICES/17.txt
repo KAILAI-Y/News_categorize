@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Oscar Isaac Explains Viral Photo Of Him Eating Cheetos With Chopsticks', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/oscar-isaac-cheetos-chopsticks-viral-photo-explanation_us_5a8465e9e4b0058d55653c33', 'short_description': "We finally know the truth, and it's real classy.", 'date': '2018-02-14'}

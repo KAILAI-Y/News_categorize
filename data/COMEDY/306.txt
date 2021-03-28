@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jordan Klepper Has Just 1 Question For The NRA', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jordan-klepper-nra_us_5a868e00e4b00bc49f429772', 'short_description': 'But will they answer?', 'date': '2018-02-16'}

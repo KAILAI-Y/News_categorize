@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "North Korea Says Nuclear War 'May Break Out Any Moment'", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/north-korea-nuclear-war-ambassador_us_59e55925e4b0a2324d1d20cc', 'short_description': 'The rhetoric is typical for Pyongyang but adds to an uptick in tensions with the U.S.', 'date': '2017-10-17'}

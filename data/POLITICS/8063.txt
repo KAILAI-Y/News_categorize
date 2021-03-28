@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hillary Clinton Says Libraries Are Essential In Fight To Defend ‘Truth And Reason’', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-reading_us_5952728be4b0da2c731eb29c', 'short_description': '"I believe libraries and democracy go hand-in-hand."', 'date': '2017-06-27'}

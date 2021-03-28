@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chance The Rapper Is Now Chance The Weatherman', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/chance-the-rapper-is-now-chance-the-meteorologist_us_5a2acbc5e4b069ec48ace850', 'short_description': 'Weather has never been so cool.', 'date': '2017-12-08'}

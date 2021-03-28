@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'How Humans Are Laying Out The Welcome Mat For Mosquitoes And The Diseases They Carry', 'authors': 'Sara Perria', 'link': 'https://www.huffingtonpost.com/entry/chikungunya-malaysia-zika-dengue_us_5a5cfd70e4b04f3c55a51fb9', 'short_description': 'Climate change is partly to blame, but it’s not the whole story.', 'date': '2018-01-23'}

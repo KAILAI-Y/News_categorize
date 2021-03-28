@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Evil Eye Gloves Are The New Pussy Hats At The March For Our Lives', 'authors': 'Alexandra Mondalek, Yahoo Lifestyle', 'link': 'https://www.huffingtonpost.com/entry/evil-eye-gloves-march-for-our-lives_us_5ab53a20e4b0decad049ba70', 'short_description': 'The evil eye gloves are perhaps less obvious in their symbolism.', 'date': '2018-03-23'}

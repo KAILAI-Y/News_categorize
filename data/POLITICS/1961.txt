@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Poll Finds Near-Universal Support For Gun Background Checks', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/poll-gun-background-checks_us_5a8cb36ae4b03414379b433d', 'short_description': "It's the most support the Quinnipiac University Poll has ever measured.", 'date': '2018-02-21'}

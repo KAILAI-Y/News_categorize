@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Army Sgt. La David Johnson Found Bound, May Have Been Executed In Niger: Report', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/ladavid-johnson-bounc-executed_us_5a0683d2e4b01d21c83ea731', 'short_description': "Niger villagers recount finding Johnson's body with a  large head wound.", 'date': '2017-11-11'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Amy Schumer Says No Wedding Gifts, Please Give To Gun Safety Group', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/amy-schumer-everytown-for-gun-safety_us_5a85c8c6e4b0ab6daf47160d', 'short_description': 'The victims of gun violence were at the top of her mind.', 'date': '2018-02-15'}

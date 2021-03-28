@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Uses RNC Funds To Pay For His Russia Defense -- Thanks To Hillary Clinton's Lawyer", 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/trump-russia-rnc-defense_us_59c2d80de4b0c90504fb53a0', 'short_description': "Isn't it ironic?", 'date': '2017-09-20'}

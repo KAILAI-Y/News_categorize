@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "No One Knew How To Take Seth Meyers' Harvey Weinstein Joke", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-golden-globes-monologue_us_5a52a8e8e4b003133ec90f71', 'short_description': 'The Golden Globes host took on sexual harassment and Donald Trump in a tricky monologue.', 'date': '2018-01-08'}

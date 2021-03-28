@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'This Beautiful Book Of Cartoons Looks At Sports From A Gay Angle', 'authors': 'Jim Buzinski, Outsports', 'link': 'https://www.huffingtonpost.com/entry/cartoon-book-gay-angle_us_5a6b6617e4b01fbbefb16dfb', 'short_description': "'The Outfield' shows the intersection of LGBTQ culture and masculinity.", 'date': '2018-01-28'}

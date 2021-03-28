@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "John Legend Responds To WGN America's 'Underground' Cancellation", 'authors': 'Brennan Williams', 'link': 'https://www.huffingtonpost.com/entry/underground-john-legend-cancellati_us_592ef925e4b09ec37c3104cf', 'short_description': '"Content wins. We\'re not reliant on a particular network to make great content."', 'date': '2017-05-31'}

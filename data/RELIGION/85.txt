@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "Exposing America's Biggest Hypocrites: Evangelical Christians", 'authors': 'Francis Maxwell, ContributorHost/Writer/Actor', 'link': 'https://www.huffingtonpost.com/entry/exposing-americas-biggest-hypocrites-evangelical_us_5a184f0ee4b068a3ca6df7ad', 'short_description': 'It’s okay to prey as long as you pray.', 'date': '2017-11-24'}

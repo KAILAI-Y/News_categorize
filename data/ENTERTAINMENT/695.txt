@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Roseanne Barr Snaps Back At Wendy Williams With A Personal Burn', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/roseanne-barr-wendy-williams_us_5abcafe6e4b04a59a314a830', 'short_description': "The talk-show host discovered why you don't ask Roseanne about an ex-husband.", 'date': '2018-03-29'}

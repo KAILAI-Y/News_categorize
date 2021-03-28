@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "112-Year-Old Japanese Man Is World's Oldest Living Male", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/masazo-nonaka-guinness-world-records-oldest-man_us_5acd3bb2e4b06a6aac8ccba1', 'short_description': "The record holder's granddaughter says he credits his longevity to sweets.", 'date': '2018-04-10'}

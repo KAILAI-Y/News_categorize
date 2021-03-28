@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Revelers Taunt Animals During Peru Bull Run Festival, The Inevitable Happens', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/peru-bull-run-gored-injuries_us_593814e0e4b01fc18d3f7043', 'short_description': 'Some people were reportedly drunk.', 'date': '2017-06-07'}

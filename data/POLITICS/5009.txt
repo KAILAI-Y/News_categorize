@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: Inside Trump's Moves With Obamacare To 'Blow That Thing Up'", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-inside-trumps-moves-with-obamacare-to-blow-that-thing-up_us_59e491c6e4b0a52aca191b55', 'short_description': 'According to Steve Bannon.', 'date': '2017-10-16'}

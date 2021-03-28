@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Pastor Accused Of Impersonating Cop And Assaulting Teens', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/keith-haskell-pastor-fake-cop_us_59f23cade4b07fdc5fbcf470', 'short_description': 'The pastor denies the allegations.', 'date': '2017-10-26'}

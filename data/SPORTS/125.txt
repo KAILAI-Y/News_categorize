@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Report Alleges Rampant Sexual Misconduct At Dallas Mavericks', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/dallas-mavericks-sexual-misconduct_us_5a8d3460e4b00a30a250d340', 'short_description': '“It was a real life Animal House,” one former employee said.', 'date': '2018-02-21'}

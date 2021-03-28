@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Parkland Teens Are Giving These Columbine Survivors Hope', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/parkland-teens-columbine_us_5a8f4dede4b01e9e56b9e156', 'short_description': '“I’m so proud of them, and I don’t even know them.”', 'date': '2018-02-23'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "'Acts Of Genocide' Suspected Against Rohingya In Myanmar: U.N.", 'authors': 'Stephanie Nebehay, Simon Lewis, Reuters', 'link': 'https://www.huffingtonpost.com/entry/rohingya-myanmar-genocide-un_us_5a9ffcfae4b0e9381c14521e', 'short_description': 'Nearly 700,000 Rohingya have fled into Bangladesh since August.', 'date': '2018-03-07'}

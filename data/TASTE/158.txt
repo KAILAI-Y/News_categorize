@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': '18 Food Truths That Only Someone In Charleston Will Understand', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/charleston-food_us_59934aa2e4b04b193360ed71', 'short_description': 'Welcome to the Holy City of food.', 'date': '2017-09-01'}

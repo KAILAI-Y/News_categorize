@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Watergate Figure John Dean Says Rick Gates' Testimony Could Be The End Of The Trump Presidency", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-dean-gates-trump_us_5a938492e4b03b55731d85ce', 'short_description': '"Increasingly it appears Manafort is the link to Russian collusion."', 'date': '2018-02-26'}

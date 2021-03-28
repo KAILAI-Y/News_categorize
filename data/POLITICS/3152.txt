@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'God Bless Us, Every Robber Baron', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/john-pierpont-morgan-christmas-carol_us_5a396fc8e4b025f99e12d9dd', 'short_description': "How did Charles Dickens' beloved Christmas story become a trophy for a Wall Street titan?", 'date': '2017-12-23'}

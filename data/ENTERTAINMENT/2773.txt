@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "This 'Game Of Thrones' Star Just Got An Adorable New Puppy", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/sophie-turner-puppy-game-of-thrones_us_59ac9b59e4b0b5e530ff6d3b', 'short_description': 'The lone wolf dies but the pack survives.', 'date': '2017-09-04'}

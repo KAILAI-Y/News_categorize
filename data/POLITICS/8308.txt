@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nearly 1,300 Children Die From Gunshot Wounds In U.S. Each Year, Report Shows', 'authors': 'Lisa Rapaport, Reuters', 'link': 'https://www.huffingtonpost.com/entry/children-gunshot-deaths_us_594816dee4b07499199dbbd6', 'short_description': 'More than half of the gun-related deaths were homicides.', 'date': '2017-06-19'}

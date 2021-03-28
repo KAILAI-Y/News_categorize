@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New Jersey Will End Government Shutdown That Closed Beaches', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/new-jersey-ends-government-shutdown-that-closed-beaches-over-holiday-weekend_us_595b0bbce4b0da2c732507d4', 'short_description': 'Lawmakers said a new budget was a "win for everyone."', 'date': '2017-07-04'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Meghan Markle Will Join The Royal Family For Christmas This Year', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/meghan-markle-royal-family-christmas_us_5a312526e4b07ff75aff2c87', 'short_description': "It's all happening!", 'date': '2017-12-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: Shutdown Fears Grow Amid DACA Fight", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-shutdown-fears-grow-amid-daca-fight_us_5a5de97ce4b04f3c55a5d0c0', 'short_description': "And Trump's DACA comments.", 'date': '2018-01-16'}

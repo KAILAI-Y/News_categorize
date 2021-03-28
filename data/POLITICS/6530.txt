@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Over 129,000 Kids Attend Schools That Honor Confederate Leaders', 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/confederate-schools_us_5995cdd0e4b0d0d2cc8537e1', 'short_description': '191 schools around the country are named for leaders who fought to uphold slavery.', 'date': '2017-08-17'}

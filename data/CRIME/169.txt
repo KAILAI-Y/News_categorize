@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Gunfire Outside Colorado State Capitol Forces Brief Lockdown', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/denver-capitol-lockdown-shots-fired_us_5a4e96f3e4b01e1a4b13cea2', 'short_description': 'Witnesses say they saw a person pull a gun and shoot at a car while walking near the Capitol.', 'date': '2018-01-04'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Allies Flip Out After Mueller Lands Tens Of Thousands Of Emails', 'authors': 'Steve Holland, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-lawyer-emails-mueller_us_5a35f056e4b0ff955ad384dd', 'short_description': 'The complaint appears to be baseless.', 'date': '2017-12-17'}

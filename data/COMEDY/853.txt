@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Samantha Bee Skewers Kris Kobach With Cutting Parody Musical', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-kris-kobach-music-man_us_5982c5aee4b0fa1575fbf44c', 'short_description': 'A certain "Hamilton" star even gave her a helping hand.', 'date': '2017-08-03'}

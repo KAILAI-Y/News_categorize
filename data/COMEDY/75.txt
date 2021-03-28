@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "The Real Stormy Daniels Warns 'Trump' on 'SNL':  Storm's A Comin', Baby", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/stormy-daniels-warns-trump-a-storms-coming_us_5aee796ce4b0ab5c3d66560c', 'short_description': 'Deny climate change all you want.', 'date': '2018-05-06'}

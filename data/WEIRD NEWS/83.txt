@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Student Saves Drowning Squirrel, With A Little Help From 'The Office'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/squirrel-brought-back-the-office_us_5ac33958e4b00fa46f85cbf5', 'short_description': '"You gotta do what you gotta do if you’re going to save a squirrel’s life."', 'date': '2018-04-03'}

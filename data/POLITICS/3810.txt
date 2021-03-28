@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'UnFounding Father', 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/unfounding-father_us_5a215c43e4b03350e0b62747', 'short_description': 'Why we need to stare at you know who.', 'date': '2017-12-01'}

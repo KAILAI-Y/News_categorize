@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Take A Look At David Letterman's New Netflix Show, With Barack Obama As First Guest", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/david-letterman-barack-obama-netflix-interview_us_5a509380e4b003133ec80616', 'short_description': '“My Next Guest Needs No Introduction" debuts Jan. 12.', 'date': '2018-01-06'}

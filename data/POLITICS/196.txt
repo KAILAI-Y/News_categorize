@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Republican Welfare Plan Is About Keeping Wages Down', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/republicans-welfare-farm-bill-paul-ryan_us_5afc336ee4b06a3fb50c8181', 'short_description': 'But they might be overestimating what their legislation would do.', 'date': '2018-05-16'}

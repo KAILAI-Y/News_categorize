@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Scaramucci Not Ready To Give Up The Attention Despite Saying He'd 'Go Dark'", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/anthony-scaramucci-tweet_us_5984dd96e4b041356ebfc8e3', 'short_description': 'The Mooch keeps on talking.', 'date': '2017-08-04'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Harvey Weinstein Turns Himself In To Police For Alleged Sex Crimes', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/harvey-weinstein-arrested_us_5a020edee4b04e96f0c5f916', 'short_description': 'The bombshell sexual harassment accusations against Weinstein sparked the Me Too movement.', 'date': '2018-05-25'}

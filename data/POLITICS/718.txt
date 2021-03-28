@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'IRS Extends Tax Filing Deadline An Additional Day After Site Glitch', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/irs-tax-filing-deadline-april-18_us_5ad67da0e4b029ebe01eea2a', 'short_description': 'Good news for all you procrastinators.', 'date': '2018-04-18'}

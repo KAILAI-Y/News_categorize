@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Bill Maher Issues Strong Words To Democrats About Over-Regulation', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-democrats-overregulation_us_59d877fae4b072637c443882', 'short_description': '“It makes people hate us. It makes me hate us."', 'date': '2017-10-07'}

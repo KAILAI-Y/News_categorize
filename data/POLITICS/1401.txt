@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Rep. Trey Gowdy To Trump's Lawyer: If You Have An Innocent Client, 'Act Like It'", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/trey-gowdy-trump_us_5aae62c9e4b0c33361b13a02', 'short_description': "The attorney's call to end the special counsel probe is a disservice to the president, said Gowdy.", 'date': '2018-03-18'}

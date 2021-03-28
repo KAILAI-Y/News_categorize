@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Bless Natalie Portman For Dragging The All-Male Director Category At Golden Globes', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/natalie-portman-director-golden-globes_us_5a52e2f4e4b01e1a4b16ab3a', 'short_description': '"SAVAGE QUEEN."', 'date': '2018-01-08'}

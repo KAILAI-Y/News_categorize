@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Famous Chefs Are Stepping Up To The Plate In The Wake Of Natural Disasters', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/celebrity-chef-disaster-relief_us_59e78880e4b08f9f9edc3d20', 'short_description': "They've fed hundreds of thousands of people and counting.", 'date': '2017-10-18'}

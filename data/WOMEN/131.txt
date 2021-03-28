@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Trump Proclaims Women's History Month In Painfully Ironic Statement", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/trump-proclaims-womens-history-month_us_5a98093ee4b09c872bb1e96f', 'short_description': "Just don't think about his actual track record on supporting women's issues.", 'date': '2018-03-01'}

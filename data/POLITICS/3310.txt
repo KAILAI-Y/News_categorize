@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ted Cruz 'Splains Jedi Integrity To Luke Skywalker. It Doesn't Go Well.", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/tedcruz-markhamill-ajitpai-jedi_us_5a36efc5e4b01d429cca01c8', 'short_description': 'Mark Hamill responds that the senator must have been "distracted by porn."', 'date': '2017-12-18'}

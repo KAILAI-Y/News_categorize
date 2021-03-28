@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Aging Punk Rockers Have A Message For The Kids: 'F**k Youth!'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/superbean-f-youth_us_5a5676efe4b03bc4d03d9f96', 'short_description': 'Smells like senior citizen spirit.', 'date': '2018-01-10'}

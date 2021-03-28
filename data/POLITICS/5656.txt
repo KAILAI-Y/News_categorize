@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Alabama Senate Front-Runner: Evolution Is Fake And Homosexuality Should Be Illegal', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-religion_us_59c2bd8be4b063b2531781a2', 'short_description': 'Former judge Roy Moore says "God\'s law" should trump man\'s.', 'date': '2017-09-21'}

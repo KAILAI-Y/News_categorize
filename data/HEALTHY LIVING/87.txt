@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "17 Thanksgiving Conversation Topics That Aren't About Politics", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/thanksgiving-conversation-topics_us_5a0c71abe4b0bc648a0f6443', 'short_description': 'For families who just need one peaceful meal.', 'date': '2017-11-20'}

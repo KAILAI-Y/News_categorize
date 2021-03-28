@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'More Than A Half Million People Struck By Cholera In Yemen', 'authors': 'Stephanie Nebehay, Reuters', 'link': 'https://www.huffingtonpost.com/entry/more-than-a-half-million-people-struck-by-cholera-in-yemen_us_5991d3bfe4b08a247276449a', 'short_description': "Health workers haven't been paid in almost a year.", 'date': '2017-08-14'}

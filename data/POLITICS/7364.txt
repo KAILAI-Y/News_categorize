@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The NRA's Spokeswoman Is Not Happy With Trump's Latest Hire", 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/scaramucci-gun-safety-nra_us_597247f6e4b0e79ec19910b6', 'short_description': 'Anthony Scaramucci is pro-gun control and a "concerning" pick, Dana Loesch said in a now-deleted tweet.', 'date': '2017-07-21'}

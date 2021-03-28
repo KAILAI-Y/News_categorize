@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Tiffany Haddish And Brad Pitt Made A Very Sexy Pact For 2019', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/tiffany-haddish-brad-pitt-2019_us_5a9eb136e4b0479c02570e4e', 'short_description': 'She said the two actors struck the deal in an elevator.', 'date': '2018-03-06'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Kellogg’s Is Redesigning  Corn Pops Boxes So They're Not Racist", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kelloggs-racist-corn-pops-boxes_us_59f1b5bae4b0af27f589d5a0', 'short_description': 'The company said it "did not intend to offend."', 'date': '2017-10-26'}

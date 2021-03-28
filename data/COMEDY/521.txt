@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': '‘Tis The Season For Impeachment In Chipmunks Christmas Parody', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/chipmunks-christmas-impeachment_us_5a24fc5ce4b03c44072e77d8', 'short_description': '"Please Mueller don\'t be late."', 'date': '2017-12-04'}

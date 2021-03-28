@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Reluctantly Grants Iran Relief From Sanctions', 'authors': 'Steve Holland, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-iran-sanctions_us_5a590745e4b0fcbc3a0fe1a4', 'short_description': 'The move means the Iran nuclear deal remains in place, for now.', 'date': '2018-01-12'}

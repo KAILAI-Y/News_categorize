@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "All The Funny Faces You Need To See From The Olympics' Figure Skating Events", 'authors': 'Carly Ledbetter and Damon Dahlen', 'link': 'https://www.huffingtonpost.com/entry/funny-faces-figure-skating-2018-winter-olympics_us_5a81e33be4b0c6726e16080d', 'short_description': 'These looks deserve their own medals.', 'date': '2018-02-12'}

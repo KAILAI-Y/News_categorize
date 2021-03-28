@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Former Ethics Chief Warns That Trump Could Make U.S. Look Like A 'Kleptocracy'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/walter-shaub-donald-trump-kleptocracy_us_597f39afe4b02a4ebb76e45b', 'short_description': '“America really should stand for more than that,” Walter Shaub said.', 'date': '2017-07-31'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'When The Person Shaming You For Your Abortion Is A Child', 'authors': 'Jenavieve Hatch', 'link': 'https://www.huffingtonpost.com/entry/when-the-person-shaming-you-for-your-abortion-is-a-child_us_59b85545e4b0edff97175c96', 'short_description': 'How the anti-abortion movement uses children to legitimize its message.', 'date': '2017-09-21'}

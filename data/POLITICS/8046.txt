@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Director Of Media Company Donated To Journalist-Slamming GOP Candidate', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/sinclair-gianforte-donation_us_5952e0eee4b0da2c731f7aef', 'short_description': 'The donation raises serious ethical questions.', 'date': '2017-06-28'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "South Korea's Women Curlers Have Nicknames Like Pancake, Steak And Yogurt", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/south-korea-womens-curling-nicknames-breakfast_us_5a8c76e5e4b03414379afaf1', 'short_description': 'And now we want breakfast.', 'date': '2018-02-20'}

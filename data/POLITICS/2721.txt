@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The World According To Trump', 'authors': "Alfred W. McCoy, ContributorProfessor, University of Wisconsin-Madison; Author, 'In the Sh...", 'link': 'https://www.huffingtonpost.com/entry/the-world-according-to-trump_us_5a5e0c30e4b03c4189691e10', 'short_description': 'Or how to build a wall and lose an empire.', 'date': '2018-01-16'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Hold Iowa State House District That Went Heavily For Donald Trump', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/democrat-phil-miller-wins-iowa-special-election_us_598b28d3e4b0449ed5073acb', 'short_description': "It's a positive sign for Democrats.", 'date': '2017-08-09'}

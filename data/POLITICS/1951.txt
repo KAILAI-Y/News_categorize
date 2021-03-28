@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Stephen Colbert Gets Serious: Time To Tell Do-Nothing Pols That Their Time Is Up', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-gun-control-florida_us_5a8ce627e4b03414379b5d99', 'short_description': '"Late Show" host puts lawmakers on notice over gun control.', 'date': '2018-02-21'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Netflix Sought To Purchase A Chain Of Movie Theaters', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/netflix-may-be-trying-to-purchase-their-own-chain-of-movie-theaters_us_5adcc6d8e4b075b631e6c6e4', 'short_description': 'The next step for the streaming giant, or a step backward?', 'date': '2018-04-22'}

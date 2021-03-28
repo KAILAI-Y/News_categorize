@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "On 'The Daily Show,' God Rips Bill O'Reilly On 'Personal Responsibility'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/god-goes-on-daily-show-to-rip-bill-oreilly-on-personal-responsibility_us_59f0b352e4b0d094a5b68e5c', 'short_description': '$32 million, Bill.', 'date': '2017-10-25'}

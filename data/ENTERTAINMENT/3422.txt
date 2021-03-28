@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Terrifying And Ambiguous, 'It Comes At Night' Sculpts A Tale Of Apocalyptic Tensions", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/it-comes-at-night_us_59398554e4b0c5a35c9d448d', 'short_description': 'The genre-bending horror movie opens this weekend.', 'date': '2017-06-09'}

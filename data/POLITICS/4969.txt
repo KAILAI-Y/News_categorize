@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Gold Star Moms Blast Trump For Delayed Response To Soldiers' Deaths", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/trump-gold-star-mother_us_59e654abe4b08f9f9edb2a5d', 'short_description': '"When you don’t even acknowledge the sacrifice or the death, then it’s like you don’t even care."', 'date': '2017-10-17'}

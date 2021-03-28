@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ryan Gosling Gets Deep In A Goofy Way To Preview 'Saturday Night Live' Gig", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/ryan-gosling-preview-saturday-night-live_us_59ccc970e4b02aef6cd7a56a', 'short_description': '"This time I\'m going to give the world my soul."', 'date': '2017-09-28'}

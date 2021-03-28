@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Dozens Dead After Torrential Rains Cause Dam To Burst In Kenya', 'authors': 'Thomas Mukoya, Reuters', 'link': 'https://www.huffingtonpost.com/entry/kenya-dam-burst_us_5af41058e4b09bb419e531a6', 'short_description': 'The floodwaters swept away power lines, homes and buildings, including a primary school.', 'date': '2018-05-10'}

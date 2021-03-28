@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Eleven's New Psychic Ally Just Changed The Game On 'Stranger Things'", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/eleven-kali-stranger-things-2-sister_us_59f321e2e4b07fdc5fbd9d89', 'short_description': 'Eleven and Eight, together again.', 'date': '2017-10-28'}

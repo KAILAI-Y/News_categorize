@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congressional Leaders Reach Spending Deal, But Passage Is Still In Doubt', 'authors': 'Matt Fuller, Elise Foley, and Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/congress-spending-deal-immigration_us_5a7b5d8ee4b0c6726e0ec22d', 'short_description': "Let's make a deal, but also, you pass it.", 'date': '2018-02-07'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Hannibal Buress Arrested For Disorderly Intoxication In Miami', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/hannibal-buress-arrested-miami_us_5a2d805be4b0a290f0518f41', 'short_description': '"What I am detained for?” the comedian repeats in cellphone footage of the arrest.', 'date': '2017-12-10'}

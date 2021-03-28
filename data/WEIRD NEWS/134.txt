@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Team USA’s 'Dumb And Dumber’ Gloves Are Now An Olympic Meme", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/team-usa-winter-olympics-gloves_us_5a7ed194e4b0c6726e13b369', 'short_description': '"Perfect for Americans on the international stage these days."', 'date': '2018-02-10'}

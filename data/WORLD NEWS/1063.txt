@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'At Least Two Killed In Stabbing At Train Station In Marseille', 'authors': 'Marc Leras and Emmanuel Jarry, Reuters', 'link': 'https://www.huffingtonpost.com/entry/marseilles-stabbing-attack_us_59d0e994e4b09538b508c846', 'short_description': 'A French soldier shot and killed the attacker.', 'date': '2017-10-01'}

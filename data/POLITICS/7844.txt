@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Asked For ‘Obamacare Horror Stories.’ It Didn’t Go Well.', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/obamacare-horror-stories_us_595c459de4b05c37bb808bef', 'short_description': 'Thousands of people replied with how the ACA has helped them.', 'date': '2017-07-05'}

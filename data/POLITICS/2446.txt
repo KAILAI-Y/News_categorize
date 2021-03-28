@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: Bruno Mars Wasn't The Only Big Winner At The Grammys", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-bruno-mars-wasnt-the-only-big-winner-at-the-grammys_us_5a6f1361e4b06e2532699d89', 'short_description': 'And about that Hillary Clinton cameo.', 'date': '2018-01-29'}

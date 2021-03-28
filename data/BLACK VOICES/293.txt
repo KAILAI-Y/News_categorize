@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Trolls Are Posting Fake Stories About Being Attacked At 'Black Panther' Showings", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/fake-stories-black-panther-attack-hoax_us_5a8857ebe4b05c2bcacb6d41', 'short_description': "Don't fall for them.", 'date': '2018-02-17'}

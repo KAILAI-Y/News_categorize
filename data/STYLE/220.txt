@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Prince Harry Meets With Wounded Veterans Ahead Of The Invictus Games', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/prince-harry-wounded-vets-invictus-games_us_59c58bcee4b0cdc773315f00', 'short_description': 'This year the vets compete in Toronto in 12 sports.', 'date': '2017-09-23'}

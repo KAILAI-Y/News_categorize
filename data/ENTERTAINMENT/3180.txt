@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "George Romero, Horror Legend And 'Night Of The Living Dead' Director, Dead At 77", 'authors': 'Jillian Capewell', 'link': 'https://www.huffingtonpost.com/entry/george-romero-dead-dies_us_596be6b9e4b03389bb186ad8', 'short_description': 'Many consider Romero the forefather of the modern zombie film.', 'date': '2017-07-16'}

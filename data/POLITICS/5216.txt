@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Could Seal Bipartisan Deal On Banning 'Bump Stocks' — If He Chose", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/bump-stocks-ban-trump_us_59d64fd1e4b0becae802eb73', 'short_description': 'The president likes signing bills and this one would get something done.', 'date': '2017-10-05'}

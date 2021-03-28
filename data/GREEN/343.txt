@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Schwarzenegger And Macron Troll Trump Over Climate Change', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/schwarzenegger-macron-meeting_us_594f49eae4b0da2c731c04d5', 'short_description': 'Former California governor meets in France with "great leader" to talk about environmental issues.', 'date': '2017-06-25'}

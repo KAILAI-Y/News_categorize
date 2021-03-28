@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The 'Westworld' Season 2 Trailer Shows Us The Hosts Are Done Playing", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/westworld-season-2-trailer-reveals-the_us_5abd35e1e4b0dbc20ec6b872', 'short_description': 'And Shogun World, at last!', 'date': '2018-03-29'}

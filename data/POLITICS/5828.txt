@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Stop Saying We Need New Prison Beds In Arkansas', 'authors': 'Jon  B. Comstock, ContributorFormer Arkansas Trial Judge', 'link': 'https://www.huffingtonpost.com/entry/stop-saying-we-need-new-prison-beds-in-arkansas_us_59b94946e4b086432b0372e9', 'short_description': 'Are we ready to do something different?', 'date': '2017-09-14'}

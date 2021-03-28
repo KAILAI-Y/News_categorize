@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "23 Holiday Party Looks That Aren't Dresses", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/what-to-wear-to-a-holiday-party-other-than-a-dress_us_5a1f09dce4b0d52b8dc24fad', 'short_description': 'Take the dress out of dressing up.', 'date': '2017-11-30'}

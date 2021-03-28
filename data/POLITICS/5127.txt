@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Obama: Too Cool For Trump’s Crises', 'authors': 'Ralph Nader, ContributorConsumer advocate, lawyer and author', 'link': 'https://www.huffingtonpost.com/entry/obama-too-cool-for-trumps-crises_us_59dd4d5ce4b0df59e2613ce9', 'short_description': 'Think of your millions of supporters, Mr. Obama.', 'date': '2017-10-10'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Reveals The Secret To Figuring Out What’s Going On In Trump’s Mind', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-trump-mind_us_5af932e7e4b0e57cd9fad21f', 'short_description': 'Ouch!', 'date': '2018-05-14'}

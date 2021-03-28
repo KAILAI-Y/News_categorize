@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Celebrates Thanksgiving With 100th Day At One Of His Properties As President', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/trump-thanksgiving-mar-a-lago_us_5a16deb6e4b0d4906cad9e13', 'short_description': "That's nearly one-third of his presidency.", 'date': '2017-11-23'}

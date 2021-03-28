@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Workday To Die For:  Prayer Breakfast, Intelligence Briefing, That's It", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-light-workday_us_5aebcb97e4b0ab5c3d63a3cc', 'short_description': "Friday it's off to the NRA convention. Then golf!", 'date': '2018-05-04'}

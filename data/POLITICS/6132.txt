@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bernie Sanders Has No Time For Chris Cuomo Asking About The 2020 Election', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-chris-cuomo-election-2020_us_59a902eee4b0dfaafcef40fc', 'short_description': '"People are sick and tired of it!"', 'date': '2017-09-01'}

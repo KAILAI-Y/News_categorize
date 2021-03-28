@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Costumes At This Year's Tokyo Comic-Con Were Pretty Wild", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-costumes-at-this-years-tokyo-comic-con-were-pretty-insane_us_5a256dede4b03c44072f1a18', 'short_description': 'So many Spider-Man costumes.', 'date': '2017-12-04'}

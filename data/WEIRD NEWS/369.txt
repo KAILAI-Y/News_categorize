@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Resourceful Dog Walks Away With Bag Of Dog Food After Hurricane Harvey', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/hurricane-harvey-dog-looting-dog-food_us_599faaefe4b0821444c25eeb', 'short_description': '"Must be a Texas dog cause he can survive without help," one person said.', 'date': '2017-08-26'}

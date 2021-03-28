@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'A Running List Of Cowards, Courtiers, Strivers And Suck-Ups', 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/white-house-correspondents-dinner-reaction_us_5ae662bfe4b04aa23f243be0', 'short_description': 'Democracy dies in the Washington Hilton.', 'date': '2018-05-01'}

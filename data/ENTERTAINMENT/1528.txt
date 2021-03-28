@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Selena Gomez's Mom Warned Her About Woody Allen, But She Didn't Listen", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/selena-gomez-mom-warned-her-about-woody-allen_us_5a5e3d6ae4b04f3c55a66ecd', 'short_description': 'The former momager said her advice "falls on deaf ears."', 'date': '2018-01-16'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Charles Manson Reportedly Hospitalized, In Deteriorating Condition', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/charles-manson-hospitalized_us_5a0cd32ae4b0b17e5e13d996', 'short_description': 'The infamous mass murderer is serving a life sentence in a California prison.', 'date': '2017-11-16'}

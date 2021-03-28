@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Student Finishes College Final Exam While In Labor', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/student-final-exam-labor_us_5a3a6602e4b0b0e5a79ea0a2', 'short_description': '"It was hard to focus but I had such a motivation to finish," Nayzia\' Thomas said.', 'date': '2017-12-20'}

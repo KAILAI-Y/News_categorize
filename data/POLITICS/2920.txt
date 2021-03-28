@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Steve Bannon Backpedals On Comments In New Book On Trump', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-trump_us_5a52479be4b003133ec8bdb6', 'short_description': 'The former White House aide said Donald Trump Jr. is a "patriot and a good man."', 'date': '2018-01-07'}

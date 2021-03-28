@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Phoenix Mayor Greg Stanton Calls On Trump To Delay Rally In Wake Of Charlottesville Violence', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/greg-stanton-phoenix-mayor-trump-delay-rally_us_59955563e4b0d0d2cc844c4c', 'short_description': '"Our nation is still healing," the mayor said.', 'date': '2017-08-17'}

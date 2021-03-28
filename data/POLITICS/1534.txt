@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ryan Zinke Spars With Senators Over Use Of Private Planes', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/ryan-zinke-private-travel_us_5aa8040ee4b04042d27ec0ce', 'short_description': '“I’ve been shot at before. I’m very comfortable with it," the Interior secretary and former Navy SEAL said.', 'date': '2018-03-13'}

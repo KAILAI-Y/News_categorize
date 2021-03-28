@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Kurdish Leader Barzani Resigns After Independence Referendum Backfires', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/barzani-resigns-kurds_us_59f62c28e4b077d8dfca3fe8', 'short_description': 'The announcement could set off a new crisis in Iraq.', 'date': '2017-10-29'}

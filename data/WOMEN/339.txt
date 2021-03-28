@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Watch Anita Hill And Aly Raisman Share Their #MeToo Stories On Stage Together', 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/anita-hill-aly-raisman-metoo_us_5a0af04fe4b0b17ffce029c1', 'short_description': '"We need to say this out loud."', 'date': '2017-11-14'}

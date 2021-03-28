@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "This 1 Weird Thing About 'The Simpsons' Is Freaking Out Fans", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/the-simpsons-looking-different_us_5a97eac2e4b09c872bb1b118', 'short_description': "You won't unsee this.", 'date': '2018-03-01'}

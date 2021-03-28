@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Bill Cosby's Admission Of Giving Quaaludes To Women Allowed In Retrial", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/cosby-retrial-giving-women-quaaludes_us_5ad60fa9e4b016a07ea0e36b', 'short_description': 'Prosecutors say the admission helps establish a pattern of serial sexual abuse.', 'date': '2018-04-17'}

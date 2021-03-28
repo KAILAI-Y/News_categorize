@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Meet The Folksiest Man In The U.S. Senate', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/john-kennedy-colorful-senate_us_5a68eef6e4b0dc592a0f138f', 'short_description': "Sweet biscuits of mercy -- it's Sen. John Neely Kennedy.", 'date': '2018-01-25'}

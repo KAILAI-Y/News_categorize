@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump To Nix Climate Change As National Security Threat', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-clmate-change-national-security_us_5a379c19e4b01d429cca5814', 'short_description': 'The president is due to give a speech about his national security plans later on Monday.', 'date': '2017-12-18'}

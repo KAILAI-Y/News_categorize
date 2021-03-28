@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Watch Out, Donald Trump. Here Come The Democrats.', 'authors': 'Nick Baumann, Amanda Terkel, and Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/democrats-wave-2017_us_5a0267e1e4b092053058cdad', 'short_description': 'In Virginia, New Jersey and Washington, a blue wave rises.', 'date': '2017-11-08'}

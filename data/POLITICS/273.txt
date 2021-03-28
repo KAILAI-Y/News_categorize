@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tweeters Erupt Over Trump Aide's Cruel Taunt About John McCain 'Dying Anyway'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/john-mccain-trump-aide-dying-anyway_us_5af54ee7e4b0e57cd9f82367', 'short_description': '"You\'re a disgrace. Apologize to the entire McCain family, then resign."', 'date': '2018-05-11'}

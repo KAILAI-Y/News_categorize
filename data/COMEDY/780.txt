@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Rick And Morty' Star Calls Joel Osteen's Prayer Line, Gets The Unexpected", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/rick-and-morty-pranks-joel-osteen-church_us_59b138d3e4b0dfaafcf5bb13', 'short_description': '"Are you talking in tongues right now?"', 'date': '2017-09-07'}

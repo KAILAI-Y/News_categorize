@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Empire Of Destruction', 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/empire-of-destruction_us_5970ff1be4b0aa14ea789f0c', 'short_description': "Precision warfare? Don't make me laugh.", 'date': '2017-07-20'}

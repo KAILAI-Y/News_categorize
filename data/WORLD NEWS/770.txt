@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Chess Legend Slams Trump: 'In Any Game Of Wits, I Would Bet On Putin'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/garry-kasparov-donald-trump_us_5a14f1cfe4b09650540e2fe8', 'short_description': 'Garry Kasparov wants people to stop comparing politics to chess.', 'date': '2017-11-22'}

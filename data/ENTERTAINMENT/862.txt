@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The ‘Roseanne’ Reboot’s Opening Credits Are A Delightful Blast From The Past', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/the-roseanne-reboots-opening-credits-are-a-delightful-blast-from-the-past_us_5aa69b07e4b03c9edfae33f2', 'short_description': 'The rooster shirt is back!', 'date': '2018-03-12'}

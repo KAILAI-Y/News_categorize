@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Piers Morgan Bragged About How Manly He Is. It Didn't Go Well.", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/piers-morgan-manning-up_us_59ae16c3e4b0b5e531005016', 'short_description': 'Sorry, Piers. The world is not impressed.', 'date': '2017-09-05'}

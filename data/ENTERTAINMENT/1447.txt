@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Neil Diamond Reveals He Has Parkinson's Disease, Retires From Live Performances", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/neil-diamond-retires_us_5a66e307e4b0e5630072e759', 'short_description': "But the music legend says he's not finished yet.", 'date': '2018-01-23'}

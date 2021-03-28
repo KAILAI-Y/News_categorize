@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Backstreet Boys Dressed As the Spice Girls Are Larger Than Life', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/the-backstreet-boys-dressed-as-the-spice-girls-are-larger-than-life_us_5af3266ee4b0a0d601e942e0', 'short_description': "They even sang some of the Spice Girls' best hits.", 'date': '2018-05-09'}

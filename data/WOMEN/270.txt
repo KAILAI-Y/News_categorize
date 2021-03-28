@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'What I Learned From A Year Of Not Shopping', 'authors': 'Lisa Regan, ContributorMs', 'link': 'https://www.huffingtonpost.com/entry/what-i-learnt-from-a-year-of-not-shopping_us_5a369298e4b0e1b4472ae748', 'short_description': 'I actually put a lot of my happiness into consuming new clothes, new shoes, new anything.', 'date': '2017-12-17'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Stormy Daniels’ Lawyer Taunts Trump: Michael Cohen Will ‘Fold Like A Cheap Deck Of Cards’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/michael-cohen-michael-cohen_us_5acd7b1be4b09212968ccf2d', 'short_description': 'Michael Avenatti says Cohen is "closer to a purse puppy than a tough guy."', 'date': '2018-04-11'}

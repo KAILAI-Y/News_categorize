@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jessica Chastain Got Octavia Spencer Equal Pay And More On Their New Film', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jessica-chastain-octavia-spencer-equal-pay_us_5a69bfd6e4b0e56300768788', 'short_description': '"I love that woman," Spencer said.', 'date': '2018-01-25'}

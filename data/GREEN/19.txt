@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'How To Keep Pipes From Freezing And Other Winter Storm Tips', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/how-to-keep-pipes-from-freezing-and-other-winter-storm-tips_us_5a4e4b30e4b0b0e5a7ab8006', 'short_description': 'Winter is showing no mercy, and those in its path need to be prepared.', 'date': '2018-01-04'}

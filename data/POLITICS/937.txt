@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "John McCain Accuses Trump Of 'Emboldening' Assad With Talk Of Withdrawal", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/mccain-accuses-trump-of-emboldening-assad_us_5acaa0cde4b09d0a11950aac', 'short_description': '"I want to get out," Trump said last week.', 'date': '2018-04-09'}

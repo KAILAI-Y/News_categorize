@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Benedict Cumberbatch Dazzles Jimmy Fallon With Magical Water Trick', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/benedict-cumberbatch-jimmy-fallon-magic-trick_us_59bcffa0e4b086432b076d0d', 'short_description': 'Abracadabra!', 'date': '2017-09-16'}

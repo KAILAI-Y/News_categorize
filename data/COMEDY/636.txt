@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Twitter Paints A Bleak Futuristic Picture Of #TrickOrTreatIn100Years', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-paints-a-bleak-futuristic-picture-of-trickortreatin100years_us_59f8b80de4b00c6145e20c49', 'short_description': 'Probably still handing out the same candy corn.', 'date': '2017-10-31'}

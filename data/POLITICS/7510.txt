@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Correspondents Head Tells Which Reporter Trump Wanted Him To Condemn', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/trump-whca-tara-palmeri_us_596b898ae4b0174186282f78', 'short_description': "The Trump administration reportedly took issue with a Politico reporter's article.", 'date': '2017-07-16'}

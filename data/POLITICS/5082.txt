@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Can It Happen Here?', 'authors': 'Lance Simmens, ContributorAuthor, Political Activist, Commentator, Website: www.lsimmens...', 'link': 'https://www.huffingtonpost.com/entry/can-it-happen-here_us_59df8f7fe4b0cee7b9549e7a', 'short_description': 'We are witnessing a 21st-century style of dictatorial tyranny.', 'date': '2017-10-12'}

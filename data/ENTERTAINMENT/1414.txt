@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'A Teen Bradley Cooper Wrote An Article About Hooking Up With His BFF', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/teen-bradley-cooper-article-hooking-up-best-friend_us_5a68cf65e4b002283008df9e', 'short_description': "It's equal parts swoon and cringe.", 'date': '2018-01-24'}

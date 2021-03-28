@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "George W. Bush: It's Pretty Clear That Russia Meddled In 2016 Election", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/george-bush-russia-2016-election_us_5a7c20fde4b044b382199626', 'short_description': 'Vladimir Putin is a "zero-sum" kind of guy.', 'date': '2018-02-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hope Hicks Is Leaving The White House', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/hope-hicks-leaves-white-house_us_5a7cd9e0e4b08dfc93023551', 'short_description': "Hicks, one of Trump's most trusted advisers, has reportedly become a focus of the Mueller probe.", 'date': '2018-02-28'}

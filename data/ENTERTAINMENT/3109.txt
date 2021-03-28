@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Zach Clayton Dishes On New Music And Dream Collaborations', 'authors': 'Minou Clark', 'link': 'https://www.huffingtonpost.com/entry/zach-clayton_us_596f9163e4b0cb24f657a7bd', 'short_description': 'He revealed he wants to work with Justin Bieber and Jacob Sartorius.', 'date': '2017-07-24'}

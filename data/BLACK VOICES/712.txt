@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Thousands Protest White Supremacy In New Orleans', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/protest-white-supremacy-new-orleans_us_5998d800e4b0a2608a6cb6b9', 'short_description': '"We want all statues dedicated to white supremacists taken down," an organizer said.', 'date': '2017-08-20'}

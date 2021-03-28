@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump To Cut Off Billions In Key Obamacare Payments To Insurers', 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/trump-obamacare-payments-insurers_us_59e01859e4b03a7be57f71a9', 'short_description': 'The sabotage continues.', 'date': '2017-10-13'}

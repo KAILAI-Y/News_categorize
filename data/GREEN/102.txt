@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Scotland Investigating Trump Resort's Damage To Coastal Dunes", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-aberdeenshire-dune-damage_us_5a050e0be4b01d21c83da8f8', 'short_description': 'The golf club was supposed to protect the environment and boost the economy. It did neither.', 'date': '2017-11-10'}

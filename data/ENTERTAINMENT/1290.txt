@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Diplo Hilariously Recreates Kim Kardashian-Inspired Yeezy Season 6 Ad', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/diplo-yeezy_us_5a746e00e4b01ce33eb214d7', 'short_description': 'The DJ donned a blonde wig and coffee cup all around the Hollywood Hills.', 'date': '2018-02-02'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Colbert Just Can’t Resist Turning Trump’s Nickname Into A Pee Tape Joke', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-leaker-in-chief-trump_us_5b037c8be4b07309e05b831d', 'short_description': 'He tried not to. He really did.', 'date': '2018-05-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Defends Michael Flynn By Saying Hillary Clinton Is The Real Liar', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-defends-michael-flynn_us_5a255146e4b03c44072ed3e1', 'short_description': '"Hillary Clinton lied many times to the FBI, and nothing happened to her."', 'date': '2017-12-04'}

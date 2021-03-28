@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Troye Sivan's New Single 'Bloom' Could Very Well Be About Gay Sex", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/troye-sivan-bloom-video_us_5aeb238ee4b041fd2d23cc37', 'short_description': 'Fans aren\'t convinced the song is truly "about flowers," as he\'s coyly claimed.', 'date': '2018-05-03'}

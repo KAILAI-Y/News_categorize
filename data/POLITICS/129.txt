@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Meek Mill Backs Out Of Trump Event On Prison Reform', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/meek-mill-backs-out-trump-event-prison-refor_us_5afef2a5e4b0463cdba168d6', 'short_description': 'The rapper said he and the president had become the focus of the summit.', 'date': '2018-05-18'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Wil Wheaton Wears 'Star Trek' Uniform To 'Star Wars' FOR REAL", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/wil-wheaton-star-trek-uniform-star-wars_us_5a33a153e4b01d429cc7af5b', 'short_description': 'Just like he did on "The Big Bang Theory."', 'date': '2017-12-15'}

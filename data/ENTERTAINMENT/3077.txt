@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Charlie Sheen Thinks The Moon Is Hollow, According To Rob Lowe', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/charlie-sheen-thinks-the-moon-is-hollow-according-to-rob-lowe_us_597cbb7ce4b0da64e879800e', 'short_description': 'Huh.', 'date': '2017-07-29'}

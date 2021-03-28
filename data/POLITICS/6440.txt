@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "America's Founding Father Would Be Outraged By Trump", 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/the-father-of-our-country-would-be-outraged-by-trump_us_599a0a49e4b01f6e801f4880', 'short_description': "You'd know why if you were in the Touro Synagogue in Rhode Island on Sunday.", 'date': '2017-08-20'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Oprah Shot Down 2020 Speculation In Pre-Golden Globes Interview', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/oprah-president-2020_us_5a69dd73e4b0e5630076a829', 'short_description': '"It’s not something that interests me. I don’t have the DNA for it.”', 'date': '2018-01-25'}

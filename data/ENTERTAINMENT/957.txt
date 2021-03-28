@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'And The Winner For Best Oscars Meme Is ... Jennifer Garner', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jennifer-garner-oscars-meme_us_5a9d1f2be4b089ec353c9dfe', 'short_description': 'The world wants to know what  came over her.', 'date': '2018-03-05'}

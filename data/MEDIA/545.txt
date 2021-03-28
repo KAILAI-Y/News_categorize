@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "James Murdoch Rips Donald Trump's Response To Charlottesville", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/james-murdoch-trump-charlottesville_us_5996a61ae4b0a2608a6b7fbb', 'short_description': '“I can’t even believe I have to write this: standing up to Nazis is essential."', 'date': '2017-08-18'}

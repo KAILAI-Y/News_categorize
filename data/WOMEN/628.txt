@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Another Reason Why It's Great The BBC Revealed Anchors' Salaries", 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/bbc-salaries-gender_us_597100fde4b0aa14ea78a1d6', 'short_description': 'Transparency is the only path to solve the gender pay gap.', 'date': '2017-07-20'}

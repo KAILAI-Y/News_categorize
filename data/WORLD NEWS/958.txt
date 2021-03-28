@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Taliban Storm Afghan Military Base, Killing At Least 43 Troops', 'authors': 'By Mirwais Harooni, Reuters', 'link': 'https://www.huffingtonpost.com/entry/afghanistan-base-attacked-taliban_us_59e85af7e4b08f9f9edcda39', 'short_description': 'Nine soldiers were wounded in the attack, and six others were reported missing.', 'date': '2017-10-19'}

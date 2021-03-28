@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Stranger Things' Actors Scare Up Monstrous Raises For Season 3", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/stranger-things-pay-raises_us_5ab0f3d4e4b0697dfe1a6b68', 'short_description': 'One cast member reportedly received the biggest pay hike among the youngsters.', 'date': '2018-03-20'}

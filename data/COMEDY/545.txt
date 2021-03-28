@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Fallon And Martin Short Give Classic Christmas Song A Scary Trump Twist', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-martin-short-little-trumper-boys_us_5a1d419ee4b04e8b2a842eb0', 'short_description': '"He wants to build a wall, Trump, Trump, Trump, Trump, Trump."', 'date': '2017-11-28'}

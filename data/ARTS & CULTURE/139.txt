@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Dobby The House-Elf Still Brings Generosity To The 'Harry Potter' Universe And Beyond", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/dobby-harry-potter_us_59123431e4b050bdca606e78', 'short_description': "An ode to the series' most tragic character.", 'date': '2017-06-15'}

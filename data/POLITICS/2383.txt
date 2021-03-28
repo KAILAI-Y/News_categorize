@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Train Carrying GOP Members Of Congress Collides With Truck', 'authors': 'Matt Fuller, Marina Fang, and Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/gop-house-retreat-train-collision_us_5a71f154e4b0ae29f08d41ac', 'short_description': 'One person from the garbage truck was pronounced dead.', 'date': '2018-01-31'}

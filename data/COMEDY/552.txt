@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "The Macy's Parade Prep Looks Like A Sadistic Collection Of Gentle Giants", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/macys-thanksgiving-day-parade-prep_us_5a16d348e4b0649480732e12', 'short_description': 'Who are the real monsters here?!', 'date': '2017-11-23'}

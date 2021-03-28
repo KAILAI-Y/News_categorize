@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The World Economic Forum Is Giving Goosebumps To Some 'Game Of Thrones' Fans", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-davos-world-economic-forum_us_5a6ae280e4b01fbbefb086bc', 'short_description': '"Is it just me?"', 'date': '2018-01-26'}

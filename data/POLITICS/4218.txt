@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'UCLA Players Thank Trump After China Frees Them In Shoplifting Case', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/trump-china-ucla-players_us_5a0c5b26e4b00a6eece5aac9', 'short_description': 'The president had earlier questioned whether his efforts would be recognized by the young men.', 'date': '2017-11-15'}

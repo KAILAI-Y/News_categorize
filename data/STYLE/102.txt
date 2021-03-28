@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'How Adding Bright Colors To Your Wardrobe Can Help You Beat The Winter Blues', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/bright-colors-beat-the-winter-blues_us_5a0f1373e4b0e97dffed0723', 'short_description': 'Embrace the rainbow.', 'date': '2017-11-20'}

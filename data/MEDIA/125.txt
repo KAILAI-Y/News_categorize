@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Jake Tapper Uses The Bible To School A Right-Wing Trump-Supporting Preacher', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jake-tapper-right-wing-preacher_us_5ab9a945e4b008c9e5fa8b8e', 'short_description': 'He got schooled, Sunday style.', 'date': '2018-03-27'}

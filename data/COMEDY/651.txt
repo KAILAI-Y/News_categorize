@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Dustin Hoffman Has A Hilarious Way Of Messing With Paparazzi', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/dustin-hoffman-has-a-hilarious-way-of-messing-with-paparazzi_us_59f36043e4b03cd20b815091', 'short_description': "It's Hollywood's version of hide-and-seek.", 'date': '2017-10-27'}

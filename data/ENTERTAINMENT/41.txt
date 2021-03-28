@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Brynn Cartelli Becomes Youngest-Ever Winner Of 'The Voice'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/brynn-cartelli-wins-the-voice_us_5b05502ce4b05f0fc8436274', 'short_description': "The TV singing competition's new champion just turned 15.", 'date': '2018-05-23'}

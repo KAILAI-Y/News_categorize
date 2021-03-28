@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Mass Murder Is The Norm In Democratic Republic of Congo Conflict', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/mass-murder-congo_us_594965cae4b0e84975503d06', 'short_description': 'Armed groups are battling the government, and innocent civilians are caught in the middle.', 'date': '2017-06-20'}

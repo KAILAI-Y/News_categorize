@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jeremy Lin Respectfully Responds To Racial Slur On Twitter', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/jeremy-lin-respons-to-twitter-user_us_5a7b5ed8e4b08dfc92ff745e', 'short_description': 'Lin had some words for a Twitter user who called him a "chink."', 'date': '2018-02-07'}

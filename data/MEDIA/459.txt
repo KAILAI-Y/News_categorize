@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "A TV Station Identified This Denver Bronco As A 'Tight Butt'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/a-tv-station-identified-this-denver-bronco-as-a-tight-butt_us_59df9b0be4b0fdad73b2c00e', 'short_description': 'This blooper is the end-all.', 'date': '2017-10-12'}

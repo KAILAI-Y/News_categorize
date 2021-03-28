@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Hawaiian Airlines Flight Takes Off In 2018, Lands In 2017', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/hawaiian-airlines-flight-date-line_us_5a4a844de4b06d1621ba2314', 'short_description': 'What a difference a year makes.', 'date': '2018-01-01'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Cracks Emerge In Rodrigo Duterte's Horrific Philippine Drug War", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/duterte-drug-war-philippines_us_59df7265e4b0eb18af06a5f3', 'short_description': 'The president has announced a major shift amid growing pressure.', 'date': '2017-10-12'}

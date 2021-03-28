@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Goes All Godzilla On Donald Trump's Visit To Japan", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-godzilla-trump-japan_us_5a018bcae4b0368a4e86cf0c', 'short_description': 'Nobody could stop this one-liner.', 'date': '2017-11-07'}

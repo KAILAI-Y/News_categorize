@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Activist Ravi Ragbir Thwarts ICE's Attempt To Deport Him, For Now", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/ice-thwarted-trying-to-deport-activist-ravi-ragbir-for-now_us_5a7dca9ee4b044b3821ccffd', 'short_description': 'He was granted a stay of deportation after filing a lawsuit.', 'date': '2018-02-09'}

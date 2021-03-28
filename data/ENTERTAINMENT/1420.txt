@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The 'Scandal,' 'How To Get Away With Murder' Crossover Episode Looks Glorious", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/the-scandal-how-to-get-away-with-murder-crossover-episode-looks-glorious_us_5a68b41ae4b002283008aa8c', 'short_description': '#TGIT just got a whole lot better.', 'date': '2018-01-24'}

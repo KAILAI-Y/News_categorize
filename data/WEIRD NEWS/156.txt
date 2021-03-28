@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'These Squirrels Are Totally Ready For The Winter Olympics', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/squirrels-ready-winter-olympics_us_5a70cf7ae4b0a6aa48741117', 'short_description': "There's nothing wrong with skiing like a squirrel.", 'date': '2018-01-30'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Maxine Waters To Respond To Donald Trump's State Of The Union Speech", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/maxine-waters-donald-trump-sotu-response_us_5a6ca9dee4b01fbbefb22d15', 'short_description': 'This should be good.', 'date': '2018-01-27'}

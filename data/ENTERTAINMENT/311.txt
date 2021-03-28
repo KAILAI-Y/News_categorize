@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Arrested Development' Remix To Hit Netflix On Friday Ahead Of New Season", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/arrested-development-remix-season-4_us_5ae89f59e4b04aa23f27655f', 'short_description': 'Happy Cinco de Cuatro, viewers.', 'date': '2018-05-01'}

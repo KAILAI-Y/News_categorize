@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'George Lucas Says Princess Leia Got Ph.D. At Age 19', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/princess-leia-phd-doctor-star-wars_us_598720c7e4b08b75dcc7880b', 'short_description': 'So call her Dr. Organa.', 'date': '2017-08-06'}

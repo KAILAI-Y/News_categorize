@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Students Singing National Anthem Kneel At MLB Game', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/two-students-singing-national-anthem-kneel-at-seattle-mariners-game_us_5ac2462ae4b0a47437aca459', 'short_description': 'Colin Kaepernick retweeted a picture of the apparent protest.', 'date': '2018-04-02'}

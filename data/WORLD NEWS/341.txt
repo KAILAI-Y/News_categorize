@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Powerful 7.2-Magnitude Earthquake Hits Mexico', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/mexico-oaxaca-earthquake_us_5a876f59e4b00bc49f44206a', 'short_description': 'The earthquake struck Oaxaca, Mexico, on Friday evening.', 'date': '2018-02-17'}

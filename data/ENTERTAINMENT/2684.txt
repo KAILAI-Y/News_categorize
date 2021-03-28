@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Larry King Reveals Lung Cancer Diagnosis', 'authors': 'Jillian Capewell', 'link': 'https://www.huffingtonpost.com/entry/larry-king-reveals-lung-cancer-diagnosis_us_59bab350e4b0edff971a15e9', 'short_description': 'The longtime TV and radio host had surgery over the summer.', 'date': '2017-09-14'}

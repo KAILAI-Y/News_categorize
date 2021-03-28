@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: What The Net Neutrality Repeal Means For You", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-what-the-net-neutrality-repeal-means-for-you_us_5a33bd7de4b01d429cc7e5fd', 'short_description': 'And for the internet as we know it.', 'date': '2017-12-15'}

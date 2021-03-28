@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'A Reality Show About Marshawn Lynch Is Coming To Facebook', 'authors': 'Jessica Toonkel, Reuters', 'link': 'https://www.huffingtonpost.com/entry/marshawn-lynch-reality-show_us_59b984f8e4b02da0e13eaf14', 'short_description': '“We think we have a big hit on our hands."', 'date': '2017-09-13'}

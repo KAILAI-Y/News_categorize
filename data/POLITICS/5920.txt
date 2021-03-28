@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'California Sues Trump Administration Over DACA Elimination', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/california-daca-lawsuit_us_59b6c50de4b0349d072b91fc', 'short_description': 'More than 200,000 Dreamers live in the state.', 'date': '2017-09-11'}

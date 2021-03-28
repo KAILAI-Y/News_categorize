@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Mark Hamill Finds Beautiful Reminder Of Carrie Fisher In Hotel Room Painting', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-finds-carrie-fisher-in-hotel-painting_us_5ab24212e4b054d118de8d1b', 'short_description': '"Coincidence? I DON\'T THINK SO!"', 'date': '2018-03-21'}

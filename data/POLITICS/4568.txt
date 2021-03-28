@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's What You Need To Know About Obamacare Enrollment This Year", 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/basics-obamacare-enrollment-2018_us_59e004e0e4b0a52aca16bdcf', 'short_description': 'Health insurance exchanges, financial assistance and other key issues explained.', 'date': '2017-11-01'}

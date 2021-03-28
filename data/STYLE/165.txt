@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Rihanna's Plastic Heels Will Make You Sweat Just Looking At Them", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/rihanna-plastic-heels_us_59e9fb6fe4b05b4f1c3ac480', 'short_description': 'These are WILD.', 'date': '2017-10-20'}

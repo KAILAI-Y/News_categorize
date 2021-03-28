@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Congressman Calls For Undocumented SOTU Guests To Be Arrested On The Spot', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/gosar-dreamers_us_5a70e4e1e4b0ae29f08bc8cb', 'short_description': 'What a nice guy.', 'date': '2018-01-30'}

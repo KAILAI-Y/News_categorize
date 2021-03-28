@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Houston Is Bouncing Back, Thanks To Its People', 'authors': 'Sylvester Turner, ContributorMayor of Houston', 'link': 'https://www.huffingtonpost.com/entry/houston-is-bouncing-back-thanks-to-its-people_us_59f38b3fe4b07fdc5fbe2392', 'short_description': 'We extended helping hands to one another in the middle of a crisis.', 'date': '2017-10-27'}

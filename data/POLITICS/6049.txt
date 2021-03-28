@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Undocumented Filipino Immigrant Journalist: DACA Fight Isn’t Over', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/jose-antonio-vargas-daca_us_59aefe28e4b0dfaafcf358fd', 'short_description': '“We will fight for a new -- and maybe even better -- solution. We’ve done it before.”', 'date': '2017-09-05'}

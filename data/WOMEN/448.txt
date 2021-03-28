@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Hillary Clinton Must Condemn Harvey Weinstein', 'authors': 'Dani Bostick, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-must-condemn-harvey-weinstein_us_59dc21cbe4b060f005fbd66f', 'short_description': 'A sexual predator’s best friend is silence', 'date': '2017-10-10'}

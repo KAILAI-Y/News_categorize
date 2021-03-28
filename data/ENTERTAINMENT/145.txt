@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Sarah Paulson Was ‘Deeply Nerdy’ Around Rihanna While Filming ‘Ocean’s 8’', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/sarah-paulson-rihanna-oceans-8_us_5afae45be4b044dfffb5ff80', 'short_description': 'Sandra Bullock apparently wanted her to dial it down.', 'date': '2018-05-15'}

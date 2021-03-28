@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ivanka Trump Goofs Up On Tax Law In Her Televised Boast', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-tax-law_us_5a3c3d9fe4b06d1621b32b9a', 'short_description': "We'll be filling out our tax returns next year on a postcard — not.", 'date': '2017-12-22'}

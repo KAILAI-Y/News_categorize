@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here Are The Canceled And Renewed TV Shows For 2018-2019', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/here-are-the-canceled-and-renewed-tv-shows-for-2018-2019_us_5afb103ee4b0200bcab94017', 'short_description': 'Or both, if you\'re "Brooklyn Nine-Nine."', 'date': '2018-05-15'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "May Demi Lovato's 6-Year Message Of Sobriety Inspire Us All", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/demo-lovato-sobriety-twitter_us_5aaa35d5e4b0f4aaa113ce48', 'short_description': "The singer's joyous declaration hit her fans in the heart.", 'date': '2018-03-15'}

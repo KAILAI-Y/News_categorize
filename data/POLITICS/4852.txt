@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: The Uninsured Rate Is On The Rise Again", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-the-uninsured-rate-is-on-the-rise-again_us_59e9decee4b0f9d35bc9f44e', 'short_description': 'Due to higher costs and uncertainty about the Affordable Care Act.', 'date': '2017-10-20'}

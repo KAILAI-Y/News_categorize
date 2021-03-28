@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Smartphone Battery Explodes After Man Inexplicably Bites Into It', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/biting-smartphone-battery-explosion_us_5a677a1de4b0dc592a0d4988', 'short_description': "This toothy consumer test blew up in a man's face.", 'date': '2018-01-23'}

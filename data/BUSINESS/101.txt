@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'ESPN President John Skipper Resigns Unexpectedly', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/john-skipper-espn-president-resigns_us_5a37e88ee4b040881becb623', 'short_description': 'Skipper cited substance addiction in a statement.', 'date': '2017-12-18'}

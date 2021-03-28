@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Louisiana Attorney General Won't Charge Cops In Alton Sterling Killing", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/louisiana-attorney-general-wont-charge-cops-in-alton-sterling-killing_us_5aba5453e4b054d118e733da', 'short_description': 'Baton Rouge is bracing for more protests.', 'date': '2018-03-27'}

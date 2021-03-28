@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Bubbly 'American Idol' Contestant Gushes, Giggles And Nails It", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bubbly-american-idol-contestant-gushes-giggles-and-kills-it_us_5aba09b2e4b0decad04d9ff9', 'short_description': '"She doesn\'t care what anyone thinks," another contestant said.', 'date': '2018-03-27'}

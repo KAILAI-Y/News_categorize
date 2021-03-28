@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'LGBTQ Groups Call New Oklahoma Adoption Law Discriminatory', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/lgbtq-groups-call-new-oklahoma-adoption-law-discriminatory_us_5af6fcb4e4b032b10bfb2460', 'short_description': 'Multiple equal rights groups are already considering legal action.', 'date': '2018-05-12'}

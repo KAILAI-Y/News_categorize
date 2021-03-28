@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Possible Autopilot Use Probed After Tesla Crashes At 60 MPH', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/tesla-with-autopilot-rams-truck_us_5af7a084e4b00d7e4c1b3cb8', 'short_description': "It's not yet known if the autopilot was engaged. The car's driver suffered a broken ankle.", 'date': '2018-05-13'}

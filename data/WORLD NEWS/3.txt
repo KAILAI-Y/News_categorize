@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Thousands Travel Home To Ireland To Vote On Abortion Access', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/irish-traveled-home-vote-abortion_us_5b083753e4b0802d69cae69a', 'short_description': 'Just try to read these #HomeToVote tweets without crying.', 'date': '2018-05-25'}

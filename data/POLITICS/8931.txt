@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: Understanding The New Report On Russians' 'Derogatory' Info", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-understanding-the-new-report-on-russians-derogatory-info_us_592d4c86e4b0df57cbfd3490', 'short_description': 'And its financial nature.', 'date': '2017-05-30'}

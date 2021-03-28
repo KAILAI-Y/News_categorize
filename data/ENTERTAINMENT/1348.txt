@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'SZA Already Won The Grammys With Her Mom And Grandma As Dates', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/sza-grammys-mom-grandma_us_5a6e638ce4b01fbbefb2dcc7', 'short_description': "As for her dress, fans couldn't decide if she looked like a princess, a queen or an angel.", 'date': '2018-01-29'}

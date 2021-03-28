@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congress Is Getting Close To Shutting Down The Government', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/congress-government-shutdown-conservatives_us_5a5fec13e4b054e351771e88', 'short_description': "And lawmakers don't really know how exactly to stop it.", 'date': '2018-01-18'}

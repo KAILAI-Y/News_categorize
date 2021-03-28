@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Beyoncé Will 'Help As Many As We Can' In Hometown Houston After Hurricane", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/beyonce-will-help-as-many-as-we-can-in-hometown-houston-after-hurricane_us_59a55db9e4b0446b3b865fb2', 'short_description': '"Texas you are in my prayers."', 'date': '2017-08-29'}

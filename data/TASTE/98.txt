@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "What's Better, Fresh Or Frozen Turkey?", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/whats-better-fresh-or-frozen-turkey_us_59dfb276e4b03a7be57f232f', 'short_description': 'Farmers and butchers weigh in.', 'date': '2017-10-12'}

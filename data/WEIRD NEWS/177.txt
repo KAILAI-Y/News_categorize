@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "No Bull, This News Anchor Can't Handle Bison Hump Day", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/news-anchor-bison-hump-day_us_5a62063ae4b0125fd6360d2f', 'short_description': '"I\'m done."', 'date': '2018-01-19'}

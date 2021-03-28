@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Few Simple Ideas From State Officials To Shore Up Obamacare Markets', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/senate-hearing-affordable-care-act_us_59b077a8e4b0354e440f2a6f', 'short_description': 'Simpler to imagine than to pass, but the bipartisan Senate hearing is a start.', 'date': '2017-09-07'}

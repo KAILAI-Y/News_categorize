@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hundreds Of London Buildings Have To Be Tested For Flammable Materials After Deadly Fire', 'authors': 'William James, Reuters', 'link': 'https://www.huffingtonpost.com/entry/london-buildings-tested-after-fire_us_594c0968e4b0312cfb62f9d4', 'short_description': 'The Grenfell Tower tragedy killed at least 79 people.', 'date': '2017-06-22'}

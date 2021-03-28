@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "See The Opening Scene Of 'The Emoji Movie'", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/the-emoji-movie-opening-scene_us_59638e8ce4b02e9bdb0e43e0', 'short_description': 'Welcome to Textopolis, where our smartphone addictions just multiplied.', 'date': '2017-07-10'}

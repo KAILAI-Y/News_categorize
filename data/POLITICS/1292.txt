@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Candidate Suggests Shooting Democratic Congressman Who Supports Gun Control', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/carl-nett-threat-john-yarmuth_us_5ab3521be4b054d118dfa31e', 'short_description': 'Carl Nett later apologized for his "attempt to be clever."', 'date': '2018-03-22'}

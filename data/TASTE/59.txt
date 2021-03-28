@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'How To Cook A Turkey, And Other Thanksgiving Questions Answered', 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/how-to-cook-turkey-thanksgiving-questions_us_59f0a744e4b0abb85a8f2364', 'short_description': "We know you're wondering.", 'date': '2017-11-08'}

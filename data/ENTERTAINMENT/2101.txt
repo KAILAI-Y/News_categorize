@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Actor Tom Sizemore Denies Groping 11-Year-Old In 2003', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/tom-sizemore-denies-groping-allegations_us_5a0f3171e4b0e97dffed1f4f', 'short_description': 'The alleged incident occurred during a photo shoot for the film "Born Killers."', 'date': '2017-11-17'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'This Is U.S.' Is All Tears With Ben, Jared And Sarah In 'SNL' Parody", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snl-all-tears-parody-this-is-us_us_5aa4c2dce4b07047bec731fe', 'short_description': '"United Arab Emirates? It\'s Jared. Is There Any Way I Can Borrow Like $800 Million?"', 'date': '2018-03-11'}

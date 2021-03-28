@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Former 'Top Gear' Star Involved In Serious Car Crash", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/richard-hammond-top-gear-crash_us_593c20a4e4b0b13f2c6b002c', 'short_description': 'Richard Hammond left the car moments before it burst into flames.', 'date': '2017-06-10'}

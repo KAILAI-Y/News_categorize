@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Russia’s Anti-Gay Policies Keeping Some Fans Away From The World Cup', 'authors': 'Jim Buzinski, Outsports', 'link': 'https://www.huffingtonpost.com/entry/russia-anti-gay-world-cup-outsports_us_5ad0cbcee4b0edca2cb94ac7', 'short_description': 'The law gives a lot of U.S. fans concern, one tour operator says.', 'date': '2018-04-16'}

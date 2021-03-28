@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'Love, Simon' Star Keiynan Lonsdale Is 2018's Breakout Bisexual Heartthrob", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/love-simon-star-keiynan-lonsdale_us_5aa84c77e4b018e2f1c28163', 'short_description': 'The landmark comedy helped the Aussie-born star embrace his sexuality.', 'date': '2018-03-16'}

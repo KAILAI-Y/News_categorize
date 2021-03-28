@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Bruce Springsteen On Broadway? The Boss Eyes Intimate Residency', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/bruce-springsteen-broadway-debut_us_59441604e4b06bb7d272d9b3', 'short_description': 'The New Jersey rocker is reportedly setting up shop in New York City.', 'date': '2017-06-16'}

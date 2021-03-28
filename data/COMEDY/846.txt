@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'People Got Some Stuff Off Their Chests With #ConfessYourUnpopularOpinions', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-got-some-stuff-off-its-chest-with-confessyourunpopularopinions_us_59889ed5e4b07e7f21510037', 'short_description': 'Warning, shots will be fired.', 'date': '2017-08-07'}

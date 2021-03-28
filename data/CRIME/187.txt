@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Man Arrested After 5-Year-Old Son Fatally Shoots Himself With Gun Left In Glove Box', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/jamal-todman-negligence-son-gun_us_5a3ac313e4b0b0e5a79f3cc4', 'short_description': 'The suspect faces a criminal negligence charge.', 'date': '2017-12-20'}

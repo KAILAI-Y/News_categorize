@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Ramen-Flavored Pringles Taste Like College In A Can', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/ramen-pringles_us_59638f25e4b02e9bdb0e4480', 'short_description': 'So salty, so delicious.', 'date': '2017-07-10'}

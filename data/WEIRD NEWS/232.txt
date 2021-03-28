@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "CBS Sports' James Brown Says Porn Vid On His Twitter Isn't His Doing", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/cbs-sports-james-brown-twitter_us_5a37f48be4b040881becf430', 'short_description': '"Obviously my account has been hacked!" he said on social media.', 'date': '2017-12-18'}

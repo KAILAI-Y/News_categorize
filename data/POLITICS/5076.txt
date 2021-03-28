@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Khrushchev's Granddaughter Just Compared Trump To Stalin", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/nina-khrushcheva-donald-trump-stalin_us_59dec585e4b00abf36464057', 'short_description': 'Nina Khrushcheva slams Trump over attacks on the media.', 'date': '2017-10-12'}

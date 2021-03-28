@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Mexican Presidential Candidate Calls For Cutting Off Thieves' Hands", 'authors': 'Frank Jack Daniel, Reuters', 'link': 'https://www.huffingtonpost.com/entry/mexican-presidential-debate-el-bronco_us_5add86dee4b089e33c899661', 'short_description': '“We have to cut off the hands of those who rob. It’s that simple."', 'date': '2018-04-23'}

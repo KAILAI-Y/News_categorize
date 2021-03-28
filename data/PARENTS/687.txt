@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Reasons I'm More Excited Than My Kids That It's The Last Week Of School", 'authors': "Lori Ferraro, ContributorWriter, actor, '80s enthusiast.", 'link': 'https://www.huffingtonpost.com/entry/reasons-im-more-excited-than-my-kids-that-its-the_us_59406a0fe4b03e17eee087c0', 'short_description': 'Welcome, summer.', 'date': '2017-06-14'}

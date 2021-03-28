@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Police Seek Robbers Who Shared Treats With Victims During Heist', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/dessert-bandits-houston_us_5a064352e4b01d21c83e9757', 'short_description': 'The bandits have so far dodged their just deserts.', 'date': '2017-11-11'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Michigan Police Troll ‘Stranger Things’ Fans With Jail Warning Tweet', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stranger-things-police-michigan-warning_us_5a018c4de4b07eb51181e410', 'short_description': '"Some extra motivation for you not to end up there."', 'date': '2017-11-07'}

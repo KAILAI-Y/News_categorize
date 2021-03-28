@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Walmart Yanks T-Shirts That Suggest Lynching Journalists', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/walmart-lynching-journalist-shirts_us_5a21d80ae4b0a02abe9140b2', 'short_description': '"Rope. Tree. Journalist. Some Assembly Required."', 'date': '2017-12-02'}

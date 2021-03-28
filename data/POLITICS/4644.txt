@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'FBI Reportedly Investigating Whitefish Puerto Rico Contract', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/fbi-whitefish-puerto-rico_us_59f763cfe4b0aec1467976c1', 'short_description': 'FEMA, multiple congressional committees and local auditors have reportedly begun requesting documents about the deal.', 'date': '2017-10-30'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Scaramucci: Trump Isn't 'Elite' Because He Eats Pizza. These Photos Say Otherwise.", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/trump-eating-non-elite-foods_us_597b4542e4b02a4ebb74fb46', 'short_description': 'Nothing elite to see here!', 'date': '2017-07-28'}

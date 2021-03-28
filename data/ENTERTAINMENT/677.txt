@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "ESPN Analyst Says At One Point He Wasn't Sure If Kanye West Was Male Or Female", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tim-kurkjian-kanye-west_us_5abdfef6e4b0a47437aa24ba', 'short_description': 'Tim Kurkjian offered a hilarious on-air confession of his musical ignorance.', 'date': '2018-03-30'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Khloe Kardashian And Tristan Thompson Named Their Baby Girl True', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/khloe-kardashian-tristan-thompson-baby-girl-name-true_us_5ad4f7d5e4b077c89ceb9780', 'short_description': 'Kris Jenner explained the meaning of the name.', 'date': '2018-04-16'}

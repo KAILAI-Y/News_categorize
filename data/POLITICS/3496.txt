@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Tax Bill ‘Designed’ To Kneecap Renewable Energy In Favor Of Fossil Fuels, Democrats Say', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/gop-tax-bill-renewable-energy_us_5a302224e4b046175433fb42', 'short_description': '“It’s not even subtle," said one senator.', 'date': '2017-12-12'}

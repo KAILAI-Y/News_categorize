@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Thinks He's Found Proof: 'There Is Definitely A Pee Pee Tape'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/colbert-trump-pee-pee-tape_us_5a6818abe4b0dc592a0dc419', 'short_description': 'Uh-oh.', 'date': '2018-01-24'}

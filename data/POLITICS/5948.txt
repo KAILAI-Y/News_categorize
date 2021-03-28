@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Runs The Country Like He's Driving A Bumper Car", 'authors': 'Robert Creamer, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/trump-runs-the-country-like-a-guy-drives-a-bumper-car_us_59b2eb22e4b0c50640cd6713', 'short_description': 'Buckle up.', 'date': '2017-09-08'}

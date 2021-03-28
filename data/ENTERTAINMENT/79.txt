@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Donald Glover Tells Ellen About His Full Circle 'Star Wars' Moment With His Son", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/donald-glover-ellen-degeneres_us_5b03179ee4b0463cdba50017', 'short_description': 'The experience was "weird, but beautiful," Glover said.', 'date': '2018-05-21'}

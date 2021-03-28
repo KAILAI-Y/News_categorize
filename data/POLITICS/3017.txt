@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: Trump Taunts Kim Jong Un, Saying His Nuclear Button Is 'Bigger'", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-trump-taunts-kim-jong-un-saying-his-nuclear-button-is-bigger_us_5a4cc3dbe4b025f99e1ee78b', 'short_description': 'And "works!"', 'date': '2018-01-03'}

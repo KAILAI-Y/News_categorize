@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Meryl Streep Jokes ‘Bitch Stole My Seat’ After Mariah Carey Seating Snafu', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/meryl-streep-mariah-carey-seat_us_5a5459a5e4b003133ecb94c9', 'short_description': '"I came over and there she was next to Spielberg sucking up."', 'date': '2018-01-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Has A Trust Deficit On Health Care', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/gop-trust-health-care_us_597a0dc6e4b02a8434b4ab99', 'short_description': "Americans aren't thrilled with Republicans' latest efforts to write health care legislation.", 'date': '2017-07-27'}

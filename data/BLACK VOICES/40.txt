@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Oldest Known Man In America Says He Smokes A Dozen Cigars A Day', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/richard-overton-112-birthday_us_5af5eb20e4b0e57cd9f95f8a', 'short_description': 'Richard Overton, a World War II veteran, is celebrating his 112th birthday.', 'date': '2018-05-11'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "9 Numbers That Put Puerto Rico's Daunting Recovery Into Perspective", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/puerto-rico-recovery-numbers_us_59cbe244e4b02aef6cd6e47d', 'short_description': '“The devastation in Puerto Rico has set us back nearly 20 to 30 years," an official said.', 'date': '2017-09-27'}

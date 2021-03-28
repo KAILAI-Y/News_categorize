@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Student Who Graduated On NYC Subway Gets The Ceremony He Deserves', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/student-graduated-nyc-subway-ceremony_us_59317849e4b075bff0f2b077', 'short_description': 'The graduate sure seems to be having the time of his life. 🎓', 'date': '2017-06-02'}

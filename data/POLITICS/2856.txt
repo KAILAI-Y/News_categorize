@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Seem Oblivious To States Undercutting Their New Tax Law', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/state-tax-deduction-charitable-donation_us_5a552d28e4b0b117f8802b0c', 'short_description': "If they'd had hearings on the bill, they might have seen this coming.", 'date': '2018-01-10'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Budding Bard Amanda Seyfried Announced Her Pregnancy Via 'Abstract' Poem", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/amanda-seyfriend-poem-pregnancy_us_5968ef5fe4b03389bb16f2cb', 'short_description': "Her husband, a poetic neophyte, didn't get it.", 'date': '2017-07-14'}

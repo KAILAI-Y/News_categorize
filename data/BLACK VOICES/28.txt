@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Topher Grace Really Hated Preparing To Play David Duke In Spike Lee's 'BlacKkKlansman'", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/topher-grace-despised-researching-david-duke-blackkklansman_us_5afae79ae4b0200bcab8efa7', 'short_description': '“It was just the worst month of my life.”', 'date': '2018-05-15'}

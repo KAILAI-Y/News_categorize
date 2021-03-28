@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Stinging For The Fences: Bees Swarm Padres Training Camp Again', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/san-diego-padres-bees_us_5a9e76ade4b0a0ba4ad7953d', 'short_description': '"The Swarm" sequel.', 'date': '2018-03-06'}

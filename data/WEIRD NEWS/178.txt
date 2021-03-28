@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Man Pranks Police With DeLorean Made From Snow', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/snow-delorean-prank_us_5a625ae2e4b002283002992b', 'short_description': "As jokes go, this one's pretty chill.", 'date': '2018-01-19'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Sergio Garcia's 13-Stroke Masters Hole Shows Even A Champ Can Epically Fail", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/sergio-garcia-13-masters_us_5ac747afe4b07a3485e34240', 'short_description': '"It\'s just one of those things," he said.', 'date': '2018-04-06'}

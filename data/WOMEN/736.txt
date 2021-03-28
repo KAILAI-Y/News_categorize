@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Florida Just Became The Latest State To Abolish The 'Tampon Tax'", 'authors': 'Catherine Pearson', 'link': 'https://www.huffingtonpost.com/entry/florida-just-became-the-latest-state-to-abolish-the-tampon-tax_us_59282d4de4b0df34c35b77cf', 'short_description': 'Well done!', 'date': '2017-05-26'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Kurds Hold Independence Referendum To Split From Iraq', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/kurdish-referendum-iraq_us_59c90709e4b06ddf45f96f0c', 'short_description': 'The vote is being held amid international warnings and threats to stop it.', 'date': '2017-09-25'}

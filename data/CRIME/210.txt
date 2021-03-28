@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Tampa Police Arrest Suspect Amid Serial Killer Fears', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/tampa-police-serial-killer_us_5a1e6b2be4b0dc52b02a4bdc', 'short_description': 'Howell Donaldson III is accused of killing four people in the same neighborhood in a matter of weeks.', 'date': '2017-11-29'}

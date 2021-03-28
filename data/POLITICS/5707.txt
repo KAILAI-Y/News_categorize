@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: The Biggest Winner Of The Emmys Was Not Sean Spicer", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-the-biggest-winner-of-the-emmys-was-not-sean-spicer_us_59c0f605e4b0186c22058ada', 'short_description': 'Streaming services triumphed.', 'date': '2017-09-19'}

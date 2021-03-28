@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'No Time For Despair', 'authors': 'Charles R. “Chic” Dambach, ContributorPresident Emeritus, National Peace Corps Association; Former p...', 'link': 'https://www.huffingtonpost.com/entry/no-time-for-despair_us_59e6c36fe4b0d0e4fe6be5f0', 'short_description': 'The news actually is biased, but not the way most may suspect.', 'date': '2017-10-18'}

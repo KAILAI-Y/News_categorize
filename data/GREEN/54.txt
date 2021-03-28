@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'On The Road Of Destruction To The Thomas Fire', 'authors': 'Matt Ferner', 'link': 'https://www.huffingtonpost.com/entry/thomas-fire-reporter_us_5a30598ae4b07ff75afe89b2', 'short_description': "HuffPost's reporter headed up the SoCal coast, encountering a trail of haze, smoke and burned-out devastation along the way.", 'date': '2017-12-13'}

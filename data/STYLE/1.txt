@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Glossier Just Dropped Its First-Ever Solution To Acne-Prone Skin', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/glossiers-newest-product-will-literally-give-you-glossy-skin_us_5a5e4795e4b0c59bc1f95325', 'short_description': 'Consider this your solution.', 'date': '2018-01-17'}

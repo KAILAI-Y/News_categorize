@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'BBC Anchor Delivers The Most Unenthusiastic Royal Baby Report Ever', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/simon-mccoy-royal-baby_us_59e6f130e4b00905bdad73b3', 'short_description': 'Simon McCoy serves up the news with some classic British snark.', 'date': '2017-10-18'}

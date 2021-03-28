@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'The 10 Busiest American Cities To Avoid This Labor Day Weekend', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/10-cities-to-avoid-this-labor-day-weekend_us_59a5be44e4b063ae34d971dd', 'short_description': 'If you can!', 'date': '2017-08-30'}

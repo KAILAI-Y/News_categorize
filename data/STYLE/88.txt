@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '37 Of The Best Cyber Monday Deals On Fashion, Tech, Home And More', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/best-cyber-monday-deals_us_5a1c32cde4b064948075da77', 'short_description': "It's treat yo'self Monday.", 'date': '2017-11-27'}

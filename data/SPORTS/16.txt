@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Cowabunga! Brazilian Rodrigo Koxa Breaks World Record Surfing 80-Foot Wave', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/rodrigo-koxa-breaks-sufing-record_us_5ae697d6e4b02baed1bb6f23', 'short_description': '"I got a present from God," the gutsy surfer said at a World Surf League ceremony.', 'date': '2018-04-30'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Movies And Books That Inspired 'A Ghost Story'", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/a-ghost-story-david-lowery-influences_us_595fcecce4b0615b9e914551', 'short_description': 'Director David Lowery cites the works that influenced his masterpiece.', 'date': '2017-07-09'}

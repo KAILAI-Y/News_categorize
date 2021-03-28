@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trent Franks Resigns, Had Allegedly Offered Aide $5 Million To Carry His Child', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/trent-franks-resigns_us_5a2af45de4b073789f69a70b', 'short_description': 'He had said earlier that he would resign next year.', 'date': '2017-12-08'}

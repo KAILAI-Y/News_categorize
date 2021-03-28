@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Facebook's Fear Machine: How The Social Network Enables Racist News", 'authors': 'Jürgen Klöckner', 'link': 'https://www.huffingtonpost.com/entry/facebook-fear-machine_us_5a9e4ddfe4b0479c02567fa3', 'short_description': 'Hate-based news is spreading throughout the social networking site at an ever-increasing rate.', 'date': '2018-03-12'}

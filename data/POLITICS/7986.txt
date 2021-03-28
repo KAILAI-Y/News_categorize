@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Voter Fraud Probe Requests Voters' Personal Information", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-voter-fraud-panel-personal-information_us_59555bbee4b0da2c732230c2', 'short_description': "We're talking addresses, birth dates and parts of Social Security numbers.", 'date': '2017-06-29'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Thinks He Knows Why Macron Persuaded Trump To Attend Davos', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-macron-davos_us_5a699f09e4b0022830096fb0', 'short_description': 'An ulterior motive?', 'date': '2018-01-25'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Anti-Trump Anger Energizes Rhode Island To Pass Paid Sick Leave', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/rhode-island-paid-sick-leave_us_59c29538e4b0186c22076647', 'short_description': 'States are helping workers, even as the Trump administration tries to roll back protections.', 'date': '2017-09-20'}

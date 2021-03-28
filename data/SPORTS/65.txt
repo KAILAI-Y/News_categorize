@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "NBA Star Reveals Struggle With Panic Attacks And How Men 'Suffer Silently'", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/kevin-love-panic-attacks-essay_us_5a9f13f8e4b002df2c5e8f20', 'short_description': "Kevin Love of the Cavaliers wants men to know that it's OK to talk about mental health.", 'date': '2018-03-07'}

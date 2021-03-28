@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Israel Blamed For Striking Syria After Suspected Chemical Attack', 'authors': 'Nick Visser and Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/syria-air-base-strike_us_5acad7d0e4b07a3485e60aaa', 'short_description': 'Several western countries including the U.S. denied any involvement.', 'date': '2018-04-09'}

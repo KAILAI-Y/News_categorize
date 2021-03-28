@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kristen Bell, Dax Shepard And More Stars Get Patriotic For July 4th', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/celebrities-july-4th_us_595bb259e4b05c37bb805376', 'short_description': 'Matching onesies? Yes please.', 'date': '2017-07-04'}

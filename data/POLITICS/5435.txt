@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tom Price Says He Thinks He Still Has Trump's Confidence", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/tom-price-flights_us_59cd08e0e4b02aef6cd7f44b', 'short_description': 'The president said he\'s "not happy" with the HHS secretary\'s use of charter flights.', 'date': '2017-09-28'}

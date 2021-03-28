@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Betsy DeVos Says She's 'Misunderstood,' Then Struggles To Explain Her Own Policies", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/besty-devos-60-minutes_us_5aa5df73e4b086698a9f1117', 'short_description': "Education secretary also admits she hasn't visited underperforming schools.", 'date': '2018-03-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's What Americans Really Think -- And Know -- About The Government Shutdown", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/government-shutdown-poll_us_5a68eee8e4b0e563007605e7', 'short_description': "And what they don't know.", 'date': '2018-01-24'}

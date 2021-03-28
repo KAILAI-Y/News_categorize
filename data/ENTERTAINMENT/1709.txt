@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Arie's Season Of 'The Bachelor' Is Off To The Races", 'authors': 'Claire Fallon and Nick Offenberg', 'link': 'https://www.huffingtonpost.com/entry/arie-brittany-bachelor-podcast_us_5a4bcf01e4b06d1621bb40d3', 'short_description': 'Sorry, that bland joke is the best Arie Luyendyk Jr. deserves.', 'date': '2018-01-02'}

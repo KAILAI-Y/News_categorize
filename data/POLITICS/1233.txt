@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration To Approve $1 Billion Arms Sale To Saudi Arabia', 'authors': 'Nick Visser and Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/trump-saudi-arabia-1-billion-arms-sale_us_5ab43644e4b054d118e143a2', 'short_description': 'The deal includes more than 6,700 missiles.', 'date': '2018-03-23'}

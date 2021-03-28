@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "U.S. Judge Rejects Hawaii's Bid, Leaves Trump Travel Ban In Place", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/reject-hawaii-travel-ban_us_595f01dbe4b02e9bdb0b9bfc', 'short_description': 'A judge rejected Hawaii’s bid to exempt grandparents from President Trump’s temporary travel ban.', 'date': '2017-07-07'}

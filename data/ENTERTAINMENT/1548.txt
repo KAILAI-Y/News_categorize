@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Sean Penn: Donald Trump Is An Enemy Of Compassion And Of The State', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/sean-penn-donald-trump-enemy_us_5a59b58de4b0fcbc3a103770', 'short_description': 'Penn also called Trump “an enemy of mankind."', 'date': '2018-01-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'EPA Chief Scott Pruitt Avoids Ordinary Citizens On First Trip To Oil-Rich North Dakota', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/epa-scott-pruitt-north-dakota_us_598b3296e4b0a66b8bb07e8a', 'short_description': "He wasn't eager to talk to reporters either.", 'date': '2017-08-09'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Bill Murray Moved To Tears Watching 'Groundhog Day' On Broadway", 'authors': 'Katherine Brooks', 'link': 'https://www.huffingtonpost.com/entry/bill-murray-groundhog-day-musical-broadway_us_598b0ba8e4b0449ed506e5a0', 'short_description': 'It was a night most Murray disciples would gladly relive.', 'date': '2017-08-09'}

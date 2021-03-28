@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Avoiding War With North Korea Is Easy', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/north-korea-war-trump_us_598c6fb9e4b0449ed5085839', 'short_description': 'Just don’t bomb them. Getting them to give up their nukes will be a lot harder.', 'date': '2017-08-10'}

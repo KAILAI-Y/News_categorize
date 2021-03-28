@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Marriott Faces Pressure To Cancel Event Hosted By Anti-Islam Group', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/marriott-act-for-america_us_59c56704e4b0cdc773313f82', 'short_description': 'ACT for America\'s founder claims the "Islamic coalition" is waging war on the U.S.', 'date': '2017-09-22'}

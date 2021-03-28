@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Approval Rating Drops Back To His Worst With 2 New Polls", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-approval-rating-at-lowest-again-in-two-polls_us_5a933b93e4b01e9e56bcfcad', 'short_description': "Gun policy looms as key threat to president's support, polls find.", 'date': '2018-02-26'}

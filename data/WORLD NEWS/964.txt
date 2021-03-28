@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Freed Taliban Hostage Caitlan Coleman Reportedly Rushed To Hospital', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/caitlan-coleman-hospital_us_59e757eae4b00905bdaddd94', 'short_description': 'Her husband, Joshua Boyle, did not specify her condition.', 'date': '2017-10-18'}

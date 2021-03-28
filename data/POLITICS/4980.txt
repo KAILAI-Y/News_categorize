@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "DOJ Admits It Isn't Legal To Keep Prosecuting Washington State Medical Marijuana Users", 'authors': 'Matt Ferner', 'link': 'https://www.huffingtonpost.com/entry/kettle-falls-five-marijuana-law_us_59e630cbe4b0a2324d1e45b0', 'short_description': 'The so-called Kettle Falls Five were first charged in 2012.', 'date': '2017-10-17'}

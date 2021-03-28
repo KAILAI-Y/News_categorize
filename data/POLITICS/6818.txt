@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Ugliest American', 'authors': 'Richard North Patterson, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/the-ugliest-american_us_598aeea6e4b08a4c247f26de', 'short_description': "The president's foreign policy exemplifies the parody of an American abroad — proud, ignorant, and rude.", 'date': '2017-08-09'}

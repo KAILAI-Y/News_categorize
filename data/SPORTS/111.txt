@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Fans Had Absolutely Zero Chill About America's Nail-Biting Hockey Win Over Canada", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/nail-biter-canada-team-usa-hockey-olympics_us_5a8e933ee4b077f5bfeb74a3', 'short_description': '"Raise your hand if you\'re too pumped to go to sleep."', 'date': '2018-02-22'}

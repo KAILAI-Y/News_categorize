@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ivanka Trump's Weird Scientist Snap Sparks A Huge 'Photoshop Battle'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-science-photo-photoshop-battle_us_5ab2065de4b0decad0453dc9', 'short_description': 'Of course Trump makes an appearance.', 'date': '2018-03-21'}

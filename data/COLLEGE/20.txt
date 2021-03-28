@@ -1,0 +1,1 @@
+{'category': 'COLLEGE', 'headline': '10 Of The Best Prime Day Deals For Your College Kid', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/prime-day-back-to-college_us_5963997fe4b0d5b458ec26d0', 'short_description': 'One for you, one for your college student ✔️', 'date': '2017-07-11'}

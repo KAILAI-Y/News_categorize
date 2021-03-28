@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "You'll 'Like' This Bad Lip Reading Of Mark Zuckerberg's Congressional Hearing", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mark-zuckerberg-bad-lip-reading_us_5ae03652e4b07be4d4c606aa', 'short_description': '"I do not want that to be a thing."', 'date': '2018-04-25'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "State Of The Union Tickets Feature Major Misspelling: 'Uniom'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/state-of-the-union-uniom-tickets_us_5a6f91a9e4b05836a255aec5', 'short_description': "Spell check before you print? Yeah, that's the ticket.", 'date': '2018-01-29'}

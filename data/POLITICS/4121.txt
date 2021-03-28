@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Judge Running For Ohio Governor Boasts On Facebook He's Bedded 50 Women", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/bill-oneill-beds50-facebook_us_5a0f7f87e4b0dd63b1aa6ee4', 'short_description': 'What is happening?', 'date': '2017-11-18'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "The One Thing You're Forgetting To Bring To Thanksgiving Dinner", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/the-one-thing-youre-forgetting-to-bring-to-thanksgiving-dinner_us_5a04781be4b03deac08bbfde', 'short_description': 'Your hostess will love you for this.', 'date': '2017-11-09'}

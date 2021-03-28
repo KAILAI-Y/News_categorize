@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'If You’re On The Internet Talking About A Shooting, Remember These Things', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/talking-about-shootings_us_5ac51973e4b056a8f597c855', 'short_description': "Misinformation spreads like wildfire after a shooting. But it doesn't have to.", 'date': '2018-04-04'}

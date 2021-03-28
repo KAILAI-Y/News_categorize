@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The 2018 Election And The Margin Of Theft', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/the-2018-election-and-the-margin-of-theft_us_5a1b65e7e4b06494807540b8', 'short_description': 'Democrats need a landslide in order to overcome GOP gerrymanders.', 'date': '2017-11-27'}

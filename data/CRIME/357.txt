@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Florida Man Accidentally Shoots Himself In Penis After Sitting On Gun', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/florida-man-shoots-himself-penis_us_5959f395e4b05c37bb7f3de8', 'short_description': 'Cedrick Jelks, 38, may face criminal charges for possession of the firearm.', 'date': '2017-07-03'}

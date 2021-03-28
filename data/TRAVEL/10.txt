@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Roller Coaster Riders Suspended 100 Feet In The Air, Facing Down, After Malfunction', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/universal-studios-japan-ride-malfunction_us_5ae958a6e4b022f71a031369', 'short_description': 'An "abnormality" halted the coaster at the worst possible time.', 'date': '2018-05-02'}

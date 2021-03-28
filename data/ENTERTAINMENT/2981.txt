@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rachel Lindsay Chooses Her Winner On 'The Bachelorette' Finale", 'authors': 'Claire Fallon, Emma Gray, and Nick Offenberg', 'link': 'https://www.huffingtonpost.com/entry/rachel-lindsay-bachelorette-finale-winner_us_59889b31e4b09a4d1ec6ae46', 'short_description': 'Who got the final rose?', 'date': '2017-08-08'}

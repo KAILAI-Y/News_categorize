@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Hamas Says It's Ready To Hand Gaza Over To Palestinian Unity Government", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/hamas-gaza-abbas_us_59be8c66e4b02da0e142aa53', 'short_description': 'The Islamist group has ruled Gaza since 2007.', 'date': '2017-09-17'}

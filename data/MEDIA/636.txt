@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Journalists Lash Out As Georgia Campaigns Bar Media Right And Left', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/reporters-barred-georgia-election_us_5948870ee4b0cddbb008f0f6', 'short_description': 'CNN\'s Jake Tapper slams "bipartisan petulance."', 'date': '2017-06-20'}

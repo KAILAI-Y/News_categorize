@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Feds Surrender In Tooth-And-Nail Fight To Leash Dogs In Bay Area's Open Space", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/unleashed-dogs-win-san-francisco_us_59eab0a4e4b0a484d063653e', 'short_description': "LIfe's a beach — unleashed.", 'date': '2017-10-21'}

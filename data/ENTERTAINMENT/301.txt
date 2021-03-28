@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Dwayne 'The Rock' Johnson Shares Photo Of Kevin Hart You Won't Be Able To Unsee", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kevin-hart-dwayne-the-rock-johnson-photo_us_5ae840fae4b02baed1bddbe3', 'short_description': '"Twinkle Twinkle little Hart, I just don’t know where to start..."', 'date': '2018-05-01'}

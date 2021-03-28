@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Far-Right Troll Chuck Johnson Tried Out for 'Survivor.' Here's His Audition Tape.", 'authors': "Luke O'Brien", 'link': 'https://www.huffingtonpost.com/entry/chuck-johnson-survivor-audition-tape_us_5a952956e4b02cb368c568be', 'short_description': "CBS' mistake is the world's loss.", 'date': '2018-02-27'}

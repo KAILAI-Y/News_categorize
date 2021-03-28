@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Tell Me How This Ends?'", 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/tell-me-how-this-ends_us_59e678dfe4b08f9f9edb6aa9', 'short_description': 'David Petraeus finally answers his own question.', 'date': '2017-10-17'}

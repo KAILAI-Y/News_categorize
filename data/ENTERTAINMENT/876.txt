@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Richard Pryor's Son Walks Off Stage Amid Big Boos At Apollo Theater", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/richard-pryor-son-mason-apollo_us_5aa653eee4b01b9b0a3d047b', 'short_description': '"I bombed when I shouldn\'t have," Mason Pryor said.', 'date': '2018-03-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitterverse Trolls Marco Rubio Over His 'Fool' Bible Verse Tweet", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/marco-rubio-fool-bible-twitter_us_5954ebe0e4b02734df30538e', 'short_description': 'PREACH.', 'date': '2017-06-29'}

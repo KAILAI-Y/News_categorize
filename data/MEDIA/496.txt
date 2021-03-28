@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Tucker Carlson Had A Witch On His Show. It Did Not Go As Planned', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/tucker-carlson-witch-interview_us_59c1c14ce4b0186c2206b97f', 'short_description': '“Sincere question: Is eye of newt an actual ingredient?”', 'date': '2017-09-20'}

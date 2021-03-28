@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kelly Marie Tran Breaks Down At 'The Last Jedi' Premiere And Now We're Crying", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/kelly-marie-tran-star-wars-premiere_us_5a2e859de4b073789f6b56b4', 'short_description': "We're not worthy of Kelly.", 'date': '2017-12-11'}

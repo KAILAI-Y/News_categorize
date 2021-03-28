@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taraji P. Henson Has 'Cutest Dog I've Ever Seen,' Jimmy Fallon Rightly Says", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/taraji-p-henson-has-cutest-dog-ive-ever-seen-jimmy-fallon-rightly-says_us_5a54d219e4b01e1a4b19c8f0', 'short_description': 'This pup is off the charts.', 'date': '2018-01-09'}

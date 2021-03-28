@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bolton Arrives At White House, And National Security Staff Start Leaving', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/bolton-trump-leaks_us_5acbb53be4b07a3485e7452e', 'short_description': 'A top National Security Council staffer may have been the first to go in an effort to plug leaks there.', 'date': '2018-04-09'}

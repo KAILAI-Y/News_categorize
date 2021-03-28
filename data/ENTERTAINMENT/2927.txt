@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Game of Thrones: Tyrion Will Soon Betray Daenerys', 'authors': 'Gil Kidron, ContributorGot Academy, Co-Owner', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-tyrion-will-soon-betray-daenerys_us_5991df84e4b063e2ae0581b1', 'short_description': 'The chasm between them has never been more apparent.', 'date': '2017-08-14'}

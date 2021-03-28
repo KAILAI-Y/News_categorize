@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'LGBTQ Groups Blast Jeff Sessions For Reversing Trans Workplace Protections', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/jeff-sessions-trans-workplace-protections_us_59d6804ee4b046f5ad96e6bc', 'short_description': 'It\'s an "appalling assault" on the queer community, they said.', 'date': '2017-10-05'}

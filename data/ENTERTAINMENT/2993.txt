@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Netflix Buys Comics Company Behind 'Kingsman' And 'Kick-Ass'", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/netflix-buys-comic-company-millarwold_us_59888a65e4b07e7f2150d982', 'short_description': 'The purchase of Millarworld is the first-ever acquisition for Netflix.', 'date': '2017-08-07'}

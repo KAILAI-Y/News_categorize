@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Leader Tries To Use Alexandria Shooting As Fundraising Opportunity', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/patrick-neville-alexandria-shooting-fundraising-letter_us_5942aa89e4b06bb7d2717fa8', 'short_description': '"They can\'t be stupid enough to do that," one email recipient said.', 'date': '2017-06-15'}

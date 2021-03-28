@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Dolce & Gabbana Takes On Melania Trump 'Haters' By Selling This $245 T-Shirt", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/boycott-dolce-gabbana_us_5942ed90e4b06bb7d271eb20', 'short_description': 'The ultimate troll move.', 'date': '2017-06-15'}

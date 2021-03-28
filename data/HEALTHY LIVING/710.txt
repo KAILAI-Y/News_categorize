@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': '6 Reasons This Weekend Is The Best One Of The Year', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/vacation-health_us_59569496e4b02734df32219c', 'short_description': 'According to science, anyway.', 'date': '2017-06-30'}

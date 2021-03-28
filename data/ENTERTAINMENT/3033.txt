@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'NBC Is Starting A Program To Hire More Female Directors', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/nbc-female-forward_us_598392d4e4b0cb15b1bd7df7', 'short_description': 'The network is bringing aboard 10 women who will eventually direct episodes of their TV series.', 'date': '2017-08-03'}

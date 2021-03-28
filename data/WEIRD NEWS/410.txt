@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Bizarre Video Shows Runaway Toilets Chasing People During Storm', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/toilets-on-the-run-moscow_us_595857b2e4b02734df32d61f', 'short_description': '“Even the toilets are fleeing from the bloody regime," one Twitter user wrote in Russian.', 'date': '2017-07-02'}

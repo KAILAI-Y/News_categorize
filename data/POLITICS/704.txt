@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Says Talks Under Way For Release Of Americans Held In North Korea', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-talks-americans-held-north-korea_us_5ad840d7e4b0e4d0715d52ac', 'short_description': "He also said he would walk out of a meeting with Kim Jong-Un if it isn't successful.", 'date': '2018-04-19'}

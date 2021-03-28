@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "People On Twitter Prepare For Trump's Second Year With #TrumpMovieSequels", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-donald-trump-second-year-movie-sequels_us_5a4fe1e6e4b01e1a4b14ff18', 'short_description': 'The sequels are always better, right? ... Hello?', 'date': '2018-01-05'}

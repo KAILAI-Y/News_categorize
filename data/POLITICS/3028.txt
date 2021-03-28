@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Just Days Into The New Year, Trump Hits A New Low', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-tweets-tuesday_us_5a4c63d8e4b025f99e1e673e', 'short_description': '363 days to go.', 'date': '2018-01-03'}

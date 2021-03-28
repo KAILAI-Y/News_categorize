@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "President Trump Has Convinced His Voters He's Being Persecuted By The FBI", 'authors': 'Ariel Edwards-Levy and Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/trump-persecuted-fbi-polling_us_5a78e023e4b018ad894f0691', 'short_description': "Last week's memo only solidified the impression.", 'date': '2018-02-06'}

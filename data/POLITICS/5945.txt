@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congress Sends Trump Legislation For Disaster Aid And Debt Limit Increase', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/congress-sends-trump-legislation-for-disaster-aid-and-debt-limit-increase_us_59b2addce4b0dfaafcf79700', 'short_description': 'Trump is expected to promptly sign the measure into law.', 'date': '2017-09-08'}

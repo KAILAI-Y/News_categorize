@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '2 Women Who Took Children To Vandalize An Arizona Mosque Are Arrested', 'authors': 'Rowaida Abdelaziz', 'link': 'https://www.huffingtonpost.com/entry/tempe-women-arrested-mosque-theft_us_5aaaff19e4b0337adf826764', 'short_description': 'The Tempe arrest came after the women posted video on Facebook.', 'date': '2018-03-15'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'The Best Cure For Dry Hands Is This $10 Cream Your Grandma Probably Buys', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/the-best-cream-cure-for-dry-hands_us_5a552966e4b003133ecd4fd0', 'short_description': "Don't judge a lotion by its bottle.", 'date': '2018-01-10'}

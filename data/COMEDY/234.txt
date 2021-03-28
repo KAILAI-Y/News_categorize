@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon Shares His Viewers' Nuttiest Drinking Stories", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-drunk-story-tweets_us_5aace5f8e4b0337adf83ff29', 'short_description': 'These are sobering.', 'date': '2018-03-17'}

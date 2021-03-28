@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Former NSA Employee Admits Taking 'Highly Classified Information'", 'authors': 'Dustin Volz and John Walcott, Reuters', 'link': 'https://www.huffingtonpost.com/entry/nsa-nghia-hoang-pho_us_5a21d36ae4b03350e0b6d068', 'short_description': 'Nghia Hoang Pho worked in an elite hacking unit.', 'date': '2017-12-01'}

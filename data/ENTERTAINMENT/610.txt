@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Dwayne 'The Rock' Johnson's Butterfly Snap Finally Becomes The Meme It Deserves", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/dwayne-the-rock-johnson-butterfly-photo-editing-battle_us_5ac87ddfe4b07a3485e4f22f', 'short_description': 'It was well worth the wait.', 'date': '2018-04-07'}

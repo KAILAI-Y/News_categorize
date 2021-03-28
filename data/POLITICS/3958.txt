@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Seems To Be Getting A Little Defensive About All His Golfing', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-golf_us_5a1bbc61e4b0cee6c05099a3', 'short_description': "Those tweets about Obama's golf habit aren't aging very well.", 'date': '2017-11-27'}

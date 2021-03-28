@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Anna Kendrick’s Creepy Instagram Pic Becomes Hilariously Spooky Meme', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/anna-kendricks-creepy-instagram-pic-becomes-hilariously-spooky-meme_us_59d659e5e4b0becae80300c9', 'short_description': '😱  😂', 'date': '2017-10-05'}

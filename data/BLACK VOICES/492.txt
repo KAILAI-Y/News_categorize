@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Cardi B Makes Chart-Topping History Again With 3 Hits On Billboard List', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/cardi-b-billboard-list_us_5a09c046e4b00a6eece308e5', 'short_description': 'The Bronx rapper is on a winning streak.', 'date': '2017-11-13'}

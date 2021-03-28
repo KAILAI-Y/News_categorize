@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Welder Turned Whole-Hog BBQ Expert Fires Up Smoky Cue In Savannah', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/welder-turned-whole-hog-bbq-expert-fires-up-smoky-cue-in-savannah_us_59a36651e4b0821444c42c33', 'short_description': 'A fire nearly destroyed B’s, but the community came together to rebuild it', 'date': '2017-08-28'}

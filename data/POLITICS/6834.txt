@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Slouching Toward Mar-A-Lago', 'authors': "Andrew Bacevich, ContributorAuthor, 'America’s War for the Greater Middle East: A Military...", 'link': 'https://www.huffingtonpost.com/entry/slouching-toward-mar-a-lago_us_5989db2ce4b0a66b8baef10a', 'short_description': 'The post-Cold War consensus collapses.', 'date': '2017-08-08'}

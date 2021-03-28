@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Cousin Of Alton Sterling Found Dead In Burning Vehicle', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/cousin-of-alton-sterling-found-dead-in-burning-vehicle_us_5acf700ee4b0ac383d74cd15', 'short_description': 'A relative said the cousins were known as "the Sterling boys."', 'date': '2018-04-12'}

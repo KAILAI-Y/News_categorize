@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "James Cameron Says Jack From 'Titanic' Had To Die Because Of Art", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/james-cameron-jack-titanic_us_5a200786e4b037b8ea201753', 'short_description': 'We think Jack would disagree.', 'date': '2017-11-30'}

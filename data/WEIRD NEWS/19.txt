@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Rare Conjoined Fawns Have Scientists Doing A Double Take', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/conjoined-fawns-minnesota_us_5af9aa9de4b09a94524aa827', 'short_description': '“We can’t even estimate the rarity of this," one scientist said.', 'date': '2018-05-14'}

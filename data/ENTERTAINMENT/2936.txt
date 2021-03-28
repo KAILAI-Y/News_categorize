@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "True Life: I Actually Like Kylie Jenner's New Reality TV Show", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/true-life-i-actually-like-kylie-jenners-new-reality-tv-show_us_597f8d18e4b00bb8ff38b639', 'short_description': "You're doing amazing, sweetie.", 'date': '2017-08-13'}

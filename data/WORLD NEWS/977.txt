@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Anne Frank Halloween Costume Sparks Internet Controversy', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/anne-frank-halloween-costume-sparks-internet-controversy_us_59e629a8e4b0a2324d1e361b', 'short_description': "Pro tip: It's really easy to dress as something not offensive!", 'date': '2017-10-17'}

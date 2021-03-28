@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mississippi GOP Sen. Thad Cochran Absent From Congress Due To Illness', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/thad-cochran-senate-illness_us_59e4c024e4b04d1d51834c5b', 'short_description': 'The GOP is short a vote at a critical time for the budget and tax reform.', 'date': '2017-10-16'}

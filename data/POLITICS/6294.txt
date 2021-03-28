@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Joe Arpaio Insists He Hasn't Asked Donald Trump For Pardon", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/joe-arpaio-donald-trump-pardon_us_59a046ffe4b05710aa5be437', 'short_description': "But the disgraced sheriff says if offered, he won't say no.", 'date': '2017-08-25'}

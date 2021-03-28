@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Jamie Oliver Says He'd Do This Disgusting Thing If He Had To Cook For Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jamie-oliver-donald-trump-cooking_us_5a33d914e4b040881be9d073', 'short_description': "Let's just say he'd want to get things moving.", 'date': '2017-12-15'}

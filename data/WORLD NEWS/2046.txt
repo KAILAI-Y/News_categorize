@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Prince Harry Joins Prayers For London During Ramadan Dinner', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/prince-harry-prayers-london-ramadan_us_59342bdce4b02478cb9c84c1', 'short_description': '"Let peace and harmony prevail in communities all over the world."', 'date': '2017-06-04'}

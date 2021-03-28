@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'The Commercial That Trump Probably Saw When Hiring His Lawyer', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-commercial-that-trump-probably-saw-when-hiring-his-lawyer_us_594abce7e4b01cdedeffd52d', 'short_description': 'Worth investigating!', 'date': '2017-06-21'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Is Shutting Down His Charitable Foundation', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-charity-shut-down_us_5a135fd7e4b0bfa88c1c94dd', 'short_description': 'Trump had been accused of using it as a political slush fund.', 'date': '2017-11-21'}

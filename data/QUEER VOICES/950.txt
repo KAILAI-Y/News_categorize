@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "New York Cabaret Star Bridget Everett Makes A Bad-Ass Mama In 'Patti Cake$'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/bridget-everett-patti-cakes_us_598b7ec4e4b0d793738c72d0', 'short_description': "Just don't expect her to seek Hollywood acceptance anytime soon.", 'date': '2017-08-18'}

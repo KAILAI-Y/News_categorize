@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Southern California Is Breaking Heat Records By Alarming Margins', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/southern-california-heat-records_us_59f0f2dce4b043885914e866', 'short_description': 'At one coastal airport, the 1983 record was shattered by 15 degrees.', 'date': '2017-10-25'}

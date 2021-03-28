@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Thousands Protest In Moscow To Demand Internet Freedom', 'authors': 'Polina Ivanova, Reuters', 'link': 'https://www.huffingtonpost.com/entry/russia-telegram-app_us_5ae74584e4b04aa23f25c010', 'short_description': 'Demonstrators are calling on Russian authorities to unblock the popular Telegram instant messaging app.', 'date': '2018-04-30'}

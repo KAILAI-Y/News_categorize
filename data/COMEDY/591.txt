@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher Roasts Jared Kushner And The Rest Of Trump's 'Best People'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-jared-kushner-donald-trump_us_5a06add4e4b0e37d2f379834', 'short_description': '"Hot Dog on a Stick goes through a more rigorous vetting process."', 'date': '2017-11-11'}

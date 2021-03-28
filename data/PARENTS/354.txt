@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Dad Finds Way To Keep Baby Endlessly Entertained With A Lamp', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/dad-finds-way-to-keep-baby-endlessly-entertained-with-a-lamp_us_59af8141e4b0354e440d9345', 'short_description': 'This video is equal parts hilarious and adorable.', 'date': '2017-09-06'}

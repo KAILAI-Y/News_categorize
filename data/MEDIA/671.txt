@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Keith Olbermann Apologizes to UK: 'Trump Is Not Of Sound Mind'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/keith-olbermann-trump-sound-mind_us_59360021e4b0cfcda917102a', 'short_description': '"We are working to correct the problem as soon as possible."', 'date': '2017-06-06'}

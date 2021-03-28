@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: Russia Probe Widens, As Trump Team Reportedly Weighs Pardons To Avoid It", 'authors': 'Kate Sheppard', 'link': 'https://www.huffingtonpost.com/entry/trump-russia-probe-pardons_us_5971d328e4b00e4363dec9fb', 'short_description': 'The news of the day for Friday, July 21, 2017.', 'date': '2017-07-21'}

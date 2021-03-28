@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Techno-Colonialism Of Facebook And Cambridge Analytica', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/facebook-cambridge-analytica-developing-world_us_5ab50bc7e4b0decad04951d1', 'short_description': "The tech industry's ❤️ of darkness.", 'date': '2018-03-23'}

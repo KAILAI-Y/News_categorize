@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Barack Obama Congratulates Prince Harry And Meghan Markle On Engagement', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/barack-obama-prince-harry-meghan-markle-engagement_us_5a1c8195e4b0e2ddcbb20d3b', 'short_description': 'Twitter LOVED his happy message to the couple.', 'date': '2017-11-27'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Voters' Remorse", 'authors': 'Edward Flattau, ContributorEnvironmental newspaper columnist', 'link': 'https://www.huffingtonpost.com/entry/trump-voters-remorse_us_596e5f2fe4b07f87578e6ca0', 'short_description': "The president is reneging on campaign promises while undercutting his voters' livelihoods.", 'date': '2017-07-18'}

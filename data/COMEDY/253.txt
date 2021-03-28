@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Conan O'Brien Suggests An Alternative New Tagline For Fox News", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/conan-obrien-fox-news-tagline_us_5aa79756e4b087e5aaed7187', 'short_description': 'Catchy!', 'date': '2018-03-13'}

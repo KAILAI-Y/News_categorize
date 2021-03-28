@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "White House: The Difference Between Trump And Franken Is Franken 'Admitted Wrongdoing'", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/sarah-huckabee-sanders-trump-franken_us_5a0f489de4b0dd63b1aa3ee7', 'short_description': 'Sixteen women have accused the president of sexual misconduct.', 'date': '2017-11-17'}

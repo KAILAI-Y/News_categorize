@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Trump Reportedly Mulls Firing U.S. Military Commander In Afghanistan', 'authors': 'Steve Holland and John Walcott, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trum-to-fire-afghanistan-commander_us_59826658e4b06d4888742cbb', 'short_description': '“We aren’t winning,” Trump reportedly said.', 'date': '2017-08-03'}

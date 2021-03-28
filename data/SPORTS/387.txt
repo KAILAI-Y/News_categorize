@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Rob Gronkowski Made An Incredibly Dirty Hit On A Defenseless Buffalo Bill', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/rob-gronkowski-dirty-hit-tredavious-white_us_5a254f6be4b03c44072ed0cf', 'short_description': "Tre'Davious White is under observation for a possible concussion.", 'date': '2017-12-04'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans Can't Kill Obamacare, So They're Turning It Into Trumpcare", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/republican-changes-obamacare-trumpcare_us_5a2aecece4b069ec48ad2337', 'short_description': 'Three years of progress are ending as a reversal begins.', 'date': '2017-12-10'}

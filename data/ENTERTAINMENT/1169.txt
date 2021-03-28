@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Civil Rights Lawsuit Derails Deal To Sell Off Weinstein Co.: Reports', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/weinstein-co-sale-stalled_us_5a819545e4b044b3821f5a0d', 'short_description': 'A $500 million sale of the movie company was reportedly pulled on Sunday.', 'date': '2018-02-12'}

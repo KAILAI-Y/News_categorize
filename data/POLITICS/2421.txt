@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Read Live Updates On Trump's First State Of The Union Address", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/state-of-the-union-live-updates_us_5a69ffc5e4b0ddb658c44f7a', 'short_description': 'He outlined his goals for the coming year.', 'date': '2018-01-30'}

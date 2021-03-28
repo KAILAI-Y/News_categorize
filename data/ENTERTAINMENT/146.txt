@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Keith Richards Explains How He Got Rid Of Trump Nearly 30 Years Ago', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/keith-richards-donald-trump_us_5afa8518e4b044dfffb56584', 'short_description': '“Now America has to get rid of him. Don’t say I didn’t warn you!”', 'date': '2018-05-15'}

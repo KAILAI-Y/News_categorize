@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Montana Democrat Rob Quist May Make Another House Run', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/rob-quist-montana-considering-running-again_us_593d648ee4b02402687a3c5c', 'short_description': 'He agrees that more help from his national party would have been welcomed.', 'date': '2017-06-11'}

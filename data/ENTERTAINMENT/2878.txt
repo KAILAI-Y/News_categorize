@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'American Horror Story: Cult' Gives Us A Bloody First Look At Trump And Clinton", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/american-horror-story-cult-gives-us-our-first-taste-of-trump-and-hillary_us_599b0570e4b01f6e80200348', 'short_description': 'See you in our literal nightmares.', 'date': '2017-08-21'}

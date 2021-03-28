@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '18 Post-Holiday Sales On Clothes, Shoes, Accessories And More', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/post-holiday-clothing-sales-to-take-advantage-of_us_5a43b387e4b025f99e190762', 'short_description': "Now's the time to shop for you.", 'date': '2017-12-27'}

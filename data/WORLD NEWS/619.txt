@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Car Plows Into Pedestrians In Crowded Melbourne Intersection, Injuring Up To 14', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/melbourne-crash_us_5a3b6097e4b025f99e14845e', 'short_description': 'Police arrested two men but they have not been charged.', 'date': '2017-12-21'}

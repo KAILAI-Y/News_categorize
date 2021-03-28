@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Lebanon Repeals Law Allowing Rapists To Walk Free If They Marry Their Victims', 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/lebanon-rape-law_us_5994680de4b0e789a948a16e', 'short_description': 'The law had "created a tolerance for rape," one researcher said.', 'date': '2017-08-16'}

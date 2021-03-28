@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kris Kobach Really, Really Did Not Want You To See This Deposition. Read It Here.', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/kris-kobach-deposition_us_5aafcc88e4b0697dfe18c630', 'short_description': 'The document provides details of a meeting between Kobach and Trump in 2016.', 'date': '2018-03-19'}

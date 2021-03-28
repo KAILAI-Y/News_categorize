@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'People Of Color Are More Likely To Be Exposed To Pollution Than White People', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/people-of-color-higher-pollution-exposure_us_5a131756e4b0c335e9964a2c', 'short_description': 'Yet not much is being done to fix it.', 'date': '2017-11-20'}

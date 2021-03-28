@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'We Can Probably Blame Jay Leno For This Dumb Iraq War Myth', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/operation-iraqi-liberation-myth_us_5a78d2cae4b0164659c731db', 'short_description': 'There\'s no proof the official code name for the war was ever "OIL."', 'date': '2018-03-16'}

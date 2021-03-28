@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trump And Steve Bannon Look Back With Rose-Colored Glasses In James Corden Spoof', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-donald-trump-steve-bannon_us_5a547854e4b0efe47ebc2990', 'short_description': 'They almost had it all.', 'date': '2018-01-09'}

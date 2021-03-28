@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Minor Leaguer Strikes Out In The Weirdest Way Imaginable', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/minor-leaguer-strikes-out-in-the-weirdest-way-imaginable_us_592d3c1de4b0df57cbfd1c4e', 'short_description': "Something new at the ol' ballgame.", 'date': '2017-05-30'}

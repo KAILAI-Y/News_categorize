@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "22 Sick'ningly Brilliant Gifts For 'RuPaul's Drag Race' Fans", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/gifts-for-rupauls-drag-race-fans_us_5a85bd01e4b0058d55671954', 'short_description': '"All tea, no shade."', 'date': '2018-02-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Marco Rubio: Tax Bill ‘Probably Went Too Far’ On Corporate Handouts', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/marco-rubio-tax-bill-corporations-too-far_us_5a46a59fe4b025f99e1b679d', 'short_description': 'A little late there, senator.', 'date': '2017-12-29'}

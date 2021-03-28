@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Touts ‘Middle Class’ Tax Relief But Only Detail He Offers Helps The Rich', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-tax-plan_us_59a72c03e4b0a8d14572e7a0', 'short_description': 'Trump once said he would raise taxes on the rich. Not anymore.', 'date': '2017-08-30'}

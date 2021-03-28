@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump In 'Excellent Health,' Doctor Says After Checkup", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-excellent-health-exam_us_5a59763ae4b0fcbc3a10315f', 'short_description': 'The White House physician promises to provide more detail on Tuesday.', 'date': '2018-01-13'}

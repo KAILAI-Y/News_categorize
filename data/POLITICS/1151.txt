@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Spoof Craigslist Ad Seeks Lawyer For Donald Trump, And It's Hilarious", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/spoof-craigslist-ad-lawyer-donald-trump_us_5abb46f7e4b03e2a5c775afb', 'short_description': '"Prior appearances on Fox News a huge plus."', 'date': '2018-03-28'}

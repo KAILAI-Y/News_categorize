@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Switzerland Flushes Away Millions In Gold And Silver Every Year', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/switzerland-flush-gold_us_59dffbf3e4b04d1d518095dc', 'short_description': 'That slams the lid on this story.', 'date': '2017-10-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Twitter Users Who Were Blocked By Trump Take Him To Court', 'authors': 'Matt Ferner', 'link': 'https://www.huffingtonpost.com/entry/trump-twitter-users-lawsuit_us_59652db0e4b005b0fdc944da', 'short_description': 'The president is violating their First Amendment rights, they argue.', 'date': '2017-07-12'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Donald Trump Met The 'Pen Pineapple Apple Pen' Guy And There Are Pictures", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-pen-pineapple-apple-pen-japan-meeting_us_5a016b2be4b0368a4e86ae4a', 'short_description': "They both couldn't have appeared happier at the encounter.", 'date': '2017-11-07'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'EPA Abruptly Blocks 3 Agency Scientists From Giving Talks On Climate Change', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/epa-scientists-talks_us_59ed4d37e4b00f08619f953c', 'short_description': "It's the latest sign of the administration's assault on climate science.", 'date': '2017-10-23'}

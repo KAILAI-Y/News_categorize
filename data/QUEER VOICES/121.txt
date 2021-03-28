@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "The Trailer For Matt Bomer's Controversial Transgender Movie Is Here", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/matt-bomer-anything-trailer_us_5acd1cb3e4b09212968c8944', 'short_description': '"Anything" has taken pre-release heat over Bomer\'s casting.', 'date': '2018-04-11'}

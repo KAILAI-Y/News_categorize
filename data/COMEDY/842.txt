@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Acquires Exclusive Footage Of Workers Renovating The White House', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/kimmel-acquires-exclusive-footage-of-workers-renovating-the-white-house_us_598a34bee4b0d793738b0a85', 'short_description': "These workers' accents seem ... familiar.", 'date': '2017-08-09'}

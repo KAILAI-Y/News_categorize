@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Judge Halts Deportation Of Iraqis Detained In U.S. Immigration Sweeps', 'authors': 'By Steve Friess, Reuters', 'link': 'https://www.huffingtonpost.com/entry/iraqi-deportations-stay_us_595230afe4b05c37bb7933e1', 'short_description': 'The ACLU argued those being deported could face persecution, torture or death.', 'date': '2017-06-27'}

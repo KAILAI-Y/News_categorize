@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'HARD LESSON: Clueless Fan Learns What Happens When You Celebrate Too Soon', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/clueless-fan-beat-the-freeze_us_593e27a3e4b0b13f2c6bd948', 'short_description': 'Whoops!!!', 'date': '2017-06-12'}

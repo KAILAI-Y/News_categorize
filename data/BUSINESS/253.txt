@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Chipotle Reopening Restaurant Linked To Customer Illnesses', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/chipotle-reopening-restaurant-customers-ill_us_596e20a0e4b010d77673ecfe', 'short_description': 'The company suspects norovirus was to blame.', 'date': '2017-07-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Key Google Searches Only Showed Republican Candidate In Montana House Special Election', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/google-montana-special-election_us_59f1fdcae4b077d8dfc7ea04', 'short_description': "And the glitch wasn't easy to fix, the Democrat's campaign discovered.", 'date': '2017-10-26'}

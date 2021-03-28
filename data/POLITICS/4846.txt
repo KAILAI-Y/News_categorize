@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Winston Churchill's Grandson Introduces A New Nickname For Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/winston-churchill-nicholas-soames-donald-trump_us_59eb0b65e4b00f08619f0d65', 'short_description': 'Burn.', 'date': '2017-10-21'}

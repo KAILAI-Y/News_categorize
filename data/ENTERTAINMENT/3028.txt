@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Al Gore Likens Donald Trump's Administration To 1 Particular 'Game Of Thrones' Scene", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/al-gore-donald-trump-game-of-thrones_us_5982da9ae4b0fa1575fbff1f', 'short_description': '"It\'s deeply troubling."', 'date': '2017-08-03'}

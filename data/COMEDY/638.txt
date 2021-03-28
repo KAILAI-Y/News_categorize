@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'This Paralympian With One Leg Came Up With A Genius Halloween Costume', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/paralympian-who-has-one-leg-wins-halloween-again-with-awesome-costume_us_59f74443e4b03cd20b83264d', 'short_description': 'Josh Sundquist nails it again!', 'date': '2017-10-31'}

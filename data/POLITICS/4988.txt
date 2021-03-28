@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Enemy Combatants' Again?", 'authors': 'Karen J. Greenberg, ContributorDirector, Center on National Security at Fordham Law School', 'link': 'https://www.huffingtonpost.com/entry/enemy-combatants-again_us_59e50369e4b0ca9f4839d36c', 'short_description': 'Will Washington never learn?', 'date': '2017-10-16'}

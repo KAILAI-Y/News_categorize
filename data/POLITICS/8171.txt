@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Collective Déjà Vu Of Black America', 'authors': 'Julia Craven', 'link': 'https://www.huffingtonpost.com/entry/black-america-deja-vu_us_594c595fe4b05c37bb757634', 'short_description': 'We are stuck in a loop of violence and injustice.', 'date': '2017-06-23'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '35 Photos Of Kids Enjoying Summer Without Technology Around The World', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/35-photos-of-kids-enjoying-summer-without-technology-around-the-world_us_59b162a8e4b0354e440ff744', 'short_description': '#SummerUnplugged', 'date': '2017-09-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mnuchin Won't Say If Trump's Tax Plan Would Benefit Trump", 'authors': 'Jason Cherkis', 'link': 'https://www.huffingtonpost.com/entry/steve-mnuchin-tax-reform-donald-trump_us_59d103cee4b09538b508d14d', 'short_description': 'The Tax Policy Center says the wealthiest Americans would get the highest tax cuts.', 'date': '2017-10-01'}

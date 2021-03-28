@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '8 Brands That Can Turn Your Beauty Routine Into Activism', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/beauty-brands-activism_us_5a54d03be4b0efe47ebcfc9a', 'short_description': 'Take a note from Olivia Wilde.', 'date': '2018-01-10'}

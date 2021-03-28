@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Twitter Goes Bonkers Over WTF 'Bachelor' Finale", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/twitter-goes-bonkers-over-wtf-bachelor-finale_us_5a9e641fe4b0a0ba4ad7769d', 'short_description': 'Viewers had some less-romantic proposals for Arie Luyendyk Jr.', 'date': '2018-03-06'}

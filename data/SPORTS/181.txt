@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Lindsey Jacobellis Suffers Winter Olympics Heartbreak -- Again', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/lindsey-jacobellis-winter-olympics_us_5a86bda3e4b05c2bcac9ba9b', 'short_description': "This was the snowboarder's fourth time competing and third time going home without a medal.", 'date': '2018-02-16'}

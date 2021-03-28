@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Suggests Why Donald Trump Is Skipping The Super Bowl Interview', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-super-bowl_us_5a7568ace4b01ce33eb2e4b6', 'short_description': '"You don\'t need to dodge it."', 'date': '2018-02-03'}

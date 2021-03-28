@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Major Earthquake Strikes Southern Peru', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/peru-earthquake-arequipa_us_5a5bb8fbe4b04f3c55a3bbb2', 'short_description': 'At least one death and dozens of injuries have been confirmed.', 'date': '2018-01-14'}

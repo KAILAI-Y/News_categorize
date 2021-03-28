@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "First 'Ready Player One' Teaser Has One 'Giant' Nostalgic Spoiler", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/the-ready-player-one-teaser-is-one-a-nostalgic-ride_us_5972dbd6e4b00e4363dfa7cc', 'short_description': 'Are you ready?', 'date': '2017-07-22'}

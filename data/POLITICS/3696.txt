@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Promise And Danger Of Health Care's Big Data Revolution", 'authors': "Theresa D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/health-care-big-data_us_5a26853ae4b0f9f0203f1f0b', 'short_description': 'Experts at Harvard discuss the latest on big data and information technology.', 'date': '2017-12-05'}

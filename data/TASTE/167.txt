@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': '‘Cue Topped With Pigskin Croutons At This DC Smoke Joint', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/cue-topped-with-pigskin-croutons-at-this-dc-smoke-joint_us_59a363dce4b0821444c42bcc', 'short_description': 'The wood-obsessed pitmaster here isn’t messing around', 'date': '2017-08-28'}

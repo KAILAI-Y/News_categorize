@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Reportedly Tells Pentagon To Consider Reducing Troops In South Korea', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-us-troops-south-korea_us_5aebde4be4b041fd2d24bd28', 'short_description': 'Officials in Seoul have denied the New York Times report.', 'date': '2018-05-04'}

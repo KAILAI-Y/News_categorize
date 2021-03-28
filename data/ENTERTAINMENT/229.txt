@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Madonna Teases New Song At Surprise Met Gala Performance', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/madonna-new-song-met-gala-performance_us_5af1d0eee4b0ab5c3d6a8a43', 'short_description': 'Just like a prayer, indeed.', 'date': '2018-05-08'}

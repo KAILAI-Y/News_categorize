@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Lifetime's 'Harry and Meghan: A Royal Romance' Was… Good?", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/lifetime-harry-and-meghan-royal-romance_us_5af9b234e4b044dfffb49566', 'short_description': "I think? I'm so confused.", 'date': '2018-05-14'}

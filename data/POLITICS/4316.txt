@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '2 GOP Senators Drop Endorsements Of Roy Moore', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/gop-senators-rescind-roy-moore-endorsement_us_5a0631bae4b05673aa5948dd', 'short_description': 'Sens. Steve Daines (Mont.) and Mike Lee (Utah) announced their decision Friday evening.', 'date': '2017-11-10'}

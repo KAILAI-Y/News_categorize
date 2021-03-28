@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Me Too, But Now What?', 'authors': 'Heather Reinhardt, ContributorWriter, Producer, Creator', 'link': 'https://www.huffingtonpost.com/entry/me-too-but-now-what_us_59e63bbde4b0432b8c11ea6c', 'short_description': 'For years, I had let this story go, brushing it aside, because in my mind I was lucky.', 'date': '2017-10-17'}

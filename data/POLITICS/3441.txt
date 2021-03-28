@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Women Rejoice Over Roy Moore's Senate Loss", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/women-rejoice-doug-jones-victory_us_5a30e2a0e4b01bdd76587749', 'short_description': '"When we speak together, we\'re a force to reckon with," Planned Parenthood president Cecile Richards said.', 'date': '2017-12-13'}

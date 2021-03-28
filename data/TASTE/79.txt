@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Lawyers Explain What The Restaurant Industry Needs To Do To Protect Women', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/restaurants-sexual-harassment_us_59f21499e4b03cd20b803583', 'short_description': 'And all of its employees, for that matter.', 'date': '2017-10-27'}

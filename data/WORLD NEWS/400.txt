@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Rihanna Asked Australia For Global Education Money, And Got It', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/rihanna-australia-global-education_us_5a73ede5e4b0905433b2b6a6', 'short_description': '"We love a Queen who brings about swift action."', 'date': '2018-02-02'}

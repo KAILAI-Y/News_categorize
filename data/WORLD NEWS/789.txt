@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Zimbabwe's President Robert Mugabe Resigns", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/mugabe-resigns-zimbabwe_us_5a144db5e4b0aa32975e0bdd', 'short_description': "The world's oldest serving president will step down after 37 years in power.", 'date': '2017-11-21'}

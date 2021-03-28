@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jane Fonda Has No Time For Megyn Kelly's Questions About Plastic Surgery", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/jane-fonda-has-no-time-for-megyn-kellys-questions-about-plastic-surgery_us_59cbcf95e4b053a9c2f5b875', 'short_description': 'A swing and a miss.', 'date': '2017-09-27'}

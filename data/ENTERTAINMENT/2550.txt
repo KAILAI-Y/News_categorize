@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'RIP, Mr. Petty', 'authors': 'Jack Bristow, ContributorFiction and nonfiction writer', 'link': 'https://www.huffingtonpost.com/entry/rip-mr-petty_us_59d39c34e4b092b22a8e3994', 'short_description': 'Music never really spoke to me, until I discovered Mr. Petty’s music.', 'date': '2017-10-03'}

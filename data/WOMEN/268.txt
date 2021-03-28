@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "#MeToo Creator Will Push Button To Drop New Year's Eve Ball In Times Square", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/tarana-burke-new-years-eve-metoo_us_5a381be9e4b0fc99878defc6', 'short_description': 'Activist Tarana Burke founded the #MeToo movement 10 years ago.', 'date': '2017-12-18'}

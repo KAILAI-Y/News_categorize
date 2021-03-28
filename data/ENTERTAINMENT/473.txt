@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Adele Wrote About How Much She Loves Rihanna And, Honestly, Same', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/adele-wrote-about-her-friendship-with-rihanna-and-were-going-to-need-a-moment_us_5ad8b486e4b03c426dac2274', 'short_description': 'Legends stanning legends.', 'date': '2018-04-19'}

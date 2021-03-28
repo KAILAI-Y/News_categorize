@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Budget Director Wants To Slash Spending For Agencies -- Except His Own', 'authors': 'Matt Fuller and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/trump-budget-omb_us_59496528e4b04c5e502561e4', 'short_description': 'Do not ask the belt-tighteners to tighten their belts.', 'date': '2017-06-20'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Glamour's Women Of The Year 'Firsts' Tell Inspiring Stories Of Struggle And Success", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/women-of-the-year-firsts_us_5a09c7c6e4b00a6eece314c3', 'short_description': '″Girls up top, that’s how you do it." 🙌🏼', 'date': '2017-11-14'}

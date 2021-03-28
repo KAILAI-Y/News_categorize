@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Jay Duplass On Why Straight, Cis Men Need 'Transparent,' Too", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/transparent-jay-duplass_us_59c18d1be4b0f22c4a8d65df', 'short_description': "The actor talks being a minority on set and why Josh's constant crying is a good thing.", 'date': '2017-09-22'}

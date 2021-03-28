@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Retail Website Only Pays Sales Taxes In 2 States. Amazon Pays Taxes In 45.", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-store-only-pays-taxes-to-2-states_us_5ac95a99e4b09d0a11946b1c', 'short_description': 'Is TrumpStore.com the real "no tax" company?', 'date': '2018-04-08'}

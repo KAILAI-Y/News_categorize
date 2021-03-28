@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mark Hamill Shuts Down Trump's Latest Complaint With 3 Blistering Words", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-donald-trump-voter-fraud_us_5959c373e4b0da2c73245638', 'short_description': "That's gotta sting.", 'date': '2017-07-03'}

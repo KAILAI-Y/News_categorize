@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '15 Stylish Winter Travel Outfits For Your Next Cold-Weather Trip', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/15-stylish-winter-travel-outfits-for-your-next-cold-weather-trip_us_5a454091e4b06d1621b7a427', 'short_description': "It's all about those layers.", 'date': '2017-12-28'}

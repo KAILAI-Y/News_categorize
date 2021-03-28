@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Pope Francis Prays Alongside Rohingya Muslim Refugees During Trip To Bangladesh', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/pope-francis-muslim-rohingya-refugees-bangladesh_us_5a2168e9e4b0a02abe90af34', 'short_description': '“The presence of God today is also called Rohingya."', 'date': '2017-12-01'}

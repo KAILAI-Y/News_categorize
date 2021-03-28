@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "In 'Beatriz At Dinner,' An Immigrant Walks Into A Room Of Trump-Minded Hedonists", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/salma-hayek-beatriz-at-dinner_us_593aff8ae4b0b13f2c6a658c', 'short_description': 'Salma Hayek gives a career-best performance in the melancholic comedy.', 'date': '2017-06-11'}

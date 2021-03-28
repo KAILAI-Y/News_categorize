@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver: NRATV Is Like A ‘Deranged Letter From A Serial Killer’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-nra-tv_us_5a9cf5b2e4b089ec353c3fbd', 'short_description': "The NRA's TV network is darker and weirder than you think.", 'date': '2018-03-05'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Please Don't Ruin 'Sex And The City' For Us", 'authors': 'Kari van der Heide, ContributorColumnsbyKari', 'link': 'https://www.huffingtonpost.com/entry/please-dont-ruin-sex-and-the-city-for-us_us_59ef7026e4b04809c0501183', 'short_description': '“SATC” isn’t just a show.', 'date': '2017-10-24'}

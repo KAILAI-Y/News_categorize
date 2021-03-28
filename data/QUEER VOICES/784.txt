@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Egypt Reportedly Subjects Gay Men To Anal Exams After 'Debauchery' Crackdown", 'authors': 'Ahmed Aboulenein, Reuters', 'link': 'https://www.huffingtonpost.com/entry/egypt-gay-men-anal-exams_us_59cea42ee4b06791bb10906c', 'short_description': 'At least 33 people have been arrested since Sept. 23.', 'date': '2017-10-02'}

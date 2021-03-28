@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Selena Gomez Wore 4 Head-Turning Outfits In Just One Day', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/selena-gomez-wore-four-head-turning-outfits-in-just-one-day_us_5a254c96e4b03c44072ecde5', 'short_description': "We can't keep up!", 'date': '2017-12-04'}

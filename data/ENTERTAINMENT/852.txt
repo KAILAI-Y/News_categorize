@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'People Are Freaking Out Over Chris Pine’s Hilariously Weird Lookalike', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/chris-pine-team-america-gary_us_5aa7502be4b009b705d58714', 'short_description': "That's pretty uncanny.", 'date': '2018-03-13'}

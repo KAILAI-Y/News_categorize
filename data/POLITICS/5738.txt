@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Forcing Domestic Abusers To Surrender Guns Could Save Lives, But Most States Don't Do It", 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/domestic-abusers-guns_us_59bfeba2e4b0edff971df198', 'short_description': 'A new study offers clear proof that states must do more to protect women.', 'date': '2017-09-18'}

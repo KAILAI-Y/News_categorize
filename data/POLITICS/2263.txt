@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "That Viral Trump 'Dow Joans' Cannon Tweet Is Sadly A Fake", 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/trump-tweet-dow-joans-cannon_us_5a790087e4b0164659c75385', 'short_description': '"Not for one second did I think people would believe that to be genuine," its creator said.', 'date': '2018-02-06'}

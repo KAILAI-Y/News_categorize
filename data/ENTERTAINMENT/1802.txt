@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Major Networks Are Becoming More Inclusive Of Asian-Americans: Report', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/aapi-report-card-tv-networks_us_5a31778de4b01bdd765980ee', 'short_description': 'Fox, however, had the fewest Asian-American regulars in its shows in almost a decade.', 'date': '2017-12-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Personal Assistant Reportedly Fired Over Security Issue', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/john-mcentee-trump-reportedly-fired_us_5aa7d246e4b087e5aaedf006', 'short_description': 'John McEntee is reportedly being investigated for “serious financial crimes."', 'date': '2018-03-13'}

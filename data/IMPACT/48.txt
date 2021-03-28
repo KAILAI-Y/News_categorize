@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'This Swedish Indoor Urban Farm Wants To Revolutionize How We Live And Eat', 'authors': 'Oliver Balch, On assignment for HuffPost', 'link': 'https://www.huffingtonpost.com/entry/plantagon-urban-farm-sweden_us_5a9698cfe4b0e6a523033b7c', 'short_description': "But people can't live on microgreens and exotic salads alone.", 'date': '2018-03-02'}

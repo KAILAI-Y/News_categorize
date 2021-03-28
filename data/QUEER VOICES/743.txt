@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Is Mr. Miller Gay?', 'authors': 'Drew Miller, ContributorTeacher', 'link': 'https://www.huffingtonpost.com/entry/is-mr-miller-gay_us_59db8831e4b0cf2548b33914', 'short_description': '" I was so scared of what everyone would think that I didn’t even consider that I could be accepted and loved."', 'date': '2017-10-09'}

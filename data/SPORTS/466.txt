@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'NASCAR Owners Say They Would Fire Employees Who Protest Anthem', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/nascar-owners-say-they-would-fire-employees-who-protest-anthem_us_59c8c174e4b06ddf45f8e787', 'short_description': 'Donald Trump tweeted his approval.', 'date': '2017-09-25'}

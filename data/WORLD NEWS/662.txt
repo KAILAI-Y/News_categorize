@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S. Demands Release Of Reuters Reporters Detained In Myanmar', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/myanmar-arrests-reuters-journalists_us_5a3134bae4b07ff75aff5b4a', 'short_description': 'Wa Lone and Kyaw Soe Oo were reporting on the Rohingya crisis in Rakhine State.', 'date': '2017-12-13'}

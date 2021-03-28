@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Supporters Of Venezuela's Embattled President Storm National Assembly Building", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/venezuela-national-assembly-stormed_us_595d121de4b05c37bb817ed1', 'short_description': 'Several lawmakers and journalists were injured.', 'date': '2017-07-05'}

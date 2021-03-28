@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Liberal Establishment Suddenly Sounds Very Ambitious On Health Care', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/liberal-health-care-proposal_us_5a8e4385e4b0161d431869d1', 'short_description': 'A new plan signals revived interest in public options and even Medicare-for-all.', 'date': '2018-02-22'}

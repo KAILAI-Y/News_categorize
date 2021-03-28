@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump May Find Time To Live-Tweet James Comey's Testimony", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-tweet-comey_us_5936f8aae4b013c4816bc658', 'short_description': 'This could get interesting.', 'date': '2017-06-06'}

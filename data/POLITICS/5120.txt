@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Evil That Guns Do', 'authors': 'Michael Winship, ContributorFormer senior writer, BillMoyers.com. President, Writers Guild...', 'link': 'https://www.huffingtonpost.com/entry/the-evil-that-guns-do_us_59dd1dbfe4b0b992a8214786', 'short_description': "Don't be fooled by the NRA's post-Las Vegas rhetorical camouflage.", 'date': '2017-10-10'}

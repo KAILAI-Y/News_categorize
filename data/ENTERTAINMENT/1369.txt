@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "So Here's The 'Lady Bird' Trailer Except Every Line Is Screamed", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/lady-bird-trailer-but-every-line-is-screamed_us_5a6c904be4b0ddb658c6cfc2', 'short_description': "You're allowed to enjoy this -- it's the weekend.", 'date': '2018-01-27'}

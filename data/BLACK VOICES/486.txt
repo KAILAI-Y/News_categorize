@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Drake Calls Out Creep Groping A Woman During His Performance', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/drake-calls-out-guy-groping-woman_us_5a0ca2d2e4b0c0b2f2f77152', 'short_description': 'He threatened to come off stage and fight the man.', 'date': '2017-11-15'}

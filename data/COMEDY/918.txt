@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Chris Christie Sunbathing In His Beach Chair Is A Photoshop Dream', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/chris-christie-sunbathing-in-his-beach-chair-is-a-photoshop-dream_us_595b1a94e4b05c37bb7fdf4e', 'short_description': "It's Christie's day in the sun.", 'date': '2017-07-04'}

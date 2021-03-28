@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Ride-Hailing Drivers Probably Make Even Less Than They Think, MIT Paper Finds', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/ride-app-drivers-mit-paper_us_5a984976e4b0479c025064a6', 'short_description': 'Uber called the methodology and findings of the working paper "deeply flawed."', 'date': '2018-03-02'}

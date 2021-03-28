@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Timothée Chalamet Is The Heartthrob We Need', 'authors': 'Angelina Chapin', 'link': 'https://www.huffingtonpost.com/entry/timothee-chalamet-masculinity_us_5a94b14be4b02cb368c4f1d8', 'short_description': "In a time when women are grappling with men's failings, it's comforting to dream of a Chalamet-filled future.", 'date': '2018-03-02'}

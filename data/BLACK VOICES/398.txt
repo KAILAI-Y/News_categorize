@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Libyan Slave Trade Perpetuates The Commodification Of Black Bodies', 'authors': 'Benjamin L. Crump, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/libyan-slave-trade-commodification_us_5a4f96a8e4b089e14dba6860', 'short_description': 'No one is free until everyone is.', 'date': '2018-01-05'}

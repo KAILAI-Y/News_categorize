@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Tearful Jimmy Fallon Finally Gets Political, Makes Moving Plea To Stand Against Hate', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-charlottesville_us_599290d8e4b09071f69c2baf', 'short_description': '"Tonight Show" host slams President Trump\'s response to weekend of violence.', 'date': '2017-08-15'}

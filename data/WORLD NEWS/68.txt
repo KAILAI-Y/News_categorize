@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Cardinal George Pell, Vatican Treasurer, Will Stand Trial For Sexual Abuse', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/george-pell-church-sexual-abuse_us_5ae7bac2e4b055fd7fcefa99', 'short_description': 'He is the most senior member of the church to be accused of such crimes.', 'date': '2018-05-01'}

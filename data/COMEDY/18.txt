@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Has The Best Time Mocking The Royal Wedding', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-royal-wedding_us_5b02e155e4b0463cdba4aaac', 'short_description': 'Monarchy, love and fast food.', 'date': '2018-05-21'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'The Significance Of O.J. Simpson In 2017', 'authors': "Ja'han Jones", 'link': 'https://www.huffingtonpost.com/entry/what-does-oj-simpson-mean-to-us-in-2017_us_59709216e4b0110cb3cc5738', 'short_description': 'Our national appetite for absurdity has transformed since his disappearance behind bars nearly a decade ago.', 'date': '2017-07-20'}

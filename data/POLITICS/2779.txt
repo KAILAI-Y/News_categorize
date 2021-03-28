@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tweeters Ridicule Trump's Reason For Scrapped UK Visit", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-england-london-trip-scrapped-reaction_us_5a586206e4b0720dc4c5d286', 'short_description': '"No doubt he\'s going to go on a goodwill tour of Africa and Haiti instead."', 'date': '2018-01-12'}

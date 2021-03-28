@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Georgia Dome Demolition Coverage Gets Wrecked In The Best Way Possible', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/georgia-dome-implosion-bus-weather-channel_us_5a13bf04e4b0c335e996fc60', 'short_description': "Now THAT'S timing.", 'date': '2017-11-21'}

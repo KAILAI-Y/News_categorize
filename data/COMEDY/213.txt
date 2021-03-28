@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jay Leno Takes Over 'Tonight Show' Monologue To Tell Sexual Harassment Jokes", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jay-leno-monologue-jimmy-fallon_us_5ab370aae4b054d118dfbfbb', 'short_description': "The former 'Tonight Show' host returned once again to do his shtick.", 'date': '2018-03-22'}

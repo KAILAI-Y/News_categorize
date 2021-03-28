@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': '6 Ways Logan Paul Could Have Actually Raised Suicide Awareness', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/how-to-raise-suicide-awareness_us_5a4bcb96e4b0b0e5a7a90a30', 'short_description': "Hint: Posting a video of someone who died by suicide isn't it.", 'date': '2018-01-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mayor Has No Patience For Trump Using Pittsburgh To Justify Paris Decision', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-pittsburgh-climate-deal_us_59307793e4b081618efa4365', 'short_description': 'Trump suggested leaving the global climate deal would be good for Pittsburgh.', 'date': '2017-06-01'}

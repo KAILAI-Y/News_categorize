@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Do Kids Die Mom?'", 'authors': 'Frida Berrigan, ContributorColumnist, Waging Nonviolence; author of "It Runs in the Famil...', 'link': 'https://www.huffingtonpost.com/entry/do-kids-die-mom_us_5a53fd11e4b003133ecb78b6', 'short_description': 'Facing the future with trepidation in the age of Trump.', 'date': '2018-01-08'}

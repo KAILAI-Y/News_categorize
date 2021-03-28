@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Miley Cyrus Has No Plan To Leave The Country In The Era Of Trump', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/miley-cyrus-leave-country-trump_us_59ccfbd7e4b05063fe0f7b57', 'short_description': '"I hear every day on my Instagram, ‘Just leave already! When are you going to leave?’"', 'date': '2017-09-28'}

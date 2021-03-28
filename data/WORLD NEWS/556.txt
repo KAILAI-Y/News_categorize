@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Iceland Makes It Illegal For Companies To Pay Men More Than Women', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/iceland-makes-it-illegal-for-companies-to-pay-men-more-than-women_us_5a4bbd53e4b025f99e1df7e3', 'short_description': 'Get paid, ladies!', 'date': '2018-01-02'}

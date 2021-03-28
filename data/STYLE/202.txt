@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Kemora Williams: I Live In Kansas City, Missouri, And This Is My Style', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/kansas-city-missouri-style_us_59cc00bce4b02aef6cd72130', 'short_description': 'This pre-K teacher can school you in the art of dressing well.', 'date': '2017-10-03'}

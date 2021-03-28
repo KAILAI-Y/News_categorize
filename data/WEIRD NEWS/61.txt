@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Childhood Ruined': Scientologists Reportedly Behind Neopets", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/neopets-was-reportedly-run-by-scientologists-and-childhood-is-ruined_us_5ad77cbfe4b029ebe0206f8f', 'short_description': 'The news left people on social media shook.', 'date': '2018-04-18'}

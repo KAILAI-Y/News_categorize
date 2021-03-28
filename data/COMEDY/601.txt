@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Bids Farewell To Donald Trump's Favorite Punctuation Mark", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-dot-dot-dot_us_5a03ee28e4b0937b510f8f01', 'short_description': 'Rest in peace, old friend.', 'date': '2017-11-09'}

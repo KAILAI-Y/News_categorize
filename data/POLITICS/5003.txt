@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Latest Health Care Move Will Cause Pain, But Not For The Poor", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-affordable-care-act_us_59e505f0e4b02a215b322ad5', 'short_description': 'Some people in the upper-middle class will end up paying more.', 'date': '2017-10-16'}

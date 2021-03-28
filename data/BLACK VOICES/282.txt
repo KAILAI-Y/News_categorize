@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'R. Kelly Evicted From Atlanta Homes For Unpaid Rent', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/r-kelly-evicted-atlanta-rent_us_5a8c52b6e4b03414379abd2c', 'short_description': 'The singer reportedly owes more than $31,000.', 'date': '2018-02-20'}

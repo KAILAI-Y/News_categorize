@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon's Viewers Have Lost Some Pretty Ridiculous Bets", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-viewers-lot-a-bet_us_5aec51f8e4b041fd2d25c185', 'short_description': '“Guess whose kid is going to be named Optimus Prime?"', 'date': '2018-05-04'}

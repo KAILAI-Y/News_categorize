@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Celeb Stylist Brad Goreski Marries Producer Gary Janetti At Sea', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/brad-goreski-wedding_us_5a4403bbe4b0b0e5a7a47ca0', 'short_description': 'The guys took the plunge in the Caribbean.', 'date': '2017-12-27'}

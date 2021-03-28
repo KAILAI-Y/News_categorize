@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '5 Key Takeaways From Week 1 Of The Bill Cosby Trial', 'authors': 'Michael McLaughlin', 'link': 'https://www.huffingtonpost.com/entry/bill-cosby-trial-first-week_us_593aef04e4b0c5a35c9f2951', 'short_description': 'Accuser Andrea Constand broke her silence in powerful testimony.', 'date': '2017-06-10'}

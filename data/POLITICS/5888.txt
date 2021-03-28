@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Remembering Our KKK Past', 'authors': 'Jane Dailey, ContributorAssociate Professor of History, University of Chicago', 'link': 'https://www.huffingtonpost.com/entry/remembering-our-kkk-past_us_59b80179e4b027c149e2ccb3', 'short_description': 'A dark moment in American history offers lessons for the present.', 'date': '2017-09-12'}

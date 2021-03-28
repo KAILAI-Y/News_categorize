@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Woman Raises Over $300,000 For Homeless Man Who Gave Her His Last $20', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/woman-raises-300000-dollars-for-homeless-man_us_5a182d37e4b0cee6c04f48f3', 'short_description': '“Truly believe that all Johnny needs is one little break."', 'date': '2017-11-24'}

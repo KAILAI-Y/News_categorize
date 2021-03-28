@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Beyonce's Out There Making Corset Pants Happen", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/beyonce-corset-pants_us_59e0b3cee4b03a7be57fe4cd', 'short_description': 'Pretty Hurts, right?', 'date': '2017-10-13'}

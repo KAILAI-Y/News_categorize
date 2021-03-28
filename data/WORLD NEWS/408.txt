@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Secret Australian Government Documents Found In Cabinets From Secondhand Store', 'authors': 'Josh Butler and Eoin Blackwell', 'link': 'https://www.huffingtonpost.com/entry/australia-government-cabinet-leak_us_5a711ce5e4b0be822ba15e6e', 'short_description': 'The furniture contained thousands of secret pages.', 'date': '2018-01-31'}

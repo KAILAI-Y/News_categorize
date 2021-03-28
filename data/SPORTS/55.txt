@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Martina Navratilova: John McEnroe Made Far More For Wimbledon Commentary', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/martina-navratilova-john-mcenroe-wimbledon_us_5aafc0f6e4b0c33361b27c1c', 'short_description': '"It was a shock," the tennis great says in a gender pay-gap documentary.', 'date': '2018-03-19'}

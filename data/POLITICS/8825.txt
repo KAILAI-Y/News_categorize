@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Hits The Retweet Button Hard To Justify Paris Climate Deal Exit', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-tweets-climate-change_us_59314062e4b075bff0f2492b', 'short_description': 'Facing global criticism, the president seeks solace on Twitter.', 'date': '2017-06-02'}

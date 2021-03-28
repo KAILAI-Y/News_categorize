@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Alabama Women Protest Roy Moore By Dressing As Handmaids', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/alabama-women-dressed-as-handmaids-to-protest-roy-moore_us_5a294915e4b03ece030088b9', 'short_description': '“We want a senator not a predator,” read one protest sign.', 'date': '2017-12-07'}

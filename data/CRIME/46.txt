@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Bill Cosby Yells At Prosecutor After Guilty Verdict: 'You A**hole!'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/bill-cosby-yells-prosecutor_us_5ae21a5fe4b055fd7fc9b869', 'short_description': "Cosby's outburst came after the prosecutor said the comedian was a flight risk.", 'date': '2018-04-26'}

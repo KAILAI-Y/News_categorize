@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sen. Tom Cotton Dodges Questions About Trump's Transgender Troop Ban", 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/tom-cotton-transgender-military_us_59be91ede4b086432b07d5a6', 'short_description': "Several other GOP senators have already come out against Trump's proposal.", 'date': '2017-09-17'}

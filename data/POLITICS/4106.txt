@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House OK With Not Repealing Obamacare Mandate In Tax Bill', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/obamacare-mandate-repeal_us_5a11ae02e4b045cf43720cd5', 'short_description': '“If it becomes an impediment to getting the best tax bill we can, then we are OK with taking it out.”', 'date': '2017-11-19'}

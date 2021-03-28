@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Ivy League Has An Unexpected Friend In Donald Trump', 'authors': 'Dave Jamieson', 'link': 'https://www.huffingtonpost.com/entry/ivy-league-unions-graduate-students_us_59f253d4e4b077d8dfc88d6a', 'short_description': 'Their graduate students are trying to unionize. The president may have already stopped them.', 'date': '2017-10-29'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Patty Jenkins Is Already Thinking About A 'Wonder Woman' Sequel", 'authors': 'Jillian Capewell', 'link': 'https://www.huffingtonpost.com/entry/patty-jenkins-wonder-woman-sequel_us_59359e7ce4b0099e7fae2363', 'short_description': 'The superhero will be in America the next time around, the director says.', 'date': '2017-06-05'}

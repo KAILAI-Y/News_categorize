@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Tina Frost, Las Vegas Shooting Victim, Wakes From Coma', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/las-vegas-massacre-victim-tina-frost-out-of-coma_us_59e23f0fe4b04d1d51822635', 'short_description': 'The 27-year-old from Maryland took her first steps since the massacre.', 'date': '2017-10-14'}

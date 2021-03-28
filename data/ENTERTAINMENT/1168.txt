@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Tom Brady And Gisele Bündchen Are Doing Just Fine', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/tom-brady-gisele-bundchen_us_5a81ad45e4b0c6726e159f93', 'short_description': 'Kissing during a Costa Rican sunset kind of fine.', 'date': '2018-02-12'}

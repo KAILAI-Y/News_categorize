@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Indonesia Launches New Police Force To Investigate LGBTQ Community', 'authors': 'By Tom Allard and Stefanno Reinard, Reuters', 'link': 'https://www.huffingtonpost.com/entry/indonesia-lgbtq-police-force_us_5927589ce4b0df34c35ad9bb', 'short_description': 'The move comes at a time of uncertainty for queer Indonesians.', 'date': '2017-05-26'}

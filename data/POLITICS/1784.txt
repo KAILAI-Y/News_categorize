@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Flip 2 More GOP-Held State House Seats', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/democrats-flip-more-state-house-seats_us_5a96168ee4b07dffeb6d6b52', 'short_description': 'In Connecticut, Democratic challenger Phil Young won a seat Republicans had held for the past 44 years.', 'date': '2018-02-28'}

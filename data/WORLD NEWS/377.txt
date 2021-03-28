@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Danish Government Proposes Ban On Full-Face Veils', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/denmark-full-face-veil-ban_us_5a7b778ae4b0c6726e0f0ba6', 'short_description': 'Denmark\'s justice minister claimed veils like the niqab are "disrespectful."', 'date': '2018-02-08'}

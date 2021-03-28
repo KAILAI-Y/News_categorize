@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Progressive Activists Divided On What Immigration Compromises They Will Accept', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/progressive-activists-divided-on-border-wall_us_5a639eb0e4b0dc592a094b23', 'short_description': 'The border wall is a sticking point for some, but not others.', 'date': '2018-01-20'}

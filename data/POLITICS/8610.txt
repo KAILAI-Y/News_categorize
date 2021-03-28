@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Sets Obstruction Of Justice Terms: It’s His Credibility Against Comey’s', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-comey-liar_us_593b0c09e4b0b13f2c6a82d3', 'short_description': 'Trump long history of falsehoods against Comey’s boy scout reputation.', 'date': '2017-06-09'}

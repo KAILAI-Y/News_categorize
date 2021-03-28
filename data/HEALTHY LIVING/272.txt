@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Doctors In Puerto Rico Face Mounting Medical Crisis In Maria's Wake", 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/doctors-puerto-rico-maria_us_59cd5ac7e4b06791bb0f6faa', 'short_description': '"We’re doing the best that we can, but we need help. It’s too much.”', 'date': '2017-09-29'}

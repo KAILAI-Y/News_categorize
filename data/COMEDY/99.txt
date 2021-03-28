@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah 'Fires' Michelle Wolf From 'The Daily Show'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-michelle-wolf-daily-show_us_5ae8061ae4b02baed1bd8594', 'short_description': '“Michelle should have had the decency not to comment on women’s appearances in any way, shape or form."', 'date': '2018-05-01'}

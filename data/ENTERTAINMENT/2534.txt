@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Moment Bernie Sanders And Larry David Find Out They're Related Is Too Good", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-larry-david-related-pbs_us_59d5a963e4b0380b6c9a2a96', 'short_description': '"What the hell?!"', 'date': '2017-10-05'}

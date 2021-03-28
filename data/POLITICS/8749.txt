@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: The Aftermath Of The London Attack", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-the-aftermath-of-the-london-attack_us_59353729e4b0c242ca25807c', 'short_description': "And what London's mayor had to say to President Donald Trump.", 'date': '2017-06-05'}

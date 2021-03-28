@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Beyoncé Channeled 5 Of Lil' Kim's Iconic Outfits And Lil' Kim Couldn't Cope", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/beyonce-lil-kim-outfits-halloween_us_59fd84cbe4b0baea2631e340', 'short_description': '"I\'m speechless and honored," the star said.', 'date': '2017-11-04'}

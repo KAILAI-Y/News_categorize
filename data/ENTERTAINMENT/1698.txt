@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Whoopi Goldberg Had Some Iconic Words For Tiffany Haddish Before She Hosted ‘SNL’', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/whoopi-goldberg-tiffany-haddish-snl_us_5a4be79ce4b06d1621bb55fd', 'short_description': 'Haddish was the first black female comic to ever host the show.', 'date': '2018-01-02'}

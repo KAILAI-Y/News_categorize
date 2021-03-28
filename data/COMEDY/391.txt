@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Twitter Has Some Harsh Reactions To Kim Kardashian And Kanye West's New Baby Name", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/twitter-reactions-chicago-west-name_us_5a624e7ae4b0dc592a088d93', 'short_description': 'Yeezus Christ.', 'date': '2018-01-19'}

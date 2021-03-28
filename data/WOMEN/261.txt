@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'I Tried To Keep Track Of Every Time I Felt Guilt About Eating For A Week', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/guilt-about-eating_us_5a2ea8efe4b073789f6b90ad', 'short_description': "Here's why I stopped.", 'date': '2017-12-20'}

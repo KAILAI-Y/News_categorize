@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Kerrice Lewis, Lesbian Woman Shot And Burned Alive In Washington, D.C.', 'authors': 'Julia Diana Robertson جوليا ديانا, ContributorAuthor', 'link': 'https://www.huffingtonpost.com/entry/kerrice-lewislesbian-murdered-burned-alivesay-her_us_5a5040d0e4b0ee59d41c0ac5', 'short_description': 'Say her name.', 'date': '2018-01-06'}

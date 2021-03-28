@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Al Franken Relives Dramatic Moment John McCain Voted No On GOP Health Care Bill', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-al-franken-john-mccain-vote_us_598184aee4b0353fbb338246', 'short_description': '"Everyone stopped."', 'date': '2017-08-02'}

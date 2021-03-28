@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "Why Volunteering Over The Holidays Isn't The Best Idea", 'authors': 'Eleanor Goldberg', 'link': 'https://www.huffingtonpost.com/entry/maybe-dont-volunteer-over-the-holidays_us_5a0de1b1e4b0b37054f567f0', 'short_description': "Nonprofits really need help when volunteer numbers dry up after New Year's.", 'date': '2017-11-22'}

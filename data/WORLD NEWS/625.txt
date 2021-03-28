@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'UN Rebukes Trump’s Jerusalem Move In Overwhelming Vote', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/un-vote-jerusalem-trump_us_5a3beeade4b025f99e158445', 'short_description': 'He had threatened to cut funding to countries that voted against him.', 'date': '2017-12-21'}

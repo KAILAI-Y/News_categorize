@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kid Rock Bans Newspaper From His Detroit Concert After Critical Column', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/kid-rock-bans-detroit-free-press_us_59b8b6b3e4b086432b027dcc', 'short_description': 'The performer\'s publicist called the opinion piece a "f**ked up story."', 'date': '2017-09-13'}

@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "Disney To Remove 'Wench Auction' From Pirates Of The Caribbean Ride", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/pirates-of-the-caribbean-auction-scene_us_5955c6d9e4b0da2c7322631c', 'short_description': '"The Redhead" will now be one of the pirates.', 'date': '2017-06-30'}

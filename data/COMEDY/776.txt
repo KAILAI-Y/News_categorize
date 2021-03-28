@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Chelsea Handler Exposes The Most Sinister Part Of Trump's DACA Repeal", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/chelsea-handler-trump-daca_us_59b2384ae4b0354e4410d01d', 'short_description': 'Zing.', 'date': '2017-09-08'}

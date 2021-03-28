@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Where Is The God Of 'The Least Of These?'", 'authors': 'Susan K Smith, ContributorRev. Dr.', 'link': 'https://www.huffingtonpost.com/entry/where-is-the-god-of-the-least-of-these_us_59f2384ae4b05f0ade1b55d6', 'short_description': 'Being poor is not a crime, any more than is being a person of color.', 'date': '2017-10-26'}

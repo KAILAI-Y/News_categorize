@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mike Pence Left Out In Cold At Winter Olympics VIP Reception', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-olympics-vip-reception_us_5a7d8a3de4b044b3821c32be', 'short_description': "The vice president didn't get a seat because he was late.", 'date': '2018-02-09'}

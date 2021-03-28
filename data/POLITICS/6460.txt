@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Woman Protects Trump Supporters From Crowd, Showing Us How To Combat Hate', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/woman-protects-trump-supporters_us_599888c6e4b0a2608a6cabd9', 'short_description': '"What better way to show them they are wrong?"', 'date': '2017-08-19'}

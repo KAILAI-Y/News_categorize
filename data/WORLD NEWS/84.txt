@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'How The New Royal Baby Affects The Succession To The Throne', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/royal-baby-affects-the-succession-to-the-throne_us_5ae3325ae4b02baed1b9cb81', 'short_description': 'The birth of Prince Louis shuffled some things around.', 'date': '2018-04-27'}

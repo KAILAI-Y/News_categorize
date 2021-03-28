@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "From Layoffs To Sexual Assault Allegations, It's Been A Hard Week In Media", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/media-layoffs-sexual-harassment_us_5a22d3a8e4b03350e0b71769', 'short_description': 'BuzzFeed, ESPN, "Today" and more hit new breaking points.', 'date': '2017-12-02'}

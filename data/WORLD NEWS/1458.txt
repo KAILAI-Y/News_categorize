@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'A Rise In Overdose Deaths Sparks Fear Of Fentanyl In The U.K.', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/uk-fentanyl-deaths_us_5980e6fbe4b0353fbb333e5f', 'short_description': 'But nobody knows how big the problem is yet.', 'date': '2017-08-04'}

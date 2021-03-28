@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Falsely Claims U.S. Is The Highest-Taxed Nation', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/trump-highest-taxed-nation_us_59affebfe4b0354e440e4665', 'short_description': 'Businesses and individuals in the U.S. have a lower tax burden than they would in other countries.', 'date': '2017-09-06'}

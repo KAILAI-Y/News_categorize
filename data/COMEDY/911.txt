@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "This Man's Tweets Cryptically Pay Homage To A Smash Mouth Classic", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/this-mans-tweets-cryptically-paid-homage-to-a-smash-mouth-classic_us_595cddece4b0da2c732621fc', 'short_description': "Richard Cook is not lookin' kind of dumb, at all ...", 'date': '2017-07-05'}

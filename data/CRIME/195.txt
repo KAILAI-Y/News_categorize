@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Alleged Airplane Smoker Threatens To 'Kill Everybody On This F**king Plane'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/airplane-smoker-threat_us_5a2f7adfe4b078950283216e', 'short_description': 'The passenger claimed she needed to smoke for "the anxiety."', 'date': '2017-12-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Clinton Campaign Staffers Accuse Brazile Of Buying Into 'Russian Propaganda'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/open-letter-attack-onbrazile_us_59fe9cd1e4b0c9652fffc493', 'short_description': 'Officials "don\'t recognize the campaign Brazile portrays," says open letter.', 'date': '2017-11-05'}

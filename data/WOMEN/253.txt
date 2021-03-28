@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Jimmy Choo's 'Tone Deaf' Ad Goes Viral For All The Wrong Reasons", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-choo-ad-sexist_us_5a3cd44ae4b0b0e5a7a1499d', 'short_description': '"Nothing says \'buy me\' like harassment."', 'date': '2017-12-22'}

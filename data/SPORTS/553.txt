@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Here's What We Know About The U.S. Open Blimp Crash", 'authors': 'Carla Herreria and David Moye', 'link': 'https://www.huffingtonpost.com/entry/us-open-blimp-crash-question_us_5942f6c7e4b0f15cd5ba38c9', 'short_description': 'The pilot, who was wearing a fireproof suit, survived but has serious burns.', 'date': '2017-06-16'}

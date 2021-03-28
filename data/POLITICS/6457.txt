@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'John McCain Just Finished His First Round Of Chemo And Radiation Treatment', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/john-mccain-first-round-cancer-treatment_us_5998404ce4b0e8cc855dfc8e', 'short_description': '“His resilience & strength is incredible," his daughter tweeted.', 'date': '2017-08-19'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Here's How Whole Foods' New Prices Compare To A Regular Supermarket", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/whole-foods-new-prices_us_59a45783e4b05710aa5e128e', 'short_description': 'The findings might surprise you.', 'date': '2017-08-28'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Has A Not-So-Subtle Message For Donald Trump', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-hat-message-donald-trump_us_5a013c02e4b066c2c039d376', 'short_description': 'The "Late Night" host won\'t keep it under his hat.', 'date': '2017-11-07'}

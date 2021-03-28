@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here Are The Latest Photos From March For Our Lives', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/heres-the-latest-photos-from-march-for-our-lives_us_5ab653e7e4b0decad04a44e6', 'short_description': 'Thousands of young people across the country are speaking out.', 'date': '2018-03-24'}

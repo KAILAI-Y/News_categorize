@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Hundreds In Hollywood Protest Rampant Sexual Misconduct', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/hollywoof-metoo-protest_us_5a0890cbe4b05673aa59f797', 'short_description': 'Demonstrators took to the streets in the heart of the film industry.', 'date': '2017-11-12'}

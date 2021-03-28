@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "How To Avoid Disaster During This Week's Severe Cold Weather", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/how-to-prepare-winter-storm_us_5a4d3565e4b06d1621bcbc18', 'short_description': 'Winter is showing no mercy, and those in its path need to be prepared.', 'date': '2018-01-03'}

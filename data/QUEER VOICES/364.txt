@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'A Powerful Film Is Putting The Struggles Of A Genderfluid Teen Front And Center', 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/freakshow-james-st-james_us_5a6b6e9de4b0ddb658c62391', 'short_description': '"Freakshow" is now playing in select theaters.', 'date': '2018-01-26'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ryan Seacrest Will Work Red Carpet At Oscars Despite Sexual Misconduct Claims', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ryan-seacrest-oscars-red-carpet_us_5a959ddae4b0bef79e308054', 'short_description': 'The E! personality has denied the allegations of his former stylist.', 'date': '2018-02-27'}

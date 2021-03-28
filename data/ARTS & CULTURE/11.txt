@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Duncan Jones Finds A Literary Way To Remember His Father, David Bowie', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/david-bowie-duncan-jones-book-club_us_5a4b55b0e4b06d1621ba777c', 'short_description': '"My dad was a beast of a reader."', 'date': '2018-01-02'}

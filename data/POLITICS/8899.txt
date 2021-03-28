@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How Did This Happen?', 'authors': 'Jason Linkins', 'link': 'https://www.huffingtonpost.com/entry/chris-cillizza-why_us_592ee462e4b0540ffc8393b1', 'short_description': 'Chris Cillizza edition.', 'date': '2017-05-31'}

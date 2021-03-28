@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Bachelorette' Season 13 Episode 3: Here To Make Friends Podcast", 'authors': 'Claire Fallon, Emma Gray, and Nick Offenberg', 'link': 'https://www.huffingtonpost.com/entry/bachelorette-season-13-episode-3_us_5936e324e4b0cfcda9182718', 'short_description': 'Plus, shopping on horseback!', 'date': '2017-06-06'}

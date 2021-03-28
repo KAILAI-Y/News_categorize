@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chris Pratt Petting A Baby Dinosaur Is Too Cute For Words', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/chris-pratt-petting-jurassic-world-2_us_5a16ad4ee4b0d4906cad7a06', 'short_description': 'Awww!', 'date': '2017-11-23'}

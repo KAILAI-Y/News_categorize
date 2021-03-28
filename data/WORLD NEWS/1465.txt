@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Huge Fire Burns Dubai's Torch Tower, One Of The World's Tallest", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/dubai-torch-tower-fire_us_5983b103e4b08b75dcc61381', 'short_description': 'Authorities said the tower had been evacuated and no injuries were reported.', 'date': '2017-08-03'}

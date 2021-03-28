@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'That List Of 33,000 Migrants Who Have Died Is Just A Slice Of The Tragedy', 'authors': 'Sarah Ruiz-Grossman', 'link': 'https://www.huffingtonpost.com/entry/united-for-intercultural-action-list-migrants-died_us_5a0ced2be4b0c0b2f2f7afa2', 'short_description': "What's worse, we don’t even know most of their names.", 'date': '2017-11-17'}

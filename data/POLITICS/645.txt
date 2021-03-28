@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pruitt Met With Lobbyist Linked To His Bargain Condo To Discuss EPA Activity', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/pruitt-met-with-lobbyist-linked-to-condo_us_5add2d2de4b075b631e6f866', 'short_description': 'Lobbyist claimed he hadn\'t talked to EPA chief for "many months."', 'date': '2018-04-23'}

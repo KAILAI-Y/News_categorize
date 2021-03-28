@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'This Is Us' Is Finally Going To Tell Us How Jack Died", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/this-is-us-jack-death_us_5a68c6f5e4b002283008c64b', 'short_description': 'Prepare for an emotional breakdown in the post-Super Bowl episode.', 'date': '2018-01-24'}

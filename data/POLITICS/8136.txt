@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kellyanne Conway Defends Medicaid Cuts, Says Adults Can Always Find Jobs', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-defends-medicaid-cuts-says-adults-can-always-find-jobs_us_594fce98e4b05c37bb770cb7', 'short_description': 'Reality check: Most of them have jobs already.', 'date': '2017-06-25'}

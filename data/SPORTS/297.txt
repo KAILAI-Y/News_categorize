@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Several Eagles Players Already Planning To Skip White House\xa0Visit', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/eagles-white-house-protest_us_5a78000ce4b0905433b604f2', 'short_description': "At least three players say they won't go, if invited.", 'date': '2018-02-05'}

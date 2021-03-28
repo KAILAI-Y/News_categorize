@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Holy S***!': Man Films Massive Great White Thrashing In Shallow Water", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/baja-california-great-white-shark-shallow-water_us_593c7bb7e4b0b13f2c6b2144', 'short_description': 'The encounter left two men bloodied -- but not because of the shark.', 'date': '2017-06-11'}

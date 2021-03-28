@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP: Actually, There Are Lots Of Women In The White House, Like Our Wives', 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/gop-womens-history-trump-administration_us_5aa42a5ee4b086698a9e3446', 'short_description': 'Donald Trump loves women so much that he married three.', 'date': '2018-03-10'}

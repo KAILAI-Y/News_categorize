@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'The Best Places To Buy Plus-Size Jewelry On The Internet', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/plus-size-jewelry_us_5967bdb6e4b0174186261aae', 'short_description': "Yes, it exists. And yes, it's gorgeous.", 'date': '2017-07-13'}

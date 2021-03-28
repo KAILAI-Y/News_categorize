@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Grab Your Helmet: 'Double Dare' Is Coming Back To Nickelodeon", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/grab-your-helmet-double-dare-is-coming-back-to-nickelodeon_us_5ae0b6f6e4b055fd7fc73af6', 'short_description': 'BRING ON THE PHYSICAL CHALLENGE.', 'date': '2018-04-25'}

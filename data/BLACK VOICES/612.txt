@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Pepsi CEO: Kendall Jenner Ad 'Made Me Scratch My Head'", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/pepsi-ceo-kendall-jenner-ad-made-me-scratch-my-head_us_59c54695e4b01cc57ff2054a', 'short_description': 'Indra Nooyi thinks the ad should never have referenced Black Lives Matter.', 'date': '2017-09-22'}

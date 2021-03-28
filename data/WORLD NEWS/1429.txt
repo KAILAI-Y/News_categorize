@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "U.S. Sanctions Eight More Venezuelans, Including Hugo Chavez' Brother", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/us-venezuela-sanctions_us_598b4aabe4b0a66b8bb098cc', 'short_description': 'The Trump administration sanctioned Venezuelan President Maduro last week.', 'date': '2017-08-09'}

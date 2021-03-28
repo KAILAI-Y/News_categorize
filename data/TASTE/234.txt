@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Pig Farmers Are Struggling To Keep Up With America's Bacon Needs", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/bacon-shortage-high-prices_us_596e0c59e4b0e983c058fba2', 'short_description': "And we're paying for it.", 'date': '2017-07-18'}

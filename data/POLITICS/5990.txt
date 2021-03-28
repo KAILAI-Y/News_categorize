@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Pentagon Undecided On How DACA's End Might Impact Hundreds Who Signed Up To Serve", 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/daca-military-service_us_59b0883ce4b0dfaafcf54144', 'short_description': 'They wanted to serve the country they call home, but the president might not let them.', 'date': '2017-09-07'}

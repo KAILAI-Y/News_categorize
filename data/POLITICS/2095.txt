@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration Seems To Be Winging It On Food Stamp Replacement Boxes', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/trump-budget-food-stamp-boxes_us_5a84904ae4b0ab6daf45628b', 'short_description': 'The White House is not very serious about making food stamps like Blue Apron.', 'date': '2018-02-14'}

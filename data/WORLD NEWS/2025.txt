@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Australian Police Shoot Dead Gunman In Melbourne Hostage Taking', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/melbourne-hostage-shooting_us_593563fee4b02478cb9d4673', 'short_description': 'ISIS claimed responsibility for the confrontation.', 'date': '2017-06-05'}

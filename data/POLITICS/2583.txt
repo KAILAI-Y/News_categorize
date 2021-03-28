@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan Declines To Say If He'll Run For Another Term In Congress", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-re-election_us_5a64be86e4b002283003b540', 'short_description': '“I’m not gonna share my thinking with you before I even talk to my wife."', 'date': '2018-01-21'}

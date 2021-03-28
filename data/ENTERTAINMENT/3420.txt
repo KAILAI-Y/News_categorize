@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The 'Black Panther' Trailer Just Dropped With A Star-Studded Cast", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/black-panther-marvel-trailer_us_593b7894e4b0c5a35c9fc6f7', 'short_description': 'Welcome to Wakanda.', 'date': '2017-06-10'}

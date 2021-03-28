@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Mountain From 'Game Of Thrones' Just Deadlifted An Ungodly Amount", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/the-mountain-from-game-of-thrones-just-deadlifted-an-ungodly-amount_us_5aa149fbe4b0e9381c1637c4', 'short_description': 'Piece of cake.', 'date': '2018-03-08'}

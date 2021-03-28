@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Good Samaritans Rescue Fellow Citizens Amid Catastrophic Floods', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/citizen-rescues-floods-harvey_us_59a341d0e4b05710aa5d1aeb', 'short_description': 'Locals show incredible strength as they pull together in the wake of Hurricane Harvey.', 'date': '2017-08-28'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Airline Passenger Arrested After Allegedly Harassing Woman And Peeing On Seat', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/michael-allen-haag-peeing-on-flight_us_5b02f8c4e4b0a046186e8b87', 'short_description': 'Alcohol may have been involved.', 'date': '2018-05-21'}

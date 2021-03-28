@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Deferential' Kellyanne Conway Says Her Gender Helps With Donald Trump", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/conway-gender-with-trump_us_592b95bce4b0065b20b76359', 'short_description': '"He is my boss and my elder," says the president\'s counselor.', 'date': '2017-05-29'}

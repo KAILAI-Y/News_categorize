@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '26 Photos That Show The Natural Disasters Humanity Faced In 2017', 'authors': 'Chris McGonigal and Damon Dahlen', 'link': 'https://www.huffingtonpost.com/entry/photos-2017-natural-disasters_us_5a43d711e4b06d1621b68c90', 'short_description': 'Hurricanes, wildfires and floods wreaked havoc.', 'date': '2017-12-27'}

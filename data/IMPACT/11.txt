@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'When Your iPhone Reinforces Sexism', 'authors': 'Jessica Bateman, On Assignment For HuffPost', 'link': 'https://www.huffingtonpost.com/entry/iphone-siri-alexa-sexism_us_5ad9e671e4b03c426dadb2e8', 'short_description': 'Tech is created by humans, and it’s vulnerable to our biases and stereotypes.', 'date': '2018-05-07'}

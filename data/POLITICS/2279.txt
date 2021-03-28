@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '10 Common-Sense Suggestions For Making Peace, Not War', 'authors': 'TomDispatch, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/10-common-sense-suggestions-for-making-peace-not-war_us_5a7893dbe4b0cc4f18cd4767', 'short_description': 'Abandon the notion of perfect security.', 'date': '2018-02-05'}

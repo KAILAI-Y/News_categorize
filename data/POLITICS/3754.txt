@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Endorses Roy Moore For Senate', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-endorses-roy-moore_us_5a25399be4b03c44072ebdb1', 'short_description': 'Moore is accused of sexually harassing or assaulting several women, including some who were teenagers at the time.', 'date': '2017-12-04'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Awkwardly Kissed Hope Hicks Goodbye, And It Became A Hilarious New Meme', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/hope-hicks-donald-trump-white-house-left_us_5abddbf7e4b0f112dc9b3e99', 'short_description': '"All black outfit speaks volumes."', 'date': '2018-03-30'}

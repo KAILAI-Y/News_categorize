@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Terry Crews: 'Masculinity Can Be A Cult'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/terry-crews-masculinity-can-be-a-cult_us_5ad4cb42e4b0edca2cbc7b8e', 'short_description': 'The actor and activist said men often don\'t see women as "all the way human."', 'date': '2018-04-16'}

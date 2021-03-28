@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'I'm Devastated': Adele Cancels Final Tour Dates Due To Damaged Vocal Cords", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/adele-cancels-2017-tour-dates-damaged-vocal-cords_us_59570488e4b02734df328622', 'short_description': "This may be the singer's final tour ever.", 'date': '2017-07-01'}

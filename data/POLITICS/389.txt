@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "John McCain Now Wishes He'd Never Selected Sarah Palin As His 2008 Running Mate", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-mccain-sarah-palin-regret_us_5aefac46e4b041fd2d28155c', 'short_description': 'The Arizona senator says he ignored his gut on that one.', 'date': '2018-05-07'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What A Year This Month Has Been', 'authors': 'Ji Sub Jeong, Amanda Terkel, and Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/what-a-year-this-month-has-been-march_us_5abfe160e4b0a47437ab6df9', 'short_description': 'All of these things really happened in March 2018.', 'date': '2018-03-31'}

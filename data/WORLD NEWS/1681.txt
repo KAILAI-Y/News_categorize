@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Pope Francis Warns Of 'Dangerous' Alliance Between U.S. And Russia", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/pope-francis-hits-at-g20_us_59622772e4b02e9bdb0d3ad2', 'short_description': 'The two countries are among world powers that have a "distorted vision of the world," he said.', 'date': '2017-07-09'}

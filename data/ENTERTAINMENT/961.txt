@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The First Full Trailer For The 'Roseanne' Reboot Debuts During The Oscars", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/roseanne-reboot-trailer_us_5a9cdc4ee4b089ec353c0cb8', 'short_description': '“Why does everybody always think I’m dead?”', 'date': '2018-03-05'}

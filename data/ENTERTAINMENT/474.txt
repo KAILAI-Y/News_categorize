@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Claire Danes Is Done With 'Homeland'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/claire-danes-homeland_us_5ad868dfe4b029ebe0214e6e', 'short_description': 'The actress said Season 8 will be the last.', 'date': '2018-04-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Sanctions Chechen Leader Kadyrov', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/chechen-kadyrov-sanctions_us_5a3a9adfe4b025f99e13fad7', 'short_description': 'In addition, the U.S. Treasury is sanctioning four Russians under a U.S. law known as the Magnitsky Act.', 'date': '2017-12-20'}

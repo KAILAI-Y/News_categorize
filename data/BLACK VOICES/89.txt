@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Video Shows Virginia Cop Shoot And Wound A Fleeing Teenager', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/virginia-cop-shoots-teenager-video_us_5ae0af02e4b02baed1b594da', 'short_description': 'Eighteen-year-old Deontrace Ward, who is accused of burglary, says he was trying to get away.', 'date': '2018-04-25'}

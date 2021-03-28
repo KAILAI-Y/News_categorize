@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'DHS Staffer Leaves Sensitive Documents On Airplane, Only To Be Found By CNN Employee', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/dhs-classified-documents-airplane-cnn_us_5a785c09e4b06ee97af511a8', 'short_description': 'We are not making this up.', 'date': '2018-02-05'}

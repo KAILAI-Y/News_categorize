@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Megyn Kelly Tears Into Jane Fonda About Plastic Surgery, 'Hanoi Jane'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/megyn-kelly-jane-fonda-plastic-surgery_us_5a66018de4b0dc592a0ae56c', 'short_description': '"Honestly, she has no business lecturing anyone on what qualifies as offensive.”', 'date': '2018-01-22'}

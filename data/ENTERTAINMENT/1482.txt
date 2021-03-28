@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Anderson Cooper Tells Conan Haiti Is 'Among The Richest Countries I've Ever Been To'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/anderson-cooper-conan-haiti_us_5a61c96de4b074ce7a073ba0', 'short_description': "The CNN host offered a travel guide ahead of comedian Conan O'Brien's visit.", 'date': '2018-01-19'}

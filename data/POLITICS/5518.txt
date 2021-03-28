@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jimmy Kimmel Enjoys 'Emotional Weekend' After Likely Death Of Obamacare Repeal Bill", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-health-care-bill_us_59c9fc00e4b06ddf45faaeed', 'short_description': '"I still can’t believe we pulled it off, but we did. It’s amazing, isn’t it?"', 'date': '2017-09-26'}

@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'I Am A Hijabi Feminist', 'authors': 'Sidra Binte Islam, ContributorAn aspiring Journalist.', 'link': 'https://www.huffingtonpost.com/entry/i-am-a-hijabi-feminist_us_593c78b4e4b014ae8c69e11d', 'short_description': 'Hijab is a symbol of empowerment.', 'date': '2017-06-10'}

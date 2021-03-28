@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kathy Griffin's Social Media Accounts May Have Been Hacked", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/kathy-griffin-social-media-hack_us_59a1b88ee4b05710aa5c96a4', 'short_description': 'A cryptic message now says the comedian will be "exposed."', 'date': '2017-08-26'}

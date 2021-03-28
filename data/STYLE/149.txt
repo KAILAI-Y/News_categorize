@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Don't Freak Out If You're Shedding More Hair Than Usual Right Now", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/hair-loss-seasonal_us_59f8c230e4b0d1cf6e90f4d8', 'short_description': "You're not alone.", 'date': '2017-10-31'}

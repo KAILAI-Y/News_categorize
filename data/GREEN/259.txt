@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'NASA Astronauts Share Images Of Hurricane Harvey From Space', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/hurricane-harvey-photos-space_us_59a08158e4b05710aa5c3622', 'short_description': 'Scientists say the storm is "life-threatening."', 'date': '2017-08-25'}

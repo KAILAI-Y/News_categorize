@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Former Mexican President Vicente Fox Issues Stark Warning To U.S. Farmers About Trump', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/vicente-fox-donald-trump-farmers-warning_us_5ac75e64e4b07a3485e386bd', 'short_description': '"You better speak up, because this guy is taking you to nowhere."', 'date': '2018-04-06'}

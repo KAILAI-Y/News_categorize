@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kris Kobach Tells A Misleading Tale About Why He Was Held In Contempt', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/kris-kobach-contempt-blame_us_5ade2e25e4b0df502a4e8544', 'short_description': 'The Kansas secretary of state claimed the contempt finding by a federal judge was "ridiculous."', 'date': '2018-04-23'}

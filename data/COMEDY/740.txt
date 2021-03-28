@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Breaks Down Why Donald Trump’s Tweets May Be A Necessary Evil', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-golf-clinton-meme_us_59c0be61e4b087fdf50793e3', 'short_description': '"I feel like this is a trade that I can live with."', 'date': '2017-09-19'}

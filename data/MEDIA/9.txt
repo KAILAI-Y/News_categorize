@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Huge Congrats To Fox News On Getting Guest Journos To Peddle Bret Baier’s Book', 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/bret-baier-book-on-air-talent_us_5af9b2cae4b044dfffb49807', 'short_description': "Who's falling in line for Fox News?", 'date': '2018-05-14'}

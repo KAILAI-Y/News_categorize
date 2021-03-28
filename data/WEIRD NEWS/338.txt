@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Airplane's Terrifying Landing May Put You Off Flying For Good", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/scary-landing-airplane-dusseldorf-airport-germany_us_59d8a354e4b0f6eed350871c', 'short_description': 'Afraid of flying? Then it may be best to look away now.', 'date': '2017-10-07'}

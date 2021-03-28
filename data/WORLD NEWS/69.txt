@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '26-Story Building Demolished By Blaze In Sao Paulo, At Least 1 Dead', 'authors': 'Reuters Staff, Reuters', 'link': 'https://www.huffingtonpost.com/entry/abandoned-building-demolished-by-blaze-in-sao-paulo_us_5ae86cf2e4b02baed1be2290', 'short_description': 'The abandoned structure was occupied by around 150 squatters.', 'date': '2018-05-01'}

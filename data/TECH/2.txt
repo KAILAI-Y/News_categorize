@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Instagram Is Adding A 'Mute' Button For The Sake Of Your Sanity", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/instagram-is-introducing-a-mute-button-for-your-sanity_us_5b042c65e4b003dc7e469c3c', 'short_description': 'And no one will know when you use it.', 'date': '2018-05-22'}

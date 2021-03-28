@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Jordan Peele Wears Deer Pin In Tribute To Symbolism In 'Get Out' At Oscars", 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/jordan-peele-pin-get-out-oscars_us_5a9c999fe4b0479c0253db84', 'short_description': 'The social thriller and box office hit is up for four awards.', 'date': '2018-03-05'}

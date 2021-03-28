@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Eric Trump: 'The People Of This Country Love My Father'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/eric-trump-people-love-president_us_597fe10fe4b08e14300525d3', 'short_description': '"My father has the voice of this country."', 'date': '2017-08-01'}

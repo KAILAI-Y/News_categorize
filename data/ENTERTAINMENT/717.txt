@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Eagles Of Death Metal Singer Jesse Hughes Slams ‘Pathetic’ Teen Shooting Survivors', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jesse-hughes-shooting-survivors_us_5ab9c241e4b0decad04d4b91', 'short_description': 'The band survived the 2015 Paris terror attacks.', 'date': '2018-03-27'}

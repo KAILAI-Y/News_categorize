@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Late Show' Shoots Facebook's Upcoming Dating Service Down In Flames", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/late-show-facebook-first-date_us_5aeb03cee4b06748dc904753', 'short_description': 'Ouch.', 'date': '2018-05-03'}

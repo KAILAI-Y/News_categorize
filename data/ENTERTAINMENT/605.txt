@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tiffany Haddish Recalls The Time A Man Died Following Her 'Killer' Dance Moves", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tiffany-haddish-bar-mitzvah_us_5ac8a145e4b09d0a11942674', 'short_description': '"I felt like ‘this ass is deadly.\'"', 'date': '2018-04-07'}

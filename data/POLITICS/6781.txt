@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Says He's 'Doing The Military A Great Favor' By Banning Transgender Troops", 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/trump-transgender-troops_us_598cca51e4b08a2472734d5f', 'short_description': "But the Pentagon had no idea he was going to do this. Now it's a big mess.", 'date': '2017-08-10'}

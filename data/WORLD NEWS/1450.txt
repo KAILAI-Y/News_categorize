@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'British Model Freed After Being Kidnapped To Be Sold, Italian Police Say', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/british-model-auction-kidnap-dark-web_us_5986d8a7e4b0cb15b1bef9e8', 'short_description': 'The woman was to be auctioned on the dark web, according to authorities.', 'date': '2017-08-06'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'The History Of The National Anthem In Sports', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/history-national-anthem-sports_us_5afc9bcfe4b06a3fb50d5056', 'short_description': 'How "The Star-Spangled Banner" became a part of American sports culture.', 'date': '2018-05-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Phil Murphy Cruises To Victory In New Jersey Gubernatorial Race', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/new-jersey-phil-murphy_us_5a008c1be4b0baea2633975b', 'short_description': 'The Democrat easily defeated Republican Lt. Gov. Kim Guadagno.', 'date': '2017-11-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Near Deal On Tax Cut Bill', 'authors': 'Arthur Delaney, Igor Bobic, and Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/republicans-near-deal-on-tax-cut-bill_us_5a3197e8e4b091ca26851e25', 'short_description': 'Most of the details remain a secret.', 'date': '2017-12-13'}

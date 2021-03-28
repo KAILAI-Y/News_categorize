@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "This Guy's Tiny Re-Creation Of A '90s Video Store Is A Nostalgic Rewind", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/tiny-recreation-of-a-90s-video-store_us_5a6f7279e4b06e25326a8930', 'short_description': "If you're old enough, it's very familiar.", 'date': '2018-01-29'}

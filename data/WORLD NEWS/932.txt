@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Kenya Plunges Deeper Into Crisis Ahead Of Tomorrow's Vote", 'authors': 'George Obulutsa and Katharine Houreld, Reuters', 'link': 'https://www.huffingtonpost.com/entry/kenya-election-crisis_us_59f0a8b6e4b0e064db7e3793', 'short_description': 'Hundreds of supporters of opposition leader Odinga took to the streets.', 'date': '2017-10-25'}

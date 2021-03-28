@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Joe Arpaio's 'Concentration Camp' Is Finally Closed", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/joe-arpaio-tent-city-closed_us_59ddcdafe4b04fc4e1e9f01a', 'short_description': "There's a new sheriff in town.", 'date': '2017-10-11'}

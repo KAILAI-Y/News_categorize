@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Stealth Lobbying Campaign Blamed Elizabeth Warren For 'Socialist Plot' She Had Nothing To Do With", 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/elizabeth-warren-lobbying_us_59cd0d61e4b0e005cc572338', 'short_description': 'Lobbying in the age of negative partisanship.', 'date': '2017-09-28'}

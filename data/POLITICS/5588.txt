@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Claps Back At Trump 'Withdrawing' Steph Curry's White House Invite", 'authors': 'Samantha Tomaszewski', 'link': 'https://www.huffingtonpost.com/entry/twitter-trump-steph-curry_us_59c67ffce4b0cdc77331a234', 'short_description': '"You can\'t be uninvited to something you weren\'t going to anyway."', 'date': '2017-09-23'}

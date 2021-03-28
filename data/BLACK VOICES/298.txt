@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "LeBron James Says Trump Doesn't 'Give A F**k About The People'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/lebron-james-donald-trump_us_5a8617cee4b05c2bcac92cf6', 'short_description': '“It’s not even a surprise when he says something. It’s, like, laughable,” the NBA star says.', 'date': '2018-02-16'}

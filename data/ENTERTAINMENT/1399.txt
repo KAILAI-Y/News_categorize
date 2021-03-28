@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Take Our Money: Oprah, Reese Witherspoon, Mindy Kaling Are Now Barbies', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/wrinkle-time-barbies-oprah-reese-witherspoon-mindy-kaling_us_5a69dd31e4b0dc592a0fb5ae', 'short_description': 'Life in plastic has never been SO fantastic.', 'date': '2018-01-25'}

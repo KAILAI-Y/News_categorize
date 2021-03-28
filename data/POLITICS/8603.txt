@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Older, Poor Americans Face Huge Costs Under GOP Health Care Bill', 'authors': 'Jeffrey Young and Alissa Scheller', 'link': 'https://www.huffingtonpost.com/entry/poor-americans-health-care_us_59385f8de4b0c5a35c9b870e', 'short_description': 'The Republican bill hurts those who need the most help, a new report finds.', 'date': '2017-06-09'}

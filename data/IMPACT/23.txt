@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Scientists Accidentally Create A Plastic-Eating Enzyme', 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/enzyme-plastic-bottles-pollution_us_5ad5e364e4b0edca2cbde373', 'short_description': 'The discovery may be a breakthrough in tackling the plastic pollution crisis.', 'date': '2018-04-17'}

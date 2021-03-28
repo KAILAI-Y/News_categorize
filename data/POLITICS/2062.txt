@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Puts Focus On Mental Health In First Remarks After Florida School Shooting', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-florida-shooting_us_5a8594d1e4b0774f31d2be3e', 'short_description': 'He didn\'t use the word "gun" once.', 'date': '2018-02-15'}

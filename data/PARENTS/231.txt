@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "'Sesame Street' Characters Are Now Teaching Kids How To Cope With Trauma", 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/sesame-street-trauma_us_59db56b5e4b046f5ad996b2b', 'short_description': 'The video series was launched days after the Las Vegas massacre.', 'date': '2017-10-09'}

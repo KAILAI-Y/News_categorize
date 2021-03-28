@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher Gives 'A Christmas Carol' Glimpse At 'Scrooge' Donald Trump's Alternate Life", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-donald-trump-scrooge-christmas-carol_us_5a0fe8f6e4b0dd63b1aa8cc5', 'short_description': '"Is it too late to bring back the old Trump?"', 'date': '2017-11-18'}

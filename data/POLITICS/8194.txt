@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republican Sen. Dean Heller Says He Can't Support GOP Health Care Bill 'In This Form'", 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/dean-heller-health-care_us_594d6429e4b0da2c731b73fd', 'short_description': 'He cited cuts to Medicaid in his opposition.', 'date': '2017-06-23'}

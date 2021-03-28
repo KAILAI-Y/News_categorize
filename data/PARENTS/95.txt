@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Man Spends Black Friday Paying For $10K Worth Of Toys For Local Kids', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/secret-santa-toys-r-us_us_5a19a1f5e4b0d4906caf0e73', 'short_description': '“I love this community and I am trying to provide back to it,” he said.', 'date': '2017-11-25'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Watch This Guy Read 'The Night Before Christmas' As Every Celebrity", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/watch-this-guy-read-the-night-before-christmas-as-every-celebrity_us_5a382fd0e4b0860bf4aa64b7', 'short_description': 'OK, not every celebrity, but an impressive array.', 'date': '2017-12-18'}

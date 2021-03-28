@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Police Change Timeline Of Las Vegas Mass Shooting Again', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/las-vegas-shooting-timeline-revised-again_us_59e1883de4b0a52aca182e0a', 'short_description': 'Officials released a new timeline one day after MGM said their revised timeline was incorrect.', 'date': '2017-10-14'}

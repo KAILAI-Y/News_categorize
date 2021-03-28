@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The New Taylor Is Ellen DeGeneres In 'Look What You Made Me Do' Spoof", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/the-new-taylor-is-ellen-degeneres-in-look-what-you-made-me-do-spoof_us_59c53afae4b01cc57ff1e63f', 'short_description': "We weren't ready for it.", 'date': '2017-09-22'}

@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "Disney Reveals Opening Seasons For 'Star Wars' Theme Park Lands", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/disney-star-wars-land-opening-date_us_5b0503a7e4b0784cd2af8955', 'short_description': "Star Wars: Galaxy's Edge will open at Disneyland before Disney World.", 'date': '2018-05-23'}

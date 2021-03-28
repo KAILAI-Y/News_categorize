@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Maine Reports First Confirmed Case Of Measles In 20 Years', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/maine-measles_us_59534b40e4b02734df2e6b75', 'short_description': 'The vaccine-preventable disease can cause serious complications, including pneumonia and death.', 'date': '2017-06-28'}

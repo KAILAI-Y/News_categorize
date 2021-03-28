@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Report: LAPD Probe Into Hollywood Sex Crimes Balloons To Nearly 24 Cases', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/hollywood-lapd-sexcrimes-investigations_us_5a10d023e4b0e97dffedce56', 'short_description': 'And detectives are just getting started.', 'date': '2017-11-19'}

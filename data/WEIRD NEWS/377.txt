@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'PRO TIP: Conditioning Your Hair After A Nuclear Blast Is A Bad, Bad Idea', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/nuclear-blast-conditioner_us_598ccec4e4b08a2472735093', 'short_description': 'This is hair-raising news!', 'date': '2017-08-10'}

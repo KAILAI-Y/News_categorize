@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Actor Who Played Tinky Winky On 'Teletubbies' Dead At 52", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/simon-shelton-tinky-winky-teletubbies-dead_us_5a67b59ce4b0dc592a0da480', 'short_description': 'Simon Shelton was a ballet dancer and choreographer before he was cast on the show.', 'date': '2018-01-23'}

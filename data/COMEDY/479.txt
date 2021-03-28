@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Tom Hanks And Stephen Colbert Are Ready To Fight Over Christmas Tree Decorations', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/tom-hanks-stephen-colbert-christmas-tree_us_5a323c59e4b091ca2685726c', 'short_description': "Now here's an argument worth having.", 'date': '2017-12-14'}

@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Spend Winter Curled Up With Your Favorite On-Sale Movies And Shows', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/what-to-buy-during-amazons-digital-day-movies-tv-shows-on-sale_us_5a45173ae4b0b0e5a7a5337c', 'short_description': 'The sale starts Dec. 29.', 'date': '2017-12-28'}

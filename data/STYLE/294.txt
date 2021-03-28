@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Here Are National Lipstick Day Deals That Don't Involve Crazy Lines", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/national-lipstick-day-deals_us_597ca4b9e4b02a4ebb75c256', 'short_description': 'Pucker up!', 'date': '2017-07-29'}

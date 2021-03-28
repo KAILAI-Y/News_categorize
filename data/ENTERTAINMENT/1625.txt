@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Nicole Kidman Said The Sweetest Thing To Keith Urban In Her Golden Globes Speech', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/nicole-kidman-keith-urban-golden-globes_us_5a52be07e4b01e1a4b166c66', 'short_description': 'COUPLE. GOALS.', 'date': '2018-01-08'}

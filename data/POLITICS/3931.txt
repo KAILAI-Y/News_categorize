@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What If?', 'authors': 'Danny Sjursen, ContributorU.S. Army strategist and former history instructor at West Point', 'link': 'https://www.huffingtonpost.com/entry/what-if-afghanistan-iraq-september-11_us_5a1b6de7e4b064948075419c', 'short_description': 'An alternative strategy for 9/12/2001.', 'date': '2017-11-27'}

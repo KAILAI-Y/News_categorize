@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Stormy Daniels' Lawyer Photobombs Kellyanne Conway", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/avenatti-photobombs-kellyanne-conway_us_5ae55f92e4b04aa23f23b72a', 'short_description': "Michael Avenatti can't stay away from CNN's cameras at Saturday's gala in Washington.", 'date': '2018-04-29'}

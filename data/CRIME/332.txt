@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Two Baltimore Murders Break 72-Hour Ceasefire', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/baltimore-ceasefire-murders_us_59872a2de4b08b75dcc78ef1', 'short_description': 'The city had recorded a record 204 homicides for the first seven months of the year.', 'date': '2017-08-06'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "There's A Cheap And Effective Way To Reduce Gun Violence. Why Aren't More States Doing It?", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/urban-gun-violence-prevention_us_5ae35255e4b055fd7fcba726', 'short_description': 'And it has nothing to do with gun control.', 'date': '2018-05-04'}

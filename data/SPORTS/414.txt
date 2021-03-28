@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Cleveland Browns Reportedly Botch QB Trade Because Somebody Forgot To Call It In', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/cleveland-browns-trade-forgot-call-in_us_59f97ae6e4b00c6145e28ddd', 'short_description': 'They may have been celebrating a little too soon.', 'date': '2017-11-01'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Constituents Applaud GOP Sen. Jerry Moran For Opposing Current Health Care Bill', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/jerry-moran-kansas-heal-care-bill_us_595e7bede4b02e9bdb0b36b9', 'short_description': "The Kansan says he awaits the rewrite that's underway.", 'date': '2017-07-06'}

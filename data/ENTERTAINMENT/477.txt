@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Gwen Stefani Told A Really Embarrassing Story About Blake Shelton’s Ex', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/gwen-stefani-told-a-really-embarrassing-story-about-blake-sheltons-ex_us_5ad89e4de4b0e4d0715de873', 'short_description': 'It’s bananas. 🍌', 'date': '2018-04-19'}

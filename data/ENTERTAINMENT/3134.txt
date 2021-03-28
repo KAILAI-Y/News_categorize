@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Stranger Things' Season 2 Trailer Is An Eleven Out Of Ten", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/the-stranger-things-season-2-trailer_us_59705d7ae4b0aa14ea771b2c', 'short_description': 'Your day just got “stranger” in the best way.', 'date': '2017-07-22'}

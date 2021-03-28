@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Girl Singing Lullabies To Her Newly Adopted Puppy Will Melt Your Heart', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/girl-sings-lullaby-to-adopted-dog_us_59f45265e4b03cd20b81d273', 'short_description': '🐶🐶🐶', 'date': '2017-10-28'}

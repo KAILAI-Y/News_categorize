@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'CNN Host John King Schools Trump: Spelling Matters', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/john-king-donald-trump_us_5ab2a780e4b054d118df3cc1', 'short_description': '“That’s a ‘D’ or an ‘F’ if this were a spelling or grammar quiz,” King said.', 'date': '2018-03-21'}

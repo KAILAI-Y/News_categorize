@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Fox Is Serving Up A 'Bob's Burgers' Movie", 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/bobs-burgers-movie-fox_us_59d525a4e4b0cde45872861f', 'short_description': '“Just when I think I’m out, those cheeks pull me right back in.”', 'date': '2017-10-04'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'The President Of Stranger Things', 'authors': 'Marty Kaplan, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/the-president-of-stranger-things_us_5a00cd9fe4b085d72ae06c4d', 'short_description': "Why we just can't turn away from Trump.", 'date': '2017-11-06'}

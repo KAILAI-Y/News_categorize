@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Team USA's Openly Gay Athletes Aren't Backing Down From Feud With Vice President", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/adam-rippon-gus-kenworthy-pence-vp-olympics_us_5a7dc202e4b044b3821cbce0', 'short_description': '"Eat your heart out, Pence."', 'date': '2018-02-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The GOP Tax Bill Would (Accidentally) Help Renters', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/tax-bill-mortgage-interest_us_5a01c126e4b0368a4e8701ec', 'short_description': 'The measure favors the rich but it would also shift U.S. housing policy away from homeowners.', 'date': '2017-11-07'}

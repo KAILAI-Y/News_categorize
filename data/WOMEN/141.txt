@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Female Journalists Tweet #MoreThanABabe To Protest Radio Bracket Ranking Women', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/morethanababe-babe-bracket_us_5a85a61be4b0058d5566e531', 'short_description': '"Female meteorologists aren’t \'weather ladies.\' We are scientists."', 'date': '2018-02-15'}

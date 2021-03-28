@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Here's A Stunningly Spooky Way To Help One Queer Youth Group Bounce Back", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/festival-of-rainbows-arizona_us_59f3607be4b03cd20b8150a4', 'short_description': 'Devastated by fire, Arizona\'s One-n-Ten is hosting a "Festival of Rainbows."', 'date': '2017-10-27'}

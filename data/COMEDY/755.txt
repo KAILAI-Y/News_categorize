@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Conan' Answers The Dumbest Questions About iPhone X's Face ID", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/conan-answers-the-dumbest-questions-about-iphone-xs-face-id_us_59ba5a0ce4b02da0e13f6c9e', 'short_description': '"Does it work with the butt?"', 'date': '2017-09-14'}

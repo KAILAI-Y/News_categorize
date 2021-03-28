@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Defiant 'Dreamers' Call Out Trump: 'We Are Making America Great'", 'authors': 'Rebecca Shapiro and Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/defiant-dreamers-trump_us_59ad02abe4b0b5e530ff893f', 'short_description': "Young immigrants reminded the president of their role in the nation's success.", 'date': '2017-09-04'}

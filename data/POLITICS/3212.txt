@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Law Clerks Say Federal Judiciary Isn't Equipped To Handle Sexual Harassment", 'authors': 'Dana Liebelson, Jennifer Bendery, and Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/federal-court-clerk-sexual-harassment-judges_us_5a3acf5ae4b025f99e1449f8', 'short_description': 'They want "significant changes."', 'date': '2017-12-21'}

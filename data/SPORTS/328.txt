@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Eagles Player Fletcher Cox Claims He's Never Watched The Super Bowl", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/eagles-player-fletcher-cx-never-watched-super-bowl_us_5a6a29f6e4b06e253265aad9', 'short_description': '"I don\'t watch sports."', 'date': '2018-01-25'}

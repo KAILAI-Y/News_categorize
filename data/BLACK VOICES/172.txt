@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Civil Rights Icon Linda Brown Remembered On Twitter: 'Rest In Power'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/linda-brown-death-tributes_us_5ab9f841e4b054d118e65b09', 'short_description': '"Generations stand on your shoulders."', 'date': '2018-03-27'}

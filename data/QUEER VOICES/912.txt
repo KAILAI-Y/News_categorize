@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'Nurse Jackie' Star Haaz Sleiman Comes Out As Gay And A 'Total Bottom'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/haaz-sleiman-comes-out-gay_us_59a2c6d9e4b05710aa5ccfe0', 'short_description': 'The actor hopes his announcement will help combat anti-LGBTQ bigotry.', 'date': '2017-08-27'}

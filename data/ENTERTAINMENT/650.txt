@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift Stalker Gets 10 Years' Probation", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-stalker-gets-10-years-probation_us_5ac3528be4b09712fec41394', 'short_description': 'Frank Andrew Hoover threatened to "end all the Swifts."', 'date': '2018-04-03'}

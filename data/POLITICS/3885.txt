@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Dutch Embassy Feels Driven To Fact-Check Trump's Islamophobic Retweet", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/dutch-embassy-trump-tweet_us_5a1f1db0e4b0a8581e6798fe', 'short_description': 'Because "facts do matter."', 'date': '2017-11-29'}

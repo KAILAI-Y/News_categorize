@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'John Stamos Has No Mercy When Apparently Throwing Shade At Drake Bell', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/john-stamos-enters-the-drake-and-josh-feud_us_5960e741e4b0615b9e91d26a', 'short_description': 'The "Drake & Josh" feud reaches a new level.', 'date': '2017-07-08'}

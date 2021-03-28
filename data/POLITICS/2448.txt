@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Appropriations Chairman Rodney Frelinghuysen To Retire', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/rodney-frelinghuysen-retire_us_5a6f51c2e4b06e25326a404a', 'short_description': 'Another Republican calls it quits.', 'date': '2018-01-29'}

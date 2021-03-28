@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Is Now A Candidate In The World’s Craziest Election', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-italy-election_us_5a93c010e4b03b55731dae26', 'short_description': '“Incredibly, I am far from your worst option."', 'date': '2018-02-26'}

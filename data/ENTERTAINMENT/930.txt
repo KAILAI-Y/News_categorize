@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Why Constance Wu Doesn't Shy Away From Roles With Asian Accents", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/constance-wu-asian-accents_us_5a9ebf2fe4b0e9381c12ad95', 'short_description': '"There is nothing shameful," the "Crazy Rich Asians" star said.', 'date': '2018-03-06'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Did Eminem Actually Threaten President Trump?', 'authors': 'Joel A. Cohen, ContributorFounder, TalksOnLaw', 'link': 'https://www.huffingtonpost.com/entry/did-eminem-threaten-president-trump_us_59e674cfe4b0e60c4aa36603', 'short_description': '"That\'s an awfully hot coffee pot..."', 'date': '2017-10-17'}

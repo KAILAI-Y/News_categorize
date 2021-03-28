@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Nominee Once Said Transgender Children Show That 'Satan's Plan Is Working'", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-judge-transgender-satans-plan_us_59c36cade4b0c90504fb8f75', 'short_description': 'He also defended gay conversion therapy.', 'date': '2017-09-21'}

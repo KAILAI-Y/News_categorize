@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Officials Couldn't Believe How Botched Jared Kushner's Clearance Forms Were", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-security-clearance-mistakes_us_59e07426e4b04d1d5180bfae', 'short_description': 'His paperwork contained more than 100 errors and omissions.', 'date': '2017-10-13'}

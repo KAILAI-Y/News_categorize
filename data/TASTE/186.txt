@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Taco Bell Made A New Fried-Egg Taco Shell, The Latest In A Series Of 'Stunt Foods'", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/taco-bell-fried-egg-taco-shell_us_5995d7b3e4b01f6e801cda06', 'short_description': 'Will it be enough to get you in their door?', 'date': '2017-08-17'}

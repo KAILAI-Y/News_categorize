@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Listen Up, Monsters: Lady Gaga Is Getting A 2-Year Vegas Residency', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/lady-gaga-las-vegas-residency_us_5a39806de4b06d1621b0296a', 'short_description': '"I was made for this town."', 'date': '2017-12-19'}

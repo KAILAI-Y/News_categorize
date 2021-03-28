@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mel B Gets 'Revenge' By Stabbing Simon Cowell In 'AGT' Act", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/mel-b-gets-revenge-by-stabbing-simon-cowell-in-agt-act_us_59a67ffce4b00795c2a2b97c', 'short_description': '"I nearly got murdered on live TV."', 'date': '2017-08-30'}

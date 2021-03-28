@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Haunting Video Shows Sexual Abuse Trauma Isn't Limited By Gender", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/male-sexual-abuse-advocacy-video_us_5accf9fbe4b0e37659b148fa', 'short_description': 'The campaign aims to deconstruct the stigma that exists around men making assault claims.', 'date': '2018-04-10'}

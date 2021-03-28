@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "The Internet Hilariously Trolls Arcade Fire For Absurd Concert 'Dress Code'", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/arcade-fire-dress-code_us_59788f7ae4b0e201d579e386', 'short_description': 'The band itself even got in a few jabs.', 'date': '2017-07-26'}

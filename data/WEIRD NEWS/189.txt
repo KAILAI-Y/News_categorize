@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'You Better Fly A Drone Sober In New Jersey', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/drunk-droning-illegal-new-jersey_us_5a5d3906e4b03c41896844e0', 'short_description': 'Violators face up to six months in jail.', 'date': '2018-01-15'}

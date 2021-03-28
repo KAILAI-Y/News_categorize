@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sarah Sanders Gleeful That CNN Won't Be A Guest At White House Christmas Party", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/sarah-sanders-cnn-white-house-christmas-party_us_5a1e0287e4b0d724fed48333', 'short_description': '"Christmas comes early!" wrote the White House press secretary.', 'date': '2017-11-29'}

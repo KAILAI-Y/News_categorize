@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Erupt After Trump Blocks Rebuttal Memo', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/democrats-reaction-trump-blocks-memo_us_5a7e6451e4b0c6726e137b04', 'short_description': '"Clearly, he has something to hide," Minority Leader Nancy Pelosi says.', 'date': '2018-02-10'}

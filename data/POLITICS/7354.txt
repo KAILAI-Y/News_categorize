@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congratulations to White House Press Secretary Jared Kushner', 'authors': 'Jeffrey Young and Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/congratulations-to-white-house-press-secretary-jared-kushner_us_597263bbe4b09e5f6ccf559f', 'short_description': 'After solving the Mideast, this should be cakewalk.', 'date': '2017-07-21'}

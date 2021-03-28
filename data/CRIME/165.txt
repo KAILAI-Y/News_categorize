@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Couple Ordered To Pay Enslaved Nanny $121,000 After 2 Years Of Work', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/couple-ordered-to-pay-enslaved-nanny_us_5a5287e0e4b089e14dbbe76f', 'short_description': 'The Texas couple was additionally sentenced to seven months in jail for the abuse.', 'date': '2018-01-07'}

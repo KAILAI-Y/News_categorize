@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "We Now Know The 4 Teams Battling For College Football's National Title", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/we-now-know-the-4-teams-battling-for-college-footballs-national-title_us_5a244edee4b03c44072e4d80', 'short_description': 'As always, debate ensues.', 'date': '2017-12-03'}

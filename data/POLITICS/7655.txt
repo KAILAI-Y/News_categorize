@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Stare Down Failure On Health Care With No Real Plan B', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/republicans-health-care-no-plan-b_us_59669079e4b0a0c6f1e5b20d', 'short_description': "Another map won't help if you don't know where you're headed.", 'date': '2017-07-12'}

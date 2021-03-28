@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "If Trump Has White House 'Tapes,' They Could Be A Huge Deal, James Comey Says", 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/comey-trump-tapes_us_593988b7e4b0c5a35c9d4a88', 'short_description': "If any such tapes exist, it won't just be Comey's word versus Trump's.", 'date': '2017-06-08'}

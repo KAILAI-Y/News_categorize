@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "New 'Solo' Teaser Drops During The Super Bowl And It Looks Legit", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/new-star-wars-teaser-super-bowl-solo_us_5a779c71e4b0905433b587a8', 'short_description': 'Goosebumps.', 'date': '2018-02-05'}

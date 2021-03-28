@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Florida State Park Wants To Hook Some New Mermaids', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/weeki-wachee-mermaid-search_us_5a4576cbe4b025f99e1aa10b', 'short_description': "The first rule: Don't make waves.", 'date': '2017-12-29'}

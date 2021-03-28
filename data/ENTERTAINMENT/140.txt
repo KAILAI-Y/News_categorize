@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chris Pratt And Bryce Dallas Howard Really Need A Service Raptor On Their Flight', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/chris-pratt-bryce-dallas-howard-service-raptor_us_5afb8fc9e4b06a3fb50ba42f', 'short_description': "It's an emotional support dinosaur.", 'date': '2018-05-16'}

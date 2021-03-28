@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Fire At South Korean Hospital Claims Dozens Of Lives', 'authors': 'Christine Kim, Reuters', 'link': 'https://www.huffingtonpost.com/entry/south-korea-hospital-fire_us_5a6a98c6e4b0ddb658c50f7f', 'short_description': 'Many patients “walked though fire and smoke” to escape the blaze.', 'date': '2018-01-26'}

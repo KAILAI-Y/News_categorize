@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "One Tiny Detail In 'Stranger Things 2' Will Melt Your Heart", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/stranger-things-2-hopper-daddy-daughter-bracelet_us_59f8a42ae4b00c6145e1dd2d', 'short_description': 'Aw.', 'date': '2017-11-01'}

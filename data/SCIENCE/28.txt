@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': "'Screaming Mummy' Mystery May Have Finally Been Solved", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/screaming-mummy-egypt_us_5a825e19e4b00ecc923d7241', 'short_description': 'Who was he and why was he screaming?', 'date': '2018-02-14'}

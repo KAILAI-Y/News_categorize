@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Daily Show' Gives Melania Trump's Christmas Video A Terrifying Twist", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/melania-trump-trevor-noah-christmas-ad_us_5a1e623ae4b0cb0e917c6ca9', 'short_description': "It's guaranteed not to get you into the festive spirit.", 'date': '2017-11-29'}

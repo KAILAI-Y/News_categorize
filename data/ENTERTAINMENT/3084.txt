@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Transparent' Season 4 Trailer Drops With A Message For Trump", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/transparent-trailer-trump_us_597b598be4b02a4ebb7528f4', 'short_description': '"At ‘Transparent’ we believe in the integrity of the trans community, which we know firsthand."', 'date': '2017-07-28'}

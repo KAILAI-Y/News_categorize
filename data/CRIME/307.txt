@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Pregnant Employee Allegedly Kicked During Brawl At Texas Popeyes', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/popeyes-brawl-san-marcos_us_59b2cd4ee4b0354e4411c75c', 'short_description': '“If you see someone is pregnant, you’re not going to hit them. I don’t get that," the store owner said.', 'date': '2017-09-08'}

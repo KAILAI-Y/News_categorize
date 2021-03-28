@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sarah Sanders: It 'Bothers Me' Being Called A Liar", 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/sarah-sanders-false-information_us_5b059328e4b0784cd2b0afcb', 'short_description': 'Except the White House press secretary gives false and misleading information all the time.', 'date': '2018-05-23'}

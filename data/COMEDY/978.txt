@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Broad City' Season 4 Trailer Is Here With A 'F**k You, Trump' Moment", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/broad-city-season-4-trailer-is-here-with-a-f-you-trump-moment_us_59350921e4b075bff0f4c2a4', 'short_description': 'So much happens in these 98 seconds.', 'date': '2017-06-05'}

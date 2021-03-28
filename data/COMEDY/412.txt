@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'People Of Twitter Accurately Describe 2018 Thus Far With Song Lyrics', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-describes-2018-thus-far-with-song-lyrics_us_5a5912d3e4b04f3c55a26d16', 'short_description': '🎵 "I wanna be sedated." 🎵', 'date': '2018-01-12'}

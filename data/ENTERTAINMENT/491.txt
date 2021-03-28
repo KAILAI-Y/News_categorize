@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Evan Rachel Wood Is Finally Getting Paid As Much As Her Male 'Westworld' Costars", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/evan-rachel-wood-equal-pay-westworld_us_5ad78122e4b029ebe02072cb', 'short_description': 'Dolores is getting an upgrade.', 'date': '2018-04-18'}

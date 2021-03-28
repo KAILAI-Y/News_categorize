@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jenna Fischer Says She Hasn't Been Approached About 'The Office' Revival", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/jenna-fischer-the-office-revival_us_5a53e6dae4b0efe47ebbe718', 'short_description': "But the actress said she'd be open to returning as Pam.", 'date': '2018-01-08'}

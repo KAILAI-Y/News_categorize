@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Mocks Giuliani's Bonkers Fox News Interview: 'Rudy, You're Not Helping!'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-rudy-giuliani_us_5aebb53de4b0c4f193209028', 'short_description': 'Today\'s "Stormy Watch" finds Hurricane Rudy "making landfall on Fox News."', 'date': '2018-05-04'}

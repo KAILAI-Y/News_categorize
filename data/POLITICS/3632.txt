@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congress Passes Stopgap Spending Bill To Avert Government Shutdown', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/stopgap-spending-bill-averts-government-shutdown-congress_us_5a29bddfe4b069ec48abfd75', 'short_description': 'Strap on your can-kicking shoes.', 'date': '2017-12-07'}

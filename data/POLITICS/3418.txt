@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Haunting PSA From Sandy Hook Families Predicts 'Tomorrow's School Shooting'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/sandy-hook-psa-warning-shooting_us_5a314fa6e4b01bdd76593c6f', 'short_description': 'Knowing the warning signs of someone at risk can help prevent shootings.', 'date': '2017-12-13'}

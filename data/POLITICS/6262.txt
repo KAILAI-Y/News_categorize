@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Tyrannical Pardon Of Arpaio', 'authors': 'Juan Cartagena, ContributorPresident and General Counsel, LatinoJustice PRLDEF', 'link': 'https://www.huffingtonpost.com/entry/the-tyrannical-pardon-of-arpaio_us_59a2e68ee4b0d0ef9f1c14f0', 'short_description': 'This abuse of executive power must stop.', 'date': '2017-08-27'}

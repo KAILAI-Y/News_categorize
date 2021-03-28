@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Shoots Down Pro-Assad Regime Drone In Syria', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/us-drone-syria-jet_us_59492b48e4b0cddbb0098b51', 'short_description': "It's the latest evidence the U.S. is expanding its use of force in Syria's war.", 'date': '2017-06-20'}

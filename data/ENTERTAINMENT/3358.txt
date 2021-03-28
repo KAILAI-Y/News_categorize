@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Pretty Little Liars' Is Almost Over, But A Spinoff Could Be In The Works", 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/pretty-little-liars-spinoff-may-be-happening_us_5947ec0be4b01eab7a2f5f3e', 'short_description': 'Fingers crossed!', 'date': '2017-06-19'}

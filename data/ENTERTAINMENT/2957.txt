@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tony Award Winner Ben Platt Is Guest Starring On New Season Of 'Will & Grace'", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/ben-platt-will-and-grace_us_598cc989e4b08a2472734cad', 'short_description': "Will he make the '90s sitcom relevant again? We do not know!", 'date': '2017-08-10'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Looks Like Anthony Scaramucci Used 'Game Of Thrones' To Bash Trump", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/anthony-scaramucci-subtweet-trump-game-of-thrones-jon-snow-lying_us_59a56af0e4b0446b3b866ea6', 'short_description': 'And it’s a pretty solid burn.', 'date': '2017-08-29'}

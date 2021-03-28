@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers: The GOP Tax Bill Is A ‘Brazen Heist Of The Country’', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-gop-tax-donald-trump_us_5a3b6ba4e4b06d1621b1c99d', 'short_description': 'It "will overwhelmingly benefit corporations and the wealthy," said Meyers.', 'date': '2017-12-21'}

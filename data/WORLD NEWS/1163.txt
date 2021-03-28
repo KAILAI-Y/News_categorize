@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Photo Of Rohingya Woman Mourning Her Dead Infant Underscores Worsening Crisis', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/rohingya-mother-dead-infant_us_59bf7f27e4b0edff971d3b4f', 'short_description': 'The family was forced to flee from Myanmar to Bangladesh amid ongoing violence.', 'date': '2017-09-18'}

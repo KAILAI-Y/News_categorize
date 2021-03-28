@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Los Angeles Agrees To Host 2028 Summer Olympics', 'authors': 'Travis Waldron', 'link': 'https://www.huffingtonpost.com/entry/los-angeles-2028-summer-olympics_us_597f636de4b0da64e87ae939', 'short_description': 'Paris will host the 2024 Olympics.', 'date': '2017-07-31'}

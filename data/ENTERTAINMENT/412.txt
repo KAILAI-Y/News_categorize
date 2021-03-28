@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'American Idol' Judges Make 'Executive Decision' To Send Drag Queen Ada Vox To Top 10", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/american-idol-drag-queen-ada-vox_us_5adf02f9e4b0df502a4f2e60', 'short_description': '"We stand for truth and justice," panelist Katy Perry said.', 'date': '2018-04-24'}

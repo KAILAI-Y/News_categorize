@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Shepard Smith Dings Trump's Gun Control Turnaround At NRA Convention", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/shep-smith-slams-trump-at-nra-convention_us_5aecd86ee4b041fd2d26b9c7', 'short_description': 'So much for gun control after Parkland.', 'date': '2018-05-05'}

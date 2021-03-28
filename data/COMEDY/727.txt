@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Celebrities Read Mean Tweets About Themselves, Including From Donald Trump', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-mean-tweets-donald-trump_us_59ca22b0e4b01cc57ff52713', 'short_description': '"Sad!"', 'date': '2017-09-26'}

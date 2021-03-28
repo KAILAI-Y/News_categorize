@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'At Least 26 Dead In Shooting At Texas Baptist Church', 'authors': 'Roque Planas, Paige Lavender, and Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/shooting-texas-at-church_us_59ff60cae4b0c96530003531', 'short_description': "The victims' ages ranged from 18 months to 77 years old.", 'date': '2017-11-05'}

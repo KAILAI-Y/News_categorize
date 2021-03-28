@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chris Christie Slammed Over Beach Debacle By His Own Running Mate', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/kim-guadagno-chris-christie_us_595a61dde4b05c37bb7fa673', 'short_description': 'Ouch.', 'date': '2017-07-03'}

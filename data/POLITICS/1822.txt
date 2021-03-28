@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Bernie Sanders' Son Levi Is Running For Congress", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/levi-sanders-running-for-congress_us_5a94e7fde4b01f65f599aa41', 'short_description': 'Like his pop, he says he\'s fighting for working class "beaten up by the system."', 'date': '2018-02-27'}

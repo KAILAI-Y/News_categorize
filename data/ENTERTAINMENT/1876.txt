@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kirk Douglas Rings In 101st Birthday With Son Michael And Famous Family', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kirk-douglas-101st-birthday_us_5a301e6be4b046175433f3fd', 'short_description': 'The birthday bash paid tribute to his legendary film career.', 'date': '2017-12-12'}

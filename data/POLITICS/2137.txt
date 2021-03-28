@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Says Israeli Settlements Complicate Peace Process', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-israel-settlements-peace_us_5a8162efe4b08dfc9305c111', 'short_description': "He isn't so sure they're committed to seeking a solution with the Palestinians.", 'date': '2018-02-12'}

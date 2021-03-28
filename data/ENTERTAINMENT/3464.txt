@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Accused By Dozens, Bill Cosby Heads To Trial Over Single Incident', 'authors': 'Michael McLaughlin', 'link': 'https://www.huffingtonpost.com/entry/bill-cosby-trial-pennsylvania_us_592efe54e4b0e09b11eced16', 'short_description': "Here's what you need to know about the fallen sitcom star's trial.", 'date': '2017-06-04'}

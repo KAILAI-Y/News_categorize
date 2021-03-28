@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Obama’s Official Portrait Is Already The Best New Meme Of The Year', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/obama-portrait-meme_us_5a827b09e4b00ecc923d86d7', 'short_description': "Here's the digital makeover you've been waiting for.", 'date': '2018-02-13'}

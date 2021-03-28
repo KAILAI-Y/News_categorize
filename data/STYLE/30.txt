@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '15 Nail Art Videos That Are Ridiculously Mesmerizing', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/nail-art-videos_us_5a4bec83e4b025f99e1e26d7', 'short_description': '#Nailporn at its finest.', 'date': '2018-01-03'}

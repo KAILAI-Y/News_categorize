@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'People Are Very Impressed With This Stag Beetle Who Creates Art', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/spike-stag-beetle-art_us_59614da9e4b0d5b458eade4b', 'short_description': 'Spike has the soul of an artist.', 'date': '2017-07-08'}

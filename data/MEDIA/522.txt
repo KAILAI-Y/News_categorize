@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Twitter Users School Infowars Editor Over Claim That 'Orwell Rolls In His Grave' At Antifa", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/infowars-editor-gets-owned-by-historian_us_59aa6035e4b0b5e530fee6c8', 'short_description': '"Read a f****n\' book."', 'date': '2017-09-02'}

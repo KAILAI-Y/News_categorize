@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Strategist: Nonsensical Trump Talking Like A 'Drunk Guy In Queens'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-talks-like-drunk-guy_us_5ac6bfc6e4b09d0a1191ccae', 'short_description': '"This is a tragedy," Steve Schmidt says on MSNBC.', 'date': '2018-04-06'}

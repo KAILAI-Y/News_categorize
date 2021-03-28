@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Environmental Groups Sue White House After Trump Takes Axe To National Monuments', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/environmental-groups-sue-trump_us_5a263011e4b07324e8402ab7', 'short_description': '“President Trump has perpetrated a terrible violation of America’s public lands."', 'date': '2017-12-05'}

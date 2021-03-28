@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'British Man Still Using Christmas Lights Purchased 48 Years Ago', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ross-shaddick-oldest-christmas-lights-britain_us_5a302e2ee4b01bdd7657db6c', 'short_description': "He says he's yet to change a bulb.", 'date': '2017-12-12'}

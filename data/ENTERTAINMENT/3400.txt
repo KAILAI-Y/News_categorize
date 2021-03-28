@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Justin Bieber Dodges Water Bottle Attack After Refusing To Sing ‘Despacito’', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/justin-bieber-despacito-water-bottle_us_59413171e4b09ad4fbe483ca', 'short_description': '"I don\'t even know it."', 'date': '2017-06-14'}

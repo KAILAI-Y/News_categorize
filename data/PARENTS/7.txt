@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Expert Predicts Baby Name For Kim And Kanye's New Daughter", 'authors': 'Pamela Redmond Satran, Nameberry', 'link': 'https://www.huffingtonpost.com/entry/expert-predicts-baby-name-for-kim-and-kanyes-new-daughter_us_5a5f8771e4b0ccf9f120ce83', 'short_description': 'Nameberry weighs in.', 'date': '2018-01-17'}

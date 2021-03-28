@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Adam West, 'Batman' Star, Dead At 88", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/adam-west-dead-dies_us_575eeb0ae4b0e4fe51431acc', 'short_description': 'The star of the iconic 1960s TV show had leukemia.', 'date': '2017-06-10'}

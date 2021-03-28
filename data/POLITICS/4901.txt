@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Our President, Cruella De Vil', 'authors': 'Barbra Streisand, ContributorSinger, actress, director, producer, writer, activist', 'link': 'https://www.huffingtonpost.com/entry/trump-cruella-de-vil_us_59e8d7f6e4b0aa3f77dc5e78', 'short_description': 'What happened to make Donald Trump so reflexively cruel?', 'date': '2017-10-19'}

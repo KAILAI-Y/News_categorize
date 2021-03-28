@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "If You Want A Unique Horror Recommendation, Watch The 'Creep' Movies", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/creep-movie-review_us_59ef3b07e4b0d14acdcc7735', 'short_description': 'Mark Duplass twists the tired found-footage genre with clever results.', 'date': '2017-10-26'}

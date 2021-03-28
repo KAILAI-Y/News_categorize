@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '13 Years After Screaming Her Name, Steve Carell Met Kelly Clarkson', 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/steve-carell-kelly-clarkson-golden-globes_us_5a539a9ce4b0efe47ebb3ae6', 'short_description': 'But how did he explain that on-screen shout?', 'date': '2018-01-08'}

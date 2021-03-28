@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taraji P. Henson And Kelvin Hayden Get Engaged On Mother's Day", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/taraji-p-henson-kelvin-hayden-engaged-mothers-day_us_5af9adbde4b09a94524ab107', 'short_description': 'The “Empire” star’s NFL boo took a knee and popped the question. 💕', 'date': '2018-05-14'}

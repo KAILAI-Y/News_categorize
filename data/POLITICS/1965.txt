@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Congresswoman Claims Many Mass Shooters 'End Up Being Democrats'", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/mass-shooters-democrats-claudia-tenney_us_5a8ddf95e4b0617d46396e55', 'short_description': '"But the media doesn’t talk about that," Rep. Claudia Tenney said.', 'date': '2018-02-21'}

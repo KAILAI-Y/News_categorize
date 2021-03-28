@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'Queer Eye' Star Bobby Berk Gave Me A Desk Makeover -- And It Was Incredible", 'authors': 'Gibson Johns, AOL.com', 'link': 'https://www.huffingtonpost.com/entry/queer-eye-star-bobby-berk-gave-me-a-desk-makeover-and-it-was-incredible_us_5b082625e4b0568a880af417', 'short_description': 'Can you believe?', 'date': '2018-05-25'}

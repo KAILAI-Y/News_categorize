@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'What To Watch On Amazon Prime That’s New This Week', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/amazon-prime-what-to-watch_us_5af45a6de4b04d3b2c914827', 'short_description': 'The one movie worth seeing stars Salma Hayek.', 'date': '2018-05-12'}

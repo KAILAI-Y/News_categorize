@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Game Of Thrones' Star Offers Support For Creepy Lady Stoneheart Theory", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-star-offers-support-for-creepy-lady-stoneheart-theory_us_5995d107e4b0e8cc855be5e3', 'short_description': 'Actor Joe Dempsie has a stoneheart of gold.', 'date': '2017-08-19'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'News Roundup For October 6, 2017', 'authors': 'Outspeak', 'link': 'https://www.huffingtonpost.com/entry/news-roundup-for-october-6-2017_us_59d7b0ece4b046f5ad97ef94', 'short_description': '1. A bombshell New York Times report detailed over three decades-worth of sexual harassment allegations and settled lawsuits', 'date': '2017-10-06'}

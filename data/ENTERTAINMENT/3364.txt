@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Celebrities Share The Sweetest Dad Tributes For Father's Day", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/celebrities-dad-tributes-fathers-day_us_59469bcae4b01eab7a2e6a24', 'short_description': '“You’re our hero and we love you so so so much.”', 'date': '2017-06-18'}

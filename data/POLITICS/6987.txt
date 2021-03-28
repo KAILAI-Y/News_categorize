@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Kellyanne Conway Wonders Why GOP Can't Do 'Simple Things' Like Defeat ISIS And Replace Obamacare", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-republicans-isis-obamacare_us_5981f0b9e4b02b36343f8607', 'short_description': 'How complicated can these things really be?', 'date': '2017-08-02'}

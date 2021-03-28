@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift's Mom Says Groping Incident 'Shattered Our Trust'", 'authors': 'Keith Coffman and Jann Tracey, Reuters', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-mom-andrea-groping_us_598c4e0fe4b0449ed5082960', 'short_description': '“He sexually assaulted my daughter, right there, that guy."', 'date': '2017-08-10'}

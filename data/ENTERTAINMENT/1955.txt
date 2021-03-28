@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Lin-Manuel Miranda And Vanessa Nadal Expecting Their Second Child', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/lin-manuel-miranda-second-child_us_5a24d856e4b0a02abe920ea9', 'short_description': 'Congrats to the growing family!', 'date': '2017-12-04'}

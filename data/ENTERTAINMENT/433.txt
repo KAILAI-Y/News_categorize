@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Crazy Rich Asians' Trailer Is Already A Magnificent Masterpiece", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/crazy-rich-asians-trailer_us_5addf3b9e4b036e7aeb4e38c', 'short_description': "We can't wait for the movie to be released in August.", 'date': '2018-04-23'}

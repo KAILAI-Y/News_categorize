@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Childish Gambino's 'This Is America' Hits No. 1 Spot In First Week", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/childish-gambino-this-is-america-number-one_us_5af9eab9e4b044dfffb4fa9d', 'short_description': "Just a week after its release, it's already his biggest hit ever.", 'date': '2018-05-14'}

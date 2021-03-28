@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How GOP Senators Question James Comey Could Make Or Break Their Reputation', 'authors': 'Laura Barrón-López', 'link': 'https://www.huffingtonpost.com/entry/gop-senators-james-comey-questions_us_593832b5e4b00610547e7c1e', 'short_description': 'Pressure is mounting for Republicans to stand up to Trump.', 'date': '2017-06-07'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Oliver Calls Out 'Horribly Racist' Trump, Then Catches Him In A Huge Lie", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-impeach-trump_us_59d1c7d6e4b06791bb11716b', 'short_description': '"We got him!"', 'date': '2017-10-02'}

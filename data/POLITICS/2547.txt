@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Former Felon Sheds Tears Of Joy As Effort To Restore Voting Rights Advances In Florida', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/florida-former-felon-voting-rights_us_5a678493e4b0022830075f7f', 'short_description': '“No one thought we would get here, but we’re here," Desmond Meade said.', 'date': '2018-01-23'}

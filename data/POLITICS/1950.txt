@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New Sealed Charges Brought In Case Against Paul Manafort, Rick Gates', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/paul-manafort-special-counsel_us_5a8dcf9ee4b03414379ceb8e', 'short_description': 'The charges are part of the criminal case brought by Special Counsel Robert Mueller.', 'date': '2018-02-21'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Budget Deal Lifts Ban On Federal Research Of Gun Violence', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/dickey-amendment-budget-deal_us_5ab2c67fe4b008c9e5f3cbfe', 'short_description': 'Gun rights advocates have for years opposed focusing on firearms as a public health issue.', 'date': '2018-03-22'}

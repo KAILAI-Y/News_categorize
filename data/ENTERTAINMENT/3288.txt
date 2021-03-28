@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Maria Menounos Stepping Down From 'E! News' After Brain Tumor Surgery", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/maria-menounos-brain-tumor_us_595a3c49e4b02734df336f41', 'short_description': 'Menounos said doctors were able to remove 99 percent of the benign growth.', 'date': '2017-07-03'}

@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "'It’s About Taking Back What’s Ours': Native Women Reclaim Land, Plot By Plot", 'authors': 'Julian Brave NoiseCat', 'link': 'https://www.huffingtonpost.com/entry/native-women-oakland-land_us_5ab0f175e4b0e862383b503c', 'short_description': 'Fighting against colonization and now gentrification in the Bay Area.', 'date': '2018-03-22'}

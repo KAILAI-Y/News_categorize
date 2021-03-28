@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Donald Trump Is A 'Dangerous Clown' On The New Yorker’s New Cover", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/new-yorker-dangerous-clown-donald-trump_us_59eef405e4b07cf8380c21b6', 'short_description': '"He’s already a cartoon villain, infantile and strange."', 'date': '2017-10-24'}

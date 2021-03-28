@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Russia To Expel U.S. Diplomats, Shut Down Consulate In 'Reciprocal' Action", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/russia-expels-us-diplomats_us_5abd22c5e4b04a59a3159f1e', 'short_description': "The move is a response to the U.S.'s expulsion of 60 Russian diplomats.", 'date': '2018-03-29'}

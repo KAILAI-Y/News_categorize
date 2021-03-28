@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Mom And Dad Take Hilariously Relatable Back-To-School Photos', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/mom-and-dad-take-hilariously-relatable-back-to-school-photos_us_599609e7e4b0e8cc855c76dd', 'short_description': "Parents are loving this family's annual tradition.", 'date': '2017-08-18'}

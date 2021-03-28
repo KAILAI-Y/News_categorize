@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': "The Total Solar Eclipse Is Finally Here And The Photos Don't Disappoint", 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/solar-eclipse-photos_us_599afc5ae4b01f6e801ff252', 'short_description': 'Worth the hype.', 'date': '2017-08-21'}

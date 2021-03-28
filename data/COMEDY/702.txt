@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Twitter Goes To 11 With #TrumpIQSongs', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-explores-trumpiqsongs-but-these-probably-wont-go-to-11_us_59dd2b50e4b0b26332e776a0', 'short_description': '"99 Problems (And Not A Right Answer On One)."', 'date': '2017-10-10'}

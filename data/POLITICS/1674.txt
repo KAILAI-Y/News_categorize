@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Reportedly Broke Another Promise, This Time To Australia', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/trump-australia-steel-tariffs_us_5a9e08fee4b0a0ba4ad72cd2', 'short_description': 'The agreement reportedly occurred during the G20 meeting in Germany last July.', 'date': '2018-03-06'}

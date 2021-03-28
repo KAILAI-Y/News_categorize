@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The White House Still Won’t Say If Trump Believes In Climate Change', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/does-donald-trump-believe-climate-change_us_5931aca0e4b02478cb9b2f13', 'short_description': 'The tweets speak for themselves.', 'date': '2017-06-02'}

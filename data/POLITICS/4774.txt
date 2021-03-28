@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Some Republicans Say They Could Live With The 'Death Tax'", 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/tax-reform-estate-tax_us_59f0b291e4b0d094a5b68c4c', 'short_description': 'President Donald Trump, though, has been adamant about ending it.', 'date': '2017-10-25'}

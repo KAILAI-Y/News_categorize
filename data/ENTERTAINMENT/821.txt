@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Weird Al' Yankovic Just Made History In The Weirdest Way Possible", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/weird-al-hamilton-polka-billboard_us_5aab475ee4b05b2217fd8f62', 'short_description': 'This is definitely not a lame claim to fame.', 'date': '2018-03-16'}

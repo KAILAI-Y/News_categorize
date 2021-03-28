@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Says He’s Filing A Federal Complaint Against The Trumps', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-trump-buy-american_us_5aa9f736e4b0600b830004f6', 'short_description': '"Are they even capable of shame?"', 'date': '2018-03-15'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Unloads On Gun Owners' Stupid Accidents", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-gun-fails_us_5ad99a6ce4b029ebe022be36', 'short_description': 'Introducing... "A Series of Gunfortunate Events."', 'date': '2018-04-20'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Bill Maher Jokes About What Donald Trump Will Really Be Doing On His Asia Trip', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-donald-trump-asia-trip_us_59fd6c50e4b0c9652fff7b59', 'short_description': '“China is the big one, he wants to study their wall," he joked.', 'date': '2017-11-04'}

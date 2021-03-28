@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ryan Seacrest Is Officially Returning To Host ABC's 'American Idol' Reboot", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/ryan-seacrest-american-idol-return_us_5970b2b3e4b062ea5f900cf3', 'short_description': 'Seriously, though, when does this man sleep?', 'date': '2017-07-20'}

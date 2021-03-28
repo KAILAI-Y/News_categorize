@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'West Bank Street Art Mural Trolls Donald Trump Over Mexico Border Wall', 'authors': 'Dan Williams, Reuters', 'link': 'https://www.huffingtonpost.com/entry/street-art-donald-trump-west-bank_us_598594d2e4b041356ebff280', 'short_description': '“I’m going to build you a brother."', 'date': '2017-08-05'}

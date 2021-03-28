@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Amnesty Accuses Shell Of Complicity In Killings, Torture In Nigeria In The 1990s', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/amnesty-shell-nigeria_us_5a1db128e4b06a14100a940a', 'short_description': 'The human rights group is calling for a criminal investigation of the oil giant.', 'date': '2017-11-28'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Chloe Kim Takes Gold For U.S. In Women's Snowboard Halfpipe", 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/chloe-kim-snowboarding-gold_us_5a8242e0e4b00ecc923d597f', 'short_description': 'The 17-year-old wins with a near-perfect 98.25 score.', 'date': '2018-02-13'}

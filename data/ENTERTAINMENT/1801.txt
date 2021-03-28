@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Production Suspended On Morgan Spurlock's Docuseries About Women's Rights", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/morgan-spurlock-womens-rights-docuseries_us_5a375a83e4b01d429cca226e', 'short_description': 'The filmmaker admitted to a history of sexual misconduct last week.', 'date': '2017-12-18'}

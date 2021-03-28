@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Booyah: Obama Photographer Hilariously Trolls Trump's 'Spy' Claim", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/obama-photog-pete-souza-trolls-trump-spy-claim_us_5b08f77ee4b0568a880b8752', 'short_description': 'Just a peeping minute.', 'date': '2018-05-26'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "William And Harry Open Up About The Days Following Their Mother's Death", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/william-harry-diana-death_us_599d7bf6e4b0d97c40005a09', 'short_description': 'The two brothers appear in a revealing new BBC documentary.', 'date': '2017-08-23'}

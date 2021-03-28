@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Teenager Charged Over London Tube Attack Appears In Court', 'authors': 'Alistair Smout, Reuters', 'link': 'https://www.huffingtonpost.com/entry/london-uk-tube-attack-man-charged_us_59c50bd8e4b06ddf45f740da', 'short_description': 'The 18-year-old man came to Britain after his parents were killed in Iraq.', 'date': '2017-09-22'}

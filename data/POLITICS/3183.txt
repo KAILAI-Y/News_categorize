@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Signs GOP Tax Overhaul Into Law', 'authors': 'Susan Heavey and Lisa Lambert, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-tax-bill-sign_us_5a3d2c4ce4b0b0e5a7a1deb4', 'short_description': 'He also approved a short-term spending bill that averts a possible government shutdown.', 'date': '2017-12-22'}

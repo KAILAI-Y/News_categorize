@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Some Truly Excellent Costumes From NYC's Famous Halloween Dog Parade", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/halloween-dog-parade-nyc-costumes-photos_us_59eca404e4b00f08619f782a', 'short_description': 'Hundreds of very good dogs gathered to strut their stuff.', 'date': '2017-10-22'}

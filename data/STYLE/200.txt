@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Shag Haircuts Are For Everyone, but Here Are 7 Celebs Rocking The Look', 'authors': 'PureWow, ContributorWhat your girl crush reads online', 'link': 'https://www.huffingtonpost.com/entry/shag-haircuts-are-for-everyone-but-here-are-7-celebs_us_59d5142be4b08c2a000ddd9d', 'short_description': 'Chop chop.', 'date': '2017-10-04'}

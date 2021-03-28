@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Steven Mnuchin, Foreclosure King Of America', 'authors': 'Nomi Prins, ContributorDistinguished Senior Fellow, Demos', 'link': 'https://www.huffingtonpost.com/entry/steven-mnuchin-foreclosure-king-of-america_us_5a020bf6e4b06ff32c93f55f', 'short_description': 'Secretary of the Treasury for the .01 percent.', 'date': '2017-11-07'}

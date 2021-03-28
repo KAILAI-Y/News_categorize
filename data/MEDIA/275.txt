@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Tucker Carlson Turns On Trump: 'What Was The Point Of Running For President?'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/tucker-carlson-turns-on-trump_us_5a5580d4e4b03417e8733006', 'short_description': 'Fox News host slams the president over immigration.', 'date': '2018-01-10'}

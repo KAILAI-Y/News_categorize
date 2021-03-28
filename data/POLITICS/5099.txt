@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Democrats' Single-Payer Trap", 'authors': 'Richard North Patterson, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/the-democrats-single-payer-trap_us_59de0460e4b0b992a821483c', 'short_description': 'This is no time for purges.', 'date': '2017-10-11'}

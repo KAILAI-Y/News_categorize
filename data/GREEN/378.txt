@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': '14 Poisoned By Wild Death Cap Mushrooms In California', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/death-cap-mushroom-poisoning_us_5932249ce4b0c242ca244615', 'short_description': 'Three victims, including a toddler, needed liver transplants.', 'date': '2017-06-03'}

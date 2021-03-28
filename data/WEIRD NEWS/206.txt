@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': '6 Of The Most Bizarre News Stories In 2017', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/bizarre-news-stories-2017_us_5a469876e4b06d1621b89c36', 'short_description': "It's tough to believe so much weirdness was crammed into a single year.", 'date': '2017-12-31'}

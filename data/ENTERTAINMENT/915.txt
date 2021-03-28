@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Man Who Pined For His Ex-Wife On ‘Queer Eye’ Announces They’re Back Together', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/queer-eye-man-back-with-ex_us_5aa03e74e4b0d4f5b66cf5c0', 'short_description': 'Tom and Abby forever! 💕', 'date': '2018-03-07'}

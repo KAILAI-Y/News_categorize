@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Government Shuts Down As Congress Fails To Reach Spending Agreement', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/government-shutdown-2018_us_5a61f3ade4b01d91b254dd39', 'short_description': "It's the first shutdown of the U.S. government since 2013.", 'date': '2018-01-20'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Sausage-Roll Jesus Stirs Up An Early Christmas Controversy', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sausage-roll-jesus-greggs_us_5a0d3590e4b0b37054f46ce6', 'short_description': 'Offensive... or just some holiday humor?', 'date': '2017-11-16'}

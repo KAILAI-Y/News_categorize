@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '5 Tips For Reading The Polls Like A Pro', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/five-tips-reading-poll-results_us_5ad6264fe4b077c89ced3210', 'short_description': "Never forget that polls aren't perfect.", 'date': '2018-04-17'}

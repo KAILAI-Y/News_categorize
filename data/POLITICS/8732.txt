@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pat McCrory Is Still Mad He Wasn’t Re-elected Governor Of North Carolina', 'authors': 'Julia Craven', 'link': 'https://www.huffingtonpost.com/entry/pat-mccrory-voter-fraud_us_5936dda4e4b0cfcda9181c4b', 'short_description': 'Let the hurt go, beloved.', 'date': '2017-06-06'}

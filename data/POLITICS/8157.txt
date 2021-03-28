@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Lobbyist Shot During GOP Baseball Practice Released From Hospital', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/matt-mika-hospital-shooting_us_594daf66e4b02734df2a853c', 'short_description': 'Matt Mika, a Tyson Foods lobbyist, was shot multiple times.', 'date': '2017-06-24'}

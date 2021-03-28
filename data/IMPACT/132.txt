@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'WATCH: The Battle Against Sleeping Sickness', 'authors': 'Paul Josephson', 'link': 'https://www.huffingtonpost.com/entry/sleeping-sickness-congo-360-film_us_59e8f947e4b05b4f1c39fb36', 'short_description': 'HuffPost traveled to Congo to document efforts to fight this deadly disease.', 'date': '2017-10-31'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Three Major Alabama Newspapers Urge Voters To 'Reject' Roy Moore", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-newspapers-jones_us_5a11b54de4b045cf437213be', 'short_description': 'An editorial prominently displayed by the papers endorsed Democrat Doug Jones in the Senate race.', 'date': '2017-11-19'}

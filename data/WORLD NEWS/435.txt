@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Leading German Far-Right Figure Ditches Party, Converts To Islam', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/germany-afd-islam_us_5a6879cee4b0e56300751ad4', 'short_description': 'The nationalist Alternative for Germany party warns against "Islamization."', 'date': '2018-01-24'}

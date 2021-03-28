@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'From ‘The Great Manipulator’ To ‘Sloppy Steve’ – The Fall Of Bannon', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-downfall-trump_us_5a4ff935e4b089e14dbad4bf', 'short_description': 'Trump’s campaign chief and top White House aide has been left politically homeless.', 'date': '2018-01-06'}

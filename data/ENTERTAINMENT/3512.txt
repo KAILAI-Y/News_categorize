@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Sofia Coppola Becomes Second Woman To Win Cannes Film Festival's Directing Prize", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/sofia-coppola-cannes-film-festival-best-director_us_592b0794e4b0df57cbfc4038', 'short_description': '"The Square" scored the Palme d\'Or.', 'date': '2017-05-28'}

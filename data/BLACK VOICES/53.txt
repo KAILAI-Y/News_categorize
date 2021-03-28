@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Solange's Durag Was The True MVP At The Met Gala", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/solange-durag-met-gala_us_5af19f14e4b0c4f19326e667', 'short_description': "The artist's outfit was a reminder that black bodies are indeed heavenly.", 'date': '2018-05-08'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Colin Trevorrow No Longer Directing 'Star Wars: Episode IX'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/colin-trevorrow-out-star-wars-episode-ix_us_59af1f51e4b0354e440d798d', 'short_description': "Disney and Lucasfilm said their vision of the film differs from Trevorrow's.", 'date': '2017-09-05'}

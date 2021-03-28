@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Invites Black, Gay Writers To Finish Jokes He ‘Can’t Tell’', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-amber-ruffin-jenny-hagel-jokes_us_5aa27e50e4b01b9b0a3a8152', 'short_description': 'Not all jokes should be delivered by a straight white dude.', 'date': '2018-03-09'}

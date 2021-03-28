@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ed Westwick Says Women's Stories Of Rape Are 'Provably Untrue'", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/ed-westwick-rape-disheartening-and-sad_us_5a0499b1e4b0f76b05c428ab', 'short_description': 'The actor repeated his denial of two sexual assault accusations.', 'date': '2017-11-09'}

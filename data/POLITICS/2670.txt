@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Fake News Awards Immediately Backfire, Take Down GOP Website", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-fake-news-crash_us_5a6000c3e4b046f0811ce0f1', 'short_description': 'Whoops.', 'date': '2018-01-18'}

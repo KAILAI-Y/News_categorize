@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Famed New York Gossip Columnist Liz Smith Dead At 94', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/liz-smith-dead-gossip-columnist_us_5a0928ffe4b01d21c83f74d3', 'short_description': 'Her column was widely syndicated, and at her peak she earned more than $1 million a year.', 'date': '2017-11-13'}

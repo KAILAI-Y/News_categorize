@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Thursday\'s Morning Email: Senate GOP Finds Itself At An "Impasse" On Health Care', 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/thursdays-morning-email-senate-gop-finds-itself-at-an-impasse-on-health-care_us_5954dca6e4b02734df3036ab', 'short_description': 'According to Senator Rand Paul.', 'date': '2017-06-29'}

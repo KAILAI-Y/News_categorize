@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Michelle Obama's Workout With Friends Is All The Fitness Inspiration You Need", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-workout_us_59480e26e4b0cddbb0088f5c', 'short_description': 'Can we get an invite to the next one?', 'date': '2017-06-19'}

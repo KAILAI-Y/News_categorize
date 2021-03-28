@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Why Merlot Could Be The Most Underrated Wine In The U.S. Right Now', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/merlot-most-underrated-wine_us_5989c9d3e4b0a66b8baebb73', 'short_description': 'You can blame the movie "Sideways."', 'date': '2017-08-09'}

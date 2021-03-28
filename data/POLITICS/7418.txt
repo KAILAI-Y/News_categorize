@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Desperate Trump Trying 'Point And Run Thumb Across Neck' Move", 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/desperate-trump-trying-point-and-run-thumb-across-neck-move_us_596fdfb8e4b062ea5f8f0834', 'short_description': 'Bullies gonna bully.', 'date': '2017-07-19'}

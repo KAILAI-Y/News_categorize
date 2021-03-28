@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Former Joint Chiefs Chairman: 'Sad Kelly Supports Trump No Matter What'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/kelly-trump-sellout-mullen_us_5a1b664ae4b0d4906cafa978', 'short_description': 'Generals in the White House could politicize the military, warns Michael Mullen.', 'date': '2017-11-27'}

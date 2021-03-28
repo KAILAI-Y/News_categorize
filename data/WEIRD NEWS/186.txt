@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Man's Horrific Experience Explains Why You Shouldn't Stifle A Sneeze", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stifle-sneeze_us_5a5dc54de4b0fcbc3a12fad0', 'short_description': 'Doctors said stopping sneezes by "blocking nostrils and mouth" is dangerous, and this  story shows why.', 'date': '2018-01-16'}

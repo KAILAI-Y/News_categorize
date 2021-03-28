@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Man Arguing With Girlfriend Threw Good Samaritan Off Bridge: Police', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/gregory-rottjer-throw-man-off-bridge_us_5a300ae3e4b01598ac48820b', 'short_description': 'The victim, who fell 45 feet into icy waters, is recovering from injuries.', 'date': '2017-12-12'}

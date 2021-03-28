@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5aeb510ae4b041fd2d245806', 'short_description': '"I\'m already stressed out about summer being over happy May 1st."', 'date': '2018-05-04'}

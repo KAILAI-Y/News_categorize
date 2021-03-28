@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Watch The Trailer For Rose McGowan's New Docuseries About Life After #MeToo", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/trailer-rose-mcgowan-docuseries-metoo_us_5a536ae4e4b01e1a4b177b20', 'short_description': '"Citizen Rose" premieres Jan. 30.', 'date': '2018-01-08'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Man With Autism Offers Sensory Friendly Santa Visits So No Kid Misses Out', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/kids-autism-santa-visits_us_5a1c5334e4b0e771d6b7ec52', 'short_description': 'Kerry Magro knows just how overwhelming the mall can be, especially during the holidays.', 'date': '2017-11-28'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Californian Confesses To Cold Case Slaying In Emotional TV Interview', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/man-confesses-to-cold-case-slaying-in-emotional-tv-interview_us_5a59375ce4b03c418965ad80', 'short_description': 'God made him want to clear his conscience, he says on camera.', 'date': '2018-01-13'}

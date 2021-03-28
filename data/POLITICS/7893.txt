@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Missouri Republicans Lower St. Louis Minimum Wage From $10 To $7.70', 'authors': 'Dave Jamieson', 'link': 'https://www.huffingtonpost.com/entry/st-louis-minimum-wage_us_595a69bae4b0da2c7324d725', 'short_description': 'Take that, local decision-making.', 'date': '2017-07-03'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taraji P. Henson's Cardi B Impression Is So Accurate It's Scary", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/taraji-p-hensons-cardi-b-impression-is-so-accurate-its-scary_us_5ac379a5e4b00fa46f863d60', 'short_description': 'Nailed it. 😂', 'date': '2018-04-03'}

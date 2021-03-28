@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "2 Senators To Watch In The Fight Over Gina Haspel's Nomination To Lead The CIA", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/gina-haspel-torture-cia_us_5af06168e4b0c4f19324c8ff', 'short_description': 'Susan Collins and Rand Paul are seen as key votes in the heated debate over torture.', 'date': '2018-05-07'}

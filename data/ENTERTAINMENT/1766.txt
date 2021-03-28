@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Britney Spears To Kick Off 2018 With A New Year's Eve Performance", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/britney-spears-new-years-eve_us_5a3c0efde4b025f99e15b227', 'short_description': "We're so lucky!", 'date': '2017-12-21'}

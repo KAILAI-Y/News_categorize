@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah: Trump-Bannon Feud Is Like 'Alien vs. Sexual Predator'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-steve-bannon_us_5a4dd8e1e4b06d1621bd1c58', 'short_description': '"I don’t know who I’m rooting for."', 'date': '2018-01-04'}

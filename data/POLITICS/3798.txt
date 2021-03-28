@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mitch McConnell Says Republicans Have The Votes To Pass Tax Bill', 'authors': 'Matt Fuller and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/mitch-mcconnell-tax-bill_us_5a218bcbe4b03350e0b67b01', 'short_description': 'After the announcement, Sen. Jeff Flake said he would vote for the bill.', 'date': '2017-12-01'}

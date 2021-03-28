@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Japan Is Currently Doing Batman Better Than America', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/japan-is-currently-doing-batman-better-than-america_us_5a230a28e4b03c44072df0de', 'short_description': 'It\'s called "Batman Ninja" and it looks spectacular.', 'date': '2017-12-03'}

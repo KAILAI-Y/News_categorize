@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "You Won't Be Able To Tell The Difference Between Old Kermit And New Kermit", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/kermit-the-frog-new-voice_us_59a5a949e4b00795c2a1ffa4', 'short_description': 'Muppeteer Matt Vogel just made his debut as the green frog.', 'date': '2017-08-29'}

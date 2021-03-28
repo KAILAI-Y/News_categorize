@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's All The Expensive Nonsense Trump's EPA Chief Is Wasting Your Taxes On", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-spending-epa_us_59cc2a95e4b05063fe0ef9b3', 'short_description': 'That swamp is looking mighty cushy.', 'date': '2017-09-28'}

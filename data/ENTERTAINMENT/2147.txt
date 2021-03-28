@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Beloved 'Walking Dead' Character's Death Distracts From Another Dark Reveal", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/walking-dead-reveal-another-death_us_5a0610bbe4b01d21c83e7ca1', 'short_description': 'Another death is coming.', 'date': '2017-11-13'}

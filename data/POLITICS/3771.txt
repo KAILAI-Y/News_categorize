@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Barack Obama Appears To Zing Donald Trump With Twitter Followers Boast', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/barack-obama-donald-trump-india-twitter_us_5a2258a6e4b0a02abe9157d6', 'short_description': '"I actually have more than other people who use it more often."', 'date': '2017-12-02'}

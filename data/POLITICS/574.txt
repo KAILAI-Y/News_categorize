@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Releases Photos Of Mike Pompeo With Kim Jong Un To Praise Confirmation', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/white-house-mike-pompeo-kim-jong-un_us_5ae240c3e4b055fd7fc9fa0f', 'short_description': 'The CIA director secretly met with the North Korean leader this month.', 'date': '2018-04-26'}

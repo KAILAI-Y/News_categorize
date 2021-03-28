@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Stories Behind 4 Gorgeous Looks From 'Phantom Thread'", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/phantom-thread-costumes_us_5a5e28f0e4b04f3c55a64fd1', 'short_description': "Costume designer Mark Bridges walks us through key dresses from Paul Thomas Anderson's new movie.", 'date': '2018-01-17'}

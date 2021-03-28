@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'The Truman Show' Would Have Made An Amazing 'Black Mirror' Episode", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reddit-shower-thoughts-january-2018-part-1_us_5a4f6c5fe4b01e1a4b146dbd', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-01-05'}

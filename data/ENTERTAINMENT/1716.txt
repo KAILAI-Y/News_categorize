@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "America Ferrera Announces Pregnancy In Cutest New Year's Way", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/america-ferrera-pregnancy-announcement_us_5a4a5aeee4b0b0e5a7a7d72d', 'short_description': 'There\'s lots in store for the "Superstore" star.', 'date': '2018-01-01'}

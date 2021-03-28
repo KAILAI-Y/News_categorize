@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kate Hudson Announces She's Pregnant With Her Third Child, A Baby Girl", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kate-hudson-pregnant-third-child_us_5ac7ae99e4b09d0a1193788d', 'short_description': 'The 38-year-old actress is expecting a child with her boyfriend, Danny Fujikawa.', 'date': '2018-04-06'}

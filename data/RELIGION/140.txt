@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Nun With A Chainsaw Clears Hurricane Irma Debris Like A Pro', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/nun-chainsaw-hurricane-irma_us_59b8c698e4b02da0e13d5cea', 'short_description': '“There was a need. I had the means. So I wanted to help out,”', 'date': '2017-09-13'}

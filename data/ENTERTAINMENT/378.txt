@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Guy Hawks His '99 Toyota Corolla On Craigslist Using Brutal Honesty", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/this-guy-sells-his-99-toyota-corolla-on-craigslist-like-a-boss_us_5ae1dfe2e4b055fd7fc92e33', 'short_description': 'Unorthodox. But it got our attention.', 'date': '2018-04-26'}

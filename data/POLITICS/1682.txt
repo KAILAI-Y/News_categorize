@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Name Stripped Off Panama Hotel After Ugly Fight Over 'Tarnished Brand'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-organization-ejected-from-panama-hotel_us_5a9debb6e4b0479c02563df5', 'short_description': 'Relieved owner celebrates with a Greek song about fighting fascism.', 'date': '2018-03-06'}

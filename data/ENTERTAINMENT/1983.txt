@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Riverdale' Fans Can Get A 'Jingle Jangle' Fix At Trader Joe's", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/jingle-jangle-riverdale_us_5a208bdfe4b03350e0b57c12', 'short_description': "Don't worry, the only drug here is chocolate.", 'date': '2017-11-30'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Cow Who Escaped Slaughter And Swam To Island Dies After Recapture', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/cow-escape-poland-island-dies_us_5a9195b2e4b01e9e56bc3b05', 'short_description': 'The cause of death appeared to be stress.', 'date': '2018-02-24'}

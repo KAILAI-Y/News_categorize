@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Black Panther' The U.S.'s Highest Grossing Superhero Film Of All Time", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/black-panther-the-uss-highest-grossing-superhero-film-of-all-time_us_5ab697e2e4b054d118e35e5c', 'short_description': 'It passes 2012\'s "The Avengers" this weekend.', 'date': '2018-03-24'}

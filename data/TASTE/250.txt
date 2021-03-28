@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'These Guys Wrote A Whole Manifesto On The Proper Barbecue', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/these-guys-wrote-a-whole-manifesto-on-the-proper-cue_us_59651fc2e4b005b0fdc91d3f', 'short_description': 'At Smoque in Chicago, they take Texas-style barbecue very, very seriously.', 'date': '2017-07-11'}

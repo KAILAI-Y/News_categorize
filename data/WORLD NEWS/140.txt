@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'What You Need To Know About The Suspected Syrian Chemical Attack', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/need-to-know-suspected-syrian-chemical-attack_us_5acda5e7e4b09212968ce51c', 'short_description': 'Trump ordered military strikes on Syria in response to the attack.', 'date': '2018-04-11'}

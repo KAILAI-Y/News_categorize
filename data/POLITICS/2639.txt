@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here’s One Excellent Reason To Cut Prison Populations', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/prisons-crime-rate-pew-report_us_5a610bb1e4b0125fd635228e', 'short_description': 'We can actually lower crime and incarceration rates at the same time, according to a new Pew report.', 'date': '2018-01-19'}

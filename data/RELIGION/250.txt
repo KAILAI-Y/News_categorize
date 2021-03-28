@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Are You Too Materialistic?', 'authors': 'The School Of Life, ContributorThe School Of Life', 'link': 'https://www.huffingtonpost.com/entry/are-you-too-materialistic_us_59437063e4b0d188d027fd3e', 'short_description': 'It depends on what a given material object stands for.', 'date': '2017-06-16'}

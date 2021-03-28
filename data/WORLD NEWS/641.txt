@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "U.S. Vetoes U.N. Call To Withdraw Trump's Decision On Jerusalem", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-jerusalem-un_us_5a38236de4b0860bf4aa5818', 'short_description': 'The move further isolated the United States.', 'date': '2017-12-18'}

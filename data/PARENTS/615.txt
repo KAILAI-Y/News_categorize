@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'David Beckham Defends Kissing His Daughter On The Lips', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/david-beckham-defends-kissing-his-daughter-on-the-lips_us_595cf22ce4b0da2c73264e1b', 'short_description': 'The famous dad faced criticism after posting a photo on Instagram.', 'date': '2017-07-05'}

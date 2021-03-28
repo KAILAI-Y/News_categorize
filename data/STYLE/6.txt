@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'So THAT’S Why We Look So Different In Selfies vs. The Mirror', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/selfies-vs-the-mirror-face_us_5a4faf77e4b01e1a4b14cdf9', 'short_description': "It's a combination of psychology and technology.", 'date': '2018-01-15'}

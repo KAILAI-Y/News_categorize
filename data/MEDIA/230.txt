@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Sean Hannity's Attempt To Trash The New York Times Does Not Go Well", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-new-york-times_us_5a6aca2be4b01fbbefb07402', 'short_description': '...and why did he make himself green anyway?', 'date': '2018-01-26'}

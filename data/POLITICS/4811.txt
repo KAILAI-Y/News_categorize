@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Voter Fraud Commissioner Says Panel Should Be More Transparent Or Disband', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-voter-fraud-probe-alan-king_us_59ef8424e4b0b7e632655fb5', 'short_description': 'Democratic commissioner Alan King was unsparing in his criticism.', 'date': '2017-10-24'}

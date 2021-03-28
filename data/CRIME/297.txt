@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Navy Hospital Staffers Removed After Sharing Disturbing Photos Of Newborns', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/navy-hospital-newborn-photos_us_59c25a1fe4b087fdf5095d4c', 'short_description': '“It’s outrageous, unacceptable, incredibly unprofessional, and cannot be tolerated.”', 'date': '2017-09-20'}

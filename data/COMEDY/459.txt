@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Rebel Wilson Sings The Google Translate Versions Of Classic Holiday Songs', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rebel-wilson-google-translate-holiday-songs_us_5a3a1bece4b0b0e5a79e368c', 'short_description': '"The homes are covered with the bush."', 'date': '2017-12-20'}

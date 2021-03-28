@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Hamburger Helper Reveals What's Inside The Glove, And It's Freaking People Out", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/hamburger-helper-inside-the-glove_us_59e59f53e4b02a215b328d8f', 'short_description': 'Mystery solved.', 'date': '2017-10-17'}

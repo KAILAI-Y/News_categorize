@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Donald Trump Is Lovin' New McDonald's Jingle In 'Tonight Show' Bit", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-mcondalds-tonight-show_us_5b093561e4b0fdb2aa53daba', 'short_description': "It's catchy, all right.", 'date': '2018-05-26'}

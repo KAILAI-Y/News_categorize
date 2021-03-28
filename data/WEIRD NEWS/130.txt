@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Exotic Dancers Show It's Easier To Get A Gun Than A Strippers' License In Tennessee", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/exotic-dancers-deja-vu-ar-15-couch-dance_us_5a8dbdcce4b03414379cbf18', 'short_description': 'The video they filmed angered a GOP politician in the state.', 'date': '2018-02-21'}

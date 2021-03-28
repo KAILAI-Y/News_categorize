@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Calls The Health Care Bill He's Been Praising 'Mean'", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/trump-health-care-mean_us_594051cfe4b09ad4fbe3de6a', 'short_description': 'The president is said to have admonished senators to be "more generous" with their version of the bill.', 'date': '2017-06-13'}

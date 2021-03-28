@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ivanka On Roy Moore: 'There's A Special Place In Hell' For Child Abusers", 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-roy-moore-child-abuse_us_5a0cb104e4b0b37054f42875', 'short_description': "Her dad still hasn't weighed in.", 'date': '2017-11-15'}

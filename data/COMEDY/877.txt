@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Anthony Scaramucci Matches Donald Trump So Perfectly People Think He’s Mini Me', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/anthony-scarmucci-donald-trump-mimic_us_5976d0d0e4b0e201d57780bb', 'short_description': 'The two share some eerily similar gestures.', 'date': '2017-07-25'}

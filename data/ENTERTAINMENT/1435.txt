@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Dave Grohl Of Foo Fighters Brilliantly Sends Off Stage Crasher', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/dave-grohl-of-foo-fighters-brilliantly-sends-off-stage-crasher_us_5a67588ae4b0dc592a0cec38', 'short_description': 'Sometimes an F-bomb and a sense of humor can work wonders.', 'date': '2018-01-23'}

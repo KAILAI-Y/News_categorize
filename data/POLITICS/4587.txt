@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nancy Pelosi Struggles In Interview To Say 1 Nice Thing About Donald Trump', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/nancy-pelosi-donald-trump-james-corden_us_59f97d30e4b046017fafc1df', 'short_description': '"Flag pin?"', 'date': '2017-11-01'}

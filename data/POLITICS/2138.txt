@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: The Next Recession Will Be Brutal. Here's Why.", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-the-next-recession-will-be-brutal-heres-why_us_5a8185e0e4b08dfc9305feb0', 'short_description': 'And sooner than you thought.', 'date': '2018-02-12'}

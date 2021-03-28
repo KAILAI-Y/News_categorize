@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Aetna May Have Exposed The HIV Status Of Thousands Of Clients', 'authors': 'Anna Almendrala', 'link': 'https://www.huffingtonpost.com/entry/aetna-hiv-status-privacy_us_59a04965e4b0821444c2e1fb', 'short_description': 'Faulty envelopes are blamed.', 'date': '2017-08-25'}

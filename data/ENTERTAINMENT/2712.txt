@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Larry David Is Six Years Older, Not Much Wiser In New 'Curb Your Enthusiasm' Trailer", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/curb-your-enthusiasm-season-9-trailer_us_59b6a776e4b04bcfa78b7a7a', 'short_description': 'The comedy returns to HBO October 1.', 'date': '2017-09-11'}

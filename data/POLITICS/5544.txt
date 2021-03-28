@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The White House As Donald Trump's New Casino", 'authors': 'Nomi Prins, ContributorDistinguished Senior Fellow, Demos', 'link': 'https://www.huffingtonpost.com/entry/the-white-house-as-donald-trumps-new-casino_us_59c9070ee4b0cdc77332cd7d', 'short_description': 'Yes, he is running America like one of his businesses.', 'date': '2017-09-25'}

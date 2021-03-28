@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'London Officers Make Girl Cry After Fining Her For Lemonade Stand', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/london-girl-fined-for-lemonade-stand_us_5973d615e4b00e4363dfe785', 'short_description': 'Officials dropped the fine and issued an apology after news of the incident went viral.', 'date': '2017-07-23'}

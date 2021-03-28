@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'The Radioactive Puppies Of Chernobyl Are Finally Getting The Help They Need', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/puppies-chernobyl_us_59c694f9e4b0cdc77331a46f', 'short_description': 'The dogs are descendants of those left behind after the 1986 nuclear disaster.', 'date': '2017-09-23'}

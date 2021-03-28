@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Catelynn Lowell Of 'Teen Mom OG' Heads Home After Treatment For Suicidal Thoughts", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/teenmom-catelynn-lowell-home-after-treatment_us_5a483c7ce4b06d1621b93fe1', 'short_description': '"So excited for the future," tweets Nova\'s mother.', 'date': '2017-12-31'}

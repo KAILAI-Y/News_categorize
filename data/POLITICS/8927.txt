@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Michael Flynn Reportedly Plans To Hand Over Some Documents In Senate Russia Probe', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/michael-flynn-senate-subpoena_us_592deceee4b0c0608e8c5127', 'short_description': 'He previously declined to cooperate with the investigation.', 'date': '2017-05-30'}

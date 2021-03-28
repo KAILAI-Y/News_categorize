@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "You'll Cry-Laugh At This Mom's Post About Her Kid Catching Her Having Sex", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/youll-cry-laugh-at-this-moms-post-about-her-kid-catching-her-having-sex_us_59775fe6e4b0c95f375ed963', 'short_description': 'She wrote it like a (parenting) horror story.', 'date': '2017-07-25'}

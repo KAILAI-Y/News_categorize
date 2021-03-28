@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'French President Moves To Strip Harvey Weinstein Of His Legion Of Honor', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/weinstein-emmanuel-macron-legion-of-honor_us_59e3d33ce4b0a52aca18bc8d', 'short_description': 'The producer\'s actions lack "honneur," says Emmanuel Macron.', 'date': '2017-10-16'}

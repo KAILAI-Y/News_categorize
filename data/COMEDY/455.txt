@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon Shares People's Strangest Holiday Habits", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-holiday-traditions_us_5a3b9d56e4b025f99e14d0ac', 'short_description': '#MyDumbTradition', 'date': '2017-12-21'}

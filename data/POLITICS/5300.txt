@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Sad, New Normal', 'authors': 'Chris Weigant, ContributorChris Weigant is a political commentator.', 'link': 'https://www.huffingtonpost.com/entry/a-sad-new-normal_us_59d2def3e4b043b4fb095be7', 'short_description': 'Here we are again.', 'date': '2017-10-03'}

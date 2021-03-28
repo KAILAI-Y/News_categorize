@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Why This Artist Hangs His Paintings On Abandoned Buildings', 'authors': 'Catharine Smith', 'link': 'https://www.huffingtonpost.com/entry/st-louis-paintings-abandoned-houses_us_59a58a39e4b050afa90cdf38', 'short_description': 'His home city of St. Louis has a huge number of rundown, uninhabited buildings.', 'date': '2017-09-12'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Serena Williams Makes Her First Post-Baby Appearance On The Red Carpet', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/serena-williams-makes-first-post-baby-appearance-on-the-red-carpet_us_5a0aec88e4b00a6eece41674', 'short_description': 'The tennis icon looked stunning.', 'date': '2017-11-14'}

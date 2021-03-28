@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Gunmen Attack Kenyan School, Killing Six Children: Officials', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/gunmen-attack-kenyan-school-killing-six-children-officials_us_59e21124e4b04d1d518218ea', 'short_description': 'The assailants remain unidentified.', 'date': '2017-10-14'}

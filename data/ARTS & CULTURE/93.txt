@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'A Sci-Fi Magazine Created Entirely By Writers And Editors With Disabilities Is Coming', 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/destroy-science-fiction-disability_us_59949b80e4b0d0d2cc83cec3', 'short_description': 'Prepare yourself for "Disabled People Destroy Science Fiction."', 'date': '2017-08-23'}

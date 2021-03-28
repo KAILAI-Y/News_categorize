@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Pink Asks 12-Year-Old Concertgoer To Sing For Her And Is Blown Away', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/pink-victoria-anthony-concert_us_5af9dddce4b0200bcab7d4f6', 'short_description': 'The young aspiring singer was given the opportunity and she crushed it.', 'date': '2018-05-14'}

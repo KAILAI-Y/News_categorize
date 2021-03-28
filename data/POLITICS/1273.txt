@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Progressives Declare Victory Over Chicago ‘Machine’ In Down-Ballot Primary Races', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/progressive-primary-wins-chicago_us_5ab2ee29e4b054d118df7f12', 'short_description': '“There’s no doubt that change is in the air,” said one activist.', 'date': '2018-03-22'}

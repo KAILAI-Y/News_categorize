@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Daniel Akaka, First Native Hawaiian In Senate, Dies At 93', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/senator-daniel-akaka-death_us_5ac7a3c2e4b0337ad1e7b50a', 'short_description': 'The former senator was an advocate for veterans and Native Hawaiians.', 'date': '2018-04-06'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Robot Priest Is Ringing In The 500th Anniversary Of The Reformation', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/robot-priest-is-ringing-in-the-500th-anniversary-of-the-reformation_us_592ec924e4b09ec37c3087fc', 'short_description': 'Talk about deus ex machina.', 'date': '2017-05-31'}

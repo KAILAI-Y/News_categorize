@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Has A Trump-Themed Suggestion For 'Celebrity Big Brother'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-celebrity-big-brother-trump_us_5a703cbbe4b05836a2561b10', 'short_description': 'Former White House aide Omarosa Manigault Newman is already set to join the show.', 'date': '2018-01-30'}

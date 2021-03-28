@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "This Mom's Powerful Post About Vegas Shooting Is Resonating With Parents", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/this-moms-powerful-post-about-vegas-shooting-is-resonating-with-parents_us_59d63c8fe4b0becae802c7cf', 'short_description': 'Whitney Fleming called for kindness.', 'date': '2017-10-05'}

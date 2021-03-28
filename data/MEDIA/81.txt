@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Ingraham Returns To Airwaves With No Apology, And Few Advertisers', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/laura-ingraham-fox-news_us_5acc415ae4b07a3485e7b720', 'short_description': '"Left-wing activists use these terms as bludgeons to intimidate those who disagree with them."', 'date': '2018-04-10'}

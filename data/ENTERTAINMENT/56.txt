@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ariana Grande Tweets Message Of Support On Manchester Bombing Anniversary', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ariana-grande-manchester-bombing-anniversary_us_5b03ba1fe4b0463cdba56c6f', 'short_description': '"Thinking of you all today and every day."', 'date': '2018-05-22'}

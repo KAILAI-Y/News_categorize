@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "South Africa's President Jacob Zuma Resigns", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/south-africa-zuma-resigns_us_5a84a42fe4b0058d556598b2', 'short_description': 'The decision brings an end to his nine scandal-plagued years in power.', 'date': '2018-02-14'}

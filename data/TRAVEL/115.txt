@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'This Woman Is ‘Chinning’ Her Way Around The World And Into Our Hearts', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/this-body-image-trailblazer-is-chinning-her-way-around-the-world_us_59ee67a5e4b0d8293cac18b2', 'short_description': 'Fighting beauty standards one photo at a time.', 'date': '2017-10-24'}

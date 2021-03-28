@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ben Stiller Reading Trump's 'Stable Genius' Tweets As Zoolander Is Like Ridiculously Funny", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ben-stiller-donald-trump-tweet-zoolander_us_5a55f59ae4b0b117f880e40e', 'short_description': 'Trump actually appeared in the first "Zoolander" movie.', 'date': '2018-01-10'}

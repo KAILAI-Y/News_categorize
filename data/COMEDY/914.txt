@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "The Woman Who Cleaned Trump's Hollywood Star Inspired A New Meme", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/people-troll-woman-cleaned-trump-star_us_595ba07ce4b05c37bb803bd9', 'short_description': 'Having fun with "Nothing but respect for MY president."', 'date': '2017-07-04'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Forget Mexico, Trump Can't Even Get Congress To Pay For His Wall", 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-congress-wall_us_5ab31622e4b008c9e5f3ffd6', 'short_description': "Spending plan for the rest of this budget year doesn't include any money for Trump's biggest campaign promise.", 'date': '2018-03-22'}

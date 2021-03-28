@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Catalonia: Independence On Hold And Reversed', 'authors': 'Montserrat Domínguez, ContributorEditorial Director, HuffPost Spain', 'link': 'https://www.huffingtonpost.com/entry/catalonia-independence_us_59de7e1de4b0eb18af05f5f4', 'short_description': 'It was not a historic session, but rather an eccentric event.', 'date': '2017-10-11'}

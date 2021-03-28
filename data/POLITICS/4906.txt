@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'State Of Disgrace', 'authors': 'Scott Patton, ContributorCombat Veteran and Gold Star Family Member', 'link': 'https://www.huffingtonpost.com/entry/state-of-disgrace_us_59e911e3e4b04a400db8aff1', 'short_description': 'Trump’s actions tarnish and permanently stain the reputations of all who carry out his orders.', 'date': '2017-10-19'}

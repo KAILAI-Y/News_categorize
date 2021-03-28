@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'SNL' Does Its Best To Catch Up On A Summer Of Trump Jokes", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/snl-trump-alec-baldwin-football-puerto-rico-kate-mckinnon_us_59d059f5e4b06791bb1102f1', 'short_description': 'Football, Puerto Rico and Jeff Sessions, oh my!', 'date': '2017-10-01'}

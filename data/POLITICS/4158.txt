@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democratic Candidates Are Hanging Roy Moore Around The Necks Of Their GOP Opponents', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-democrats-candidates_us_5a0dcd54e4b0b37054f54fdf', 'short_description': 'Republicans worry the Alabama judge could damage the party brand.', 'date': '2017-11-16'}

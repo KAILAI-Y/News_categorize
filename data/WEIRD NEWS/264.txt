@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Fairground Lights Get British Town In The Mood, But Maybe Not The Holiday Mood', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/christmas-lights-phallus_us_5a1d76c0e4b0e2ddcbb2c2b2', 'short_description': '“Nothing screams Christmas like a lit-up phallus."', 'date': '2017-11-28'}

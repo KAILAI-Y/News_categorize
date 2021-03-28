@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Thursday's Morning Email: John McCain Diagnosed With Cancer", 'authors': 'Kate Sheppard', 'link': 'https://www.huffingtonpost.com/entry/morning-email-mccain-cancer_us_597017b0e4b062ea5f8f207c', 'short_description': 'And other news of the day.', 'date': '2017-07-20'}

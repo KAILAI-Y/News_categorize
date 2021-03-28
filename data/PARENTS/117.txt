@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Tia Mowry's Cute Family Photo Serves As An Adorable Pregnancy Announcement", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/tia-mowrys-cute-family-photo-serves-as-an-adorable-pregnancy-announcement_us_5a04662de4b03deac08ba19c', 'short_description': 'Congrats are in order!', 'date': '2017-11-09'}

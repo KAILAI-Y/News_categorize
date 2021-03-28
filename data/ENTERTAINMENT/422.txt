@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The 1 Good Movie Netflix Adds This Week', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/good-movies-netflix_us_5addcc90e4b075b631e7f578', 'short_description': 'A British biopic has a couple stellar acting performances.', 'date': '2018-04-23'}

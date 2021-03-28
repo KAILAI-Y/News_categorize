@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': '‘The Opposition’ Gives Trump A Hot Lawyer Of His Own', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-hot-lawyer_us_5af5381ee4b0e57cd9f7fe84', 'short_description': 'He\'s here to make a "strong case" for the president.', 'date': '2018-05-11'}

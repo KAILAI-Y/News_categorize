@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Report: 'House Of Cards' Producers Considering Killing Off Kevin Spacey's Character", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/kevin-spacey-house-of-cards-death_us_59fce07ee4b0baea2631ca95', 'short_description': 'This "House of Cards" is falling quickly.', 'date': '2017-11-03'}

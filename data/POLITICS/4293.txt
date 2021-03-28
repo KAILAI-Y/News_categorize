@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Joe Biden Wears Rosary Beads In Honor Of His Late Son', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/joe-biden-rosary-beads_us_5a09d1a7e4b00a6eece32633', 'short_description': '"It is my connection with him," the former vice president told Megyn Kelly Monday.', 'date': '2017-11-13'}

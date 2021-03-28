@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Kellyanne Conway Denies Mike Pence's Expensive NFL Exit Was A 'Political Stunt'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-mike-pence-nfl_us_59db72ede4b046f5ad997f48', 'short_description': 'The White House counselor called such claims "outrageous" and "offensive."', 'date': '2017-10-09'}

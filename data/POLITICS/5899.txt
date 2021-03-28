@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: What's Next For Hurricane Irma", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-whats-next-for-hurricane-irma_us_59b66f99e4b0354e4413125d', 'short_description': 'Which has weakened to a Category 1 storm.', 'date': '2017-09-11'}

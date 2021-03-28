@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "McCain Doesn't Want Trump Attending His Funeral: Reports", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/mccain-doesnt-want-trump-at-funeral_us_5aeef8cee4b041fd2d27ae0a', 'short_description': 'The White House has been asked to send Vice President Mike Pence instead.', 'date': '2018-05-06'}

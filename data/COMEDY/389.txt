@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "James Corden Takes Bets On Donald Trump's Childish Nickname For John Kelly", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-donald-trump-john-kelly-nickname_us_5a619fa7e4b01d91b25466a9', 'short_description': 'Only a matter of time.', 'date': '2018-01-19'}

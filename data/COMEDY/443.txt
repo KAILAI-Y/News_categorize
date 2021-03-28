@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "The GOP Tax Bill Makes A Lot More Sense Featured In 'The Shining'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-gop-tax-bill-makes-a-lot-more-sense-featured-in-the-shining_us_5a49185ae4b06d1621b99b3d', 'short_description': 'All work and no Mar-a-Lago make Trump a dull boy.', 'date': '2017-12-31'}

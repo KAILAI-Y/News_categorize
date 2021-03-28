@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Dolly Parton Told Us Why She's The Perfect Babysitter", 'authors': 'Emily McCombs', 'link': 'https://www.huffingtonpost.com/entry/dolly-parton-told-us-why-shes-the-perfect-babysitter_us_59e0de9de4b04d1d51815f90', 'short_description': 'The icon opens up about her new kid’s album and why children love her.', 'date': '2017-10-13'}

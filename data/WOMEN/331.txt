@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5a0e16cfe4b0dd63b1a962bb', 'short_description': 'We could all use a laugh.', 'date': '2017-11-17'}

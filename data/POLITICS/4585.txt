@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Already Urging Policy Changes After NYC Terrorist Attack -- Without Waiting For 'The Facts'", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-nyc-terrorist-attack_us_59f9b38fe4b046017fb00260', 'short_description': "For some reason, he couldn't do this after the Las Vegas shooting.", 'date': '2017-11-01'}

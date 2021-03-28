@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Montana Man Quits Government Job Rather Than Help ICE 'Hunt Down And Deport' Undocumented Immigrants", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/montana-man-quits-over-ice_us_5a7d2b14e4b08dfc9302751c', 'short_description': '"I’m drawing my line in the sand here."', 'date': '2018-02-09'}

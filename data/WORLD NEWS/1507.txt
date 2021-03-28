@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Putin Orders Massive Cuts To  U.S. Diplomatic Staff In Russia', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/putin-russia-diplomats_us_597e2235e4b02a8434b716d3', 'short_description': 'The move is retaliation for new U.S. sanctions against Russia that Congress has approved.', 'date': '2017-07-30'}

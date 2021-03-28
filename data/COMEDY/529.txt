@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'It's A Tremendous Life' Imagines Trump Without His Rich Dad's Help", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/its-a-tremendous-life-trump-no-rich-dad_us_5a219701e4b03c44072d57e8', 'short_description': "Mike Pence is still there. He's got a mullet, but he's there.", 'date': '2017-12-01'}

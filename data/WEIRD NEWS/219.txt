@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "L.A. Goes Bonkers Over Breathtaking 'UFO' Lighting Up The Sky", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/falcon-9-rocket-launch-california_us_5a3db3dee4b025f99e1724c9', 'short_description': 'Twitterverse explodes as SpaceX Falcon 9 puts on a gobsmacking light show.', 'date': '2017-12-23'}

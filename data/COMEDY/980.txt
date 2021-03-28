@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Michael Moore Posts Zingers Galore On Trump Climate Pact Withdrawal', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/michael-moore-posts-zingers-galore-on-trump-climate-pact-withdrawal_us_59316a50e4b02478cb9aa2de', 'short_description': '"America First! Earth Last!"', 'date': '2017-06-02'}

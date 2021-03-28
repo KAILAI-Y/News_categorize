@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Anderson Cooper Has A Very Blunt Message For Sean Spicer', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/anderson-cooper-sean-spicer_us_59c4845de4b01cc57ff119af', 'short_description': 'CNN host calls out the former White House press secretary.', 'date': '2017-09-22'}

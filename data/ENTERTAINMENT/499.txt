@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "New 'Jurassic World: Fallen Kingdom' Trailer Has A Bonkers Surfing Scene", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jurassic-world-fallen-kingdom-last-trailer_us_5ad76ce5e4b03c426daa9df7', 'short_description': 'The blockbuster sequel rides a wave of interest in its "final" preview.', 'date': '2018-04-18'}

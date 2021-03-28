@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Daily Show' Remembers Anthony Scaramucci, A Man Taken Before His Time", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-daily-show-remembers-anthony-scaramucci-a-man-taken-before-his-time_us_5980b47be4b08e14300617e9', 'short_description': '"I just bought the Scaramucci 2017 jersey!"', 'date': '2017-08-01'}

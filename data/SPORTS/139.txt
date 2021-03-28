@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Canadian Ice Dancers Make History, Winning Gold In Pyeongchang', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/canada-ice-dance-gold-medal_us_5a8ba9bee4b09fc01e02bb90', 'short_description': 'Tessa Virtue and Scott Moir now have more Olympic medals than any other figure skaters, ever.', 'date': '2018-02-20'}

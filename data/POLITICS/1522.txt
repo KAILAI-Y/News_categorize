@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'London Mayor Sadiq Khan Reads Hate Tweets He Receives In SXSW Speech', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/london-mayor-sadiq-khan-reads-hate-tweets-he-receives-in-sxsw-speech_us_5aa7a132e4b087e5aaed87d1', 'short_description': '"We simply must do more to protect people online."', 'date': '2018-03-13'}

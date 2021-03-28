@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Thursday's Morning Email: What Today's New Airport Security Rules Mean For You", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/thursdays-morning-email-what-todays-new-airport-security-rules-mean-for-you_us_59f1bcc3e4b07d838d325b1b', 'short_description': 'For all U.S.-bound flights.', 'date': '2017-10-26'}

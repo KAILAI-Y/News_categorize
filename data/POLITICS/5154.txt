@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Autopilot Wars', 'authors': "Andrew Bacevich, ContributorAuthor, 'America’s War for the Greater Middle East: A Military...", 'link': 'https://www.huffingtonpost.com/entry/autopilot-wars_us_59db80b0e4b072637c4579da', 'short_description': 'Sixteen years, but who’s counting?', 'date': '2017-10-09'}

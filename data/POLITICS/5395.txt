@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '2 Men Indicted In Bacon Vandalism At Islamic Center', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/bacon-vandalism-islamic-center_us_59ce6ad1e4b05f005d3402ce', 'short_description': 'A rally supporting the center in Tennessee drew a strong crowd.', 'date': '2017-09-29'}

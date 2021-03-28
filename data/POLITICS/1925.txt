@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jimmy Kimmel Shreds Donald Trump Jr. For Perpetuating Florida Shooting Conspiracies', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-donald-trump-jr-conspiracy-theory_us_5a8e73d2e4b0161d43189661', 'short_description': '“This is our president’s son doing that."', 'date': '2018-02-22'}

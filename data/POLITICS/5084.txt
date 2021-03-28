@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What A 1939 New York Nazi Rally Can Teach Us About America Today', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/madison-square-garden-nazi-rally_us_59dfb62ee4b03a7be57f29de', 'short_description': "There's a long history of Nazi sympathies in the U.S.", 'date': '2017-10-12'}

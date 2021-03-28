@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Salma Hayek Transforms Into A Silver Goddess For New Role', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/salma-hayek-silver-hair-hummingbird-project_us_5a315884e4b091ca2684b3dd', 'short_description': 'The actress just finished filming "The Hummingbird Project."', 'date': '2017-12-13'}

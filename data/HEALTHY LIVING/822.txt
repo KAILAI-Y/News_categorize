@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'CDC Reports First Official Zika Numbers From Puerto Rico', 'authors': 'Julie Steenhuysen, Reuters', 'link': 'https://www.huffingtonpost.com/entry/puerto-rico-zika-count_us_593ac222e4b0c5a35c9ec973', 'short_description': '5 percent of pregnant women with confirmed Zika infections had babies with birth defects.', 'date': '2017-06-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Protesters Stage Third Day Of Demonstrations In St. Louis Over Acquittal Of Former Cop', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/st-louis-sunday-protests_us_59beda86e4b086432b0801e8', 'short_description': 'The demonstration has been peaceful, police say.', 'date': '2017-09-17'}

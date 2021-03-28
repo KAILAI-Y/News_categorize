@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Names Trump's 2 Emotions In Raunchy New Takedown", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-emotions_us_5ae7bc65e4b02baed1bd689d', 'short_description': '"Late Show" host breaks down the president\'s mental state.', 'date': '2018-05-01'}

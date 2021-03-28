@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers, We Feel Your Pain Over Donald Trump's Reported Porn Star Affair", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-stormy-daniels_us_5a61a644e4b074ce7a071630', 'short_description': 'Grab the Purell!', 'date': '2018-01-19'}

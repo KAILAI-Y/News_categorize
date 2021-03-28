@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Sinclair Takes A Swipe At CNN With Misleading 'Fake News' Video", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/sinclair-cnn-misleading-fake-news-video_us_5acd0e00e4b0259339de1629', 'short_description': "Let's break down the broadcast giant's latest self-defense.", 'date': '2018-04-10'}

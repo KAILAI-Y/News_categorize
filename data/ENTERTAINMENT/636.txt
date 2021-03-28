@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Carrie Underwood Shows Her Face, And It's A Welcome Sight For Fans", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/carrie-underwood-photo-face-studio_us_5ac64711e4b07a3485e1f564', 'short_description': 'The country star had said she was "not quite looking the same" after a November fall.', 'date': '2018-04-05'}

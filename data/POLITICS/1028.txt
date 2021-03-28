@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sinclair Employee Handbook: Read The Full Document', 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/sinclair-employee-handbook-read-the-full-document_us_5ac4f7c8e4b063ce2e582ad9', 'short_description': 'The guide encourages company employees to "be transparent" and "challenge the status quo."', 'date': '2018-04-04'}

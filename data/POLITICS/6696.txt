@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Unite The Right' Organizer Flees His Press Conference In Charlottesville", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/jason-kessler-press-conference_us_59909213e4b090964297d1ec', 'short_description': 'Police escorted him from the scene.', 'date': '2017-08-13'}

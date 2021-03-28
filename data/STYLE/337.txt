@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Halima Aden Is Allure's First Ever Hijab-Wearing Cover Model", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/hijab-model-allure_us_5949285de4b0edb84c1595d2', 'short_description': 'Yes to all of this.', 'date': '2017-06-20'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Gay Men's Chorus Drown Out Homophobic Protesters With Heartfelt Performance", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/gay-mens-chorus-knoxville_us_594a99d8e4b0312cfb60c8f7', 'short_description': 'The men aim to prove that “love always wins over hate.”', 'date': '2017-06-21'}

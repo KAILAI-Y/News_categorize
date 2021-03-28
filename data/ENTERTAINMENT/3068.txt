@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Joshua Radin Covers Paul Simon's 'America' For Road Trip Playlist", 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/joshua-radin-covers-paul-simons-america-for-road-trip-playlist_us_597a1ec8e4b02a4ebb73db21', 'short_description': 'HuffPost has the exclusive premiere.', 'date': '2017-07-31'}

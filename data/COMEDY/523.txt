@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Baldwin's Scrooge-Trump Flamed By Ghosts On 'Saturday Night Live'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snlchristmas-carol-trump-scrooge_us_5a237f93e4b03350e0b73f01', 'short_description': 'He\'s haunted by a "ghost of witnesses flipped" and gleeful "Hillary Clinton."', 'date': '2017-12-03'}

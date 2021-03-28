@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "House Votes For More Punishments For Undocumented Immigrants, 'Sanctuary Cities'", 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/house-republicans-trump-immigratio_us_59550d63e4b02734df30802b', 'short_description': 'Just like President Trump wants.', 'date': '2017-06-29'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "CONFIRMED: A 'Wonder Woman' Sequel Is On Its Way", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/wonder-woman-sequel-confirmed_us_59741f66e4b00e4363dff4d9', 'short_description': 'The news was revealed during a "Justice League" panel at Comic-Con in San Diego.', 'date': '2017-07-23'}

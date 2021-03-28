@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'White House Gearing Up To Push Transgender Military Ban Forward', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/white-house-transgender-military-ban-forward_us_599e427be4b05710aa59b31d', 'short_description': 'Reports indicate the Pentagon will have six months to institute it.', 'date': '2017-08-24'}

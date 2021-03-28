@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Second Girl Sentenced For ‘Slender Man’ Stabbing', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/morgan-geyser-slender-man-conviction_us_5a73b6fae4b01ce33eb13e29', 'short_description': 'Morgan Geyser was convicted for stabbing a classmate 19 times in 2014. The victim survived.', 'date': '2018-02-02'}

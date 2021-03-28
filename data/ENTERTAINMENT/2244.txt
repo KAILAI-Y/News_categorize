@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift's 'Call It What You Want' Is Maybe Her Best Love Song Yet", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-call-it-what-you-want_us_59fbdb7be4b0415a420ad10e', 'short_description': "It's like falling head over heels all over again.", 'date': '2017-11-03'}

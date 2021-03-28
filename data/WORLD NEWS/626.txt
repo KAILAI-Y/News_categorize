@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "New Zealand Does A Nationwide Secret Santa, And It's Very Cute", 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/new-zealand-secret-santa-twitter_us_5a39c9b7e4b06d1621b05301', 'short_description': 'Even the prime minister got in on it this year.', 'date': '2017-12-20'}

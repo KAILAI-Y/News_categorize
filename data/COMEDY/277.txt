@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers: 'How Much More Suspicious Can Jared Kushner Get?'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-jared-kushner-white-house_us_5a98fc24e4b0479c02510edc', 'short_description': 'And "why does Jared Kushner still have a job in the White House?"', 'date': '2018-03-02'}

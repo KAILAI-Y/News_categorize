@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Longtime Gun Owner Ashton Kutcher Says 'Enough Is Enough' After Vegas Massacre", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ashton-kutcher-las-vegas-massacre_us_59d3378fe4b048a44324bd09', 'short_description': '"I\'m a hunter and a sportsman but No body needs these weapons."', 'date': '2017-10-03'}

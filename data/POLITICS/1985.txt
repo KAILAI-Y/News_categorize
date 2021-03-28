@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration Takes Another Step To Roll Back Obamacare', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/trump-obamacare-insurance-rules_us_5a3d3cb5e4b06d1621b42a1b', 'short_description': 'A new regulation would open the door for less comprehensive, short-term plans.', 'date': '2018-02-20'}

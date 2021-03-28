@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Taiwan Is Considering Third Gender Option For Passports, ID Cards', 'authors': 'Beh Lih Yi, Reuters', 'link': 'https://www.huffingtonpost.com/entry/taiwan-third-gender-option_us_5a5f66d9e4b0ee2ff32c800a', 'short_description': "LGBTQ activists say the change would showcase the nation's diversity.", 'date': '2018-01-17'}

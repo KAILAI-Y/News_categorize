@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Redditors Have Fun And Games With Photo Of Kim Jong Un Inspecting A Bag', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kim-jong-un-bag-photo-editing-battle_us_59c62f08e4b06ddf45f834d6', 'short_description': 'These will never get old.', 'date': '2017-09-23'}

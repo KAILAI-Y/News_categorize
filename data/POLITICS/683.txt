@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Lawmaker Who Blamed Storm On Jewish Bankers Takes Bizarre Trip To Holocaust Museum', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trayon-white-holocaust-museum_us_5ad964dee4b03c426dacd8d0', 'short_description': 'Trayon White Sr. once claimed "the Rothschilds" were "controlling the climate."', 'date': '2018-04-20'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Tomi Lahren Blames Liberals For Tide Pod Challenge In Wacko Rant', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/tomi-lahren-tide-pod_us_5a6b607de4b0ddb658c60603', 'short_description': 'The conservative firebrand channels the spirit of a much older, crankier, low-information voter.', 'date': '2018-01-26'}

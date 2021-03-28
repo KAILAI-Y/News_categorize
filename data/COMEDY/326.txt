@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Kylie Jenner Named Her Baby Stormi And People Have Thoughts', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/twitter-reactions-kylie-jenner-baby-name-chicago_us_5a7a27cbe4b0d0ef3c0a4e14', 'short_description': '"When I have a kid I\'m going to name it Humiditi."', 'date': '2018-02-07'}

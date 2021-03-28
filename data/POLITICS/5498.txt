@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'World War III With China', 'authors': "Alfred W. McCoy, ContributorProfessor, University of Wisconsin-Madison; Author, 'In the Sh...", 'link': 'https://www.huffingtonpost.com/entry/world-war-iii-with-china_us_59ca7c8be4b0cdc773352821', 'short_description': 'How it might actually be fought.', 'date': '2017-09-26'}

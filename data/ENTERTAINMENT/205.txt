@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Queer Eye' Star Karamo Brown Engaged To Director Ian Jordan", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/queer-eye-star-karamo-brown-engaged-to-director-ian-jordan_us_5af43cc7e4b0859d11d0e97a', 'short_description': 'He popped the question surrounded by his "Queer Eye" family.', 'date': '2018-05-10'}

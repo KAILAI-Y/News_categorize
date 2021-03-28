@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Laugh Off Trump’s Nuclear Taunting Of North Korea', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-north-korea-nuclear_us_5a4d5433e4b0b0e5a7aac768', 'short_description': 'Real funny stuff.', 'date': '2018-01-04'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'An Open Letter To Peter Cvjetanovic', 'authors': 'Peter DiCaprio, ContributorDismantling racism from the inside.', 'link': 'https://www.huffingtonpost.com/entry/white-culture-white-dominance_us_59933318e4b0a88ac1bc3776', 'short_description': "There's a difference between fighting for white culture and white dominance.", 'date': '2017-08-15'}

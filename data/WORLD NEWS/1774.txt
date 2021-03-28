@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Former Israeli Prime Minister Ehud Olmert Wins Early Release From Prison', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/ehud-olmert-parole_us_5954b7eae4b05c37bb7c03b3', 'short_description': 'He was serving a 27-month prison term for corruption.', 'date': '2017-06-29'}

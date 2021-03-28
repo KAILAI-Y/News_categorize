@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "People Aren't Sure What Oxford Dictionaries' Word Of The Year Actually Means", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/oxford-dictionaries-word-of-the-year-confusion_us_5a33b6ede4b0ff955ad1f45a', 'short_description': '"This is not a word that I have ever heard used."', 'date': '2017-12-15'}

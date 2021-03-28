@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Bernice King Calls Out Newsweek For Insensitive MLK Tweet', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/newsweek-twitter-martin-luther-king-jr_us_5a4a9a98e4b025f99e1cf40d', 'short_description': 'The post included a photo of Martin Luther King Jr. in his casket.', 'date': '2018-01-01'}

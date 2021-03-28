@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Marco Rubio Holding Out For Child Tax Credit That Actually Helps Poor People', 'authors': 'Arthur Delaney and Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/marco-rubio-tax-bill_us_5a32d0efe4b040881be8dd4e', 'short_description': "Don't hold out hope that Rubio will kill the bill, though.", 'date': '2017-12-14'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans May Finally, Reluctantly, Do Something On Guns', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/congress-republicans-guns-fix-nics_us_5a95db65e4b0e6a523023ee7', 'short_description': 'The political calculus could be different this time.', 'date': '2018-02-28'}

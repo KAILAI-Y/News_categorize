@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Amy Schumer Tells Her Mom And Ellen DeGeneres All About Her Sex Life', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/amy-schumer-tells-her-mom-and-ellen-degeneres-all-about-her-sex-life_us_5ad7701ce4b03c426daaa3e5', 'short_description': 'Things got intimate on "The Ellen Show."', 'date': '2018-04-18'}

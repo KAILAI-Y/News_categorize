@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Iran Sends Food To Qatar Amid Diplomatic Crisis', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/iran-qatar-food_us_593d9435e4b02402687a5b8a', 'short_description': "After Qatar's powerful neighbors cut ties with it last week, its citizens risk a serious food shortage.", 'date': '2017-06-11'}

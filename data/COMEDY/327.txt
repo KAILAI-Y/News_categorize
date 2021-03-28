@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Taunts Trump With Some Of The Worst Legal Advice Of All Time', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-legal-advice_us_5a7a6062e4b07af4e81ef2a8', 'short_description': '"Late Show" host has an urgent message for the president.', 'date': '2018-02-07'}

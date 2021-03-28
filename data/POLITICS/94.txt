@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Hillary Clinton To Endorse Andrew Cuomo's Re-Election", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-to-endorse-cuomo_us_5b02bc0fe4b07309e05a8143', 'short_description': 'The New York governor faces former "Sex and the City" star Cynthia Nixon in the Democratic primary.', 'date': '2018-05-21'}

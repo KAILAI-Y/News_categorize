@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Avengers: Infinity War' Just Had The Biggest Opening Weekend Ever", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/avengers-infinity-war-just-had-the-biggest-opening-weekend-ever_us_5ae60272e4b055fd7fccd253', 'short_description': 'It dominated both domestically and internationally.', 'date': '2018-04-29'}

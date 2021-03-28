@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "We Might Be Getting More 'Hunger Games' And 'Twilight' Movies", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/we-might-be-getting-more-hunger-games-and-twilight-movies_us_598b14bde4b0a66b8bb04371', 'short_description': 'Make it stop.', 'date': '2017-08-09'}

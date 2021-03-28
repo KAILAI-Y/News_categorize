@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Gay Dads Obsess Over Baby's First Haircut In Adorable Diaper Ad", 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/gay-dads-diaper-commercial_us_5984919be4b08b75dcc69d76', 'short_description': '🤗   🤗   🤗', 'date': '2017-08-04'}

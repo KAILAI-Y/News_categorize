@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'Climate Change Made Hurricane Harvey Worse, Scientists Say', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/climate-change-hurricane-harvey_us_5a3175a8e4b01bdd76597e0f', 'short_description': 'Rain associated with the lethal storm was at least 15 percent stronger, thanks to our warming world.', 'date': '2017-12-13'}

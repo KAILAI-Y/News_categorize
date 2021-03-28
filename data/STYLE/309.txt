@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Even The Plastics Approve Of These New 'Mean Girls' Makeup Brushes", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/mean-girls-makeup-brushes_us_5970fbe9e4b0aa14ea789b17', 'short_description': 'They come inside a burn book! So fetch.', 'date': '2017-07-20'}

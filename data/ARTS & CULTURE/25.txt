@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Merriam-Webster Expertly Sums Up 2017 With Its Word Of The Year', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/merriam-webster-word-of-the-year-2017_us_5a2fd37fe4b01598ac48045f', 'short_description': 'No, it\'s not "dotard" -- although Kim Jong Un\'s insult did make the top 10.', 'date': '2017-12-12'}

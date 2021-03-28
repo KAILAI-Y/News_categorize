@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'That Time David Duchovny Talked About Booty Calls With Prince Charles', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/david-duchovny-prince-charles_us_5aed8a54e4b0ab5c3d65f263', 'short_description': '“I saw Prince Charles just kind of looking perplexed."', 'date': '2018-05-05'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Has 1 Serious Question For Trump's Doctor", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-doctor-report_us_5a5effd0e4b0ee2ff32ba38f', 'short_description': "Everyone's wondering about this.", 'date': '2018-01-17'}

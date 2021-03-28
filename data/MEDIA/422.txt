@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "People Are Officially Done With John Kelly After His 'Absurd' Civil War Comments", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-kelly-civil-war-reaction_us_59f806dae4b0c0c8e67c5db9', 'short_description': 'The White House chief of staff blamed the war on a "lack of compromise."', 'date': '2017-10-31'}

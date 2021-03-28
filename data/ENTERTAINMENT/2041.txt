@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Uma Thurman Issues Ominous #MeToo Warning To Harvey Weinstein', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/uma-thurman-me-too-harvey-weinstein_us_5a178e3ae4b0cee6c04edf05', 'short_description': '"I\'m glad it\'s going slowly - you don\'t deserve a bullet."', 'date': '2017-11-24'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "S'mores Recipes That'd Make Any Marshmallow Proud", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/smores-recipes_us_596ce62ae4b010d77672aece', 'short_description': 'Melted chocolate, charred marshmallows and a whole lot of creativity.', 'date': '2017-07-18'}

@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Latinos React To DACA Repeal: Ending The Program 'Is About Racism'", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/latinos-react-to-daca-repeal-its-not-about-laws-its-about-hate_us_59aed12ce4b0b5e5310133d2', 'short_description': '"Stop making excuses and just admit you hate Latinos."', 'date': '2017-09-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Former Mexican President Doubles Down On Trump: 'I'm Not Paying For That F**king Wall'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/vicente-fox-mexico-president-donald-trump-jordan-klepper_us_5a683e5ae4b0dc592a0dd58f', 'short_description': "Vicente Fox isn't mincing his words.", 'date': '2018-01-24'}

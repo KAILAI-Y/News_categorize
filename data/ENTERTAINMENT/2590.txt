@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Ultimate Pittsburgh Road Trip Playlist', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-ultimate-pittsburgh-pennsylvania-road-trip-playlist_us_59ca9bb6e4b0d0b254c4e524', 'short_description': 'According to Spotify data, Pittsburgh residents like their Wiz Khalifa.', 'date': '2017-09-28'}

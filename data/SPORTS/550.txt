@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Fan Goes For Foul Ball While Holding A Baby, Won't Do That Again", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/fan-goes-for-foul-ball-while-holding-baby-he-wont-do-that-again_us_594d33b9e4b0da2c731b253d', 'short_description': "He's going to have to smooth things over with the kid's mom.", 'date': '2017-06-23'}

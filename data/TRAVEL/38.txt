@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '25 Unique Travel Accessories For Your Next Trip', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/unique-travel-accessories-for-your-next-trip_us_5aa688b5e4b07047bec87c5a', 'short_description': 'Pack light, go far.', 'date': '2018-03-12'}

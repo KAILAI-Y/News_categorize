@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Cardi B's Former Manager Sues Her For $10 Million", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/cardi-b-lawsuit_us_5ae2431ae4b055fd7fc9fda9', 'short_description': "Former manager Klenord “Shaft” Raphael says he's responsible for her success.", 'date': '2018-04-26'}

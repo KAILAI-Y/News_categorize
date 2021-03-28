@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Lindsey Vonn Has A Message For Her Trump-Supporting Twitter Trolls', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/lindsey-vonn-message-trump-trolls-twitter_us_5a880974e4b05c2bcacb3ceb', 'short_description': '"Not everyone has to like me but my family loves me and I sleep well at night."', 'date': '2018-02-17'}

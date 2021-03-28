@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Won't Block James Comey's Testimony", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-james-comey_us_5935a281e4b0cfcda916931c', 'short_description': "He's scheduled to testify this week.", 'date': '2017-06-05'}

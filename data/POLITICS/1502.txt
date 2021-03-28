@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Weak Gun Proposal Is A Big Political Test For The Parkland Movement", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/gun-donald-trump-student-walkout_us_5aa7fb25e4b0a09afeae74ba', 'short_description': "Wednesday's walkouts are a chance for advocates to show they won't give up.", 'date': '2018-03-13'}

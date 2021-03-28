@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Remarkable Dinosaur Finds Threatened By Trump Plan To Shrink Utah Monument', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-dinosaur-utah-monument_us_59f4f79de4b03cd20b81fca1', 'short_description': 'A unique record of the American past may soon be open to mining.', 'date': '2017-10-29'}

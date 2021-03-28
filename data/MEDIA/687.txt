@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Morning Joe: 'Thuggish Trump' Responsible For Reporter Assault", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/morning-joe-thuggish-trump_us_59279fd5e4b01b9a5937cd8f', 'short_description': '"The fish, again, rots from the head."', 'date': '2017-05-26'}

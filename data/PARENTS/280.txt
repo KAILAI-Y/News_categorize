@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Dad's Interview With A 4-Month-Old Answers Parents' Burning Questions", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/dads-interview-with-a-4-month-old-answers-parents-burning-questions_us_59c842a5e4b0cdc773321547', 'short_description': '"Why do babies put everything in their mouths?"', 'date': '2017-09-25'}

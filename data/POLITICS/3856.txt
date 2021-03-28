@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Insist Tax Cuts Will Benefit Workers, But CEOs Have Other Plans', 'authors': 'Igor Bobic and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/corporate-tax-cuts-gop_us_5a203b78e4b0392a4ebc1685', 'short_description': 'GOP lawmakers are placing faith in corporations to do “the right thing.”', 'date': '2017-11-30'}

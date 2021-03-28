@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'RNC Sells Trump-Themed Pet Leash In Honor Of National Puppy Day', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-pet-leash-maga-rnc_us_5ab60f4ce4b0decad04a03bb', 'short_description': 'A lot of people made it clear that their pups have no desire to Make America Great Again.', 'date': '2018-03-24'}

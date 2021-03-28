@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Dear White People' Is Heading Back To Netflix For Season 2", 'authors': 'Lilly Workneh', 'link': 'https://www.huffingtonpost.com/entry/dear-white-people-is-officially-heading-back-to-netflix-for-season-2_us_5956caebe4b02734df326e4b', 'short_description': "Much of the acclaimed show's cast is returning.", 'date': '2017-06-30'}

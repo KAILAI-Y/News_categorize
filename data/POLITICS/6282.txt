@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Rich Will Hashtag Even More Pricey Scarves, If Trump Gets His Way', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/trump-wealthy-louise-linton_us_59a069b1e4b05710aa5c0bea', 'short_description': 'Trump is making things a whole lot easier for the Louise Lintons of the world.', 'date': '2017-08-25'}

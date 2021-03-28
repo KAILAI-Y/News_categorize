@@ -1,0 +1,1 @@
+{'category': 'EDUCATION', 'headline': "Children Forced To 'Deal With It' And Bundle Up As Classrooms Lose Heat", 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/east-coast-classrooms-lose-heat_us_5a4d1c45e4b0b0e5a7aa6a24', 'short_description': 'Up and down the East Coast, the incoming storm is making infrastructure problems worse.', 'date': '2018-01-03'}

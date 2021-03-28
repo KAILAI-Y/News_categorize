@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Briefly Admits To Making Something Up, Then Changes His Mind', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-makes-up-facts-trudeau_us_5aaa3376e4b0004c04076b8d', 'short_description': 'Sigh.', 'date': '2018-03-15'}

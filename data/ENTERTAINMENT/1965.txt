@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ryan Reynolds Wished His Brother A Happy Birthday The Only Way He Knows How', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ryan-reynolds-trolls-brother-birthday_us_5a2285a4e4b03c44072dd3e5', 'short_description': '🚨 Trolling alert 🚨', 'date': '2017-12-02'}

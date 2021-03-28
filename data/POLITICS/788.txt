@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Barbara Bush In 'Failing Health,' Won't Seek More Medical Treatment", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/barbara-bush-health_us_5ad394e2e4b0edca2cbad431', 'short_description': 'The former first lady will "instead focus on comfort care," a spokesman said.', 'date': '2018-04-15'}

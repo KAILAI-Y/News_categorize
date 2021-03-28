@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Katy Perry's Star-Studded 'Swish Swish' Video Is Here, Sans Taylor Swift", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/katy-perrys-star-studded-swish-swish-video-sans-taylor-swift-is-here_us_599ec9f5e4b06d67e3359a44', 'short_description': 'Meh.', 'date': '2017-08-24'}

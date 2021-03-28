@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Amazon Is Under Fire For Sale Of Offensive Pro-Anorexia Sweatshirt', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/people-want-amazon-to-remove-this-offensive-anorexia-sweatshirt_us_59d53902e4b0becae8021b1f', 'short_description': '"It\'s absolutely disgraceful and irresponsible."', 'date': '2017-10-05'}

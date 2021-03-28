@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "This Guy Researched The Onscreen History Of The Phrase 'That's Gonna Leave A Mark'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/comedy-thats-gonna-leave-a-mark_us_5a2aa46ee4b073789f692657', 'short_description': 'In 7 months, he found 105 examples.', 'date': '2017-12-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'FCC Faces Scrutiny For Refusing To Turn Over Evidence On Net Neutrality Comments', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/fcc-net-neutrality-comments_us_5a15b869e4b025f8e9332c04', 'short_description': "New York's attorney general says the federal agency is holding up an investigation.", 'date': '2017-11-22'}

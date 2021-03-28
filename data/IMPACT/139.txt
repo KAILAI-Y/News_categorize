@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'The Surprising Story Of Republican Towns Going Green', 'authors': 'Marisa Taylor', 'link': 'https://www.huffingtonpost.com/entry/republican-mayors-green-energy_us_59f3843ee4b07fdc5fbe1a19', 'short_description': 'The cost savings of alternative energy lure GOP mayors, but the climate reasons resonate, too.', 'date': '2017-10-29'}

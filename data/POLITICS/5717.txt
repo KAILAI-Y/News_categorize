@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Sponsors Of Obamacare Repeal Are Trying To Fool America -- And Fellow Republicans', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/graham-cassidy-obamacare-repeal_us_59c16c28e4b0f22c4a8d3c77', 'short_description': "Here's what they're not telling you, or their colleagues, about the bill.", 'date': '2017-09-19'}

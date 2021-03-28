@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Just Undermined The Work Of His Own 'Election Integrity' Probe", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-voter-fraud-investigation_us_5957c971e4b0da2c7323d93c', 'short_description': 'The White House insisted it was a neutral effort. Trump cast doubt on that.', 'date': '2017-07-01'}

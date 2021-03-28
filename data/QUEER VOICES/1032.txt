@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Dove's Powerful Short Film Skewers Stereotypes About Female Beauty", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/dove-real-beauty-short-film_us_597f745ce4b00bb8ff387adf', 'short_description': 'The "Real Beauty" clip shows the power of living genuine.', 'date': '2017-07-31'}

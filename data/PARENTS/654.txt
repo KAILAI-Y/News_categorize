@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Jimmy Kimmel Gets Kids To Prank Their Dads With 'I Love You'", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-kids-fathers-day-prank_us_59492cb6e4b07499199eac01', 'short_description': 'Love hurts.', 'date': '2017-06-20'}

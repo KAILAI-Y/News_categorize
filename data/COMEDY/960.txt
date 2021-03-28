@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Mocks Donald Trump For Reminding Everyone About His Birthday', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-birthday_us_5940d842e4b0d3185485d091', 'short_description': '"Unless you’re 7 or younger, stop telling the people when your birthday is."', 'date': '2017-06-14'}

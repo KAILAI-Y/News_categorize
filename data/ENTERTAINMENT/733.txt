@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Anna Faris Is 'Not Quite Sure' She'd Remarry After Chris Pratt Split", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/anna-faris-marriage-chris-pratt_us_5ab91724e4b0decad04c7e0b', 'short_description': '"I need to figure out what the purpose [of marriage] is," the actress said.', 'date': '2018-03-26'}

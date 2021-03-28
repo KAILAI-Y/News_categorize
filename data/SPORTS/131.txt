@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Slovenian Ice Hockey Player Fails Doping Test, Has To Leave Olympics', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/slovenia-hockey-doping_us_5a8bd93be4b0117adf71672c', 'short_description': "It's the third proven instance of doping so far at this year's Games.", 'date': '2018-02-20'}

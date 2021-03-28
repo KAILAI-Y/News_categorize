@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's Your Guide To Surviving Fall TV", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/heres-your-guide-to-surviving-fall-tv_us_59a45c66e4b0821444c51951', 'short_description': 'What to watch, what to skip and what to never speak of again.', 'date': '2017-09-05'}

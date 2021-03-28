@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Sit Back And Let Republicans Struggle With The Roy Moore Scandal', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-democrats_us_5a050b13e4b01d21c83da8bf', 'short_description': 'GOP senators had to face questions about whether they will stand by the Alabama Senate candidate.', 'date': '2017-11-10'}

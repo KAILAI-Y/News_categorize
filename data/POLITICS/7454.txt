@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Rep. Adam Schiff Rips Trump And Crisis Of His 'Own Making'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/radam-schiff-trump-health-care-crisis_us_596d852be4b0e983c0587beb', 'short_description': '"To destroy a healthcare system that works is the height of irresponsibility."', 'date': '2017-07-18'}

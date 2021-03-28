@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Police Searches Plummet In States That Legalize Weed', 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/police-searches-plummet-in-states-that-legalize-weed_us_594e8d7ae4b02734df2aa9d5', 'short_description': "Of course, legalization may not help you if you're black or Hispanic.", 'date': '2017-06-24'}

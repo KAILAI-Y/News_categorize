@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Before 'Gotta Catch 'Em All:' The Creation Of The Pokémon Theme", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/pokemon-theme-catch-em-if-you-can_us_592f3495e4b0540ffc84324a', 'short_description': 'The initial tagline was the less suggestive, "Catch \'em if you can."', 'date': '2017-06-02'}

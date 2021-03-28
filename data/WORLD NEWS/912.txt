@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Mexico Celebrates Day Of The Dead With Tribute To Earthquake Victims', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/day-of-the-dead-tribute-to-victims_us_59f6209ce4b07fdc5fbec60a', 'short_description': '“The parade could be a distraction, a way of escaping,” one parade-goer said.', 'date': '2017-10-29'}

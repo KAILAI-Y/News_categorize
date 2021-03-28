@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Aaron Hernandez Had CTE, Boston University Test Confirms', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/aaron-hernandez-had-cte-lawyer-says_us_59c4221ae4b0cdc77330067e', 'short_description': 'The neurodegenerative disease has been linked to depression, memory loss and dementia.', 'date': '2017-09-21'}

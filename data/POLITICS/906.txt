@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Homeland Security Adviser Tom Bossert Resigns", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/tom-bossert-resigns_us_5accc674e4b0152082fde942', 'short_description': 'John Bolton reportedly wanted him out.', 'date': '2018-04-10'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Ultimate Casper, Wyoming, Road Trip Playlist', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-ultimate-casper-wyoming-road-trip-playlist_us_59de7e3ae4b00abf36461796', 'short_description': 'A Spotify analysis uncovered a bunch of "Hamilton" fans.', 'date': '2017-10-12'}

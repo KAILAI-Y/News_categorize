@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'This Is What A Serious Gun Violence Policy Would Look Like', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/gun-control-policy_us_5a8f728fe4b03b55731a60af', 'short_description': "It's not as simple as expanding background checks.", 'date': '2018-02-24'}

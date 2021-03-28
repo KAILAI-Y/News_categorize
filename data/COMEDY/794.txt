@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "We Can't Stop LOL-ing At Jason Segel In Front Of Small Doors", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/we-cant-stop-lol-ing-at-jason-segel-in-front-of-small-doors_us_59a46e40e4b0446b3b85a341', 'short_description': "The comedian's got this schtick on lock.", 'date': '2017-08-28'}

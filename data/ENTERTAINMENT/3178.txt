@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Planet Of The Apes' Wins Weekend Box-Office War With $56.5 Million", 'authors': 'Jillian Capewell', 'link': 'https://www.huffingtonpost.com/entry/planet-of-the-apes-wins-weekend-box-office-56-5-million_us_596bd5cfe4b0174186287949', 'short_description': '"Spider-Man: Homecoming" slid to second place.', 'date': '2017-07-16'}

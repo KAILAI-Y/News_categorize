@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Olympic Speedskaters Throw Huge Replica Medal Into Crowd, Injuring Fans', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/dutch-speed-skaters-medal-crowd_us_5a8ff96ae4b03b55731af4d2', 'short_description': 'The Dutch athletes apologized for the "very regrettable" stunt.', 'date': '2018-02-23'}

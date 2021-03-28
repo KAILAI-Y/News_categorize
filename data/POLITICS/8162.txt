@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Reaches Out To Lawmakers On Healthcare As Another Says 'No'", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-healthcare-lawmakers_us_594d91b6e4b0da2c731ba73d', 'short_description': 'Five Republican senators have announced they will not support the bill in its current form.', 'date': '2017-06-23'}

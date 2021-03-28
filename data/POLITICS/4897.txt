@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Gold Star Dad Wants To Learn How To Use Twitter Just To Call Donald Trump A 'Damn Liar'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/gold-star-dad-trump-damn-liar_us_59e841c6e4b08f9f9edcd1a2', 'short_description': 'Another military family rebukes the president.', 'date': '2017-10-19'}

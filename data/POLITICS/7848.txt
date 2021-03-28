@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "More States Tell Trump To Stop 'Playing Politics' With Voter Data", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/states-trump-voter-data_us_595ae72be4b05c37bb7fdb69', 'short_description': "“I find this request repugnant,” Maryland's attorney general said.", 'date': '2017-07-04'}

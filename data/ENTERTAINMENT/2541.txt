@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Neil DeGrasse Tyson Explains The Real Problem With That 'Titanic' Debate", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/neil-degrasse-tyson-problem-with-that-titanic-plot-hole_us_59d117afe4b09538b508e57e', 'short_description': 'The "StarTalk" host can\'t let this slide.', 'date': '2017-10-04'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Birth Control Coverage Rule That Trump Rolled Back Is Pretty Popular', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/birth-control-coverage-poll_us_59de919ee4b00abf36462b70', 'short_description': 'And more of the latest polling news.', 'date': '2017-10-11'}

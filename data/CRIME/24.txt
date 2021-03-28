@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Georgia Highway Sniper 'Idolized' Parkland Shooter, Police Say", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/georgia-sniper-parkland_us_5aef4d66e4b041fd2d27e6e7', 'short_description': 'Rex Whitmire Harbour, 26, wrote that Nikolas Cruz was a "hero," officials said.', 'date': '2018-05-06'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Gives Donald Trump Advice About His 'Least Racist' Person Defense", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-least-racist_us_5a5dc0f0e4b0fcbc3a12f500', 'short_description': '“Why do you do that to yourself, man?"', 'date': '2018-01-16'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'No More New Gas and Diesel Cars From 2040, U.K. Vows', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/britain-gas-diesel-cars-ban_us_597866b9e4b0a8a40e83e252', 'short_description': 'The announcement comes just a few weeks after France made a similar pledge.', 'date': '2017-07-26'}

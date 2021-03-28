@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Neil Patrick Harris Asks: Are These Kids Meeting Santa Or Getting A Shot?', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/neil-patrick-harris-santa-lap-shot_us_5a291646e4b0b185e5397f2c', 'short_description': 'Can you guess who is doing what?', 'date': '2017-12-07'}

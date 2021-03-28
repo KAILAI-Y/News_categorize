@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Dear Alabama' Goes Viral As Folks Make Heartfelt Pleas To Reject Roy Moore", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/dear-alabama-twitter-trend-roy-moore_us_5a2fb37be4b0789502835f79', 'short_description': '"Dear Alabama, less is Moore."', 'date': '2017-12-12'}

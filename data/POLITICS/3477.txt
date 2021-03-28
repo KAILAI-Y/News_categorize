@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Alabama Voters To Decide Whether Accused Child Molester Becomes Their Senator', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/alabama-election-day_us_5a2eb410e4b073789f6ba407', 'short_description': "Will Republican Roy Moore eke out a win in Tuesday's special election?", 'date': '2017-12-12'}

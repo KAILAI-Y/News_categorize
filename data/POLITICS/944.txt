@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'FBI Raids Office Of Trump Lawyer Michael Cohen', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/fbi-raid-michael-cohen-office_us_5acbc6a2e4b09d0a119681bd', 'short_description': 'Cohen\'s lawyer called the search "completely inappropriate and unnecessary."', 'date': '2018-04-09'}

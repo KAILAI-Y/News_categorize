@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Alex Rodriguez Will Reportedly Join ABC News As A Contributor', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/newly-retired-alex-rodriguez-will-join-abc-news_us_592c24cee4b0065b20b78133', 'short_description': 'J-Lo\'s boyfriend might soon appear on "Good Morning America."', 'date': '2017-05-29'}

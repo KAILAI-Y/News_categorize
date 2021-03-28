@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Trump Calls North Korea A 'Big Problem,' But Claims It Will Be Resolved", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-north-korea_us_5927f43be4b0df34c35b3695', 'short_description': 'North Korea’s growing nuclear and missile threat is seen as a major security challenge for the president.', 'date': '2017-05-26'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Honest Trailers' Creator Suspended After Sexual Harassment Allegations", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/honest-trailers-sexual-harassment_us_59d8dd1de4b072637c444d25', 'short_description': 'Multiple women shared harrowing stories of workplace harassment.', 'date': '2017-10-07'}

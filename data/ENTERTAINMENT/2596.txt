@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Hugh Hefner Will Be Laid To Rest Beside Playboy's First Cover Girl Marilyn Monroe", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/hugh-hefner-buried-beside-marilyn-monroe_us_59cd02b2e4b0210dfdfc79eb', 'short_description': 'The iconic publisher died Wednesday at 91.', 'date': '2017-09-28'}

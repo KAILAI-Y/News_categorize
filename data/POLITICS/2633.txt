@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Read Live Updates On The Looming Government Shutdown', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/government-shutdown-2018-live-updates_us_5a621af3e4b01d91b2552b4a', 'short_description': 'Buckle up, this could be a late night.', 'date': '2018-01-19'}

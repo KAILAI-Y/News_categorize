@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'John Kelly Is Supposed To End White House Chaos -- But His Boss Is The Chief Chaos Agent', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-kelly-chaos_us_597f9fe9e4b0d6e28a0fc43e', 'short_description': 'The new chief of staff has his work cut out for him.', 'date': '2017-07-31'}

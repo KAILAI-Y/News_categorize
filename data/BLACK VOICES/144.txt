@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "There's Something Missing From Hope Hicks' Send-Off Photo: Diversity", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/hope-hicks-send-off-photo-diversity_us_5ac4ab85e4b0ac473edbb05b', 'short_description': '"White House doesn’t mean everyone working there has to be white."', 'date': '2018-04-04'}

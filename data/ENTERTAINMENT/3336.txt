@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Netflix Cancels 'Girlboss' After One Season", 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/netflix-cancels-girlboss-after-one-season_us_594fde24e4b02734df2b128d', 'short_description': 'Sophia Amoruso, whose story inspired the show, says she\'s ready to "own her narrative."', 'date': '2017-06-25'}

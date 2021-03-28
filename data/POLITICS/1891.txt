@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'NRA Goes On Offense In Wake Of Florida Shooting', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/nra-offense-cpac-florida-shooting_us_5a8f3e93e4b01e9e56b9cd8d', 'short_description': 'Two of its top officials deliver fiery speeches at an annual gathering of conservatives.', 'date': '2018-02-23'}

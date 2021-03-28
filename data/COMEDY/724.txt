@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'The New ‘Amazon Nick Lachey’ Translates Sports Talk With Ease', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/the-amazon-nick-lachey-is-a-hot-item-for-the-sports-ignorant_us_59cbccbce4b053a9c2f5b17b', 'short_description': 'We so badly want this to be real.', 'date': '2017-09-27'}

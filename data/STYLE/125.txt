@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'These Backseat Taxi Photos Are An Incredible Fashion Time Capsule', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/backseat-taxi-photos_us_5a036fc2e4b0937b510f5abd', 'short_description': 'Too. Cool.', 'date': '2017-11-09'}

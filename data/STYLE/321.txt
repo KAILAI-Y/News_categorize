@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'This Very Realistic Avocado Bathing Suit Is Definitely Not The Pits', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/avocado-bathing-suit_us_596399f7e4b02e9bdb0e61cb', 'short_description': "It's sure to be a *smash* hit at the beach.", 'date': '2017-07-10'}

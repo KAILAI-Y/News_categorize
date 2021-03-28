@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Google Kicks Off Winter Olympics With Vibrant 'Snow Games' Doodle", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/google-doodle-winter-olympics-pyeongchang-2018_us_5a7d6c33e4b08dfc9302b643', 'short_description': 'Who knew dogs could ski-jump?', 'date': '2018-02-09'}

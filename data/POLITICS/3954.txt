@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ivanka Trump Visits India Amid Criticism Of Clothing Line's Labor Practices", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-india_us_5a1c6ab6e4b087444df234ad', 'short_description': "The first daughter's clothing line is manufactured entirely overseas — including in India.", 'date': '2017-11-27'}

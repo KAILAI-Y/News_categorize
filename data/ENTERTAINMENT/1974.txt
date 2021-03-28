@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Terry Crews Reveals The Text He Sent To Agent After He Was Groped', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/terry-crews-screenshot-groping-assault_us_5a20a27fe4b0a02abe8ffbd2', 'short_description': "Crews has claimed the man got a pass, even though he'd reported the incident.", 'date': '2017-12-01'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Carrie Underwood Posts A Bikini Pic With An Important Message About Summer', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/carrie-underwood-bikini_us_5976328ae4b0e201d576e69a', 'short_description': 'She shared some sweet advice.', 'date': '2017-07-24'}

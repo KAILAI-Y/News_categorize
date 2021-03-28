@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'These 3 Numbers May Make You Think Twice About Black Friday Shopping', 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/black-friday-environmental-impact-plastics-ewaste-clothes_us_5a1729f0e4b0649480737e2d', 'short_description': 'Reasons to back away from the annual shopping bonanza.', 'date': '2017-11-24'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "'Fox And Friends' Host Goes Anti-Vaxxer Amid Deadly Flu Epidemic", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/fox-and-friends-flu_us_5a6f2144e4b0ddb658c897f9', 'short_description': "Brian Kilmeade just told viewers he doesn't get a flu shot -- and that's incredibly irresponsible.", 'date': '2018-01-29'}

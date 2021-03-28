@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'New ‘Incredibles 2’ Trailer Is All About Mom’s New Job And Dad Staying At Home', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/new-incredibles-2-official-trailer_us_5ad0b98be4b016a07e9bce18', 'short_description': 'Get a sneak peek at Bob Odenkirk’s new character as well.', 'date': '2018-04-13'}

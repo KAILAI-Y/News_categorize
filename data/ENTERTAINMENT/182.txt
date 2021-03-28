@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Masterclass Parody On Dubbing Over Movie Swear Words Is Falcon Great', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/masterclass-parody-dubbing-over-movie-swear-words_us_5af5e2dee4b00d7e4c1a726d', 'short_description': 'Someone has to get these movies ready for TV.', 'date': '2018-05-11'}

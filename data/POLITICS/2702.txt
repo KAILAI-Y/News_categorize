@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Eric Trump: My Dad Isn't Racist Because He Only ‘Sees 1 Color, Green’", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/eric-trump-donald-trump-racist_us_5a5f5b4fe4b096ecfca95706', 'short_description': '"That\'s all he cares about."', 'date': '2018-01-17'}

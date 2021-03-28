@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Has Not Convinced America There's A War On Christmas", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-war-on-christmas_us_5a2afbd8e4b073789f69bcce', 'short_description': '(But if there were, Christmas would be winning.)', 'date': '2017-12-09'}

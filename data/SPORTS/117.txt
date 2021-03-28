@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'U.S. Wins Gold In Cross-Country Skiing For First Time In Decades', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/us-gold-olympics-cross-country-skiing_us_5a8d645de4b03414379beffe', 'short_description': '“It feels unreal, I can’t believe it just happened,” Jessica Diggins said.', 'date': '2018-02-21'}

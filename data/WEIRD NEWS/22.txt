@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Boston Dynamics Has Created A Running Robot, And It's Coming For You", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/boston-dynamics-running-robot_us_5af5f912e4b032b10bfaa54e', 'short_description': 'Soon we’ll have nowhere to hide.', 'date': '2018-05-11'}

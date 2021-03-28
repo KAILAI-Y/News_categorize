@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Chris Christie Slams 'Some Of The Really Awful People Inside The White House'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/chris-christie-awful-people-white-house_us_5a9cb268e4b0a0ba4ad4dd6a', 'short_description': 'The former New Jersey governor says they\'re trying to "hurt" Kellyanne Conway.', 'date': '2018-03-05'}

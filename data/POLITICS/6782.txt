@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Old Man On Golf Course Complains About Other People Not Working', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/old-man-on-golf-course-complains-about-other-people-not-working_us_598cd99ae4b090964295f09c', 'short_description': 'Truly, Donald Trump is a Republican now.', 'date': '2017-08-10'}

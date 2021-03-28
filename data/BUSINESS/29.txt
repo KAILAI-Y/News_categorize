@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Elon Musk's Estranged Father Has Child With Stepdaughter, Says It's 'God's Plan'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/errol-musk-elon-musk-stepdaughter_us_5ab9113ee4b0decad04c68c3', 'short_description': 'The young woman was only 4 years old when Errol Musk married her mother.', 'date': '2018-03-26'}

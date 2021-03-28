@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Colorado Man Allegedly Shoots Son Dead After Mistaking Him For Intruder', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/father-shoots-son-intruder_us_595b37a1e4b05c37bb7fe263', 'short_description': 'Frank Leo Huner Jr. faces a second-degree murder charge.', 'date': '2017-07-04'}

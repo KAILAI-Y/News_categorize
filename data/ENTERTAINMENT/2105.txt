@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Emerging Rapper Lil Peep Dies At Age 21', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/emerging-rapper-lil-peep-dies-at-age-21_us_5a0d8b67e4b0b17e5e1445ed', 'short_description': 'His emo- and rock-influenced music attracted a large online audience.', 'date': '2017-11-16'}

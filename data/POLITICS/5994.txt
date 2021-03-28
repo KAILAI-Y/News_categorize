@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s Deal With Democrats Gives Proof To Fans And Critics Alike', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-deal-dems_us_59b1b392e4b0dfaafcf6a841', 'short_description': 'Fans point and say he’s a dealmaker. Critics: Yup. A really bad one.', 'date': '2017-09-07'}

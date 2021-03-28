@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Republicans Are Closer Than Ever To Repealing Obamacare', 'authors': 'Matt Fuller and Sam Stein', 'link': 'https://www.huffingtonpost.com/entry/senate-republicans-obamacare-repeal_us_593723f2e4b0ce1e7408aebf', 'short_description': "But they're still kind of far away.", 'date': '2017-06-07'}

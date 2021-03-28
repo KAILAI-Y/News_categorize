@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Utah Lawmaker Blames 'Treehuggers' And 'Rock-Lickers' For Wildfires", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/mike-noel-utah-wildfire_us_5954a8ebe4b05c37bb7bf1ee', 'short_description': 'Environmentalists say he\'s exploiting the blaze to "mislead the public.”', 'date': '2017-06-29'}

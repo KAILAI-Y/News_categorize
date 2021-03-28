@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Newt Gingrich Is Outraged Paul Manafort Was Woken Up In His Pajamas', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/newt-gingrich-paul-manafort-pajamas_us_59f83737e4b09b5c2568bec5', 'short_description': '"This is the most grotesque abuse."', 'date': '2017-10-31'}

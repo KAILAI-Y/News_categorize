@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'The Big Blue Wave', 'authors': 'Shan Wells, ContributorSciency sun venerator + cartoons', 'link': 'https://www.huffingtonpost.com/entry/the-big-blue-wave_us_5a050838e4b0ee8ec3694054', 'short_description': '', 'date': '2017-11-10'}

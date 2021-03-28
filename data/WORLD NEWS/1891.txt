@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'London Mayor: Grenfell Tower Fire Caused By Years Of Neglect', 'authors': 'Eline Gordts', 'link': 'https://www.huffingtonpost.com/entry/grenfell-tower-fire-neglect_us_59468fc2e4b0f15cd5bc08b2', 'short_description': 'Survivors have been furious over the lack of aid and information.', 'date': '2017-06-18'}

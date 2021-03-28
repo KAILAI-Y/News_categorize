@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Watchdog Groups Sue For Documents On Trump Voter Fraud Probe', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-voter-fraud-probe_us_599c4ae9e4b04c532f448f59', 'short_description': "Trump's voter fraud commission has said little about staffing and methodology.", 'date': '2017-08-22'}

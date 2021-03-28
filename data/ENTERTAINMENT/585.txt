@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The 1 Good Movie Netflix Adds This Week', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/good-movies-netflix_us_5acb6d31e4b09d0a1195c5ab', 'short_description': "Here's a new movie worth checking out on Netflix right now.", 'date': '2018-04-09'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Australia Marks 10 Years Since Apology To Indigenous Peoples', 'authors': 'Eoin Blackwell', 'link': 'https://www.huffingtonpost.com/entry/australia-marks-10-years-since-apology-to-indigenous-peoples_us_5a822574e4b00ecc923d4af2', 'short_description': 'But has much changed?', 'date': '2018-02-13'}

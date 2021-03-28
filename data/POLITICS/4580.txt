@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's What America Makes Of Monday's Indictments", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/heres-what-america-makes-of-mondays-indictments_us_59f9be4ce4b046017fb01132', 'short_description': 'And more of the latest polling news.', 'date': '2017-11-01'}

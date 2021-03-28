@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The American Military Uncontained', 'authors': 'William Astore, ContributorWriter, History Professor, Retired Lieutenant Colonel (USAF)', 'link': 'https://www.huffingtonpost.com/entry/the-american-military-uncontained_us_59b83a20e4b0edff97173055', 'short_description': 'Out everywhere and winning nowhere.', 'date': '2017-09-12'}

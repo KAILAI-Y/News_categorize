@@ -1,0 +1,1 @@
+{'category': 'EDUCATION', 'headline': 'Hungry on Campus', 'authors': 'Harold O. Levy, ContributorExecutive Director, Jack Kent Cooke Foundation', 'link': 'https://www.huffingtonpost.com/entry/hungry-on-campus_us_5a3931e3e4b0c65287ac8034', 'short_description': 'We need to do much more to facilitate these struggling students’ success.', 'date': '2017-12-19'}

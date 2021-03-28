@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Threatens To Cut Aid To UN Members Over Jerusalem Vote', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trun-cut-aid-un-jerusalem_us_5a3aacf0e4b06d1621b1535d', 'short_description': '"Well, we’re watching those votes," the president said.', 'date': '2017-12-20'}

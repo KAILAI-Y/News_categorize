@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'British Lawmaker Refuses To Lose Sleep Over (And During) A Debate', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/lawmaker-falls-fast-asleep-britain-desmond-swayne_us_5a5f49dee4b0ee2ff32c218e', 'short_description': '"It is embarrassing and annoying," said Sir Desmond Swayne.', 'date': '2018-01-17'}

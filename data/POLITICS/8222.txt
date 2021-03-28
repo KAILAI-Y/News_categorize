@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Isn't Sure If Russian Hacking Happened, But Is Still Blaming Obama", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-russia-obama_us_594bcb91e4b01cdedf00da04', 'short_description': "Obama's homeland security secretary had just testified on the issue the day before.", 'date': '2017-06-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Stands By VA Secretary Nominee Ronny Jackson But Hints At Exit', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-defends-ronny-jackson_us_5adf6acae4b07be4d4c5707a', 'short_description': 'Trump called the allegations against Jackson "abuse."', 'date': '2018-04-24'}

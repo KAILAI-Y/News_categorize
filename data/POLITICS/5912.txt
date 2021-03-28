@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mitt Romney 'Planning To Run' For Senate If Orrin Hatch Retires: Report", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/mitt-romney-senate-utah_us_59b69215e4b0b5e53107a1b0', 'short_description': 'A spokesman for Hatch said "he plans to make a final decision by the end of the year.”', 'date': '2017-09-11'}

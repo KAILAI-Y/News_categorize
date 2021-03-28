@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '25 Halloween Costumes For Men With Beards', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/halloween-costumes-for-men-with-beards_us_59de53d4e4b00abf3645b144', 'short_description': "Don't shave costume planning for the last minute.", 'date': '2017-10-11'}

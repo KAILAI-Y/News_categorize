@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Ayatollah Ali Khamenei Says The U.S. Is Iran's 'Number One Enemy'", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/ayatollah-khamenei-us-iran-relations_us_59faf6c0e4b0b0c7fa381b7e', 'short_description': '"We will never accept their bullying over the nuclear deal,” Khamenei said.', 'date': '2017-11-02'}

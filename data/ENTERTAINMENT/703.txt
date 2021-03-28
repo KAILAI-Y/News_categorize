@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The World Gets Turned Upside Down In Revealing New 'Handmaid's Tale' Trailer", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/the-world-gets-turned-upside-down-in-revealing-new-handmaids-tale-trailer_us_5abbdbaae4b03e2a5c78a593', 'short_description': 'April 25 cannot come fast enough.', 'date': '2018-03-28'}

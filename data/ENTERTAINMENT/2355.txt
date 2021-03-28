@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Boo 2! A Madea Halloween' Leads A Sluggish Weekend At The Box Office", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/boo-2-a-madea-halloween-box-office_us_59ecfa97e4b0a484d063f1c7', 'short_description': '"Geostorm," "The Snowman" and other new releases did not fare well.', 'date': '2017-10-22'}

@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Takata Corp. Files For Bankruptcy Following Massive Airbag Recall', 'authors': 'By Naomi Tajitsu, Reuters', 'link': 'https://www.huffingtonpost.com/entry/takata-bankruptcy-airbag-recall_us_5950a9dce4b0da2c731c7628', 'short_description': 'It is the biggest bankruptcy of a Japanese manufacturer.', 'date': '2017-06-26'}

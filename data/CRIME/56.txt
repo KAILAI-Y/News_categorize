@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '2 Florida Deputies Shot Dead While Eating At Chinese Restaurant', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/trenton-florida-deputies-shot_us_5ad93ad3e4b029ebe0228740', 'short_description': 'The unidentified gunman was found dead outside the restaurant. Officials have not given a motive.', 'date': '2018-04-20'}

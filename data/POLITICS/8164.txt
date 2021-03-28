@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Scott Walker Hails 'Free Speech' Bill That Would Punish Student Hecklers", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/campus-free-speech_us_594ca6fde4b0da2c731aaa42', 'short_description': 'Critics say the measure is unconstitutional and "basically gags and bags the First Amendment."', 'date': '2017-06-23'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Add Trade Reforms To Their New Economic Agenda', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/democrats-trade-reforms-a-better-deal_us_59822239e4b0353fbb347fa1', 'short_description': "It's an attempt to steal the high ground from the trade hawk in chief.", 'date': '2017-08-02'}

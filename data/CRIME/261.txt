@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "10-Year-Old Killed By Teen's Crossbow Shot After 'Disagreement': Sheriff", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/teen-arrested-in-crossbow-death_us_59ee3c6be4b0d8293cabde69', 'short_description': 'The incident occurred in a treehouse; a 13-year-old friend is custody.', 'date': '2017-10-23'}

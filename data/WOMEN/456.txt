@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Dannon Yogurt Drops Cam Newton Over 'Sexist And Disparaging' Comment", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/cam-newton-dannon-dropped-sponsor_us_59d6a46ce4b046f5ad971d74', 'short_description': '"It\'s simply not ok to belittle anyone based on gender."', 'date': '2017-10-06'}

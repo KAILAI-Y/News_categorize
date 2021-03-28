@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s Travel Ban Does Nothing To Stop The Most Deadly Form Of Terror In The U.S.', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-terror-travel-ban-vegas_us_59d26f99e4b09538b509d978', 'short_description': 'Gun violence kills tens of thousands of people in the U.S. every year.', 'date': '2017-10-02'}

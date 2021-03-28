@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Is Baffled By This Proposal To Fund Trump's Border Wall", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-border-wall-crowdfunding_us_5abcb6cae4b04a59a314b840', 'short_description': '"I am not making this up."', 'date': '2018-03-29'}

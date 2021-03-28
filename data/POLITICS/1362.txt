@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Latest Ideas To Combat The Opioid Epidemic Are Also His Dumbest", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/trump-opioid-plan_us_5ab00ec2e4b0e862383a70bd', 'short_description': 'The president proposed the death penalty for drug dealers and a new anti-drug ad campaign. Just say no.', 'date': '2018-03-20'}

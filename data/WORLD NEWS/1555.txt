@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Israel Will Replace Metal Detectors At Holy Site Amid Rising Tensions', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/israel-replace-metal-detectors_us_59767ef5e4b0e201d5776fa2', 'short_description': 'The decision came after several days of violence.', 'date': '2017-07-24'}

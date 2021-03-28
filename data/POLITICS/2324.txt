@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Republican Message At The GOP Retreat: 'This Is Fine'", 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/republicans-gop-retreat-this-is-fine-unity_us_5a74a48ae4b06ee97af25afc', 'short_description': 'Unity!', 'date': '2018-02-02'}

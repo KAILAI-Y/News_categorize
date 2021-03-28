@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "It's Completely Legal To Walk Around Las Vegas With A Machine Gun", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/nevada-gun-laws_us_59d235e4e4b06791bb11d6b8', 'short_description': "Nevada's lax gun laws are pretty much the norm in the U.S.", 'date': '2017-10-02'}

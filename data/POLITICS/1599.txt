@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'House Republicans Weigh A Do-Nothing Agenda For 2018', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/republicans-do-nothing-agenda_us_5aa06fb3e4b0d4f5b66d34ef', 'short_description': 'Are GOP lawmakers trying to run out the clock on themselves?', 'date': '2018-03-08'}

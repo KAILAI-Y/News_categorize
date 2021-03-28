@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Wildfires Engulf Spain & Portugal, Killing At Least 30', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/wildfires-spain-portugal_us_59e4ae23e4b0a52aca194300', 'short_description': 'Authorities were battling more than 200 different blazes.', 'date': '2017-10-16'}

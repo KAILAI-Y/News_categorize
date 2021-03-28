@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Late Show' Spoofs Donald Trump's Postcards Home From Asia", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-postcards-home-asia_us_5a06bc65e4b01d21c83eadb5', 'short_description': '"The Japanese people are so kind. For my visit, they put my face on their flag."', 'date': '2017-11-11'}

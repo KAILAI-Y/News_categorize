@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Soldiers Reassigned After Bringing Women To Hotel During Pence Detail', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/security-detail-pence-reassigned-colombia-women_us_599f44dde4b0821444c21145', 'short_description': 'The men have been taken off official White House duties, NBC reports.', 'date': '2017-08-24'}

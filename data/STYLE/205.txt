@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Jane Fonda And Helen Mirren Stole The Show At Paris Fashion Week', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/helen-mirren-jane-fonda-fashion-show_us_59d23cd1e4b06791bb11e3a0', 'short_description': 'These two nailed it on the runway.', 'date': '2017-10-02'}

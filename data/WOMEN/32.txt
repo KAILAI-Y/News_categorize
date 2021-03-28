@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Former Disney Execs Launch Social Network For Girls', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/ex-disney-execs-launch-maverick_us_5ae33bd5e4b055fd7fcb7598', 'short_description': 'Maverick aims to connect and empower young women and girls.', 'date': '2018-04-27'}

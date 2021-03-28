@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ivanka Trump Faces Backlash Over Olympic Closing Ceremony Gig', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-olympic-closing-ceremony-backlash_us_5a8fc873e4b01e9e56ba33df', 'short_description': '"Daddy is gonna let her pretend to be an Olympian for the closing ceremony. Yaaaay!"', 'date': '2018-02-23'}

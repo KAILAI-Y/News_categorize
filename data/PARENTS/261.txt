@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Mom Explains Exactly Why Parents Should Thank Their Kids' Teachers", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/mom-explains-exactly-why-parents-should-thank-their-kids-teachers_us_59ce77d3e4b05f005d341cb2', 'short_description': 'A nice reminder that teachers rule.', 'date': '2017-09-29'}

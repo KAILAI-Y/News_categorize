@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift Drops New Single ‘Gorgeous’ And It's, Well, Gorgeous", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-drops-new-song-gorgeous-and-it-lives-up-to-its-name_us_59e8f042e4b0df10767b9901', 'short_description': 'More of this, please.', 'date': '2017-10-20'}

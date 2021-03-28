@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Budget Director Admits He Spoke Only To Lobbyists Who Paid Him", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/mick-mulvaney-lobbyists-who-pay_us_5adfed8ee4b061c0bfa2c06d', 'short_description': 'Mick Mulvaney has been criticized for his cozy ties to the financial industry.', 'date': '2018-04-25'}

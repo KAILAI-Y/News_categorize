@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Says He No Longer Sees Deal On DACA', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-daca_us_5ac0f25de4b0f112dc9d18dd', 'short_description': '"The Democrats blew it,” Trump said of the program he ended.', 'date': '2018-04-01'}

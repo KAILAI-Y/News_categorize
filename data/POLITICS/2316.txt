@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: What You Should Consider About The 'Deep State' Theory", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-what-you-should-consider-about-the-deep-state-theory_us_5a745585e4b0905433b333a1', 'short_description': "They're all Republicans.", 'date': '2018-02-02'}

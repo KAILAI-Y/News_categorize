@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Selena Gomez Makes It Instagram Official With 'Super Cool' Justin Bieber", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/selena-gomez-makes-it-instagram-official-with-super-cool-justin-bieber_us_5a995ad9e4b0a0ba4ad29618', 'short_description': '"Boom."', 'date': '2018-03-02'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Beyoncé Gives Birth To Destiny's Children", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/beyonc%C3%A9-gives-birth-to-twins-carry-on_us_58d6c5f2e4b03787d3592275', 'short_description': 'Moment of silence for the internet.', 'date': '2017-06-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trey Gowdy Won't Seek Re-Election To Congress", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/trey-gowdy-retiring_us_5a71fa74e4b05253b274fec0', 'short_description': 'The House Oversight Committee chairman said he wants to return to his law career.', 'date': '2018-01-31'}

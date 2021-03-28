@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "17 Last-Minute Halloween Costumes That'll Arrive By The Weekend", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/last-minute-halloween-costumes-thatll-arrive-by-the-weekend_us_59efac04e4b04917c593fee7', 'short_description': 'Make that Amazon Prime two-day shipping work for you.', 'date': '2017-10-24'}

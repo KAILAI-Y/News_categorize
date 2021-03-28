@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'An American Beauty Brand Just Released A Line Of Nail Polish For Muslim Women', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/muslim-girl-orly-halal-nail-polish_us_593594afe4b0099e7fae0e1c', 'short_description': "ORLY's #HalalPaint claims to be water permeable and prayer-friendly.", 'date': '2017-06-06'}

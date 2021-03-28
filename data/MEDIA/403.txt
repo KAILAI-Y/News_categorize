@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "TNT Analysts Mocking UCLA Player's Arrest Is Not A Good Look", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tnt-analysts-mocking-ucla-players-arrest-is-not-a-good-look_us_5a05e380e4b01d21c83e56f6', 'short_description': "Charles Barkley, Shaquille O'Neal and Kenny Smith pile on the jokes.", 'date': '2017-11-10'}

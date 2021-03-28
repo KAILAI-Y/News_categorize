@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Shannon Purser Nails One Of The Worst Parts About Mental Illness', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/shannon-purser-mental-health_us_5991da2fe4b08a2472764a3e', 'short_description': 'Sometimes being alone feels like the only solution.', 'date': '2017-08-14'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Evangelical Leaders Defend Jared Kushner Amid Ongoing Russia Probe', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-evangelicals_us_59778264e4b0a8a40e82e532', 'short_description': 'The leaders praised Kushner as a "great gift" to U.S. Christians.', 'date': '2017-07-25'}

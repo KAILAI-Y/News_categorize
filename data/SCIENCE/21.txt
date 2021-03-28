@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'Scientists, Celebrities Share Emotional Tributes To Stephen Hawking', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-hawking-tributes_us_5aa8a454e4b001c8bf14fedf', 'short_description': 'He influenced and inspired millions around the world.', 'date': '2018-03-14'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "White House Aide Struggles To Defend GOP Bill's Pre-Existing Conditions Loophole", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/chris-wallace-march-short-graham-cassidy-preexisting-conditions_us_59c7d090e4b01cc57ff2cc4c', 'short_description': 'Chris Wallace had him dead to rights.', 'date': '2017-09-24'}

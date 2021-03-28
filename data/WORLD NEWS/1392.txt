@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'North Korea Appears To Pull Back From Guam Threats', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/north-korea-guam-threats_us_5992b81de4b090964299a4a0', 'short_description': 'South Korea also demanded consent before any U.S. military action on the peninsula.', 'date': '2017-08-15'}

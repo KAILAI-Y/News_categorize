@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Hairstylists Create A Stunning Makeover For Client With Depression', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/hairstylist-creates-a-stunning-makeover-for-client-with-depression_us_5991c3cfe4b08a24727627bd', 'short_description': 'Heartbreaking yet inspiring.', 'date': '2017-08-15'}

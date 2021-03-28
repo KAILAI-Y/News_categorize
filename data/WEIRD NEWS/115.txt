@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Woman Finds Bloody Tooth (Not Her Own) In Bag Of Cashews', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/woman-tooth-cashews_us_5aa16c77e4b002df2c61fb24', 'short_description': '“I got very upset, I was crying, I threw up two or three times.”', 'date': '2018-03-08'}

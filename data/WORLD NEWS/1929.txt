@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Gunmen Take At Least 20 Hostage After Car Bombing In Somalia', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/somalia-hostage-bombing_us_59419f2ae4b09ad4fbe520b3', 'short_description': "Al Shabab militants launched a deadly attack in the country's capital.", 'date': '2017-06-14'}

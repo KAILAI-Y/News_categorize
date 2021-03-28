@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Bang Your Head To This Heavy Metal Cover Of 'The Simpsons' Theme", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/the-simpsons-metal-cover_us_59858ba8e4b0cb15b1be9cf5', 'short_description': 'Ay, caramba!', 'date': '2017-08-05'}

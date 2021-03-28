@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '4 Killed In Shooting Rampage At Pennsylvania Car Wash', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/pennsylvania-car-wash-shooting_us_5a6dfc39e4b0ddb658c75cca', 'short_description': 'The gunman was on life support after sustaining a possibly self-inflicted shot to the head.', 'date': '2018-01-28'}

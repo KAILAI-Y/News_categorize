@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Nearly Two-Thirds Of Americans Say It's 'Everyone For Themselves' In The U.S.", 'authors': 'Grace Sparks and Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/national-mood-everyone-for-themselves-poll_us_59400cd3e4b02402687d0ab5', 'short_description': 'And more of the latest polling.', 'date': '2017-06-13'}

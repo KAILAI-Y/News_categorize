@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Super Bowl Singer Pink Ecstatic Her Eagles Are Playing In Game', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/super-bowl-singer-pink-ecstatic-her-eagles-are-playing-in-game_us_5a65d488e4b0022830048ec9', 'short_description': '"IS THIS FOR REAL?!?!?!"', 'date': '2018-01-22'}

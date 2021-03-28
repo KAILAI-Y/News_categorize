@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'RuPaul's Drag Race All Stars' Is Returning To Vh1 For A Third Season", 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/drag-race-all-stars-three_us_599b17abe4b04c532f4353a1', 'short_description': 'Eclipse who?', 'date': '2017-08-21'}

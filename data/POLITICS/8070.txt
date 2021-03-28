@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Health Care Bill Disinvests In Women's Health", 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/gop-health-care-bill-women_us_595292eee4b02734df2dc30d', 'short_description': 'Skimping on preventative care and family planning would cost taxpayers a lot more for unplanned births.', 'date': '2017-06-27'}

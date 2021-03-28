@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here Are The 2018 Golden Globe Awards Winners', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/golden-globes-winners-list-2018_us_5a4c025ae4b025f99e1e44f0', 'short_description': 'The star-studded ceremony honors the best in film and TV.', 'date': '2018-01-08'}

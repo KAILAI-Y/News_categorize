@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Here's A Brilliant Way To Talk To Kids About Race And Privilege", 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/queer-kids-stuff-race-privilege_us_597f4567e4b02a8434b7f05e', 'short_description': 'It\'s time once again for "Queer Kid Stuff!"', 'date': '2017-07-31'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Samantha Bee Delivers Blistering Takedown Of Former NY AG Eric Schneiderman', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-eric-schneiderman_us_5af3e2cee4b04d3b2c908708', 'short_description': '"Eric Schneiderman, you are trash and we do not need you."', 'date': '2018-05-10'}

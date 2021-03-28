@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Despicable Gold Star Lies", 'authors': 'Chris Weigant, ContributorChris Weigant is a political commentator.', 'link': 'https://www.huffingtonpost.com/entry/trumps-despicable-gold-star-lies_us_59e7f117e4b0e60c4aa367e2', 'short_description': 'Lie after lie after lie.', 'date': '2017-10-19'}

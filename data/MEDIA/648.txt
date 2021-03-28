@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Journalist Reacts To Being Shot In The Neck In The Philippines In Calmest Way Possible', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/abc-journalist-adam-harvey-bullet-neck_us_594253a4e4b003d5948d3692', 'short_description': '"Bullet is still in my neck, but it missed everything important."', 'date': '2017-06-15'}

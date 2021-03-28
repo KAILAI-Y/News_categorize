@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Internal Email: Sinclair CEO Tells Employees Not To Let ‘Extremists’ Bully Them', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/sinclair-internal-email_us_5acd046be4b0259339ddff48', 'short_description': 'He described recent criticism of the company as “politically motivated attacks."', 'date': '2018-04-10'}

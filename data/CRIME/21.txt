@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'George Zimmerman Accused Of Stalking Detective Working On Trayvon Martin Film', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/george-zimmerman-stalking_us_5af0c331e4b0ab5c3d68b889', 'short_description': 'Zimmerman appeared to threaten to feed the investigator to an alligator.', 'date': '2018-05-08'}

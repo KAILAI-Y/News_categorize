@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Keniece Walker: I Live In Memphis, Tennessee, And This Is My Style', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/memphis-tennessee-style_us_59a8599be4b0a8d145742d71', 'short_description': 'Thrift stores and Forever 21 reign supreme for this stylist.', 'date': '2017-09-11'}

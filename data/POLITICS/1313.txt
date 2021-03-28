@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Head Into Mid-Terms With A Problem President', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-midterm-drag_us_5ab15bbae4b0decad044c04a', 'short_description': 'Where to send Trump to campaign where he can’t hurt his party -- how about Nice? Or Marseilles?', 'date': '2018-03-21'}

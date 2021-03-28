@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: The Inevitability Of What Happened In Charlottesville", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-the-inevitability-of-what-happened-in-charlottesville_us_59918d0ee4b0909642984b91', 'short_description': 'And the latest from the White House.', 'date': '2017-08-14'}

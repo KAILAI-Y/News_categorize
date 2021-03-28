@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'A Bill To Make TV More Diverse Is Now Very Close To Passing', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/a-bill-that-will-make-tv-more-diverse-is-very-close-to-passing_us_594bff20e4b01cdedf01aefa', 'short_description': "It's a first of its kind and backed up by research.", 'date': '2017-06-22'}

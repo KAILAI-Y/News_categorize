@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Chris Christie To Join ABC News As A Contributor', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/chris-christie-abc-news_us_5a6fa6f6e4b05836a255d2be', 'short_description': "Just in time for Trump's State of the Union address.", 'date': '2018-01-30'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Bill Maher: I'm So Sick Of 'Thoughts And Prayers' After Mass Shootings", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-las-vegas-thoughts-and-prayers_us_59d872a5e4b072637c4436f3', 'short_description': '"Thoughts and prayers are the Republican way of saying \'tough s**t.\'"', 'date': '2017-10-07'}

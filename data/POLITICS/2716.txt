@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration Releases Undocumented Teen Petitioning For Abortion, ACLU Says', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-release-pregnant-undocumented-abortion_us_5a5c8926e4b0fcbc3a11cde1', 'short_description': "The young woman's case is the fourth of it kind in recent months.", 'date': '2018-01-16'}

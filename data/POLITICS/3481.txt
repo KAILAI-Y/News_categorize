@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Charles Barkley Stumps For Doug Jones, Begs Alabama: 'Stop Looking Like Idiots'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/charles-barkley-alabama-idiots_us_5a2f3380e4b0789502830888', 'short_description': '"You can\'t have a white separatist running for office," the NBA legend says.', 'date': '2017-12-12'}

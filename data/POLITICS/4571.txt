@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: NYC Defiant After Terror Attack Claims 8 Lives", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-nyc-defiant-after-terror-attack-claims-8-lives_us_59f9aaeee4b0d1cf6e919414', 'short_description': '"We\'re not afraid."', 'date': '2017-11-01'}

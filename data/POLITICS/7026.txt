@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Resistance Isn't Enough", 'authors': 'Richard North Patterson, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/resistance-isnt-enough-democrats-most-offer-a-vision_us_59806351e4b0d187a5969004', 'short_description': 'Democrats most offer a vision of a better future.', 'date': '2017-08-01'}

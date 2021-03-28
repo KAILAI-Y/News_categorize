@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tiffany Trump Serves As Flower Girl At Friends' Wedding, Drops Petals Out Of Tiffany Bag", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tiffany-trump-flower-girl-wedding_us_5a5debfce4b04f3c55a5d39d', 'short_description': "You can't make this up.", 'date': '2018-01-16'}

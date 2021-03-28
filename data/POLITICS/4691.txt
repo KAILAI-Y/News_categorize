@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'I Come From Athletes', 'authors': 'Nikki Giovanni, ContributorPoet & Distinguished Professor', 'link': 'https://www.huffingtonpost.com/entry/i-come-from-athletes_us_59f3b4b1e4b06ae9067ab8a1', 'short_description': 'Kneeling is a sign of love.', 'date': '2017-10-28'}

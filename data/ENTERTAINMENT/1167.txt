@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's Why Parents Are Boycotting The New 'Peter Rabbit' Movie", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/parents-boycotting-peter-rabbit-movie_us_5a81ef3fe4b0d4a3d10c1dcc', 'short_description': 'Moviegoers have slammed the film for mocking the seriousness of food allergies.', 'date': '2018-02-12'}

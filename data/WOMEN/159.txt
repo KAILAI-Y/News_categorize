@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Canada's National Anthem Is About To Go Gender-Neutral", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/canada-national-anthem-gender-neutral_us_5a73f8cce4b0905433b2bc56', 'short_description': 'Son of a gun. The two-word change had been debated for decades.', 'date': '2018-02-02'}

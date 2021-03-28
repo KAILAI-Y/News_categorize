@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Cher Sings An ABBA Classic In The New 'Mamma Mia!' Sequel Trailer", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/cher-mamma-mia-trailer_us_5a6d28cbe4b06e2532682658', 'short_description': "There's one dancing queen still missing in action, though.", 'date': '2018-01-29'}

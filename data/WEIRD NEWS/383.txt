@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Highway Sign Hacked To Show Crude Message About Donald Trump', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-highway-sign-hack_us_59840146e4b08b75dcc61c24', 'short_description': "He's not going to like this one.", 'date': '2017-08-04'}

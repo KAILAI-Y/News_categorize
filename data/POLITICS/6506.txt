@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Carl Paladino Kicked Off Buffalo School Board', 'authors': 'Kaeli Subberwal', 'link': 'https://www.huffingtonpost.com/entry/paladino-buffalo-school-board_us_5995e991e4b01f6e801d0567', 'short_description': 'The former gubernatorial candidate came under fire last year for controversial statements about the Obamas.', 'date': '2017-08-17'}

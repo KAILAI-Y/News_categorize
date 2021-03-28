@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'The Many Faces Of This Diva Aficionado Will Return To The Stage Once More', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/ben-rimalower-patti-issues-provincetown_us_59a0974be4b05710aa5c3e4c', 'short_description': 'Ben Rimalower will reprise his shows "Patti Issues" and "Bad With Money."', 'date': '2017-08-26'}

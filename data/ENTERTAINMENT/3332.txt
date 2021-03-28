@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kelsea Ballerini Reveals Her Major Jonas Brothers Celebrity Crush', 'authors': 'Minou Clark', 'link': 'https://www.huffingtonpost.com/entry/kelsea-ballerini-nick-jonas_us_5951452fe4b02734df2c4892', 'short_description': 'We also learned what inspired her song "Legends" and why she looks up to Taylor Swift!', 'date': '2017-06-26'}

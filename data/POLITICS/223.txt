@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Judge Overturns California's Right-To-Die Law", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/judge-overturns-california-right-to-die-law_us_5afb5b5ce4b0779345d3d990', 'short_description': 'The state attorney general has five days to file an emergency appeal challenging the ruling.', 'date': '2018-05-15'}

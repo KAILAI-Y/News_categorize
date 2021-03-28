@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Jr.'s Wife Hospitalized After Being Exposed To White Powder", 'authors': 'Jonathan Allen and Peter Szekely, Reuters', 'link': 'https://www.huffingtonpost.com/entry/vanessa-trump-white-powder_us_5a81dfcde4b08dfc9306baa2', 'short_description': "The powder came to the Trumps' residence in the mail.", 'date': '2018-02-12'}

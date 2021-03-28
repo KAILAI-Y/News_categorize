@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Blood Leaks Onto Road From Funeral Home Like A Scene From A Horror Movie', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/blood-leaks-street-baton-rouge_us_59bcd5cde4b086432b075c29', 'short_description': 'A blocked storage tank line caused the gruesome sight.', 'date': '2017-09-16'}

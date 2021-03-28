@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Emma Thompson Says Real-Life Heartbreak Inspired 'Love Actually' Performance", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/emma-thompson-love-actually-inspiration_us_5a96eb0de4b0e6a5230435ec', 'short_description': 'Yes, THAT scene somehow got even sadder.', 'date': '2018-02-28'}

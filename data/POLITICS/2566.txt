@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Federal Workers Forced To Go Without Pay As Government Shutdown Extends To Day 3', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/shutdown-day-3_us_5a6557f4e4b0dc592a0a0e91', 'short_description': 'The shutdown is now extending into the work week, and the effects will be far more visible.', 'date': '2018-01-22'}

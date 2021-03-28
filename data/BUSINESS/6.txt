@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'How Amazon Is Holding Seattle Hostage', 'authors': 'Michael Hobbes', 'link': 'https://www.huffingtonpost.com/entry/amazon-holding-seattle-hostage_us_5af5ba76e4b032b10bfa4285', 'short_description': "The city wants to tax large corporations to pay for homeless housing, but Jeff Bezos isn't pleased.", 'date': '2018-05-12'}

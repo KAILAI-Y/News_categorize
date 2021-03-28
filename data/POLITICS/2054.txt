@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Big Problem With Paul Ryan's Call For 'Facts And Data' After Florida Shooting", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-florida-school-shooting_us_5a85a586e4b0ab6daf46cbaa', 'short_description': "By law, they're hard to come by.", 'date': '2018-02-15'}

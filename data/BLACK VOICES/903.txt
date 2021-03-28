@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Why I'm Back", 'authors': 'Rashard Lewis, ContributorTwo-time NBA All-Star', 'link': 'https://www.huffingtonpost.com/entry/why-im-back_us_593e8d8de4b02402687b0634', 'short_description': 'I never went to an NBA game until... well, until I was already in the NBA.', 'date': '2017-06-12'}

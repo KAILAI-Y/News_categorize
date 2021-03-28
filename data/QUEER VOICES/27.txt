@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Gay 'Conversion Therapy' Is Now Illegal In Maryland", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/maryland-outlaws-gay-conversion-therapy_us_5afb185ce4b0200bcab94bf2', 'short_description': 'A growing number of states have adopted similar legislation to protect LGBTQ youth.', 'date': '2018-05-15'}

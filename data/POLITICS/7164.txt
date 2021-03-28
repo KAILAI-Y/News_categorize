@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Senator Wants To Put Democrats On Record On Single-Payer', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/daines-single-payer-democrats_us_597925e8e4b0da64e8766f8c', 'short_description': 'Well played, Senator. Well played.', 'date': '2017-07-27'}

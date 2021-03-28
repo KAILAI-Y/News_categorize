@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Creationist Ken Ham Wants To Make Sure Kids Have The Crappiest Halloween Ever', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ken-ham-halloween_us_59ded5fae4b0fdad73b1fc8e', 'short_description': 'Or...how to have the least popular house on the block.', 'date': '2017-10-12'}

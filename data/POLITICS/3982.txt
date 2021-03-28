@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Report: Tillerson Snubbing Ivanka Trump's India Trip Amid Tensions", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/tillerson-snubs-ivanka-indiatrip_us_5a18bb14e4b0649480747fe4', 'short_description': 'No senior State Department officials will accompany her to a business summit there.', 'date': '2017-11-25'}

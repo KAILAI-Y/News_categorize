@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "The Royals Of 'Black Panther' Brought Wakanda Style To The Oscars", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/the-royals-of-wakanda-brought-black-panther-style-to-the-oscars_us_5a9ca02be4b0a0ba4ad4be05', 'short_description': "We literally can't get enough.", 'date': '2018-03-05'}

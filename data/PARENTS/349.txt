@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Watch Ed Sheeran Dedicate A Song To A Baby Named After Him', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/watch-ed-sheeran-dedicate-a-song-to-a-baby-named-after-him_us_59aecdcee4b0354e440cd7ff', 'short_description': 'Cooper Sheeran Smith has found a fan in the singer.', 'date': '2017-09-07'}

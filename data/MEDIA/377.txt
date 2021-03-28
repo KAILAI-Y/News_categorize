@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Fox News Contributor Says Pence's Dining Rules Are 'Ahead Of His Time'", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/fox-news-pence-dining-rules_us_5a158f23e4b09650540e9914', 'short_description': 'In a world rife with sexual harassment, how better to keep workplaces safe for women?', 'date': '2017-11-22'}

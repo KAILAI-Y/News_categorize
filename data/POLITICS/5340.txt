@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Government Watchdog Probes Ryan Zinke's Use Of Private Planes", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/investigation-ryan-zinke-private-planes_us_59d28d14e4b0f962988929d6', 'short_description': 'Perhaps the controversy is more than "a little BS."', 'date': '2017-10-02'}

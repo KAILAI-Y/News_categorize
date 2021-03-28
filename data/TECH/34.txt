@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'WhatsApp Co-Founder Says People Should Delete Facebook', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/whatsapp-founder-brian-acton-delete-facebook_us_5ab1c2fbe4b008c9e5f287ee', 'short_description': 'Facebook bought WhatsApp for $19 billion in 2014.', 'date': '2018-03-21'}

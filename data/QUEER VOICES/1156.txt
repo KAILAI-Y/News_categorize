@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'Fun Home' Composer Hits Back At Claims Lesbian Character Was 'De-Butched'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/fun-home-tour-claims_us_5956abe8e4b0da2c73237c2b', 'short_description': 'Some accused the creators of "selling out" with casting and costuming.', 'date': '2017-07-02'}

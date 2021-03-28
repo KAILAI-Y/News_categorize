@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Rose McGowan Is Getting An E! Docuseries About Her Life As An Activist', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/rose-mcgowan-new-series_us_5a4bc902e4b0b0e5a7a907a3', 'short_description': '"Citizen Rose" is set to debut at the end of the month.', 'date': '2018-01-02'}

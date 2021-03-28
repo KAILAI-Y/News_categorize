@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Your Favorite Movies Just Got An Amusing Millennial Twist', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/millennial-a-movie-twitter-trend_us_59f18c5fe4b0438859153e02', 'short_description': '"I Know What You Did Every Second."', 'date': '2017-10-26'}

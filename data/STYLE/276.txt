@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Fight Hate And Help Charlottesville Victims With 'F**k Trump' Lipstick", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/lipstick-charlottesville-donation_us_5995b34ee4b0d0d2cc8501fe', 'short_description': 'August proceeds will benefit victims of the violence in Charlottesville.', 'date': '2017-08-17'}

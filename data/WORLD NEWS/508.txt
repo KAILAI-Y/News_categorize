@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Australia Swelters Through Third Warmest Year On Record', 'authors': 'Eoin Blackwell', 'link': 'https://www.huffingtonpost.com/entry/australia-third-warmest-year-on-record_us_5a5591bde4b0d614e48abdc7', 'short_description': "Seven of the country's 10 warmest years have occurred since 2005.", 'date': '2018-01-10'}

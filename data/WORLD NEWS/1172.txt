@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Second Man Arrested Over London Train Bombing', 'authors': 'Kate Holton, Reuters', 'link': 'https://www.huffingtonpost.com/entry/london-parsons-green-bomb-arrest_us_59bcf4f8e4b0edff971c61c0', 'short_description': 'The attack injured 30 people and put Britain on high alert.', 'date': '2017-09-16'}

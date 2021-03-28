@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Infighting Explodes Into Open Over Stalled Legislative Agenda', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/gop-infighting-agenda_us_598c9326e4b0a66b8bb1cb37', 'short_description': 'Republicans did few things but fight this week.', 'date': '2017-08-12'}

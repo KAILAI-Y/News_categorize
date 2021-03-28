@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kanye West Is Building Up A Republican Fan Base', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/kanye-west-republican-fans-poll_us_5aea1dd2e4b022f71a04a8f8', 'short_description': "Most in the GOP still say celebrities shouldn't weigh in on politics, a new poll finds.", 'date': '2018-05-02'}

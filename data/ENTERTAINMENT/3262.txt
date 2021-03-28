@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Animal Shelter Refutes Lena Dunham's Story On Abused Rescue Dog", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/animal-shelter-refutes-lena-dunhams-story-on-abused-rescue-dog_us_595f7a1ce4b02e9bdb0bee4b', 'short_description': 'What happened to Lamby?', 'date': '2017-07-07'}

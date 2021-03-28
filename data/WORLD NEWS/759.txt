@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'British Black Friday Was Once Again A Wonderfully Civilized Occasion', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/black-friday-uk-polite-videos_us_5a17f824e4b064948073b00d', 'short_description': 'No lines, no brawls. It all looked almost enjoyable.', 'date': '2017-11-24'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Kendrick Lamar, Top Dawg To Produce Album For 'Black Panther' Film", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/kendrick-lamar-black-panther_us_5a4e2e60e4b06d1621bd7f02', 'short_description': 'Is it February yet? 😩', 'date': '2018-01-04'}

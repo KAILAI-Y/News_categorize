@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Student Who Walked Out Alone In March Has Company On Columbine Anniversary', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/justin-blackman-columbine-shooting-anniversary_us_5ad9febfe4b0e4d0715ff1d9', 'short_description': "We're proud of you, Justin.", 'date': '2018-04-20'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Anthony Scaramucci 'Tells All' In R-Rated Spoof Interview With Jimmy Kimmel", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-scaramucci-interview_us_5980231ae4b00bb8ff392056', 'short_description': '"What the f**k kind of question is that?"', 'date': '2017-08-01'}

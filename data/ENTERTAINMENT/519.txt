@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Steven Spielberg Is The First Director To Gross $10 Billion At The Box Office', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/spielberg-first-director-to-hit-10-billion-in-lifetime-box-office-gross_us_5ad4e682e4b0edca2cbcb59a', 'short_description': "That's a lot of popcorn.", 'date': '2018-04-16'}

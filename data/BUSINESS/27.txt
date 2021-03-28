@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Uber Halts Self-Driving Car Tests In California, Where It Didn't Test Much Anyway", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/uber-halt-self-driving-cars-california_us_5abaa6ede4b03e2a5c7704ad', 'short_description': 'The consequences of a fatal crash in Arizona continue.', 'date': '2018-03-27'}

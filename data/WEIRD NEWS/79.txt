@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Squirrel Who Lost Paws In Trap Gets Prosthetic Wheels', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/karamel-squirrel-prosthetic-wheels_us_5ac519e4e4b09ef3b243058d', 'short_description': 'Karamel is believed to be the first squirrel to be given prosthetics.', 'date': '2018-04-04'}

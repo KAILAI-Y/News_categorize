@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How Republicans Could Hike Taxes On The Poor', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/eitc-tax-reform_us_59dfcfafe4b0a52aca16a28d', 'short_description': 'A key tax credit for working people is being singled out for "fraud."', 'date': '2017-10-13'}

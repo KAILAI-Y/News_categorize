@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kumail Nanjiani Reacts To 'Big Sick' Snub By Impersonating Steven Spielberg", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kumail-nanjiani-reacts-to-big-sick-snub_us_5a2eabdde4b073789f6b96cf', 'short_description': 'Can a tweet be nominated for a Golden Globe?', 'date': '2017-12-11'}

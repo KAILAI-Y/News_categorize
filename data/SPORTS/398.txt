@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Women's Basketball Team Declined Trump's White House Invitation For The Best Reason", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/womens-basketball-team-declined-trumps-white-house-invitation-for-the-best-reason_us_5a0f4baee4b0e97dffed3803', 'short_description': 'Burrrrrn 🔥', 'date': '2017-11-17'}

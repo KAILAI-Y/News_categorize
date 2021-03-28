@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hate Crimes Soar In Manchester Following Attack At Ariana Grande Concert', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/religious-hate-crimes-manchester-soar_us_594ac129e4b0a3a837bc800f', 'short_description': 'Such a spike is typical, police say.', 'date': '2017-06-22'}

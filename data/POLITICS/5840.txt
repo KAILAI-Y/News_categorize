@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Begin To Bet It All On Long-Shot Tax Reform', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/republicans-bet-tax-reform_us_59b9996ae4b086432b03f993', 'short_description': '“It could be a part of a bigger picture. It could be meaningless,” one GOP congressman says.', 'date': '2017-09-13'}

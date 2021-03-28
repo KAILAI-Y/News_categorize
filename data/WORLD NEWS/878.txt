@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'At Least 19 Dead As Typhoon Damrey Sweeps Into Vietnam', 'authors': 'Mai Nguyen, Reuters', 'link': 'https://www.huffingtonpost.com/entry/vietnam-typhoon-damrey-death-toll_us_59fdc3a8e4b04cdbeb33736e', 'short_description': 'The storm hit just days ahead of the APEC summit of Asia-Pacific leaders.', 'date': '2017-11-04'}

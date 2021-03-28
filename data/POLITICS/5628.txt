@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Warns 'Madman' Kim Jong Un 'Will Be Tested Like Never Before'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-kim-jong-un_us_59c4f112e4b01cc57ff1723c', 'short_description': 'The threat marks the latest attack in an escalating verbal war between the two leaders.', 'date': '2017-09-22'}

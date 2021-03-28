@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Fans Drag Sportswriter For Quoting Rap Lyric With Racial Epithet To Discuss LeBron Scuffle', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/sportswriter-epithet-lebron-scuffle_us_5a0ae149e4b00a6eece405d1', 'short_description': "Social media wasn't having Peter Vecsey's defense.", 'date': '2017-11-14'}

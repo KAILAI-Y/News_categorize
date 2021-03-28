@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Harvey Could Be Trump's First Crisis That Isn't His Own Invention", 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-harvey-crisis_us_599f3d3de4b05710aa5b095f', 'short_description': 'The president has bounced from one crisis to another since taking office. This might be the first "real" one.', 'date': '2017-08-24'}

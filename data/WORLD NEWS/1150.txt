@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Satellite Imagery Shows Entire Rohingya Villages Destroyed', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/satellite-imagery-rohingya-villages_us_59c0d74ee4b0186c220563a6', 'short_description': 'More than 200 villages have been burnt to the ground.', 'date': '2017-09-19'}

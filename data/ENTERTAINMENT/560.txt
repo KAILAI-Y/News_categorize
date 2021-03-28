@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chris Evans Plays Real-Life Hero With the Best Possible Sidekick: His Rescue Dog', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/chris-evans-dodger-dog_us_5acee51ee4b0701783ab554b', 'short_description': 'Captain America shares the moment he met his faithful companion.', 'date': '2018-04-12'}

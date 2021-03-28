@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Guy's Review Of A Long Island Rest Stop Is Worth Pulling Over For", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/guys-review-of-a-long-island-rest-stop-is-worth-pulling-over-for_us_5ade2979e4b0df502a4e7f10', 'short_description': "It's the travel series America needs.", 'date': '2018-04-23'}

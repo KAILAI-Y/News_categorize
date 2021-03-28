@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Gunmen Attack Kabul's Intercontinental Hotel", 'authors': 'Akram Walizada and Mirwais Harooni, Reuters', 'link': 'https://www.huffingtonpost.com/entry/gunmen-attack-kabuls-intercontinental-hotel-afghan-official_us_5a637d7ee4b0022830033465', 'short_description': 'The Taliban claimed responsibility for the attack.', 'date': '2018-01-20'}

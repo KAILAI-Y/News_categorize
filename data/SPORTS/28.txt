@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Boxer Wearing 'America 1st' Shorts Gets Pounded By Mexican Opponent", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/rod-salka-america-1st-shorts-francisco-vargas_us_5ad0ee0fe4b016a07e9c2a24', 'short_description': 'The message on those boxing shorts is truly below the belt.', 'date': '2018-04-13'}

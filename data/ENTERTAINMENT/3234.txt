@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Holy Mother Of All That Is Good, 'Curb Your Enthusiasm' Is Officially Back", 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/curb-your-enthusiasm-season-9-oct-1_us_5963b56ee4b03f144e2c87d2', 'short_description': 'The first new episode in six years will premiere Oct. 1, HBO says.', 'date': '2017-07-10'}

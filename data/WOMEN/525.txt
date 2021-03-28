@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "'The Bold Type' Creator On Tackling Sexual Assault In The Show's Hopeful Finale", 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/the-bold-type-creator-on-tackling-sexual-assault-in-the-shows-hopeful-finale_us_59aef2b8e4b0dfaafcf33abc', 'short_description': '"It’s just women supporting women."', 'date': '2017-09-06'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Spunky! Here's Your First Look At The 'Rocko's Modern Life' TV Movie", 'authors': 'Katherine Brooks', 'link': 'https://www.huffingtonpost.com/entry/first-look-rockos-modern-life-tv-movie_us_59712ccae4b09e5f6cce4e75', 'short_description': "The gag-tastic '90s cartoon is making a 21st-century return.", 'date': '2017-07-20'}

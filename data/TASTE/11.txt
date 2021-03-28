@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Pour One Out, Flavortown Fans: Guy Fieri's Times Square Restaurant Is Closing", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/guy-fieri-restaurant-closing_us_5a465f29e4b06d1621b83c8f', 'short_description': '"Everyone dye your frosted tips black in mourning."', 'date': '2017-12-29'}

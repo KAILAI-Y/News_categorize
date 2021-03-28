@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Peter Thiel's Support Of Trump Presidency Is Privately Faltering: Report", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/peter-thiel-donald-trump_us_5988b414e4b0d79373890160', 'short_description': '"There is a 50% chance this whole thing ends in disaster," Thiel reportedly said.', 'date': '2017-08-07'}

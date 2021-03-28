@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Fallon Shares Epic Holiday Gift Fails', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-worst-holiday-gifts-ever_us_5a3384eae4b0ff955ad1a585', 'short_description': '#WorstGiftEver', 'date': '2017-12-15'}

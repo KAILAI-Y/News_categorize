@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Candidate Attacks Democrats Over Voting Rights Progress His Party Has Supported', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/voting-rights-restoration-virginia_us_59f0e9cce4b07d838d31be73', 'short_description': 'His opponent said he should be "ashamed."', 'date': '2017-10-25'}

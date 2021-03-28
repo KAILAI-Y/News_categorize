@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Pardons?', 'authors': 'Joe Peyronnin, ContributorHofstra Journalism Professor', 'link': 'https://www.huffingtonpost.com/entry/trump-pardons_us_59715c70e4b0f1feb89b4281', 'short_description': 'Trump can feel like the victim, but he has brought it all upon himself.', 'date': '2017-07-21'}

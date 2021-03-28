@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senators Blame Comey For Not Standing Up To Trump', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/gop-blames-comey-trump_us_59398412e4b0b13f2c683ea9', 'short_description': 'Some are saying he should have refused to listen to the president in a private setting.', 'date': '2017-06-08'}

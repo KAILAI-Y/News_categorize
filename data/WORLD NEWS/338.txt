@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'All 65 Passengers, Crew Feared Dead In Iranian Plane Crash', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/iran-plane-crash_us_5a896ecbe4b004fc319328a5', 'short_description': 'The Aseman Airlines flight crashed near the town of Semirom, roughly 370 miles south of Tehran.', 'date': '2018-02-18'}

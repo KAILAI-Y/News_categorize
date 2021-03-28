@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "North Korea Rejects 'Illegal And Unlawful' UN Sanctions", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/north-korea-rejects-un-sanctions_us_59b7bd18e4b031cc65cc8ab8', 'short_description': 'The Security Council unanimously stepped up sanctions over the country’s sixth and most powerful nuclear test.', 'date': '2017-09-12'}

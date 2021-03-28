@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Protesters Arrested For Interrupting Hearing Over Health Care Changes In GOP Tax Plan', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/protests-tax-plan-obamacare_us_5a1dc10ae4b003f9c7fb1a7a', 'short_description': '"Don\'t kill us; kill the bill."', 'date': '2017-11-28'}

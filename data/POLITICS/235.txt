@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Melania Trump Is Recovering From Kidney Surgery', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/melania-trump-recovering-from-kidney-surgery_us_5af9e0eee4b044dfffb4ed69', 'short_description': 'Her condition was benign, her office said, but she will remain hospitalized this week.', 'date': '2018-05-14'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trump's New 'MAGA'-Themed Swimwear Sinks On Twitter", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-maga-swimsuits_us_5b07ae38e4b0802d69c9aae9', 'short_description': '"Does this swimsuit make me look racist?"', 'date': '2018-05-25'}

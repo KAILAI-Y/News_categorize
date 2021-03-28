@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Intelligence Committee Backs Gina Haspel To Lead The CIA', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/gina-haspel-torture-committee_us_5afc272ce4b06a3fb50c691c', 'short_description': 'Haspel looks all but assured to win confirmation in a vote before the full Senate.', 'date': '2018-05-16'}

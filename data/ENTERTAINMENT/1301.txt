@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Dwayne Johnson Opens Up About His Mother's Suicide Attempt", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/dwayne-johnson-says-his-mother-survived-a-suicide-attempt_us_5a731881e4b0146e5944be39', 'short_description': '"My mom tried to check out when I was 15."', 'date': '2018-02-01'}

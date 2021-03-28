@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Home Alone' Actor John Heard Dead At 72", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/home-alone-actor-john-heard-dead-at-71_us_59735b2fe4b09e5f6ccfa698', 'short_description': 'He starred in some of the most beloved movies of the ’80s and ’90s.', 'date': '2017-07-22'}

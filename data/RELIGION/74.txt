@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'More People Are Celebrating Christmas Without Religion', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/christmas-without-religion_us_5a3299b3e4b0bb42ac170ca9', 'short_description': 'From holy night to holly jolly Christmas.', 'date': '2017-12-14'}

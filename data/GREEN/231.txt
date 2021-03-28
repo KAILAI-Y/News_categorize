@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Irma Intensifies Into Category 3 Hurricane', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/irma-hurricane-category_us_59a9bec8e4b0354e440a6609', 'short_description': 'The hurricane is over the eastern Atlantic and headed toward the Caribbean.', 'date': '2017-09-01'}

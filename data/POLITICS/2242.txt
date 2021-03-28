@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ben Carson Has A Weirdly Specific Vision Of How ‘The Purge’ Could Turn Real', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ben-carson-the-purge_us_5a7aa3dee4b07af4e81f1ad7', 'short_description': 'HUD secretary sets the scene for potential "lawlessness and anarchy."', 'date': '2018-02-07'}

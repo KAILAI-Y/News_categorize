@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rose McGowan Responds To Former Manager's Death", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/rose-mcgowan-former-manager-death_us_5a7f4e4be4b0c6726e140bf1', 'short_description': 'The actress said she hoped Jill Messick\'s family can "find some measure of solace during this pain."', 'date': '2018-02-10'}

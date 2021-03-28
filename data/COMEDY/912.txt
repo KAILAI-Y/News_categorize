@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trump's America", 'authors': "Peter H. Schuck, ContributorProfessor Emeritus, Yale Law School; Author, 'One Nation Undec...", 'link': 'https://www.huffingtonpost.com/entry/trumps-america-limerick_us_595d2b18e4b05c37bb81b507', 'short_description': 'A limerick.', 'date': '2017-07-05'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': '3 Miami Dolphins Players Kneel During Anthem, Reversing Team Policy', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/miami-dolphins-players-kneel-defy-team-rule_us_59ffbf99e4b04cdbeb3430fb', 'short_description': 'Head coach Adam Gase previously told players to stand or stay in the tunnel.', 'date': '2017-11-06'}

@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': "Stephen Hawking's Final Resting Place Is Among Some Of The Greatest Scientists In History", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/stephen-hawking-westminster-abbey_us_5ab1fb76e4b008c9e5f29725', 'short_description': 'Interment inside Westminster Abbey is a rarely bestowed honor.', 'date': '2018-03-21'}

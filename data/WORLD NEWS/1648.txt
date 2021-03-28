@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Cracks Appear In ISIS Online Caliphate', 'authors': 'Andrew McIntosh, HuffPost Quebec', 'link': 'https://www.huffingtonpost.com/entry/isis-cybersecurity_us_5966b48fe4b0d51cda5ffb51', 'short_description': 'ISIS has not only lost the Iraqi city of Mosul, it’s also losing the cyberspace jihad.', 'date': '2017-07-13'}

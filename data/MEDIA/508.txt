@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'No, ‘60 Minutes’ Didn’t Purposely Make Steve Bannon Look Like A ‘Bleary-Eyed Drunk’', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/bannon-60-minutes-tape-conspiracy_us_59b71141e4b027c149e1b88d', 'short_description': 'News experts rejected the color-coordinated conspiracy theory.', 'date': '2017-09-12'}

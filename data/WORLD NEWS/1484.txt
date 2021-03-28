@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Russia's Medvedev: Trump Administration Is Powerless", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/medvedev-trump-powerless_us_59822369e4b0353fbb3483b4', 'short_description': "The prime minister's comments came after Trump signed a bill imposing new sanctions.", 'date': '2017-08-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Confirms Mike Pompeo As Secretary Of State', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/mike-pompeo-confirmed-secretary-of-state_us_5ae1c796e4b055fd7fc8dd9a', 'short_description': 'America has a new top diplomat who is backtracking on his hawkish positions.', 'date': '2018-04-26'}

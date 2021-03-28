@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. To Suspend Security Aid To Pakistan', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/pakistan-security-aid_us_5a4e8cc0e4b003133ec68397', 'short_description': 'The State Department said Pakistan could receive the funding if it takes decisive action against terrorism.', 'date': '2018-01-04'}

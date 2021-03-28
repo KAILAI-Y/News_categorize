@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Instagram May Start Ratting On You If You Screenshot Someone's Story", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/instagram-screenshot-notification_us_5a81d9aae4b08dfc9306b717', 'short_description': 'This is Insta-tattling, plain and simple.', 'date': '2018-02-12'}

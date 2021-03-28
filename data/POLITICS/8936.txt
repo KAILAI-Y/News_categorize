@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Look Out! There’s A ‘Staff Shake-Up’ Looming For The White House', 'authors': 'Jason Linkins', 'link': 'https://www.huffingtonpost.com/entry/trump-staff-shake-up_us_592dd443e4b055a197cdd9dd', 'short_description': 'The proposed changes would lead to little actual change, though.', 'date': '2017-05-30'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'In A Single Week, Plague Cases More Than Doubled In Madagascar', 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/plague-outbreak-madagascar_us_59dfcb1ce4b0a52aca169b21', 'short_description': 'A far more infectious airborne strain is hitting cities hard.', 'date': '2017-10-18'}

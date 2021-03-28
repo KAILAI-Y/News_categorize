@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'This Photo Of Jennifer Lopez and A-Rod With Their Kids Is Beyond Cute', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/jennifer-lopez-twins-a-rod-kids-cuddling-coparenting_us_597e0060e4b0da64e879bb8d', 'short_description': 'This is parenting done right.', 'date': '2017-07-30'}

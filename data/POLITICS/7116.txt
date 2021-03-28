@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Few Americans Think Transgender Troops Shouldn't Be Allowed To Serve", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/transgender-troops-poll_us_597b7771e4b0da64e879088f', 'short_description': 'Younger Americans are among the most supportive.', 'date': '2017-07-28'}

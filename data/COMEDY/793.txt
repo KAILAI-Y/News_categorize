@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "If You've Ever Felt Like Your Friend Was Dating A Robot, You're Not Alone", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/if-youve-ever-felt-like-your-friend-was-dating-a-robot-youre-not-alone_us_59a42608e4b0821444c4af21', 'short_description': 'There are some warning signs.', 'date': '2017-08-28'}

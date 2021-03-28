@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'FCC Announces Plans To Repeal Net Neutrality', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/fcc-plans-net-neutrality_us_5a14459ae4b0aa32975df36b', 'short_description': "Trump's FCC Chairman thinks Comcast should have even more control over your internet than it already does.", 'date': '2017-11-21'}

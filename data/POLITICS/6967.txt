@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "5 Egregious Moments From Trump's Leaked Phone Calls With World Leaders", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-world-leaders-phone-calls_us_59833035e4b06d4888748afa', 'short_description': 'The calls were at times contentious and at other moments bizarre.', 'date': '2017-08-03'}

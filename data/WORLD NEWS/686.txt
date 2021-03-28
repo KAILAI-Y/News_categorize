@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Jesus And Mary Depicted As Migrants At Sea In Italian Town's Nativity Display", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/italian-town-nativity-jesus-and-mary-as-migrants_us_5a29904ee4b0fa798612f6c1', 'short_description': 'Jesus himself had to flee persecution as a child.', 'date': '2017-12-07'}

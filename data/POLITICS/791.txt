@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'World Leaders Respond To The Coordinated Strike In Syria', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/world-leaders-respond-us-syria-strike_us_5ad1519be4b077c89ce8bd29', 'short_description': '“Could not have had a better result,” said President Donald Trump. “Mission Accomplished!”', 'date': '2018-04-14'}

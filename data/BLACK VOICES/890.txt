@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Wheel Of Fortune' Backdrop For 'Southern Charm Week' Appears To Feature Slaves", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/wheel-of-fortune-slave-photo_us_59446207e4b01eab7a2dd476', 'short_description': 'Heads are spinning over this one.', 'date': '2017-06-16'}

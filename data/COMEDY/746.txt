@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Conan Tiptoes Through Sensitive Territory In West Bank Preview', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/conan-tiptoes-through-sensitive-territory-in-west-bank-preview_us_59bbb7f7e4b02da0e141154d', 'short_description': 'A wall painting of Donald Trump provided brief comic relief.', 'date': '2017-09-15'}

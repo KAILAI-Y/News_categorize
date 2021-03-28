@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Lashes Out At CNN, ABC Over Reporting Errors', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-cnn-abc-corrections_us_5a2b12f1e4b073789f69e7b0', 'short_description': 'The president criticized the "fake news media" during a Florida rally.', 'date': '2017-12-09'}

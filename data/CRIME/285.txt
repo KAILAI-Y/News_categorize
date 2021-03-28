@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "What We Know And Don't Know About Stephen Paddock And The Las Vegas Massacre", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/stephen-paddock-las-vegas-what-we-know_us_59d480d3e4b04b9f9206039d', 'short_description': "Investigators are still mostly in the dark about Paddock's motive.", 'date': '2017-10-04'}

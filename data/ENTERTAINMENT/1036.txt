@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Satire Is Dead: Archie Bunker Predicted Trump's Gun Plan Back In 1972", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/archie-bunker-gun-control_us_5a9659f6e4b0e6a523029b72', 'short_description': '"All In The Family" episode is eerily similar to the president\'s call to arm teachers.', 'date': '2018-02-28'}

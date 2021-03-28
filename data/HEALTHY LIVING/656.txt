@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Tech Companies Wage War On Disease-Carrying Mosquitoes', 'authors': 'Julie Steenhuysen, Reuters', 'link': 'https://www.huffingtonpost.com/entry/tech-companies-wage-war-on-disease-carrying-mosquitoes_us_59654657e4b09b587d631eeb', 'short_description': 'Smart traps could aid scientists who study mosquitos.', 'date': '2017-07-11'}

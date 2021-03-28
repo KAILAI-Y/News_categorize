@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Weirdest Promposals Of 2018 Include Teen Who Faked His Own Birth', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/2018-weirdest-promposals_us_5b0709a6e4b05f0fc84630da', 'short_description': 'The things people do for love. Or at least for prom.', 'date': '2018-05-24'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon Shares His Viewers' Strangest Roommate Stories", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-roommate-habits-weird_us_5ac73fade4b0337ad1e6a0a9', 'short_description': 'Who wears socks on their hands to eat Cheetos?!?', 'date': '2018-04-06'}

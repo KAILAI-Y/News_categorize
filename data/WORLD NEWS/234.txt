@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Slovakia's Prime Minister Fico Quits Amid Crisis Over Murdered Journalist", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/slovakia-fico-quits_us_5aaa8003e4b0600b8300dd10', 'short_description': 'Political leaders are trying to ease escalating outrage over the killing.', 'date': '2018-03-15'}

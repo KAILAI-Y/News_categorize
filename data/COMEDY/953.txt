@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'These #DadQuotes Once Again Prove Dad Is The Funniest', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/these-dadquotes-are-all-the-dad-jokes-youll-need_us_5943caf4e4b06bb7d2726fa4', 'short_description': "Just in time for Father's Day.", 'date': '2017-06-16'}

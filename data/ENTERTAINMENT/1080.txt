@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kim Cattrall’s 'Sex And The City' Boo Sides With Sarah Jessica Parker", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/kim-cattrall-sex-in-the-city-boo-sides-with-sarah-jessica-parker_us_5a903044e4b03b55731b84f1', 'short_description': 'Actor Jason Lewis, AKA Smith Jerrod, has spoken.', 'date': '2018-02-23'}

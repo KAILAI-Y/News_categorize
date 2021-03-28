@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chrissy Teigen Has 2 Words For Hater Who Insinuated She's A Gold Digger", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-twitter-gold-digger_us_5a81f157e4b061625973ae7f', 'short_description': 'She has her own money, thank you very much.', 'date': '2018-02-12'}

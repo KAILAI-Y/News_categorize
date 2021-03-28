@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Amy Schumer Is Making Her Broadway Debut This Fall', 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/amy-schumer-broadway_us_59887ce4e4b08b75dcc8674d', 'short_description': "She's playing a married woman with a questionable interest in cannibalism.", 'date': '2017-08-07'}

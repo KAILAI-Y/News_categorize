@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'ACLU Is Going On Offense In Voting Rights Fight', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/aclu-voting-rights_us_59c270bee4b087fdf5097c9f', 'short_description': '“If all we’re doing is filing lawsuits and fighting voter suppression, it’s just going to keep continuing."', 'date': '2017-09-20'}

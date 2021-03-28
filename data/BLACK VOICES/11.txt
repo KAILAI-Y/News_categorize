@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Before You Call The Cops' On Him, Watch His Powerful Monologue On Racism", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/before-you-call-the-cops-video_us_5b03f997e4b07309e05c1951', 'short_description': '"I hate that anyone at all might possibly be afraid of me."', 'date': '2018-05-22'}

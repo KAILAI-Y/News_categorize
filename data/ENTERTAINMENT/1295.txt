@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's What Is Arriving On Hulu In February 2018", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/hulu-february-2018_us_5a70b790e4b0ae29f08b7f84', 'short_description': 'Get ready to binge all of "One Tree Hill."', 'date': '2018-02-01'}

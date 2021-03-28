@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'New Prison Photo Shows A Bald, Smiling Phil Spector', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/prison-photo-phil-spector_us_5988af8fe4b0449ed5043a7d', 'short_description': "The famed record producer, now serving time for murder, doesn't look like this anymore!", 'date': '2017-08-07'}

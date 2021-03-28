@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chrissy Teigen Fangirled Over Alicia Silverstone And Her Iconic Costume', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-alicia-silverstone-twitter-clueless_us_59ed14ece4b0a484d063f7d7', 'short_description': "She was like, totally buggin'.", 'date': '2017-10-22'}

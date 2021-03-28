@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "NYT's Bari Weiss Cites Hoax Twitter Account To Criticize Liberals", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/bari-weiss-new-york-times-fake-twitter_us_5aa100a0e4b0d4f5b66d9ba3', 'short_description': 'Another great day on Twitter for the contentious New York Times opinion writer.', 'date': '2018-03-08'}

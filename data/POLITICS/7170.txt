@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Burning Raqqa', 'authors': 'Laura Gottesdiener, ContributorFreelance journalist and news producer with Democracy Now!', 'link': 'https://www.huffingtonpost.com/entry/burning-raqqa-syria-civilians_us_597a0924e4b02a8434b4a2a7', 'short_description': 'The U.S. war against civilians in Syria', 'date': '2017-07-27'}

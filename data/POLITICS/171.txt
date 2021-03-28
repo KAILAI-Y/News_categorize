@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Farm Bill Could Be A Huge Blow To Animals', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/farm-bill-animals-king-amendment_us_5afb4840e4b0779345d3cb4a', 'short_description': 'An amendment threatens farm animal protections, food safety laws and rules on invasive species.', 'date': '2018-05-17'}

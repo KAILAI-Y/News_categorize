@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Church Shooting Leaves 5 Dead In Russian Region Of Dagestan: Report', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/russia-church-shooting_us_5a89c98de4b004fc31936048', 'short_description': 'The attack occurred in the village of Kizlyar in the Muslim-majority republic of Dagestan.', 'date': '2018-02-18'}

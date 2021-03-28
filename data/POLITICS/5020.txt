@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Rex Tillerson Once Again Won't Deny He Called Trump A 'Moron'", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/rex-tillerson-still-wont-deny-he-called-trump-a-moron_us_59e36272e4b04d1d51825f4e', 'short_description': '"I’m not going to deal with that kind of petty stuff.”', 'date': '2017-10-15'}

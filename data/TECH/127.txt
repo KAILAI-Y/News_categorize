@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Mother Of Uber CEO Killed In Boating Accident', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/uber-ceo-mother-killed_us_5929fde8e4b0065b20b6e8bd', 'short_description': 'The CEO’s father was being treated at an area hospital for what was described as moderate injuries.', 'date': '2017-05-27'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Republicans Look To Strike A Deal On Health Care Bill, Find Nothing', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/senate-republicans-struggle-deal-health-care_us_595410ede4b02734df2fbb39', 'short_description': 'Who knew health care could be this complicated?', 'date': '2017-06-28'}

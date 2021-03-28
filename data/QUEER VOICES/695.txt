@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Inside The Fight For Transgender Americans In The Mountains Of North Carolina', 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/tranzmission-im-still-here-podcast_us_59e4f2c0e4b0a52aca19cc0e', 'short_description': 'The first in the "I\'m Still Here" HuffPost podcast series.', 'date': '2017-10-18'}

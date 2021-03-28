@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Sam Smith Met Julie Andrews And It Was Practically Perfect In Every Way', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/sam-smith-julie-andrews_us_5a9f20d3e4b0e9381c132d55', 'short_description': 'Meeting the "Mary Poppins" and "Sound of Music" icon was "a dream come true," he gushed.', 'date': '2018-03-07'}

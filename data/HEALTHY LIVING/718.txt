@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Your Health Care Information Is Insecure -- And Extremely Lucrative On The Black Market', 'authors': 'Ann Brenoff', 'link': 'https://www.huffingtonpost.com/entry/health-care-data-security_us_5952f4d1e4b0da2c731f7d5c', 'short_description': "And there's very little you can do about it.", 'date': '2017-06-29'}

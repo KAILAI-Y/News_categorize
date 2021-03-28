@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ed Sheeran’s Bodyguard Humorously Instagrams His Life With The Singer', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/ed-sheeran-bodyguard-instagram-account_us_5ad4d686e4b077c89ceb7399', 'short_description': "He only started his account April 7, but it's already gathering a following.", 'date': '2018-04-16'}

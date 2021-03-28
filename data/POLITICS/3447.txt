@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Will Susan Collins Save Medicare?', 'authors': 'Nancy Altman and Linda Benesch, Contributors', 'link': 'https://www.huffingtonpost.com/entry/will-susan-collins-save-medicare_us_5a317543e4b06a512dd69cdf', 'short_description': 'Collins believes, or claims to believe, that Paul Ryan can be trusted to protect Medicare.', 'date': '2017-12-13'}

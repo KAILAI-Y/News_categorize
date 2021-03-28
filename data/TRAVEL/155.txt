@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "5 Ways To Catch The Solar Eclipse If You Haven't Made Plans Yet", 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/eclipse-travel_us_598ced70e4b08a2472736b30', 'short_description': "It's not too late!", 'date': '2017-08-12'}

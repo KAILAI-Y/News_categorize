@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'FBI Reportedly Investigating Clinton Foundation', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/fbi-investigating-clinton-foundation_us_5a4fa7dee4b089e14dba7e34', 'short_description': 'A spokesman for Hillary Clinton called the probe "a sham."', 'date': '2018-01-05'}

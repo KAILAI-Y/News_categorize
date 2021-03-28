@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Eric Trump Gets Mercilessly Mocked On Twitter Over New Magazine', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/eric-trump-trump-magazine-twitter_us_5a7eb3eee4b08dfc930451d3', 'short_description': '"I prefer Charmin but in a pinch Trump magazine would work!"', 'date': '2018-02-10'}

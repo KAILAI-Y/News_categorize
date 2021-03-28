@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher Shreds 'Baghdad Bob' Sarah Huckabee Sanders Over Her 'Bulls**t'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-sarah-huckabee-sanders-press-brief_us_5aed4921e4b041fd2d26e0f1', 'short_description': '"What is the point of going into this room every day?"', 'date': '2018-05-05'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': '40 Stunning Photos Of Women Working Around The World', 'authors': 'Alanna Vagianos and Damon Dahlen', 'link': 'https://www.huffingtonpost.com/entry/40-stunning-photos-of-women-working-around-the-world_us_5aa0256ee4b0d4f5b66cda10', 'short_description': "Because women's work can be anything from a butcher to a soccer coach.", 'date': '2018-03-08'}

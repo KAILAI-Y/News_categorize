@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Shalane Flanagan Becomes First U.S. Woman To Win NYC Marathon In 40 Years', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/shalane-flanagan-wins-nyc-marathon_us_59ff45ace4b04cdbeb33cd2f', 'short_description': "She defeated a Kenyan in the race's women's division.", 'date': '2017-11-05'}

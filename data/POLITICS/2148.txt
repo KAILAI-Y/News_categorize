@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What A Battle Over Virginia’s Most Powerful Monopoly Can Teach Democrats Everywhere', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/dominion-virginia-monopoly-democrats_us_5a7de928e4b08dfc9303d14b', 'short_description': 'Progress and setbacks on the road to curbing Dominion’s influence.', 'date': '2018-02-12'}

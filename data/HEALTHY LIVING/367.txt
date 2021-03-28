@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Drug Overdoses Are Killing A Lot More People Than HIV Or Guns At Their Worst', 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/drug-overdoses-2016-cdc_us_59b1768be4b0dfaafcf62b26', 'short_description': 'More than 64,000 Americans died of overdoses last year alone.', 'date': '2017-09-08'}

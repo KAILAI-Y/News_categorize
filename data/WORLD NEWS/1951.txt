@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Russian Police Brutalize Protesters During Anti-Kremlin March', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/russian-police-brutalize-protesters_us_593e97a0e4b0c5a35ca13b01', 'short_description': 'Scores of young people were bludgeoned and arrested.', 'date': '2017-06-12'}

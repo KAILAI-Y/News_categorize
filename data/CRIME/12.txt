@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Video Shows 8-Year-Old With Autism Taunted, Abused By Bus Driver', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/video-shows-8-year-old-with-autism-taunted-abused-by-bus-driver_us_5afc882ee4b0779345d56bee', 'short_description': '"It\'s clearly despicable," said an attorney for the girl\'s family.', 'date': '2018-05-16'}

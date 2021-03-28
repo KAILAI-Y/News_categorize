@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'New York Times Defends Its Inflammatory Nazi Sympathizer Profile', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/nyt-nazi-sympathizer-response_us_5a1b0e2be4b0649480751f0b', 'short_description': '“Our reporter and his editors agonized over the tone and content of the article,” the Times said.', 'date': '2017-11-26'}

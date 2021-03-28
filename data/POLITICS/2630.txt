@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "How We Arrived At A 'Shithole' Shutdown", 'authors': 'Arthur Delaney, Elise Foley, and Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/government-shutdown-explained_us_5a62427be4b0125fd6366e88', 'short_description': "Trump's Jan. 11 outburst played a key role.", 'date': '2018-01-19'}

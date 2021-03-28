@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Calls Failed Bid To Repeal Obamacare 'Pretty Impressive'", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/trump-obamacare-vote-pretty-impressive_us_596e43e5e4b0000eb19643a3', 'short_description': 'From the president who loves to win.', 'date': '2017-07-18'}

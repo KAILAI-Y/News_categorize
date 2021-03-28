@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Amia Tyrae, Transgender Woman Of Color, Killed In Baton Rouge', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/amia-tyrae-transgender-woman-of-color-killed_us_5abbac00e4b03e2a5c783afa', 'short_description': 'The 28-year-old is the seventh known trans person killed this year.', 'date': '2018-03-28'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "It Only Took 56 Years, But Now You Can Actually Have Breakfast At Tiffany's", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/breakfast-at-tiffanys-for-real_us_5a055beae4b05673aa58931a', 'short_description': 'The famed jewelry store will open a cafe on Friday.', 'date': '2017-11-10'}

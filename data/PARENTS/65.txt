@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Family Holiday Traditions That Don’t Focus On Tons Of Presents', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/family-holiday-traditions-that-dont-focus-on-tons-of-presents_us_5a2e7f64e4b073789f6b5196', 'short_description': 'From families who decided to shake up what it means to "give."', 'date': '2017-12-11'}

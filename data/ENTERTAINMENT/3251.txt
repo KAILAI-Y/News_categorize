@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Gotham' Actor Donal Logue's Missing Child Has Been Found And Is Safely Home", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/gotham-actor-donal-logues-missing-child-has-been-found-and-is-safely-home_us_59613e19e4b0d5b458eadd9f', 'short_description': '"Jade is now safely back home."', 'date': '2017-07-08'}

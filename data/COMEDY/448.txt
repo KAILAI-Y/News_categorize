@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Ridicules Mike Pence For Going All 'Love Actually' On Trump", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-mike-pence-trump-love-actually_us_5a3c952fe4b0b0e5a7a11d7b', 'short_description': '😂', 'date': '2017-12-22'}

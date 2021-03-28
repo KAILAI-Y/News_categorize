@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'How To Make Summer Water And Stay Deliciously Hydrated', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/summer-water_us_59651b98e4b03f144e2e82cf', 'short_description': "We're not talking about rosé, but we promise it's just as good.", 'date': '2017-07-12'}

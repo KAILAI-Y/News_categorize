@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Stretchmarks Are The New Sexy: Why Your Postpartum Body Is Worth Celebrating', 'authors': 'Aparna Iyer, MD, ContributorPsychiatrist', 'link': 'https://www.huffingtonpost.com/entry/stretchmarks-are-the-new-sexy-why-your-postpartum_us_5983e552e4b0f2c7d93f54a3', 'short_description': "Women should embrace their 'mombods.'", 'date': '2017-08-04'}

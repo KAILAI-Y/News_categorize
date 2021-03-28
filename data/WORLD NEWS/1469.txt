@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Death Valley's Average Temperature In July Was 107.4 — A New Record", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/death-valley-record-average-monthly-temperature_us_598261b1e4b00f0084adf822', 'short_description': "The month's low was still a sweltering 89 degrees. The highest: 127.", 'date': '2017-08-03'}

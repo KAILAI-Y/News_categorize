@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "'CBS This Morning' Hosts Address Charlie Rose Allegations", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/cbs-charlie-rose-allegations_us_5a141563e4b0bfa88c1ce4ae', 'short_description': '"There is no excuse for this alleged behavior," co-host Norah O\'Donnell said.', 'date': '2017-11-21'}

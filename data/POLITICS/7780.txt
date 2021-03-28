@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump DOJ Says A Few Tweaks Are Enough To Fix Texas' Discriminatory Voting Law", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/doj-texas-voter-id_us_595e8a97e4b02e9bdb0b53df', 'short_description': 'A lawyer for the plaintiffs accused the department of siding with "racists."', 'date': '2017-07-06'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'David Letterman Receives Mark Twain Prize For Humor', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/david-letterman-mark-twain-prize_us_59ed6fdfe4b00f08619fa0f7', 'short_description': 'The former host was praised for his imagination, comic daring and heart.', 'date': '2017-10-23'}

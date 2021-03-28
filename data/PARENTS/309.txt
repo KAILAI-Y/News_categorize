@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'This Bath Bomb Was Made For Parents Who Just Need A Damn Break', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/this-bath-bomb-was-made-for-parents-who-just-need-a-damn-break_us_59bc07ffe4b02da0e141a17c', 'short_description': 'Moms and dads, you deserve it!', 'date': '2017-09-15'}

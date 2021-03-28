@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '3 Americans Held By North Korea Return To The United States', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/north-korea-prisoners-return-to-us_us_5af3cd0ae4b04d3b2c90712f', 'short_description': '"We thank God, and all our families and friends who prayed for us and for our return."', 'date': '2018-05-10'}

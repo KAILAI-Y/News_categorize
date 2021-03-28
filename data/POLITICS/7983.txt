@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'By 2090, The Paris Climate Pact Could Save Thousands Of U.S. Lives Each Year', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/extreme-heat-deaths-american-cities_us_59540b89e4b02734df2fae25', 'short_description': 'Does Trump\'s "America First" agenda include letting Americans die?', 'date': '2017-06-29'}

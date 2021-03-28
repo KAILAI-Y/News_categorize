@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Star Trek' Villain And Comedian Comic Kahn Gets Up Warmed Up For Comic-Con", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/star-trek-villain-and-comedian-comic-kahn-gets-up-warmed-up-for-comic-con_us_59654132e4b09b587d631a02', 'short_description': '"FRIIIIIIIIIESSSSSS!"', 'date': '2017-07-11'}

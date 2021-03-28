@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Debate About Trump's Mental State, Long Whispered, Blows Wide Open", 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-mental-fitness_us_5a53cf72e4b01e1a4b187d7d', 'short_description': 'Wolff book spurs "emperor has no clothes" moment for the president.', 'date': '2018-01-08'}

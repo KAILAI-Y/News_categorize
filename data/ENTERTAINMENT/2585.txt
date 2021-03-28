@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Beyoncé Drops Surprise Remix, Donates Proceeds To Hurricane Victims', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/beyonce-mi-gente-remix-hurricane-relief_us_59cd628fe4b09538b5072612', 'short_description': 'The "Lemonade" star is fundraising in the most Beyoncé way ever.', 'date': '2017-09-29'}

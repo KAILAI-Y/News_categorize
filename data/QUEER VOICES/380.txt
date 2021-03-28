@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "K-Pop's New Star Breaks Fresh Ground By Addressing His Sexuality In Debut Video", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/holland-neverland-k-pop-video_us_5a6658fae4b0dc592a0bb45f', 'short_description': 'In "Neverland," Holland shares a sweet kiss on the beach with another man.', 'date': '2018-01-22'}

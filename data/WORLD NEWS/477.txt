@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'This Aussie Dad Hired A Helicopter To Save His Son After A Car Crash', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/australia-helicopter-rescue_us_5a5e8a85e4b096ecfca87c61', 'short_description': '"I just thought, bugger this, I\'m not going to sit around and wait."', 'date': '2018-01-17'}

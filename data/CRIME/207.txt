@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Retirement Community Resident Allegedly Tested Homemade Poison On Neighbors', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/ricin-retirement-community-neighbors_us_5a22ea6ce4b0a02abe918890', 'short_description': 'A 70-year-old woman is accused of sprinkling ricin on the food of other seniors.', 'date': '2017-12-02'}

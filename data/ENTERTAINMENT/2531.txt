@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Reigning 'Jeopardy!' Champ Tells His Secret To Quiz Show Greatness", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/reigning-champ-of-jeopardy-tells-secret-of-quiz-show-greatness_us_59d650cae4b0380b6c9ac7c2', 'short_description': 'It\'s more than "genetics, luck [and] karma."', 'date': '2017-10-05'}

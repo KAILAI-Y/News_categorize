@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Julia Louis-Dreyfus Cheers Her Basketball Player Son's Funny Tweet", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/julia-louis-dreyfus-cheers-her-basketball-player-sons-funny-tweet_us_5a3bd6a2e4b025f99e154a78', 'short_description': 'Gee, wonder where he gets his gift for comedy?', 'date': '2017-12-21'}

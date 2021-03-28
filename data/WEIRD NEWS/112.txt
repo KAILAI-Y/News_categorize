@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Nightclub Shuts Down After Woman Rides Horse Into Crowd Of Partygoers', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/mokai-lounge-nightclub-horse_us_5aa4432be4b086698a9e3fc0', 'short_description': 'Footage shows the spooked animal throwing off a bikini-clad rider.', 'date': '2018-03-10'}

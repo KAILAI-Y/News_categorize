@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Stormy Daniels Tops Roseanne Barr In Epic And NSFW Twitter Smackdown', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/roseanne-barr-stormy-daniels-twitter-war_us_5aec7ea2e4b041fd2d263303', 'short_description': 'Our ears are still ringing from this  clapback.', 'date': '2018-05-04'}

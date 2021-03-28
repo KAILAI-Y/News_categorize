@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "South Carolina Woman's Hair Dryer Turns Into A Blowtorch", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/hair-dryer-turns-into-blowtorch_us_5a74c7e3e4b0905433b40b6c', 'short_description': 'A burned hand and a scorched product.', 'date': '2018-02-02'}

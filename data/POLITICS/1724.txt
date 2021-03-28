@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Tariff Can't Start A Trade War Because It Started Years Ago", 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/trump-trade-war-globalization_us_5a99dacfe4b089ec353a4c95', 'short_description': 'Globalization policies were wreaking havoc long before he was elected president.', 'date': '2018-03-03'}

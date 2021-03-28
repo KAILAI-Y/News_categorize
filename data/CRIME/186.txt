@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Veterinarian Accused Of Shooting Neighbors' Dog In The Head", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/veterinarian-allegedly-shoots-dog_us_5a396509e4b0c65287accc7c', 'short_description': "The vet had allegedly sent hostile texts to the owners about the dog's barking.", 'date': '2017-12-20'}

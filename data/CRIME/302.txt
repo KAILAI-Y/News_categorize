@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '2 Florida Men Accused Of Stealing Enormous Power Pole After Irma', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/florida-power-pole-arrests-photograph_us_59ba5567e4b02da0e13f6b41', 'short_description': 'Police in Jacksonville found the gigantic pipe strapped to the roof of a vehicle.', 'date': '2017-09-14'}

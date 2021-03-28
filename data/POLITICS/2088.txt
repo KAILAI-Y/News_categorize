@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Why You Shouldn't Freak Out Even If The Stock Market Does", 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/stock-market-dont-freak-out_us_5a846bc5e4b0774f31d15aaf', 'short_description': 'Everything is fine ... except your paycheck.', 'date': '2018-02-14'}

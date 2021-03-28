@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bipartisan Bill Introduced To Ban Bump Stocks After Las Vegas Shooting', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/bump-stocks-bill-las-vegas_us_59dd0a4de4b04fc4e1e92111', 'short_description': 'It has 10 Republican supporters.', 'date': '2017-10-10'}

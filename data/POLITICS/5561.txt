@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ted Cruz Says He's Leaning No On The New Obamacare Repeal Bill", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/cruz-health-care-bill_us_59c7c9a2e4b0cdc77331e258', 'short_description': "The bill's political fortunes -- already dim -- just got dimmer.", 'date': '2017-09-24'}

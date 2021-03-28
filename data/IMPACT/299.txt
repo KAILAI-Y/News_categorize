@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "Margaret Atwood Has Some Fixes For A Crisis That's Slowly 'Killing Us'", 'authors': 'Eleanor Goldberg', 'link': 'https://www.huffingtonpost.com/entry/margaret-atwood-handmaids-tale-plastic_us_5935a047e4b0099e7fae25a8', 'short_description': 'She offers a three-point plan for plastic waste.', 'date': '2017-06-06'}

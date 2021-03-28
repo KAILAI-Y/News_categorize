@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Himalayan Salt Blocks Are The Cult Obsession Your Kitchen Is Missing', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/himalayan-salt-blocks-plates_us_59838e6ae4b08b75dcc5f9e3', 'short_description': 'Stay salty, my friends.', 'date': '2017-08-04'}

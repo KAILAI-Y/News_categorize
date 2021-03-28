@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Mark Zuckerberg Addresses Cambridge Analytica Incident As Facebook Fumbles', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/zuckerberg-facebook-cambridge-analytica_us_5ab26e91e4b008c9e5f3584d', 'short_description': "We've been burned many times before. Why should we trust Facebook again?", 'date': '2018-03-21'}

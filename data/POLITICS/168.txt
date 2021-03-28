@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Obama Photographer Taunts Donald Trump For Calling Immigrants 'Animals'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/obama-photographer-donald-trump-animals_us_5afd2234e4b0779345d5dc5f', 'short_description': '"Dear sir: THESE are animals."', 'date': '2018-05-17'}

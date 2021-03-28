@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ohio Lawmakers Actually Reach A Bipartisan Deal To Try To Stop Gerrymandering', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/ohio-gerrymandering-bipartisan-deal_us_5a7b56f9e4b0c6726e0ebae7', 'short_description': "It's not perfect, but reform advocates praised it as a good step forward.", 'date': '2018-02-07'}

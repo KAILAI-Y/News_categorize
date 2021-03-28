@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Belgian Transgender Ballet Drama Wins Big At Cannes Film Festival', 'authors': 'Johnny Cotton, Reuters', 'link': 'https://www.huffingtonpost.com/entry/belgium-girl-transgender-ballet-movie_us_5b02da32e4b07309e05ac227', 'short_description': '"Girl" was deemed "a stunning debut" for its director and star.', 'date': '2018-05-21'}

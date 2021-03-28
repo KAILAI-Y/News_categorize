@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Shia LaBeouf Arrested For Disorderly Conduct, Public Drunkenness, Again', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/police-confirm-shia-labeouf-arrested-for-disorderly-conduct-public-drunkenness_us_5960e49ce4b02e9bdb0cf264', 'short_description': 'The actor is in trouble once more.', 'date': '2017-07-08'}

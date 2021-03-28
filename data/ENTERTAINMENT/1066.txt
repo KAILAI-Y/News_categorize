@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Frozen' Director Gives Glimmer Of Hope Elsa Could Get A Girlfriend", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/frozen-director-elsa-girlfriend_us_5a9388c5e4b01e9e56bd1ead', 'short_description': '"We have tons of conversations."', 'date': '2018-02-26'}

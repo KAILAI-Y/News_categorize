@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "What's New On Hulu, Amazon And HBO In July 2017?", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/new-on-streaming-hulu-amazon-july-2017_us_59529959e4b0da2c731ef4cf', 'short_description': '"Braveheart"! "The Addams Family"! "Richie Rich"!', 'date': '2017-06-27'}

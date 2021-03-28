@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '2017 Was Safest Year On Record For Air Travel', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/commercial-jet-accidents_us_5a4b16d0e4b025f99e1d0c43', 'short_description': 'Fatalities on commercial jetliners have been falling for the past two decades.', 'date': '2018-01-02'}

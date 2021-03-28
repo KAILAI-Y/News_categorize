@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Secretary Of State Nominee Mike Pompeo Says He Continues To Oppose Gay Marriage', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/mike-pompeo-gay-marriage_us_5acf907fe4b016a07e9a3e1a', 'short_description': 'Cory Booker grilled the CIA director about his views on gays and Muslims.', 'date': '2018-04-12'}

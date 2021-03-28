@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Red Balloons Are Popping Up On Storm Grates Ahead Of 'It' Movie", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/red-balloons-storm-grates-pennsylvania_us_59aeedd4e4b0354e440d1fce', 'short_description': 'Police said they were "terrified" while removing them.', 'date': '2017-09-05'}

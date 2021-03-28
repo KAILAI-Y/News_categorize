@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Calls For The White House Correspondents' Dinner To Be Put To 'Rest'", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-whca-dinner_us_5ae67493e4b04aa23f2440e9', 'short_description': '"This year was an embarrassment to everyone associated with it."', 'date': '2018-04-30'}

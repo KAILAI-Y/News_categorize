@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bill De Blasio Named A New Schools Chancellor. Then The Candidate Backed Out On Live TV.', 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/alberto-carvalho-new-york_us_5a984d26e4b0479c02506d8f', 'short_description': "Alberto Carvalho won't be leaving his job in Miami after all.", 'date': '2018-03-01'}

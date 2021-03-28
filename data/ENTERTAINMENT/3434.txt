@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chrissy Teigen and John Legend's Daughter Throws The First Pitch", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-john-legends-luna-first-pitch_us_5937f3e2e4b01fc18d3f28ee', 'short_description': 'The Seattle Mariners may never have a cuter pitcher.', 'date': '2017-06-07'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration To Divide Immigrant Families To Prosecute Parents For Illegal Entry', 'authors': 'Roque Planas and Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/trump-dhs-doj-immigration-families_us_5af0bd5ee4b0ab5c3d68ae96', 'short_description': 'Attorneys are already fighting back.', 'date': '2018-05-07'}

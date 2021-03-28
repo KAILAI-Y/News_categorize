@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Mexico's Alpine Ski Team Gear Is A Gorgeous Tribute To The Day Of The Dead", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/mexico-alpine-ski-team-day-of-dead-2018-winter-olympics_us_5a81b3b3e4b0c6726e15abe0', 'short_description': 'Calaveras everywhere!', 'date': '2018-02-12'}

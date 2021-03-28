@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Angela Merkel Says Europe Must Take Its Fate Into Its Own Hands', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/merkel-europe-trump_us_592af511e4b053f2d2ad0029', 'short_description': "Her remarks come days after Trump's awkward summit with the continent's leaders.", 'date': '2017-05-28'}

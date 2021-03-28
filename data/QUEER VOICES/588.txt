@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'LGBTQ Parents Are Back At It Again', 'authors': 'RaiseAChild, ContributorLet Love Define Family®', 'link': 'https://www.huffingtonpost.com/entry/lgbt-parents-are-back-at-it-again_us_5a0dbc85e4b006a16baf1fb5', 'short_description': '“I can understand why people do a double take on our family.”', 'date': '2017-11-16'}

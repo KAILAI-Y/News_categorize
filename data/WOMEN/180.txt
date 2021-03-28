@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Someone Edited This Music Festival Poster To Point Out Its Obvious Woman Problem', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/wireless-festival-poster-woman_us_5a68768ce4b00228300825f9', 'short_description': '"The struggle is real."', 'date': '2018-01-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'John Kelly Sure Seems Like A Jerk', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/john-kelly-jerk_us_5ab009a8e4b00549ac7e31ec', 'short_description': 'He\'s humiliated a Cabinet official, lied about a congresswoman and lamented the lack of "compromise" in the Civil War.', 'date': '2018-03-19'}

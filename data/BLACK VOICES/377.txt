@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Issa Rae Hilariously Responds To Rumors She Turned Down Drake', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/issa-rae-drake-golden-globes_us_5a59317ae4b03c418965aa93', 'short_description': 'The "Insecure" star reacted in true fangirl fashion.', 'date': '2018-01-12'}

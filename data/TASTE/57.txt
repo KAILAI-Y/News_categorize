@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "People Are Putting Glitter On Their Cappuccinos, Because It's 2017", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/glitter-cappuccinos_us_5a034a3ee4b0937b510f07b9', 'short_description': 'This is all we have now.', 'date': '2017-11-08'}

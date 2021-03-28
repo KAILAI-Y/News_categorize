@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Carrie Underwood 'Not Quite Looking The Same' After 50 Stitches In Face", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/carrie-underwood-stitches-face_us_5a4b5c8ee4b025f99e1d4a81', 'short_description': '"I just don\'t know how it\'s all going to end up," the country singer wrote to fans.', 'date': '2018-01-02'}

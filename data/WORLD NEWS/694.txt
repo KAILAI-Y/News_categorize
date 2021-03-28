@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Pope Francis Implores Trump To Respect 'Status Quo' On Jerusalem", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/pope-francis-trump-jerusalem_us_5a27c9dde4b02d3bfc36b111', 'short_description': '“I cannot keep quiet about my deep worry about the situation," he said.', 'date': '2017-12-06'}

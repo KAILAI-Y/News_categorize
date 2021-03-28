@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Cecile Richards Steps Down As Planned Parenthood President', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/cecile-richards-planned-parenthood_us_5a68d270e4b0dc592a0ee501', 'short_description': "She's led the organization through multiple political fights since 2006.", 'date': '2018-01-24'}

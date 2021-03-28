@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Tim Cook's July Fourth Tweet Has A Not-So-Subtle Message", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/tim-cooks-july-4th-tweet-has-a-not-so-subtle-message_us_595c58dfe4b05c37bb809319', 'short_description': 'Crystal clear.', 'date': '2017-07-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Michelle Obama Appears To Diss Trump: I Use Twitter 'Like A Grownup'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-trump-twitter_us_5a967f31e4b09c872baf55e2', 'short_description': '"I don\'t just tweet off the top of my head."', 'date': '2018-02-28'}

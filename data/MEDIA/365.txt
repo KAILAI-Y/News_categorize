@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Roy Moore Campaign Official Caught On Video Going After Journalist', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-campaign-cameraman_us_5a1cd52ee4b0e2ddcbb230c0', 'short_description': 'Heated encounter took place outside Alabama campaign event.', 'date': '2017-11-28'}

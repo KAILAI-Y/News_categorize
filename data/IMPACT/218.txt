@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'In Rural Kenya, Escaping A Deadly Disease Sometimes Takes A Little Luck', 'authors': 'Zoe Flood', 'link': 'https://www.huffingtonpost.com/entry/kala-azar-kenya_us_598dd1bee4b08a247273f23d', 'short_description': 'There are 400,000 new kala azar cases each year, but treatment is scarce.', 'date': '2017-09-06'}

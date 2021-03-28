@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Tries To Shut Down Speculation That Mike Pence Is Preparing For 2020 Run', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-2020-run_us_59860fdae4b041356ec0356a', 'short_description': "You know, just in case Donald Trump isn't.", 'date': '2017-08-05'}

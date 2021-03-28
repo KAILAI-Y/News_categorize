@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Praises Gianforte's 'Big Win,' Slams White House Leaks As 'Lies'", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/trump-praises-gianfortes-win_us_592aca46e4b0065b20b7068a', 'short_description': '"#FakeNews is the enemy," the president declared.', 'date': '2017-05-28'}

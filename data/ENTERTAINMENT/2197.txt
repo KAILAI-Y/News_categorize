@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chris Evans' Dog Howling 'The Lion Sleeps Tonight' With His Toy Lion Is Beyond Cute", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/chris-evans-dog-singing-the-lion-sleeps-tonight_us_5a02e368e4b092053059170c', 'short_description': 'Get Dodger an agent!', 'date': '2017-11-08'}

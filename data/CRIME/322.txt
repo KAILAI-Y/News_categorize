@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Charles Manson Gets A New Mug Shot', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/charles-manson-new-mugshot_us_5997693ae4b0e8cc855de7a2', 'short_description': "The wrinkles on Manson's face make his swastika tattoo stand out.", 'date': '2017-08-18'}

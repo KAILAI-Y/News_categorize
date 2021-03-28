@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rose McGowan Wishes Harvey Weinstein 'A Happy F**king Birthday'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rose-mcgowan-harvey-weinstein_us_5ab0ba22e4b0697dfe19ee20', 'short_description': '"I told you we’d be coming," said McGowan, who has accused Weinstein of rape.', 'date': '2018-03-20'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "SNL's Cathy Anne Tells The South What They Can Really Be Proud Of", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/snl-weekend-update-cathy-anne-south_us_599fc826e4b0821444c263d1', 'short_description': "There's so much more than the Civil War to celebrate.", 'date': '2017-08-25'}

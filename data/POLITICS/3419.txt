@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Knives Out For Steve Bannon After Democrat Wins Senate Seat In Alabama', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-alabama_us_5a30b3f7e4b07ff75afeac81', 'short_description': 'The bloodletting begins.', 'date': '2017-12-13'}

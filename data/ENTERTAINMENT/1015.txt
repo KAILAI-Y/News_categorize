@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here’s What Is Arriving On Hulu In March 2018', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/hulu-march-2018_us_5a96dde9e4b0e6a5230423c8', 'short_description': '"Dirty Dancing" and many other movies join the service.', 'date': '2018-03-01'}

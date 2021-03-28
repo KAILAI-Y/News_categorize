@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Bob Corker: Donald Trump's Legacy Will Be The 'Debasement Of Our Nation'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/bob-corker-donald-trump_us_59ef3032e4b03535fa93ce16', 'short_description': 'Trump fired back at Corker on Twitter, calling the GOP senator a "lightweight."', 'date': '2017-10-24'}

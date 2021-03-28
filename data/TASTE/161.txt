@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Burger King Will Give You A Free Whopper If You Publicly Admit You Got Fired', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/burger-king-is-giving-away-free-whoppers_us_59a6c3abe4b00795c2a30481', 'short_description': "That's one way to lift your spirits.", 'date': '2017-08-30'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Steel, Aluminum Tariffs Exempt Canada, Mexico", 'authors': 'David Lawder, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-steel-tariffs_us_5aa1a27ee4b0ea12e965734b', 'short_description': 'The tariff plan has angered U.S. allies.', 'date': '2018-03-08'}

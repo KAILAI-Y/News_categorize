@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Ta-Nehisi Coates To Author Captain America Comic Books', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ta-nehisi-coates-captain-america_us_5a971b0ce4b0e6a523046401', 'short_description': 'The acclaimed essayist admits he\'s not convinced he "can tell a great \'Captain America\' story."', 'date': '2018-02-28'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pence Vows Toughest Sanctions Ever On North Korea Ahead Of Winter Olympics', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/pence-sanctions-north-korea-olympics_us_5a7ac362e4b06505b4e988b3', 'short_description': "The rogue state will be participating in this year's games.", 'date': '2018-02-07'}

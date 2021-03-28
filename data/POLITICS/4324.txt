@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chuck Schumer Warns Moderate Democrats Of The Perils Of Voting For GOP Tax Bill', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/chuck-schumer-gop-tax-bill_us_5a05f466e4b0e37d2f375649', 'short_description': 'Will the Democratic Senate leader be able to keep his caucus together on taxes?', 'date': '2017-11-10'}

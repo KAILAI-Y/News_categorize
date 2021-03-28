@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '5 Late-Night Hosts Made The Same Dumb Joke About Trump’s Nondisclosure Agreement', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/late-night-hosts-same-joke-trump_us_5aa158b6e4b0d4f5b66e73f8', 'short_description': 'Stormy Daniels deserves better.', 'date': '2018-03-08'}

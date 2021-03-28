@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'This Faceless Makeup Illusion Will Haunt Your Dreams', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/this-faceless-makeup-illusion-will-haunt-your-dreams_us_59c16607e4b0186c22066b17', 'short_description': 'Truly, utterly terrifying.', 'date': '2017-09-19'}

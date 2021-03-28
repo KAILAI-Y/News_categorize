@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: Trump, Kim Jong Un To Meet", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-trump-kim-jong-un-to-meet_us_5aa275fae4b07047bec58ccf', 'short_description': 'The announcement has stunned Korea observers.', 'date': '2018-03-09'}

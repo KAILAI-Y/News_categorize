@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Heathers' TV Show Teaser Drops To Remind Us Who The Really Mean Girls Are", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tv-heathers-trailer_us_59a41e06e4b0821444c4a07a', 'short_description': "It's about time that clique came back.", 'date': '2017-08-28'}

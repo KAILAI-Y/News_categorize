@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Kentucky Governor's Crime Plan: Volunteer 'Prayer Patrols' Roaming The Streets", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/kentucky-prayer-patrols_us_5930d0e0e4b0c242ca229321', 'short_description': '“Prayer WILL change things,” Matt Bevin vows.', 'date': '2017-06-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'First House Dem Calls On Rep. Conyers To Resign', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/democrat-rep-conyers-resignation_us_5a16bc31e4b0649480731c66', 'short_description': '"We all know credible allegations when we hear them."', 'date': '2017-11-23'}

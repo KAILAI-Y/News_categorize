@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'North Korea Behind Massive Cyberattack Earlier This Year, U.S. Government Says', 'authors': 'Eoin Blackwell', 'link': 'https://www.huffingtonpost.com/entry/north-korea-wannacry_us_5a38795ae4b0c65287abc7a0', 'short_description': 'The "WannaCry" attack impacted more than 230,000 computers worldwide.', 'date': '2017-12-19'}

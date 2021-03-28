@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Up To 50 Migrants Killed Off Coast Of Yemen After Smuggler Forces Them Overboard', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/yemen-migrants-forced-overboard_us_598b5eb4e4b0a66b8bb0b2ed', 'short_description': 'The average age of migrants on board was 16.', 'date': '2017-08-09'}

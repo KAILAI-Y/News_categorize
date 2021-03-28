@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'NFL Reporter Levels Troll With Hard-Earned Comeback', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/nfl-reporter-just-leveled-a-troll-with-a-hard-earned-comeback_us_5a0dae35e4b0c0b2f2f84557', 'short_description': 'Score one for Stacey Dales.', 'date': '2017-11-16'}

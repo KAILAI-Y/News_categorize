@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Here's Your First Look At 'Broadway Bares: Game Night'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/broadway-bares-game-night-2018_us_5ad35ca0e4b077c89ce98ab9', 'short_description': "And these games aren't for kids.", 'date': '2018-04-16'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Someone Face-Swapped Trump Into 'The Office,' And It's Absolutely Horrifying", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-the-office-face-swap_us_5a729c36e4b06fa61b4d5abe', 'short_description': "That's definitely not what she said.", 'date': '2018-02-01'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Chipotle Is Testing Queso In Hopes Of Turning Business Back Around', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/chipotle-queso-finally_us_5964d231e4b005b0fdc8566b', 'short_description': "The chain is finally listening to its customers' requests.", 'date': '2017-07-11'}

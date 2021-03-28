@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pennsylvania Republicans Plan Another Lawsuit To Fight Fix To Gerrymandering', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/pennsylvania-gerrymandering-lawsuit_us_5a8749a1e4b00bc49f43f625', 'short_description': "Even though they've already been rebuked by the U.S. Supreme Court.", 'date': '2018-02-16'}

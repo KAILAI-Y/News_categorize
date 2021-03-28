@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Scott Pruitt Leaves G7 Climate Meeting More Than A Day Early', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-g7-climate-change_us_593dee5be4b0c5a35ca0c160', 'short_description': 'The EPA administrator had time to eat prosciutto and make pasta though.', 'date': '2017-06-12'}

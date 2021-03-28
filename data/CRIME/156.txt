@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '15-Year-Old Airlifted To Dallas Hospital After High School Shooting', 'authors': 'Hayley Miller and Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/italy-texas-school-shooting_us_5a65f869e4b002283004c901', 'short_description': 'The 16-year-old suspect is in custody.', 'date': '2018-01-22'}

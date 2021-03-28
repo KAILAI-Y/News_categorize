@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Israel Freezes Plan For Mixed-Gender Prayer Space At Western Wall', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/western-wall-mixed-gender-space_us_594fe281e4b0da2c731c3db8', 'short_description': 'The government bowed to opposition from Orthodox Jewish politicians.', 'date': '2017-06-25'}

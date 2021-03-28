@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: What The Democrats' Major Election Wins Mean For Trump", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-what-the-democrats-major-election-wins-mean-for-trump_us_5a02e8dae4b06ff32c949444', 'short_description': 'Inside the blue wave.', 'date': '2017-11-08'}

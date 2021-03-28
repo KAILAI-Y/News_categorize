@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift Lives Up To Her Big Reputation In New 'End Game' Music Video", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-end-game-music-video-ed-sheeran-future_us_5a587283e4b0720dc4c5e4f0', 'short_description': '"Taylor and Ed are friendship goals."', 'date': '2018-01-12'}

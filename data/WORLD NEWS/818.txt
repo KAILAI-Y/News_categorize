@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "A Look Back At Zimbabwe President Robert Mugabe's Rise To Power", 'authors': "Rebecca Falconer and Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/robert-mugabe-zimbabwe-profile_us_5a0b84e5e4b0bc648a0eaf39', 'short_description': "The decades-long ruler is one of Africa's most controversial faces.", 'date': '2017-11-16'}

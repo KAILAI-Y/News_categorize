@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Widow Of Former NFL Player Who Died In Combat Rebukes Donald Trump', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/marie-pat-tillman-trump_us_59ca0142e4b0cdc773340f63', 'short_description': "The president used her husband's name to criticize athletes who sit out the national anthem.", 'date': '2017-09-26'}

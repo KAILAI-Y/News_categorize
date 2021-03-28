@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Roy Moore Backers Say George Soros Is Paying Women To Lie About Him', 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-george-soros-sexual-misconduct_us_5a1df35de4b0d724fed4748d', 'short_description': 'Wait, what?', 'date': '2017-11-29'}

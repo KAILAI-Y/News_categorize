@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jeff Flake Knocks Republicans For Not Standing Up To Birthers', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/flake-trump_us_59873576e4b041356ec07163', 'short_description': 'The senator has been criticizing his party and the president, while still mostly voting with them.', 'date': '2017-08-06'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Pregnant Mindy Kaling Looks Super Cute In A Little Black Dress', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/mindy-kaling-pregnant_us_59b008cde4b0b5e53102b36d', 'short_description': 'You can never go wrong with an LBD, right?', 'date': '2017-09-06'}

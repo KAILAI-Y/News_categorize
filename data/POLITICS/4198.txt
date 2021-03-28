@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Confirms Former Mine Executive To Be In Charge Of Mine Safety', 'authors': 'Dave Jamieson', 'link': 'https://www.huffingtonpost.com/entry/senate-confirms-david-zatezalo-mine-safety_us_5a0ca41ce4b0c0b2f2f771cb', 'short_description': "David Zatezalo's coal company ran afoul of safety laws while he was CEO.", 'date': '2017-11-15'}

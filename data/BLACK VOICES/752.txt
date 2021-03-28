@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Issa Rae's 'Insecure' Has Been Renewed For A Third Season", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/issa-raes-insecure-has-been-renewed-for-a-third-season_us_5989fccfe4b0d793738aa65b', 'short_description': '"We got y\'all," the announcement says.', 'date': '2017-08-08'}

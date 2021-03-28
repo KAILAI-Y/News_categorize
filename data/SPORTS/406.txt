@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Hope Solo Says Ex-FIFA President Sepp Blatter Groped Her', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/hope-solo-sepp-blatter-fifa-grope_us_5a0778afe4b01d21c83ee18d', 'short_description': "Blatter says the accusation isn't true.", 'date': '2017-11-11'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "John Mayer's Weird New Low-Budget Video Is A Meme-Worthy Masterpiece", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-mayer-new-light-video_us_5b0780d6e4b0568a8809b6fa', 'short_description': 'Mayer\'s hilariously strange "New Light" video even spells his name wrong.', 'date': '2018-05-25'}

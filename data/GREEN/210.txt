@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Here's What We Know About The Florida Keys After Hurricane Irma", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/hurricane-irma-florida-keys-damage_us_59b6d8ebe4b0a50fd051e275', 'short_description': 'No fatalities have been reported so far, but that seems likely to change.', 'date': '2017-09-11'}

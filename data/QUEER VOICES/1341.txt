@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Edie Windsor To Receive Huge Honor From The Trevor Project', 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/edie-windsor-trevor-project_us_592dbc3fe4b0c0608e8bd528', 'short_description': '💜 💙 💚 💛 ❤️', 'date': '2017-05-30'}

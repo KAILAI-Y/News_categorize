@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Florida Gov. Rick Scott Announces Senate Run', 'authors': 'Marina Fang and Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/rick-scott-senate-run_us_5acb4eaae4b09d0a11959fba', 'short_description': 'The term-limited governor was widely expected to announce a run against incumbent Sen. Bill Nelson (D).', 'date': '2018-04-09'}

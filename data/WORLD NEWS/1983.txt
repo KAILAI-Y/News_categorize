@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Saudi Athletes' Actions During Tribute To London Victims Spark Controversy", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/saudi-soccer-team-moment-of-silence_us_59395abae4b0c5a35c9cdb90', 'short_description': 'The Saudi Arabian Football Federation has apologized.', 'date': '2017-06-08'}

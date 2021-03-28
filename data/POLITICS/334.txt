@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Caliphate Of Trump And A Planet In Ruins', 'authors': 'TomDispatch, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/trump-extremism_us_5af1f96ee4b07358f8b0ff59', 'short_description': 'Extremists "R" us.', 'date': '2018-05-09'}

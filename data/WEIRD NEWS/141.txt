@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Sorry, Eating McDonald's French Fries Won't Actually Cure Your Baldness", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/french-fries-baldness_us_5a79dca7e4b06505b4e85fcf', 'short_description': 'The researcher behind a groundbreaking baldness study says eating fries is not the solution.', 'date': '2018-02-06'}

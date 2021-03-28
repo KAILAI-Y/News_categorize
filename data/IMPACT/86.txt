@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Coal Power In A ‘Death Spiral’ In Europe, Where More Than Half Of Plants Lose Money', 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/coal-power-europe-death-spiral_us_5a2abb2ee4b073789f6945e6', 'short_description': 'Maybe someone should tell Donald Trump.', 'date': '2017-12-08'}

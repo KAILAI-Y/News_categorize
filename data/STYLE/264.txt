@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Aerie Launches Nude Lingerie Sets For 5 Different Skin Tones', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/aerie-nude-underwear-skin-tone_us_59a98acfe4b0354e440a030c', 'short_description': 'Because nude is not one tone fits all.', 'date': '2017-09-01'}

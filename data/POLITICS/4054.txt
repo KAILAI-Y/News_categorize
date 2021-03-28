@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Rep. John Conyers Reportedly Settled Complaint Involving Unwanted Advances', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/john-conyers-sexual-advances_us_5a13ab29e4b0bfa88c1ca584', 'short_description': 'The House Ethics Committee said it has launched an investigation into the matter.', 'date': '2017-11-21'}

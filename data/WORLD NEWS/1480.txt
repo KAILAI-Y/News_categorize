@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Suicide Bomb Kills Two American Soldiers In Afghanistan', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/afghanistan-american-soldiers-killed_us_59821ecee4b02b36343fd1d0', 'short_description': 'The Taliban claimed responsibility for the attack.', 'date': '2017-08-02'}

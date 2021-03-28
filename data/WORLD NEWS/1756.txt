@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'China Cracks Down On Web Videos, Censoring Queer Content', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/china-cracks-down-on-web-content-censoring-queer-content_us_595911b1e4b02734df32fae2', 'short_description': 'President Xi Jinping has overseen measures to clamp down on independent online media.', 'date': '2017-07-02'}

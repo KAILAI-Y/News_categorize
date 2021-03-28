@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Spots Something Intriguing About Melania Trump's Twitter Account", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-melania-trump-twitter_us_5a7c1e17e4b0c6726e0f9762', 'short_description': '"I\'m sure the president isn\'t very happy about this."', 'date': '2018-02-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Las Vegas Shooting Leads To Renewed Scrutiny Of GOP Push To Deregulate Silencers', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/congress-gun-silencers_us_59d28201e4b0f9629889103c', 'short_description': 'Congress was expected to vote on the measure in the coming weeks.', 'date': '2017-10-02'}

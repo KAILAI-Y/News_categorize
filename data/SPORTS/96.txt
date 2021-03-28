@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Olympics Snafu Sees U.S. Champion Curlers Receive The Wrong Medals', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/olympics-snafu-medals-team-usa-curlers_us_5a915bcae4b0ee6416a3a1f0', 'short_description': "But the blunder did nothing to dampen the history-making squad's mood.", 'date': '2018-02-24'}

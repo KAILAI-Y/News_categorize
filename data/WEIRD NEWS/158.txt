@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Leaping Kangaroo Smashes Into Unsuspecting Cyclist In Australia', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/kangaroo-cyclist-accident_us_5a700702e4b00d0de223488c', 'short_description': 'The kangaroo hopped away, apparently unscathed.', 'date': '2018-01-30'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Here's How You Can Honor The Victims Of The Pulse Massacre", 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/equality-florida-honor-them-with-action_us_593d5bc9e4b0b13f2c6b5880', 'short_description': '#HonorThemWithAction', 'date': '2017-06-12'}

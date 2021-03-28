@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Anderson East Is Ready For His 'Encore’", 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/anderson-east-new-album-encore_us_5a58c301e4b02cebbfdb21fe', 'short_description': 'The singer-songwriter opens up about collaborating with Ed Sheeran, and why Miranda Lambert is "the best."', 'date': '2018-01-12'}

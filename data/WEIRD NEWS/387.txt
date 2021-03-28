@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Woman Calls 911 With Boa Constrictor Wrapped Around Her Neck', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/woman-calls-911-boa-constrictor_us_597ca207e4b02a4ebb75c137', 'short_description': '"I’ve never heard of this before," the dispatcher said.', 'date': '2017-07-29'}

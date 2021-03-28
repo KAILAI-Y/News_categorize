@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here’s What’s Leaving And Arriving On Netflix In December 2017', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/leaving-arriving-netflix-december_us_5a1c8788e4b04e8b2a83d1e7', 'short_description': 'Dave Chappelle, "The Crown" and many other Netflix originals are coming to the service.', 'date': '2017-11-29'}

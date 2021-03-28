@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Pope Francis: Breastfeeding Is A 'Language Of Love'", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/pope-francis-breastfeeding-is-a-language-of-love_us_5a537ed2e4b003133eca6b68', 'short_description': 'Francis encouraged moms to breastfeed in the Sistine Chapel during a baptism.', 'date': '2018-01-08'}

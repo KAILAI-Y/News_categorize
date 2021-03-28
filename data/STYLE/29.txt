@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Goop Pushes An At-Home Coffee Enema Kit In Its Latest Beauty Guide', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/goop-enema-kit_us_5a4e6fffe4b089e14db95d6c', 'short_description': 'So, is Gwyneth full of s**t or not?', 'date': '2018-01-04'}

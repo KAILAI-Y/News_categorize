@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Our Snack Addiction Is Killing Orangutans', 'authors': 'Tess Riley', 'link': 'https://www.huffingtonpost.com/entry/snack-addiction-killing-orangutans_us_5af1e943e4b0ab5c3d6aabd6', 'short_description': 'Meet the woman trying to save them.', 'date': '2018-05-09'}

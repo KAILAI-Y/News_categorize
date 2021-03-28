@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Gives Donald Trump Some Valuable Marketing Advice', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-spygate-claims_us_5b067e7ae4b0784cd2b17e11', 'short_description': '“Stop trying to make ‘Fetch’ happen."', 'date': '2018-05-24'}

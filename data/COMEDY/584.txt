@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "18 Ugly Christmas Sweaters For Couples That Are So Corny They're Cute", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/ugly-christmas-sweaters-for-couples_us_5a09d803e4b00a6eece32fca', 'short_description': 'Slay the season with your holi-bae 🎄😘', 'date': '2017-11-13'}

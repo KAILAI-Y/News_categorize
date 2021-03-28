@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Gets Roasted On Twitter After Bragging About How Tough He Is On Russia', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-russia-tough_us_5ad7ea7ae4b03c426dab1acf', 'short_description': '"Donald Trump has issued tougher sanctions on Colin Kaepernick than he has on Russia."', 'date': '2018-04-19'}

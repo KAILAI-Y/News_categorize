@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Netanyahu Calls For Disbanding UN Agency Supporting Palestinian Refugees', 'authors': 'Eline Gordts', 'link': 'https://www.huffingtonpost.com/entry/netanyahu-dismantling-unrwa_us_593d785fe4b0b13f2c6b6b1d', 'short_description': 'The agency provides aid to five million Palestinians.', 'date': '2017-06-11'}

@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Facebook Suspends 200 Apps Amid Data Misuse Investigation', 'authors': 'Supantha Mukherjee, Reuters', 'link': 'https://www.huffingtonpost.com/entry/facebook-200-apps-suspended-data_us_5af99d6ee4b00d7e4c1cfd81', 'short_description': 'The investigation was launched in response to the Cambridge Analytica scandal.', 'date': '2018-05-14'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Oxfam: 42 Billionaires Hold As Much Wealth As World's Poorest 3.7 Billion", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/billionaires-oxfam-inequality_us_5a657e61e4b0022830041a7a', 'short_description': 'The charity calls out President Donald Trump for making wealth inequality worse.', 'date': '2018-01-22'}

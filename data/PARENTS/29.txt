@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'The Funniest Tweets From Parents This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/funniest-parenting-tweets_us_5a4f828ce4b003133ec745ad', 'short_description': 'So. Many. Snow. Days.', 'date': '2018-01-05'}

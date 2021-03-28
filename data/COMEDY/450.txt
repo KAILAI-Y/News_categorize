@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'James Franco Stars In The Fake Hallmark Christmas Movies We Wish Were Real', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/james-franco-snl-hallmark-christmas-movies_us_5a3c3474e4b0b0e5a7a0ec8d', 'short_description': 'How many cliches do you count in this short sketch?', 'date': '2017-12-21'}

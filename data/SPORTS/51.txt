@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'First Player Of Color In The NHL, The Son Of Chinese Immigrants, Dies At 94', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/larry-kwong-nhl-dead_us_5ab26909e4b0decad045ec8e', 'short_description': 'Larry Kwong fought racism and discrimination throughout his journey to the professional leagues.', 'date': '2018-03-21'}

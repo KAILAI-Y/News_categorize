@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sen. Marco Rubio Admits There's No Proof Tax Cut Is Helping American Workers", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/marco-rubio-tax-cuts-didnt-work_us_5ae78e3de4b055fd7fcee214', 'short_description': 'In a blow to basic Republican beliefs, he suggests increasing government spending.', 'date': '2018-04-30'}

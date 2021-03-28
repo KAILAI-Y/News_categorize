@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Baywatch' Officially Flops As 'Pirates' Comes In First At The Box Office", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/baywatch-pirates-of-the-caribbean-box-office_us_592c1918e4b0065b20b77851', 'short_description': 'Captain Jack Sparrow is still wooing audiences abroad.', 'date': '2017-05-29'}

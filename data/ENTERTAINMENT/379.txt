@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Blake Shelton Shadily Tweets About Karma Amid Miranda Lambert Cheating Rumors', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/blake-shelton-shadily-tweets-about-karma-amid-miranda-lambert-cheating-rumors_us_5ae1cccee4b02baed1b7591f', 'short_description': 'Message received.', 'date': '2018-04-26'}

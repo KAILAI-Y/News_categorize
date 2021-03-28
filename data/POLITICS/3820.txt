@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan Struggles To Explain Why Trump Shouldn't Have To Resign Over Sexual Misconduct Claims", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-trump-resign_us_5a2148f0e4b03350e0b5fd7a', 'short_description': "He said he's only focused on misconduct in Congress.", 'date': '2017-12-01'}

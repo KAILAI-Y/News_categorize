@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Marti Noxon Poured Her Own Life Into 'To The Bone,' A Movie About Anorexia", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/marti-noxon-to-the-bone_us_5967ddafe4b03389bb16262f', 'short_description': 'The Netflix release marks the "Buffy" and "Mad Men" scribe\'s directorial debut.', 'date': '2017-07-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Corker Blasts Trump For Trying To 'Publicly Castrate' Tillerson", 'authors': 'Eric Walsh, Reuters', 'link': 'https://www.huffingtonpost.com/entry/corker-blasts-trump-tillerson_us_59e17de9e4b04d1d51820670', 'short_description': '“You cannot publicly castrate your own secretary of state”', 'date': '2017-10-14'}

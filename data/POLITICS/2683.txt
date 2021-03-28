@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Behold Sen. Orrin Hatch's Magical Harry Potter-Esque Glasses", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/orrin-hatch-glasses_us_5a5f25fae4b0ee2ff32bdb7f', 'short_description': '"They\'re new, you\'ve probably never heard of them."', 'date': '2018-01-17'}

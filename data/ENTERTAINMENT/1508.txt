@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Justin Timberlake Reflects On Janet Jackson Nipplegate: 'I Stumbled Through It'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/justin-timberlake-nipplegate_us_5a5f94e6e4b046f0811c6ea5', 'short_description': '"You can’t change what’s happened."', 'date': '2018-01-17'}

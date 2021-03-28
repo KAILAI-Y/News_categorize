@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Blast Rips Through Supermarket In Russia's St. Petersburg, 10 Hurt", 'authors': 'Andrew Osborn, Reuters', 'link': 'https://www.huffingtonpost.com/entry/blast-rips-through-supermarket-in-russias-st-petersburg-10-hurt_us_5a44077ce4b025f99e197f8d', 'short_description': 'No one was killed in the explosion.', 'date': '2017-12-27'}

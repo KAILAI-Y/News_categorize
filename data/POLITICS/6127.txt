@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Virginia Republican Channels Donald Trump In New Campaign Tone', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/ed-gillespie-donald-trump-tone-virginia_us_59a9d29be4b0354e440a715b', 'short_description': 'A populist primary opponent put pressure on Ed Gillespie to shift further right.', 'date': '2017-09-01'}

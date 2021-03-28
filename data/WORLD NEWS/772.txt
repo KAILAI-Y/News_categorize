@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'UN Court Convicts Ex-Bosnian Serb Commander Ratko Mladic Of Genocide', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/ratko-mladic-un-convicted_us_5a155cb0e4b03dec82493195', 'short_description': '“Mladic is the epitome of evil," said the UN\'s human rights chief Zeid Ra\'ad al-Hussein.', 'date': '2017-11-22'}

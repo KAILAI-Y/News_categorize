@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers: Trump Knows Who's To Blame For The Shutdown (And It's Not Democrats)", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-tweet-shutdown_us_5a66ed70e4b0dc592a0bf9eb', 'short_description': '“For each Trump quote, there is an equal and opposite Trump quote."', 'date': '2018-01-23'}

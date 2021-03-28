@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'People Want Hurricane Harvey Heroes To Replace Confederate Statues', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/hurricane-harvey-statues-replace-confederate_us_59a8192ae4b07e81d355b47b', 'short_description': 'Everyday people are risking their lives to help each other.', 'date': '2017-08-31'}

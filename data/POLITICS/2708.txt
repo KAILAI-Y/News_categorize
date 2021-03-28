@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '22 States Sue FCC For Axing Net Neutrality', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/attorneys-general-sue-fcc-net-neutrality_us_5a5e84c3e4b00a7f171b815a', 'short_description': 'The legal battle against the Federal Communications Commission has just begun.', 'date': '2018-01-17'}

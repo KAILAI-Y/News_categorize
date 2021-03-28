@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Mom Spotted Barack Obama In An Airport And Her Baby Was Too Excited', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/a-mom-met-barack-obama-in-an-airport-and-her-baby-was-too-excited_us_5960f094e4b0d5b458eac020', 'short_description': '"Oh my God, it is Obama," she thought.', 'date': '2017-07-08'}

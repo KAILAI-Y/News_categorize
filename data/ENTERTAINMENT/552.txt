@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Roseanne' Star Emma Kenney Seeks Treatment For 'My Battles'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/roseanne-star-emma-kenney-seeks-treatment_us_5acf52bce4b08337adca2091', 'short_description': '"It’s OK to admit that you need help."', 'date': '2018-04-12'}

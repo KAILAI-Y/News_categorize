@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Original Watergate Lock Headed To Auction Just In Time For Last-Minute Gifting', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/original-watergate-lock-auction_us_5a3013a3e4b01598ac489261', 'short_description': 'It could be yours for the low, low starting price of $50,000.', 'date': '2017-12-12'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Stephen Curry Signs An Insane Deal With Golden State Warriors', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/stephen-curry-insane-deal-golden-state-warriors_us_59579b35e4b0da2c7323c937', 'short_description': 'Even LeBron is applauding this one.', 'date': '2017-07-01'}

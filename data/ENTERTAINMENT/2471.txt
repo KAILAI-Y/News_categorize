@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Behold Rose Leslie's Seriously Gorgeous Engagement Ring From Kit Harington", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/behold-rose-leslies-seriously-gorgeous-engagement-ring_us_59dbaab6e4b00377980ac459', 'short_description': 'Crafted out of the finest Valyrian steel, probably.', 'date': '2017-10-09'}

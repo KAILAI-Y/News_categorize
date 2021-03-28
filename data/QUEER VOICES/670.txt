@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Ellen Pays Tribute To Selfless College Student With Huge Surprise', 'authors': 'Noah Michelson', 'link': 'https://www.huffingtonpost.com/entry/ellen-trent-bauer_us_59f1ee87e4b07fdc5fbc5457', 'short_description': 'This LGBTQ advocate got to meet his idol... and then things got even better.', 'date': '2017-10-26'}

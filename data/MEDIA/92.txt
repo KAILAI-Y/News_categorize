@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Oops! Denver Post Prints Photo Of Wrong Ballpark In Review Of Coors Field', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/denver-post-coors-field-philadelphia-phillies-photo_us_5ac78f24e4b0337ad1e773c8', 'short_description': 'Home field advantage is overrated.', 'date': '2018-04-06'}

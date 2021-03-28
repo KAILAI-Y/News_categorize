@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "French President Emmanuel Macron Vows To Ban 'Fake News'", 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/fake-news-ban-france-macron_us_5a4dcb49e4b06d1621bd18b9', 'short_description': 'His legislation would seek to combat misinformation on social media sites during elections.', 'date': '2018-01-04'}

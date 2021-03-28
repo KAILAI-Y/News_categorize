@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What The Hell Was Dean Heller Thinking?', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/dean-heller-health-care_us_597b57c4e4b02a4ebb752633', 'short_description': 'He hemmed and hawed on health care. He also may have sealed his re-election fate.', 'date': '2017-07-28'}

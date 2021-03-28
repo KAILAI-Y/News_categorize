@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '3 Mexican Students Killed, Dissolved In Acid: Officials', 'authors': 'Lizbeth Diaz, Reuters', 'link': 'https://www.huffingtonpost.com/entry/mexican-students-acid_us_5adf241ae4b036e7aeb63be4', 'short_description': 'Authorities say criminals confused the film students for members of a rival gang.', 'date': '2018-04-24'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Carrie Underwood Gives Fans An Update On Her Face After Getting 50 Stitches', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/carrie-underwood-update-on-face_us_5acd0dfde4b09212968c6fb2', 'short_description': 'She wrote a message to fans on Tuesday.', 'date': '2018-04-10'}

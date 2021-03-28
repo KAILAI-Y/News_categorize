@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Aaron Carter Pens A Note To His Fans After Rehab News Breaks', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/aaron-carter-rehab-twitter-note_us_59c5d163e4b01cc57ff25d42', 'short_description': '"I would like to tell all of you that I will be disappearing for a while to work on myself."', 'date': '2017-09-23'}

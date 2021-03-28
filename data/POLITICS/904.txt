@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nightmare-Inducing Mark Zuckerberg Cutouts Invade U.S. Capitol', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/facebook-mark-zuckerberg-cutouts-invade-us-capitol_us_5accd7fbe4b0152082fe1fb6', 'short_description': 'A herd of Zuckerbergs.', 'date': '2018-04-10'}

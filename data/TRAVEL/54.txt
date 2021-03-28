@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "Wild Brawls Turn Carnival Ship Into 'Cruise From Hell'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/carnival-cruise-ship-brawl_us_5a8a487ae4b004fc319397f3', 'short_description': 'Twenty-three passengers were removed for "disruptive and violent acts.”', 'date': '2018-02-19'}

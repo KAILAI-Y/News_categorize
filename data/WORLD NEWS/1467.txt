@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Firefighters Battle Massive Blaze At World's Largest Fish Market", 'authors': 'Kwiyeon Ha, Reuters', 'link': 'https://www.huffingtonpost.com/entry/tsukiji-fishmarket-fire_us_5982f978e4b00f0084ae227f', 'short_description': 'There were no immediate reports of injuries or people trapped.', 'date': '2017-08-03'}

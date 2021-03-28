@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Mark Wahlberg Prays God Will Forgive Him For This Movie Role', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mark-wahlberg-god-forgive-movie-role_us_59ef19c9e4b0d14acdcc5d6b', 'short_description': '"I\'ve made some poor choices in my past."', 'date': '2017-10-24'}

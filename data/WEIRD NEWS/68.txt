@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Singing' Road Is Driving Dutch Villagers Crazy", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/singing-road-netherlands-noisy_us_5ace5be0e4b08337adc8d820', 'short_description': 'It was a fun idea, "but not 24 hours a day," said a man who lives near the road.', 'date': '2018-04-11'}

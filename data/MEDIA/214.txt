@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Tomi Lahren Apologizes For 'Limp Dick' Social Media Meltdown", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/tomi-lahren-joe-kennedy-meltdown_us_5a72735ce4b09a544b5665fb', 'short_description': 'The conservative commentator attacked Rep. Joe Kennedy III on Instagram.', 'date': '2018-02-01'}

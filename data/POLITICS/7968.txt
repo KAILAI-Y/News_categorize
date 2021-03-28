@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congratulations To The Kushners On Getting Back Into Blackmail', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/congratulations-to-the-kushners-on-getting-back-into-blackmail_us_5956c9bfe4b02734df326cfb', 'short_description': 'Like father like son', 'date': '2017-06-30'}

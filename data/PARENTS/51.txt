@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Why Phrases Like 'Daddy Daycare' Have Got To Go", 'authors': 'Catherine Pearson', 'link': 'https://www.huffingtonpost.com/entry/why-phrases-like-daddy-daycare-have-got-to-go_us_5a3bdee8e4b025f99e15653e', 'short_description': "Dads don't babysit. They parent.", 'date': '2017-12-21'}

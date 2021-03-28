@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Twitterverse In Tumult After Trump Meme-Maker Apologizes, CNN Accused Of Blackmail', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/twitter-cnn-trump-blackmail_us_595cff1fe4b05c37bb813e75', 'short_description': "People aren't happy with how this story unfolded.", 'date': '2017-07-05'}

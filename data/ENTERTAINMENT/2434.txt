@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Disney Kicks Harvey Weinstein Off Upcoming Film', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/harvey-weinstein-artemis-fowl-disney_us_59df1b23e4b0eb18af063de5', 'short_description': 'The backlash against the disgraced producer continues.', 'date': '2017-10-12'}

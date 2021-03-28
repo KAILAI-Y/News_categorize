@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Teen Scares The Bejesus Out Of Neighbor With Her 'Creepy Window'", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/teen-accidentally-scares-neighborhoods-creepy-window_us_59e11ad6e4b0a52aca17f030', 'short_description': '👻  😂', 'date': '2017-10-13'}

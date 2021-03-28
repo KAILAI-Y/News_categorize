@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Michelle, Ross and Carson On The Wild Ride To 'RuPaul’s Drag Race'", 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/judges-rupauls-drag-race_us_5aac09ade4b0c33361b042b7', 'short_description': "The show's permanent judges open up about their personal journeys to self-love.", 'date': '2018-03-29'}

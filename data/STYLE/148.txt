@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "This Man Who Can't See Past His Girlfriend's Weight Needs To Take Several Seats", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/humans-of-new-york-lose-weight_us_59f9c9c6e4b0d1cf6e91c985', 'short_description': 'Come. On.', 'date': '2017-11-01'}

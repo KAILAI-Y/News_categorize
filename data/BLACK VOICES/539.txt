@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Tracy Martin Gives Touching Tribute To Trayvon With A Portrait Tattoo', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/tracy-martin-trayvon-tattoo_us_59e8f30be4b05b4f1c39eb78', 'short_description': 'Martin appears on an upcoming episode of "Black Ink Crew Chicago."', 'date': '2017-10-20'}

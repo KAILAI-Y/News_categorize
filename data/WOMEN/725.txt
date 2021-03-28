@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Joss Whedon Responds To 'Wonder Woman' Backlash With Adorable Tweet", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/joss-whedon-responds-to-wonder-woman-backlash-with-adorable-tweet_us_5931af98e4b02478cb9b35be', 'short_description': "Don't worry angry dudes, you can stop being angry now 🙃", 'date': '2017-06-02'}

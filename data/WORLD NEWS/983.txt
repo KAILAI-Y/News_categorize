@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Anti-Corruption Blogger Killed By Huge Bomb In Malta', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/anti-corruption-blogger-killed-by-huge-bomb-in-malta-daphne-galizia_us_59e51e63e4b02a215b326043', 'short_description': 'Daphne Caruana Galizia was killed on Monday when a powerful bomb blew up her car.', 'date': '2017-10-16'}

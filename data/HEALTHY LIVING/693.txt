@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'I Took All Those Beauty Supplements You See On Instagram', 'authors': 'Noël Duan, On Assignment For HuffPost', 'link': 'https://www.huffingtonpost.com/entry/beauty-supplements-adaptogens-experiment_us_591f2850e4b03b485cb14825', 'short_description': "Here's what happened and what I learned.", 'date': '2017-07-05'}

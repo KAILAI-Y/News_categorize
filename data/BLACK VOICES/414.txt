@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': '24 Of The Most Thought-Provoking Pieces Of Writing By People Of Color In 2017', 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/24-of-the-most-thought-provoking-pieces-of-writing-by-people-of-color-in-2017_us_5a303859e4b01bdd7657e96a', 'short_description': 'Read these before the year is over.', 'date': '2017-12-22'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Glover And 'Friendos' Spoof Migos In Rap Group Therapy Session On 'SNL'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snl-spoofs-migos-in-rap-therapy_us_5aee9aa0e4b0c4f193235c47', 'short_description': 'Deflection, emotional conflict, breakthrough and a "Lambo."', 'date': '2018-05-06'}

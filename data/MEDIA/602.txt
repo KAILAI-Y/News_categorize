@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "NRA Claims The Washington Post Is Where 'Journalism Dies'", 'authors': 'Michael Calderone', 'link': 'https://www.huffingtonpost.com/entry/nra-washington-post-video_us_596d3b32e4b0e983c0586e4a', 'short_description': 'The pro-gun group’s disturbing new video accuses the newspaper of fueling anarchy.', 'date': '2017-07-17'}

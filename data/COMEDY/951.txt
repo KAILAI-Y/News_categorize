@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Andy Samberg Casts A Spell Over Donald Trump's 'Witch Hunt' Claims", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/andy-samberg-donald-trump-jimmy-kimmel-witch_us_594389f0e4b06bb7d2722b96', 'short_description': 'Is it really double, double toil and trouble for Trump?', 'date': '2017-06-16'}

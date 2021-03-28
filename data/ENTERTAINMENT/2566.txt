@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jay-Z Honors Colin Kaepernick On 'Saturday Night Live'", 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/jay-z-snl-colin-kaepernick_us_59d09265e4b05f005d34b3d7', 'short_description': 'The rapper donned a custom-made jersey while performing his song "Bam."', 'date': '2017-10-01'}

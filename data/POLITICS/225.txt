@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Former Senator Harry Reid Diagnosed With Pancreatic Cancer', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/harry-reid-pancreatic-cancer_us_5af9d850e4b09a94524b11bc', 'short_description': 'Reid underwent surgery Monday to remove a tumor, according to his family.', 'date': '2018-05-14'}

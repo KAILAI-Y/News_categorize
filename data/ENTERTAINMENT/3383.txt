@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Lil Yachty Raps His Way Through 'The Simpsons' Universe", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/lil-yachty-simpsons-rap-jimmy-fallon_us_594393b8e4b0f15cd5ba6301', 'short_description': '"I got more lines than Bart with chalk, I spit more lines than Maggie’s talked."', 'date': '2017-06-16'}

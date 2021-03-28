@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Twitter Took A Much-Needed Break From The World To #AddCandyToAMovie', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-took-a-much-needed-break-from-the-world-to-addcandytoamovie_us_59e64d6ee4b00905bdad0cd2', 'short_description': 'Warning: Important internet work being done.', 'date': '2017-10-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ohio Voters Pass Gerrymandering Reform Measure', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/ohio-gerrymandering-reform_us_5af1a93ee4b0ab5c3d6a0bd2', 'short_description': 'The Ohio plan had overwhelming bipartisan support in the state legislature when lawmakers approved it for the May ballot.', 'date': '2018-05-09'}

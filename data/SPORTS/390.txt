@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Bret Boone Jokes About 'Liberal BS' Sexual Harassment", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bret-boone-sexual-harassment_us_5a1ff998e4b0a8581e684ef4', 'short_description': 'The retired All-Star later apologized -- but dude.', 'date': '2017-11-30'}

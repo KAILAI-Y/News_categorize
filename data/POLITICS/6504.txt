@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pardon Me!', 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/pardon-me_us_599602b1e4b0a2608a6aff09', 'short_description': 'High crimes and demeanors in the age of Trump.', 'date': '2017-08-17'}

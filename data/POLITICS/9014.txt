@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Top Trump Economic Adviser: Coal Doesn't Make Sense Anymore", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-aide-senseless-coal_us_5928e370e4b0df57cbfbd85e', 'short_description': 'Somebody should have told the president.', 'date': '2017-05-27'}

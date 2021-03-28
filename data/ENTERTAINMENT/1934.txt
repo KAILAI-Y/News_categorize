@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "This Is The Best Theory About Khloe And Kylie's Reported Pregnancies", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kardashians-christmas-card_us_5a284d15e4b0fa798611c370', 'short_description': 'It screams Kris Jenner.', 'date': '2017-12-06'}

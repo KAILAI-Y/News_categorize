@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Eric Bolling Tells Bill O’Reilly Not To Use His Son’s Death As Political Cover', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/eric-bolling-bill-oreilly-new-york-times-report_us_59ee5693e4b0d888ea3d2059', 'short_description': "The Fox News fallout continues as O'Reilly later apologizes.", 'date': '2017-10-23'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Justin Trudeau Tried To Honor Diwali. Instead He Offended Twitter.', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/justin-trudeau-diwali-mix-up-twitter_us_59ea6801e4b0958c46821797', 'short_description': 'Trudeau used an Arabic greeting to commemorate the South Asian holiday.', 'date': '2017-10-20'}

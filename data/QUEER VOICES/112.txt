@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Anti-Queer Pastor Claims Trump Really Likes His Conservative Bible Studies', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/anti-queer-pastor-trump-bible-studies_us_5acf7f30e4b016a07e99f4c5', 'short_description': 'Ralph Drollinger said Trump “writes me back notes on my bible studies.”', 'date': '2018-04-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Ryan Collected $500,000 In Koch Contributions Days After House Passed Tax Law', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/koch-paysout-to-ryan-after-taxlaw_us_5a63ce41e4b0dc592a09697c', 'short_description': "That's peanuts compared with what the Koch brothers will save.", 'date': '2018-01-21'}

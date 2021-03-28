@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "A Shelter's Call For Old Chairs Goes Viral, And The Pets Couldn't Be Happier", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/dogs-cats-shelter-chairs_us_5aa2210de4b07047bec4e67f', 'short_description': '“They love their chairs."', 'date': '2018-03-09'}

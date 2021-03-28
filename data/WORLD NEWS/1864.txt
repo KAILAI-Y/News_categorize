@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Canadian Mother Goes On Racist Rant About Just Wanting 'White Doctor' For Son", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/racist-rant-i-want-a-white-doctor_us_594951bce4b07d3e35d89a7e', 'short_description': '"Being a white person in this country, I should just shoot myself."', 'date': '2017-06-20'}

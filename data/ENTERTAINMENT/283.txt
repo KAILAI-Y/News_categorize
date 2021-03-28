@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Brad Pitt's Despondent Weatherman Is 'So, So, So, So Scared' Right Now", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/brad-pitt-weatherman-so-scared_us_5ae94ce3e4b06748dc8d7b20', 'short_description': 'Better stock up on sunscreen.', 'date': '2018-05-02'}

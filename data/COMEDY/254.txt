@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Envisions A Trump Sex Tape, And It's As Frightening As You'd Imagine", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-sex-tape_us_5aa75606e4b087e5aaed2fc2', 'short_description': 'Try getting THAT out of your head.', 'date': '2018-03-13'}

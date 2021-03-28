@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Hails 'Progress' With North Korea, But Warns 'U.S. Ready To Go Hard'", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-north-korea-talks_us_5a9e851ee4b089ec353e89d8', 'short_description': 'North Korea offered to halt nuclear tests if the U.S. agrees to  negotiations.', 'date': '2018-03-06'}

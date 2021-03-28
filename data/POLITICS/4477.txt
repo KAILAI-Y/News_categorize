@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Tax Bill Mostly Benefits The Wealthy, Tax Policy Center Finds', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/jct-tax-reform-bill_us_5a00b5a3e4b0baea2633fbf5', 'short_description': "The draft legislation is less plutocratic than an earlier outline, for whatever that's worth.", 'date': '2017-11-06'}

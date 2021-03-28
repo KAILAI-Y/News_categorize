@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration Detaining DACA Recipient With Disability', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/daca-trump-felipe-abonza-lopez_us_5a09e268e4b0b17ffcdf4e9e', 'short_description': 'The 20-year-old alleges that a guard in ICE detention mocked his prosthetic leg.', 'date': '2017-11-13'}

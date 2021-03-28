@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Cuts To Medicaid In GOP Health Bill Would Get Even Bigger Over Time, CBO Says', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/medicaid-congressional-budget-office_us_59556750e4b0da2c732237fa', 'short_description': 'The poor, elderly and disabled would feel the effects.', 'date': '2017-06-29'}

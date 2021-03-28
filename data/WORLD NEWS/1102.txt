@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'North Korea Escalates Rhetoric Against Trump', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/north-korea-trump_us_59c9269ce4b0cdc7733354c1', 'short_description': 'The White House on Monday called the North Korean statements "absurd."', 'date': '2017-09-25'}

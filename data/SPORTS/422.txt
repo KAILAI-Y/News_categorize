@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'A Kitten’s Scramble Was The Best Play On Thursday Night Football', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/kitten-football-thursday-nightcat_us_59f2aa34e4b07fdc5fbd3bf5', 'short_description': 'This tailback must have been chasing a Raven.', 'date': '2017-10-27'}

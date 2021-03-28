@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Adam Rippon Responds To Elsa-In-Drag Hero Who Wanted To Meet Him', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/adam-rippon-boston-elsa_us_5aab9446e4b0c33361af7d11', 'short_description': 'The man earned viral internet fame for pushing a Boston police van out of the snow.', 'date': '2018-03-16'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Senate GOP Health Care Bill Has A Fatal Flaw', 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/senate-gop-health-care-bill-has-a-fatal-flaw_us_594c29a3e4b02734df29477a', 'short_description': 'It offers even fewer incentives for healthy people to buy insurance coverage than Obamacare does.', 'date': '2017-06-23'}

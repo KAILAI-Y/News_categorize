@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kyle Mooney Brings His 'SNL'  Warmth To New Film 'Brigsby Bear'", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/brigsby-bear-clip-kyle-mooney_us_5968dc97e4b0d6341fe86548', 'short_description': "See a clip from the new movie about a man obsessed with a fake children's show.", 'date': '2017-07-14'}

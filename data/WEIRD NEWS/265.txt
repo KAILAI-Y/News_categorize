@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Woman Yells At Mall Santa, Tells Him, 'You're Not Even Real!'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/mall-santa-angry-woman_us_5a1dd0b2e4b0569950232962', 'short_description': '"I heard about it when I was a young kid!” she said. “You’re not real, man.”', 'date': '2017-11-28'}

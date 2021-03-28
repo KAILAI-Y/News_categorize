@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Making Movies 'For The Fans, Not The Critics' Is An Affront To The Fans", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/making-movies-for-the-fans-not-the-critics_us_59512bd4e4b05c37bb781616', 'short_description': 'Storytellers dismissing critics leads to a slippery slope.', 'date': '2017-06-30'}

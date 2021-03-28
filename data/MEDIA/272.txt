@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Kellyanne Conway’s Interview With Chris Cuomo Quickly Flies Off The Rails', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/chris-cuomo-kellyanne-conway_us_5a56e77fe4b0a300f905c796', 'short_description': 'The fiery CNN showdown was marked by eye-rolls, arguments, crosstalk and more.', 'date': '2018-01-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Grassroots Groups Petition DCCC To ‘Stop Attacking Progressives’', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/progressive-grassroots-democrats-dccc_us_5a9b048de4b0479c02531086', 'short_description': 'Frustration with House Democrats’ campaign arm is boiling over.', 'date': '2018-03-03'}

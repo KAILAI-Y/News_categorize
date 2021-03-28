@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Homecoming' Composer Recreates 1960s Spider-Man TV Theme Song", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/homecoming-composer-releases-updated-60s-spider-man-tv-theme-song_us_59590fb3e4b02734df32fa26', 'short_description': '🎶 Look out, here comes the Spider-Man! 🎶', 'date': '2017-07-02'}

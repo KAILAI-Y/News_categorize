@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Lashes Out At 'So-Called Leaks,' And Twitter Users Pounce", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-tweet-leakers-traitors_us_5af9fdfae4b0200bcab80175', 'short_description': 'As one paraphrased Trump, “the food here is awful and the portions are too small.”', 'date': '2018-05-14'}

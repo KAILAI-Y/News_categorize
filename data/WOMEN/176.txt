@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Aly Raisman: 'This Is Bigger Than Larry Nassar'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/aly-raisman-larry-nassar_us_5a69c747e4b0e56300769009', 'short_description': "The Olympic gymnast said USA Gymnastics and others need to be held accountable for Nassar's abuses, too.", 'date': '2018-01-25'}

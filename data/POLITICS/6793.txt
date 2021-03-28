@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Judge Tosses Texas Request To Declare Anti-Sanctuary Law Constitutional', 'authors': 'Roque Planas', 'link': 'https://www.huffingtonpost.com/entry/texas-sb4-lawsuit_us_598b8b97e4b0a66b8bb0f6cf', 'short_description': 'The state attorney general hoped to head off challenges from cities that oppose the law.', 'date': '2017-08-10'}

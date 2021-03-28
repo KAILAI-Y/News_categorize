@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Scotland Puts Plans For Second Independence Referendum On Hold', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/scotland-independence-referendum_us_59526a8ee4b0da2c731ea199', 'short_description': 'First Minister Nicola Sturgeon announced the government would wait until Brexit was clear.', 'date': '2017-06-27'}

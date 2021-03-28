@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Broad City' Co-Creator Developing 'League Of Their Own' Comedy Series", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/league-of-their-own-comedy-series_us_5ac2621ae4b04646b6450ac3', 'short_description': 'The project reportedly received the blessing of Geena Davis and Penny Marshall.', 'date': '2018-04-02'}

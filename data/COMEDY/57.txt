@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "People On The Street Apologize To Their Old Teachers On 'Jimmy Kimmel Live'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/teacher-apologies-jimmy-kimmel_us_5af457f2e4b09bb419e5a2f8', 'short_description': 'They still deserve detention.', 'date': '2018-05-10'}

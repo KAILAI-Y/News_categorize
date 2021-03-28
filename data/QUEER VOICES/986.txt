@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Aaron Carter Is 'Looking Forward To The Future' After Coming Out As Bisexual", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/aaron-carter-coming-out-story_us_598b55fce4b0449ed50777d6', 'short_description': '“I’m just taking one minute and one day and one comment at a time.”', 'date': '2017-08-09'}

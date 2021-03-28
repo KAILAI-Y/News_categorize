@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Inventive 'Cellograffiti' Takes Street Art Into The Woods", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/evgeny-ches-cellograffiti-art_us_5a455bc7e4b0b0e5a7a58b45', 'short_description': 'This might really scare the bejesus out of hikers.', 'date': '2017-12-28'}

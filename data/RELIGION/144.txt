@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Kirk Cameron Says God Sent Hurricane Irma To Make Americans Repent', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/kirk-cameron-hurricane-irma_us_59b6d46be4b0349d072baa7b', 'short_description': '"Do we write it off as a statistical anomaly? Wow! Who would’ve thought?"', 'date': '2017-09-11'}

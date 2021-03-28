@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Michael B. Jordan On His 'Dark' Preparation For 'Black Panther' Role", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/michael-b-jordan-black-panther_us_5a6fea2fe4b0a52682fede70', 'short_description': 'The actor plays the villainous Erik Killmonger in the highly anticipated Marvel film.', 'date': '2018-01-30'}

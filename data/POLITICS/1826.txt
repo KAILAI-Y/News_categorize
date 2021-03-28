@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Give Me A Damn Break': Tweeters Drag Ivanka Trump For Playing The Daughter Card", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-daughter-card_us_5a94cb2ce4b02cb368c4fcdf', 'short_description': 'The White House adviser called a question about her father "inappropriate."', 'date': '2018-02-27'}

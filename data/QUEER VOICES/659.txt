@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'This Short Film Hilariously Examines Dangerous Expectations Of Masculinity Among Gay Men', 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/masc-film-gay-vieo_us_59f216d6e4b03cd20b8038fb', 'short_description': 'And we have comedian Drew Droege to thank for writing it!', 'date': '2017-10-28'}

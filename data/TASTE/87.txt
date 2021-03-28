@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'The Best Wines To Pair With Your Halloween Candy, In One Chart', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/halloween-candy-wine-pairings_us_59ee3dfee4b0d8293cabdf97', 'short_description': 'Sounds like a party to us.', 'date': '2017-10-23'}

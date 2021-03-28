@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Dwayne 'The Rock' Johnson's Epic Bull Skull Tattoo Is Finally Done -- See It!", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/dwayne-the-rock-johnson-bull-tattoo_us_5a1d6e78e4b0e2ddcbb2a8d7', 'short_description': '"It\'s where I draw my strength from all things I love and protect."', 'date': '2017-11-28'}

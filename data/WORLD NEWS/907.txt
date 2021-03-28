@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Saudi Women Allowed Inside Sports Stadiums In Small Advance For Women’s Rights', 'authors': 'Sarah Ruiz-Grossman', 'link': 'https://www.huffingtonpost.com/entry/saudi-women-allowed-sports-stadiums_us_59f74e0ce4b0aec146790e5c', 'short_description': 'The country lifted its ban on female drivers last month.', 'date': '2017-10-30'}

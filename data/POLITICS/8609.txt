@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Special Counsel Taps DOJ Heavyweight For Trump-Russia Probe', 'authors': 'Cristian Farias', 'link': 'https://www.huffingtonpost.com/entry/robert-mueller-trump-investigation-michael-dreeben_us_593ad6eae4b0c5a35c9efa60', 'short_description': 'Michael Dreeben knows the federal criminal code inside and out.', 'date': '2017-06-09'}

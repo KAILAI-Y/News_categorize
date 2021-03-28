@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jimmy Kimmel Shares Adorable Health Update After Son's Heart Surgery", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-shares-adorable-health-update-after-sons-heart-surgery_us_59737ac5e4b09e5f6ccfb1c6', 'short_description': 'The 3-month-old is "doing great."', 'date': '2017-07-22'}

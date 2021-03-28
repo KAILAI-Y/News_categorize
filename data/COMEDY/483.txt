@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Names His Favorite Viral Video Clip Of 2017', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-viral-clip-2017_us_5a30ffcbe4b07ff75afef2c4', 'short_description': 'And the winner is...', 'date': '2017-12-13'}

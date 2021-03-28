@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "60 Books We Can't Wait To Read In 2018", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/2018-book-preview_us_5a383493e4b0c65287aba20b', 'short_description': 'Bring on the new year, and a new TBR pile stacked with fresh reads.', 'date': '2017-12-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Hillary's Book Deepens Democrats' Divisions", 'authors': 'Les Leopold, ContributorExecutive Director, The Labor Institute', 'link': 'https://www.huffingtonpost.com/entry/hillarys-book-deepens-democrats-divisions_us_59b737c3e4b0678066213e1e', 'short_description': 'So much for party unity in a time of peril.', 'date': '2017-09-12'}

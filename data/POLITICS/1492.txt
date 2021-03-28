@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hundreds Of D.C.-Area Students Stage Gun Violence Protest At The White House', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/white-house-gun-violence-school-walkout_us_5aa93667e4b018e2f1c3acc9', 'short_description': 'The teens wanted to take their message directly to lawmakers.', 'date': '2018-03-14'}

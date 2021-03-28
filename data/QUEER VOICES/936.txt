@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Rupert Everett Says Hollywood Tried To 'Maximize' What They Could Get Out Of Him As A Gay Man", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/rupert-everett-gay-hollywood_us_599c75cae4b06a788a2c5ff9', 'short_description': 'Don\'t hold your breath for "The Next Best Thing 2."', 'date': '2017-08-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Suggests Ousting Mitch McConnell If The Senate Leader Doesn't Deliver", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-mcconnell-agenda_us_598ca876e4b09071f6986114', 'short_description': '“Mitch, let’s get to work and let’s get it done."', 'date': '2017-08-10'}

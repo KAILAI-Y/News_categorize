@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Kellyanne Conway Won't Say Whether She Will Report To John Kelly", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-trump-white-house-john-kelly_us_597dd897e4b02a4ebb75f45d', 'short_description': '"I will speak with Gen. Kelly and the president about that."', 'date': '2017-07-30'}

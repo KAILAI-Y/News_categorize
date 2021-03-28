@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Rick Perry Returned From Saudi Arabia With The Most Meme-Able Travel Photos', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rick-perry-saudi-arabia-sand-dune-meme_us_5a279dc9e4b0c2117626be4c', 'short_description': '"Guys, I think Secretary Perry might drop an album."', 'date': '2017-12-06'}

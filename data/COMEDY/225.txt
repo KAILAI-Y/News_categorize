@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers: 'It Feels Like I’m Binge-Watching' Donald Trump's Presidency", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-binge-watching_us_5ab0b403e4b0e862383ad4ad', 'short_description': '"Crazy s**t happens so fast."', 'date': '2018-03-20'}

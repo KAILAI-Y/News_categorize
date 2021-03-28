@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Why I Stayed At A Job Where I Was Sexually Harassed', 'authors': 'Melissa Scholes Young', 'link': 'https://www.huffingtonpost.com/entry/job-sexually-harassed_us_5a3a86f5e4b025f99e13d73d', 'short_description': 'Every morning, I changed my outfits and strategized how my clothes might protect me.', 'date': '2017-12-20'}

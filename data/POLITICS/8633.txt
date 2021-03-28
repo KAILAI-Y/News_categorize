@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Comey Compares The Media To Hungry 'Seagulls At The Beach'", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/comey-seagulls-at-the-beach-media-testimony_us_59397252e4b0061054806fbf', 'short_description': '"Fact check: True."', 'date': '2017-06-08'}

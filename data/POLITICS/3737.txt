@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Tom Hanks Blasts Trump For Attacking The Media', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/tomhanks-trump-first-amendment_us_5a24c301e4b0a02abe920b82', 'short_description': '"We\'re not the United States without the First Amendment," says the actor.', 'date': '2017-12-04'}

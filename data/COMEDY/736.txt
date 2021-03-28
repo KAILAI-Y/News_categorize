@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Late Show' Airs Its Version Of Kim Jong Un's Response To 'Rocket Man'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/kim-jong-un-responds-to-trump-calling-him-rocket-man-on-the-late-show_us_59c297cfe4b087fdf509aca1', 'short_description': 'It involves more Elton John.', 'date': '2017-09-20'}

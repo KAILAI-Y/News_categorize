@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "A Letter To Heather Heyer's Mother", 'authors': 'Grace Virtue, ContributorPublic Affairs Professional', 'link': 'https://www.huffingtonpost.com/entry/a-letter-to-susan-bro-mother-of-charlottesville-victim_us_599ef6cbe4b0d0ef9f1c1220', 'short_description': 'Your daughter has inspired me to keep on fighting.', 'date': '2017-08-24'}

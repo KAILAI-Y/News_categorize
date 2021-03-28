@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Images Show How ‘The Bomb Cyclone’ Monster Storm Blasted The East Coast', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/winter-storm-bomb-cyclone-photos_us_5a4e648ee4b0b0e5a7abb919', 'short_description': 'Here are the latest images from the storm.', 'date': '2018-01-04'}

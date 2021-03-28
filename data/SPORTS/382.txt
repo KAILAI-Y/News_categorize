@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Skier Lindsey Vonn Says She Isn't Representing Trump At The 2018 Winter Olympics", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/lindsay-vonn-trump-winter-olympics_us_5a295b10e4b0fa79861295c1', 'short_description': "He's not going to like this.", 'date': '2017-12-07'}

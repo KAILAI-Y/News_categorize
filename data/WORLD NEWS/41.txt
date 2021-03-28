@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Knife Attack In Paris Leaves 1 Dead, Several Injured', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/knife-attack-paris-dead-injured_us_5af75286e4b032b10bfb44d6', 'short_description': 'The Islamic State claimed responsibility.', 'date': '2018-05-12'}

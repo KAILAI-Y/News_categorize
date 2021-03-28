@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Watch These Flight Attendants Stun Travelers With Beautiful Christmas Tunes', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/flight-attendants-christmas-tunes_us_5a41c4f9e4b0b0e5a7a3170a', 'short_description': 'So impressive!', 'date': '2017-12-26'}

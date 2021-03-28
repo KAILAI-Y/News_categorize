@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Irish Mother With Twins Hilariously Spoofs Beyoncé’s Baby Photo', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/beyonce-irish-mom-twins-spoof_us_596a14c4e4b017418627cadc', 'short_description': "Sharon Kellaway recreated Bey's memorable shot in her own backyard.", 'date': '2017-07-15'}

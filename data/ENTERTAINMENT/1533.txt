@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Conan Heads To Haiti To Mercilessly Mock Donald Trump', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/conan-haiti-donald-trump_us_5a5cb45fe4b0fcbc3a1214f1', 'short_description': 'Host goes tropical to stay topical.', 'date': '2018-01-15'}

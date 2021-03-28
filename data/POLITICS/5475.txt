@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Shameful Silence Of Donald Trump', 'authors': 'Michael Brune, ContributorExecutive Director, Sierra Club', 'link': 'https://www.huffingtonpost.com/entry/the-shameful-silence-of-donald-trump_us_59cc20cce4b028e6bb0a67f6', 'short_description': 'We can and should do better for the people of Puerto Rico.', 'date': '2017-09-27'}

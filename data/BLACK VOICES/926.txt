@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Don't Be Shocked, Bill Maher Has A History Of Bigoted Comments", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-history-bigoted-comments_us_5932bcb5e4b02478cb9beaf6', 'short_description': 'Maher has a laundry list of disgusting comments.', 'date': '2017-06-03'}

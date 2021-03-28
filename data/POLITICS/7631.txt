@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Says His Son Is An 'Innocent' Victim Of 'Witch Hunt'", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-son-victim_us_5965f9c7e4b005b0fdc9c7f4', 'short_description': "The president's son has been accused of colluding with Russia.", 'date': '2017-07-12'}

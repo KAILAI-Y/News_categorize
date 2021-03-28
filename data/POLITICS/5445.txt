@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kushner Again: How He Helped Push Trump Into A Ditch In Alabama', 'authors': 'Vicky Ward', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-trump-alabama_us_59ccea6fe4b0210dfdfc60ea', 'short_description': 'And the Bannonites are loving it.', 'date': '2017-09-28'}

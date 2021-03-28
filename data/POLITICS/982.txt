@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Is Now Selling Freedom For Your Head And It Only Costs $35!', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rnc-freedom-hat-donald-trump-review_us_5ac7367ee4b07a3485e31754', 'short_description': 'But the hat is not receiving warm reviews.', 'date': '2018-04-06'}

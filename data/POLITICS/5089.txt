@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republican Senator Asks If Trump Is Recanting His Oath Of Office', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ben-sasse-trump-oath-of-office_us_59dee081e4b0eb18af062f71', 'short_description': 'Ben Sasse questions whether Trump is failing to "preserve, protect, and defend" the First Amendment.', 'date': '2017-10-12'}

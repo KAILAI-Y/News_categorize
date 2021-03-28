@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's State Visit To The UK Now In Doubt", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-uk-visit-hold_us_593d46fbe4b02402687a2c00', 'short_description': 'Fears of large-scale protests greeting the U.S. president is cited as reason.', 'date': '2017-06-11'}

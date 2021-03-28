@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Escalates Fight With Another Republican Senator', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-bob-corker_us_59a01adfe4b06d67e337135a', 'short_description': 'Sen. Bob Corker (R-Tenn.) has been critical of the president.', 'date': '2017-08-25'}

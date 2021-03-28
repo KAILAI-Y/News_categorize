@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Amy Schumer Watches Dad Stand 'With Help' And It's A Beautiful Moment", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/amy-schumer-dad-stand_us_5a0ec1ffe4b0dd63b1a9bbc5', 'short_description': '"We had a good day."', 'date': '2017-11-17'}

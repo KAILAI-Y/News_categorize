@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here’s What’s Leaving And Arriving On Netflix In November 2017', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/heres-whats-leaving-and-arriving-on-netflix-in-november-2017_us_59ee1e60e4b0d888ea3cdcb9', 'short_description': 'The losses will be legendary.', 'date': '2017-10-23'}

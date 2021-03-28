@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Tyler Perry Dishes On His Art Bidding Battle With Blue Ivy', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tyler-perry-blue-ivy-aucton_us_5ab128d1e4b09a2c75c92763', 'short_description': "The auction allowed the filmmaker to teach Jay-Z and Beyoncé's adorable daughter a valuable lesson.", 'date': '2018-03-20'}

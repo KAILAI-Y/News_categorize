@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Someone Auto-Tuned Trump Singing Ed Sheeran's 'Perfect' To Hillary Clinton", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-hillary-clinton-perfect-ed-sheeran-parody_us_5a4cde2ce4b0b0e5a7a9fef9', 'short_description': "And it's a little bit creepy.", 'date': '2018-01-03'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "New 'Doctor Who' Trailer Teases Peter Capaldi's Emotional Final Moments", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/doctor-who-peter-capaldi-final-moments_us_5a2f7029e4b046175432d6a9', 'short_description': 'The regeneration is coming.', 'date': '2017-12-12'}

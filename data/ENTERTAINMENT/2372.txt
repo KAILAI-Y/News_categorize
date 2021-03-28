@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Ultimate Tucson, Arizona, Road Trip Playlist', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-ultimate-tucson-arizona-road-trip-playlist_us_59e6619ee4b08f9f9edb4476', 'short_description': 'Country acts like George Strait get a lot of play here, Spotify says.', 'date': '2017-10-19'}

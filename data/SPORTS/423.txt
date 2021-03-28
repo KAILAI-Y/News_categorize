@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Seattle Star Megan Rapinoe Blasts Soccer's World Body As 'Old, Male And Stale'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/megan-rapino-soccer-male-stale_us_59ee9296e4b03535fa93801c', 'short_description': 'FIFA "doesn\'t care about female players," the World Cup winner says.', 'date': '2017-10-24'}

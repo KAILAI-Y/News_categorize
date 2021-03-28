@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jason Isbell Is One Nashville-Based Singer Unafraid To Talk Politics', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/jason-isbell-not-afraid-to-get-political_us_5a78bcf6e4b018ad894edc71', 'short_description': "Alienating his audience isn't a concern for the Grammy winner.", 'date': '2018-02-06'}

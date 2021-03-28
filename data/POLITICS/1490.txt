@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Erupts Over Donald Trump's 'Immigrants Are Pro Mountain Climbers' Warning", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-border-wall-comments-mocked_us_5aa8ce09e4b018e2f1c2eaab', 'short_description': '"We’re gonna build a climbing wall and Mexico is going to pay for it!"', 'date': '2018-03-14'}

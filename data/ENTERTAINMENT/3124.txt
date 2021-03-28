@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Westworld' Season 2 Teaser Suggests Violent Delights Have Violent Ends", 'authors': 'Bill Bradley and David Moye', 'link': 'https://www.huffingtonpost.com/entry/westworld-season-2-teaser_us_5972ecc9e4b09e5f6ccf83bb', 'short_description': 'This time, the robots are in charge?', 'date': '2017-07-23'}

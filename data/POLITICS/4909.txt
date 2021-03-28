@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Judge Who Told Inmates To Vote For Trump Claims She Was Just Joking', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/susan-johnson-vote-trump-judge_us_59e8c51de4b08f9f9edd4d4b', 'short_description': 'The judge says, “Looking back on it, I should have just said, ‘You can vote for the president.’”', 'date': '2017-10-19'}

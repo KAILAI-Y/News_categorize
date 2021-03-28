@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Video Surfaces Of Georgia Tech Football Player Knocking Out Teammate', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/georgia-tech-football-player-knocks-out-teammate-in-fight_us_5a1d9c18e4b079c1128a25bf', 'short_description': '"Discipline was handled internally," the school said.', 'date': '2017-11-28'}

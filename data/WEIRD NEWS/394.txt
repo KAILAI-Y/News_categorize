@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Family Awakened By 15 Pounds Of Sausage Crashing Onto Roof', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/sausage-roof-florida_us_59724f78e4b00e4363df57fb', 'short_description': 'The night is dark and full of wieners.', 'date': '2017-07-21'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Experts Have A Plan To Beat Climate Change Even If Donald Trump Won't Help", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/climate-change-plan-2020_us_5955ef9ce4b0da2c73227dbe', 'short_description': '"Impossible is not a fact, it\'s an attitude."', 'date': '2017-06-30'}

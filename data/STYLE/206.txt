@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Vivienne Westwood Says The Secret To Staying Young Is Rarely Bathing', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/vivienne-westwood-says-the-secret-to-staying-young-is-not-bathing_us_59d27a3ee4b048a443242db8', 'short_description': 'Hmm...', 'date': '2017-10-02'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "LGBTQ Advocates Blast Texas's Same-Sex Marriage Benefit Ruling", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/texas-lgbtq-benefit-ruling_us_5956a264e4b02734df323f39', 'short_description': 'One called it a "naked attempt to undermine" marriage equality.', 'date': '2017-07-01'}

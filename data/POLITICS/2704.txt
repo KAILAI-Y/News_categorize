@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Lawmaker Matt Gaetz Slams Haiti: ‘Sheet Metal And Garbage’ Everywhere You Look', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/matt-gaetz-haiti-sheet-metal-and-garbage_us_5a5eb8bce4b00a7f171b93f8', 'short_description': 'The Florida congressman called conditions in Haiti "disgusting."', 'date': '2018-01-17'}

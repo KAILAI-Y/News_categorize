@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Details Hazy On 'Death Threats' Against EPA's Scott Pruitt", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/details-hazy-on-death-threats-against-epas-scott-pruitt_us_5acabfeae4b0337ad1e9624b', 'short_description': 'One supposed threat was a postcard calling Pruitt "ignorant."', 'date': '2018-04-09'}

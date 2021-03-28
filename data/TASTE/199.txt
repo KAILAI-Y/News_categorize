@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'France Has Oyster Vending Machines, But Is That REALLY A Good Idea?', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/oyster-vending-machine_us_5988a0fee4b09a4d1ec6bc86', 'short_description': 'Experts weigh in on how safe this is.', 'date': '2017-08-08'}

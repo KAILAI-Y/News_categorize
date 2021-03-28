@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'After Alabama, Pollsters See Reasons To Expect A Democratic Surge', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/alabama-polls-democratic-surge_us_5a3be930e4b06d1621b2ba7c', 'short_description': "But figuring out who's likely to vote remains a challenge.", 'date': '2017-12-21'}

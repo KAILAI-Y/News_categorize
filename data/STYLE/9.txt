@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "All The Best Red Carpet Looks From The 2018 Critics' Choice Awards", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/all-the-best-red-carpet-looks-from-the-2018-critics-choice-awards_us_5a58d116e4b02cebbfdb3b3f', 'short_description': 'Who was your favorite?', 'date': '2018-01-12'}

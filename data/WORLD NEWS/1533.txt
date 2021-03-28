@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Mental Health Situation Deteriorating For Refugees On Greece's Lesbos Island", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/mental-health-refugees-lesbos_us_5978a802e4b0c95f37609715', 'short_description': 'Self-harm and suicide attempts are common, doctors said.', 'date': '2017-07-26'}

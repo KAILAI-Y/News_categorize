@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tracy Morgan Says He Was A 'Crack Dealer With A Heart Of Gold'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tracy-morgan-crack-dealer-conan_us_5ae84dc6e4b055fd7fcf855f', 'short_description': '"I always kept my heart in it," he said on "Conan."', 'date': '2018-05-01'}

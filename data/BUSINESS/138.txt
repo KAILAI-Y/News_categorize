@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'What To Buy On Black Friday At Target', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/what-to-buy-on-black-friday-at-target_us_5a0b71c1e4b00a6eece4fee0', 'short_description': "There's no waiting in line when you shop online 💁", 'date': '2017-11-15'}

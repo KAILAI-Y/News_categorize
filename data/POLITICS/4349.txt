@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Alabama GOP Officials Giving Roy Moore A Pass On Sexual Assault Allegations', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-sexual-assault-alabama-gop_us_5a04c816e4b0e37d2f366dba', 'short_description': '“He’s clean as a hound’s tooth."', 'date': '2017-11-09'}

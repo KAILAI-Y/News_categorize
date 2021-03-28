@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Walking Definition Of An Entitled Millennial Swears He's Not An Entitled Millennial", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/definition-of-entitled-millenial_us_5b05ca98e4b05f0fc844440a', 'short_description': 'Michael Rotondo was court-ordered to move out of his parents’ home.', 'date': '2018-05-23'}

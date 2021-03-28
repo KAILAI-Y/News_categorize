@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'How This Native Educator Is Keeping A Tribal Language Alive', 'authors': 'Sarah Ruiz-Grossman', 'link': 'https://www.huffingtonpost.com/entry/native-educator-teaching-omaha-umonhon-language_us_59af2a3de4b0354e440d7f01', 'short_description': 'Only a handful of elders on the reservation speak it fluently today.', 'date': '2017-10-11'}

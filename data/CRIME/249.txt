@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '2 New York Detectives Charged In Alleged Rape Of 18-Year-Old', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/new-york-police-indicted-alleged-rape_us_59f7ee43e4b0c0c8e67c59a4', 'short_description': 'The officers have pleaded not guilty to a 50-count indictment, saying the sex was consensual.', 'date': '2017-10-31'}

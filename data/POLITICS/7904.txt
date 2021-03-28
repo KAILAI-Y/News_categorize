@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "I Am 'They' In The Latest NRA Ad", 'authors': 'Patrick J. Kearney, ContributorVeteran teacher and an advocate for public education.  Opinion...', 'link': 'https://www.huffingtonpost.com/entry/im-not-changing-many-minds_us_59593151e4b0f078efd98aef', 'short_description': 'We can’t give into an “us vs. them” mentality.', 'date': '2017-07-02'}

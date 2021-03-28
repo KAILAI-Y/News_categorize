@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Apple Watch Credited With Saving New York Man's Life", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/apple-watch-helped-save-mans-life_us_5aebe575e4b0ab5c3d63abd3', 'short_description': 'The device alerted him to an alarmingly fast heart rate.', 'date': '2018-05-04'}

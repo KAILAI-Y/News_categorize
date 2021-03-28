@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Watch This Spider Crawl Out Of A Woman’s Ear, And Try Not To Wince', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/spider-exits-ear-woman_us_593c32ede4b0c5a35ca01550', 'short_description': 'The eight-legged squatter was filmed calmly crawling out after being exposed with a light.', 'date': '2017-06-10'}

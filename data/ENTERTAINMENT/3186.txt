@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Doctor Who' Fans Freak Out Over Upcoming Title Role Announcement", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/new-doctor-who-revealed_us_5969cfc9e4b017418627bad7', 'short_description': "The date is set to unveil Peter Capaldi's replacement.", 'date': '2017-07-15'}

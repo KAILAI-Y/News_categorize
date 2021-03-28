@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Swipes At Congress For Russia Sanctions Bill He Signed', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-russian-sanctions-bill_us_59831c93e4b0fa1575fc2dff', 'short_description': 'Trump claims the legislation limits his ability to "make far better deals."', 'date': '2017-08-03'}

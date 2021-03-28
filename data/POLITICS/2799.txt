@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ryan Zinke Takes Credit For Obama-Era Fight To Protect Grand Canyon From Mining', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/ryan-zinke-mining-ban-grand-canyon_us_5a57aec0e4b068abc338ca94', 'short_description': "The administration can't get its story straight — again.", 'date': '2018-01-12'}

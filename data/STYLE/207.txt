@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Kim Kardashian Is Trying To Bring Scrunchies Back', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-is-bringing-scrunchies-back-the-ultimate-90s-accessory_us_59d24292e4b05f005d359e1c', 'short_description': 'Get ready.', 'date': '2017-10-02'}

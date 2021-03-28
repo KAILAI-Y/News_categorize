@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bad Lip Reading Of 'Stranger Things' Is Freakin' Hilarious", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bad-lip-reading-of-stranger-things_us_5a2ad1d1e4b0a290f050542a', 'short_description': '"My poor tongue is dry -- do you wanna feel it?"', 'date': '2017-12-11'}

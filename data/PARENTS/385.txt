@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Why Are We So Obsessed With The Placenta?', 'authors': 'Catherine Pearson', 'link': 'https://www.huffingtonpost.com/entry/why-are-we-so-obsessed-with-the-placenta_us_59947ab9e4b06ef724d5abc9', 'short_description': "Women keep ingesting their afterbirth, even though the science isn't there.", 'date': '2017-08-29'}

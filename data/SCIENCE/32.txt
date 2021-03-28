@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'Already Threatened Polar Bears Face Food Shortage Crisis Amid Climate Change', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/polar-bears-food-shortage-study_us_5a74983fe4b0905433b3ce73', 'short_description': "We're certainly not making it easier for them.", 'date': '2018-02-02'}

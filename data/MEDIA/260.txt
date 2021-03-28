@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Media Euphemisms For 'Racist' Are Stupidly Tinged", 'authors': 'Julia Craven', 'link': 'https://www.huffingtonpost.com/entry/media-trump-shithole-racist_us_5a58f0dee4b04f3c55a23a07', 'short_description': 'Donald Trump is a racist. Just say it.', 'date': '2018-01-12'}

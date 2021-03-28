@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "It's Snowing In Florida And People Are Loving It", 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/florida-snow-photos_us_5a4cf9e0e4b06d1621bc6a54', 'short_description': 'Snow and palm trees. Enough said.', 'date': '2018-01-03'}

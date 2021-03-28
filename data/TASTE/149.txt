@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': '10 Wake And Take Breakfast Recipes', 'authors': 'Jennifer Segal, ContributorChef, Cookbook Author, Busy Mom', 'link': 'https://www.huffingtonpost.com/entry/10-wake-and-take-breakfast-recipes_us_59b0397ee4b0bef3378cdd1b', 'short_description': 'Here are some easy recipes for dishes that will help you kickstart your day.', 'date': '2017-09-09'}

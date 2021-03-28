@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Sara Saxon: I Live In Birmingham, Alabama, And This Is My Style', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/birmingham-alabama-style_us_59b18db4e4b0dfaafcf65bac', 'short_description': '"Not only do you have the classic Southern Belle style, but there\'s also a trendier, edgier side."', 'date': '2017-09-13'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jay-Z Stops Concert To Give Empowering Message To 9-Year-Old Girl', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jay-z-stops-concert-girl-message_us_5a15448de4b03dec82490dbf', 'short_description': '"You believe that."', 'date': '2017-11-22'}

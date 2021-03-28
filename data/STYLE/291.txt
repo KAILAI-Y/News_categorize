@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Drew Barrymore's Salon Selfie Is Parenting At Its Cutest", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/drew-barrymore-daughter-hair_us_5981ccede4b09d24e99436d0', 'short_description': 'This is not your average mommy-and-me moment.', 'date': '2017-08-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Complaints About Obama Giving Away Syria Strategy Look Pretty Silly Now", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-complaints-obama-syria_us_5ace0b3fe4b06a6aac8dcefa', 'short_description': 'Trump just gave away his own plans for Syria.', 'date': '2018-04-11'}

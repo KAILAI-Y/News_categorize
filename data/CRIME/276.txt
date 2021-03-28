@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Manhattan DA Swept Harvey Weinstein Sexual Harassment Under The Rug, Report Alleges', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/cyrus-vance-harvey-weinstein_us_59dce8fbe4b0a8e1367f14dd', 'short_description': "The NYPD had evidence but didn't do anything with it, according to the New Yorker.", 'date': '2017-10-10'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Bodies Of 26 Female Teenage Migrants Found In The Mediterranean', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/26-female-migrants-mediterranean_us_5a019eb6e4b0368a4e86dc0b', 'short_description': 'They may have been destined for prostitution.', 'date': '2017-11-07'}

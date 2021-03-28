@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Abject Shame Of Roy Moore', 'authors': 'Cody Lyon, ContributorNYC writer/reporter', 'link': 'https://www.huffingtonpost.com/entry/the-abject-shame-of-roy-moore_us_5a072218e4b0f1dc729a6b5f', 'short_description': 'The disgraced Senate candidate fits into a legacy of infamous Alabama politicians.', 'date': '2017-11-11'}

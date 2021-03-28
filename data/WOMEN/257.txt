@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "50 Photos From 2017 That Show The Power Of Women's Rage", 'authors': 'Alanna Vagianos and Damon Dahlen', 'link': 'https://www.huffingtonpost.com/entry/50-photos-women-protesting-2017_us_5a3bc5d1e4b0b0e5a7a01df3', 'short_description': 'Angry women will change the world.', 'date': '2017-12-21'}

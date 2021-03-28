@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ready Or Not, Here Comes Bernie Sanders And His Single-Payer Plan', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-single-payer_us_59b7faa7e4b031cc65cd0637', 'short_description': 'Pay attention to the proposal. Pay more attention to what he says about it.', 'date': '2017-09-12'}

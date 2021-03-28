@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Scaramucci Friend Threatens To Leak Dirt On 'Unemployed' Reince Priebus", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/scaramucci-friend-reince_us_597de831e4b02a8434b6f2bb', 'short_description': '"Keep pushing this crap & I’ll start dropping oppo on you.”', 'date': '2017-07-30'}

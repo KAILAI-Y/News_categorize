@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'NewsGuild Launches Campaign In Support Of Jailed Reuters Employees', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/reuters-journalists-petition_us_5a581d4be4b0720dc4c5b93e', 'short_description': '"Silencing the press is an abhorrent and an intolerable act of cowardice."', 'date': '2018-01-12'}

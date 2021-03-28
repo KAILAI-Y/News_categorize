@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Jeopardy!' Player Loses Thousands After Mispronouncing 'Gangsta's Paradise'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/jeopardy-player-loses-3200-after-mispronouncing-gangstas-paradise_us_5a4bd9b5e4b0b0e5a7a9183d', 'short_description': 'Not so Coolio under pressure.', 'date': '2018-01-02'}

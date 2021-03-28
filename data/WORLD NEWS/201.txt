@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Thousands Protest Against Harsh New 'Stop Abortion' Bill In Poland", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/poland-abortion-bill_us_5ab532dfe4b0decad049ac20', 'short_description': 'The bill is the latest attempt by the nationalist government and Catholic church to ban most abortions.', 'date': '2018-03-23'}

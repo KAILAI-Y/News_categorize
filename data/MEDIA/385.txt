@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Charlie Rose Accused Of Sexually Harassing And Groping Women', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/charlie-rose-women_us_5a134e10e4b0aa32975d342a', 'short_description': 'Eight women say the talk show host made unwanted advances toward them.', 'date': '2017-11-20'}

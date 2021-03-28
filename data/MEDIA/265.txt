@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "How Many Times Can Wolf Blitzer Avoid Saying 'Shithole'?", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/wolf-blitzer-shithole_us_5a581d33e4b0720dc4c5b93a', 'short_description': 'Watch the CNN anchor struggle to avoid using the word on live TV.', 'date': '2018-01-12'}

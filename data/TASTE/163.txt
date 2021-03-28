@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Cola Actually Came From Something Called A Kola Nut', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/kola-nuts_us_59a5718ce4b0446b3b8676f5', 'short_description': 'Bet you had no idea.', 'date': '2017-08-30'}

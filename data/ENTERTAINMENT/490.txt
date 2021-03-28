@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Cary Elwes Of ‘The Princess Bride’ To Join ‘Stranger Things’  Season 3', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/cary-elwes-of-the-princess-bride-to-join-stranger-things-season-3_us_5ad7a140e4b029ebe0209029', 'short_description': 'The Dread Pirate Roberts meets demogorgons.', 'date': '2018-04-18'}

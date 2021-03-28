@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Man Reveals Genius Way To Beat Any Kid At Hide And Seek', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/hide-and-seek-winning-tactic_us_5944f617e4b06bb7d2735fe1', 'short_description': "It's a winning tactic.", 'date': '2017-06-17'}

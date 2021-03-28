@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Independents Are Shifting To Climate Denial, According To The Latest Gallup Poll', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/gallup-poll-climate-change_us_5aba9129e4b04a59a3121887', 'short_description': 'Is President Trump to blame?', 'date': '2018-03-28'}

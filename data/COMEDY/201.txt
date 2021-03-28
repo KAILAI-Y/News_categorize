@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert: It's Time For John Kelly To Spank The President", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-spank-donald-trump_us_5ab99b60e4b0decad04d340b', 'short_description': '"Late Show" host says Stormy Daniels revealed one way to control Donald Trump.', 'date': '2018-03-27'}

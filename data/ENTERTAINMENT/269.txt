@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tina Fey Says Michelle Wolf ‘Did Her Job’ At White House Correspondents' Dinner", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/tina-fey-michelle-wolf_us_5aeb15fae4b041fd2d23a868', 'short_description': '“You can’t ask a coyote to guard the henhouse," said Fey.', 'date': '2018-05-03'}

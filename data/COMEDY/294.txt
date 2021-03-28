@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Parody Of Donald Trump's Speech About Arming Teachers Is So On Point", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-arm-teachers-parody_us_5a8fe3e8e4b03b55731ac8ae', 'short_description': '"What you\'ve just said is one of the most insanely idiotic things I have ever heard."', 'date': '2018-02-23'}

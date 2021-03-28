@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chuck Schumer Says Senate Democrats Are Open To Single-Payer Health Care', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/chuck-schumer-single-payer_us_5974b05be4b00e4363e0164e', 'short_description': 'The Democratic party was "too cautious" in the past, he said.', 'date': '2017-07-23'}

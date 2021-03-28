@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "The Jokes Flow On Twitter Over The Latest Trump 'Pee Tape' Allegations", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-pee-tape-twitter_us_5ad04332e4b016a07e9ae697', 'short_description': '"There\'s a better chance we\'ll see his #peetape than his #taxreturns."', 'date': '2018-04-13'}

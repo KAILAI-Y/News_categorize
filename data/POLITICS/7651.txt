@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Twitter Users Beg #BringBackObama As Russia Scandal Mounts', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/twitter-bringbackobama-as-russia-scandal-mounts_us_5965d071e4b03f144e2f0617', 'short_description': 'Warning: Intense feelings of nostalgia ahead.', 'date': '2017-07-12'}

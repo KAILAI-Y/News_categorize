@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Conservatives Call On Mitch McConnell, Other GOP Leaders To Step Down', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/conservatives-ask-mitch-mcconnell-step-down_us_59de2de1e4b04fc4e1ea6f7f', 'short_description': '“You were not going to ‘drain the swamp.’ You are the swamp."', 'date': '2017-10-11'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Lifelike Baby Sculpture In Store Window Is Creeping People Out', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/duane-hanson-sculpture-baby-creepy_us_5a05d04ee4b01d21c83e4366', 'short_description': '"That\'s art?" said one passerby.', 'date': '2017-11-10'}

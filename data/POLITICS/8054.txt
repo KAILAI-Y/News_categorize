@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Obamacare Repeal Possibly Going To Live On Farm Upstate', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/obamacare-repeal-faces-death-panel_us_5952d6c7e4b0da2c731f77be', 'short_description': "It's real pretty, they say.", 'date': '2017-06-27'}

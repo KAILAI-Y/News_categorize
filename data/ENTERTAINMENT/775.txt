@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Darren Criss Responds To Fans Who Want His Butt To Nab An Emmy', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/darren-criss-emmy-award-butt_us_5ab2a7e2e4b008c9e5f3ad89', 'short_description': 'The star thinks "Game of Thrones" would edge out his own derrière.', 'date': '2018-03-21'}

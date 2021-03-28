@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trump Can’t Find A Lawyer And Tweeters Think It's Hilarious", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-cant-find-a-lawyer_us_5ab9d8a7e4b008c9e5faab8b', 'short_description': 'Maybe\xa0Vincent LaGuardia Gambini or Bob Loblaw can help.', 'date': '2018-03-27'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Senate Republicans Looking To Play 'Let's Make A Deal' On Tax Cuts", 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/senate-republicans-tax-reform_us_5a1cb40be4b0e2ddcbb22c61', 'short_description': 'Will the holdouts actually hold out?', 'date': '2017-11-28'}

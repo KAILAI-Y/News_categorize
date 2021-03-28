@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Climate Disasters: Can Hope Rise From The Ashes?', 'authors': 'Lisa Bennett, ContributorCo-author Ecoliterate.', 'link': 'https://www.huffingtonpost.com/entry/climate-disasters-can-hope-rise-from-the-ashes_us_59ee231de4b0f777352c86c6', 'short_description': 'Three things to learn from the California wildfires.', 'date': '2017-10-23'}

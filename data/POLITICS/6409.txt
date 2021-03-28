@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Opens Door To Modest Troop Increase For Afghanistan', 'authors': 'Steve Holland and John Walcott, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-likely-to-approve-modest-troop-increase-for-afghanistan_us_599b7463e4b06a788a2b36d6', 'short_description': 'Current U.S. troop numbers are about 8,400.', 'date': '2017-08-22'}

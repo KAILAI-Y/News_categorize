@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's How Sean Spicer Got On The Emmys", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/heres-how-sean-spicer-made-his-polarizing-appearance-at-the-emmys_us_59bfdf8be4b0edff971dd3c1', 'short_description': 'Producers reportedly anticipated backlash.', 'date': '2017-09-18'}

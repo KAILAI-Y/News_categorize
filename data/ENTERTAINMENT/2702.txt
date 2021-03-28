@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Reddit Can't Get Enough Of A Fan Caressing George Clooney's Face", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/george-clooney-photoshop-battle-face-grabbed_us_59b91a4ee4b0edff9717ddb4', 'short_description': 'The amusing snap sparked a fierce photo-editing battle.', 'date': '2017-09-13'}

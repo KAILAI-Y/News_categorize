@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Report: More Than 200 Killed In North Korean Tunnel Collapse Following Nuclear Test', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/north-korea-tunnel-collapse_us_59f85798e4b0aec1467a9a46', 'short_description': 'The blast likely caused tremors and landslides.', 'date': '2017-10-31'}

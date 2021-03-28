@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Big Infrastructure Plan Now Looks Like Bait And Switch", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-infrastructure-plan_us_5a70e5e9e4b0a6aa48742e3e', 'short_description': 'His grand vision of an Eisenhower-style revitalization appears to be anything but.', 'date': '2018-01-31'}

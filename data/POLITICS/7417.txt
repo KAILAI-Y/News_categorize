@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Suggests States Not Turning Over Voter Details Have Something To Hide', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-voter-fraud-probe_us_596f860fe4b05453c5ccecf4', 'short_description': 'State law bars many from turning over data.', 'date': '2017-07-19'}

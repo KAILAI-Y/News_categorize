@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Quincy Jones Redefines Shade With Comments On Taylor Swift's Music", 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/quincy-jones-taylor-swift-music_us_5a7092a8e4b0a6aa4873a8b8', 'short_description': '"We need more songs, man. F***ing songs, not hooks."', 'date': '2018-01-30'}

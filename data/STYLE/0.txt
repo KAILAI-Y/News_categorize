@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Saoirse Ronan's Stunning Style Evolution Through The Years", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/saoirse-ronan-style-evolution_us_5a592f0fe4b04f3c55a295dd', 'short_description': 'The "Lady Bird" star has been killing it on the red carpet these days.', 'date': '2018-01-19'}

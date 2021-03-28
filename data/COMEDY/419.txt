@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Sarah Huckabee Sanders 'Reveals' Favorite Part Of Job In Seth Meyers' Spoof Briefing", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-fake-conference-sarah-huckabee-sanders_us_5a571df7e4b0a300f905e995', 'short_description': '"Purposefully misleading the American people."', 'date': '2018-01-11'}

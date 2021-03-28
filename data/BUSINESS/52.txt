@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'FedEx Says It Will Continue Offering NRA Members Discounts', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/fedex-stands-by-nra-discounts_us_5a9486a8e4b01f65f5995fc8', 'short_description': "The company said it disagrees with the organization on certain policies but won't end its partnership.", 'date': '2018-02-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Monopoly Man Photobombs A Senate Hearing', 'authors': 'Erika Larose and Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/monopoly-man-mick-mulvaney-amanda-werner_us_5acf9617e4b0edca2cb7a0d0', 'short_description': 'Activist Amanda Werner steals the spotlight from Trump appointee Mick Mulvaney.', 'date': '2018-04-12'}

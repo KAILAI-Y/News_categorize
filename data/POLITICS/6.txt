@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Scottish Golf Resort Pays Women Significantly Less Than Men: Report", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-scottish-golf-resort-pays-women-less-than-men_us_5b08ca29e4b0802d69cb4d37', 'short_description': 'And there are four times as many male as female executives.', 'date': '2018-05-26'}

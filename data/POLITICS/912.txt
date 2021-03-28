@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mueller Reportedly Investigating Ukraine Payment To Trump Foundation', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/mueller-ukraine-payment-trump-foundation_us_5acc0792e4b0337ad1eb039b', 'short_description': "The probe is part of a larger inquiry into Trump's 2016 presidential campaign.", 'date': '2018-04-10'}

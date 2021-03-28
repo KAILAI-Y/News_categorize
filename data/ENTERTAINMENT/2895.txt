@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Eric Dane Only Watched Three Episodes Of 'Grey's Anatomy'", 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/greys-anatomy-eric-dane-the-last-ship_us_5996f974e4b0e8cc855d3a67', 'short_description': 'But he does watch himself on his latest show, TNT\'s "The Last Ship."', 'date': '2017-08-18'}

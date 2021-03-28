@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "BuzzFeed Fires White House Correspondent Adrian Carrasquillo Over 'Inappropriate Message'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/buzzfeed-adrian-carrasquillo-fired_us_5a449eaae4b06d1621b6ded5', 'short_description': 'The company said it received a complaint from a colleague last week.', 'date': '2017-12-28'}

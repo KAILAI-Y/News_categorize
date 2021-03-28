@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'President Trump Expected To Give Remarks On Syria', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/president-trump-remarks-syria_us_5ad151d6e4b077c89ce8bd37', 'short_description': "He'll speak from the White House.", 'date': '2018-04-14'}

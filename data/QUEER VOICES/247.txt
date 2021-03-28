@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Washington State Moves To Ban Gay Conversion Therapy', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/washington-state-outlaws-gay-conversion-therapy_us_5a9c0344e4b0a0ba4ad44389', 'short_description': "A bill outlawing the practice is headed to the state's governor for his signature.", 'date': '2018-03-04'}

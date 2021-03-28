@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Doctors Who Take Pharmaceutical Money Use Twitter To Hype Drugs', 'authors': 'Ronnie Cohen, Reuters', 'link': 'https://www.huffingtonpost.com/entry/doctors-who-take-pharmaceutical-money-use-twitter-to-hype-drugs_us_59b823a2e4b086432b01f23a', 'short_description': '"This is a big problem."', 'date': '2017-09-12'}

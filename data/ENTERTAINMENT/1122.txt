@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jennifer Lawrence Explains Why Her On-Set Nudity Made People 'Uncomfortable'", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/jennifer-lawrence-explains-why-her-on-set-nudity-made-people-uncomfortable_us_5a8b1b6be4b05c2bcace1956', 'short_description': 'Classic JLaw.', 'date': '2018-02-19'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': '76-Year-Old Hunk Wins Brazilian Beauty Pageant', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/sao-paulo-handsome-old-guys_us_598deabfe4b09071f699621a', 'short_description': 'The winner says, "When you’re as old as I am, it’s an achievement.”', 'date': '2017-08-11'}

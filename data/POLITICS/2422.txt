@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'DNC Executive Steps Down At Key Moment For Democrats', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/dnc-jess-oconnell_us_5a7006d8e4b05836a255e776', 'short_description': 'Jess O’Connell will leave as CEO of Democratic Party headquarters after less than a year.', 'date': '2018-01-30'}

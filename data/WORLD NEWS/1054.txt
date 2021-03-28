@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "The Most Unbelievable Parts Of The Cuba 'Sonic Attack' Mystery", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/cuba-sonic-attack-diplomats_us_59d3bc52e4b0218923e585a5', 'short_description': 'Your guide to the strangest story of the year.', 'date': '2017-10-03'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here Are The 2018 SAG Awards Winners', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/sag-awards-2018-winners-list_us_5a60c009e4b01f3bca590ec7', 'short_description': 'Women took center stage at the annual ceremony honoring film and TV stars.', 'date': '2018-01-22'}

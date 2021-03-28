@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Michael Che's Stepmom Melissa McCarthy Embarrasses Him On 'Weekend Update'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/michael-che-stepmom-melissa-mccarthy-weekend-update_us_5af861c1e4b032b10bfbb166', 'short_description': "Who doesn't want Melissa McCarthy to be their stepmom?", 'date': '2018-05-13'}

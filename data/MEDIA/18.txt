@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'ESPN Eliminates Public Editor Role, Calling It Outdated', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/espn-eliminates-public-editor_us_5af319e5e4b0aab8a78badea', 'short_description': 'As media distrust grows, another outlet drops its liaison between the public and the newsroom.', 'date': '2018-05-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Marco Rubio Had An Odd Explanation For Changing His Position On A Trump Nominee', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/marco-rubio-nominations-bridenstine_us_5ad8d0fde4b029ebe0221370', 'short_description': 'The senator voted to confirm a NASA administrator he initially opposed.', 'date': '2018-04-19'}

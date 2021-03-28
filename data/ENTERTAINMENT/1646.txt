@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's What 'No Trousers Day' Looked Like in London", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/heres-what-no-trousers-day-looked-like-in-london_us_5a539a98e4b01e1a4b17fd4a', 'short_description': 'Hundreds of bare-legged transit riders gathered in tube trains on Sunday.', 'date': '2018-01-08'}

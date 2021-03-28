@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Woman Survives 7-Story Plunge From Parking Garage In BMW', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/bmw-falls-from-parking-garage_us_598dc580e4b0909642967781', 'short_description': 'Authorities just released the shocking video.', 'date': '2017-08-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Your Tumor Having The Worst Week In Washington', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/your-tumor-having-the-worst-week-in-washington_us_5977c5eee4b0e201d5794e70', 'short_description': "But don't you feel more free?", 'date': '2017-07-25'}

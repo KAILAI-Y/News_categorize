@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "Here's How To Help The Victims Of Hurricane Harvey", 'authors': 'Lee Moran, Hilary Hanson, and Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/how-to-help-hurricane-storm-harvey_us_59a166dde4b0821444c37515', 'short_description': 'Donations of food, money and blood are all sought.', 'date': '2017-08-26'}

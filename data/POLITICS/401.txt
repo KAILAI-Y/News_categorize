@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'This Is The Toughest Gun Law In America', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/toughest-gun-law-america_us_5aeb27a9e4b041fd2d23d3f7', 'short_description': 'Reformers love what Massachusetts is doing. The NRA? Not so much.', 'date': '2018-05-06'}

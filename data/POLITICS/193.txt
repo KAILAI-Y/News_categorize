@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'San Francisco May Ban Single-Use Plastic Straws', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/san-francisco-may-ban-single-use-plastic-straws_us_5afc7a85e4b06a3fb50d0bd8', 'short_description': 'Many local food and beverage merchants are already on board.', 'date': '2018-05-16'}

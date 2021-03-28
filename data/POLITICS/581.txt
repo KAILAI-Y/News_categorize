@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jeff Sessions Wants To Make The Justice Department More Like ICE', 'authors': 'Roque Planas', 'link': 'https://www.huffingtonpost.com/entry/jeff-sessions-wants-to-make-the-justice-department-more-like-ice_us_5ae0f3d3e4b02baed1b60aff', 'short_description': 'But the attorney general’s plans come at a cost.', 'date': '2018-04-26'}

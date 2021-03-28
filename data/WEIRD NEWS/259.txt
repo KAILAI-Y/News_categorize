@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "People Are At Odds Over This Justin Trudeau 'My Canadian Boyfriend' Calendar", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/justin-trudeau-calendar-my-boyfriend_us_5a1e9252e4b0d724fed4daff', 'short_description': '"Just be grateful they don\'t do this for Donnie, too."', 'date': '2017-11-29'}

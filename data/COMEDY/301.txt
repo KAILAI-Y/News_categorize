@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Someone Swapped Donald Trump's Face Onto Alec Baldwin's And It's Terrifying", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-alec-baldwin-face-swapp_us_5a8d25ede4b0273053a5fa42', 'short_description': "It's hard to tell which is which.", 'date': '2018-02-21'}

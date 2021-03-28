@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "A Look At Mecca, Islam's Holiest Site, At The Height Of The Hajj Pilgrimage", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/hajj-photos_us_59a853aae4b010ca289b3ac1', 'short_description': 'Roughly 2 million Muslims were expected to go on Hajj this year.', 'date': '2017-08-31'}

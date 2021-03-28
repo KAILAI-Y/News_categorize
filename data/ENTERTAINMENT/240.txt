@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Adele Celebrates 'Titanic'-Themed 30th Birthday", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/adele-titanic-30th-birthday_us_5af01716e4b0ab5c3d674608', 'short_description': '"The best night of my life," she said.', 'date': '2018-05-07'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'German Lawmakers Vote To Legalize Same-Sex Marriage', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/germany-same-sex-marriage_us_5953cd3ae4b0da2c73205644', 'short_description': "LGBTQ rights get a big win in Europe's most populous country.", 'date': '2017-06-30'}

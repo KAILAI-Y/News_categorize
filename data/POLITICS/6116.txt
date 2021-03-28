@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Prepares For Second Harvey Visit By Tweeting About Hillary Clinton', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-hillary-clinton_us_59a94b7de4b0b5e530fdd6d1', 'short_description': 'Someday the 2016 election will be over.', 'date': '2017-09-01'}

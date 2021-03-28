@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Accepts 'Tough Guy' Roy Moore's Challenge To A Fight", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-roy-moore_us_5a211a2ee4b03350e0b5b2e6', 'short_description': 'The Republican Senate candidate and former judge invited Kimmel down to Alabama to meet "man to man."', 'date': '2017-12-01'}

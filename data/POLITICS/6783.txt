@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Indiana Republicans Keep Blocking Early Voting In A Major Democratic County', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/indiana-republicans-early-voting_us_598cacdfe4b090964295b5ca', 'short_description': 'Meanwhile, a Republican-friendly county has had no problem doing it.', 'date': '2017-08-10'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Activists Film ‘Extreme Market’ In Indonesia To Denounce Dog Meat Trade', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/dog-meat-market-indonesia_us_5a67eac5e4b002283007bb21', 'short_description': '“It was like walking through hell," an animal advocate said.', 'date': '2018-01-24'}

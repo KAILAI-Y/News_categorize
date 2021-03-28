@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Pink's Breastfeeding Selfie Features Double The Multitasking", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/pinks-breastfeeding-selfie-features-double-the-multitasking_us_59637d15e4b0615b9e92f490', 'short_description': 'The singer shared a new "brelfie" on Instagram.', 'date': '2017-07-10'}

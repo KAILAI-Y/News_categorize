@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Congressman Introduces The COVFEFE Act Because The Universe Won't Let This Joke Die", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/covfefe-act-congress_us_593eb814e4b0b13f2c6c9a1e', 'short_description': 'Officials "must answer for what they do and say," including tweets, lawmaker says.', 'date': '2017-06-12'}

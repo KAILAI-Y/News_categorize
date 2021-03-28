@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Trump's Surprise Visit To The DMZ Canceled Due To Bad Weather", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-visit-dmz-korea_us_5a025234e4b06ff32c944492', 'short_description': 'Before the trip was scuttled, Trump\'s team had dubbed it a "historic moment."', 'date': '2017-11-08'}

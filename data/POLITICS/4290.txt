@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "John Kelly's Solution For Trump Tweets: Ignore Them", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/kelly-ignoring-trump-tweets_us_5a08f5bce4b01d21c83f690f', 'short_description': '"Believe it or not, I do not follow the tweets," chief of staff tells reporters.', 'date': '2017-11-13'}

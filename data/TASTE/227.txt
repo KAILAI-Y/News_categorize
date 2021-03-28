@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Chipotle Stock Plunges Again After Sicknesses And Mice Sightings', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/chipotle-rats_us_59723d27e4b00e4363df3d39', 'short_description': 'Customers said they saw rodents fall from the ceiling at one location. 🙈', 'date': '2017-07-21'}

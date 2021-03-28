@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Doctors, Hospitals And Insurers Ask Senate To Reject Graham-Cassidy', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/health-care-graham-cassidy-doctors-insurance_us_59c6f9d2e4b06ddf45f85d71', 'short_description': '“Health care is too important to get wrong. Let’s take the time to get it right.”', 'date': '2017-09-24'}

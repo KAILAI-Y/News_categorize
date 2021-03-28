@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Photos Of Empty Grocery Shelves Show Dire Situation In Venezuela', 'authors': 'Chris McGonigal and Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/venezuela-empty-grocery-shelves-photos_us_5a567751e4b08a1f624afcf6', 'short_description': 'Slashed prices caused a run on supermarkets.', 'date': '2018-01-10'}

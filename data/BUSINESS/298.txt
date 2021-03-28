@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Travis Kalanick Takes Leaves Of Absence From Post As Uber CEO', 'authors': 'Ryan Grenoble and Kate Abbey-Lambertz', 'link': 'https://www.huffingtonpost.com/entry/travis-kalanick-leave-uber_us_58b86704e4b0a8ded67b476c', 'short_description': "The executive's mother died in a boating accident last month.", 'date': '2017-06-13'}

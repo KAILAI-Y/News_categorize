@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Likens Donald Trump Jr.'s Meeting With Russians To 'Ocean's Eleven'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-jr-russia_us_5973077ee4b09e5f6ccf935b', 'short_description': '"They got the whole rag-tag team."', 'date': '2017-07-22'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Heathers' Reboot Series Delayed In Wake Of Parkland Shooting", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/heathers-series-delayed-parkland_us_5a973571e4b0e6a52304819b', 'short_description': 'A new premiere date for the 10-episode anthology was not announced.', 'date': '2018-03-01'}

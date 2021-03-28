@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "'Label Me' Mom", 'authors': 'Jennifer Sartore Hulst, ContributorMother, paralegal, skincare consultant, aspiring writer', 'link': 'https://www.huffingtonpost.com/entry/label-me-mom_us_5993c77be4b0afd94eb3f615', 'short_description': 'There is no shame in a label, and thus should be no shaming a label.', 'date': '2017-08-16'}

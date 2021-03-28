@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Tim Hortons Does Unthinkable, Creates Buffalo Sauce-Flavored Latte', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/tim-hortons-buffalo-latte_us_59dfea5fe4b0a52aca16b629', 'short_description': 'No, please no. For the love of God, noooooooo!', 'date': '2017-10-12'}

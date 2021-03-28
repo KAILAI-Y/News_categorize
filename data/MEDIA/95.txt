@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Stormy Daniels’ Attorney Mocks Trump With A ‘Merry Christmas’ In April', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/michael-avenatti-merry-christmas_us_5ac6dbf5e4b07a3485e2c4c7', 'short_description': '"It’s a very, very Merry Christmas here in our camp."', 'date': '2018-04-06'}

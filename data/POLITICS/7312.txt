@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Anthony Scaramucci Says Trump Remains Unsure About Russian Election Meddling', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/anthony-scaramucci-russia_us_5974a125e4b09e5f6ccfe43e', 'short_description': 'He also says the investigations into the interference are "overblown."', 'date': '2017-07-23'}

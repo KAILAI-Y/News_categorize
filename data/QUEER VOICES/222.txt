@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Celebrities Call To 'Boycott Bermuda' For Repeal Of Marriage Equality", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/celebrities-call-for-bermuda-boycott_us_5aa2d1dbe4b07047bec64386', 'short_description': '"I guess I\'m canceling my trip," Ellen DeGeneres wrote.', 'date': '2018-03-09'}

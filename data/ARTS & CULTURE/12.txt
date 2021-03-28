@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Cartoon Perfectly Sums Up That 'Back To Work' After Holidays Feeling", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/cartoon-back-to-work-holidays_us_5a4b5477e4b0b0e5a7a844d5', 'short_description': 'Too relatable.', 'date': '2018-01-02'}

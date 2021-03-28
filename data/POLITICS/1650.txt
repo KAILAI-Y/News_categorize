@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Stormy Daniels Suing Trump Over Nondisclosure Agreement', 'authors': 'Sarah Ruiz-Grossman and Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/stormy-daniels-sue-trump_us_5a9f3867e4b002df2c5ea659', 'short_description': 'The suit claims Trump himself never signed a "hush agreement."', 'date': '2018-03-07'}

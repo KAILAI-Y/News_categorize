@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'At Least 18 Killed In Large Explosion In Syria, War Monitor Says', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/syria-explosion-idlib_us_5a526df7e4b003133ec8d303', 'short_description': 'Ambulance and rescue teams rushed to the scene of the blast.', 'date': '2018-01-07'}

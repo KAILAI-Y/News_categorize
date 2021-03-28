@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Trumpsutawney' Kellyanne Conway Delivers Presidential Prediction", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-jimmy-kimmel_us_5a796ed8e4b0164659c7ae81', 'short_description': '"I just saw my shadow, you know what that means?"', 'date': '2018-02-06'}

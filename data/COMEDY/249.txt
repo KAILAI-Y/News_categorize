@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Diagnoses Donald Trump With A New Xenophobic Condition', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-see-through-border-wall_us_5aa8e305e4b018e2f1c31137', 'short_description': '“That’s, like, such a weird thing to say."', 'date': '2018-03-14'}

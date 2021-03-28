@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "When Men 'Misremember' Violating Women", 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/when-men-misremember-violating-women_us_5a15926fe4b025f8e932d903', 'short_description': '“Male entitlement is the backbone of our culture."', 'date': '2017-11-22'}

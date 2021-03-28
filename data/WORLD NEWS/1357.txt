@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Spanish Police On The Hunt For Barcelona Terror Suspect', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/barcelona-terror-attack-suspect_us_59999291e4b01f6e801f15bf', 'short_description': 'Authorities have not ruled out that he has slipped over the border to France.', 'date': '2017-08-20'}

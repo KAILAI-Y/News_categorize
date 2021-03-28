@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Behold The 7 Epic 20th Anniversary Harry Potter Covers', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/behold-the-7-epic-20th-anniversary-harry-potter-covers_us_5accc09fe4b09d0a11979e2d', 'short_description': 'Accio, every last one.', 'date': '2018-04-10'}

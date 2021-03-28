@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '7 Reasons Why Locals Love Casper, Wyoming', 'authors': 'Brook Kreder, ContributorCEO, VisitCasper', 'link': 'https://www.huffingtonpost.com/entry/7-reasons-why-locals-love-casper-wyoming_us_59df9ca9e4b00abf36471025', 'short_description': 'There’s something happening year-round.', 'date': '2017-10-12'}

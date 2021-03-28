@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Conservatives Cook Up Farm Bill Gambit to Get Vote On Hardline Immigration Bill', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/freedom-caucus-farm-bill-gambit_us_5afb9271e4b06a3fb50ba795', 'short_description': 'This is getting very House of Cards-y.', 'date': '2018-05-16'}

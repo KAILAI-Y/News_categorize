@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Hip-Hop Group Flobots Slams YouTuber Logan Paul For Ruining Its Song', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/logan-paul-flobots-handlbars_us_5a3c15dce4b06d1621b2fb4d', 'short_description': 'But revenge is served ice cold for "stupid white rap."', 'date': '2017-12-21'}

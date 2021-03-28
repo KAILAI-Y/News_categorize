@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Mom Transforms Baby Into Wonder Woman For Fierce Photo Shoot', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/mom-transforms-baby-into-wonder-woman-for-fierce-photo-shoot_us_59dd032be4b0b26332e70934', 'short_description': 'Mary Grace Pingoy dreams of her daughter meeting Gal Gadot one day.', 'date': '2017-10-13'}

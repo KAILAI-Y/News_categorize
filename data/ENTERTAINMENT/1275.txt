@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Lady Gaga Cancels Rest Of World Tour Because Of 'Severe Pain'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/lady-gaga-cancels-tour-dates-2018_us_5a759b4fe4b0905433b46d18', 'short_description': '“I’m so devastated I don’t know how to describe it."', 'date': '2018-02-03'}

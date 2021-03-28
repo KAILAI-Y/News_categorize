@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'I Hereby Quit Your Religion', 'authors': 'Lorena Pozos, ContributorBlogger, bookworm, kid at heart.', 'link': 'https://www.huffingtonpost.com/entry/i-hereby-quit-your-religion_us_59405ac1e4b0d99b4c920f74', 'short_description': 'Today, I don’t believe that any little mistake will send me to hell.', 'date': '2017-06-13'}

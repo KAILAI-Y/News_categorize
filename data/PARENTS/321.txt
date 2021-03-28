@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Sutton Foster On The 'Massive Learning Curve' Of Parenting", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/sutton-foster-on-the-massive-learning-curve-of-parenting_us_59b94b88e4b086432b037669', 'short_description': 'The "Younger" star adopted a baby girl born in March.', 'date': '2017-09-13'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Threat Of Volcanic Eruption On Bali Forces Nearly 135,000 To Flee Homes', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/bali-mount-agung-volcano-evacuations_us_59cdf7e0e4b06791bb0fabd5', 'short_description': 'More than 1,000 people were killed the last time Mount Agung erupted in 1963.', 'date': '2017-09-29'}

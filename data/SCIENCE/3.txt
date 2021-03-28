@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'Terrifying Clip Shows Why You Should Never Run Under A Tree During Thunderstorms', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/lightning-strikes-tree_us_5afd3658e4b0a59b4e00a53f', 'short_description': 'YIKES!', 'date': '2018-05-17'}

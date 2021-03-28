@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Stranger Things' Kids And James Corden Are Your New Favorite Motown Band", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stranger-things-kids-james-corden-motown-band_us_5a043295e4b03deac08b6053', 'short_description': 'Introducing... The Upside Downs.', 'date': '2017-11-09'}

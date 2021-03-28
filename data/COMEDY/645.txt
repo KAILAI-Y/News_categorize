@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher Rips 'Fetish' Patriots Who Cluelessly Wrap Themselves In The Flag", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-flag-fetish-patriots_us_59f42617e4b03cd20b81cc65', 'short_description': '"It starts with goosebumps, but it ends with goose steps."', 'date': '2017-10-28'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'New York Giants Clean House, Fire Coach Ben McAdoo, GM Jerry Reese', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/new-york-giants-fire-ben-mcadoo-jerry-reese_us_5a257a72e4b03c44072f38b0', 'short_description': 'The team has just two wins so far this year.', 'date': '2017-12-04'}

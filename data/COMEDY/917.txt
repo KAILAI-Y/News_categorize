@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Knows Why Your Dog Is Really Afraid Of Fireworks', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-knows-why-your-dog-is-really-afraid-of-fireworks_us_595b2d38e4b05c37bb7fe065', 'short_description': 'Happy 4th!', 'date': '2017-07-04'}

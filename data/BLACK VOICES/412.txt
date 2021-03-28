@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Ohio Teens Charged With Tossing Sandbag Off Overpass That Killed Man', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/ohio-teens-charged-with-tossing-sandbag-off-overpass_us_5a43dceae4b0b0e5a7a456c7', 'short_description': '"He\'s gone [and] he\'s never coming back," a relative said.', 'date': '2017-12-27'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Adorable Bear Cubs Hitch A Ride On Mom's Back Across An Alaska Lake", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/bear-cubs-ride-mama-alaska-lake_us_5958112fe4b0da2c7323f6b8', 'short_description': 'Thanks, Mom!', 'date': '2017-07-01'}

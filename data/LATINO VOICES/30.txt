@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "'One Day At A Time' Star Rips Trump Over SOTU Puerto Rico Remarks", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/justina-machado-rips-trump_us_5a7345e8e4b01ce33eb0acda', 'short_description': "Justina Machado also went after the president's five military draft deferments.", 'date': '2018-02-01'}

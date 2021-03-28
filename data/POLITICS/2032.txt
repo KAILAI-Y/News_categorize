@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Twitter Claps Back After GOP Says ‘We’re With You, Florida’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/gop-florida-twitter-response_us_5a8693ace4b004fc3190ad2a', 'short_description': 'People are in no mood for empty rhetoric after the latest mass shooting.', 'date': '2018-02-16'}

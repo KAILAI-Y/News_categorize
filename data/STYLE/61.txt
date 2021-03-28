@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Prince Harry And Meghan Markle's Wedding Date Is Already Creating Problems", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/soccer-fans-are-having-a-field-day-with-prince-harry-and-meghan-markles-wedding-date_us_5a33edfce4b040881bea0d07', 'short_description': 'A royal pain, indeed.', 'date': '2017-12-15'}

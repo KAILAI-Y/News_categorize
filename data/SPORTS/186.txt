@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Red Stripe Buys Jamaican Team A New Bobsled After Coach Quits', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/red-stripe-jamaica-bobsled_us_5a865f09e4b00bc49f428354', 'short_description': "The team's coach reportedly threatened to take the current sled with her.", 'date': '2018-02-16'}

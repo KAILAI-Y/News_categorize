@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Former RNC Chair Michael Steele Trolls Donald Trump Over Virginia Loss', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/michael-steele-donald-trump-virginia_us_5a029b71e4b04e96f0c65181', 'short_description': '...and it only took four words.', 'date': '2017-11-08'}

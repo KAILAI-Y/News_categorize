@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Top Alpine Skiers Shun Team Event At 2018 Olympics', 'authors': 'Nick Mulvenney, Reuters', 'link': 'https://www.huffingtonpost.com/entry/alpine-skiing-team-event-olympics_us_5a8ad05ce4b00bc49f468470', 'short_description': 'A scheduling issue has many athletes backing out of competition.', 'date': '2018-02-19'}

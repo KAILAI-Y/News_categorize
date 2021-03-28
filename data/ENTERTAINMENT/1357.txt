@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Pour It Up! Rihanna Celebrates Grammy Win With Rumored Boyfriend Hassan Jameel', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/rihanna-grammys-hassan-jameel_us_5a6f5fa1e4b01fbbefb49fec', 'short_description': 'GIVE US MORE.', 'date': '2018-01-29'}

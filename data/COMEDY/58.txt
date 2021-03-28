@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Does Some Porn Star Math For Michael Cohen And Donald Trump', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-michael-cohen-money_us_5af395c6e4b04d3b2c905a00', 'short_description': 'The "Late Show" host runs the numbers.', 'date': '2018-05-10'}

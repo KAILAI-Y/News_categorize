@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': '11 Essentials You Need To Host The Perfect Tailgate Party', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/11-things-you-need-for-your-next-tailgate_us_59cd0043e4b0210dfdfc720b', 'short_description': "It's not just about the game.", 'date': '2017-09-28'}

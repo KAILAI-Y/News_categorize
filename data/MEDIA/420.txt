@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Top NPR Editor Resigns After Sexual Harassment Allegations', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/npr-oreskes-resigns_us_59f9f15de4b0d1cf6e921633', 'short_description': "He was placed on leave Tuesday after the Washington Post published two women's accusations.", 'date': '2017-11-01'}

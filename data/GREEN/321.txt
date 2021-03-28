@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Bar Wars: Climate In Court', 'authors': 'William S. Becker, ContributorEnergy & Climate Policy Expert', 'link': 'https://www.huffingtonpost.com/entry/bar-wars-climate-in-court_us_5963bacbe4b09be68c005471', 'short_description': 'It clearly is a great time to be an environmental lawyer.', 'date': '2017-07-10'}

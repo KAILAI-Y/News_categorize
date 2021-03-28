@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'New York Daily News Scorches Sean Hannity With New Cover', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/new-york-daily-news-sean-hannity-front-cover_us_5ad5aaa5e4b077c89cec4032', 'short_description': 'The tabloid did not hold back.', 'date': '2018-04-17'}

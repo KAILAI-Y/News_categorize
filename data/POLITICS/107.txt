@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "U.S., China Putting Trade War On Hold, Treasury's Steve Mnuchin Says", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/china-tariffs-us-hold_us_5b018af2e4b0a046186d214f', 'short_description': '"Right now, we have agreed to put the tariffs on hold while we try to execute the framework."', 'date': '2018-05-20'}

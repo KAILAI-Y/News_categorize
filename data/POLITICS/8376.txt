@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Coal Market Set To Collapse Worldwide By 2040 As Solar And Wind Dominate', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/coal-power_us_59441b0ae4b01eab7a2d6f48', 'short_description': 'But the shift may not happen quickly enough to avert the worst effects of climate change.', 'date': '2017-06-16'}

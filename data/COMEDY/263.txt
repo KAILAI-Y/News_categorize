@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Describes Donald Trump's Penis In The Funniest Way", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-description-of-donald-trumps-penis-is-the-best-yet_us_5aa128d5e4b0e9381c15e61b', 'short_description': 'Try to get this image out of your head.', 'date': '2018-03-08'}

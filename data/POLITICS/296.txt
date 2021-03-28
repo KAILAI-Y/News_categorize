@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Watch 1998 Rudy Giuliani Completely Torpedo 2018 Rudy Giuliani's Trump Arguments", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/rudy-giuliani-president-has-to-testify_us_5af3b511e4b0859d11d03279', 'short_description': '“You gotta do it. I’m mean, you don’t have a choice.”', 'date': '2018-05-10'}

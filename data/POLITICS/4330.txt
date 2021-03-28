@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Money Is Politics', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/federal-reserve-politics-jerome-powell_us_5a03284be4b04e96f0c703e7', 'short_description': "You read that right. And here's what it means for Trump's new Fed chair.", 'date': '2017-11-10'}

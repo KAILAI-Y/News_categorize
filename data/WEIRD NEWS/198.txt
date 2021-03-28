@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Cross Mysteriously Appears On Rabbit's Forehead", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/kate-hazel-fluff-cross-forehead_us_5a53bb57e4b0efe47ebb8b7f', 'short_description': 'Hare is risen!', 'date': '2018-01-08'}

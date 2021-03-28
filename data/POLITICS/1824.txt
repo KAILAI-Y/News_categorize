@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Powerful Men Who Lose Their Jobs Over Harassment Can Still Get Big Payouts', 'authors': 'Dana Liebelson', 'link': 'https://www.huffingtonpost.com/entry/powerful-men-who-lose-their-jobs-over-harassment-can-still-get-big-payouts_us_5a9035abe4b03b55731b9c6d', 'short_description': 'But you might not know about it.', 'date': '2018-02-27'}

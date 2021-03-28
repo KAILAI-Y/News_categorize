@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'Scientists To Study Mysterious Interstellar Asteroid For Signs Of Alien Technology', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/asteroid-alien-technology_us_5a2f41c3e4b0789502831189', 'short_description': "Is the elongated asteroid 'Oumuamua actually some kind of probe?", 'date': '2017-12-12'}

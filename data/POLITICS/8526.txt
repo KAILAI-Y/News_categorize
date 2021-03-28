@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Era Ignorance Triumphs Over Shakespeare', 'authors': 'Jason Linkins', 'link': 'https://www.huffingtonpost.com/entry/trump-julius-caesar-shakespeare_us_593f0453e4b0b13f2c6d62fd', 'short_description': 'Why do we bother learning anything?', 'date': '2017-06-12'}

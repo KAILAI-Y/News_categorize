@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nancy Pelosi Admits She Still Has A Hard Time Saying ‘President Trump’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/nancy-pelosi-whats-his-name-trump_us_592e33a9e4b055a197ce1a06', 'short_description': 'House minority leader jokes she\'d "rather have President Bush."', 'date': '2017-05-31'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Vowed Not To Run $400 Billion Deficits. Instead He’ll Run A $1 Trillion One.', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-trillion-dollar-deficit_us_5a81fadce4b0580d3d6d68e0', 'short_description': 'Does that technically count as a “promise kept”?', 'date': '2018-02-12'}

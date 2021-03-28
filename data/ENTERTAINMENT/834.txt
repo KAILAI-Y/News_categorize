@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Gal Gadot’s Seemingly Innocent Tribute To Stephen Hawking Pissed Off Some People', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/gal-gadot-tribute-to-stephen-hawking-ableist_us_5aaa9cb1e4b073bd8292b0ae', 'short_description': 'Several disability rights advocates called it ableist.', 'date': '2018-03-15'}

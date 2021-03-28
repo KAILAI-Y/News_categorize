@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Presenting: The Rants Of InfoWars' Alex Jones As A Bon Iver Song", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/infowars-alex-jones-bon-iver-song_us_5968f880e4b03389bb17042b', 'short_description': 'Because the current political climate is basically begging us to  get weird.', 'date': '2017-07-14'}

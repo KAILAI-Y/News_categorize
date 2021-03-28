@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Pamela Anderson Looks So Pretty In Pale Pink', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/pamela-anderson-dress_us_594289b0e4b09ad4fbe5b8cb', 'short_description': 'That ruffled trim though 🙌', 'date': '2017-06-15'}

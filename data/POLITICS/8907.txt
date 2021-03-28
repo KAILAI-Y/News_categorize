@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "South Carolina Democrat's Poll Shows Progress Against GOP Rival", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/archie-parnell-poll-south-carolina-fifth_us_592df0e8e4b0c0608e8c57e4', 'short_description': 'The 10-point deficit is faint hope, though, in the deep-red House district.', 'date': '2017-05-31'}

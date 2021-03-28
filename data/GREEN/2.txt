@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Your Questions About The California Mudslides, Answered', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/california-mudslides-explained_us_5a57a7e4e4b018a4f8b6d72d', 'short_description': "It's not just a tragic coincidence that the region is facing back-to-back disasters.", 'date': '2018-01-12'}

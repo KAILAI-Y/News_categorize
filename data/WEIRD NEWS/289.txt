@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Arnold Schwarzenegger Picture Sends Redditors Into Photo-Editing Overdrive', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/arnold-schwarzenegger_us_5a06c1a5e4b05673aa5969a6', 'short_description': 'An old image has inspired a new meme.', 'date': '2017-11-11'}

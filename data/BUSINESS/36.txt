@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Claire's Is Entering A New Chapter In Life: Bankruptcy", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/claires-bankruptcy_us_5ab00d6de4b0e862383a6ee6', 'short_description': 'Growing up is never easy.', 'date': '2018-03-19'}

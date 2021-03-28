@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'PTSD May Have A Physical, Not Just Psychological, Effect On The Brain', 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/ptsd-brain-effects_us_5966498ce4b005b0fdca68e5', 'short_description': 'New research with military members who suffered blast injuries indicates the possibility.', 'date': '2017-07-13'}

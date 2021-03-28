@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Patton Oswalt Shares Touching Detail From Wedding Day With Meredith Salenger', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/patton-oswalt-wedding-day-meredith-salenger_us_5a7b83ace4b0c6726e0f152b', 'short_description': '"It felt amazing. That moment," he said.', 'date': '2018-02-08'}

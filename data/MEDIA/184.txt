@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Shepard Smith Gives Fox News Viewers A Reality Check After Florida School Shooting', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/shep-smith-florida-shooting_us_5a850aa1e4b0058d5565d76d', 'short_description': "Some things haven't changed much since Columbine.", 'date': '2018-02-15'}

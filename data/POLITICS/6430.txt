@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Vast Majority Of Americans Are Not Sad To See Steve Bannon Go', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-trump-poll_us_599add09e4b01f6e801fb5ad', 'short_description': 'That includes most Trump supporters.', 'date': '2017-08-21'}

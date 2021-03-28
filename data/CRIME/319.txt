@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Man Who Shot Judge Is Father Of Steubenville Football Player Convicted In 2012 Rape Case', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/steubenville-rape-dad-shot-judge_us_599b4956e4b06a788a2b1ee0', 'short_description': 'Judge Joseph J. Bruzzese Jr. is expected to recover.', 'date': '2017-08-21'}

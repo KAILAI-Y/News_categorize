@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Americans Are Gravely Mistaken About The 'Death Tax'", 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/trump-death-tax_us_59e7b1b5e4b00905bdae7e01', 'short_description': 'The estate tax only applies to the richest 0.2 percent of households.', 'date': '2017-10-19'}

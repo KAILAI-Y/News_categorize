@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'I Used An App To Buy Only Ethical Food. It Was Really Hard.', 'authors': 'Joseph Erbentraut', 'link': 'https://www.huffingtonpost.com/entry/ethical-eating-app-howgood_us_592332cce4b034684b0eb41b', 'short_description': "Turns out there's no shortcut to a better food system.", 'date': '2017-05-26'}

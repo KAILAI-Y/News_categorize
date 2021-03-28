@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "'It's Like Hell': Inside Libya's EU-Backed Abuse Of Migrants", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/libya-coast-guard-migrants-eu-amnesty_us_5a2ffdfce4b078950283f487', 'short_description': "Amnesty International accuses European governments of complicity in Libya's corrupt system.", 'date': '2017-12-12'}

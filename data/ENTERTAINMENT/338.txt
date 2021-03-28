@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kanye And T.I. Debate Trump And MAGA On New Track', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/kanye-and-ti-debate-trump-and-maga-on-surprise-new-track_us_5ae45cc1e4b02baed1ba8c9f', 'short_description': '"Ye v The People" shows Kanye anticipated public backlash to his politics.', 'date': '2018-04-28'}

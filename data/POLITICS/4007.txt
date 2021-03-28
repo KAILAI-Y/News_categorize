@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'There’s A Reason Powerful Americans Love To Attack Black Sports Figures', 'authors': 'Travis Waldron', 'link': 'https://www.huffingtonpost.com/entry/trump-white-america-black-athletes_us_5a15db6ce4b064948072a8c4', 'short_description': 'Donald Trump is just keeping with a long tradition in this country.', 'date': '2017-11-23'}

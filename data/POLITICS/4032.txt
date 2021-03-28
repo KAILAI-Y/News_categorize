@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "This Thanksgiving, I'm Thankful For Donald Trump", 'authors': 'Sab Kanaujia, ContributorEntrepreneur. Advisor. Investor.', 'link': 'https://www.huffingtonpost.com/entry/this-thanksgiving-i-thank-donald-trump_us_5a15d33ce4b0f401dfa7ece6', 'short_description': 'He has awakened our country from its slumber.', 'date': '2017-11-22'}

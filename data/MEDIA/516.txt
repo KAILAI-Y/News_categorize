@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Rush Limbaugh Claims Hurricane Irma Is Part Of A Vast Conspiracy', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/rush-limbaugh-hurricane-irma_us_59af580ee4b0dfaafcf39424', 'short_description': 'Conservative radio host says storms are used to sell bottled water and batteries.', 'date': '2017-09-06'}

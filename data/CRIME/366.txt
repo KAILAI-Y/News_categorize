@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "84 Great Danes Rescued In New Hampshire In 'Worst' Squalor", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/great-dane-puppy-mill_us_5946164be4b01eab7a2e37fd', 'short_description': '"My heart is breaking for these dogs," Humane Society worker says.', 'date': '2017-06-18'}

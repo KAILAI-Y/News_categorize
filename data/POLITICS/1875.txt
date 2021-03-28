@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Michelle Obama To Release 'Deeply Personal' Memoir In November", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-memoir_us_5a92f7e4e4b03b55731d4637', 'short_description': '"I talk about my roots and how a girl from the South Side found her voice," the former first lady tweeted.', 'date': '2018-02-25'}

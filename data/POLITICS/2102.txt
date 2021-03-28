@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Jr. Attacks Olympian Adam Rippon On Twitter', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-adam-rippon-pence-olympics_us_5a83f42ae4b0adbaf3d8e392', 'short_description': '"What would your father say about you spreading FAKE NEWS? SAD!"', 'date': '2018-02-14'}

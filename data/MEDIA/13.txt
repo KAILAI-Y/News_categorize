@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "'Fox & Friends' Host Mocks NY Times' ISIS Coverage, Unaware It Beat Fox To The Story", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/fox-mocks-new-york-times_us_5af5cb60e4b032b10bfa59e9', 'short_description': 'Whoops.', 'date': '2018-05-11'}

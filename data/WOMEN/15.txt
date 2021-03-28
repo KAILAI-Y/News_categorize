@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5af4ab03e4b0e57cd9f79f84', 'short_description': '"On a scale of Kanye to Donald Glover, how are you feeling today?"', 'date': '2018-05-11'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'These Quotes From Kids Are Hilarious, Adorable And Oddly Insightful', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/hilarious-and-adorable-kid-quotes_us_5a034148e4b06ff32c954d14', 'short_description': '"Mommy, this song sounds a lot like the McDonna songs we were listening to."', 'date': '2018-01-30'}

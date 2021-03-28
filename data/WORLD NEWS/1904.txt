@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Relatives Of London Fire Victims Unleash Their Fury Upon Theresa May', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/grenfell-tower-relatives-boo-theresa-may_us_59440bcbe4b0f15cd5baf9ee', 'short_description': "They're demanding justice.", 'date': '2017-06-16'}

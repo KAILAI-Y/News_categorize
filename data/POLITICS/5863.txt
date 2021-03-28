@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Anthony Weiner And Huma Abedin Appear In Divorce Court', 'authors': 'Andy Campbell and Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/anthony-weiner-huma-abedin-divorce-court_us_59b96a14e4b086432b03a05c', 'short_description': 'A judge turned down a motion to bar photographers from the proceedings.', 'date': '2017-09-13'}

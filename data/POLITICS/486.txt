@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mueller Threatened To Subpoena Trump If Lawyers Refused Sit-Down Interview', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/robert-mueller-subpoena-trump_us_5ae91361e4b06748dc8d6689', 'short_description': "“This isn’t some game,” the president's lead attorney said he replied.", 'date': '2018-05-02'}

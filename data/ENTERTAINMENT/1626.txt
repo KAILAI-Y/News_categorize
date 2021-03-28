@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Radiohead Sues Lana Del Rey For Copyright Infringement', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/radiohead-suing-lanadelrey-overcreep_us_5a52f8b0e4b01e1a4b16bd4b', 'short_description': 'The songs share a similar — though common — chord progression.', 'date': '2018-01-08'}

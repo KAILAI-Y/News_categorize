@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Dior Makes Another Feminist Fashion Statement On The Runway', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/everyone-is-going-to-want-to-wear-diors-latest-feminist-fashion-statement_us_59cbb6dfe4b05063fe0e3219', 'short_description': 'Prepare to see this everywhere.', 'date': '2017-09-27'}

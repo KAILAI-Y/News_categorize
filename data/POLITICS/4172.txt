@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mistrial Declared In Bob Menendez Bribery Trial', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/bob-menendez-mistrial_us_5a0dd3d5e4b0c0b2f2f8ae46', 'short_description': 'The Democratic senator was indicted on 14 charges, including public corruption.', 'date': '2017-11-16'}

@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'This Magical Pumpkin Village In Dallas Is Made From 90,000 Gourds', 'authors': 'PureWow, ContributorWhat your girl crush reads online', 'link': 'https://www.huffingtonpost.com/entry/this-magical-pumpkin-village-in-dallas-is-made-from_us_5a0b4ca9e4b060fb7e59d445', 'short_description': 'Decorative gourd season is upon us.', 'date': '2017-11-14'}

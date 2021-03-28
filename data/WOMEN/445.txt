@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Quick Reminder: A U.S. Soccer Team Can Still Qualify For The World Cup', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/quick-reminder-one-us-soccer-team-can-still-qualify-for-the-world-cup_us_59de1c7ce4b04fc4e1ea4200', 'short_description': 'Who could it be? 🤔', 'date': '2017-10-11'}

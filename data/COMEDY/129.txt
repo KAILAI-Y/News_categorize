@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Repeats A 'Fun Fact' About Women, Just For Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-women_us_5ad88289e4b029ebe02181ae', 'short_description': '"Not all women are under legally binding agreements about what they can say."', 'date': '2018-04-19'}

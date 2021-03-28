@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Gordon Hayward Suffers Horrifying Ankle Injury During Celtics Opener', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/gordon-hayward-ankle-injury_us_59e6a8a7e4b00905bdad5d27', 'short_description': 'Players and fans winced and looked away.', 'date': '2017-10-18'}

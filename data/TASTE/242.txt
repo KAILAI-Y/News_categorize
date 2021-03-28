@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Sriracha Mac Sauce Is FINALLY Coming To McDonald's Nationwide", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/mcdonalds-sriracha-mac-sauce_us_5968dbc6e4b0d6341fe86421', 'short_description': '🔥 PREPARE YOUR TASTE BUDS 🔥', 'date': '2017-07-14'}

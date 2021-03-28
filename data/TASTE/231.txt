@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'This GIF Of Grapes Becoming Raisins Is Oddly Mesmerizing', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/grapes-becoming-raisins_us_596e273fe4b0b95f893e4cfd', 'short_description': "It's oddly mesmerizing.", 'date': '2017-07-19'}

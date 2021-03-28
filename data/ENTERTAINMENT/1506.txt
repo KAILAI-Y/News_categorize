@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Anna Kendrick Was Mistaken For Anna Kournikova, And She Didn't Hate It", 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/anna-kendrick-anna-kournikova-photo-mistake_us_5a5f6a39e4b00a7f171c94a4', 'short_description': 'But she did have one priceless request to seal the deal.', 'date': '2018-01-17'}

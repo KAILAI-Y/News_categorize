@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "In Praise Of The 'Mother!' Marketing Campaign", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/mother-marketing-campaign-paramount_us_59bda9d7e4b086432b07a1cf', 'short_description': "No matter what you think of Darren Aronofsky's movie, Paramount was bold to invest in it.", 'date': '2017-09-18'}

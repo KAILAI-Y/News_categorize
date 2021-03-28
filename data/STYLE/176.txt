@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Where To Buy Plus Size Halloween Costumes', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/where-to-buy-plus-size-halloween-costumes_us_59e50446e4b0a2324d1cc93a', 'short_description': 'Imagination has no size limits.', 'date': '2017-10-16'}

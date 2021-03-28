@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Police Hope To Use DNA To Catch The Zodiac Killer', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/dna-zodiac-killer_us_5af0c840e4b0ab5c3d68bc90', 'short_description': '"We could finally have answers to one of the greatest whodunits of all time," a criminologist said.', 'date': '2018-05-08'}

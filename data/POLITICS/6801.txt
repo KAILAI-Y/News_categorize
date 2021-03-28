@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'CNN Cuts Ties With Jeffrey Lord After Nazi Salute Tweet', 'authors': 'Sam Levine and Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/jeffrey-lord-cnn_us_598cc7dee4b08a2472734b35', 'short_description': '“Nazi salutes are indefensible."', 'date': '2017-08-10'}

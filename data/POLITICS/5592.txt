@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'These Are The 21 States Russian Hackers Targeted In The 2016 Election', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/russian-hackers-states-election_us_59c6b205e4b06ddf45f84a9a', 'short_description': "State election officials didn't know whether their systems had been targeted until Friday.", 'date': '2017-09-23'}

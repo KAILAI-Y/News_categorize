@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Leslie Jones Took A Selfie With Beyoncé — And Her Reaction Was Priceless', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/leslie-jones-took-a-selfie-with-beyonc%C3%A9-and-her-reaction-was-priceless_us_59d1913ce4b09538b509124e', 'short_description': '"I was so nervous!"', 'date': '2017-10-02'}

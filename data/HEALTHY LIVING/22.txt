@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "How Achievable The 6 Most Common New Year's Resolutions Really Are", 'authors': 'Brittany Wong', 'link': 'https://www.huffingtonpost.com/entry/how-achievable-the-6-most-common-new-years-resolutions-really-are_us_5a43dc86e4b06d1621b68fa4', 'short_description': 'New year, new you? Possibly, therapists say.', 'date': '2017-12-27'}

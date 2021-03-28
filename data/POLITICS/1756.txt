@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Vladimir Putin Releases Video Simulation Of Russian Missiles Striking Florida', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/vladimir-putin-video-missiles-florida_us_5a985961e4b0a0ba4ad157f0', 'short_description': 'Living in dystopia sure is getting exhausting.', 'date': '2018-03-01'}

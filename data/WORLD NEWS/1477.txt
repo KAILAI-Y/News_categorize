@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Syrian Activist Bassel Safadi Was Executed In 2015. His Family Says They Just Found Out.', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/bassel-safadi-execution-syria_us_5982344ce4b0fa1575fbd50e', 'short_description': 'Thousands of detainees are secretly killed by the Assad regime every year.', 'date': '2017-08-03'}

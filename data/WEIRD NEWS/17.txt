@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Yanny Or Laurel? Here’s The Real Answer', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/yanny-laurel-debate-explanation-real-answer_us_5afc7463e4b0779345d54ad9', 'short_description': '*Drumroll*', 'date': '2018-05-16'}

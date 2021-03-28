@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Wonder Woman Isn't Just Fast And Strong. She's Also A Physics Genius.", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/wonder-woman-bullets-physics-genius_us_5a182f49e4b064948073f51b', 'short_description': "Here's the science on deflecting bullets.", 'date': '2017-11-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Capitol Hill Nervously Waits For The Next Big Sexual Harassment Scandal', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/sexual-harassment-scandal_us_5a344a34e4b01d429cc8df8c', 'short_description': 'Members and aides anticipate more lawmakers getting swept up by allegations.', 'date': '2017-12-15'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Just A Friendly And Wildly Hot Reminder That Oscar Isaac Is Playing Hamlet', 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/oscar-isaac-hamlet_us_595ff12ce4b0615b9e9194e3', 'short_description': 'We are Shook-speare.', 'date': '2017-07-07'}

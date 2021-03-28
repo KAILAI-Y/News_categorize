@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Watch This Australian Man Go Swimming In A Huge Pit Of Beer Cans', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/australia-beer-can-swimming_us_5a9f5396e4b0e9381c134d25', 'short_description': 'People are calling him "the Australian version of Scrooge McDuck."', 'date': '2018-03-07'}

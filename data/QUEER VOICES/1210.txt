@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Florida Rockers Remember Orlando Tragedy With Heartbreaking Song', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/we-the-kings-ally_us_5949942be4b0177d0b8a3baa', 'short_description': 'We the Kings\' "Ally" puts a poignant spin on Pride Month.', 'date': '2017-06-21'}

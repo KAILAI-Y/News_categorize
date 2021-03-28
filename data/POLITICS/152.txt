@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kushner Family Reportedly Close To Getting Bailout For Flagship Tower', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/kushner-family-bailout-flagship-tower_us_5afddd50e4b06a3fb50eff6e', 'short_description': 'The 666 Fifth Avenue property may have found its savior.', 'date': '2018-05-17'}

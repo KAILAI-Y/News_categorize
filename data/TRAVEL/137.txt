@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "Feds Won't Punish United For Dragging Doctor Off Flight", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/united-no-federal-punishment-david-dao_us_59b1b73de4b0b5e53104fb45', 'short_description': 'David Dao was injured when he was forcibly removed to make room for airline employees.', 'date': '2017-09-08'}

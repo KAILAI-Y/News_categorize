@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "White House Official Reportedly Said Mass Shooting Was A 'Reprieve' From Chaos", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/white-house-shooting-reprieve_us_5a8b900ce4b0a1d0e12c4fab', 'short_description': '"Sadly, when the coverage dies down a little bit, we’ll be back through the chaos."', 'date': '2018-02-20'}

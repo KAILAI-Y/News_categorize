@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Sam Bee's Show Trolls Sean Spicer With 'Shawshank Redemption' Goodbye", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/sam-bee-sean-spicer-full-frontal-mad-mad-world_us_5972fd25e4b0e79ec1997d14', 'short_description': '"Sean Spicer crawled to freedom through five hundred yards..."', 'date': '2017-07-22'}

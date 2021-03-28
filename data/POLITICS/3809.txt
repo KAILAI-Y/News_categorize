@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump, Taxes And Moral Turpitude', 'authors': 'Barbara Boxer, ContributorFormer U.S. Senator; Founder, PAC for a Change', 'link': 'https://www.huffingtonpost.com/entry/trump-taxes-and-moral-turpitude_us_5a207c9de4b03350e0b56b4d', 'short_description': 'Elect a clown, expect a circus.', 'date': '2017-12-01'}

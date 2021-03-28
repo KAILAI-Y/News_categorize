@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Dished Out Fake News Awards. Twitter Dished Them Right Back At Him.', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-fake-news_us_5a6007afe4b0ccf9f12157de', 'short_description': "That didn't get the reaction he was hoping for.", 'date': '2018-01-18'}

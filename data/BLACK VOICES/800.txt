@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Can We Stop Calling Grown White Men 'Kids'?", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/can-we-stop-calling-grown-white-men-kids_us_5968db8ae4b017418626ffe3', 'short_description': 'Trump Jr. is an adult.', 'date': '2017-07-14'}

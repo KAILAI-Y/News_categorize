@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "North Korea Vows 'More Gift Packages' To U.S.", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/north-korea-us-relations_us_59ae8af8e4b0b5e53100b30b', 'short_description': '“The U.S. will receive more ‘gift packages’ from my country as long as it relies on reckless provocations."', 'date': '2017-09-05'}

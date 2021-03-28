@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Tom Colicchio's Open Letter To Male Chefs: 'Enough Sexist Shit-Talk'", 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/tom-colicchio-sexual-harassment_us_5a04934de4b0937b51105930', 'short_description': '“This isn’t just a matter of a few bad eggs and \u200bwe all know it."', 'date': '2017-11-09'}

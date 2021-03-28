@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Maggie Gyllenhaal Says Donald Trump Has Inspired Her To Fight Sexism', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/maggie-gyllenhaal-donald-trump-sexism_us_59afece5e4b0354e440e2851', 'short_description': '“After he was elected, I’m not going to take it any more."', 'date': '2017-09-06'}

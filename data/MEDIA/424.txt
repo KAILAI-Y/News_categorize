@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Media Skewered For Focus On Kevin Spacey Coming Out Rather Than Harassment', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/kevin-spacey-coming-out-media_us_59f6f4c7e4b07fdc5fbf2ff5', 'short_description': '"THIS IS NOT THE STORY."', 'date': '2017-10-30'}

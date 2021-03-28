@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ivanka Trump Stepped In For Her Dad At The G-20 Summit, And Folks Weren't Happy", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-donald-trump-g20_us_5960dab0e4b0615b9e91c8dc', 'short_description': '"Wrong on so many levels."', 'date': '2017-07-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chicago Sues Trump Administration Over Sanctuary City Plan', 'authors': 'Julia Jacobs, Reuters', 'link': 'https://www.huffingtonpost.com/entry/chicago-trump-sanctuary-city_us_5988b2bde4b0a66b8bad779a', 'short_description': 'The lawsuit is the first to challenge the Justice Department over the Byrne program.', 'date': '2017-08-07'}

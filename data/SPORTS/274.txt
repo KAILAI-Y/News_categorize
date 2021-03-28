@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "South Korea's Olympic Stadium Will Host Just 4 Events Before It's Torn Down", 'authors': 'Travis Waldron', 'link': 'https://www.huffingtonpost.com/entry/olympic-stadium-pyeongchang_us_5a7cba85e4b08dfc9301c8a7', 'short_description': "That's funny because the Pyeongchang Games were meant to be the financially prudent ones.", 'date': '2018-02-09'}

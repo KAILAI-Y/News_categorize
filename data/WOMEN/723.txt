@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'This Woman Had A Brilliant Solution To Her Ex Being In Her Old Photos', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/this-woman-had-a-brilliant-solution-to-her-ex-being-in-her-old-photos_us_5931675de4b075bff0f28f55', 'short_description': '(Hint: It involves Zac Efron.)', 'date': '2017-06-02'}

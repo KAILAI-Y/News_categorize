@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Tammy Duckworth Becomes First Senator To Give Birth In Office', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/duckworth-is-1st-senator-give-birth-in-office_us_5acba6fde4b07a3485e72f04', 'short_description': 'The Iraq War veteran welcomed her second daughter, Maile Pearl, on Monday.', 'date': '2018-04-09'}

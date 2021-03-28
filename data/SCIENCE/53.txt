@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': '3 Scientists Win Nobel Prize In Physics For Work In Detecting Gravitational Waves', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/nobel-prize-physics_us_59d327f6e4b065578154fc72', 'short_description': 'Rainer Weiss, Barry C. Barish and Kip S. Thorne will share the prize.', 'date': '2017-10-03'}

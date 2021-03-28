@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Tears Into Jeff Flake On Twitter After Senator Says GOP Is 'Toast'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-slams-jeffflake-as-toast_us_5a122ec5e4b0e97dffee2a29', 'short_description': 'No, you\'re toast, Trump tells "Jeff Flake(y)."', 'date': '2017-11-20'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Feds Lend Help To Jersey Town On Projects That Would Benefit Kushner Resort', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/ferry-pier-project-kushner-resort_us_5aa34a88e4b01b9b0a3b7e47', 'short_description': "Another awkward situation for Trump's son-in-law and White House adviser.", 'date': '2018-03-10'}

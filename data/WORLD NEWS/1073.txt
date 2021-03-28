@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Puerto Ricans Are Running Out Of Money Because Banks Are Closed', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/puerto-ricans-money-banks_us_59ccbe0ce4b05063fe0f386f', 'short_description': 'The island is mostly still without power.', 'date': '2017-09-28'}

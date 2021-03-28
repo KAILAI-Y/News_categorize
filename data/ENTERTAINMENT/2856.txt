@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Bryan Cranston, Steve Carell And Laurence Fishburne Hit The Road In 'Last Flag Flying'", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/last-flag-flying-trailer_us_599ed170e4b0821444c13ad7', 'short_description': "See the trailer for Richard Linklater's new buddy movie.", 'date': '2017-08-24'}

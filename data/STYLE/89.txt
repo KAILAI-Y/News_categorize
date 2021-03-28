@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'All Of The Best 2017 Cyber Monday Clothing And Accessories Deals', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/2017-cyber-monday-clothing-and-accessories-deals_us_5a1c4adbe4b0b40aa6a31443', 'short_description': "Cyber Monday deals you'll actually want to shop.", 'date': '2017-11-27'}

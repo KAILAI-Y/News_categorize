@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Celebrities Erupt In Anger Over Donald Trump's 'Shithole Countries' Comment", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-reaction-to-haiti-racist-comments_us_5a58687de4b02cebbfda85ea', 'short_description': '"The president is a racist. He has been for his entire public life."', 'date': '2018-01-12'}

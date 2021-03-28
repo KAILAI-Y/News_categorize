@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "The Best 'Healthy' Boxed Cake Mixes", 'authors': 'Epicurious, ContributorEpicurious', 'link': 'https://www.huffingtonpost.com/entry/the-best-healthy-boxed-cake-mixes_us_593eb7d6e4b0b65670e56ca2', 'short_description': 'Fortunately, the boxed cake mix options have gotten way more enticing in recent years.', 'date': '2017-06-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Blasts Dems On DACA. Which He Ended.', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-democrats-dreamers_us_5a86f15ce4b004fc319176a5', 'short_description': "Congress is scrambling to come up with an immigration deal, but the president says he won't compromise his demands.", 'date': '2018-02-16'}

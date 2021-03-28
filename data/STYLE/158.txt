@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '4 Surprising Ways To Make Your Concealer Last All Day', 'authors': 'PureWow, ContributorWhat your girl crush reads online', 'link': 'https://www.huffingtonpost.com/entry/4-surprising-ways-to-make-your-concealer-last-all-day_us_59efa591e4b00a4ce5a22236', 'short_description': '1. Less is more', 'date': '2017-10-24'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "4-Year-Old's Parents Livestreamed His Reading Marathon As He Finished 100 Books", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/4-year-old-livestreamed-his-reading-marathon-as-he-finished-100-books_us_5a2ed22ce4b0789502829f8e', 'short_description': 'Somebody get Caleb Green a scholarship!', 'date': '2017-12-11'}

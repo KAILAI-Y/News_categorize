@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'The Email Tricks That Will Completely Change Your Life', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/email-tricks_us_59847f1be4b08b75dcc67d8e', 'short_description': 'Easy AND effective? Subscribe.', 'date': '2017-08-08'}

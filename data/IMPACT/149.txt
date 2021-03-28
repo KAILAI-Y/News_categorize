@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'New York City Might Do Something Crazy To Ease Maddening Rush-Hour Traffic', 'authors': 'Marisa Taylor', 'link': 'https://www.huffingtonpost.com/entry/nyc-congestion-pricing-rush-hour_us_59ea683fe4b0958c468217ea', 'short_description': 'Brace yourself: It involves tolls.', 'date': '2017-10-23'}

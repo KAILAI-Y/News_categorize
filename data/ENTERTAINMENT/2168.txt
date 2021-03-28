@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Faith Hill And Tim McGraw Take Aim At The NRA And Demand Gun Control', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/faith-hill-tim-mcgraw-nra-gun-control_us_5a05b9ede4b01d21c83e2ab0', 'short_description': '"It’s not about the Second Amendment."', 'date': '2017-11-10'}

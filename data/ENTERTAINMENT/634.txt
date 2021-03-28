@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Hey Trump Supporters, Robert De Niro Is Officially Done With You', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/robert-de-niro-trump-supporters-roseanne_us_5ac5b83ae4b09ef3b2438068', 'short_description': '"The things that are happening in our country are so bad and it comes from Trump."', 'date': '2018-04-05'}

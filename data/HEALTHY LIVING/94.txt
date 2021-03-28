@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Michelle Obama Just Gave The Best Life Advice For The Trump Era', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-life-advice-trump_us_5a0ef57ee4b045cf43710100', 'short_description': 'A mental health expert breaks down how effective her tips are.', 'date': '2017-11-17'}

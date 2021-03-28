@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Neil Young Doesn't Mince Words About 'Mess' Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/neil-young-donald-trump-interview_us_5ab605cee4b054d118e2e248', 'short_description': '"He doesn’t have the balls to look anybody in the face and tell them anything."', 'date': '2018-03-24'}

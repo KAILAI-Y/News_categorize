@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Singer David Cassidy, 1970s Teen Idol, Dies At 67', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/david-cassidy-dead_us_5a10bd35e4b0dd63b1aad439', 'short_description': 'Cassidy\'s role as a heartthrob in the hit TV show "The Partridge Family" launched his career.', 'date': '2017-11-22'}

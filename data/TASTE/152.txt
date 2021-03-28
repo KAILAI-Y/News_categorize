@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Foreign Travelers Reveal The ONE U.S. Food They Can't Wait To Try", 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/american-food_us_59aeef83e4b0dfaafcf330f5', 'short_description': '"S\'mores. What on earth are s\'mores?"', 'date': '2017-09-05'}

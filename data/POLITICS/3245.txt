@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'AT&T Hands Trump A Reason To Boast As Firm Faces Critical DOJ Lawsuit', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/att-trump-corporate-tax-cut-bonus_us_5a3ae007e4b025f99e145c88', 'short_description': 'Can you say “smooth PR move”?', 'date': '2017-12-20'}

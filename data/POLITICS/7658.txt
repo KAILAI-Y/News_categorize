@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mitch McConnell Delays Senate Recess', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/senate-recess-delayed_us_59650f0be4b03f144e2e65d9', 'short_description': 'Looks like lawmakers will be in D.C. a while longer.', 'date': '2017-07-11'}

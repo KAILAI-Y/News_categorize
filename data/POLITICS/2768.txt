@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Don Lemon: Watching Trump Honor Dr. King 'Kind Of Makes Your Skin Crawl'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/skin-crawl-trump-donlemon_us_5a598da3e4b03c418965bdfe', 'short_description': 'Trump\'s presidency is a "step backwards for race relations," he says.', 'date': '2018-01-13'}

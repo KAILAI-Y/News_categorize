@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Homeless Girl Scouts Aim To Sell 6,000 Boxes Of Cookies In NYC', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/homeless-girl-scouts-aim-to-sell-6000-boxes-of-cookies-in-nyc_us_5acf5826e4b0648767779a29', 'short_description': "You can find them in Manhattan's Union Square through Friday.", 'date': '2018-04-12'}

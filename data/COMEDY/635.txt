@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Ruthlessly Mocks Fox News For Covering Emojis Over Manafort Charges', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-paul-manafort-fox-news_us_59f7fa49e4b09b5c2568a361', 'short_description': '"...At least focus on the ones that are relevant to the Trump White House."', 'date': '2017-10-31'}

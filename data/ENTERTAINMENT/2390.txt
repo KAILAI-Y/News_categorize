@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Harvey Weinstein’s City Of Stars', 'authors': 'Jennifer Kline, ContributorEntertainment Reporter/Editor, AOL.com', 'link': 'https://www.huffingtonpost.com/entry/harvey-weinsteins-city-of-stars_us_59e64a92e4b0432b8c11ea85', 'short_description': 'Why “La La Land” was Hollywood’s big lie to itself.', 'date': '2017-10-17'}

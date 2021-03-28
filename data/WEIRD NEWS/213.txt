@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Florida Man Accused Of Calling 911 To Gripe About Small Clams', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/nelson-agosto-tiny-clams-911_us_5a43ed5be4b025f99e195927', 'short_description': 'Seems pretty shellfish.', 'date': '2017-12-27'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Jr. Doesn't Seem To Know His Dad Designated The FCC Chairman", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-fcc-twitter-net-neutrality_us_5a332097e4b040881be91822', 'short_description': "He blamed Obama for Ajit Pai's role in the net neutrality repeal.", 'date': '2017-12-15'}

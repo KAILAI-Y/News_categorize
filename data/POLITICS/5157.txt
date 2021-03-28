@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Doug Jones Releases First TV Ad In Alabama Senate Race', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/doug-jones-campaign-ad-alabama-senate_us_59db8ca1e4b072637c45882d', 'short_description': '"Washington\'s broken."', 'date': '2017-10-09'}

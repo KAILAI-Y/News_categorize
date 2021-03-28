@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Invoice Generator Lets You Bill Trump For Your Birth Control Copay', 'authors': 'Jenavieve Hatch', 'link': 'https://www.huffingtonpost.com/entry/trump-birth-control_us_59f08c98e4b0e064db7e03ec', 'short_description': 'Now, you can #SendTrumpTheBill.', 'date': '2017-10-25'}

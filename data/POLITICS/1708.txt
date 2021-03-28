@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "These Dreamers Are 2 Of D.C.'s Best Foster Parents", 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/dreamers-immigration_us_5a95b98ce4b09c872bae7dde', 'short_description': 'They want to stay in the U.S. and help children. But President Donald Trump might not let them.', 'date': '2018-03-04'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'These Are The Most Popular Baby Names In Germany', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/these-are-the-most-popular-baby-names-in-germany_us_59d2344ce4b06791bb11d50f', 'short_description': 'Some of these will be very familiar to American parents.', 'date': '2017-10-06'}

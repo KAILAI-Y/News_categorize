@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Move Over, Clooney: Steve Carell Is Our Favorite Silver Fox Now', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/steve-carell-gray-hair_us_5951086fe4b0da2c731cddc5', 'short_description': '"It\'s just genetic. There\'s nothing I can do."', 'date': '2017-06-26'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chrissy Teigen Mourns Her Dog's Death By Expertly Trolling Friends", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-mourns-her-dogs-death-by-expertly-trolling-friends_us_5aa2b527e4b086698a9d4dea', 'short_description': '"Puddy would have wanted this."', 'date': '2018-03-09'}

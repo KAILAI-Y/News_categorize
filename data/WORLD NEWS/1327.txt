@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Dozens Reportedly Killed After Airstrike Hits Hotel Near Yemeni Capital', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/yemen-airstrike-sanaa-hotel-hit_us_599d4a89e4b0d8dde999fa11', 'short_description': "It's unknown who was behind the attack.", 'date': '2017-08-23'}

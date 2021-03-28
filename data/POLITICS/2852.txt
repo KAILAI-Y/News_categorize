@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Darrell Issa Retiring From Congress', 'authors': 'Paige Lavender and Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/darrell-issa-retires_us_5a56366ce4b03417e8742548', 'short_description': 'The former House oversight committee chairman was first elected to Congress in 2000.', 'date': '2018-01-10'}

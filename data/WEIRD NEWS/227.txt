@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Christmas Rage Room Lets You Wreck The Halls With Holiday Havoc', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/christmas-rage-room_us_5a3a0e11e4b0b0e5a79e30af', 'short_description': 'Run, Rudolph, run. No, seriously, they have bats. RUN!', 'date': '2017-12-20'}

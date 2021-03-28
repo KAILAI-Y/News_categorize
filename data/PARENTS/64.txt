@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'These Century-Old Letters To Santa Will Melt Your Cold And Cynical Heart', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/old-letters-to-santa_us_5a2dfc8ae4b069ec48ae7367', 'short_description': "Here's what children once hoped to get for Christmas.", 'date': '2017-12-11'}

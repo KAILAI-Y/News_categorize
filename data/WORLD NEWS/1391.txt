@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Iranian President Threatens To Abandon Nuke Agreement If U.S. Imposes New Sanctions', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/iran-sanctions-reax_us_5992b50be4b09071f69c522c', 'short_description': '“The world has clearly seen that under Trump, America has ignored international agreements."', 'date': '2017-08-15'}

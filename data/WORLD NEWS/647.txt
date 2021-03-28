@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "France Promises To 'Defend Net Neutrality' In Wake Of FCC Vote In U.S.", 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/france-net-neutrality-fcc_us_5a366e4ee4b040881beb55d0', 'short_description': 'Several U.S. allies have spoken up in support of a free and open internet.', 'date': '2017-12-17'}

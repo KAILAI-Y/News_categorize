@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'SNL' Finally Took On Harvey Weinstein -- But Is It Too Late?", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/snl-harvey-weinstein_us_59dea4b1e4b0fdad73b1e739', 'short_description': 'The show burned him and addressed sexual abuse in Hollywood after failing to do so last week.', 'date': '2017-10-15'}

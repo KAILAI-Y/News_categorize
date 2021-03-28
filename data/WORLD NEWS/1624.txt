@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "As Nobel Laureate Liu Xiaobo's Ashes Are Scattered At Sea, Chinese Activists Cry Foul", 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/liu-xiaobo-ashes-cremation-sea-burial_us_596b7e42e4b0d6341fe990e2', 'short_description': 'Liu was silenced, they say -- even in death.', 'date': '2017-07-16'}

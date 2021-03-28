@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Abominable Snowman Busted For DUI After Wreck In Oregon', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/abominable-snowman-dui_us_5a3d293be4b025f99e16d43d', 'short_description': 'Santa Claus made the arrest.', 'date': '2017-12-22'}

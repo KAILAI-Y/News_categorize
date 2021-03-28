@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "2017 Was The Year Of Hacks. 2018 Probably Won't Be Better.", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/data-breach-hacks_us_5a3a7f56e4b025f99e13cdbe', 'short_description': 'Remembering Equifax, Uber and all the other data breaches of the last year.', 'date': '2017-12-30'}

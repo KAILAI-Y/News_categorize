@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "NFL Cheerleader Wiped Out By Cameraman In One Of Day's Biggest Hits", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/nfl-cheerleader-cameraman_us_59bf90ece4b0edff971d4b87', 'short_description': 'She got up and kept on cheering.', 'date': '2017-09-18'}

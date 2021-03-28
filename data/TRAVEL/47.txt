@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '10 Practical Carry-On Bags That Attach To Your Suitcase', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/carry-on-bags-that-attach-to-your-suitcase_us_5a99915de4b0479c0252110e', 'short_description': 'Look for carry-on bags with "trolley sleeves" or "pass-through pockets."', 'date': '2018-03-02'}

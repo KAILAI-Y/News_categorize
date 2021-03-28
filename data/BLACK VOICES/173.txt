@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Stephon Clark's Grandmother Speaks Out About His Death In Tearful Address", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/stephon-clark-killing-wrong_us_5ab9f013e4b008c9e5fabff7', 'short_description': 'Police shot and killed Clark, an unarmed black man, in his own backyard.', 'date': '2018-03-27'}

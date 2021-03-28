@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "They're Back! NBC Releases New 'Will & Grace' Promo", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/nbc-releases-new-will-grace-promo_us_595c8ecee4b05c37bb809ed9', 'short_description': 'The revival is coming to a screen near you.', 'date': '2017-07-05'}

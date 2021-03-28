@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Skewers Betsy DeVos With Fake For-Profit University Ad', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-fake-ad-betsy-devos_us_5afd2e7be4b06a3fb50dad55', 'short_description': '“Are you looking to spend $100,000 you don’t have to get a degree that won’t help you find a job?”', 'date': '2018-05-17'}

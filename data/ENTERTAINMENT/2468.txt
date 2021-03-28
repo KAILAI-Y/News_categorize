@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Frank Sinatra Once Told Donald Trump To 'Go F**k Yourself,' New Book Claims", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/frank-sinatra-donald-trump-message_us_59dad4c6e4b046f5ad99283e', 'short_description': "Ol' Blue Eyes didn't mince words.", 'date': '2017-10-09'}

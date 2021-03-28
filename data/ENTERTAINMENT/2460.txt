@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Asking For It', 'authors': "Jamie Lee Curtis, ContributorActress and children's book author", 'link': 'https://www.huffingtonpost.com/entry/asking-for-it_us_59dd5728e4b04fc4e1e9b2b3', 'short_description': 'I, too, have been subjected to sexual harassment on the job.', 'date': '2017-10-10'}

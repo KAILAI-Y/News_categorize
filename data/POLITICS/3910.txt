@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Rex Tillerson's State Department Reorganizer Resigns After Just 3 Months", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/state-department-reorganization-maliz-beams-resigns_us_5a1cafa0e4b04e8b2a83e92a', 'short_description': 'She was there to help Tillerson slash budgets and push out diplomats.', 'date': '2017-11-28'}

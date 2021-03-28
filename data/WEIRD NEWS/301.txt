@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Redditors Tweak Melania Trump's Calligraphy To Send Amusing Messages", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/melania-trump-calligraphy-makeover-reddit_us_5a01b60be4b066c2c03a1a6f', 'short_description': "It didn't take long.", 'date': '2017-11-07'}

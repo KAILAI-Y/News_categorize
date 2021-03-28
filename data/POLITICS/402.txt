@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Rudy Giuliani's ABC Interview Was A Mess. Here Are The Biggest Takeaways.", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/rudy-giuliani-george-stephanopoulos_us_5aef1140e4b0c4f19323a171', 'short_description': '“How do you separate fact and opinion?” Giuliani wondered aloud.', 'date': '2018-05-06'}

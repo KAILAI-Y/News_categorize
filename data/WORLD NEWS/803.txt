@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'At Least 15 Killed During Food Aid Stampede In Morocco', 'authors': 'Ulf Laessing, Reuters', 'link': 'https://www.huffingtonpost.com/entry/morocco-food-stampede_us_5a11c8a2e4b045cf4372188a', 'short_description': 'A criminal investigation has been opened into the matter, officials said.', 'date': '2017-11-19'}

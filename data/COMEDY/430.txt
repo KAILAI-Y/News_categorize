@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': '‘Late Show’ Imagines Donald Trump Adjusting To Life After Steve Bannon', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/late-show-donald-trump-steve-bannon-break-up_us_5a508e87e4b003133ec7ff64', 'short_description': 'Poor Breitbark the dog.', 'date': '2018-01-06'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Don't Tell A, But 'Pretty Little Liars' Star Janel Parrish Is Engaged", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/dont-tell-a-but-pretty-little-liars-star-janel-parrish-is-engaged_us_59ee2e73e4b0d8293cabcc50', 'short_description': "If Mona is happy, we're happy.", 'date': '2017-10-23'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Snoozing Woman Gets Hilariously Woken Up In The Middle Of A Classical Concert', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/woman-screams-orchestra_us_5a1d1ecee4b071403b28a824', 'short_description': "Here's why you should never doze off at the orchestra.", 'date': '2017-11-28'}

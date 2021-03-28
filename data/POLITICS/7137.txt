@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Says Senate Let America Down With Its Health Care Vote', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-senate-skinny-repeal_us_597a90dce4b02a8434b54b68', 'short_description': 'The Senate voted against a "skinny" repeal of Obamacare early Friday morning.', 'date': '2017-07-28'}

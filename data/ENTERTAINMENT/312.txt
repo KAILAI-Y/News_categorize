@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Blake Lively Deletes Instagrams, Unfollows Ryan Reynolds And We Have Questions', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/blake-lively-deletes-instagrams-unfollows-ryan-reynolds-and-we-have-questions_us_5ae88c28e4b055fd7fcffcd5', 'short_description': '1) HOW DARE YOU?', 'date': '2018-05-01'}

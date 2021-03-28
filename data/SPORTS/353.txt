@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Aly Raisman Says USA Gymnastics Is '100 Percent Responsible' For Nassar Abuse", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/aly-raisman-usa-gymnastics-nassar_us_5a576850e4b03bc4d03e8843', 'short_description': '"Enablers need to be held accountable."', 'date': '2018-01-11'}

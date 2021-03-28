@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Mercilessly Mocks 'Shady' Sean Hannity Over Lawyer Bombshell", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-sean-hannity-fox-news-michael-cohen_us_5ad594fde4b016a07e9fe818', 'short_description': '"Just think about how unethical this is for a moment."', 'date': '2018-04-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republican Tax Scam: Make America Grieve Again', 'authors': 'Leo W. Gerard , ContributorInternational President United Steelworkers union', 'link': 'https://www.huffingtonpost.com/entry/republican-tax-scam-make-america-grieve-again_us_5a0f11ece4b023121e0e921c', 'short_description': "We've been down this road before.", 'date': '2017-11-17'}

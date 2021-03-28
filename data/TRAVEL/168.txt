@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'This Genius Travel Hack Will Put Your Mind At Ease On Vacation', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/travel-hack-take-pictures-of-your-stove_us_597605b7e4b09e5f6cd0d721', 'short_description': "It'll take two seconds.", 'date': '2017-07-24'}

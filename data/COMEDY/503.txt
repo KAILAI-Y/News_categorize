@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Daily Show' Mocks Donald Trump For Not Having The Best Words", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-words-daily-show_us_5a28f71de4b0fa79861216d5', 'short_description': 'Where is Missuria?', 'date': '2017-12-07'}

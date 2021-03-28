@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': '100-Foot-Long Joint Is A Big Hit At Massachusetts Pot Fest', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/100-foot-joint-worcester_us_5a395515e4b0fc99878f3508', 'short_description': 'The jumbo joint contained more than 1,000 grams of weed.', 'date': '2017-12-19'}

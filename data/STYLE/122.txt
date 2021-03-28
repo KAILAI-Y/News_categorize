@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Bella And Gigi Hadid's Model Cousin Is A Body Positive Badass", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/bella-gigi-cousin-plus-size-model_us_5a05b0a4e4b05673aa58e3db', 'short_description': 'Surprise!', 'date': '2017-11-10'}

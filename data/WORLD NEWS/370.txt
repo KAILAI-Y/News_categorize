@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Here's An Exclusive Look At The North Korean Cheer Squad's Olympic Debut", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/north-korea-cheer-squad-olympics_us_5a7c396ce4b0c6726e0fd3ea', 'short_description': 'Let the games begin.', 'date': '2018-02-08'}

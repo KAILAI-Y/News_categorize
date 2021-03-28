@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Stevie Wonder Packs A Powerful And Inspiring Punch With His First Ever Tweet', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stevie-wonder-first-tweet_us_5ac5d80de4b09ef3b2439dfc', 'short_description': '"Spread love... spread hope."', 'date': '2018-04-05'}

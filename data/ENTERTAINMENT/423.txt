@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Matt Smith Speaks Out About 'The Crown' Pay Gap", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/matt-smith-the-crown-pay-gap_us_5ade3102e4b0df502a4e8894', 'short_description': '"We need to strive to make this a better and more even playing field for everyone involved."', 'date': '2018-04-23'}

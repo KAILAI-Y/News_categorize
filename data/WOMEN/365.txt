@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Comedian Schools Male BBC Panel On Not Taking Sexual Harassment Seriously', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/jo-brand-bbc-sexual-harassment_us_59fdf908e4b0baea263204b3', 'short_description': 'The issue was being brushed aside for not being a "high-level crime."', 'date': '2017-11-04'}

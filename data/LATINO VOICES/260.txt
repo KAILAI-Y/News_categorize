@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': '¡Que Siga La Fiesta!', 'authors': 'Julio Salgado, ContributorVisual artist, CultureStrike project manager', 'link': 'https://www.huffingtonpost.com/entry/que-siga-la-fiesta_us_5939e012e4b0b65670e56915', 'short_description': 'My goal was to honor our brown and black migrant, queer, and trans community.', 'date': '2017-06-09'}

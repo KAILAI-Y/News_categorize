@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Q&A Transcript: James Bennet Talks About His Editorial Page With New York Times Staffers', 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/james-bennet-new-york-times-transcript_us_5a8ec6d5e4b077f5bfebfac7', 'short_description': '"The world needs this from us right now."', 'date': '2018-02-27'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mike Huckabee Skewered Over 'Despicable' Joke About Ruth Bader Ginsburg", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mike-huckabee-ruth-bader-ginsburg-tweet-sotu_us_5a702d08e4b0a52682ff02b8', 'short_description': '"Mike Huckabee seems intent on trying to one-up Trump in bad behavior."', 'date': '2018-01-30'}

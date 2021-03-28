@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jodie Foster On Sex Assault: 'Justice By Twitter Is Not The Way To Go'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jodie-foster-on-sex-assault-justice-by-twitter-is-not-the-way-to-go_us_5a2fa9c5e4b04617543301e3', 'short_description': '"We want to hear the other side as well."', 'date': '2017-12-12'}

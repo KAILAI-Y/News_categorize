@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "A Key Southern Democrat Says Let's Stick With Obamacare", 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/steve-beshear-kentucky-obamacare_us_59b9b248e4b0edff97191d67', 'short_description': 'Former Gov. Steve Beshear made it work, spectacularly, in Kentucky.', 'date': '2017-09-13'}

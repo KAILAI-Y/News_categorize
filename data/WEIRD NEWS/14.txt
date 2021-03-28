@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Newest Head Cracker: Do You Hear 'Brainstorm' Or 'Green Needle'?", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/brainstorm-green-needle-head-cracker_us_5afe2fb6e4b07309e05657b2', 'short_description': 'This time, you can change what you hear with your mind.', 'date': '2018-05-18'}

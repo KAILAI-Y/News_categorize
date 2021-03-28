@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'High-Fat Diet Linked To Lung Cancer Risk', 'authors': 'Lisa Rapaport, Reuters', 'link': 'https://www.huffingtonpost.com/entry/high-fat-diet-linked-to-lung-cancer-risk_us_5988af3be4b0a66b8bad6fed', 'short_description': 'In addition to not smoking, a healthy diet can reduce lung cancer risk.', 'date': '2017-08-07'}

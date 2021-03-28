@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Pitbull's Tasteless Memorial Day Tweet Brings Americans Together", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/pitbull-memorial-day-tweet_us_592d947ee4b0df57cbfd8dbb', 'short_description': 'Thank you for your service, Mr. Worldwide.', 'date': '2017-05-30'}

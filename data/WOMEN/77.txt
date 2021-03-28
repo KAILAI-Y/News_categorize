@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Don't Tell Model Winnie Harlow She's 'Suffering' From Vitiligo", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/model-winnie-harlow-on-why-shes-not-suffering-from-vitiligo_us_5abb87b5e4b04a59a313061f', 'short_description': '"Do you see me suffering?”', 'date': '2018-03-28'}

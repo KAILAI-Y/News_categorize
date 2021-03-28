@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'WATCH: What Life Is Like With The Disfiguring Disease Elephantiasis', 'authors': 'Paul Josephson', 'link': 'https://www.huffingtonpost.com/entry/elephantiasis-nigeria-360-film_us_59e7a455e4b0d0e4fe6cdb89', 'short_description': 'HuffPost traveled to Nigeria to document efforts to fight this illness.', 'date': '2017-10-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sen. Bob Corker Won't Run For Re-election", 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/bob-corker-no-reelection_us_59caaf24e4b0d0b254c507f6', 'short_description': 'The powerful GOP senator from Tennessee has been an outspoken critic of President Donald Trump.', 'date': '2017-09-26'}

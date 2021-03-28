@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "22,000 Children's Swimsuits Recalled Due To Choking Hazard", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/22000-childrens-swimsuits-recalled-due-to-choking-hazard_us_598db349e4b08a247273c1d6', 'short_description': 'Customers can return the swimsuits for a full refund.', 'date': '2017-08-11'}

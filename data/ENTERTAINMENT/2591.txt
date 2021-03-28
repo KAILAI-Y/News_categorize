@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jared Leto And Jimmy Fallon Struggle Mightily With 'Name That Song'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jared-leto-and-jimmy-fallon-struggle-mightily-in-song-challenge_us_59cce007e4b0210dfdfc5723', 'short_description': 'Could you do better?', 'date': '2017-09-28'}

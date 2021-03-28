@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Uses Kate Steinle Verdict To Push For Border Wall', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-kate-steinle-verdict_us_5a215af9e4b03c44072cf7b5', 'short_description': 'He called the decision "a complete travesty of justice."', 'date': '2017-12-01'}

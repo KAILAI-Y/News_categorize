@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Fist Or Fisk? NRA's Bizarre Ad Has A Confusing Message For New York Times", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/nra-fist-new-york-times_us_59850119e4b041356ebfdd20', 'short_description': "The gun group's spokeswoman, Dana Loesch, lashed out at people who didn't get it.", 'date': '2017-08-05'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Police Officer's Wife Turns Old Uniforms Into Adorable New Teddy Bears", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/police-uniforms-patrol-bears_us_59779536e4b0c95f375f489c', 'short_description': '"Patrol bears" will be given to children victimized by crime or hardship.', 'date': '2017-07-25'}

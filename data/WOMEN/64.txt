@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Tony Robbins Apologizes Amid Backlash Over Me Too Comments', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/tony-robbins-apologizes-me-too_us_5aca4572e4b07a3485e5d8e0', 'short_description': '"It is clear that I still have much to learn," the self-help guru said in a statement Sunday.', 'date': '2018-04-08'}

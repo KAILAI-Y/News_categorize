@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Chunky Raccoon Stuck In Grate Rescued By Local Authorities', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/chunky-raccoon-stuck-grate-illinois_us_59fe19afe4b04cdbeb33887c', 'short_description': '“It seems this little guy has been eating a little too well."', 'date': '2017-11-04'}

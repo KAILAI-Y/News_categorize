@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Gwyneth Paltrow's Goop Is Selling Literal 'Vampire Repellent' Now", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/gwyneth-paltrows-goop-is-selling-literal-vampire-repellant-now_us_59c27903e4b087fdf5098762', 'short_description': "But it's not what you're thinking.", 'date': '2017-09-20'}

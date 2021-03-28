@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Venezuelan Thieves Stealing Zoo Animals For Food, Police Say', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/venezuela-zoo-thieves_us_5996155ce4b0a2608a6b26e1', 'short_description': 'The thefts may be associated with chronic food shortages in the country.', 'date': '2017-08-17'}

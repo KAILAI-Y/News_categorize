@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Mexico Tour Bus Crash Kills At Least 12', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/mexico-tour-bus-crash_us_5a3a62dce4b0b0e5a79e99ec', 'short_description': 'Five American cruise ship passengers were reportedly among those killed in the excursion.', 'date': '2017-12-20'}

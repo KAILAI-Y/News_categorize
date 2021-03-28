@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Charlottesville Residents Slam City’s Response To Nazis In Raucous Meeting', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/charlottesville-city-council-meeting_us_599bbac3e4b06a788a2b44b2', 'short_description': '“You all let this city down."', 'date': '2017-08-22'}

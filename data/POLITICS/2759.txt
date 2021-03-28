@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jeff Flake Slams Trump’s Attacks On Press As Stalinist', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/jeff-flake-trump-stalin_us_5a5b8f22e4b03c4189669f1a', 'short_description': "The Republican senator will give a speech on Wednesday addressing Trump's attacks against the press.", 'date': '2018-01-14'}

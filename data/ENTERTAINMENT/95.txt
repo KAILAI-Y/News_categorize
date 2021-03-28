@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chrissy Teigen Spills First Details About New Baby Boy: 'We Are In Love'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-spills-first-details-about-new-baby-boy-we-are-in-love_us_5aff1f9ce4b07309e057dab1', 'short_description': '*Patiently waits for first photo*', 'date': '2018-05-18'}

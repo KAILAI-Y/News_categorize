@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Gingerbread Dessert Recipes For The Best Holiday Baking', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/best-gingerbread-dessert-recipes_us_5a314a88e4b091ca2684a046', 'short_description': "It's beginning to feel a lot like Christmas.", 'date': '2017-12-13'}

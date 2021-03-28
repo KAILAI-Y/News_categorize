@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Trump Administration Wants Your Help Getting People Off Food Stamps', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/food-stamps-public-comment_us_5a8f39f6e4b01e9e56b9c7fc', 'short_description': 'Conservative Republicans in Congress are itching for a food stamp fight this year.', 'date': '2018-02-22'}

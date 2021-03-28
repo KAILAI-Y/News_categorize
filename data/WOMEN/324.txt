@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Danny Masterson’s Publicist Suggested A Woman Can’t Be Raped By A Man She’s In A Relationship With', 'authors': 'Yashar Ali', 'link': 'https://www.huffingtonpost.com/entry/danny-masterson-publicist-jenni-weinman_us_5a15c995e4b09650540f05b6', 'short_description': 'Four women have accused Masterson of rape.', 'date': '2017-11-22'}

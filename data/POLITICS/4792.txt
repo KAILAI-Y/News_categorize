@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Trump Is Treason!': Protester Throws Russian Flags At President", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-russian-flags-protester_us_59ef7494e4b0bf1f883637c3', 'short_description': 'A liberal activist infiltrated a press area outside a Senate GOP lunch.', 'date': '2017-10-24'}

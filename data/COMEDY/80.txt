@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Roasts Sean Hannity Over His Alleged Journalism Skills', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-rudy-giuliani-donald-trump_us_5aebfd5be4b0ab5c3d63c7f5', 'short_description': '"You know Hannity can’t believe he accidentally made news on his show."', 'date': '2018-05-04'}

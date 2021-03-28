@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'James Corden Takes His Feud With Usain Bolt To Hilarious New Heights', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-usain-bolt-challenges_us_59f05ac3e4b04917c59450ee', 'short_description': "It's on.", 'date': '2017-10-25'}

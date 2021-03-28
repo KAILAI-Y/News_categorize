@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Box Truck Blocks Media's View Of Trump Getting 'Back To Work' (a.k.a. Playing Golf)", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/trump-truck-media-golfing_us_5a44732ee4b025f99e19964e', 'short_description': "The Secret Service reportedly denies the vehicle's placement was intentional.", 'date': '2017-12-28'}

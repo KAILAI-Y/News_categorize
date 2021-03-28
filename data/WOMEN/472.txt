@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Trump Is In Your Head', 'authors': 'Mattea Kramer, ContributorPolitics and culture writer', 'link': 'https://www.huffingtonpost.com/entry/trump-is-in-your-head_us_59d3bc30e4b06226e3f3dec8', 'short_description': 'Women and The Donald in everyday life.', 'date': '2017-10-03'}

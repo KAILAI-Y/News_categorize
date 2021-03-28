@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Former 'Glee' Star Mark Salling Dies Awaiting Child Porn Sentencing", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/mark-salling-glee-dead-dies_us_5a70b320e4b0be822ba0e806', 'short_description': 'The actor faced up to seven years in prison.', 'date': '2018-01-30'}

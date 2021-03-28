@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Stormy Daniels Finds A Crunchy New Way to Chip Away At Trump', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/stormy-daniels-cheetos-stomping_us_5af11c55e4b0c4f1932609fe', 'short_description': 'Orange you intrigued?', 'date': '2018-05-08'}

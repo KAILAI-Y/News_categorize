@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "James Corden: Apple's New iPhone X Is Perfect For Ted Cruz", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-ted-cruz-jokes_us_59b8fa56e4b02da0e13d893d', 'short_description': 'For, yeah, all the reasons you would suspect.', 'date': '2017-09-13'}

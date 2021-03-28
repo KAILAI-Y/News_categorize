@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "J.Lo Explains The Meaning Of Her Album Title 'For The First Time'", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/jlo-for-the-first-time-por-primera-vez_us_59b98258e4b02da0e13ea9ba', 'short_description': 'The star worked with ex Marc Anthony on her upcoming Spanish-album.', 'date': '2017-09-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "NYT Editorial Board Unloads On Trump: 'The Law Is Coming'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/new-york-times-donald-trump_us_5acdec11e4b0259339df1795', 'short_description': '"Mr. Trump now has real reason to be afraid."', 'date': '2018-04-11'}

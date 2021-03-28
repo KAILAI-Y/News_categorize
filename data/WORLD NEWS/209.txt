@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Boko Haram Releases Over 100 Abducted Nigerian Schoolgirls', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/boko-haram-releases-schoolgirls_us_5ab2827fe4b054d118df0892', 'short_description': 'The girls had been kidnapped by the militant group a month ago.', 'date': '2018-03-21'}

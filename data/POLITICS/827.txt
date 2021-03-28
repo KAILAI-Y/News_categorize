@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "James Comey's Book Pre-Sold Almost 200,000 Copies, Source Says", 'authors': 'Yashar Ali', 'link': 'https://www.huffingtonpost.com/entry/james-comey-book-sales_us_5ad0f1fde4b0edca2cb987ce', 'short_description': 'That number includes both digital and hardcover pre-sales.', 'date': '2018-04-13'}

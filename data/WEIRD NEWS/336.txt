@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Wanted Man: I'll Turn Myself In If Police Get 1000 Facebook Shares", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/champagne-torino-1000-facebook-shares_us_59dd0c60e4b0b26332e725d6', 'short_description': 'He also promised to bring a dozen doughnuts.', 'date': '2017-10-10'}

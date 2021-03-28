@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'William H. Macy Has Ultimate Dad Moment Dancing With His Daughter Before Prom', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/william-h-macy-prom-dress-daughter_us_5ae1e001e4b04aa23f2079b9', 'short_description': 'These magical moments go by way too fast.', 'date': '2018-04-26'}

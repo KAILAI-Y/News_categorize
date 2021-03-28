@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New Polls Give Jon Ossoff An Edge In Georgia House Runoff', 'authors': 'Ariel Edwards-Levy and Grace Sparks', 'link': 'https://www.huffingtonpost.com/entry/jon-ossoff-georgia-polls_us_593af151e4b0240268791034', 'short_description': 'And more of the latest polling news.', 'date': '2017-06-09'}

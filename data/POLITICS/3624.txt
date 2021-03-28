@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Roy Moore Slams America, Says 'Maybe Putin Is Right'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-putin-is-right_us_5a2a2122e4b069ec48ac322f', 'short_description': 'U.S. Senate candidate says the United States "promotes a lot of bad things."', 'date': '2017-12-08'}

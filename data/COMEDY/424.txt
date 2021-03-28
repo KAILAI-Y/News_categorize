@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Late Show' Overdubs Trump's Flubbed National Anthem Attempt", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/late-show-trump-national-anthem_us_5a55a0d6e4b0d614e48ac2f3', 'short_description': "So THAT'S what he was singing.", 'date': '2018-01-10'}

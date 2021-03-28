@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Bill Maher Trashes Donald Trump Over His Latest Disgusting Tweets', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-donald-trump-twitter-tantrum_us_59573dcce4b0da2c7323ba67', 'short_description': '"That slapping sound you heard yesterday was the entire country going..."', 'date': '2017-07-01'}

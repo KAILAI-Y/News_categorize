@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Nas Honors Legends Of Black Music In Open Letter For Black History Month', 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/nas-black-music-history-month_us_5a7c9d86e4b08dfc9301783f', 'short_description': '"I was raised to understand that every month was Black History Month."', 'date': '2018-02-08'}

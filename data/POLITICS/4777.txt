@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Brags About Having 'One Of The Great Memories Of All Time'", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/trump-greatest-memory_us_59f0cb90e4b0d094a5b6ce08', 'short_description': "Except when he's being deposed, anyway.", 'date': '2017-10-25'}

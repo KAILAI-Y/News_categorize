@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: Obamacare Repeal Still Alive", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-obamacare-repeal-still-alive_us_596c9b47e4b0d6341fea37dd', 'short_description': 'The GOP dream is still alive...if barely.', 'date': '2017-07-17'}

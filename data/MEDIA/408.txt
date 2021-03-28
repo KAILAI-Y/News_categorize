@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Sean Hannity, Tucker Carlson Declared Too Biased For UK Viewers', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-tucker-carlson-uk_us_5a018512e4b066c2c039f11f', 'short_description': "The Fox News hosts broke British impartiality rules, the country's media regulator said.", 'date': '2017-11-07'}

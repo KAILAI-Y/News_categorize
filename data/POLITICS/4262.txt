@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Thank You, Steve Bannon', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/thank-you-steve-bannon_us_5a0907d8e4b01d21c83f6bda', 'short_description': 'A Democratic wave in 2018 is looking more and more likely.', 'date': '2017-11-13'}

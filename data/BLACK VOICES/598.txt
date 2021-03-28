@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'New Series Highlights The Trials And Triumphs Of Black Fatherhood', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/pops-series-black-fatherhood_us_59caa598e4b0964242bbc92d', 'short_description': '"Pops" premieres on October 26.', 'date': '2017-09-26'}

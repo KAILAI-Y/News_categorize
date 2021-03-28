@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Chris Pratt's Father-Son Fishing Photos Are Too Cute For Words", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/chris-pratts-father-son-fishing-photos-are-too-cute-for-words_us_595697bee4b0da2c7323519f', 'short_description': 'The actor and his son, Jack, are adorable partners-in-crime.', 'date': '2017-06-30'}

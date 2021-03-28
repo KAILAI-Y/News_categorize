@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'The Harvey Weinstein Scandal Could Take Down A Fashion Label', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/harvey-weinstein-marchesa_us_59dccc75e4b0b34afa5c4211', 'short_description': 'His designer wife is facing blowback for his sins.', 'date': '2017-10-10'}

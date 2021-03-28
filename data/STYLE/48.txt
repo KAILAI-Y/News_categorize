@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Ring In 2018 With These New Year's Eve Dresses Under $100", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/new-years-eve-dresses-under-100_us_5a3a75cce4b06d1621b0fc4c', 'short_description': '🍾🥂🎆', 'date': '2017-12-20'}

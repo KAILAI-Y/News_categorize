@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S., Russia Reach Ceasefire Deal In Southwest Syria, U.S. Official Says', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/us-russia-syria-cease-fire_us_595fb14ae4b0d5b458ea055c', 'short_description': 'The U.S. and Russian presidents met at the G20 summit on Friday.', 'date': '2017-07-07'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "A 'Gay Wedding Cake' Battle Is Heating Up In Northern Ireland, Too", 'authors': 'Ellen Wulfhorst, Reuters', 'link': 'https://www.huffingtonpost.com/entry/gay-wedding-cake-northern-ireland_us_5a280fa7e4b044d167268f12', 'short_description': 'The laws differ, but the issues at heart are very similar.', 'date': '2017-12-06'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "EW! Tweeters React To Stormy Daniels' Dirty Details About Alleged Affair With Trump", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stormy-daniels-60-minutes-reaction_us_5ab84e07e4b008c9e5f8a92c', 'short_description': '"Never gonna watch Shark Week the same way again."', 'date': '2018-03-26'}

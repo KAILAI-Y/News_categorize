@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: What You Need To Know About The Stock Market Plunge", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-what-you-need-to-know-about-the-stock-market-plunge_us_5a799a4de4b00f94fe951ac5', 'short_description': 'Over inflation fears.', 'date': '2018-02-06'}

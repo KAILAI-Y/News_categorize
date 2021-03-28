@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '8-Year-Old Girl Dies After Drinking Boiling Water On Dare', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/8-year-old-girl-dies-after-drinking-boiling-water-on-dare_us_5984ab0ae4b0cb15b1be3f33', 'short_description': 'She\'d reportedly watched a "hot water challenge" video.', 'date': '2017-08-04'}

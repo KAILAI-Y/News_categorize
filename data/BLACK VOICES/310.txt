@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Cardi B May Be One Of The Few People Who Can Actually Make Anna Wintour Smile', 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/cardi-b-may-be-one-of-the-few-who-can-actually-make-anna-wintour-smile_us_5a80b5cee4b044b3821ea2b1', 'short_description': '"When Anna met Cardi."', 'date': '2018-02-12'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Man Who Survived Bear Attack Gets Bitten By A Shark', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/dylan-mcwilliams-shark-bear-attack_us_5addfa37e4b036e7aeb4f9e0', 'short_description': '"I don\'t blame the shark, I don\'t blame the bear, and I don\'t blame the rattlesnake," the victim said.', 'date': '2018-04-23'}

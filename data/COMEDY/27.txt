@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Has A Super Graphic Way Of Describing How Deep Mueller's Probe Goes Now", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-mueller-probe-deep_us_5afe2648e4b0a0461869e2aa', 'short_description': 'Sounds painful.', 'date': '2018-05-18'}

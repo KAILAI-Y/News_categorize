@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Baltimore Cop Accused Of Planting Drugs In Body Cam Video Indicted', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/baltimore-cop-drug-video-indicted_us_5a6a2338e4b06e25326599fd', 'short_description': 'More than 100 prosecutions involving Officer Richard Pinheiro Jr. have been dropped.', 'date': '2018-01-25'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'It' Is Already Breaking Records At The Box Office", 'authors': 'Jillian Capewell', 'link': 'https://www.huffingtonpost.com/entry/it-movie-box-office-records_us_59b3ee33e4b0b5e531067c1f', 'short_description': 'Turns out Pennywise is pretty bankable.', 'date': '2017-09-09'}

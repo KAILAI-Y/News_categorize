@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Team USA's 'Crotch Patch' Speed Skating Uniforms Get Ribbed Online", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/speed-skaters-uniform-crotch_us_5a8d55dde4b00a30a25111c2', 'short_description': "The suit maker says there's science behind the design.", 'date': '2018-02-21'}

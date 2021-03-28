@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Mocked After He Can't Quite Describe The White House", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-white-house-tippy-top_us_5ac2ddeae4b04646b645698e', 'short_description': '"There really is no name for it."', 'date': '2018-04-03'}

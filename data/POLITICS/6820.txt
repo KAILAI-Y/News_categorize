@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Pushes Back Against Mitch McConnell's Criticism Of 'Excessive Expectations'", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/trump-mcconnell-criticism_us_598b54c8e4b0a66b8bb0aa01', 'short_description': "The president is disappointed in Congress' failure to repeal Obamacare.", 'date': '2017-08-09'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '2 Men Detonate Bomb Inside Indian Restaurant Near Toronto, Authorities Say', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mississauga-canada-restaurant-bombing_us_5b079d47e4b0fdb2aa51f4dd', 'short_description': 'Fifteen people were taken to the hospital, three of them with critical injuries.', 'date': '2018-05-25'}

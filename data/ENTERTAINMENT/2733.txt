@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Don Williams, Country Music's 'Gentle Giant,' Dead At 78", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/don-williams-country-dead-78_us_59b30c38e4b0dfaafcf80957', 'short_description': 'The industry mourns the loss of a legend.', 'date': '2017-09-08'}

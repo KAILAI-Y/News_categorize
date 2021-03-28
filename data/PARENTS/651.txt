@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '11 Times Chris Pratt Was The Most Hilarious And Adorable Dad On This Planet', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/11-times-chris-pratt-was-the-most-hilarious-and-adorable-dad-on-this-planet_us_594a7bade4b00cdb99cbbbf4', 'short_description': "Happy birthday to Jack's dad!", 'date': '2017-06-21'}

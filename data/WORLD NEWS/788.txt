@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Lebanon's Hariri Returns To Beirut After Controversial Absence", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/hariri-returns-lebanon_us_5a14a5c8e4b025f8e9324c86', 'short_description': "It's the first time he has been back after resigning as prime minister and spurring a political crisis.", 'date': '2017-11-21'}

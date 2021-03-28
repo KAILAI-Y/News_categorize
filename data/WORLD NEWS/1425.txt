@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Earthquake In China's Sichuan Province Kills At Least 19, Injures 247", 'authors': 'Christian Shepherd, Reuters', 'link': 'https://www.huffingtonpost.com/entry/china-sichuan-quake_us_598a53e0e4b0449ed50663da', 'short_description': 'The 7.0-magnitude temblor struck a remote and mountainous region.', 'date': '2017-08-09'}

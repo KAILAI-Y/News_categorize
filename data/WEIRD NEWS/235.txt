@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Watch A Wrecking Ball Destroy A Bunch Of Cars And Get On With Your Life', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/wrecking-ball-cars-slow-mo-guys_us_5a340843e4b040881bea3ca2', 'short_description': 'Satisfying, no?', 'date': '2017-12-15'}

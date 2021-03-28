@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Teen Set To Testify Against Man She Accused Of Rape Found Dead', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/teen-rape-found-dead-homicide_us_5a7f21a1e4b044b3821de4df', 'short_description': 'Authorities in Michigan are investigating the death of Mujey Dumbuya, 16, as a homicide.', 'date': '2018-02-10'}

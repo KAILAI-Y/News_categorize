@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'South Carolina State Rep Is Giving Away Guns To Teachers', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/congressman-giving-guns-to-teachers_us_5a949448e4b02cb368c4e246', 'short_description': 'The GOP lawmaker launched a fundraiser to buy two handguns for educators.', 'date': '2018-02-27'}

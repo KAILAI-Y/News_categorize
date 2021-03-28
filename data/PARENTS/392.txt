@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'These Adorable Kids Joined Their Famous Parents At The VMAs', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/these-adorable-kids-joined-their-famous-parents-at-the-vmas_us_59a397a0e4b0821444c453c1', 'short_description': 'These kiddos got to stay up way past their bedtimes on Sunday night.', 'date': '2017-08-28'}

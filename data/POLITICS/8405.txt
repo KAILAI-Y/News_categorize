@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trumps Visit Rep. Steve Scalise And Capitol Police Officer In Hospital', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/president-first-lady-steve-scalise_us_5941f0d4e4b0d3185486f506', 'short_description': 'The president and first lady bring flowers to the wounded congressman and officer.', 'date': '2017-06-15'}

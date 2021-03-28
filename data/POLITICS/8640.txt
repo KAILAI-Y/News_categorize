@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'This Was The Day James Comey Truly Became FBI Director', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/this-was-the-day-james-comey-truly-became-fbi-director_us_5939c41ae4b0b13f2c68a7d7', 'short_description': 'Whadda guy', 'date': '2017-06-08'}

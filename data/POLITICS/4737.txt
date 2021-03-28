@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'What Is Rich?' Asks Congresswoman Worth $75 Million", 'authors': 'Amanda Terkel and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/diane-black-rich_us_59f1f3b3e4b07fdc5fbc5a74', 'short_description': '"Is $1 million rich? Is $10 million rich? Is $1 billion rich?"', 'date': '2017-10-26'}

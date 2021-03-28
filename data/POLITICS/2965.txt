@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'National Security Agency Director Mike Rogers To Retire', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mike-rogers-nsa-retiring_us_5a4fbd1ce4b01e1a4b14e184', 'short_description': 'He said he expects President Donald Trump to nominate a successor this month.', 'date': '2018-01-05'}

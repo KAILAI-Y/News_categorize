@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Luke And Leia 'Fly' A 'Star Wars' Speeder Bike In NYC For Halloween", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/star-wars-speeder-bike-nyc-halloween_us_59f899b2e4b09b5c25694763', 'short_description': 'The holiday and space saga are perfect for each other.', 'date': '2017-10-31'}

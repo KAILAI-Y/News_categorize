@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Raise Your Hand If You Think Chris Evans And Jenny Slate Are Back Together', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/raise-your-hand-if-you-think-chris-evans-and-jenny-slate-are-back-together_us_5a035736e4b0937b510f1d06', 'short_description': 'Please let this be true.', 'date': '2017-11-08'}

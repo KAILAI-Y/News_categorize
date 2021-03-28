@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Celebrities Mourn David Cassidy's Death With Memories Of The Star", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/david-cassidy-dead-celebrities-reaction_us_5a152742e4b025f8e9326ddf', 'short_description': '"Bye bye childhood."', 'date': '2017-11-22'}

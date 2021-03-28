@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah: Donald Trump Is The First Sober Person I've Heard Doing ‘Drunk History’", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-drunk-history_us_5ae2cda6e4b02baed1b8d86d', 'short_description': '“I actually almost feel bad for ‘Fox & Friends.\'"', 'date': '2018-04-27'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "'Incendiary Device' In Austin Injures Worker. Police Not Linking It To Package Bombs.", 'authors': 'Andy Campbell, Nick Visser, and Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/sixth-bomb-explosion-austin_us_5ab1a466e4b0decad045110c', 'short_description': '"There was no package explosion," police say.', 'date': '2018-03-21'}

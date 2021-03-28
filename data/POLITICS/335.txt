@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Gay Marriage Opponent Just Ousted A GOP Incumbent in North Carolina', 'authors': 'Kevin Robillard', 'link': 'https://www.huffingtonpost.com/entry/harris-beats-pittenger-north-carolina_us_5af243b5e4b0a0d601e79204', 'short_description': 'Democrats are targeting the seat, and a former Marine is their candidate.', 'date': '2018-05-09'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'ISIS Raises The Stakes In Egypt After Deadly Sinai Mosque Attack', 'authors': 'Yusri Mohamed and Mahmoud Mourad, Reuters', 'link': 'https://www.huffingtonpost.com/entry/sinai-mosque-attack-egypt_us_5a1ad6b4e4b0cee6c05048aa', 'short_description': 'More than 300 people were killed in the attack at Al Rawdah mosque.', 'date': '2017-11-26'}

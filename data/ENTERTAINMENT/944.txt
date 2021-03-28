@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Gal Gadot, Lupita Nyong'o And More Surprise Moviegoers With Snacks During Oscars", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/gal-gadot-lupita-nyongo-and-more-surprise-moviegoers-at-the-oscars_us_5a9cb41be4b0479c02540b53', 'short_description': 'Hot dog gun FTW.', 'date': '2018-03-05'}

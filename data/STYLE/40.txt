@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '6 Ways To Get Rid Of Blackheads And Prevent Them From Coming Back', 'authors': 'Simone Kitchens, HuffPost', 'link': 'https://www.huffingtonpost.com/entry/how-to-get-rid-of-blackheads_us_5a3c2e1fe4b06d1621b31a72', 'short_description': "Whatever you do, DON'T pick at them with your fingers.", 'date': '2017-12-27'}

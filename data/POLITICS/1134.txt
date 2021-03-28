@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tomi Lahren's Exercise Pants Gun Photo Becomes Butt Of Twitter Jokes", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tomi-lahren-yoga-pants-gun_us_5abcbcd5e4b03e2a5c799765', 'short_description': 'The Fox News contributor is being mocked for stuffing a gun into her yoga pants.', 'date': '2018-03-29'}

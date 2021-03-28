@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Get Ready For A Biopic About Hattie McDaniel, The First Black Oscar Winner', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/hattie-mcdaniel-biopic_us_5a57a204e4b068abc338babd', 'short_description': 'She won an Academy Award for her role in 1939\'s "Gone With The Wind."', 'date': '2018-01-11'}

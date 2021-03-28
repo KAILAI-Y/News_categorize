@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Islamist Attack On Somali Hotel Kills At Least 29, Police Say', 'authors': 'Abdi Sheikh and Feisal Omar, Reuters', 'link': 'https://www.huffingtonpost.com/entry/somalia-hotel-attack_us_59f5cbd5e4b03cd20b821f2b', 'short_description': 'Islamist militants al Shabaab claimed responsibility for this weekend’s attack.', 'date': '2017-10-29'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Prepares To Finally Release His Infrastructure Plan, But Huge Obstacles Remain', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-infrastructure-plan_us_5a2ecc08e4b06e3bccf308bd', 'short_description': 'Infrastructure Week stretches all year.', 'date': '2017-12-11'}

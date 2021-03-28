@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans Express Concern About Trump's Sexism, Still Won't Do Anything About It", 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/republicans-trump-sexism_us_59551b99e4b02734df30951a', 'short_description': "It's the same song and dance every time.", 'date': '2017-06-29'}

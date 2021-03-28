@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jason Isaacs Says Racist 'Star Trek' Haters 'Can Go F**k' Themselves", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/jason-isaacs-says-racist-star-trek-haters-can-go-fck-themselves_us_59d9bbe0e4b0f6eed350ce3b', 'short_description': 'Saying boldly what no star has said before.', 'date': '2017-10-08'}

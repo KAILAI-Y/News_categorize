@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Washington Post Humor Columnist Challenges Donald Trump To A Duel', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/gene-weingarten-donald-trump-duel_us_599e776ee4b0821444c0b9f9', 'short_description': '"Your weapon and venue of choice."', 'date': '2017-08-24'}

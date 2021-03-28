@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Gregg Allman, Classic Rock Legend Of The Allman Brothers Band, Dead', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/gregg-allman-classic-rock-legend-of-the-allman-brothers-band-dead-at-69_us_58ff7a45e4b0c46f078298f4', 'short_description': 'Rest easy, midnight rider.', 'date': '2017-05-27'}

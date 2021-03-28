@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tom Price Open To Waiving Obamacare's Individual Mandate", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/tom-price-waiving-individual-mandate_us_597df94de4b02a4ebb760112', 'short_description': 'The move by the Health and Human Services secretary would hobble the Obamacare exchanges.', 'date': '2017-07-30'}

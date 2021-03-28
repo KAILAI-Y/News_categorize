@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'House Passes Spending Bill, But Shutdown Threat Remains', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/house-spending-bill-shutdown_us_5a614042e4b074ce7a06ee7f', 'short_description': 'Basic governance may yet elude Republicans.', 'date': '2018-01-19'}

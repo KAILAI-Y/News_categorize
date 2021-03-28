@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "All The Most Incredible Looks From Rihanna's Diamond Ball", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/rihanna-diamond-ball_us_59bbe3d5e4b086432b0685cc', 'short_description': 'One of these dresses is HUGE.', 'date': '2017-09-15'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Viewers Accuse Selena Gomez Of Lip-Syncing American Music Awards Performance', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/viewers-accuse-selena-gomez-of-lip-syncing-american-music-awards-performance_us_5a12d220e4b0e97dffee916b', 'short_description': "Did she or didn't she?", 'date': '2017-11-20'}

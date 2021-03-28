@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'When You Have Too Many Effing Weddings To Go To In The Summer', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/when-you-have-too-many-effing-weddings-to-go-to-in-the-summer_us_595e7bd5e4b02e9bdb0b36a7', 'short_description': 'Makes you wish there was just a little more loneliness in the world.', 'date': '2017-07-06'}

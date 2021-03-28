@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Your Personality Type May Be Sabotaging Your Exercise Goals', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/personality-type-working-out_us_59f0b933e4b0d094a5b6994f', 'short_description': "But here's how to fix it.", 'date': '2017-10-27'}

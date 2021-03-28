@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Establishment GOP Notches Win In Ohio Primary For Vacant House Seat', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/troy-balderson-ohio-special-election_us_5af1a332e4b0ab5c3d69f759', 'short_description': 'Ohio state Sen. Troy Balderson now will face a Democrat in an Aug. 7 special election.', 'date': '2018-05-09'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Samantha Bee Expertly Trolls That Failed Sting On The Washington Post', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-project-veritas-trolls-undercover-sting_us_5a1e6847e4b0dc52b02a4a28', 'short_description': '“I just really love girl things and feminism."', 'date': '2017-11-29'}

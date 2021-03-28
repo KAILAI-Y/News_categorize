@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Sinkhole Probably Metaphor For Something', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/white-house-sinkhole-twitter_us_5b04526ce4b0c0b8b23edcfe', 'short_description': "One person wondered if the hole was Melania's escape tunnel.", 'date': '2018-05-22'}

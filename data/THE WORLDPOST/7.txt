@@ -1,0 +1,1 @@
+{'category': 'THE WORLDPOST', 'headline': 'Why The New Hollywood Will Never Live Up To Old Hollywood', 'authors': "Rosa O'Hara", 'link': 'https://www.huffingtonpost.com/entry/mike-medavoy-hollywood-china_us_59c3ca7ee4b0c90504fc0775', 'short_description': 'The industry has changed since the legendary time of Humphrey Bogart, Spencer Tracy and Lauren Bacall.', 'date': '2017-09-21'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Bill Cosby's Face On Famous D.C. Mural Replaced With 15 Black Stars", 'authors': 'Lilly Workneh', 'link': 'https://www.huffingtonpost.com/entry/bill-cosbys-face-on-famous-dc-mural-replaced-with-15-black-stars_us_594ac0c3e4b0a3a837bc7f6f', 'short_description': 'Ben’s Chilli Bowl unveiled the new art on Wednesday.', 'date': '2017-06-21'}

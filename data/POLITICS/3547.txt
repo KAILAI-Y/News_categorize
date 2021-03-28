@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Alabama's GOP Senator Says Republicans 'Can Do Better' Than Roy Moore", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/richard-shelby-not-voting-for-roy-moore_us_5a2d39dfe4b0a290f0517727', 'short_description': "But Richard Shelby says he still wouldn't vote for the Democrat in the race.", 'date': '2017-12-10'}

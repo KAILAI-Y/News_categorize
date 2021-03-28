@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Boxing Doctors Say Conor McGregor Isn't Safe Fighting Floyd Mayweather", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/boxing-doctors-conor-mcgregor-floyd-mayweather_us_599ecfc7e4b0821444c13721', 'short_description': '"The thing I really fear [...] is that somebody\'s going to get really hurt."', 'date': '2017-08-24'}

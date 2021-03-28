@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "CNN's Brooke Baldwin Had To Take A Water Break Recounting 4 Weeks Of Trump", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/cnn-brooke-baldwin-water-trump_us_599739fee4b0a2608a6c4fca', 'short_description': "The anchor's summary of recent White House doings is a doozy.", 'date': '2017-08-18'}

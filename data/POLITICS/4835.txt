@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Is Trump Smart Enough To Reappoint Janet Yellen?', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/is-trump-smart-enough-to-reappoint-janet-yellen_us_59ecbd6ce4b0a484d063e9b7', 'short_description': 'Trump is likely to give us a Wall Street guy to chair the Fed.', 'date': '2017-10-22'}

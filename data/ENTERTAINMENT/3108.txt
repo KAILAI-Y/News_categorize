@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'This Viral Photo Of Nicolas Cage Perfectly Encapsulates 2017', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/nicolas-cage-viral-photo_us_59762946e4b0e201d576d3b8', 'short_description': 'His vacant stare into the void is very relatable.', 'date': '2017-07-24'}

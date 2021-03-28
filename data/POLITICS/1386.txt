@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'DC Lawmaker Blames Winter Storms On Jewish Bankers Who Control The Weather', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trayon-white-dc-weather-conspiracy_us_5aaf44eae4b0c33361b1d894', 'short_description': 'Trayon White claimed "The Rothschilds" were behind last week\'s snow.', 'date': '2018-03-19'}

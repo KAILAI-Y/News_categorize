@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: Texas Flooding Has Only Just Begun", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-texas-flooding-has-only-just-begun_us_59a5491be4b050afa90c8f33', 'short_description': 'Up to 50 inches of rain is expected in some areas.', 'date': '2017-08-29'}

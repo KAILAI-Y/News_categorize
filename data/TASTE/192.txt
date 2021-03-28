@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Oprah Is Bringing Comfort Food To The Masses With Her Own Line Of Side Items', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/oprah-food-line_us_598c68dce4b0a66b8bb1802c', 'short_description': 'You get mashed potatoes, and you get mashed potatoes, and you get mashed potatoes.', 'date': '2017-08-10'}

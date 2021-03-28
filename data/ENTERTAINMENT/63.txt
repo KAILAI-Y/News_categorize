@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Donald Glover Is On Board With Lando Calrissian's Pansexuality In 'Solo'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/donald-glover-is-on-board-with-landos-pansexuality-in-solo_us_5b042256e4b0a046186fe542', 'short_description': '"How can you not be pansexual in space?" he said.', 'date': '2018-05-22'}

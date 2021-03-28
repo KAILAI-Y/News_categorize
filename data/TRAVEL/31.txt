@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "13 Of The Best Men's Duffel Bags For Your Weekend Travels", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/the-best-mens-duffel-bags-for-your-weekend-travels_us_5aaafa64e4b0337adf82657b', 'short_description': "Durable weekend duffel bags that'll get you there.", 'date': '2018-03-16'}

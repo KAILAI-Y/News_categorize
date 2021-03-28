@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'How To Report Sexual Harassment At A Previous Job', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/how-to-report-sexual-harassment-at-old-job_us_5a2190ade4b03c44072d5077', 'short_description': 'Read this before you call his HR department.', 'date': '2017-12-02'}

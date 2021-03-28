@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "People Aren't Happy With Bono's Tone-Deaf Remarks About 'Girly' Music", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/bono-music-rolling-stone_us_5a44054ae4b06d1621b6ba4a', 'short_description': 'The singer made the comment in an interview with Rolling Stone.', 'date': '2017-12-28'}

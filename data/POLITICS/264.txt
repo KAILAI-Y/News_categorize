@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Chuck Schumer Turns Melania Trump's 'Be Best' Campaign Against Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/chuck-schumer-donald-trump-melania-be-best_us_5af545ffe4b032b10bf940b3', 'short_description': '"Be Best," Mr. President.', 'date': '2018-05-11'}

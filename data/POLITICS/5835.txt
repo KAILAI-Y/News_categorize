@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Anti-Immigration Conservatives Flip Out Over Trump-Dem Deal Reports', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/anti-immigration-conservatives-daca_us_59ba36d6e4b02da0e13f440a', 'short_description': '"Trump just screwed his base."', 'date': '2017-09-14'}

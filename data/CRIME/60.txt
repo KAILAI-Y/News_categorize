@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Someone Tied A Hedgehog To A Tree With A 'Makeshift Crucifix' Of Shoelaces", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/hedgehog-tree-wales-crucifix_us_5ad72e9ae4b029ebe01fa299', 'short_description': 'The perpetrator in Wales barbarically left the little creature to die, but it survived.', 'date': '2018-04-18'}

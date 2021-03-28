@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Under Trump, Obamacare Shopping Is Even More Confusing. We're Here To Help.", 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/trump-obamacare-shopping-confusion_us_59de8645e4b0fdad73b1d75e', 'short_description': 'Health insurance customers really need to do their research this year.', 'date': '2017-11-05'}

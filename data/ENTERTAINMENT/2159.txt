@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'People Share Some Good Celebrity Stories Amid All The Sexual Assault News', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/celebrities-good-stories-twitter_us_5a062775e4b0e37d2f37758d', 'short_description': '"If anyone has any nice allegations against a celebrity that would be great too."', 'date': '2017-11-11'}

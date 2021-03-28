@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Marine Corps To Assign First-Ever Female Infantry Officer', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/marine-corps-female-infantry-officer_us_59c4c7dae4b01cc57ff127b2', 'short_description': 'The lieutenant is expected to graduate from the grueling Infantry Officer Course on Monday.', 'date': '2017-09-22'}

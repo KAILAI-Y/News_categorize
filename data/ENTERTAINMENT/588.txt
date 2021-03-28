@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Lindsey Buckingham Goes His Own Way From Fleetwood Mac', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/lindsey-buckingham-quits-fleetwood-mac-again_us_5ac7d975e4b07a3485e4aa65', 'short_description': 'The guitarist will not play with the band on its upcoming tour.', 'date': '2018-04-09'}

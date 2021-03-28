@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "She's Back: Kylie Jenner Shares First Photo Of Herself Since Giving Birth", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kylie-jenner-back-on-instagram_us_5a82fd7ae4b0892a03535d32', 'short_description': 'A moment six months in the making.', 'date': '2018-02-13'}

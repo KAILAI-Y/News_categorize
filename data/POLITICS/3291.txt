@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'South Carolina Capital Poised To Become First U.S. City To Ban Bump Stocks', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/columbia-south-carolina-bump-stock-ban_us_5a38fe8ae4b0fc99878e9ea3', 'short_description': '“It’s time for the good guys with guns to begin to pass some really good policy.”', 'date': '2017-12-19'}

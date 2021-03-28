@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'This STD Is Reportedly The Top Reason People Can’t Get On ‘The Bachelor’', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/herpes-the-bachelor-applicants_us_5a95bc24e4b0e6a52302049f', 'short_description': 'And more Americans have it than you would think.', 'date': '2018-02-27'}

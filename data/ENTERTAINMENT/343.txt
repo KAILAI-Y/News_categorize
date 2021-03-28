@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'All The Movies That Are Cool For The Summer', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/summer-movie-preview-2018_us_5adddb71e4b009869bfbba0e', 'short_description': "Whether you're looking for Han Solo or horror darlings, here are the season's many must-see releases.", 'date': '2018-04-28'}

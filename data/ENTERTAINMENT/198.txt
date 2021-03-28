@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '‘Brooklyn Nine-Nine’ Has Been Canceled, And Twitter Mourns', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/brooklyn-nine-nine-canceled_us_5af4b51ee4b0e57cd9f7aaee', 'short_description': 'This is no laughing matter.', 'date': '2018-05-10'}

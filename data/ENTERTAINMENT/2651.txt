@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ellen Doesn't Clown Around When Pranking Sarah Paulson", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/ellen-scares-sarah-paulson-her-own-real-life-american-horror-story_us_59c12255e4b0f22c4a8c8f6d', 'short_description': 'Not once, not twice, but three times.', 'date': '2017-09-19'}

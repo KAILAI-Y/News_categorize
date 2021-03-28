@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Senator Al Franken Will Return To Bill Maher's 'Real Time'", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/al-franken-bill-maher_us_59947649e4b0091416420fe6', 'short_description': 'HBO confirmed that Sen. Franken will be appearing Friday, Aug. 18.', 'date': '2017-08-16'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Bachelor' Couple's April Fools Pregnancy Prank Ticks People Off", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bachelor-couples-april-fools-pregnancy-tweet-ticks-off-people_us_5ac206ace4b055e50acf0904', 'short_description': 'This guy.', 'date': '2018-04-02'}

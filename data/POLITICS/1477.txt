@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Parkland Community Supports Students During Walkout', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/photos-parkland-walkout_us_5aa975d9e4b0f4aaa113200b', 'short_description': 'Family and friends cheered them on from the sidelines.', 'date': '2018-03-14'}

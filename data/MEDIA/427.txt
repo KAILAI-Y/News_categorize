@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Bill Maher: Trump's Relationship With Fox News Is A 'Very Bad Axis Of Evil’", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-fox-news-donald-trump-axis-of-evil_us_59f461b1e4b077d8dfc9dc71', 'short_description': '"Fox News has become state TV."', 'date': '2017-10-28'}

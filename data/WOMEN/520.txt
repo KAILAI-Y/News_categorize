@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'DeVos Confirms She Will Roll Back Obama-Era Title IX Guidelines', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/devos-confirms-she-will-roll-back-obama-era-title-ix-guidelines_us_59b29889e4b0dfaafcf75956', 'short_description': 'The Secretary of Education spoke with CBS News Thursday night.', 'date': '2017-09-08'}

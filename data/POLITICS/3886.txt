@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Senate Republicans Could Pass Tax Bill By Week's End", 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/senate-republicans-tax-bill-deals_us_5a1ddda8e4b0d724fed456ce', 'short_description': 'They made major progress Tuesday.', 'date': '2017-11-29'}

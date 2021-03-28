@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Stephen Colbert Promises 'Front-Stabbing' During Anthony Scaramucci Interview", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-anthony-scaramucci_us_598c51e2e4b0a66b8bb15c48', 'short_description': 'The late night host is clearly excited for his Monday interview.', 'date': '2017-08-10'}

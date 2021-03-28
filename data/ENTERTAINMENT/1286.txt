@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Justin Timberlake Says His Son 'Will Never Play Football'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/justin-timberlake-says-his-son-will-never-play-football_us_5a748c36e4b01ce33eb24d97', 'short_description': 'The singer spoke at a Super Bowl press conference.', 'date': '2018-02-02'}

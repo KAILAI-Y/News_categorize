@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Organizer Of Donald Trump Jr.'s Russia Meeting Continued Emailing With Russians: Report", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/trump-jr-russia-meeting-emails_us_5a29c0f2e4b0a290f04f5cb5', 'short_description': 'Trump Jr. told investigators he does not recall the emails, CNN reports.', 'date': '2017-12-08'}

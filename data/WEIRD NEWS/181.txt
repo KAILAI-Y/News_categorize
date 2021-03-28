@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Protesters Tear Down Angel Sculpture For Looking Satanic', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/phylax-satanic-angel_us_5a610b96e4b074ce7a06bffd', 'short_description': 'The 24-foot-tall sculpture is called "Phylax," which in Greek means “guardian.”', 'date': '2018-01-18'}

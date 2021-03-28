@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Tweets Will Get Twice As Long And People Are Afraid', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/twitter-doubles-character-limit-280_us_59cac1c5e4b05063fe0d8c78', 'short_description': 'Many are wondering how one avid Twitter user will embrace the space.', 'date': '2017-09-26'}

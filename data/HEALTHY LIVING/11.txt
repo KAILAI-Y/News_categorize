@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'This Is Your Body On Dry January', 'authors': 'Ashley Davidson, On Assignment For HuffPost', 'link': 'https://www.huffingtonpost.com/entry/your-body-on-dry-january_us_5a4baf2be4b06d1621bb0b77', 'short_description': 'There are benefits to banishing the booze.', 'date': '2018-01-03'}

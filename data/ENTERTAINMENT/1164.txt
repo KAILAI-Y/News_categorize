@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Legendary Crooner Vic Damone Dead At 89', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/vic-damon-dead-legendary-crooner_us_5a829371e4b01467fcf0d914', 'short_description': 'He was once described by Frank Sinatra as having "the best pipes in the business."', 'date': '2018-02-13'}

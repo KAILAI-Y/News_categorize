@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'This Weatherman’s Reaction To The Eclipse Was So Amazingly Pure', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/weatherman-cries-tears-joy-eclipse_us_599c8a9be4b0d97c3fffa0c2', 'short_description': 'Find someone who looks at you the way this man looked at the eclipse.', 'date': '2017-08-22'}

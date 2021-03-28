@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Justin Timberlake Finally Explains Where Sexy Was When He Brought It Back', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/justin-timberlake-sexyback_us_5a1f8dcae4b037b8ea1f945a', 'short_description': 'Well that explains everything.', 'date': '2017-11-30'}

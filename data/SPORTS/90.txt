@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Olympian Gus Kenworthy Burns Ivanka Trump: 'TF Is She Doing Here?'", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/gus-kenworthy-ivanka-trump_us_5a929e38e4b01e9e56bc9a02', 'short_description': 'The first daughter led the U.S. delegation during the Olympics closing ceremony.', 'date': '2018-02-25'}

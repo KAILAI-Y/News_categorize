@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Alex Trebek Mocks 'Jeopardy!' Contestants' Complete Football Fail", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/alex-trebek-mocks-jeopardy-contestants-complete-football-fail_us_5a743f1ae4b01ce33eb1acc7', 'short_description': '"If you guys ring in and get this one, I will die."', 'date': '2018-02-02'}

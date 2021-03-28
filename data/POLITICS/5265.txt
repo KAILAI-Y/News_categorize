@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Elizabeth Warren Scorches Former Equifax CEO For Profiting From Data Breaches', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/elizabeth-warren-equifax-ceo_us_59d503ace4b06226e3f55c83', 'short_description': '"The breach of your system has actually created more business opportunities for you."', 'date': '2017-10-04'}

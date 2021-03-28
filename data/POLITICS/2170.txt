@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "President Who Loves Making False Accusations Suddenly Pleads 'Due Process'", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/president-who-loves-making-false-accusations-suddenly-pleads-due-process_us_5a7f167be4b044b3821dd798', 'short_description': 'Where to begin?', 'date': '2018-02-10'}

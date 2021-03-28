@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trump's Weirdly Slurred Speech Causes #DentureDonald To Trend", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/denture-donald-trump-teeth_us_5a28c84ee4b03ece0300119d', 'short_description': 'False teeth... or fake news?', 'date': '2017-12-07'}

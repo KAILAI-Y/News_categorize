@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jay Leno Reworks Old Proverbs, Zings Donald Trump In The Process', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jay-leno-fake-proverbs-donald-trump_us_5ab618a7e4b008c9e5f7633f', 'short_description': "The former late-night host apparently couldn't resist.", 'date': '2018-03-24'}

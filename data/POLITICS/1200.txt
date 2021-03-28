@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Kellyanne Conway's Husband Is Going Rogue", 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/george-conway-twitter-trump_us_5ab553bee4b0decad049d7e0', 'short_description': 'George Conway has been criticizing Trump all month.', 'date': '2018-03-26'}

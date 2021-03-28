@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'How Harvey Weinstein Put The Media In A Headlock', 'authors': 'Maxwell Strachan and Jason Cherkis', 'link': 'https://www.huffingtonpost.com/entry/harvey-weinstein-media_us_59d7b846e4b0f6eed35011fc', 'short_description': '"They buy journalists, they threaten journalists, they do whatever they have to."', 'date': '2017-10-09'}

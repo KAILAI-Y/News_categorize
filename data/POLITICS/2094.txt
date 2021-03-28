@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'EPA Head Scott Pruitt Defends First-Class Travel, Citing Security Concerns', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-defends-first-class_us_5a836d60e4b0cf06751f8770', 'short_description': 'He said those who criticize him "just don\'t know me."', 'date': '2018-02-14'}

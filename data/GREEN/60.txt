@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Wildfires Are The ‘New Reality’ For California, Gov. Brown Warns', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/wildfires-are-new-reality-for-california-gov-says_us_5a2d7614e4b073789f6aa6c5', 'short_description': '“This could be something that happens every year or every few years," he said.', 'date': '2017-12-10'}

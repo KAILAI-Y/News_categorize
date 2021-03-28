@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '25 Hilarious, Adorable And Just Plain Strange Quotes From Kids', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/25-hilarious-adorable-and-just-plain-strange-quotes-from-kids_us_5923a9d5e4b03b485cb46a0a', 'short_description': '"Mum, have you heard about eyelashes?"', 'date': '2017-07-14'}

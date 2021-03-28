@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Hoda Kotb Replaces Matt Lauer As 'Today' Co-Anchor", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/hoda-kotb-replaces-matt-lauer_us_5a4b7859e4b0b0e5a7a8869b', 'short_description': 'Lauer was fired last year over allegations of sexual misconduct.', 'date': '2018-01-02'}

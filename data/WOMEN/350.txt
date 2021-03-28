@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Gretchen Carlson: Fire Sexual Predators, Protect Victims', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/gretchen-carlson-fire-sexual-predators-rehire-women_us_5a05cd18e4b0e37d2f372fea', 'short_description': '"Why should women be stripped of the American dream?" she asked.', 'date': '2017-11-10'}

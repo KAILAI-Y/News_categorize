@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Reporter's Reaction To 'Guardians Of The Galaxy' Ride Is A Joy To Behold", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reporter-reaction-guardians-of-galaxy-disneyland_us_592943d8e4b0065b20b6cc5a', 'short_description': '"This was not a good idea."', 'date': '2017-05-27'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hong Kong, Sydney Have The World’s Most Unaffordable Housing', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/hong-kong-sydney-unaffordable-housing_us_5a69457be4b0e56300763003', 'short_description': 'A new survey finds a median home in Hong Kong costs 19 times the median income.', 'date': '2018-01-25'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Sarah Jessica Parker Details The Many Courses Of Her Epic Dinner Alone', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/sarah-jessica-parker-dinner_us_5968fd36e4b0d6341fe89324', 'short_description': "We're inviting ourselves over.🍴", 'date': '2017-07-14'}

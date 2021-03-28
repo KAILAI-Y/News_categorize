@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Target Claims It Won't Start Christmas Early, Then Starts Christmas Early Anyway", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/target-christmas-creep_us_59f01180e4b0bf1f8836b6d1', 'short_description': "Retailer's promise not to launch the holiday season early comes with an asterisk.", 'date': '2017-10-25'}

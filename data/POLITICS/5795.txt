@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Goes After ESPN Host Who Called Him A 'White Supremacist'", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jemele-hill_us_59bbfb5ee4b02da0e1418377', 'short_description': 'White House press secretary Sarah Huckabee Sanders has also attacked Jemele Hill.', 'date': '2017-09-15'}

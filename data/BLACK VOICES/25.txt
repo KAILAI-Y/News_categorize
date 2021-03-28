@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'The 2018 BET Awards Nominations Are Here And DJ Khaled Must Be Screaming', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/2018-bet-awards-nominees_us_5afc3c27e4b0779345d4d523', 'short_description': 'The "Wild Thoughts" artist received six nominations.', 'date': '2018-05-16'}

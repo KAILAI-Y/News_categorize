@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Theresa May Calls Trump's Anti-Muslim Retweets 'Wrong'", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/theresa-may-trump-retweets_us_5a1ed54ce4b01edb1a816634', 'short_description': "The U.K. leader's rebuke heightens tensions between the longtime allies.", 'date': '2017-11-29'}

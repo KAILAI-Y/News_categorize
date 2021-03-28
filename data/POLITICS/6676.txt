@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump 'Seriously Considering' Pardoning Joe Arpaio", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-joe-arpaio_us_5991dea6e4b08a24727651cd', 'short_description': 'He called the former sheriff, who has been accused of racial profiling, "a great American patriot."', 'date': '2017-08-14'}

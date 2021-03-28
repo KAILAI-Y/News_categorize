@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Issues A Stark Warning To Omarosa About Life After Trump', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-omarosa_us_5a7d3203e4b0c6726e11c296', 'short_description': 'The "Late Show" host has some useful advice for the former White House adviser.', 'date': '2018-02-09'}

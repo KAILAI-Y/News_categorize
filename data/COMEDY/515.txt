@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jordan Klepper Destroys GOP Bill That Sells 'Good Guy With A Gun' Myth", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jordan-klepper-destroys-gop-bill-that-sells-good-guy-with-a-gun-myth_us_5a269088e4b07324e84081a0', 'short_description': '"A domestic abuser is not a good guy with a gun."', 'date': '2017-12-05'}

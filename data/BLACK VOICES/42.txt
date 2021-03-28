@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Woman Calls Police On Black Family For BBQing At A Lake In Oakland', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/woman-calls-police-oakland-barbecue_us_5af50125e4b00d7e4c18f741', 'short_description': 'Their crime? Using the wrong type of grill in a barbecue-designated zone.', 'date': '2018-05-11'}

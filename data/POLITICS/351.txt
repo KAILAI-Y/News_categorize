@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What To Know About The Iran Nuclear Deal', 'authors': 'Nick Robins-Early and Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/iran-nuclear-deal-withdrawal-explained_us_5af1dcf1e4b0c4f193279a6e', 'short_description': 'A guide to the 2015 international agreement that Donald Trump has plunged into crisis.', 'date': '2018-05-08'}

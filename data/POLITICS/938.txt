@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Responds To FBI Raid Of Lawyer Michael Cohen's Office", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/trump-fbi-raid-michael-cohen_us_5acbd48ce4b09d0a11969485', 'short_description': '“A TOTAL WITCH HUNT!!!”', 'date': '2018-04-09'}

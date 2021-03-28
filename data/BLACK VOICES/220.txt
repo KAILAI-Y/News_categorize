@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Here's Why ABC Shelved 'Black-ish' Episode On NFL Anthem Protests", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/blackish-abc-nfl-anthem-protest_us_5aa6a2fde4b03c9edfae4a2d', 'short_description': 'Differences between ABC and showrunner Kenya Barris led to the cancellation.', 'date': '2018-03-12'}

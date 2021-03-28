@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congratulations To Presidential Archnemesis Jared Kushner', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/congratulations-to-presidential-archnemesis-jared-kushner_us_59372869e4b0ce1e7408b27a', 'short_description': 'Good luck, guy!', 'date': '2017-06-06'}

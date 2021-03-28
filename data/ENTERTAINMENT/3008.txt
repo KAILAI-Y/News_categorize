@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "ABC Says Tim Allen's Politics 'Had Nothing To Do' With Cancellation", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/tim-allen-politics-cancellation_us_59875b0be4b08b75dcc7a93d', 'short_description': "The network is stressing that Tim Allen's conservative views did not get him axed.", 'date': '2017-08-06'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Gunman Kills One, Wounds Four In Shooting At German Nightclub', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/konstanz-nightclub-shooting-germany_us_597d9422e4b02a8434b6e44a', 'short_description': 'The gunman was shot by police and later died at a hospital.', 'date': '2017-07-30'}

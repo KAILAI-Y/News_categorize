@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Stephen Colbert Zings Oliver Stone For 'Fawning' Putin Documentary", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-zings-oliver-stone-for-fawning-putin-documentary_us_593fcf0be4b02402687ca375', 'short_description': '"Does he have your dog in a cage someplace?"', 'date': '2017-06-13'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'GOP Group Cluelessly Uses 1994 Margaret Cho Pic To Depict Asian Americans', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/margaret-cho-arizona-republicans_us_599606fce4b0a2608a6b0a66', 'short_description': 'Whoops!', 'date': '2017-08-23'}

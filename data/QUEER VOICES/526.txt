@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "The Warwick Rowers' Calendar Apparently Deemed 'Gay Propaganda' In Russia", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/warwick-rowers-gay-propaganda_us_5a26cde9e4b069df71fa17ad', 'short_description': 'The move signifies a "wider problem," the creator said.', 'date': '2017-12-05'}

@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "What Flight Attendants Really Wish You'd Do On Your Next Flight", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/what-flight-attendants-really-wish-youd-do-on-your-next-flight_us_5accc07de4b09d0a11979d5d', 'short_description': 'Take. off. your. headphones.', 'date': '2018-04-10'}

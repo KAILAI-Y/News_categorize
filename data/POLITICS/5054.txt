@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Senator Has One Stinging Question For Conservatives Who Support Trump', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ben-sasse-question-conservatives_us_59e015c8e4b0a52aca16c169', 'short_description': 'Will they answer him?', 'date': '2017-10-13'}

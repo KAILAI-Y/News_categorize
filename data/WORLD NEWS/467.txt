@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Ax-Wielding Teen Injures At Least 6 In Attack On Russian School, Authorities Say', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/ax-arson-attack-russia-school_us_5a61dd17e4b01d91b254c28e', 'short_description': "The suspect then set the room ablaze, Russia's Investigative Committee said.", 'date': '2018-01-19'}

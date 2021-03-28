@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The GOP Plays Politics With Your Health', 'authors': 'Joe Peyronnin, ContributorHofstra Journalism Professor', 'link': 'https://www.huffingtonpost.com/entry/the-gop-plays-politics-with-your-health_us_59c40412e4b0be1b32c197f6', 'short_description': 'No wonder nearly 70 percent of all Americans disapprove of Congress.', 'date': '2017-09-21'}

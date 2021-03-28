@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mike Pence Keeps Getting Caught In A Web Of Deception', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-misleading-statements-russia_us_5a0b034ce4b0bc648a0de92a', 'short_description': 'What did the vice president know, and when did he know it?', 'date': '2017-11-14'}

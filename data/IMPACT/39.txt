@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Kenya Gambles On Dirty Energy With Its First Coal Plant', 'authors': 'Daniel Wesangula, On Assignment For HuffPost', 'link': 'https://www.huffingtonpost.com/entry/lamu-kenya-coal-plant_us_5aa7a8d5e4b009b705d5f3ac', 'short_description': '"If it goes on, we might lose it all."', 'date': '2018-03-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bully In Chief', 'authors': 'Common Sense Media, ContributorWe rate, educate, and advocate for kids, families, and schools.', 'link': 'https://www.huffingtonpost.com/entry/bully-in-chief_us_59567799e4b0f078efd9893e', 'short_description': 'It’s clear that the toxic political rhetoric has poisoned our nation’s schools.', 'date': '2017-06-30'}

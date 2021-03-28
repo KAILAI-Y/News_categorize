@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Rep. Says He's Not A Climate-Change Denier, Then Casts Doubt On Basic Fact", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/mark-walker-climate-change-denier_us_592d9dece4b0df57cbfda9db', 'short_description': "History probably won't be kind to this generation of Republicans.", 'date': '2017-05-30'}

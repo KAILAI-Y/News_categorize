@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Woman Kicked Out Of Chick-fil-A For Breastfeeding Fights Back', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/marcy-hornung-breastfeeding-chick-fil-a_us_5a5cf726e4b04f3c55a51a42', 'short_description': "The owner reportedly refused to listen when she cited the state's breastfeeding laws.", 'date': '2018-01-15'}

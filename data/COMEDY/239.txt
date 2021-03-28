@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Drunk And Sad Geoffrey Giraffe From Toys R Us Visits 'Jimmy Kimmel'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/geoffrey-giraffe-jimmy-kimmel_us_5aababc1e4b05b2217fdeffc', 'short_description': "The chain's planned liquidation was just too much for the poor mascot.", 'date': '2018-03-16'}

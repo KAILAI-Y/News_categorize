@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Roy Moore Still Won't Concede Defeat. It's Been A Week Since The Election.", 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-still-wont-concede-alabama_us_5a38a472e4b0860bf4aa9f13', 'short_description': 'His opponent, Senator-elect Doug Jones, has urged him to "move on."', 'date': '2017-12-19'}

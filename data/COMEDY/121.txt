@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Slows Down White House Presser To Imagine 'Sarah Drunkabee Sanders'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/sarah-drunkabee-sanders-jimmy-kimmel_us_5adf1756e4b036e7aeb634bc', 'short_description': 'Her job finally drives her to drink.', 'date': '2018-04-24'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Here's How Meghan Markle Gets Her Signature Hairstyle", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/meghan-markle-hairstyle_us_5a3bdb8be4b0b0e5a7a06004', 'short_description': "It's all about the blowout.", 'date': '2017-12-22'}

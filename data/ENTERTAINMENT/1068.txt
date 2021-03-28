@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Simpsons' Predicted Team USA's Olympic Curling Gold Back In 2010", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/the-simpsons-predicts-olympic-curling_us_5a926b2ee4b0ee6416a3faab', 'short_description': 'The show also accurately prophesied who the U.S. would beat in the final.', 'date': '2018-02-25'}

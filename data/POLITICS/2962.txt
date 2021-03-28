@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump’s Weird Video Briefing Becomes Bonkers New Meme', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-video-briefing-white-house_us_5a4f3294e4b089e14db9ca52', 'short_description': '"Leaning hard into the 1984 vibe here."', 'date': '2018-01-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Do You Like Paying Tolls? You're Gonna Love Trump's Infrastructure Plan", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-tolls-infrastructure_us_5a81b8bbe4b08dfc930673bb', 'short_description': 'The proposal would allow more states to toll interstate highways.', 'date': '2018-02-12'}

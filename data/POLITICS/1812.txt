@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jimmy Fallon Makes Emotional Pledge To Join Student-Led March For Gun Control', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-parkland-students-march_us_5a950c7ce4b0699553cbdb75', 'short_description': '"This is a real revolution."', 'date': '2018-02-27'}

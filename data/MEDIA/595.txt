@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "How A Political Scientist Broke The News Of Trump's Meeting With Putin", 'authors': 'Michael Calderone', 'link': 'https://www.huffingtonpost.com/entry/ian-bremmer-trump-putin-meeting_us_596f7676e4b0000eb197bbfd', 'short_description': 'Ian Bremmer explains the most "unnerving" part of Trump\'s conversation.', 'date': '2017-07-19'}

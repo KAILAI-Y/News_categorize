@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'TV Academy Mixes Up RuPaul With Another Black Emmy Winner', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/tv-academy-mixed-up-rupaul-with-this-guy-on-the-emmys-red-carpet_us_59bf07d7e4b086432b0810d6', 'short_description': 'SMDH.', 'date': '2017-09-18'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Gives The Boy Scout Oath A Hilarious New Makeover For The Trump Era', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-boy-scout-oath_us_597822d7e4b0e201d5797fa3', 'short_description': 'The "Late Show" host brings the Boy Scouts in line with the president\'s ideals.', 'date': '2017-07-26'}

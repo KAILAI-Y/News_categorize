@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Michele Bachmann Just Got An Actual Sign From God, And It’s Absolutely Priceless', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/michele-bachmann-sign-from-god_us_5a7413ade4b01ce33eb175a5', 'short_description': 'This is probably not the answer she was looking for.', 'date': '2018-02-02'}

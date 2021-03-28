@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "CNN's Don Lemon Unloads On Trump Over Racist\xa0Insults In Epic New Takedown", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/don-lemon-trump-racism_us_5a1ce699e4b071403b28981d', 'short_description': '"Saying you’re not racist doesn’t make it so."', 'date': '2017-11-28'}

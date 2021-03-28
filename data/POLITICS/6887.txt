@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Ironworker Challenging Paul Ryan Sees Path To Victory Through Working People', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/randy-bryce-paul-ryan-working-people_us_59863b7ce4b08b75dcc76677', 'short_description': 'Randy Bryce tells the House speaker: "Let\'s trade places."', 'date': '2017-08-06'}

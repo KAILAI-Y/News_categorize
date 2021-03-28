@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hollywood Executive: We Should Have Done More To Stop Harvey Weinstein', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/entertainment-industry-sexual-harassment_us_59ea3a0be4b0958c4681db4d', 'short_description': '"When I think about it, I’m not really happy with myself."', 'date': '2017-10-20'}

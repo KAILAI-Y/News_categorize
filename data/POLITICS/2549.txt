@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Senator Throws 'Talking Stick' During Shutdown Meeting, Breaks Glass Elephant", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/talking-stick-gop-shutdown-meeting-glass-elephant_us_5a66fd04e4b0022830060a93', 'short_description': '"Nicely Symbolic."', 'date': '2018-01-23'}

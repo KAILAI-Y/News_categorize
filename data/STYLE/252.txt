@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Leslie Jones Just Couldn't Contain Herself During New York Fashion Week", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/leslie-jones-snl-new-york-fashion-week_us_59b493e3e4b0dfaafcf84e82', 'short_description': '“Can #LeslieJones PLEASE be my hype woman at every fashion show and shoot?!"', 'date': '2017-09-10'}

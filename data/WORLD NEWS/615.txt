@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.N. Security Council Imposes New Sanctions On North Korea', 'authors': 'Rodrigo Campos and Hyonhee Shin, Reuters', 'link': 'https://www.huffingtonpost.com/entry/un-north-korea-sanctions_us_5a3d507fe4b025f99e16f9f5', 'short_description': 'Tensions have been rising over North Korea’s nuclear and missile programs.', 'date': '2017-12-22'}

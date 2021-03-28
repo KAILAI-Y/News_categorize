@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Cleveland Indians To Abandon Racist Chief Wahoo Logo Next Year', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/cleveland-indians-chief-wahoo-logo-going-away_us_5a6f5ba8e4b0ddb658c94027', 'short_description': 'The ban includes only on-field displays of the logo.', 'date': '2018-01-29'}

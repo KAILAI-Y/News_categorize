@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'German Kindergartens To Report Parents For Refusing Vaccine Advice Under New Law', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/german-vaccine-law_us_59287fa6e4b0df57cbfba205', 'short_description': 'Vaccination rules are being tightened across Europe.', 'date': '2017-05-26'}

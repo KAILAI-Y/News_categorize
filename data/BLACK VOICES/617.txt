@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Trump Supporters Invite Black Lives Matter On Stage In A Rare Moment Of Unity', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/black-lives-matter-protesters-at-moar-trump-rally_us_59c19970e4b0f22c4a8d694f', 'short_description': "This isn't something you see very often.", 'date': '2017-09-20'}

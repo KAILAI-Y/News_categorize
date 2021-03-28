@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Temptations Lead Singer Dennis Edwards Dead At 74', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/temptations-dennis-edwards-dead-74_us_5a74c8efe4b01ce33eb2a296', 'short_description': 'Edwards sang lead on hits like "Cloud Nine" and "Ball Of Confusion."', 'date': '2018-02-02'}

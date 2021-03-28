@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "EPA Administrator Scott Pruitt's First Class Habit Costing Taxpayers Thousands", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-first-class_us_5a80e717e4b044b3821eabbd', 'short_description': 'The agency often cites unspecified security reasons for the premium bookings.', 'date': '2018-02-12'}

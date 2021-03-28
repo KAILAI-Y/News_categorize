@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Roseanne Jokes Her National Anthem Was 'Better' Than Fergie's", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/roseanne-barr-fergie-national-anthem_us_5a8b1014e4b05c2bcace097f', 'short_description': "The TV star's 1990 version just might have been replaced as the all-time worst.", 'date': '2018-02-19'}

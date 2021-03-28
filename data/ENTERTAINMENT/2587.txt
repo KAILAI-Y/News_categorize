@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '50 Cent Says Trump Offered Him $500,000 To Help Win Over Black Voters', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/50-cent-trump-2016-campaign_us_59cd0a00e4b0210dfdfc874c', 'short_description': '"I was like, ‘Nah, that’s not good money.’"', 'date': '2017-09-28'}

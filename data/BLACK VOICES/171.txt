@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Donald Glover Disputes Idea He Was 'Too Busy' For 'Deadpool,' Tweets Mock Script", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/donald-glover-deadpool_us_5abbb946e4b06409775c47ed', 'short_description': 'Behold what could have been.', 'date': '2018-03-28'}

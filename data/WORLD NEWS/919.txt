@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "What's Next In Spain And Catalonia's Month Of Political Chaos", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/spain-catalonia-political-chaos_us_59f37b90e4b07fdc5fbe066c', 'short_description': 'Catalonia declared independence on Friday. Minutes later, Spain imposed direct rule.', 'date': '2017-10-27'}

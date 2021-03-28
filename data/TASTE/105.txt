@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "McDonald's Is Testing Out A Vegan Burger", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/mcdonalds-vegan-burger-mcvegan_us_59d92818e4b046f5ad98a0ed', 'short_description': 'Sadly for U.S. veg-heads, the "McVegan" is currently only in Finland.', 'date': '2017-10-07'}

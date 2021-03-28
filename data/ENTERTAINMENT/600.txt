@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'American Horror Story' Season 8 To Be Set In The Very Near, Very Scary Future", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/american-horror-story-season-8-to-be-set-in-the-very-near-very-scary-future_us_5acb9df6e4b07a3485e71c0d', 'short_description': "October 2019, what's good?", 'date': '2018-04-09'}

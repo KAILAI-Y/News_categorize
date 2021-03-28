@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Passes Massive Tax Cuts For The Rich In Middle Of The Night', 'authors': 'Matt Fuller and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/senate-passes-tax-bill_us_5a21da79e4b0a02abe91412e', 'short_description': "Wasn't this supposed to be for the middle class?", 'date': '2017-12-02'}

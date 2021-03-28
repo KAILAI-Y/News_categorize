@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's 'Embarrassing Spectacle' At Boy Scout Jamboree Panned By Former Scouts", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-boy-scouts_us_5976c605e4b0e201d5777fe7', 'short_description': '"We were taught never to make our service about politics."', 'date': '2017-07-25'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's The Reason Oprah Is So Dang Big In 'A Wrinkle In Time'", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/oprah-a-wrinkle-in-time-movie_us_5aa2b138e4b07047bec5f9ea', 'short_description': "Writer Jennifer Lee answers your lingering questions about the film's diversions from the book.", 'date': '2018-03-12'}

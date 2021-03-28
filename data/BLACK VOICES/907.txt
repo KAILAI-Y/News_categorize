@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Bill Maher Has Superficial Debate About 'N***a' After Controversy", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-superficial-debate-apology-racial-slur_us_593ac9f3e4b024026878bac2', 'short_description': "Ice Cube had to school the HBO host, who still doesn't seem to get it.", 'date': '2017-06-10'}

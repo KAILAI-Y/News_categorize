@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Carrie Underwood Recovering After Breaking Wrist In Fall', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/carrie-underwood-injured-in-fall_us_5a0897b2e4b0e37d2f38288c', 'short_description': 'The 34-year-old singer said she\'ll “be alright," but she might need some time.', 'date': '2017-11-12'}

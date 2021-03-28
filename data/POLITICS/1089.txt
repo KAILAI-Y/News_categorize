@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jimmy Carter Zings Donald Trump: Apparently, America Wants A Jerk For President', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-carter-donald-trump-stephen-colbert_us_5abf34a6e4b055e50acdcc2d', 'short_description': '"I never knew it before."', 'date': '2018-03-31'}

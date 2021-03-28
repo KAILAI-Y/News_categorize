@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Filipino Artists Protest Donald Trump's Visit With Swastika Effigy", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/trump-swastika-effigy_us_5a09eaa4e4b0b17ffcdf6b57', 'short_description': 'The 13-foot-tall Trump effigy shows him holding money, a gun, a nuclear missile and an excavator.', 'date': '2017-11-13'}

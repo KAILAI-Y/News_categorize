@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kim Kardashian Slammed For Calling Her Cornrows 'Bo Derek Braids'", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-cornrows-bo-derek_us_5a6f3454e4b06e253269d4e7', 'short_description': 'Your fave is problematic, once again.', 'date': '2018-01-29'}

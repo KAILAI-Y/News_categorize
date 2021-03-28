@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Lawmaker Breaks Chicken's Neck On Camera To Announce Anti-Abortion Bill", 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/abortion-law-missouri-chicken_us_593fea31e4b0e84514ee4648', 'short_description': 'He insists that he "wasn\'t trying to make a comparison."', 'date': '2017-06-13'}

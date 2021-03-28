@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '5 Lessons In The History Of American Defeat', 'authors': 'TomDispatch, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/america-last_us_5ad4acd4e4b0d9951b85ba06', 'short_description': 'A tale of American hubris', 'date': '2018-04-16'}

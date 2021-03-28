@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Hugh Hefner Fans On Twitter Thank Him For The Articles', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/hugh-hefner-fans-twitter-articles_us_59cc73d1e4b02aef6cd774af', 'short_description': '"I really liked him for his articles."', 'date': '2017-09-28'}

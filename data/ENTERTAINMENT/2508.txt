@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "John Cleese's Bumbling Guide To Football Is A Total Touchdown", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/john-cleese-explaining-american-football_us_59d7245ce4b046f5ad9753e2', 'short_description': '“Why do you call it football? It’s handball!"', 'date': '2017-10-06'}

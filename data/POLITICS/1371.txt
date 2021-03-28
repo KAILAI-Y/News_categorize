@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Americans Say 2-to-1 That We Never Should Have Invaded Iraq', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/americans-2-to-1-iraq-war-mistake_us_5ab0174fe4b0e862383a7c25', 'short_description': 'Fewer than a quarter think history will judge the Iraq War as even a partial success.', 'date': '2018-03-19'}

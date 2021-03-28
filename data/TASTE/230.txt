@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Narragansett Beer Had To Consider Trump's White House Invitation 'Long And Hard'", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/narragansett-invited-to-white-house_us_596f5b44e4b0a03aba867244', 'short_description': "Most fans of the Rhode Island beer aren't exactly in Trump's fanbase.", 'date': '2017-07-19'}

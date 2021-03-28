@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Robert Wilkie Picked As New VA Secretary In Surprise Announcement', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/robert-wilkie-va-secretary_us_5afef7a8e4b0a046186b2a0a', 'short_description': '"He doesn\'t know this yet," Trump admitted.', 'date': '2018-05-18'}

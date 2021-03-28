@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Young Thug To Donate Money From NYC Show To Planned Parenthood', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/young-thug-planned-parenthood_us_5956a23ee4b05c37bb7e4301', 'short_description': '"I was a teenage parent."', 'date': '2017-06-30'}

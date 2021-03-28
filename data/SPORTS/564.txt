@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Mountain Climber Makes History With Rope-Free, Death-Defying Ascent At Yosemite', 'authors': 'Kim Bellware', 'link': 'https://www.huffingtonpost.com/entry/alex-honnold-el-capitan_us_59347070e4b02478cb9cbe4c', 'short_description': 'Alex Honnold\'s feat was hailed as "the moon landing of free-soloing."', 'date': '2017-06-04'}

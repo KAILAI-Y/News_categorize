@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Twitterverse Trolls iPhone X's New Security Feature With Arya Stark Jokes", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/iphone-x-game-of-thrones-arya-stark_us_59b923fbe4b0edff9717eca8', 'short_description': '"A girl can unlock any iPhone X in the world."', 'date': '2017-09-13'}

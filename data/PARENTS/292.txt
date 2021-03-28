@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Mom Calms Son's Nerves On First Day Of School With Cute 'Hug Button'", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/mom-calms-sons-nerves-on-first-day-of-school-with-cute-hug-button_us_59c3d35ce4b063b25318744d', 'short_description': 'And other parents are loving it.', 'date': '2017-09-21'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Al Franken Issues Another Apology: 'I Crossed A Line'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/al-franken-apology-crossed-line_us_5a1681e6e4b064948072f2c4', 'short_description': 'Earlier this week, two more women accused the senator of inappropriate touching.', 'date': '2017-11-24'}

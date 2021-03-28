@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Twitter #PutStarWarsInOtherFilms And It Was Universally Entertaining', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-put-star-wars-in-other-films_us_5b098875e4b0568a880be92c', 'short_description': 'There\'s no such thing as too much "Star Wars."', 'date': '2018-05-26'}

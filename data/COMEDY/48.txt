@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Mocks Proposal To Hang Trump And Pence Portraits At Post Offices', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-pence-post-office_us_5af68d69e4b0e57cd9f9bba4', 'short_description': 'The comedian has a workaround.', 'date': '2018-05-12'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'The Los Angeles Times Votes To Unionize', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/la-times-union-vote_us_5a4d4c38e4b025f99e1fb8a1', 'short_description': 'A day before the vote, senior editors had made a last-ditch effort to quash the unionizing campaign.', 'date': '2018-01-19'}

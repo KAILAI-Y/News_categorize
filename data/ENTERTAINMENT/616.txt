@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jim Carrey’s New Painting Gives Scott Pruitt The World’s Worst Pipeline Project', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jim-carrey-scott-pruitt_us_5ac71518e4b09d0a1191fe10', 'short_description': '"Need your pipeline approved? Do it through Pruitt!"', 'date': '2018-04-06'}

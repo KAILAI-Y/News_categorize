@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Frustrated Air Travelers Report Massive System Outages Across The World', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/airlines-system-outages_us_59ccc65be4b0210dfdfc3421', 'short_description': 'The issue was related to the passenger booking system that many airlines use.', 'date': '2017-09-28'}

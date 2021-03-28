@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Lawmaker Hit With Ethics Complaint After Renting Campaign Donors' Condo", 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/ron-desantis-ethics-complaint-condo_us_5ad75ce0e4b03c426daa73ce', 'short_description': 'It looks inappropriate, but Rep. Ron DeSantis may not have broken any rules.', 'date': '2018-04-19'}

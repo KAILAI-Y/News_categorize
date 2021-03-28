@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kellyanne Conway Has Some Thoughts On Sean Spicer's Emmys Appearance", 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-sean-spicer-emmys_us_59bfe10de4b02da0e143b0e2', 'short_description': 'Shockingly, she did not love the awards ceremony overall.', 'date': '2017-09-18'}

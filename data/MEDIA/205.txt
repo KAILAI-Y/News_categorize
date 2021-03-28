@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Watch GOP Memo Author Devin Nunes Flee From A Simple Question', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/devin-nunes-flees-question_us_5a7a90f5e4b0d0ef3c0a93b2', 'short_description': 'The California congressman bolts when asked about his anti-FBI memo .', 'date': '2018-02-07'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Charlottesville Street Renamed In Honor Of Heather Heyer', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/charlottesville-street-renamed-in-honor-of-heather-heyer_us_5a3a8faae4b06d1621b1211c', 'short_description': 'The 32-year-old was killed while protesting a white supremacist rally.', 'date': '2017-12-20'}

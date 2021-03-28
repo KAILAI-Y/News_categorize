@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Laura Dern Calls Out A Culture Of Silencing Victims In Golden Globes Speech', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/laura-dern-culture-silencing-victims-golden-globes_us_5a52d805e4b089e14dbc5ac0', 'short_description': '"May we also please protect and employ them," she added.', 'date': '2018-01-08'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Very Extra 4-Year-Old Outshines Pre-K Class In 'Moana' Performance", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/4-year-old-sings-disney-moana-song_us_59499f71e4b0177d0b8a434e', 'short_description': 'Sophia is a natural-born star.', 'date': '2017-06-21'}

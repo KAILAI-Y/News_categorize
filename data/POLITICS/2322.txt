@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Real Purpose Of The Nunes Memo', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/devin-nunes-memo-plot_us_5a74a311e4b01ce33eb27fde', 'short_description': 'Despite the distraction, the memo shows no "deep state" plot to elect Hillary Clinton.', 'date': '2018-02-02'}

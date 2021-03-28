@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Joe Kennedy III Reveals How His GOP Counterparts Really Feel About Donald Trump's Tweets", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/joe-kennedy-iii-donald-trump_us_5ac5cd7be4b056a8f59856bc', 'short_description': '"Of course they do."', 'date': '2018-04-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Susan Collins Says Threats Will Not Change Her Health Care Vote', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/susan-collins-defies-health-care-threats_us_597e0e41e4b02a4ebb760a32', 'short_description': 'The Maine Republican remains defiant.', 'date': '2017-07-30'}

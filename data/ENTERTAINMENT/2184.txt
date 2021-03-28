@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Will Ferrell Makes TV Plea For LeBron James To Run For President', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/will-ferrell-lebron-james-president_us_5a043fe7e4b03deac08b75c7', 'short_description': '"We need you."', 'date': '2017-11-09'}

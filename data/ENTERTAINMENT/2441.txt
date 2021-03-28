@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tom Hanks Calls BS On Harvey Weinstein's Apology", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/tom-hanks-harvey-weinstein-apology_us_59dfc2c7e4b0a52aca168e3c', 'short_description': "The actor joins the growing list of stars who've spoken out against the now-disgraced producer.", 'date': '2017-10-12'}

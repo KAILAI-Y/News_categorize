@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Megyn Kelly Reveals She Complained To Fox News About Bill O'Reilly", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/megyn-kelly-bill-oreilly-fox-harassment_us_59ee045ae4b0958c46836f73', 'short_description': 'Kelly delivered a pointed monologue Monday about her former colleague.', 'date': '2017-10-23'}

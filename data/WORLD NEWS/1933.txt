@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Defiant Londoners Sit In The Street For Ramadan Evening Meal After High-Rise Fire', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/londoners-iftar_us_5941a745e4b09ad4fbe52759', 'short_description': 'At the end of a somber day, Muslims gathered together to break the fast as a community.', 'date': '2017-06-14'}

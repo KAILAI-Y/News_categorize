@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Former CIA Chief Of Staff Questions Donald Trump's Vague Afghanistan Strategy", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/jeremy-bash-donald-trump_us_599c2d52e4b06a788a2bb98b', 'short_description': '"I think there\'s a real problem with that."', 'date': '2017-08-22'}

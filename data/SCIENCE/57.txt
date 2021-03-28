@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': "One Dead After Rockfall On Yosemite's Famed El Capitan", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/el-capitan-yosemite-death_us_59cc3fc1e4b05063fe0f069c', 'short_description': 'Another climber was injured on the near-vertical slope.', 'date': '2017-09-28'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Firefighters Battle To Control 15 Wildfires Raging In California', 'authors': 'By Marc Vartabedian, Reuters', 'link': 'https://www.huffingtonpost.com/entry/california-wildfires_us_59dc9f2de4b0208970cf7431', 'short_description': 'The blazes have killed at least 13 people and destroyed hundreds of homes and businesses.', 'date': '2017-10-10'}

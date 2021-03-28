@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Yes, I Drove My SUV To The Environmental Protest', 'authors': 'John Halstead, ContributorActivist, Blogger, Earthseed Shaper', 'link': 'https://www.huffingtonpost.com/entry/yes-i-drove-my-suv-to-the-environmental-protest_us_598b1aabe4b030f0e267c8df', 'short_description': 'Activism does not require perfection.', 'date': '2017-08-09'}

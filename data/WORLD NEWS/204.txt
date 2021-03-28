@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Picture This: Shaggy Is Performing At The Queen's Birthday Concert", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/picture-this-shaggy-is-performing-at-the-queens-birthday-concert_us_5ab40650e4b054d118e0f1df', 'short_description': 'Imagine her face during "It Wasn\'t Me."', 'date': '2018-03-22'}

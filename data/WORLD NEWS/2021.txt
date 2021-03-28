@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'UK Labour Leader Jeremy Corbyn Calls On Theresa May To Resign', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/jeremy-corbyn-theresa-may-resign_us_593545e1e4b075bff0f4fa4c', 'short_description': '"We should never have cut the police numbers," he said.', 'date': '2017-06-05'}

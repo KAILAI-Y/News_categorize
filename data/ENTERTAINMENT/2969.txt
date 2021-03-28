@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Bruce Springsteen Locks In Broadway Run This Fall', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/bruce-springsteen-is-broadway-bound_us_598a1bf3e4b0d793738ae728', 'short_description': 'The Boss is Born To Run on the Great White Way this fall.', 'date': '2017-08-09'}

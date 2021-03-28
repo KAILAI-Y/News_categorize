@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Big Bang Theory' Pays Sweetest Tribute To Stephen Hawking In Deleted Scene", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/the-big-bang-theory-stephen-hawking-tribute_us_5af6b039e4b0e57cd9f9cfee', 'short_description': 'The unaired clip may bring tears to your eyes.', 'date': '2018-05-12'}

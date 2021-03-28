@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '2020 Census Will Continue To Count Prisoners Where They Are Incarcerated', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/2020-census-prison-population_us_5a7cb966e4b044b3821b0507', 'short_description': 'The decision could affect how future legislative districts are drawn.', 'date': '2018-02-08'}

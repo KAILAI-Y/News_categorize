@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Channing Tatum's Daughter Reacts Adorably To Jimmy Kimmel's Halloween Candy Prank", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/channing-tatum-halloween-candy-jimmy-kimmel_us_59faddbae4b01b4740483c42', 'short_description': 'Awwww!', 'date': '2017-11-02'}

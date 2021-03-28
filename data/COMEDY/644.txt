@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "These 'Fun Size' Salads May Be The Scariest Trick This Halloween", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/fun-sized-dole-salads-for-halloween_us_59f5d760e4b03cd20b821fcb', 'short_description': '"I would legit call the cops on any house that gave these out."', 'date': '2017-10-29'}

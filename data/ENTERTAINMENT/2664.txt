@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Stephen Colbert Brings Out Sean Spicer To Troll Trump At Emmys', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/stephen-colberts-trolls-trump-in-emmys-opening_us_59bade0ee4b086432b058431', 'short_description': 'Largest audience. Period.', 'date': '2017-09-18'}

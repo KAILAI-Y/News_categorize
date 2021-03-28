@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Workplace Automation Is Happening, And Women Will Be Hit The Hardest', 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/automation-displaces-women-jobs_us_5a671ba8e4b0e5630073361e', 'short_description': 'Almost 60 percent of jobs at risk of being replaced by technology are held by women.', 'date': '2018-01-23'}

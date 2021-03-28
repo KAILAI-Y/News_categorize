@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Protesters Demonstrate Outside Verizon Stores, Congressional Offices To Save Net Neutrality', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/net-neutrality-fcc-protests_us_5a2a147ce4b069ec48ac307e', 'short_description': '"It\'s time to fret, we cannot let them have the net."', 'date': '2017-12-08'}

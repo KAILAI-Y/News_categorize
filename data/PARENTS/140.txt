@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Ellen DeGeneres Surprises Military Family In Tear-Jerking Video', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/ellen-degeneres-surprises-military-family-in-tear-jerking-video_us_59fa1817e4b01b474047daa0', 'short_description': 'The talk show host worked her magic once again.', 'date': '2017-11-01'}

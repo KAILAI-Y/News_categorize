@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Chemical Weapons Likely Used In Syria, Watchdog Finds', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/syria-likely-chemical-weapons_us_5afc039be4b06a3fb50c301c', 'short_description': 'The attack in February left 11 people in need of emergency treatment.', 'date': '2018-05-16'}

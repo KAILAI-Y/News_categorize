@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Amazing Video Shows Coconut Crab Killing Bird In Brutal Fashion', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/coconut-crab-live-bird-video_us_5a09cd9ee4b0bc648a0cb800', 'short_description': "You probably don't want to see one of these on a dark night.", 'date': '2017-11-13'}

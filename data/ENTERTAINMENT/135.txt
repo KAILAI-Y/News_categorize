@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Hilary Duff Publicly Drags Neighbor Who Keeps Her Up ‘All Night’', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/hilary-duff-goes-scorched-earth-on-neighbor-who-keeps-her-awake-all-night_us_5afc6923e4b0a59b4dffdb64', 'short_description': 'What nightmares are made of.', 'date': '2018-05-16'}

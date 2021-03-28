@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Chadwick Boseman To Deliver Howard University Commencement Speech', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/chadwick-boseman-to-deliver-howard-university-commencement-speech_us_5ad8982de4b029ebe0219c46', 'short_description': 'Wakanda is coming to the Mecca.', 'date': '2018-04-19'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Black-ish' Creator Kenya Barris Is Writing The 'Coming to America' Sequel", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/black-ish-creator-kenya-barris-is-writing-the-coming-to-america-sequel_us_59cd439ae4b0300a59ac0b0b', 'short_description': "It's really happening.", 'date': '2017-09-28'}

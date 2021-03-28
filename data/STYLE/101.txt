@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "The Most Jaw-Dropping Looks From The 2017 Victoria's Secret Fashion Show", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/2017-victorias-secret-fashion-show_us_5a12e94ae4b0dd63b1abe4a2', 'short_description': 'The Angels have landed.', 'date': '2017-11-20'}

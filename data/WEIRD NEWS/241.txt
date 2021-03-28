@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Kim Jong Un Posing With Millions Of Spuds Sparks Photo-Editing Battle', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kim-jong-un-potato-photo-editing-contest_us_5a2b9b93e4b0a290f050fabb', 'short_description': 'Hello, Mr. Potato Head!', 'date': '2017-12-09'}

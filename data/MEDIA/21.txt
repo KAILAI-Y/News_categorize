@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Christiane Amanpour Heading Up New PBS Show, Replacing Charlie Rose', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/christiane-amanpour-pbs-charlie-rose_us_5af1eadee4b041fd2d2bc685', 'short_description': "She's the latest woman to replace a man disgraced by sexual misconduct allegations.", 'date': '2018-05-08'}

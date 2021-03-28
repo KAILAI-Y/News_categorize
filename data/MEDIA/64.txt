@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Fox News' Judicial Analyst Absolutely Shreds Hannity's Cohen Claim", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/andrew-napolitano-sean-hannity_us_5ad6aac8e4b029ebe01efafd', 'short_description': '“He can’t have it both ways," says Andrew Napolitano.', 'date': '2018-04-18'}

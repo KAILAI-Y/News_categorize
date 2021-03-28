@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Prince Harry And Meghan Markle Announce Their Wedding Date', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/prince-harry-and-meghan-markle-announce-their-wedding-date_us_5a33c929e4b01d429cc7f646', 'short_description': 'The couple got engaged last month.', 'date': '2017-12-15'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'First Fatality In Southern California Wildfires Confirmed', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/first-fatality-in-southern-california-wildfires-confirmed_us_5a2c4c6be4b073789f6a581c', 'short_description': 'A 70-year-old woman died in her car along an evacuation route.', 'date': '2017-12-09'}

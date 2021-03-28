@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'HuffPost Headline Quiz: July 7 To July 13', 'authors': 'Christine Roberts and Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/huffpost-headline-quiz-july-7-to-july-13_us_5967cee7e4b0174186263b70', 'short_description': 'Ready for a challenge?', 'date': '2017-07-14'}

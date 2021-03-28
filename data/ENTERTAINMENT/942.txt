@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Frances McDormand Loses Her Oscar At Governors Ball', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/frances-mcdormand-loses-her-oscar-at-governors-ball_us_5a9d30e8e4b0a0ba4ad5de06', 'short_description': 'The "Three Billboards" star  was "crying emotionally."', 'date': '2018-03-05'}

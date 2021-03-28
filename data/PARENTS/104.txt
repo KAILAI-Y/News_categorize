@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "What Really Goes Into Creating Those Holiday 'Hottest Toys' Lists", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/what-really-goes-into-creating-those-holiday-hottest-toys-lists_us_5a12fc3de4b0bfa88c1bcb90', 'short_description': 'One mainstream company starts two years (!) in advance.', 'date': '2017-11-21'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Eleventh State Adopts A Simple Reform To Get More People Registered To Vote', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/maryland-automatic-voter-registration_us_5ac7b375e4b09d0a11938232', 'short_description': '“It’s a rare win-win-win.”', 'date': '2018-04-06'}

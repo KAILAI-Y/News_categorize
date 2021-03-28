@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Judge Tosses Suit Accusing Trump Business Dealings Of Violating Constitution', 'authors': 'Andrew Chung, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-emoluments-clause_us_5a3c44f1e4b025f99e15ed07', 'short_description': 'The dismissal marks a victory for the president.', 'date': '2017-12-21'}

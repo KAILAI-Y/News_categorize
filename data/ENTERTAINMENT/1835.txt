@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "White Critics Love 'Three Billboards' Like They Love Their Racist Uncles", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/white-critics-three-billboards-racism_us_5a3135eae4b091ca268479f3', 'short_description': "And when they won't engage with race, neither will filmmakers.", 'date': '2017-12-15'}

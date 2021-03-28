@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Catalonia's Deposed Leader Surrenders To Police", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/catalan-puigdemont-arrest-spain_us_59ff1d81e4b04cdbeb33bc73', 'short_description': 'A Spanish judge issued an arrest warrant for Puigdemont after the independence crisis.', 'date': '2017-11-05'}

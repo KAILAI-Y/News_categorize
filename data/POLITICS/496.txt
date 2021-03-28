@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Super PAC Screw-Up: Ad Favorably Compares GOP Candidate To Disgraced Eric Greitens', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/kevin-nicholson-eric-greitens_us_5ae87f55e4b04aa23f2725ff', 'short_description': 'The ad was supposed to help Wisconsin GOP Senate candidate Kevin Nicholson.', 'date': '2018-05-01'}

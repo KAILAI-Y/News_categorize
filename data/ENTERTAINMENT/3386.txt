@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "There Is Now An Actual 'Pretty Little Liars' Exhibit You Can Visit", 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/pretty-little-liars-warner-bros-studio-tour_us_5942e39be4b0f15cd5ba07d1', 'short_description': 'You can mourn the end of show in the place that started it all.', 'date': '2017-06-15'}

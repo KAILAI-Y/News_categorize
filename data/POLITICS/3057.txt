@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'First Rikers Island Jail Facility Set To Close This Summer', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/first-rikers-island-jail-facility-set-to-close-this-summer_us_5a4bc802e4b025f99e1e05cc', 'short_description': "It's part of a larger plan to close all nine facilities on the island.", 'date': '2018-01-02'}

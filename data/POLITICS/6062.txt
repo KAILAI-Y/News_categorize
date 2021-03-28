@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Feeling The Heat In Alabama's Senate Race, Luther Strange Calls For Filibuster Change", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/luther-strange-alabama-moore_us_59aec4d8e4b0b5e531011d13', 'short_description': 'The Republican breaks with his main supporter, Mitch McConnell, on the rule.', 'date': '2017-09-05'}

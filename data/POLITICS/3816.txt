@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Ethics Committee Opens Inquiry Into Al Franken Allegations', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/senate-ethics-committee-franken_us_5a21150ae4b03c44072c810b', 'short_description': 'Several women have accused the senator of groping them.', 'date': '2017-12-01'}

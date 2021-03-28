@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Reading Is Just Looking At A Dead Piece Of Wood For Hours And Hallucinating'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reddit-shower-thoughts-january-2018-part-3_us_5a61cdf3e4b074ce7a0743f2', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-01-19'}

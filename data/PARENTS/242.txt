@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'This Ikea-Themed Family Photo Shoot Is Adorable', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/this-ikea-themed-family-photo-shoot-is-adorable_us_59d78a09e4b072637c43855e', 'short_description': 'Amber and Steven Cox posed for photos at Ikea with their 7-month-old Ezra.', 'date': '2017-10-06'}

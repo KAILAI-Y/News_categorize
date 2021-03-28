@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Lawmaker Mocks Trump’s ‘Great Heart’\xa0In Blistering Response To DACA\xa0Threat', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ileana-ros-lehtinen-trump-daca_us_59ace363e4b0b5e530ff7b31', 'short_description': 'Rep. Ileana Ros-Lehtinen called on Congress to protect Dreamers.', 'date': '2017-09-04'}

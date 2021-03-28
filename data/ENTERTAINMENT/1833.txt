@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Lose Yourself At Eminem's Pop-Up Diner Called 'Mom's Spaghetti'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/eminem-pop-up-diner-moms-spaghetti_us_5a340656e4b01d429cc87501', 'short_description': '🍝 🍝 🍝 🍝 .', 'date': '2017-12-15'}

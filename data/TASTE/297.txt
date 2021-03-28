@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'These Ikea Recipe Sheets Use An Awesome Cooking Hack', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/ikea-recipe-sheets-cooking-hack_us_59452f8be4b06bb7d273788e', 'short_description': 'And the instructions are easier than pretty much anything else at Ikea.', 'date': '2017-06-17'}

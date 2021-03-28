@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrat Larry Krasner Elected Philadelphia District Attorney', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/larry-krasner-philadelphia-district-attorney_us_5a026984e4b04e96f0c6433a', 'short_description': '“This is what a movement looks like,” he said during a victory speech.', 'date': '2017-11-08'}

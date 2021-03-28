@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Besieged Syrians Are Eating Trash To Survive', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/syria-eastern-ghouta-starvation_us_5a15ccd2e4b025f8e9333e45', 'short_description': 'Children are dying of starvation in the rebel-held region of eastern Ghouta.', 'date': '2017-11-23'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Donald Trump Can't Stop Attacking Black Sports Figures", 'authors': 'Travis Waldron', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-cant-stop-attacking-black-sports-figures_us_59c69b5be4b01cc57ff28eac', 'short_description': 'The president wants athletes to "stick to sports." He\'s only ensuring they won\'t.', 'date': '2017-09-23'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "James Clapper: 'Watergate Pales' In Comparison To Russia Scandal", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/james-clapper-watergate_us_5937b6ace4b01fc18d3ec5a6', 'short_description': '“I lived through Watergate,” he said. “It was a scary time."', 'date': '2017-06-07'}

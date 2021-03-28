@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Court Rules Adnan Syed Of 'Serial' Podcast Has The Right To A New Trial", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/adnan-syed-serial-podcast-new-trial_us_5abd1f47e4b03e2a5c7a6dd1', 'short_description': 'But prosecutors could still appeal that decision.', 'date': '2018-03-29'}

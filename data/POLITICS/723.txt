@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Tennessee Republicans Punish Memphis For Removing Confederate Statues', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/tennessee-republicans-memphis-confederate-statues_us_5ad7556de4b0e4d0715c55a9', 'short_description': 'The majority-black city is out $250,000 in funds for its bicentennial.', 'date': '2018-04-18'}

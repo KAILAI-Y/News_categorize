@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Motorcyclist's Horrifying Brush With Death Caught On Video", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/motorcycle-helmet-cam_us_5ac2e704e4b09712fec39c91', 'short_description': 'Somehow, he walked away in one piece.', 'date': '2018-04-03'}

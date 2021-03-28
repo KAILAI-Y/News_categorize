@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel's 'Skating Or Sneezing' Game Should Be A New Winter Olympic Sport", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-skating-sneezing-game-winter-olympics_us_5a8fd534e4b03b55731aad4a', 'short_description': 'Will we see this at Beijing 2022?', 'date': '2018-02-23'}

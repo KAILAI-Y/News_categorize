@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Farting Passenger Forces Plane To Make Emergency Landing', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/transavia-airlines-farting-passenger_us_5a8af930e4b05c2bcacddc9b', 'short_description': "A fight broke out because the unnamed man couldn't stop passing gas.", 'date': '2018-02-19'}

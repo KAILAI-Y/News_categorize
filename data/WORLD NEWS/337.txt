@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Man Accused Of Breaking Off Terra-Cotta Warrior’s Thumb For Souvenir', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/michael-rohana-terra-cotta-warrior-thumb_us_5a8b2fd9e4b0117adf70ea06', 'short_description': 'Call it a four-finger discount.', 'date': '2018-02-19'}

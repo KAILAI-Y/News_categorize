@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Pope Francis Compares Gossiping Nuns To Terrorists', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/gossiping-nunsare-terrists-sayspope_us_5a6526a6e4b002283003f983', 'short_description': "He says they're worse than Shining Path guerrillas.", 'date': '2018-01-22'}

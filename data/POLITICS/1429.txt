@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's 'Bowling Ball Test' for U.S. Cars Is Just A Goofy Ad", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trumps-bowling-ball-test-for-us-cars-is-just-a-goofy-ad_us_5aab4892e4b05b2217fd8fc2', 'short_description': '"It\'s horrible the way they treat us," the angry president said of Japan.', 'date': '2018-03-16'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Avicii's Family Releases Statement Saying The DJ 'Could Not Go On Any Longer'", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/avicii-death-family-statement_us_5ae1f324e4b02baed1b7d3a5', 'short_description': 'The "Wake Me Up" artist died last week at 28 years old.', 'date': '2018-04-26'}

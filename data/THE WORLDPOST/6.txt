@@ -1,0 +1,1 @@
+{'category': 'THE WORLDPOST', 'headline': 'Why The China-Hollywood Relationship Is Complicated', 'authors': 'Suzanne Gaber', 'link': 'https://www.huffingtonpost.com/entry/china-hollywood-investment_us_59c3cbd3e4b0c90504fc0a01', 'short_description': 'With China, Hollywood must navigate a constantly changing set of rules.', 'date': '2017-09-22'}

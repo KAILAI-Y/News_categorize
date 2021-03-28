@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Los Angeles Thieves Steal Second Ambulance In A Week', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/second-ambulance-stolen-in-los-angeles_us_5acaf2c4e4b0337ad1e97739', 'short_description': 'Crooks hear the siren song.', 'date': '2018-04-09'}

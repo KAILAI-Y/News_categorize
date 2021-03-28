@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Watergate Prosecutor Warns Trump: Pleading The Fifth Is 'Political Suicide'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimm-wine-banks-trump-warning_us_5ae177a3e4b02baed1b6849d', 'short_description': "Jill Wine-Banks says Michael Cohen can get away with it, but Trump can't.", 'date': '2018-04-26'}

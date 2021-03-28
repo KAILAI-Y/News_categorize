@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '2 Men Stabbed To Death Standing Up To Muslim Hate In Portland', 'authors': 'Lee Moran and Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/portland-attack-commuter-train_us_5929362ce4b053f2d2acaf56', 'short_description': 'Police arrested a 35-year-old man with white supremacist ties after the attack.', 'date': '2017-05-27'}

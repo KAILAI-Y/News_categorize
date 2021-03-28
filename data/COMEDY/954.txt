@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah's Plea For Unity: 'Don't Forget, At Your Core You're Americans'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-shooting-unity_us_59420545e4b09ad4fbe5432e', 'short_description': '"Daily Show" host has a simple reminder for a fractured nation.', 'date': '2017-06-15'}

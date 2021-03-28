@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Briefly Responds To Santa Fe School Shooting Before Pivoting', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/trump-responds-santa-fe-shooting-prison-reform_us_5afeef6de4b07309e0578ae8', 'short_description': '“On another note, a very positive note, I\'m honored to be here ..."', 'date': '2018-05-18'}

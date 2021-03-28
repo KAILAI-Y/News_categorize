@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Chloe x Halle On The Importance Of Showing Black Girls Coming Of Age On Screen', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/chloe-x-halle-grownish-interview_us_5aa2a46ce4b086698a9d24b7', 'short_description': '“That personally means so much to us," the "Grown-ish" stars said.', 'date': '2018-03-13'}

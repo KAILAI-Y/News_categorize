@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Edward Snowden Takes On Liz Cheney Over Torture Links To Trump's Pick For CIA", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snowden-attacks-cheney-over-haspel-torture_us_5aab197de4b0c33361af21a2', 'short_description': '"To defend torture is to attack the Constitution.”', 'date': '2018-03-16'}

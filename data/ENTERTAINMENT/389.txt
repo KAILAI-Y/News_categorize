@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Sting Reveals The Weird Way He Met His Current Collaborator, Shaggy', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/sting-reveals-the-weird-way-he-met-shaggy_us_5ae0c831e4b04aa23f1ea959', 'short_description': 'Let’s just say it was a very abrupt first encounter.', 'date': '2018-04-25'}

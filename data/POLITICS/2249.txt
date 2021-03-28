@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Right-Wing Conspiracists Are Pretending The FBI Leaked Anthony Weiner's Contacts", 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/weiner-blumenthal-contacts-leak-fake_us_5a7b1351e4b0d0ef3c0b773b', 'short_description': "The list isn't Weiner's, and it's been online for over a year.", 'date': '2018-02-07'}

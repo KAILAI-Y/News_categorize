@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Janet Yellen And The Fed: Progressives Should Pay Attention', 'authors': 'Dean Baker, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/janet-yellen-and-the-fed-progressives-should-pay-attention_us_59c06118e4b082fd4205b95c', 'short_description': 'Yellen is likely to be good for the economy.', 'date': '2017-09-19'}

@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Racists Flip Out Over Artist’s 'Harry Potter' Picture With Black Hermione", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/harry-potter-hermione-racists-artist_us_59c258fee4b0f22c4a8de570', 'short_description': 'But illustrator Anoosha Syed had the final word.', 'date': '2017-09-20'}

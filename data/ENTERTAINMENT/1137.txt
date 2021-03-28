@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ryan Reynolds' Valentine's Day Gift To Blake Lively Is Just So Him", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/ryan-reynolds-valentines-day-gift-to-blake-lively-is-just-so-him_us_5a857c19e4b0774f31d27dff', 'short_description': 'This one takes the cake.', 'date': '2018-02-15'}

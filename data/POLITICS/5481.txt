@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mitch McConnell Is Having A Terrible, Horrible, No Good, Very Bad Week', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/mitch-mcconnell_us_59cc036de4b02aef6cd72632', 'short_description': "Roy Moore beat his preferred candidate in Alabama. Now the GOP must answer for Moore's controversial past.", 'date': '2017-09-27'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Gets Mocked After Showing He Really Doesn’t Know What The Post Office Does', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-post-office-amazon_us_5abdd6cbe4b0f112dc9b3bc0', 'short_description': 'The president slammed Amazon for using the USPS as a "Delivery Boy."', 'date': '2018-03-30'}

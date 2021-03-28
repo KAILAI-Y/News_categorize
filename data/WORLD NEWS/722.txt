@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Threat From North Korea No Longer Hypothetical, Arms Experts Warn', 'authors': 'Nick Visser and Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/north-korea-missile-launch_us_5a1ddc4fe4b0dc52b029ea97', 'short_description': '“It’s the next logical step that we were expecting."', 'date': '2017-11-29'}

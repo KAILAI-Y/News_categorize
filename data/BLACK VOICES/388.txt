@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Savvy Hairstylist Turns Mugshot Into Marketing Opportunity', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/shia-yearwood-mugshot_us_5a564796e4b0a300f905139f', 'short_description': '"I felt like I look good in my picture," the stylist said.', 'date': '2018-01-10'}

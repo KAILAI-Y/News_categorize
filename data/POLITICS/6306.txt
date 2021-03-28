@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Voters Recognize GOP Lawmakers Are Backing Away From Him', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-voters-congress-loyalty-poll_us_59a06c15e4b06d67e3377492', 'short_description': 'But rank-and-file supporters are still more loyal to the president than the party.', 'date': '2017-08-25'}

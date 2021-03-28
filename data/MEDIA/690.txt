@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Newspaper Formally Apologizes To Wookiees For A 40-Year-Old 'Star Wars' Mistake", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/newspaper-wookiee-apology_us_5927bdc9e4b0df34c35b1119', 'short_description': 'Sorry, Chewie.', 'date': '2017-05-26'}

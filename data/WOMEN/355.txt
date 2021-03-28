@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Legendary Swimmer Diana Nyad Opens Up About Her Sexual Assault', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/diana-nyad-sexual-assault_us_5a045189e4b0f76b05c3bb0e', 'short_description': '"We need to prepare coming generations to speak up in the moment," she said.', 'date': '2017-11-09'}

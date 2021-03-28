@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Women Film Themselves On A Double Date And One Dude Ruins It', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/women-film-themselves-on-a-double-date-and-one-dude-ruins-it_us_59a8273ae4b0a8d14573c7ee', 'short_description': "He's not a people person. Good luck with that.", 'date': '2017-08-31'}

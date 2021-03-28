@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Diandra Forrest Is The First Model With Albinism To Star In A Major Beauty Campaign', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/first-albino-model-beauty-campaign_us_59de2fc8e4b04fc4e1ea732f', 'short_description': "It's about time.", 'date': '2017-10-11'}

@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Nigerian Women With This Disfiguring Disease Face Pain And Isolation', 'authors': 'Hannah McNeish', 'link': 'https://www.huffingtonpost.com/entry/project-zero-nigeria-lymphatic-filariasis-elephantiasis_us_59e64483e4b0d0e4fe6b7c84', 'short_description': '"My husband is not happy about this whole thing."', 'date': '2017-10-20'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Flock Of Geese Poops On Disneyland Party', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/geese-disneyland_us_593bb140e4b0c5a35c9fde4a', 'short_description': 'Hazmat crews attended the theme park after 17 visitors were struck with fecal matter.', 'date': '2017-06-10'}

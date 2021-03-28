@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Diana Taurasi Becomes WNBA's All-Time Leading Scorer", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/diana-taurasi-becomes-wnbas-all-time-leading-scorer_us_5947ae5ee4b01eab7a2ef5a5', 'short_description': 'Congrats to this wonder woman.', 'date': '2017-06-19'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Turkish Police Move To Disperse Istanbul Pride Rally', 'authors': 'Eline Gordts', 'link': 'https://www.huffingtonpost.com/entry/istanbull-pride_us_594fcd82e4b02734df2b0806', 'short_description': 'The march had been banned for the third year in a row.', 'date': '2017-06-25'}

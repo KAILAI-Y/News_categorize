@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Change.org Petition Asks Netflix To Replace Kevin Spacey With Kevin James On 'House Of Cards'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/kevin-spacey-kevin-james-petition_us_5a00cd2ae4b066c2c0399be9', 'short_description': 'Well, they\'re both named "Kevin."', 'date': '2017-11-06'}

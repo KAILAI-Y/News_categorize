@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Stoners Loving Donald Trump Jr.'s 'Democracy Dies In Dankness' Tweet", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-dankness-tweet_us_5a737e0de4b06ee97af0d663', 'short_description': 'This typo might be the junior Trump\'s "covfefe."', 'date': '2018-02-01'}

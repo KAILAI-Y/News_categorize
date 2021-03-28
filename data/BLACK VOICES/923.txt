@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Bill Maher Jokes He's A 'House N****r' On 'Real Time'", 'authors': 'Carla Herreria and Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-racial-slur-real-time-joke_us_59322e55e4b075bff0f3aaaa', 'short_description': 'And his audience applauds.', 'date': '2017-06-03'}

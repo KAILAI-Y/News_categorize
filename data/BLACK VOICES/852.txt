@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': '14 Unforgettable Moments From The 2017 BET Awards', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/14-best-moments-from-the-2017-bet-awards_us_595060e9e4b0da2c731c5e56', 'short_description': "This year's show definitely had its lit moments.", 'date': '2017-06-26'}

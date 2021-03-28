@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': '6 Things That Always Go On Sale In June', 'authors': 'PureWow, ContributorWhat your girl crush reads online', 'link': 'https://www.huffingtonpost.com/entry/6-things-that-always-go-on-sale-in-june_us_59301003e4b00afe556b0b59', 'short_description': 'Cue the back-to-school savings.', 'date': '2017-06-01'}

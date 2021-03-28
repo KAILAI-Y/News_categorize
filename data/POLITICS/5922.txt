@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Steve Bannon Says Trump Firing Comey May Be Biggest Mistake In Modern Politics', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-comey-charlie-rose_us_59b5e0cfe4b0b5e531070b47', 'short_description': '"If James Comey had not been fired, we would not have a special counsel."', 'date': '2017-09-11'}

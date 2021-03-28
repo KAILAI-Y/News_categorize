@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'CBS Cancels Jeremy Piven Show Amid Sexual Assault Allegations', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/wisdom-of-the-crowd-canceled-jeremy-piven_us_5a1c8341e4b0e2ddcbb20ff4', 'short_description': '"Wisdom of the Crowd" will end after just one season.', 'date': '2017-11-27'}

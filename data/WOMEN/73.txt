@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'President Who Bragged Of Groping Women Declares Sexual Assault Awareness Month', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-sexual-awareness-month_us_5abeaa0ae4b0a47437aaff29', 'short_description': '"Offenders too often evade accountability," Trump said in his proclamation.', 'date': '2018-03-31'}

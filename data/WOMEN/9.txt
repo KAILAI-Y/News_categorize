@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Larry Nassar Victims To Receive $500 Million In Michigan State Settlement', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/larry-nassar-victims-michigan-state-settlement_us_5afc52f2e4b06a3fb50cbf3e', 'short_description': 'In the event of future lawsuits, $75 million will be set aside.', 'date': '2018-05-16'}

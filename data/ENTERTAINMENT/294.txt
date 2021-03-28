@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Roseanne Barr Dreams Of Being Prime Minister Of Israel', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/roseanne-barr-israeli-prime-minister_us_5ae7d47ae4b02baed1bd70c7', 'short_description': '"If God calls me, I\'ll go."', 'date': '2018-05-01'}

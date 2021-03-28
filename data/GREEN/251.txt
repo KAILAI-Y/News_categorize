@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Why Houston Is So Prone To Devastating Floods', 'authors': "Lydia O'Connor and Alexander C. Kaufman", 'link': 'https://www.huffingtonpost.com/entry/houston-flood-history-reason_us_59a2f0e3e4b05710aa5ce9ad', 'short_description': 'Houston has a problem.', 'date': '2017-08-27'}

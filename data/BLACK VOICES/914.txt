@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Neyo Warns Women Not To Go To Tyrese (Or Any Man) For Relationship Advice', 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/neyo-warns-women-not-to-go-to-tyrese-or-any-man-for-relationship-advice_us_5936c44be4b0099e7faf69cc', 'short_description': '"Do what you want.\'', 'date': '2017-06-06'}

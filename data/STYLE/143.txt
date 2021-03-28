@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Naomi Campbell Wears A One-Legged Jumpsuit To Confuse Us All', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/naomi-campbell-wears-a-one-legged-jumpsuit-to-wsj-magazine-awards_us_59fb2f39e4b0415a420a1796', 'short_description': "There's a LOT going on.", 'date': '2017-11-02'}

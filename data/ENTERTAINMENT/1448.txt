@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Cast Of ‘Incredibles 2’ Is Incredibly Good', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/cast-of-incredibles-2_us_5a6660a2e4b002283005c747', 'short_description': 'Pixar announced the cast, along with pictures of Metroville’s newest residents.', 'date': '2018-01-23'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Eric Trump Gets Ravaged On Twitter After His Proud 'Jeopardy!' Moment", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/eric-trump-jeopardy_us_5abc56c0e4b03e2a5c791d93', 'short_description': '"What is cellmate?"', 'date': '2018-03-29'}

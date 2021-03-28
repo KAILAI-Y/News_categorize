@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Here's How To Get Free 2-Day Shipping On Your Black Friday Purchases", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/how-to-get-2-day-shipping-on-your-black-friday-purchases_us_5a0e1081e4b045cf437064c4', 'short_description': 'Move over, Amazon 👋', 'date': '2017-11-16'}

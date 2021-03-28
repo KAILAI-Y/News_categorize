@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'In Symbolic Victory, Iraqi Forces Capture Historic Mosul Mosque From ISIS', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mosul-mosque-recaptured-from-isis_us_5954d214e4b05c37bb7c27ee', 'short_description': 'The insurgents blew up the medieval mosque and its landmark leaning minaret a week ago.', 'date': '2017-06-29'}

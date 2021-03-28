@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Maddie Poppe Wins 'American Idol' After Runner-Up Reveals They're Dating", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/maddie-poppe-wins-american-idol_us_5b03df69e4b0a046186f5b78', 'short_description': '"I win either way," second-place finisher Caleb Lee Hutchinson said.', 'date': '2018-05-22'}

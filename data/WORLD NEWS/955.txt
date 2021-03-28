@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "There's Still A Lot We Don't Know About The Attack In Niger That Killed 4 U.S. Soldiers", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/attack-niger-what-we-know_us_59e9b580e4b0df10767c1f6f', 'short_description': 'How did an ISIS-affiliated cell manage to outgun U.S. Green Berets?', 'date': '2017-10-20'}

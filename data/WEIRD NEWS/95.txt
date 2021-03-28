@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Memes Are Like Inside Jokes Between Millions Of People'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reddit-shower-thoughts-march-2018-second-part_us_5ab4e967e4b008c9e5f65e20', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-03-23'}

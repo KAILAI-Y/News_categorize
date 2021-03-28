@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Clinton Says Angela Merkel Is The Most Important Leader In The Free World', 'authors': 'Yashar Ali', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-angela-merkel_us_59c7c12ce4b0cdc77331ddff', 'short_description': '"I have the highest level of personal regard for her."', 'date': '2017-09-24'}

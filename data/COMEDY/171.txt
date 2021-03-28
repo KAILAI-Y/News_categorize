@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': '2nd-Grader Expertly Schools Donald Trump On How Trade Deficits Work', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-2nd-grader-jimmy-kimmel-trade-deficit_us_5ac745b7e4b0337ad1e6a768', 'short_description': 'This is an education.', 'date': '2018-04-06'}

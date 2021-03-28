@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kanye West Calls Slavery A ‘Choice,’ Gets Schooled On History', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/kanye-west-slavery-tmz_us_5ae8c54ce4b00f70f0ecc118', 'short_description': "TMZ's Van Lathan told him to his face: “You have morphed into something, to me, that is not real.”", 'date': '2018-05-01'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Why This Cancer Survivor Feels ‘More Like A Woman’ Without Breasts', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/why-this-cancer-survivor-feels-more-like-a-woman-without-breasts_us_59762e82e4b0a8a40e8112c9', 'short_description': '“This is how I’m meant to be. This feels as if this is me."', 'date': '2017-07-24'}

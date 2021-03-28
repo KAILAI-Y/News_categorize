@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Uhuru Kenyatta Re-Elected As President Of Kenya', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/uhuru-kenyatta-re-elected_us_598e0e4ee4b0909642970745', 'short_description': 'The opposition has rejected the election result, claiming the process was undermined by fraud.', 'date': '2017-08-11'}

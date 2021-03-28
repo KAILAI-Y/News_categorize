@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Genius Hack Shows How To Use Amazon Prime Now To Help The Homeless', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/amazon-prime-homeless_us_5a38b6bbe4b0860bf4aaaadc', 'short_description': 'A heartwarming video perfectly captures the spirit of the season.', 'date': '2017-12-19'}

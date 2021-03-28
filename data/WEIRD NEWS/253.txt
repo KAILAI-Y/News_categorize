@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Waffle House Customer Walks Brazenly Into Kitchen And Cooks Own Meal At 3 AM', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/waffle-house-customer-cooks-own-meal_us_5a219e83e4b03350e0b69942', 'short_description': '“I was pretty inebriated.”', 'date': '2017-12-02'}

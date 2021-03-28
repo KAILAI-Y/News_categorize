@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Brazil's Former President Found Guilty Of Corruption", 'authors': 'Brad Brooks, Reuters', 'link': 'https://www.huffingtonpost.com/entry/lula-guilty-corruption_us_596658b2e4b005b0fdca8baa', 'short_description': 'Lula was sentenced to nine and a half years in prison. He will appeal the conviction.', 'date': '2017-07-12'}

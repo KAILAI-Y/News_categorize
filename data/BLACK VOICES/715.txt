@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Black Women Told You So', 'authors': 'W. Island, ContributorAnalyst, social justice advocate, and blogger at What We Know', 'link': 'https://www.huffingtonpost.com/entry/black-women-told-you-so_us_59976936e4b03b5e472cef99', 'short_description': 'We black women saw the red flags.', 'date': '2017-08-18'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jordan Klepper Ruins Fox News' Latest Slogan On 'The Opposition'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jordan-klepper-fox-news-slogan_us_5aaa741ee4b0004c0407ef8a', 'short_description': 'You can\'t get more "real" than that.', 'date': '2018-03-15'}

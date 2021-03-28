@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Rand Paul Suffers 5 Broken Ribs, Bruises In Assault At His Kentucky Home [UPDATED]', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/rand-paul-assault-boucher_us_59fe441de4b0c9652fffbbe1', 'short_description': 'FBI investigating to determine if attack was politically-motivated.', 'date': '2017-11-05'}

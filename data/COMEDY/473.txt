@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trump's Statement On Redundancy Is Hilariously Redundant", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trumpredundancy-and-duplication_us_5a333ae3e4b01d429cc760c5', 'short_description': "He's still got the best words.", 'date': '2017-12-15'}

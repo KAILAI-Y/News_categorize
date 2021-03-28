@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ivanka Trump Is Not To Blame For Her Dad's Terrible Policies", 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-blame-for-dad_us_59284a0ce4b0df57cbfb4e97', 'short_description': "Sure, she's bad at her job. But that's not the same as complicity.", 'date': '2017-05-26'}

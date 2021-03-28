@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Sam Smith Announces New Music Coming 'Very, Very, Very, Very Soon'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/sam-smith-announces-new-music-is-coming-very-very-very-very-soon_us_59a83de5e4b07e81d3560685', 'short_description': '"The wait is so nearly over."', 'date': '2017-08-31'}

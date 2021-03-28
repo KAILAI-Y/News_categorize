@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Catholic Malta On The Cusp Of Legalizing Same-Sex Marriage', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/malta-same-sex-marriage_us_595b28b3e4b05c37bb7fdff8', 'short_description': 'The Mediterranean island nation only legalized divorce six years ago, and abortion remains illegal.', 'date': '2017-07-04'}

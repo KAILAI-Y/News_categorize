@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "10 People Who Deserve A Political Talk Show (Who Aren't Bill Maher)", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/10-people-who-deserve-a-political-talk-show-who-arent-bill-maher_us_59359d5ae4b0099e7fae218a', 'short_description': "And they're actually funny.", 'date': '2017-06-05'}

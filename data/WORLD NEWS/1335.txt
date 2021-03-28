@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'How Do Other Nations Memorialize Their Past Atrocities?', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/confederate-statues-slavery-holocaust-memorials_us_5999ba06e4b0a2608a6cdc89', 'short_description': 'The U.S. debate over Confederate statues will look familiar to a lot of nations.', 'date': '2017-08-23'}

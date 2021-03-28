@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jimmy Kimmel Can’t Soften DACA Opponents, Even With A Cute Baby', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-daca_us_5a7192d8e4b0be822ba1b942', 'short_description': '“I think that this country has become cruel," the "Jimmy Kimmel Live" host said.', 'date': '2018-01-31'}

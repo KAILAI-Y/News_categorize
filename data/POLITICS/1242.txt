@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Finally See A Chance To Make Obamacare Better', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/obamacare-elizabeth-warren-bernie-sanders-democrats_us_5ab42b66e4b0decad048532e', 'short_description': "They've been trying to have this conversation for eight years.", 'date': '2018-03-23'}

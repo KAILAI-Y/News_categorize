@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "It's Weird That American Restaurants Serve Ice Water In Winter", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/ice-water-restaurants-american_us_5a5683bce4b08a1f624b0f17', 'short_description': 'But why do we even have ice in our drinks in the first place?', 'date': '2018-01-16'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here’s What Happens When A President Doesn’t Have A Clear Foreign Policy', 'authors': 'S.V. Date and Akbar Shahid Ahmed', 'link': 'https://www.huffingtonpost.com/entry/trump-doctrine-foreign-policy_us_59499756e4b0db570d3767c0', 'short_description': '“There is no Trump doctrine,” one expert says.', 'date': '2017-06-20'}

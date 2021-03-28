@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jennifer Hudson To Play Aretha Franklin In Biopic', 'authors': 'Dave McNary, Variety', 'link': 'https://www.huffingtonpost.com/entry/jennifer-hudson-to-play-aretha-franklin-in-biopic_us_5a6e5f90e4b01fbbefb2db79', 'short_description': 'Clive Davis announced the news at his pre-Grammys party.', 'date': '2018-01-29'}

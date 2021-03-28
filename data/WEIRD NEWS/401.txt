@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Vegan Activists Confront Family Fishing For Dinner At Florida Lake', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/animal-activists-family-fishing-florida-lake_us_5969222ee4b01741862775fa', 'short_description': 'The protesters grabbed a flopping tilapia and threw it back in the water.', 'date': '2017-07-14'}

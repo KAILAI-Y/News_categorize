@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Taps CNBC Commentator To Be Top Economic Adviser: Reports', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-kudlow-economic-adviser_us_5aa95643e4b0600b82ff64be', 'short_description': 'CNBC said the announcement of Trump’s decision could come as soon as Thursday.', 'date': '2018-03-14'}

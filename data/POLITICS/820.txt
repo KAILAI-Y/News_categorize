@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jake Tapper Mocks Trump's Lame Name For James Comey", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/tapper-mocks-trumps-lying-comey-nickname_us_5acff30de4b016a07e9ab26b', 'short_description': '"Lyin\' Comey?" Trump has lied 2,436 times, says CNN host.', 'date': '2018-04-13'}

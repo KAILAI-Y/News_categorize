@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Truck Ad Featuring Ivanka Trump Bashing Roy Moore Trolls Dad's Rally", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/ivanka-ad-trolls-trump-rally_us_5a2b63fbe4b0a290f050ed75', 'short_description': "That's awkward.", 'date': '2017-12-09'}

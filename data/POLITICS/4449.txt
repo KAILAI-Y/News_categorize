@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'People Fed Up With ‘Thoughts And Prayers’ Demand Action After Texas Church Massacre', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sutherland-springs-thoughts-and-prayers_us_59ffd663e4b0c96530005a31', 'short_description': '"Maybe we can try a legislative solution now?"', 'date': '2017-11-06'}

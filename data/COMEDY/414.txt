@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'How That Got In There?' Jimmy Kimmel Spoofs Donald Trump's X-Ray Results", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-donald-trump-xray-medical-examination_us_5a5882b0e4b0720dc4c603a5', 'short_description': "You'll never guess what's inside Trump’s stomach.", 'date': '2018-01-12'}

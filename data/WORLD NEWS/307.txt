@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Over 100 Nigerian Schoolgirls Missing After New Boko Haram Attack', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/nigeria-boko-haram-schoolgirls_us_5a9415a4e4b03b55731e2b69', 'short_description': 'The country\'s president called the incident a "national disaster."', 'date': '2018-02-26'}

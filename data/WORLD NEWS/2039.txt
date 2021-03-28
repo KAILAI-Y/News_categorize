@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "More Than A Thousand Soccer Fans Injured In Stampede In Italy's Turin", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/stampede-soccer-fans-italy-turin_us_59340ea9e4b075bff0f460af', 'short_description': 'About seven people were seriously hurt, including a seven-year-old boy who was trampled.', 'date': '2017-06-04'}

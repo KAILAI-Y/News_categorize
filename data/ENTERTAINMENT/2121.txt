@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Wonder' Makes A Case For The Classic Tear-Jerker", 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/wonder-review_us_5a049ec3e4b0937b51106619', 'short_description': 'Is it mawkish? Maybe. But the Jacob Tremblay film seems to have arrived in the nick of time.', 'date': '2017-11-15'}

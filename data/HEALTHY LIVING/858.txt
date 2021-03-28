@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'My Experience With Vicodin Taught Me That Any Of Us Could Be Tiger Woods', 'authors': 'Ann Brenoff', 'link': 'https://www.huffingtonpost.com/entry/vicodin-tiger-woods_us_592dc0dbe4b0c0608e8bea78', 'short_description': 'Here’s the thing about Vicodin: I felt stoned and then, after a few doses, I didn’t.', 'date': '2017-05-31'}

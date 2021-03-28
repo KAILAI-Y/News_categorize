@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Bruno Mars And Cardi B Kill It In A 'Finesse' Remix For The Ages", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bruno-mars-cardi-b-kill-it-in-a-finesse-remix_us_5a4e191de4b06d1621bd69cb', 'short_description': 'The \'90s never looked so hot as in this "In Living Color" homage vid.', 'date': '2018-01-04'}

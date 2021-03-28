@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Fired FBI Director James Comey Will Testify Publicly About Trump And Russia Investigation', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/james-comey-testify-trump-russia_us_592ef987e4b0e09b11ece4a9', 'short_description': 'Comey has not spoken publicly since the president fired him on May 9.', 'date': '2017-06-01'}

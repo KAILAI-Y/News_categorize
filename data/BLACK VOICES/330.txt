@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'This Girl Dressed Up As Michelle Obama For School, And Michelle Loved It', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-school-project_us_5a74dc9ce4b0905433b41f0f', 'short_description': '"This gets an A+ in my book!" the former first lady tweeted.', 'date': '2018-02-03'}

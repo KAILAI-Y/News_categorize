@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'O.J. Simpson Released From Nevada Prison', 'authors': 'Dan Whitcomb, Reuters', 'link': 'https://www.huffingtonpost.com/entry/oj-simpson-released-from-prison_us_59d0d3d7e4b09538b508c5e0', 'short_description': 'Simpson won his parole in July after 9 years in prison.', 'date': '2017-10-01'}

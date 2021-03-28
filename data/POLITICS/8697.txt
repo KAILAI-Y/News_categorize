@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Like You Never Talked About Hookers With An FBI Director...', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/like-you-never-talked-about-hookers-with-an-fbi-director_us_59387b88e4b0b13f2c66ce04', 'short_description': '...right?', 'date': '2017-06-07'}

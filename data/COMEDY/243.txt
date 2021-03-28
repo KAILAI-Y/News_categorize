@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Unveils Hilarious Recruitment Ad For Donald Trump's 'Space Force'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-space-force-donald-trump_us_5aaa2c54e4b0600b830037c7', 'short_description': '“We’ll teach you all sorts of space skills."', 'date': '2018-03-15'}

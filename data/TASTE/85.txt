@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "This Hidden Message From McDonald's UK Is Hurting People's Eyes", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/this-mcdonalds-uk-ad-with-a-hidden-message-is-hurting-peoples-eyes_us_59ee116de4b00f0861a05e91', 'short_description': "Not lovin' it.", 'date': '2017-10-23'}

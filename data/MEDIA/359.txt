@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Don Lemon On Trump: 'Every Single Day, I'm At A Loss For Words'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/don-lemon-trump-loss-for-words_us_5a1e6ecee4b0dc52b02a5174', 'short_description': '"I don\'t know where we\'ve gone."', 'date': '2017-11-29'}

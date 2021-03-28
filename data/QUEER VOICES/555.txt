@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Gay Soccer Fans Warned To Not Hold Hands In Russia At 2018 World Cup', 'authors': 'Jim Buzinski, Outsports', 'link': 'https://www.huffingtonpost.com/entry/gay-soccer-fans-russia-world-cup_us_5a2042e9e4b037b8ea209851', 'short_description': 'An atmosphere of intolerance makes it dangerous to show same-sex affection.', 'date': '2017-11-30'}

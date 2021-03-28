@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Hall Of Fame Umpire Doug Harvey Dead At 87', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/doug-harvey-dead-umpire_us_5a5c62bae4b04f3c55a4031e', 'short_description': 'Harvey was one of only 10 umpires enshrined in the baseball Hall of Fame.', 'date': '2018-01-15'}

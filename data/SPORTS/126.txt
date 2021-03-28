@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'The Norwegian Curling Team Should Win Gold For Their Pants', 'authors': 'Damon Dahlen', 'link': 'https://www.huffingtonpost.com/entry/norway-curling-pants_us_5a8c4171e4b00e986140232f', 'short_description': 'Pantastic!', 'date': '2018-02-21'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Shreds The Feds For Forcing Kids To Appear In Court Without Lawyers', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-immigration-court_us_5ac1c6c7e4b0f112dc9d6582', 'short_description': '"Last Week Tonight" host calls out a broken system.', 'date': '2018-04-02'}

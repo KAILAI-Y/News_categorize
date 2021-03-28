@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '5 Women Accuse James Franco Of Sexual Misconduct', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/james-franco-sexual-misconduct_us_5a575754e4b08a1f624bc76a', 'short_description': 'The women say in a newspaper article that the actor exploited his power over them.', 'date': '2018-01-11'}

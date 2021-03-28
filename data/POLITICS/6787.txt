@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Now Thinks His 'Fire And Fury' Threat Might Not Have Been Tough Enough", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-north-korea-threat_us_598ca7fce4b08a2472731826', 'short_description': '"North Korea better get their act together."', 'date': '2017-08-10'}

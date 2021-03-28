@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Daily Show' Breaks Down What GOP Excuses Really Mean", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/daily-show-gop-excuses-translator_us_5a06b53ee4b0e37d2f37994a', 'short_description': 'Such as "that\'s fake news."', 'date': '2017-11-11'}

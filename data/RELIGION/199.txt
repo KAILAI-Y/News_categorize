@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "8 Things To Know About Lughnasadh, This Month's Pagan Harvest Festival", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/lughnasadh-2017_us_59820ad7e4b02b36343fb1e0', 'short_description': 'The holiday honors Lugh, the Celtic god of light.', 'date': '2017-08-02'}

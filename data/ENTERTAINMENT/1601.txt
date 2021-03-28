@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'13 Reasons Why' Actor Accused Of Stealing From Elderly People", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/13-reasons-why-actor-bryan-box-accused-stealing_us_5a55328ce4b0b117f88035af', 'short_description': 'At least six people were reportedly victimized.', 'date': '2018-01-09'}

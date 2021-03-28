@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's Message To NFL Players: Shut Up And Play", 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/dixie-chicks-nfl-protest_us_59c93c54e4b06ddf45fa24b0', 'short_description': 'Remember what the Dixie Chicks went through during the Bush administration?', 'date': '2017-09-25'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Hurricane Irma Sucked The Ocean Away From Florida And Bahamas Beaches', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/bahamas-water-receded-hurricane-irma_us_59b49f1de4b0dfaafcf84e86', 'short_description': 'This natural phenomenon occurs during extremely powerful storms.', 'date': '2017-09-10'}

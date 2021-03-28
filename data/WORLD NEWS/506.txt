@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Paris Thieves Steal More Than $5 Million In Jewels From Ritz Hotel', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/paris-theft-ritz-hotel-jewels_us_5a56bea2e4b03bc4d03ded00', 'short_description': 'Robbers armed with hatchets smashed hotel windows before making off with the jewelry.', 'date': '2018-01-11'}

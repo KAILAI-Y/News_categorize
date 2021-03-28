@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Iraq War Built The Modern Democratic Party. What Now?', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/democrats-foreign-policy-2020_us_5aa959dbe4b0f4aaa112ef0f', 'short_description': 'The 2020 presidential elections are a chance for Democrats to move forward.', 'date': '2018-03-19'}

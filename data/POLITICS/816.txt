@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Problem With Facebook Is No One Can Agree On A Metaphor', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/facebook-regulation-railroads_us_5ad0f6c0e4b077c89ce8601f', 'short_description': 'But history may have already handed us the right one.', 'date': '2018-04-13'}

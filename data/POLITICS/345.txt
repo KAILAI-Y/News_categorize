@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Joe Scarborough: Trump's Legal Strategy Is Like 'A Monkey Throwing Poo Against The Wall'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/joe-scarborough-monkey-poo_us_5af1918be4b041fd2d2af5b3', 'short_description': '"It doesn\'t usually turn out well," the MSNBC host said of feces flinging.', 'date': '2018-05-08'}

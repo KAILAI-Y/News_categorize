@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How President Trump Is Enabling White Supremacists', 'authors': 'Andrew Abramson, ContributorOpinion columnist', 'link': 'https://www.huffingtonpost.com/entry/president-trump-enabling-white-supremacists_us_599397f0e4b0afd94eb3f5e4', 'short_description': 'There’s no denying it anymore.', 'date': '2017-08-16'}

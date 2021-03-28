@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Peter Biskind Wrote The Book On Harvey Weinstein. Here's Why He Ignored The Rumors.", 'authors': 'Jason Cherkis', 'link': 'https://www.huffingtonpost.com/entry/peter-biskind-harvey-weinstein_us_59df65cae4b00abf3646bafe', 'short_description': 'The author insists he made the right decision.', 'date': '2017-10-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Tells 2 Blatant Lies About ISIS And Bashar Assad As Lebanese Leader Listens', 'authors': 'Akbar Shahid Ahmed', 'link': 'https://www.huffingtonpost.com/entry/trump-lies-isis-bashar-assad_us_5977a0a2e4b0a8a40e833afa', 'short_description': 'The president even disparaged the efforts of the U.S. military.', 'date': '2017-07-25'}

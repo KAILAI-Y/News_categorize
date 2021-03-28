@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Patton Oswalt Impersonates Roy Moore, Unveils More Fitting Campaign Slogans', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-jimmy-fallon-campaign-slogans_us_5a27c0f1e4b044d16725ecd1', 'short_description': '"Don\'t Google me."', 'date': '2017-12-06'}

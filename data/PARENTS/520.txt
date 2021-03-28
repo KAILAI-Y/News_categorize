@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'How To Win An Argument With A Toddler', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/how-to-win-an-argument-with-a-toddler_us_5978fd90e4b02a8434b37313', 'short_description': '"But why!?"', 'date': '2017-07-27'}

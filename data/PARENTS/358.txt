@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Photographer Takes More Adorable Pics Of Teeny-Tiny Disney Princesses', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/photographer-takes-more-adorable-pics-of-teeny-tiny-disney-princesses_us_59aeecc2e4b0354e440d1d86', 'short_description': 'Moana even has her own boat!', 'date': '2017-09-05'}

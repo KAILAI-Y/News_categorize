@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Moonlight' Director Barry Jenkins Drunkenly Live-Tweets 'Notting Hill'", 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/barry-jenkins-notting-hill-live-tweets_us_5a4e2870e4b0b0e5a7ab4b68', 'short_description': 'This is way more entertaining than actually watching "Notting Hill."', 'date': '2018-01-04'}

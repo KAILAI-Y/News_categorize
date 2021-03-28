@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "It Turns Out Legal Weed In Colorado Hasn't Led To Kids Abusing The Drug", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/teen-pot-use-colorado-legalization_us_5a2f20fae4b01598ac476d3a', 'short_description': 'New data actually shows a slight dip in use among teens.', 'date': '2017-12-12'}

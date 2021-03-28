@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Spider-Man Cheers Up Kids Stuck In Houston Shelter After Harvey Floods', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/spider-man-houston-shelter-harvey-floods_us_59a7cd94e4b07e81d3554b3f', 'short_description': 'Superhero volunteers are doing what they can in Houston.', 'date': '2017-08-31'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nancy Pelosi, Paul Ryan Get Mixed Marks From Their Parties', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/nancy-pelosi-paul-ryan-poll_us_5952b539e4b0da2c731f3d23', 'short_description': 'And more of the latest polling news.', 'date': '2017-06-27'}

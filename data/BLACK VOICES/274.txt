@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "These Photos Of Black Kids Watching 'Black Panther' Highlight Why This Film Was Needed", 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/these-photos-of-black-kids-watching-black-panther-highlight-need-for-this-film_us_5a8ee853e4b005bb0fef340e', 'short_description': 'Welcome to Wakanda.', 'date': '2018-02-22'}

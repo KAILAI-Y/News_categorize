@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Here Are 10 Of The Most LGBTQ-Friendly Universities And Colleges', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/campus-pride-lgbtq-universities_us_59aa4de9e4b0b5e530fee39d', 'short_description': "Campus Pride's annual survey honors schools that lead the way for queer inclusion.", 'date': '2017-09-05'}

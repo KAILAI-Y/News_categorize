@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "9 Of The Best Women's Hanging Toiletry Bags", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/the-best-womens-hanging-toiletry-bags_us_5aa6f9a7e4b03c9edfaed75e', 'short_description': 'A weight has been lifted.', 'date': '2018-03-12'}

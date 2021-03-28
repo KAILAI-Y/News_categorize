@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Narcos' Location Scout Found Dead In Mexico", 'authors': 'Jillian Capewell', 'link': 'https://www.huffingtonpost.com/entry/narcos-location-scout-found-dead-in-mexico_us_59bfccc4e4b0edff971da259', 'short_description': 'Carlos Muñoz Portal, 37, had also worked on films including "Sicario" and "Spectre."', 'date': '2017-09-18'}

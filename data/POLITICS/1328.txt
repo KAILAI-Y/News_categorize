@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Scott Pruitt Went To Italy, And It Only Cost Taxpayers $120,000', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-italy-first-class-travel_us_5ab1a110e4b054d118ddf913', 'short_description': 'Yikes.', 'date': '2018-03-21'}

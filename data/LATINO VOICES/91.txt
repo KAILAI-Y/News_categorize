@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "'Narcos' Teaser Reveals Diego Luna And Michael Peña Will Star In Season 4", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/narcos-diego-luna-michael-pena-season-4_us_5a3988cfe4b06d1621b033c7', 'short_description': "It's unclear whether Pedro Pascal will appear in the new season.", 'date': '2017-12-19'}

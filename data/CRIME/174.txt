@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Alleged 'Nigerian Prince' Email Scammer Arrested In Louisiana", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/nigerian-prince-email-scam-louisiana-man_us_5a47cf97e4b0b0e5a7a6e121', 'short_description': 'He does not appear to be Nigerian or a prince.', 'date': '2017-12-30'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Why Donald Trump's World AIDS Day Statement Falls Flat", 'authors': 'Anna Almendrala', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-world-aids-day-statement_us_5a20bd70e4b0a02abe90049a', 'short_description': 'If he truly wants to end AIDS, he seems to be going about it the wrong way.', 'date': '2017-12-01'}

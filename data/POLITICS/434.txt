@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Describes Paris Terror Attack: 'Boom... Boom... Boom'", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/trump-nra-paris-terror-attack_us_5aecae37e4b0ab5c3d6578cb', 'short_description': 'There were 130 people killed that day. Trump used finger guns to replay the massacre.', 'date': '2018-05-04'}

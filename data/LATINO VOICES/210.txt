@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "This Photo Of Bruno Mars Celebrating 'Versace On The Floor' Video Is 24K Gold", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/this-photo-of-bruno-mars-celebrating-his-new-music-video-is-24k-gold_us_5991e2c7e4b09071f69b9d44', 'short_description': '"Video release party lit!"', 'date': '2017-08-14'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Gorgeous Video Captures An Ocean of Fog In The Grand Canyon', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/grand-canyon-ocean-of-fog_us_5927cb0ee4b06f6080536e41', 'short_description': 'During a rare full cloud inversion, fog appears to "crash" against the rocks.', 'date': '2017-05-26'}

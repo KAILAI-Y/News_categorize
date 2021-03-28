@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "People Sick Of 'Thoughts And Prayers' Demand Action After Florida School Shooting", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/florida-shooting-thoughts-prayers_us_5a851c42e4b0058d5565da26', 'short_description': "They're calling out lawmakers for failing to act.", 'date': '2018-02-15'}

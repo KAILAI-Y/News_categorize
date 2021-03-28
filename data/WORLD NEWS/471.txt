@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '52 Killed In Kazakhstan After Bus Catches Fire', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/kazakhstan-bus-fire_us_5a604fade4b054e351773779', 'short_description': 'Only five passengers managed to escape the burning vehicle.', 'date': '2018-01-18'}

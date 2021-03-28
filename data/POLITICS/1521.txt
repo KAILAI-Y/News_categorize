@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Jr.'s Chocolate Bunny 'Interview' Is A Hilarious New Meme", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-chocolate-rabbit-meme_us_5aa78507e4b03c9edfaf2a85', 'short_description': '"The fake news chocolate bunny media elite."', 'date': '2018-03-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Woman Sneaks In Anti-Ted Cruz Message During Photo With Ted Cruz', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/woman-sneaks-anti-ted-cruz-message-during-photo-op-with-ted-cruz_us_5ab7ea95e4b008c9e5f88c7a', 'short_description': 'The guy makes it too easy sometimes.', 'date': '2018-03-25'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': '10 Facts Everyone Should Know About HPV', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/hpv-facts-you-should-know_us_5a15bfe1e4b09650540f0168', 'short_description': "First thing: Don't stress.", 'date': '2017-11-27'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Michelle Obama Tells Toddler Mesmerized By Her Portrait To 'Keep On Dreaming Big'", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-toddler-twitter-portrait_us_5a9edcd6e4b0e9381c12e2f2', 'short_description': 'They met on Tuesday and had a dance party.', 'date': '2018-03-06'}

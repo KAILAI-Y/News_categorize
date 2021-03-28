@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Rock Can’t Get Down With DJ Khaled’s Refusal To Give Oral Sex', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/the-rock-responds-to-dj-khaled_us_5af04fbde4b041fd2d28c282', 'short_description': 'The star apparently has a PhD in pleasure, and he wants you to know about it.', 'date': '2018-05-07'}

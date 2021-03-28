@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report: Russian Ambassador Said He Discussed Trump Campaign With Jeff Sessions', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/jeff-sessions-sergey-kislyak_us_5972893be4b0e79ec1995f3e', 'short_description': 'The claim contradicts what the attorney general has said about their conversations.', 'date': '2017-07-21'}

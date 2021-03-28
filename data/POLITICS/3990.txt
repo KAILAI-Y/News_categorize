@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Based On His Tweets, Here's What Donald Trump Was Thankful For This Year", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-thanksgiving_us_5a17f6bbe4b064948073af77', 'short_description': "Think tax cuts and Sean Hannity's ratings.", 'date': '2017-11-24'}

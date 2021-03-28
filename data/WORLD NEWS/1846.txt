@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Brussels Bomber Was Moroccan With No History Of Terrorism, Official Says', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/brussels-bomber-background_us_594a4c7de4b0177d0b8aab09', 'short_description': 'He shouted “Allahu akbar” before being shot dead by soldiers on patrol.', 'date': '2017-06-21'}

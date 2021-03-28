@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jon Hendricks, Legendary Jazz And Vocalese Singer, Dies At 96', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/jon-hendricks-dead-dies_us_5a1508c1e4b025f8e9326b3e', 'short_description': "Although he didn't invent vocalese, Hendricks became known as the jazz singer who mastered the art.", 'date': '2017-11-23'}

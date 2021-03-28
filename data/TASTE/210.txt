@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'You Can Thank A Guy Named Bob Butt For The Long Island Iced Tea', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/long-island-iced-tea_us_59808912e4b0d6e28a109ae8', 'short_description': 'Whether you love the drink or hate it, this is a great conversation starter.', 'date': '2017-08-02'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "California's Statewide Ban On Foie Gras Is Getting Revived", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/californias-statewide-ban-on-foie-gras-is-getting-revived_us_59bc2e45e4b0edff971c1709', 'short_description': 'An appeals court overturned a 2015 decision that struck down the ban.', 'date': '2017-09-16'}

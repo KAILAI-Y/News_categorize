@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Used Twitter To Defend Alleged Abusers, But Not To Congratulate U.S. Medal Winners', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-olympics-tweets_us_5a82813be4b01467fcf0c628', 'short_description': 'As Team USA racks up wins, the president has been unusually silent.', 'date': '2018-02-13'}

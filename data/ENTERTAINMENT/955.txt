@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'New York Times Throws Vicious Oscars Shade At Kevin Spacey', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/new-york-times-throws-vicious-shade-at-kevin-spacey_us_5a9d1157e4b0a0ba4ad589c3', 'short_description': 'This tweet will live on in Academy Awards history.', 'date': '2018-03-05'}

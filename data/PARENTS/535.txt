@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Hilarious Tweets Imagine If Famous Movies Were About Parenting', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/hilarious-tweets-imagine-if-famous-movies-were-about-parenting_us_597630d4e4b0c95f375d5340', 'short_description': 'LOL.', 'date': '2017-07-24'}

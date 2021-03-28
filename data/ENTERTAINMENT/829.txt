@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "This Is Where The Word 'Meme' Comes From, And It's Not The Internet", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/origin-word-meme_us_5aaad929e4b05b2217fd4a72', 'short_description': 'Huh!', 'date': '2018-03-15'}

@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "James Corden Uses 'Despacito' To Sing A Recap Of This Crazy AF Summer", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/james-corden-uses-despacito-to-sing-a-recap-of-this-crazy-af-summer_us_59974962e4b0e8cc855dcd67', 'short_description': '“I hope next summer we can take it slowly.”', 'date': '2017-08-18'}

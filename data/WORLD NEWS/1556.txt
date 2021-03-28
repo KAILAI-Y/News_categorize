@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Suicide Car Bomb Blast Kills Dozens In Afghan Capital', 'authors': 'By Hamid Shalizi and James Mackenzie, Reuters', 'link': 'https://www.huffingtonpost.com/entry/kabul-suicide-car-bombing_us_59757f6be4b0e79ec19a4aed', 'short_description': 'More than 40 others were wounded in the attack.', 'date': '2017-07-24'}

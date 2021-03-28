@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Is Steve Bannon Toast? #FireBannon Trends As Pressure On Trump Grows', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-fire-steven-bannon_us_599111bbe4b090964297ec8f', 'short_description': "Bannon's alleged ties to white nationalists is sparking new calls for his removal.", 'date': '2017-08-14'}

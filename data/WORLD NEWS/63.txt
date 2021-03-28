@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Russian Opposition Leader And Activists Detained Ahead Of Putin Inauguration', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/putin-inauguration-arrests-detained_us_5aeda538e4b0c4f19322fa71', 'short_description': 'Anti-Kremlin activists took to the streets across the country on Saturday.', 'date': '2018-05-05'}

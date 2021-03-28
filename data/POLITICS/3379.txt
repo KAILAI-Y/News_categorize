@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Even Sean Spicer Isn't Sure Why Donald Trump Hired Omarosa Manigault Newman", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-donald-trump-omarosa-manigault-newman_us_5a33deeae4b040881be9dff3', 'short_description': '"I’m not really sure.”', 'date': '2017-12-15'}

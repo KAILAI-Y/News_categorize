@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Howard Stern Weighs In On The 'Unbelievable' Harvey Weinstein Scandal", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/howard-stern-harvey-weinstein_us_59e8659de4b0d0e4fe6d4e97', 'short_description': '"First of all, when did this guy have time to make movies?', 'date': '2017-10-19'}

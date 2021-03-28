@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Aunt V, The World's Oldest Person, Dies In Jamaica At 117", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/violet-mosse-brown-oldest-person-dead-117_us_59bc6f5ce4b0edff971c4e14', 'short_description': 'Violet Mosse-Brown, aka Aunt V, said her secrets to long life were hard work and faith.', 'date': '2017-09-16'}

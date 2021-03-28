@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "What You Missed About The Saddest Death In 'Avengers: Infinity War'", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/saddest-death-avengers-infinity-war_us_5af9dc8de4b0200bcab7d3e0', 'short_description': 'Directors Joe and Anthony Russo answer our most pressing questions.', 'date': '2018-05-25'}

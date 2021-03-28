@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Behind The Campaign To Achieve Gender Parity In Politics By 2030', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/behind-the-campaign-to-achieve-gender-parity-in-politics-by-2030_us_596f6257e4b0a03aba8684ae', 'short_description': 'She Should Run wants *you* to run for office 💪', 'date': '2017-07-19'}

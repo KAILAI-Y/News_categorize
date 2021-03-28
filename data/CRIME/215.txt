@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Naked Drunk Driver Crashes Car While Having Sex At The Wheel, Police Say', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/naked-man-crashes-car-sex-la-grande-washington_us_5a19574fe4b0d4906caf01b1', 'short_description': "An infant was in the vehicle's backseat at the time, according to authorities.", 'date': '2017-11-25'}

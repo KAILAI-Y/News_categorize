@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'This Is How Tiffany Haddish Scored A Selfie With Beyoncé', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/so-this-is-how-tiffany-haddish-to-scored-a-selfie-with-beyonce_us_5a73203ae4b0bf6e6e224dd8', 'short_description': '“Okay, so what had happened was…”', 'date': '2018-02-01'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Roy Moore Campaign Casts Alabama Race As Referendum On Trump', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-alabama_us_5a2daaa4e4b069ec48ae49f7', 'short_description': 'Alabama voters went strongly for Trump in last year’s presidential election.', 'date': '2017-12-10'}

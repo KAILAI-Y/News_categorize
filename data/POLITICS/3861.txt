@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "A Year After Trump's Carrier Deal, U.S. Companies Still Offshoring Plenty Of Jobs", 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/trump-carrier-offshoring-jobs_us_5a1f6f97e4b0a8581e67e62e', 'short_description': "The president said this kind of thing wouldn't happen anymore.", 'date': '2017-11-30'}

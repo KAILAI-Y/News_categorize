@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "The Counterintuitive Reason You Shouldn't Say 'Sorry'", 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/stop-saying-sorry_us_59b95175e4b0edff971875de', 'short_description': "It's not having its intended effect.", 'date': '2017-09-14'}

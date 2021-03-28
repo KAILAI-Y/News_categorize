@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "We Still Don't Know Much About How Wildfire Smoke Affects Our Health", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/wildfire-smoke-health_us_59e52da6e4b02a215b3273eb', 'short_description': "Little research has been done on this pollution's specific effects.", 'date': '2017-10-19'}

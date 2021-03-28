@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Writing Your Own Story Can Protect Your Health After A Breakup', 'authors': 'Cindy Lamothe, On Assignment for HuffPost', 'link': 'https://www.huffingtonpost.com/entry/writing-health-breakup_us_59677e6ee4b0d51cda6098cd', 'short_description': 'But a new study suggests you do more than just vent your feelings.', 'date': '2017-07-14'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Illegal Student Labor Used To Assemble iPhone X, Apple Admits', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/illegal-student-labor-behind-iphones_us_5a157b73e4b09650540e82ec', 'short_description': 'Transit school students said they worked 11-hour shifts for required "work experience."', 'date': '2017-11-22'}

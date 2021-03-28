@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'This Is America' Producer Reveals New Details About Childish Gambino's Viral Video", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/ibra-ake-childish-gambino-this-is-america_us_5af326c0e4b0a0d601e94395', 'short_description': '"Our goal is to normalize blackness."', 'date': '2018-05-09'}

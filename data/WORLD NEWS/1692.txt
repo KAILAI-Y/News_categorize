@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '8 People Found Dead Under Collapsed Apartment Building In Italy', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/building-collapse-italy-naples_us_5960b610e4b0d5b458eaad8a', 'short_description': 'The block collapsed in the town of Torre Annunziata on Friday morning.', 'date': '2017-07-08'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Dwayne ‘The Rock’ Johnson Talks Battling Depression After His Mother’s Suicide Attempt', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/dwayne-the-rock-johnson-depression_us_5ac26be1e4b00fa46f852c05', 'short_description': '"Depression never discriminates," the actor recently tweeted.', 'date': '2018-04-02'}

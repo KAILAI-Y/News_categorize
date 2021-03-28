@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jim Carrey Paints Sean Hannity With His Perfect Partner In Artistic Smackdown', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jim-carrey-sean-hannity_us_5ac44259e4b093a1eb2028f0', 'short_description': "Actor's latest portrait gives right-wing media a grotesque makeover.", 'date': '2018-04-04'}

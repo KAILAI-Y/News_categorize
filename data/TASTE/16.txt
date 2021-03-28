@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'British Baker Recreates Little Town Of Bethlehem From Fruitcake', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/british-baker-bethlehem-fruitcake_us_5a3812dae4b0c65287ab63b4', 'short_description': 'This Bethlehem is a fundraising project for a local school playground.', 'date': '2017-12-22'}

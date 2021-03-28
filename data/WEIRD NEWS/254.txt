@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Would You Pay $5,000 For Wine And Beer Glasses Made Of Cheese?', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/finlandia-wine-beer-cheese-glasses_us_5a21d7cde4b03c44072da4d2', 'short_description': 'Our hearts just melted like Gruyère.', 'date': '2017-12-02'}

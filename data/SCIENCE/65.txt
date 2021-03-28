@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': "Can't Get Outside? Here's How You Can Watch The Solar Eclipse Online", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/how-to-watch-eclipse-online_us_599b021ae4b0a2608a6db2ea', 'short_description': 'No fancy glasses required 😎', 'date': '2017-08-21'}

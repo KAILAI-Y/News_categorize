@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Researchers Claim They've Found The Secret Tomb Of St. Nicholas", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/st-nicholas-secret-tomb-santa-claus_us_59d50876e4b0218923e70ab1', 'short_description': "No, it's not at the North Pole.", 'date': '2017-10-04'}

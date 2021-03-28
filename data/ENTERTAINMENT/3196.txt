@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Avengers: Infinity War' Footage May Confirm Major Rumor About Captain America", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/avengers-infinity-war-footage-seems-to-confirm-major-rumor-about-cap_us_5969944be4b03389bb17909c', 'short_description': 'No captain, my captain.', 'date': '2017-07-15'}

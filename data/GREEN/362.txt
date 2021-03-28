@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Macron Trolls Trump With 'Make Our Planet Great Again' Recruiting Site", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/macron-recruting-website_us_593b4e9be4b0240268799919', 'short_description': 'Allons-y! French president is serious about opening borders to environmentalists.', 'date': '2017-06-10'}

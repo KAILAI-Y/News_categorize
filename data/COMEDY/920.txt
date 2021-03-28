@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Dan Savage: Donald Trump Just Became 'The A**hole He's Always Been. Again.'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/dan-savage-bill-maher-donald-trump_us_59574833e4b0da2c7323bc22', 'short_description': '"Sexist bullying a**hole reveals himself to be sexist bullying a**hole."', 'date': '2017-07-01'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sen. John McCain: Senate Health Care Bill 'Is Probably Going To Be Dead'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/sen-john-mccain-senate-health-care-bill-is-probably-going-to-be-dead_us_5962e7f6e4b0615b9e927518', 'short_description': '"I fear that it’s going to fail.”', 'date': '2017-07-10'}

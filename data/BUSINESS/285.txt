@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Here Are Some Of The People Who Could Replace Travis Kalanick As Uber CEO', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/replacements-travis-kalanick-uber-ceo_us_594a73f8e4b0177d0b8ad647', 'short_description': "All of the obvious choices also happen to be some of Kalanick's closest advisers.", 'date': '2017-06-21'}

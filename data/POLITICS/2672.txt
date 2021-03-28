@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Samantha Bee: 'Donald Trump Hates Black And Brown People'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-racist-donald-trump_us_5a604f87e4b046f0811cf52a', 'short_description': '"Exhibit A: Everything Trump has said since he took office."', 'date': '2018-01-18'}

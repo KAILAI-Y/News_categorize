@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'An Australian Tobacco Plant May Help Us Finally Eliminate Polio', 'authors': 'Rosalie Chan', 'link': 'https://www.huffingtonpost.com/entry/polio-vaccine-tobacco-plant_us_59b8d369e4b02da0e13d6604', 'short_description': "It could lead to a less-risky polio vaccine that doesn't require the actual virus to work.", 'date': '2017-09-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What To Do About Charlottesville', 'authors': 'Sara Benincasa, ContributorAuthor, comedy writer, mental health advocate', 'link': 'https://www.huffingtonpost.com/entry/what-to-do-about-charlottesville_us_5991d406e4b09071f69b88e2', 'short_description': 'First I got angry. Then I wanted to help.', 'date': '2017-08-14'}

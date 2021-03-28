@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tweeters Ridicule Donald Trump For Bragging About Size Of His 'Nuclear Button'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-nuclear-button-boast-internet-reaction_us_5a4c8752e4b06d1621bba72b', 'short_description': '"Please don’t make me picture your \'Button.\'"', 'date': '2018-01-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: Inside Alabama's Wild Championship Comeback", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-inside-alabamas-wild-championship-comeback_us_5a54b127e4b0efe47ebca3c4', 'short_description': 'At Trump\'s "safest space."', 'date': '2018-01-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump: 'We're Under Siege'", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-james-comey-faith-freedom_us_59396ee0e4b00610548062a8', 'short_description': '“As the Bible tells us, we know that the truth will prevail."', 'date': '2017-06-08'}

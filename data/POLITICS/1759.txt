@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Cashes In On 'Racist Dog-Whistle' Speech Line With New $50 Hat", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-american-dreamer-trucker-hat_us_5a97c18fe4b09c872bb14c6a', 'short_description': '"I cannot believe the Trump store isn\'t selling a MAGA dog-whistle."', 'date': '2018-03-01'}

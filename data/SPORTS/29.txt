@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "The Yankees And Red Sox Brawl Because That's How It Must Be", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/yankees-red-sox-brawl-tyler-austin_us_5acf331ce4b08337adc9cf8b', 'short_description': 'Punches flew in the first series of the year between the rivals.', 'date': '2018-04-12'}

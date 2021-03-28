@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'This Is The Real Reason Ice Cream Gives Us Brain Freeze', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/brain-freeze-explained_us_598b3a4ce4b0d793738c1802', 'short_description': "It's worth it, but it's still annoying.", 'date': '2017-08-10'}

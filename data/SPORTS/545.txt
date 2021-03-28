@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'One-Armed BMX Rider Uses Genius Technique To Perform Tricks', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jack-dumper-bmx-rider-bristol-video_us_5954f1a1e4b0da2c732186d6', 'short_description': '"Anything is possible, and you don’t need two arms to ride a BMX," says Jack Dumper.', 'date': '2017-07-01'}

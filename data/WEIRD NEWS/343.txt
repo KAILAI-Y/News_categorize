@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Model Awaits Surgery After Eyeball Tattoo Goes Extremely Wrong', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/eyeball-tattoo-gone-wrong_us_59cfd189e4b09538b5088c78', 'short_description': 'She said she thought she could trust the artist to do the procedure properly.', 'date': '2017-09-30'}

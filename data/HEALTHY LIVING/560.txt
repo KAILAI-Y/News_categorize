@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Just A Small Amount Of Exercise Can Improve Body Image', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/exercise-body-image_us_597b54d1e4b02a8434b614a6', 'short_description': 'Work out then strut out.', 'date': '2017-07-28'}

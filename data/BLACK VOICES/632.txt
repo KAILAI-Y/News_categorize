@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'NYPD Releases Body Cam Footage From Fatal Shooting For The 1st Time', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/nypd-body-cam-fatal-shooting_us_59bb7751e4b0edff971ada14', 'short_description': 'Officers fired 16 times on a man with a history of mental health problems.', 'date': '2017-09-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Judge Temporarily Blocks Mississippi's 15-Week Abortion Ban", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/judge-blocks-mississippi-abortion-ban_us_5ab13b4fe4b05825ccb15c69', 'short_description': 'The law has been deemed the most restrictive abortion ban in the country.', 'date': '2018-03-20'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Bernie Sanders: Thousands Of Americans Will Die Because Of 'Barbaric' Trumpcare Plan", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-barbaric-trumpcare_us_594c8693e4b0da2c731aa233', 'short_description': 'And the purpose is to give tax breaks to billionaires, he says.', 'date': '2017-06-23'}

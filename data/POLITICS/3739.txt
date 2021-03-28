@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Senator Implies Those Who Aren't Millionaires Waste Money On 'Booze, Women'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/grassley-estate-taxes-booze-women_us_5a247d89e4b03c44072e5a04', 'short_description': "That's why the richest deserve a break on estate taxes, says Chuck Grassley.", 'date': '2017-12-04'}

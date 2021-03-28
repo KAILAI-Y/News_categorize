@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Swiss Couple Found Frozen On Glacier Is Buried After 75 Years', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/swiss-couple-found-frozen-buried_us_59749316e4b0e79ec199cd60', 'short_description': '"The family can at last stop asking the question: ‘What happened to them?’”', 'date': '2017-07-23'}

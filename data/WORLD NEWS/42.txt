@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Israel Reportedly Fires Dozens Of Rockets Into Syria', 'authors': 'Reuters Staff, Reuters', 'link': 'https://www.huffingtonpost.com/entry/syria-israeli-rockets_us_5af3a273e4b09bb419e4c2ab', 'short_description': 'The move comes after Israel accused Iranian forces in Syria of firing rockets into the Golan Heights.', 'date': '2018-05-10'}

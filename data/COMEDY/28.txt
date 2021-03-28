@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Kimmel Brings Down The House By Giving Trump’s Latest Tweet A New Ending', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-trump-tweet-new-ending_us_5afe71a8e4b07309e0567bf7', 'short_description': '“Well congrats to you too, old pal."', 'date': '2018-05-18'}

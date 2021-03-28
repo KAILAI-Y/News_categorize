@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Japan Floods Force Nearly 80,000 From Homes, Leave At Least 6 Dead', 'authors': 'Issei Kato and Teppei Kasai, Reuters', 'link': 'https://www.huffingtonpost.com/entry/japan-floods_us_595f20d9e4b0615b9e9078d1', 'short_description': '"The roads were like rivers,” a witness said.', 'date': '2017-07-07'}

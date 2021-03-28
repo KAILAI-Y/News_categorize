@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Over One Third Of U.S. Adults Have Advanced Medical Directives', 'authors': 'Carolyn Crist, Reuters', 'link': 'https://www.huffingtonpost.com/entry/over-one-third-of-us-adults-have-advanced-medical-directives_us_596622a2e4b09b587d63b7bd', 'short_description': 'Everyone should have this conversation.', 'date': '2017-07-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Had A Second Meeting With Vladimir Putin At G-20 Summit', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/trump-putin-second-meeting_us_596e840be4b00db3d0f3d45a', 'short_description': 'The encounter was previously undisclosed.', 'date': '2017-07-18'}

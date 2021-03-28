@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'MLB Sports Agent Accused Of Filming His Clients In The Shower', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/mlb-agent-jason-wood-shower-camera_us_5a568fd2e4b0a300f90599bb', 'short_description': 'Jason Wood allegedly recorded these baseball players without their knowledge.', 'date': '2018-01-11'}

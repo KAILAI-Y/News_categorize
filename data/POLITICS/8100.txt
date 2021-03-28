@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democrats Pan 'Cynical And Immoral' GOP Health Care Bill After CBO Score Released", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/democrats-cbo-health-bill-score_us_59517277e4b05c37bb78adec', 'short_description': 'Sen. Chris Murphy called the bill a "humanitarian crisis waiting to happen."', 'date': '2017-06-26'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers: Donald Trump Just Spoke ‘The Truest Thing’ He's Ever Said", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-truth_us_5aab8ca6e4b05b2217fdbfa6', 'short_description': 'The comedian also likened the White House to "that crappy restaurant you worked at in college."', 'date': '2018-03-16'}

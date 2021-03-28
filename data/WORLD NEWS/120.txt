@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Here's Why You've Never Heard Of The Titanic's Chinese Survivors", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/titanic-chinese-survivors-documentary_us_5ad7600fe4b03c426daa7ccd', 'short_description': "A century ago, a racist press muddied their names when it didn't ignore them entirely.", 'date': '2018-04-18'}

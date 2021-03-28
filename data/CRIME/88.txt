@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Pulse Nightclub Shooter's Father Revealed As Former FBI Informant", 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/noor-salman-attorneys-case_us_5ab8e30ce4b008c9e5f95322', 'short_description': "Lawyers for Noor Salman, the gunman's widow, have asked the judge to toss the case against her.", 'date': '2018-03-26'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Drew Carey Of 'Price Is Right' Takes Scary Fall After Contestant Hug", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/drew-carey-of-price-is-right-takes-dangerous-fall-after-contestant-hug_us_5a6b054be4b06e2532667e8c', 'short_description': 'Come on down, indeed.', 'date': '2018-01-26'}

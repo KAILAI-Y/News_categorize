@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Happy Endings Abound In The 'Love Actually' Mini-Sequel", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/love-actually-sequel_us_592821c3e4b0df34c35b690c', 'short_description': 'Yes, there are cue cards.', 'date': '2017-05-26'}

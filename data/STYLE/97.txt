@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Rihanna Is A Triple Threat On 3 Different Covers Of Vogue Paris', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/rihanna-is-a-triple-threat-on-three-different-covers-of-vogue-paris_us_5a142991e4b0bfa88c1cf1d1', 'short_description': 'Put her on EVERY magazine cover.', 'date': '2017-11-21'}

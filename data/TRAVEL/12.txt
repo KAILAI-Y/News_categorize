@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '5 Of The Germiest Places In Hotel Rooms', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/dirty-spots-in-hotel-rooms_us_5ae09906e4b061c0bfa4356d', 'short_description': 'Yikes.', 'date': '2018-04-25'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Some Vegetarian Diets May Actually Be Harming Your Health', 'authors': 'Andrew M. Seaman, Reuters', 'link': 'https://www.huffingtonpost.com/entry/vegetarian-diet-health_us_596e5613e4b00db3d0f39940', 'short_description': 'Pay attention to your plate.', 'date': '2017-07-18'}

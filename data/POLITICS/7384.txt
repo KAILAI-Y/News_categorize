@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "After 6 Months, Donald Trump's Presidency Is Stillborn", 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/after-6-months-trump-presidency-is-stillborn_us_596fcf0ce4b0aa14ea76e7d3', 'short_description': 'Being Trump, he’ll try to threaten, blame and divide his way out of failure.', 'date': '2017-07-20'}

@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Download These Illustrations To Protest Discrimination Against Trans Community', 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/tom-toro_us_5978dd31e4b0da64e875db20', 'short_description': 'As cartoonist Tom Toro says, "haters can hold it."', 'date': '2017-07-26'}

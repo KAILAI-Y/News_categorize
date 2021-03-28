@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Logan Lucky' Is August's Must-See Movie, Mostly Because Of Its Perfect Cast", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/logan-lucky-channing-tatum_us_598e22aee4b09071f699c78a', 'short_description': 'Channing Tatum, Adam Driver and Riley Keough star in the heist comedy.', 'date': '2017-08-16'}

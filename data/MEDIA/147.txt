@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Ted Cruz Makes It Too Easy To Point Out The Hypocrisy Of His Latest Campaign Ad', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/chris-cuomo-calls-out-ted-cruz-to-his-face_us_5aa049bbe4b0e9381c14ef20', 'short_description': "The ad mocks Beto O'Rourke's nickname, but Ted is a nickname, too.", 'date': '2018-03-08'}

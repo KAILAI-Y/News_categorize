@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Kenya Supreme Court Rules Presidential Election Invalid Due To Irregularities', 'authors': 'Maggie Fick and George Obulutsa, Reuters', 'link': 'https://www.huffingtonpost.com/entry/kenya-presidential-election-invalid_us_59a92469e4b0dfaafcef67f2', 'short_description': 'A new election must be held within 60 days.', 'date': '2017-09-01'}

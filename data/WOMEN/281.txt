@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "U.K. Reality TV Contestant Fiercely Shuts Down Co-Stars' Sexist Comments", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/georgia-toff-toffolo-sexism-im-a-celebrity_us_5a2bc3f2e4b0a290f0510bd9', 'short_description': '"Yes, I am quite small — fine, I am, but it doesn\'t mean I\'m less mighty."', 'date': '2017-12-09'}

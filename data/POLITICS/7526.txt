@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans Don't Even Think The Insurance Plans They're Allowing Should Count As Insurance", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/ted-cruz-amendment-bare-bones-insurance_us_596a7040e4b03389bb17c458', 'short_description': 'A surprise in the fine print of the new Senate bill.', 'date': '2017-07-15'}

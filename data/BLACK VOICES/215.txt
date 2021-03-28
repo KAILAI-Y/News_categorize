@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Craig Mack, 'Flava In Ya Ear' Rapper, Dead At Age 46", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/craig-mack-flava-in-ya-ear-rapper-under-bad-boy-dead-at-age-46_us_5aa7d45ee4b009b705d64e9d', 'short_description': '"It was a pleasure to know you & rock with you," says LL Cool J.', 'date': '2018-03-13'}

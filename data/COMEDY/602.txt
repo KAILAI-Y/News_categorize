@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Just Completely Trolled Trump Supporters Into Loving Obamacare', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-trumpcare_us_5a03f126e4b03deac08b28c0', 'short_description': 'All he had to do was change the name to Trumpcare.', 'date': '2017-11-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Head Of CDC Steps Down After Purchasing Tobacco Stocks', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/cdc-head-steps-down-tobacco_us_5a71d89de4b0a6aa4875465d', 'short_description': 'The federal agency leads the national fight against smoking.', 'date': '2018-01-31'}

@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'With Its Way Of Life At Risk, This Remote Oyster-Growing Region Called In Robots', 'authors': 'Karen Pinchin', 'link': 'https://www.huffingtonpost.com/entry/remote-oyster-growing-region-called-in-robots_us_5b083658e4b0fdb2aa53415d', 'short_description': 'The revolution is coming to rural New Brunswick.', 'date': '2018-05-26'}

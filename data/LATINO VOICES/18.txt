@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Comedian Julio Torres Has Some Hilarious Valentine’s Day Perfume Ideas', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/julio-torres-valentines-perfume_us_5a82176fe4b01467fcf073e3', 'short_description': '"The Tonight Show" correspondent even had one scent inspired by FLOTUS.', 'date': '2018-02-13'}

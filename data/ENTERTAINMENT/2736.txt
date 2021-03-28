@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Let Gwendoline Christie School You On Representation In Hollywood', 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/let-gwendoline-christie-school-you-on-representation-in-hollywood_us_59b19c56e4b0354e44106b12', 'short_description': 'All hail Brienne of Tarth.', 'date': '2017-09-08'}

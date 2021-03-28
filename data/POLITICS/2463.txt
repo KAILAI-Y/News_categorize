@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Lindsey Graham Urges RNC To Consider Returning Funds Steve Wynn Raised', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/rnc-lindsey-graham-steve-wynn_us_5a6dde5ae4b06e2532686583', 'short_description': 'The money should be returned if sexual misconduct allegations "have merit," Graham says.', 'date': '2018-01-28'}

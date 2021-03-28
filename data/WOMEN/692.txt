@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Wonder Woman Inspires Crazy Sword-In-The-Dress Memes', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/wonder-woman-sword_us_5944af9ce4b0f15cd5bb8a20', 'short_description': 'Sometimes a sword is just a sword.', 'date': '2017-06-17'}

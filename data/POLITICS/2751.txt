@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ivana Trump Says Donald's Not Racist, Just Confused", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/ivana-trump-donald-racist_us_5a5c967de4b04f3c55a46448', 'short_description': 'And sometimes he just says "silly" things.', 'date': '2018-01-15'}

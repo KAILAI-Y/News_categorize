@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Las Vegas Shooter Had 50 Pounds Of An Explosive Substance In His Car', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/las-vegas-shooter-had-explosive-substance_us_59d6495de4b0cde458736532', 'short_description': 'Tannerite can cause severe burns and "major blast injury," according to the EPA.', 'date': '2017-10-05'}

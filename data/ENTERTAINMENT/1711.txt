@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'So Justin Bieber And Selena Gomez Did Ring In The New Year Together', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/justin-bieber-selena-gomez-new-year_us_5a4be8c5e4b06d1621bb5693', 'short_description': 'New year, same old Jelena.', 'date': '2018-01-02'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'John Oliver Prepares For Another Year Of Chaotic News In Season 5 Trailer', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-season-5_us_5a662c0fe4b0022830056f28', 'short_description': '"A chipmunk attacked a synagogue ... and he knew it was a synagogue."', 'date': '2018-01-22'}

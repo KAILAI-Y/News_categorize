@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Meet The First UFC Fighter To Wear A Turban To A Match', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/meet-the-first-ufc-fighter-to-wear-a-turban-to-a-match_us_5acbb0b1e4b0337ad1eaa557', 'short_description': "Arjan Singh Bhullar is the UFC's first Sikh and first fighter of Indian descent.", 'date': '2018-04-10'}

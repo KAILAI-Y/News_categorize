@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Drake's Dad Just Released A Music Video And Damn, It's Smooth", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/drake-dad-music-video_us_59808ddbe4b0d6e28a10ab09', 'short_description': 'Like father, like son.', 'date': '2017-08-01'}

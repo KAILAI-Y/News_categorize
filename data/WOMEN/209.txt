@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Penelope Cruz Tried To Teach Ellen Spanish, And It Was Bleeping Great', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/penelope-cruz-ellen-spanish_us_5a5e359de4b03c4189696bf3', 'short_description': "One phrase couldn't be translated on TV. But HuffPost is here to help!", 'date': '2018-01-16'}

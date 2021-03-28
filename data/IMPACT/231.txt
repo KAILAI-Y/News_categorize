@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Nice Try, Hurricane Harvey', 'authors': 'Frank Danna, ContributorI make stuff for the "addicted to the internet" generation.', 'link': 'https://www.huffingtonpost.com/entry/nice-try-hurricane-harvey_us_59a6c53ee4b0d81379a81c7c', 'short_description': "You haven't broken our spirits, you unleashed our superpower.", 'date': '2017-08-30'}

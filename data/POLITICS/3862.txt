@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Plans To Replace Rex Tillerson With Mike Pompeo', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/rex-tillerson-mike-pompeo_us_5a201cbbe4b0a8581e688f0e', 'short_description': 'Pompeo has long been considered a replacement for Tillerson.', 'date': '2017-11-30'}

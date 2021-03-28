@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'NY Police Rescue Ducklings Trapped In Storm Drain', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/ny-storm-drain-ducklings_us_594757b2e4b01eab7a2eac05', 'short_description': 'The orphan birds now being cared for by a National Park Service biologist.', 'date': '2017-06-19'}

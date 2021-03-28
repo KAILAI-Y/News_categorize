@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Zen And The Art Of Nuclear War: Peace Of Mind In The Age Of Trump', 'authors': 'Marty Kaplan, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/zen-the-art-of-nuclear-war_us_59924b0ee4b0caa1687a6316', 'short_description': 'This game of nuclear chicken Trump is playing offers a teachable moment.', 'date': '2017-08-15'}

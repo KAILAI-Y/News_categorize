@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Names Budget Director Mulvaney Interim Head Of Consumer Agency', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/mulvaney-interimhead-consumer-bureau_us_5a18c06ee4b064948074802b', 'short_description': 'The move sets up a critical battle over who will keep banks in line.', 'date': '2017-11-25'}

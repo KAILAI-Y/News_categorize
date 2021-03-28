@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jared Kushner's Security Clearance Has Been Downgraded: Reports", 'authors': 'Sebastian Murdock and Jessica Schulberg', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-has-security-clearance-downgraded_us_5a95c415e4b0e6a5230212a3', 'short_description': "He's not the only one.", 'date': '2018-02-27'}

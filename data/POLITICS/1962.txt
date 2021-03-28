@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Can't Stage A Walkout? Here's What You Can Do To Help Shooting Victims.", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/how-to-help-florida-shooting-victims_us_5a8d9783e4b03414379c6194', 'short_description': "From talking about gun control to donating blood, there's a lot we can all do.", 'date': '2018-02-21'}

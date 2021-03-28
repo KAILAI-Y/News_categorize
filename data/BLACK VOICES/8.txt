@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Donald Glover Fans Execute Stunning Coup On Donald Trump-Themed Reddit Forum', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-glover-fans-reddit-donald-trump_us_5b056c80e4b0784cd2b041d6', 'short_description': '"The One True Donald."', 'date': '2018-05-23'}

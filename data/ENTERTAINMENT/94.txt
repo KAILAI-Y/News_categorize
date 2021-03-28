@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ariana Grande Calls Manchester Attack 'The Worst Of Humanity' One Year Later", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/ariana-grande-calls-manchester-attack-the-worst-of-humanity_us_5afed4f9e4b0463cdba1311f', 'short_description': '“I wish there was more that I could fix."', 'date': '2018-05-18'}

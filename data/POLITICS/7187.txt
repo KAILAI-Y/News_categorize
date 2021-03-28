@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Insurers Warn GOP That 'Skinny' Bill Would Have Big, Bad Effects", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/skinny-health-care-bill-effects_us_597a1f8be4b02a8434b4d18c', 'short_description': 'Like the experts, they think this latest scheme would destabilize markets.', 'date': '2017-07-27'}

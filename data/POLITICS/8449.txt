@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congressional Baseball Game Will Go On After Shooting', 'authors': 'Sam Stein and Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/congressional-baseball-game_us_59415d72e4b0d31854868da6', 'short_description': 'A day after a gunman opened fire on a practice, lawmakers will play ball.', 'date': '2017-06-14'}

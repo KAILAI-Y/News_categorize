@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "What Made 'The Bachelor Winter Games' Such Irresistible TV?", 'authors': 'Claire Fallon, Emma Gray, and Nick Offenberg', 'link': 'https://www.huffingtonpost.com/entry/the-bachelor-winter-games-irresistible-tv_us_5a9081d1e4b01e9e56bbbaa1', 'short_description': 'Farewell, Bachelor Nation. Hello, Bachelor World.', 'date': '2018-02-24'}

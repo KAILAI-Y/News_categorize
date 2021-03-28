@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': '1 Winning Ticket In $758.7 Million Powerball Lottery', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/powerball-lottery-winning-ticket_us_599e72cfe4b05710aa59bae6', 'short_description': 'The winning numbers were 6, 7, 16, 23, 26. The Powerball is 4.', 'date': '2017-08-24'}

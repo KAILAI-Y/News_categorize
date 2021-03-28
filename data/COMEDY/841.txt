@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Conan Makes Dog Audiobook Service Look As Silly As It Sounds', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/conan-makes-dog-audiobook-service-look-as-silly-as-it-sounds_us_598b27a9e4b0a66b8bb06d49', 'short_description': '"Fifty Shades of Grey" should really make \'em drool.', 'date': '2017-08-09'}

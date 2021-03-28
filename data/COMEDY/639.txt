@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah: Paul Manafort Is Practically A James Bond Villain', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-paul-manafort-james-bond-villain_us_59f828ace4b0c0c8e67c680a', 'short_description': 'But not a very good one.', 'date': '2017-10-31'}

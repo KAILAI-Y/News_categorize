@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Fallon And James Corden Reveal The True Melania Trump Impostor', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-and-james-corden-reveal-the-true-melania-trump-impostor_us_59ef1932e4b03535fa93c3a3', 'short_description': "As if the conspiracy theory weren't funny enough.", 'date': '2017-10-24'}

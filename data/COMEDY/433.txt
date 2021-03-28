@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Can't Get Enough Of Michael Wolff's New Trump Book", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-michael-wolff-book_us_5a4f6438e4b089e14dba1a00', 'short_description': 'It was almost too much.', 'date': '2018-01-05'}

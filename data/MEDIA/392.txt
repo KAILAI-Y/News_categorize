@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Hannity Drops Roy Moore Ultimatum After Senate Nominee Writes Letter', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-ultimatum-roy-moore_us_5a0d0ab8e4b0c0b2f2f7bb2c', 'short_description': '"We demanded, rightly, answers ... . He provided them."', 'date': '2017-11-16'}

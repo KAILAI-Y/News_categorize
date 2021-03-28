@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Jimmy Fallon Announces New Children's Book", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-everything-is-mama-book_us_594bd1b6e4b0a3a837bd9652', 'short_description': "'Everything Is MAMA' hits shelves in October.", 'date': '2017-06-22'}

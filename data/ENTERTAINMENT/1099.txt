@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '5 Cord-Cutting Options To Help Save You Money', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/cable-cutting-save-money_us_5a8b3967e4b09fc01e027708', 'short_description': 'You have options beyond tinfoil.', 'date': '2018-02-22'}

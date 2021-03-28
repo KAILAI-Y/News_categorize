@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Trevor Noah Mocks Republican Conspiracy Theories On Russian Probe', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-mocks-republican-conspiracy-theories-on-russian-probe_us_5a6b2fc9e4b01fbbefb10188', 'short_description': 'Paranoia can be funny.', 'date': '2018-01-26'}

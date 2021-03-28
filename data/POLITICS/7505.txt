@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Team Trump's Latest Defense: Collusion Is Good", 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/trumps-latest-defense-collusion-is-good_us_596bf41ce4b0d6341fe9f654', 'short_description': 'We should be “colluding” more, not less.', 'date': '2017-07-17'}

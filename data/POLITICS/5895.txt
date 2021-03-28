@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: Trump Weighs Tougher Strategy on Iran", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-trump-weighs-tougher-strategy-on-iran_us_59b7ce6fe4b031cc65cc9866', 'short_description': 'One that could "allow more aggressive U.S. responses."', 'date': '2017-09-12'}

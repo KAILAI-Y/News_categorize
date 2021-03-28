@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Mom Accused Of Murdering Daughter She Placed For Adoption', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/savannah-leckie-murder-remains-mother_us_599f442ce4b05710aa5b14ef', 'short_description': 'A nearly 3-week search ended when a cadaver dog led police to a burn pile at the family farm.', 'date': '2017-08-24'}

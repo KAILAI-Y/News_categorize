@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "New Children's Book Honors Ballet Pioneer Raven Wilkinson", 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/raven-wilkinson-childrens-book-misty-copeland_us_5a5f775ee4b00a7f171cb1a6', 'short_description': "Here's to the woman who paved the way for Misty Copeland.", 'date': '2018-01-17'}

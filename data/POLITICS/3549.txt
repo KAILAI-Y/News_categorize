@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nikki Haley: Women Accusers Should Be Heard, Even If Trump Is The Target', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/nikki-haley-trump_us_5a2d52bfe4b069ec48ae23be', 'short_description': '“I think any woman who has felt violated or felt mistreated in any way - they have every right to speak up.”', 'date': '2017-12-10'}

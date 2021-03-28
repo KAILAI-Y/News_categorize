@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Twitter Now Revoking Verified Profiles That Break Its New Rules', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/twitter-verified-profiles-new-rules_us_5a0ce59fe4b0b37054f45562', 'short_description': 'A number of high-profile white nationalists have lost their blue check marks.', 'date': '2017-11-16'}

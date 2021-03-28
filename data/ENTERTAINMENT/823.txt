@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Neil Young Fires Back At No. 1 Hater: NRA Spokeswoman Dana Loesch', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/neil-young-dana-loesch_us_5aaae892e4b0337adf825e8f', 'short_description': 'Young joked, "Why doesn’t she just shoot me?”', 'date': '2018-03-16'}

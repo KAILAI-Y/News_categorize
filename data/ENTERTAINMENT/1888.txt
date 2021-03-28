@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ellen DeGeneres Evacuates Her Pets As California Fire Bears Down', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/ellen-degeneres-california-fire_us_5a2e5921e4b073789f6b1d06', 'short_description': 'The celebrity-packed area faces the wrath of wildfires.', 'date': '2017-12-11'}

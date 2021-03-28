@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Teachers Slam Trump’s Call For More Guns In Schools: ‘Are You F**king Insane?’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-vs-teachers-guns-in-school_us_5a8e524de4b0617d4639e07c', 'short_description': 'Educators tell the president they want to teach, not shoot.', 'date': '2018-02-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Attacks Justice Department As 'Deep State,' Calls For Jailing Top Clinton Aide", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-justice-department-deep-state_us_5a4b87d8e4b06d1621bacc0a', 'short_description': 'New year, old rant.', 'date': '2018-01-02'}

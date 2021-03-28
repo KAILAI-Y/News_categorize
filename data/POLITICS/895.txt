@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'FBI Has Questions About Michael Cohen’s Shady Taxicab Business', 'authors': 'Molly Redden', 'link': 'https://www.huffingtonpost.com/entry/michael-cohen-taxis-trump_us_5acd29fde4b06a6aac8cb374', 'short_description': "The president's attorney has been linked to some of the most notorious owners in the industry.", 'date': '2018-04-11'}

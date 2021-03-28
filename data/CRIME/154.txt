@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Study Finds More Than 9,000 Brothels Masquerading As Legit Businesses', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/9000-brothels-masquerade-legit-businesses_us_5a6127d5e4b0125fd6354175', 'short_description': 'The "massage parlors" can be fronts for human trafficking, Polaris reports.', 'date': '2018-01-23'}

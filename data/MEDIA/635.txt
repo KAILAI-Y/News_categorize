@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Michael Moore Slams Dems: 'No Message, No Plan, No Leaders'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/michael-moore-slams-democratic-party_us_594b699ce4b01cdedf004f95', 'short_description': 'Liberal filmmaker tells party leaders to "get a friggin\' clue."', 'date': '2017-06-22'}

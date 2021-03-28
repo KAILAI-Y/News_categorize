@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'This Is The Anti-Gay Pamphlet Handed Out At The Values Voter Summit', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/values-voter-summit-anti-gay-pamphlets_us_59e0d0ffe4b03a7be5801895', 'short_description': 'The pamphlet is titled "The Health Hazards of Homosexuality."', 'date': '2017-10-13'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Justin Timberlake To Headline The 2018 Super Bowl Halftime Show', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/justin-timberlake-jimmy-fallon-nfl-superbowl-show_us_59ed3e2ce4b0958c4682cfa4', 'short_description': 'And he got his best buddy Jimmy Fallon to help him announce the news.', 'date': '2017-10-23'}

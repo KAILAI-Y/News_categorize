@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "MLB Star Hunter Pence Had Perfect Comeback To Alex Trebek's 'Jeopardy!' Diss", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/mlb-star-hunter-pence-had-perfect-comeback-to-alex-trebeks-jeopardy-diss_us_5a059800e4b01d21c83e1cd5', 'short_description': 'Well played.', 'date': '2017-11-10'}

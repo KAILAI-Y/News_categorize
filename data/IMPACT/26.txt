@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "There's Finally A Legitimate Alternative To Payday Lending", 'authors': 'Rachel Cohen, On assignment for HuffPost', 'link': 'https://www.huffingtonpost.com/entry/payday-loans-debt-alternative-bank-community-credit-unions_us_5acb98d4e4b09d0a1196251a', 'short_description': "'This is a social movement.'", 'date': '2018-04-12'}

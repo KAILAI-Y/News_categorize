@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Renews Threat To Scrap NAFTA Amid Negotiations', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-nafta-scrap_us_59a3139fe4b0821444c3eeeb', 'short_description': '"May have to terminate?” the president wrote.', 'date': '2017-08-27'}

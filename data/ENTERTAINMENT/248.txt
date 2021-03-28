@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Childish Gambino Debuts 'This Is America' On 'Saturday Night Live'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/childish-gambino-debuts-new-music-on-snl_us_5aee9781e4b0c4f19323598c', 'short_description': 'The video was released on YouTube shortly before the show.', 'date': '2018-05-06'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Keystone XL Opponents On 210,000-Gallon Spill: We Warned You', 'authors': "Alexander C. Kaufman and Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/keystone-spill_us_5a0f378de4b0dd63b1aa2b4f', 'short_description': "The spill this week is the largest in the existing pipeline's history.", 'date': '2017-11-17'}

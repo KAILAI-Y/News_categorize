@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Promised A Tax Cut Aimed At The Middle Class. Looks Like He Missed -- Badly.', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-wealthy-tax-cuts_us_5a3996f2e4b025f99e130759', 'short_description': 'The rich benefit the most, and after eight years, they will be the only ones benefiting.', 'date': '2017-12-20'}

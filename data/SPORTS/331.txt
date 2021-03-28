@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'NCAA Will Investigate Michigan State University Over Larry Nassar: Report', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/michigan-state-larry-nassar-sex-abuse_us_5a67f1e0e4b0dc592a0db8ce', 'short_description': "Nassar's sentencing hearing is expected to end later this week.", 'date': '2018-01-24'}

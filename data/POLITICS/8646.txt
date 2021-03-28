@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'This Is What Happens When Women Get Elected', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/women-nevada-legislature_us_59399ce1e4b0c5a35c9d6b6a', 'short_description': "Nevada just enacted a slew of women's rights laws under a GOP governor.", 'date': '2017-06-08'}

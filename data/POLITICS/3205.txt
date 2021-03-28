@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Finally Gets His Wall ... At An Irish Golf Course', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-wall-irish-golf-course_us_5a3c1cf7e4b025f99e15c344', 'short_description': 'He gets two of them, as environmentalists warn the barriers could damage protected wildlife areas.', 'date': '2017-12-21'}

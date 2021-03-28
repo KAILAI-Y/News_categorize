@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'The Funniest Tweets From Parents This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/funniest-parenting-tweets_us_5a5fe28be4b046f0811cdc14', 'short_description': "On buying in bulk, avoiding Chuck E. Cheese's and more.", 'date': '2018-01-19'}

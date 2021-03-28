@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'NATO Chief Calls For UN Sanctions On North Korea For Nuclear Tests', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/nato-north-korea-un-sanctions_us_59f81200e4b0aec1467a6478', 'short_description': 'North Korea poses "a global threat which requires a global response," Jens Stoltenberg said.', 'date': '2017-10-31'}

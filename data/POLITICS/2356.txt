@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congratulations On Your $1,000 GOP Tax Reform Bonus!*', 'authors': 'Dave Jamieson and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/congratulations-on-your-1000-tax-reform-bonus_us_5a7362fbe4b06ee97af0acd2', 'short_description': '*If you have 20 years on the job, that is.', 'date': '2018-02-01'}

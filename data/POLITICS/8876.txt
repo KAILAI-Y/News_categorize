@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'EPA Starts Offering Buyouts In Bid To Cut Staff', 'authors': 'Valerie Volcovici, Reuters', 'link': 'https://www.huffingtonpost.com/entry/epa-buyouts_us_593093f2e4b0c242ca2272c5', 'short_description': 'The memo was sent to all EPA employees on Thursday afternoon.', 'date': '2017-06-01'}

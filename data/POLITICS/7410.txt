@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Special Counsel Robert Mueller Probing Trump Business Transactions: Report', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-mueller-russia_us_5970c352e4b0aa14ea7819ad', 'short_description': 'The president called such a line of inquiry a "violation."', 'date': '2017-07-20'}

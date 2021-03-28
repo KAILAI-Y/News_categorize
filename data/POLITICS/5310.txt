@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: How The Las Vegas Mass Shooting Unfolded", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-how-the-las-vegas-mass-shooting-unfolded_us_59d372d6e4b048a443251b7b', 'short_description': '"It was relentless."', 'date': '2017-10-03'}

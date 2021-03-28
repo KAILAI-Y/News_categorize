@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Fines Exxon Mobil For Violating Russia Sanctions', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/exxon-mobile-fined_us_5970e352e4b0110cb3cd0147', 'short_description': 'Rex Tillerson was chief executive at the time of the dealings.', 'date': '2017-07-20'}

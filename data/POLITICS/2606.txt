@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The GOP Will Likely Take Blame For The Shutdown. It May Not Matter By November.', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/-gop-blame-shutdown-matter-november_us_5a636719e4b0e56300701ab1', 'short_description': 'What the polls so far tell us about the impending shutdown blame game.', 'date': '2018-01-20'}

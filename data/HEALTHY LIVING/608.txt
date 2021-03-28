@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Cancer Doesn't Choose Who Survives Based On How Hard Someone Fights", 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/cancer-john-mccain-fighter_us_5970ae8de4b0aa14ea77f55b', 'short_description': 'Let the well wishes for John McCain also be an important reminder.', 'date': '2017-07-20'}

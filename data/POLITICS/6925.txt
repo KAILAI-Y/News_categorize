@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report:\xa0Secret Service Booted To The Sidewalk After Trump Tower Rent Dispute', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/secret-service-trump-tower-dispute_us_5983a08ce4b041356ebee1b8', 'short_description': 'The agency says the move has had no impact on security.', 'date': '2017-08-04'}

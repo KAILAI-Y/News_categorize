@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The President Show' Brings Mario Cantone's Scaramucci Into The Family", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-president-show-brings-mario-cantones-scaramucci-into-the-family_us_597b4153e4b0da64e878a7f3', 'short_description': 'This is our new reality.', 'date': '2017-07-28'}

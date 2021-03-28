@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Tosses Donald Trump Upside Down Into 'Stranger Things'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-stranger-things-other_us_59f2d970e4b03cd20b80b3cd', 'short_description': '"Seriously?"', 'date': '2017-10-27'}

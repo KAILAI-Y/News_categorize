@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The GOP Tax Plan Tells Us Everything About Who Matters In American Democracy', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/gop-tax-plan-who-matters_us_59fc8ed4e4b0b0c7fa39d222', 'short_description': 'Your boss, not you.', 'date': '2017-11-03'}

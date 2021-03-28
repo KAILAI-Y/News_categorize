@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Randy Rainbow Channels Wayne Newton To Slam Trump In 'DACA Shame'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/randy-rainbow-channels-wayne-newton-in-daca-shame_us_59b139eae4b0b5e5310404cc', 'short_description': '"DACA shame / Put \'em on a plane / Back to from / Whence they never came."', 'date': '2017-09-07'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '6 Winter Skin Care Tips From Dermatologists', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/winter-skin-tips_us_5a53e784e4b003133ecb658c', 'short_description': 'Crank down the heat on that shower, buddy.', 'date': '2018-01-11'}

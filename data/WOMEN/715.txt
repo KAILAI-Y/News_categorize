@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'This Cheeky 1913 Letter From A Suffragist Is Giving Us Life', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/this-cheeky-1913-letter-from-a-suffragist-is-giving-us-life_us_5939698be4b0c5a35c9cf97d', 'short_description': 'Go off, Bertha!', 'date': '2017-06-08'}

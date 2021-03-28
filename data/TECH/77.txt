@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': '15 Black Friday Laptop Deals Actually Worth Your Time And Money', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/black-friday-laptop-deals-2017_us_5a0ca6ece4b0b37054f41e87', 'short_description': 'There’s something on sale for every type of user 💻', 'date': '2017-11-15'}

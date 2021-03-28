@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Reporter Leads Rescuers To Truck Driver Trapped In 10 Feet Of Water', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/reporter-truck-driver-flood-hurricane-harvey_us_59a38ee3e4b05710aa5d5a11', 'short_description': 'The fast-acting news crew caught the rescue on film.', 'date': '2017-08-28'}

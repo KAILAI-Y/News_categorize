@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "You Can Now Watch Jay-Z Skewer 'Friends' In The Full 'Moonlight' Video", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/jay-z-moonlight-video_us_598df48ae4b090964296ca38', 'short_description': 'The rapper recast the sitcom with black actors, tackling Hollywood diversity.', 'date': '2017-08-11'}

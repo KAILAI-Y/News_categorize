@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Andy Cohen And Taylor Swift Are Over Their Katy Perry Drama', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/andy-cohen-taylor-swift-repaired-relationship_us_5b0598b1e4b0784cd2b0b80a', 'short_description': 'No "Bad Blood" here.', 'date': '2018-05-24'}

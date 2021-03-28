@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Gigi Hadid And Zayn Malik Adorably Spent Eid Al-Adha With Their Moms', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/gigi-hadid-zayn-malik-eid-islam_us_59ab26a8e4b0b5e530ff1980', 'short_description': "The model's mother posted a group selfie to celebrate the Muslim holiday.", 'date': '2017-09-02'}

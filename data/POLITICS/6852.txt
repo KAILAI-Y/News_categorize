@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Zika Vaccine: The Miracle Of Government-Funded Research', 'authors': 'Dean Baker, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/the-zika-vaccine-the-miracle-of-government-funded_us_59890d58e4b08a4c247f2551', 'short_description': "Here's why the story of the Zika vaccine is so important.", 'date': '2017-08-08'}

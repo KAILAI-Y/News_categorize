@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'When To Buy Your Turkey: Order It Ahead For Thanksgiving', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/when-do-i-buy-my-thanksgiving-turkey_us_59dd11e6e4b01df09b7698e2', 'short_description': 'The early bird gets the... bird!', 'date': '2017-10-11'}

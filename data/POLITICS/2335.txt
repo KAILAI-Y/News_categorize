@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan On Removing Devin Nunes: 'The Tax Cuts Are Working'", 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-devin-nunes-memo-tax-cuts_us_5a7382cee4b06ee97af0e124', 'short_description': "What it's really all about for the speaker of the House.", 'date': '2018-02-01'}

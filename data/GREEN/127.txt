@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Hikers’ Families Say Deaths Motivated By ‘Compassion’', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/orbeso-compassionate-murder-suicide_us_59ed2479e4b0958c4682ce28', 'short_description': 'Joseph Orbeso and Rachel Nguyen were missing for three months.', 'date': '2017-10-23'}

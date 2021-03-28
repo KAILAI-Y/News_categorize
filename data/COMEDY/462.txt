@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Hillary Clinton Steals The Show With Pitch-Perfect Cameo In ‘Song For Women 2017’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/daily-show-song-for-women-2017_us_5a38c387e4b0c65287abe2c4', 'short_description': '"The Daily Show" looks back on the year.', 'date': '2017-12-19'}

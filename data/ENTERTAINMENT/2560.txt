@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Tom Petty Rushed To Hospital After Being Found Unconscious (UPDATE)', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/tom-petty-reportedly-rushed-to-hospital_us_59d28e59e4b065578154a59e', 'short_description': "Conflicting reports are coming in on the state of Tom Petty's health.", 'date': '2017-10-02'}

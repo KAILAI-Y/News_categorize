@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Hard-Fought Victory To Restore Tribal Land Faces New Threat In Trump Era', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/ryan-zinke-interior-tribal-land-program_us_5985042ee4b08b75dcc7043a', 'short_description': 'What happened to respecting Native American sovereignty?', 'date': '2017-08-05'}

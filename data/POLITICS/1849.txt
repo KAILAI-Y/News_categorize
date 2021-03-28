@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New Jersey Democrats Offering Bill to Allow Prisoners To Vote', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/new-jersey-prisoners-to-vote_us_5a942b9be4b01f65f598c58e', 'short_description': 'The state would be just the third where felons in jail could cast a ballot.', 'date': '2018-02-26'}

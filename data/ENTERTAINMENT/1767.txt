@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "LeAnn Rimes Recreates Iconic 'Coyote Ugly' Singing Scene", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/leann-rimes-coyote-ugly-singing_us_5a3bd5b1e4b0b0e5a7a0504e', 'short_description': "Don't you know that you can't fight the moonlight?", 'date': '2017-12-21'}

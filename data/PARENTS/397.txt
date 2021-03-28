@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "'Game Of Thrones'-Obsessed Dad Parodies Show's Theme Song", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-obsessed-dad-parodies-shows-theme-song_us_599ed6a9e4b0821444c144a5', 'short_description': 'The season finale is fast approaching!', 'date': '2017-08-25'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Alabama Church Under Fire For Comparing Roy Moore To Jesus', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/alabama-church-sign-roy-moore-jesus_us_5a26e03be4b0f104475e386c', 'short_description': 'The message may have run afoul of IRS rules.', 'date': '2017-12-05'}

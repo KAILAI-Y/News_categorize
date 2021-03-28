@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's What Really Happened To The Puppies Handed Out At The Grammys", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/puppies-grammys-consolation_us_5a70a0e2e4b0a6aa4873ca6a', 'short_description': "No, celebrities didn't actually take them home.", 'date': '2018-02-01'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mike Pence's Daughter Is 'All For' The Gay Bunny Book That's Trolling Her Dad", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-daughter-charlotte-gay-bunny-book_us_5ab217bce4b008c9e5f2af2d', 'short_description': '"I think imitation is the most sincere form of flattery."', 'date': '2018-03-21'}

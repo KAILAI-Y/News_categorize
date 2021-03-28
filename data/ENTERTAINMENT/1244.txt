@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Dwayne 'The Rock' Johnson's New Movie Poster Baffles Fans Online", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/dwayne-the-rock-johnson-movie-poster-skyscraper_us_5a79902ce4b0164659c80ef6', 'short_description': 'Could he really make the jump shown in a promotion for "Skyscraper"?', 'date': '2018-02-06'}

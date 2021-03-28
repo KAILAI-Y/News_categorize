@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Ina Garten Reveals She Hates Foam On Her Food', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/ina-garten-food-trend_us_5978a5dfe4b0c95f376090eb', 'short_description': 'Her feelings about Taylor Swift, on the other hand, are another story.', 'date': '2017-07-26'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Twitter Can’t Help But Make Trump Jokes About Tropical Storm Don', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/twitter-trump-jokes-tropical-storm-don_us_596d2e63e4b010d77673313f', 'short_description': 'It’s the perfect storm.', 'date': '2017-07-17'}

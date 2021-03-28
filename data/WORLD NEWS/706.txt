@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "'No One Is Safe': Violence Soars In Yemen After Death Of Former Dictator", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/yemen-violence-saleh-dictator-killed_us_5a26bc8ae4b0f104475e06c6', 'short_description': 'The civilian population already faced the prospect of widespread famine.', 'date': '2017-12-05'}

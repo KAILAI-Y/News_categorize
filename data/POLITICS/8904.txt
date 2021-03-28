@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sean Spicer's Explanation Of Donald Trump's 'Covfefe' Tweet Is Really Something", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-donald-trump-covfefe_us_592f1496e4b09ec37c314382', 'short_description': 'How did we get here?', 'date': '2017-05-31'}

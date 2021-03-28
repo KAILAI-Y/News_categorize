@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Police Department Threatens Criminals With 'Stranger Things' Spoilers", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/east-lansing-police-stranger-things-spoilers_us_5a024393e4b06ff32c943c5b', 'short_description': 'One person called the Michigan jail threat "the worst punishment ever."', 'date': '2017-11-08'}

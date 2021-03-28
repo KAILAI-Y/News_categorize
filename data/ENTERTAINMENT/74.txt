@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Obamas Are Coming To Your Netflix Queue', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/barack-obama-michelle-obama-netflix_us_5b02edd5e4b07309e05ae5cb', 'short_description': 'Netflix announced a deal with Barack and Michelle Obama to produce a variety of films and series.', 'date': '2018-05-21'}

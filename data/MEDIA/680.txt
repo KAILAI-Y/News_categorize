@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Kentucky Newspaper’s Windows Shattered Amid Rising Anti-Press Climate', 'authors': 'Michael Calderone', 'link': 'https://www.huffingtonpost.com/entry/lexington-herald-leader-windows-smashed_us_592cb731e4b0065b20b7c6b5', 'short_description': 'Police believe someone may have fired a gun at the building.', 'date': '2017-05-30'}

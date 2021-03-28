@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Rock For President? Dwayne Johnson Now 'Seriously Considering' A Run", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/dwayne-the-rock-johnson-presidential-run_us_5a309ab8e4b01bdd76584e11', 'short_description': 'Wrestler turned actor could rock the vote.', 'date': '2017-12-13'}

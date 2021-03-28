@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Shelly Simonds Concedes To David Yancey In Virginia Tiebreaker Race', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/shelly-simonds-concedes_us_5a564239e4b03417e8743f7f', 'short_description': "Republicans will retain control of the state's House of Delegates.", 'date': '2018-01-10'}

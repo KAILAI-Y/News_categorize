@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '2.5 Million Yemenis Lack Access To Clean Water: Red Cross', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/yemen-clean-water_us_5a133785e4b0aa32975d0434', 'short_description': 'A Saudi-led coalition is cutting off supplies to vulnerable Yemenis, the Red Cross said Monday.', 'date': '2017-11-20'}

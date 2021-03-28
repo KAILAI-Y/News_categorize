@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Fox News Host Slams GOP Support For Roy Moore: 'I Hope The Guy Loses'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/greg-gutfeld-i-hope-roy-moore-loses_us_5a2f40e2e4b01598ac477944', 'short_description': 'Greg Gutfeld denounces the "team-sport ideology" in politics.', 'date': '2017-12-12'}

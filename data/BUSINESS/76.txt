@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Bank Of America's Poorest Customers To Be Charged For Checking", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/bank-of-america-charge-checking-account_us_5a68a762e4b0dc592a0e91d6', 'short_description': 'People who once had free accounts may now have to pay $12 a month.', 'date': '2018-01-24'}

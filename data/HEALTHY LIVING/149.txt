@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Yes, Doctors Confirm You Can Get Herpes From Trying On Lipstick Samples', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/herpes-lipstick-sephora_us_59f89614e4b0aec1467afbde', 'short_description': 'But just how likely is it?', 'date': '2017-10-31'}

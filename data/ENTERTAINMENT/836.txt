@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Monty Python And The Holy Grail' As A Gritty Drama Will Drive You Coconuts", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/monty-python-historical-drama_us_5aaa10a6e4b0f4aaa1139ccd', 'short_description': 'A new spin on a comedy classic.', 'date': '2018-03-15'}

@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Where To Find The Best Travel Deals On Black Friday And Cyber Monday', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/black-friday-cyber-monday-travel-deals-2017_us_5a14830de4b025f8e9322009', 'short_description': 'Just remember to read the fine print before you book ✈️', 'date': '2017-11-21'}

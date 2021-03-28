@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Eric Trump Tweets Bizarre Conspiracy Theory About Ellen DeGeneres', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/eric-trump-ellen-degeneres-tweet_us_5a4c8eade4b0b0e5a7a98b59', 'short_description': '"This is the most unintentionally hilarious tweet of the very very new year!"', 'date': '2018-01-03'}

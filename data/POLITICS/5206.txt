@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Steve Mnuchin Has Cost Taxpayers $800,000 For Travel On Military Planes', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/steve-mnuchin-800k-military-plane-travel_us_59d70cace4b0f6eed34f67e1', 'short_description': 'And it was all legal.', 'date': '2017-10-06'}

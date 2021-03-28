@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Thousands Of Palestinians Protest Trump', 'authors': 'Jonathan Allen, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-palestinians-protest_us_5a4655fae4b025f99e1af876', 'short_description': 'Protesters took to the streets of Gaza and the West Bank for a fourth day in a row.', 'date': '2017-12-29'}

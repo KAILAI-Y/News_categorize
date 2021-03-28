@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Billy Joel's New Daughter Remy Anne Is A Chip Off The Old Piano Man", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/billy-joel-baby-remy-anne-alexis_us_59ef0b99e4b07cf8380c39be', 'short_description': 'She arrived on Sunday to make the musician a father again at age 68.', 'date': '2017-10-24'}

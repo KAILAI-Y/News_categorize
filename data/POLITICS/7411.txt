@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Spokeswoman 'Not Sure' If He Regrets Trashing John McCain's Military Record", 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-john-mccain_us_5970ff60e4b062ea5f90b3ca', 'short_description': 'But he sends "well wishes" to the senator newly diagnosed with brain cancer.', 'date': '2017-07-20'}

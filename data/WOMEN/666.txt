@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Maxine Waters Calls For Trump's 'Exile' Over His Brzezinski Tweets", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/maxine-waters-calls-for-trumps-exile-over-his-brzezinski-tweets_us_59566d57e4b0da2c73231121', 'short_description': '"Enough is enough," she said.', 'date': '2017-06-30'}

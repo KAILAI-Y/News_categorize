@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Signs For The 2018 Women's March Prove The Movement Is Here To Stay", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/signs-2018-womens-march-movement_us_5a6371d9e4b0e56300701d7c', 'short_description': 'The movement continues to bring out thousands of protesters.', 'date': '2018-01-20'}

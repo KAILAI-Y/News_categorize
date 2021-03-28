@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Rogue Twitter Employee Deletes Donald Trump’s Account On Last Day', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/trump-twitter-account-inaccessible_us_59fbb4a9e4b0b0c7fa393566', 'short_description': 'What an exhilarating 11 minutes.', 'date': '2017-11-03'}

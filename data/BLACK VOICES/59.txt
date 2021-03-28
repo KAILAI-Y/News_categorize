@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Don Lemon Takes Aim At Donald Trump: 'It’s My Obligation' To Call Him Racist", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/don-lemon-donald-trump-racist_us_5aed5137e4b041fd2d26e34b', 'short_description': '"I don’t regret saying it."', 'date': '2018-05-05'}

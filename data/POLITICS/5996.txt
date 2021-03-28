@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democrats Duck Questions About Sen. Bob Menendez's Corruption Trial", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/menendez-trial-bribery-democrats_us_59b161d9e4b0b5e531044a6c', 'short_description': '"We should let the legal process play out."', 'date': '2017-09-07'}

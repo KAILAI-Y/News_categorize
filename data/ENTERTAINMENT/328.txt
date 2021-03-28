@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Miley Cyrus Isn't Sorry About That Controversial Nude Photo 10 Years Later", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/miley-cyrus-isnt-sorry-about-that-controversial-nude-photo-10-years-later_us_5ae71051e4b055fd7fcdf101', 'short_description': '"IM NOT SORRY F**k YOU."', 'date': '2018-04-30'}

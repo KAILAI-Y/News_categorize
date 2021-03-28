@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Usain Bolt Confirms That Unbelievable Rumor About Chicken McNuggets', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/usain-bolt-confirms-one-of-the-greatest-legends-about-him_us_5927317ce4b0df34c35aa6a7', 'short_description': 'The fastest man alive is fueled by nuggets.', 'date': '2017-05-30'}

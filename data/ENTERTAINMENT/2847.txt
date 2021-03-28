@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '10 Movies That Will Have You Longing For The Open Road', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/road-trip-movies_us_599de786e4b06d67e334f81e', 'short_description': 'Fire up these gems as HuffPost travels the country for the "Listen to America" tour.', 'date': '2017-08-25'}

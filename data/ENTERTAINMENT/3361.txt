@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Sofia Coppola Learns What The Bechdel Test Is During An Interview', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/sofia-coppola-learns-what-the-bechdel-test-is-during-an-interview_us_59482684e4b0edb84c14c51a', 'short_description': '"The what test?"', 'date': '2017-06-19'}

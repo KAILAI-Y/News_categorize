@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': '11 Ways To Take Care Of Yourself During This Hellish News Cycle', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/self-care-news_us_5a205dd7e4b0a02abe8fa1d9', 'short_description': "You're not alone if you feel triggered by all the sexual misconduct reports.", 'date': '2017-12-01'}

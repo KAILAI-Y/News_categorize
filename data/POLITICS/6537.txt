@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Flat Out Lies About His Reaction To Charlottesville', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-charlottesville-reaction_us_59956f3fe4b0acc593e5639c', 'short_description': 'Sigh.', 'date': '2017-08-17'}

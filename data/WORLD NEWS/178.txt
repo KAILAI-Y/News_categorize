@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '6.9 Magnitude Earthquake Strikes Near Papua New Guinea', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/papua-new-guinea-earthquake_us_5abd742fe4b0f112dc9b064d', 'short_description': 'The country is still recovering from a pair of earlier earthquakes that killed at least 85 people.', 'date': '2018-03-30'}

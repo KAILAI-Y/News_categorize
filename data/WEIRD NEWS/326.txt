@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'The First Cat In Space May Finally Get The Recognition She Deserves', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/cat-in-space-memorial-statue-felicette_us_59ea1b41e4b05b4f1c3af7c2', 'short_description': "Currently, she's a UFO: An underappreciated feline orbiter.", 'date': '2017-10-20'}

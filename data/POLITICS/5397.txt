@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bears, Packers Link Arms During National Anthem', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/bears-packers-take-knee_us_59cd16b0e4b0e005cc572d29', 'short_description': "NFL players again stood in solidarity after President Donald Trump's call to fire players protesting racial injustice.", 'date': '2017-09-29'}

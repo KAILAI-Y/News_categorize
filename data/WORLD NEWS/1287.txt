@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Sahar Speaks: Giving The Women Of Afghanistan A Voice', 'authors': 'Amie Ferris-Rotman, Sahar Speaks', 'link': 'https://www.huffingtonpost.com/entry/sahar-speaks-afghanistan-women-journalists_us_599f050fe4b06d67e3360eba', 'short_description': 'Through stories, photos and videos, the female perspective unfolds.', 'date': '2017-08-31'}

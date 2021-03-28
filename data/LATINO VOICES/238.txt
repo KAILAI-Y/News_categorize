@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "A Lynda Carter Appearance In 'Wonder Woman 2' Has Already Been Discussed", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/lynda-carter-wonder-woman-2-sequel_us_596cc20be4b0d6341fea7eff', 'short_description': "The actress said she wasn't in the first film due to timing issues.", 'date': '2017-07-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'San Francisco Is Getting Its First Black Female Mayor', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/london-breed-san-francisco-mayor_us_5a302919e4b01bdd7657d0d0', 'short_description': "London Breed has taken on the role after Mayor Ed Lee's sudden death.", 'date': '2017-12-13'}

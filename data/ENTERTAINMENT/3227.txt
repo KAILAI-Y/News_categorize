@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Rest Assured, Amy Schumer And Jennifer Lawrence Still Hang Out', 'authors': 'Jillian Capewell', 'link': 'https://www.huffingtonpost.com/entry/rest-assured-amy-schumer-and-jennifer-lawrence-still-hang-out_us_5963e4d8e4b03f144e2d083b', 'short_description': 'The friendship that shook summer 2015 lives on.', 'date': '2017-07-10'}

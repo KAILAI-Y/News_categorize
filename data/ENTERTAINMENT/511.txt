@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jimmy Kimmel Gleefully Responds To 'My Pal' Sean Hannity's Lawyer Revelation", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-sean-hannity-michael-cohen_us_5ad5b43ae4b016a07ea02900', 'short_description': 'Is the Kimmel vs. Hannity war of words about to reignite?', 'date': '2018-04-17'}

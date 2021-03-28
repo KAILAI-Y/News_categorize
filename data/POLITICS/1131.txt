@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Gets Brutally Mocked Over Latest White House Ousting', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-shulkin-out-reaction_us_5abc899fe4b06409775d1d49', 'short_description': '"Does Donald Trump genuinely think he is supposed to eliminate someone each week?"', 'date': '2018-03-29'}

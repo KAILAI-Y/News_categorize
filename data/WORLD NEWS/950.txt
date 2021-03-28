@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Scores Killed In Shootout Near Cairo', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/scores-killed-in-shootout-near-cairo_us_59eb4589e4b00f08619f1f87', 'short_description': 'Egypt is battling an Islamist insurgency concentrated in the Sinai peninsula.', 'date': '2017-10-21'}

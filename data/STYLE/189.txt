@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "11 Things We're Obsessed With This Week, Besides Friday The 13th", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/things-were-obsessed-with-13_us_59de75d8e4b00abf364603e1', 'short_description': 'Eat, drink and be scary 👻', 'date': '2017-10-11'}

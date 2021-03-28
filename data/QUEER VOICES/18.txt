@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "86-Year-Old Gay Man Proves You're Never Too Old To Attend Your First Pride", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/86-year-old-man-first-gay-pride_us_5b001d8ce4b0a046186c0e28', 'short_description': 'Martin hopes his journey will inspire young LGBTQ people.', 'date': '2018-05-21'}

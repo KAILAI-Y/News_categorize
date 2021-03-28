@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Reveals The Question He’d Ask Donald Trump That No Else Has Dared To', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-question_us_5b0509a5e4b0784cd2af9011', 'short_description': 'Under $1 million?', 'date': '2018-05-23'}

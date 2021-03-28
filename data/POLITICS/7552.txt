@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The New Senate Bill Has The Same Old Medicaid Cuts. That Tells You Something.', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/new-senate-bill-medicaid-cut_us_5967cd86e4b03389bb161a1c', 'short_description': "Revisions won't spare low-income Americans from serious losses of coverage.", 'date': '2017-07-14'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Shania Twain's Latest Single Proves She's Still The One, Twitter Agrees", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/shania-twains-latest-single-proves-shes-still-the-one-twitter-agrees_us_5942db9fe4b01eab7a2c5309', 'short_description': "Life's about to get good.", 'date': '2017-06-15'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Dozens Killed In Reported Chemical Attack On Syrian Rebel Enclave', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/chemical-attack-ghouta-syria_us_5ac97b65e4b09d0a119473f2', 'short_description': 'A chemical attack on a rebel-held town in eastern Ghouta was said to have killed at least 49.', 'date': '2018-04-08'}

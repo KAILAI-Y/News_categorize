@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Crushed Crickets Could Make Lots Of Bread For Finnish Baker', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/cricket-bread-finland_us_5a1c828fe4b04e8b2a83cb95', 'short_description': '"I don’t taste the difference ... It tastes like bread,” one consumer said.', 'date': '2017-11-27'}

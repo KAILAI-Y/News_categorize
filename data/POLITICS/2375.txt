@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Despite Tough Talk, The Trade Deficit Is Up Under Trump', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/trump-trade-deficit-up-sotu_us_5a71386be4b0ae29f08bfff7', 'short_description': "The president hasn't really done anything on trade.", 'date': '2018-01-31'}

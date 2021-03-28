@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Simone Biles Expertly Claps Back After Being Called A Bad Role Model', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/simone-biles-claps-back-bad-role-model_us_59626a65e4b0615b9e924911', 'short_description': '"Take a couple seats."', 'date': '2017-07-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Blood-Price Of Political Dysfunction', 'authors': 'Brett Seifried, ContributorGeneral Counsel, New Leaders Council', 'link': 'https://www.huffingtonpost.com/entry/the-blood-price-of-political-dysfunction_us_59d29b9be4b043b4fb095b99', 'short_description': "We didn't get here by happenstance.", 'date': '2017-10-02'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ralph Macchio Is Returning To Star In A 'Karate Kid' Sequel", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/karate-kid-sequel-ralph-macchio_us_5984995fe4b08b75dcc6a7e4', 'short_description': 'This 10-episode series will follow his struggle to be a Karate Man.', 'date': '2017-08-04'}

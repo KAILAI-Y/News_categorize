@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Prince William Broke Seriously Important Protocol On A Recent Trip', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/prince-william-broke-seriously-important-protocol-on-a-recent-trip_us_5996d1bbe4b01f6e801dffff', 'short_description': 'Another way the royals are living a more modern life.', 'date': '2017-08-18'}

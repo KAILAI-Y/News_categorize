@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Someone Just Bet A Ridiculous Amount On The Eagles In Super Bowl', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bet-eagles-super-bowl_us_5a69d19be4b0dc592a0fab94', 'short_description': "One of the biggest Las Vegas sports bets in recent history is riding on Philadelphia's underdog team.", 'date': '2018-01-25'}

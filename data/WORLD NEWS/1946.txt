@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Norway May Soon Ban Face Veils In Schools', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/norway-face-veils_us_5940222ce4b02402687d2974', 'short_description': 'Proponents of the new bill say face veils "prevent good communication" between teachers and students.', 'date': '2017-06-13'}

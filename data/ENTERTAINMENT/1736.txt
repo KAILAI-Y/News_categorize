@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mark Hamill Is Sorry For Slamming Luke Skywalker In 'The Last Jedi,’ OK?", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-sorry-luke-skywalker_us_5a43c437e4b025f99e192338', 'short_description': 'The actor previously said, “He’s not my Luke Skywalker.”', 'date': '2017-12-27'}

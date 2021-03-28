@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Words Of Wisdom Gained From Watching The Comey Hearing', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/words-of-wisdom-gained-from-watching-the-comey-hearing_us_59398ba1e4b006105480a607', 'short_description': '"Comey at me, bro!" ... No, nothing? Cool.', 'date': '2017-06-08'}

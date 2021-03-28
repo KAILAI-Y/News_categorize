@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Amy Schumer Almost Got Married By Adele Thanks To Jennifer Lawrence', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/amy-schumer-almost-got-married-by-adele-thanks-to-jennifer-lawrence_us_5ace3a8de4b0701783aa93f5', 'short_description': 'All roads lead back to JLaw.', 'date': '2018-04-11'}

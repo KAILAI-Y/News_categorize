@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Lindsay Lohan Is Now Joking About Her Rap Sheet To Hawk Legal Services', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/lindsay-lohan-lawyercom_us_5ab250cae4b0decad045bf2b', 'short_description': 'Meet the winking new spokesperson for a lawyer search website.', 'date': '2018-03-21'}

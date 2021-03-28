@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Kim Jong Un Look-Alike Gets Booted From Olympics, Says Face Is 'Too Political'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kim-jong-un-doppelganger-hockey-olympics_us_5a8430e0e4b0cf0675205adb', 'short_description': '"I was born with this face, I’ve got to live with it."', 'date': '2018-02-14'}

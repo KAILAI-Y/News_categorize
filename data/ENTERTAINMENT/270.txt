@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rihanna Reveals She And Drake Aren't Friends: 'It Is What It Is'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/rihanna-drake-relationship-friendship_us_5aeb35fee4b041fd2d24103b', 'short_description': '"I don’t like to be put on blast."', 'date': '2018-05-03'}

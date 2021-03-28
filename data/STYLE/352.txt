@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Millie Bobby Brown Teaches Us How To Pull Off Clear-Knee Mom Jeans', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/millie-bobby-brown-clear-plastic-jeans_us_593aa619e4b0240268788858', 'short_description': 'The "Stranger Things" star has it down.', 'date': '2017-06-09'}

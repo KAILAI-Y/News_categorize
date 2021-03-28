@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Roger Bannister, First Man To Run Mile In Under 4 Minutes, Dies At 88', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/roger-bannister-dies_us_5a9c01a4e4b0a0ba4ad442c7', 'short_description': 'Roger Bannister made headlines around the world at 25 when he ran a mile in 3 minutes and 59.4 seconds.', 'date': '2018-03-04'}

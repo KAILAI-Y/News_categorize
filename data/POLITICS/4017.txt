@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Uber Data Breach, Cover-Up, Prompts Investigations And Lawsuit', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/uber-hack-data-breach-investigations_us_5a15e4c7e4b0cee6c04e1623', 'short_description': "At least five states and three countries are investigating Uber's conduct.", 'date': '2017-11-22'}

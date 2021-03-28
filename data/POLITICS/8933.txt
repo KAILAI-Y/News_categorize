@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sean Spicer Can't Answer Whether Trump Believes In Man-Made Climate Change", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-trump-climate-change_us_592dbcb9e4b0e95ac1944e24', 'short_description': '“Honestly, I haven’t asked him that," the White House press secretary said Tuesday.', 'date': '2017-05-30'}

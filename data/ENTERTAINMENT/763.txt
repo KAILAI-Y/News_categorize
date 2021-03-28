@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Drew Barrymore Had A Badass Response To A Stranger Who Assumed She Was Pregnant', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/drew-barrymore-response-to-stranger-who-assumed-she-was-pregnant_us_5ab40d8de4b0decad04817b4', 'short_description': 'The actress has no time for body shaming.', 'date': '2018-03-22'}

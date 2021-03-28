@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A New Obamacare Repeal Draft Is Out And It Attacks Pre-Existing Protections More Severely', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/graham-cassidy-new-draft_us_59c86943e4b06ddf45f8c269', 'short_description': 'It "opens the door to very bare-bones coverage."', 'date': '2017-09-25'}

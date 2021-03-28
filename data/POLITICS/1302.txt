@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ex-Playboy Model Who Claims Affair With Trump Says He Made Her Cry', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/karen-mcdougal-trump-affair-cnn_us_5ab42e33e4b054d118e1399e', 'short_description': '"I was really sad. It really hurt me, but I went back," she tells CNN\'s Anderson Cooper.', 'date': '2018-03-22'}

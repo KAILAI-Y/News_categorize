@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Rips Steve Bannon: 'How Stupid Do You Have To Be?'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-steve-bannon-stupid_us_5a31fb72e4b091ca2685521b', 'short_description': '"Bannon made mistake after mistake," the late-night host said.', 'date': '2017-12-14'}

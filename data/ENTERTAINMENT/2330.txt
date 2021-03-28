@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Ultimate Odessa, Texas, Road Trip Playlist', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-ultimate-odessa-texas-road-trip-playlist_us_59e8c5cbe4b061a7badad778', 'short_description': 'A Spotify analysis found a lot of Beatles-loving parents in this Lone Star State spot.', 'date': '2017-10-24'}

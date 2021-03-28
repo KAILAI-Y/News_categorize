@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Donald Glover Did What Any Fan Would Do After Being Cast In 'Solo'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/donald-glover-star-wars-lando_us_5af5a3e0e4b0e57cd9f8e386', 'short_description': 'Glover plays the iconic "Star Wars" character Lando Calrissian.', 'date': '2018-05-11'}

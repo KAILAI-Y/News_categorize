@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '‘Stranger Things’ Renewed For Season 3 By Netflix', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/stranger-things-renewed-for-season-3-by-netflix_us_5a21bbffe4b0a02abe912a21', 'short_description': 'Bust out the celebratory waffles!', 'date': '2017-12-01'}

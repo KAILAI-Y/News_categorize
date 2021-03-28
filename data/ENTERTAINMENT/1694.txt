@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Carrie Underwood 'Looked Great' After Accident, Ex-Reality Star Says", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/carrie-underwood-looked-great-adrienne-gang_us_5a4cadabe4b06d1621bbf008', 'short_description': 'Adrienne Gang of "Below Deck" saw the country star at a gym in December.', 'date': '2018-01-03'}

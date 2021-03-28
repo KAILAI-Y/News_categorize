@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "How Germany's Far-Right Party Managed To Mainstream Its Radical Views", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/germany-afd-far-right-election_us_59c1838de4b0186c2206953b', 'short_description': 'Alternative for Germany could win dozens of seats in parliament this Sunday.', 'date': '2017-09-21'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Obamacare Sabotage Is Doing Real Damage To American Health Care", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/trumps-obamacare-sabotage-is-doing-real-damage-to-american-health-care_us_59e1840be4b04d1d5182082d', 'short_description': 'A series of blows is taking its toll.', 'date': '2017-10-14'}

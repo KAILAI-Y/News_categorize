@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "New Spending Agreement Repeals Obamacare's Mythical Death Panel", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/spending-bill-obamacare-advisory-board_us_5a7b7af6e4b08dfc92ffc1a4', 'short_description': "Reminder: It wasn't really a death panel.", 'date': '2018-02-08'}

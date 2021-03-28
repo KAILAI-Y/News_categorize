@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Judge Ends Case Over Armed Standoff In Nevada Grazing Dispute', 'authors': 'John L. Smith, Reuters', 'link': 'https://www.huffingtonpost.com/entry/cliven-bundy-case_us_5a53bb2de4b0efe47ebb8b68', 'short_description': 'The judge cited multiple willful evidence violations by prosecutors in dropping the case.', 'date': '2018-01-08'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Photographer Gets Absolutely Flattened On The Final Play Of The Game', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/photographer-flattened-national-championship_us_5a54560ce4b003133ecb93c5', 'short_description': 'He took one for the team.', 'date': '2018-01-09'}

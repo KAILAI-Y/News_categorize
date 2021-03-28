@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Georgia Congressional Candidate Receives Threatening Package', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/karen-handel-suspicious-package_us_5942ed64e4b01eab7a2c7a5f', 'short_description': "Karen Handel's neighbors also received suspicious packages, her campaign said.", 'date': '2017-06-15'}

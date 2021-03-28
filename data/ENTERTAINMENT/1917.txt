@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Will Ferrell Breaks Into The Kardashian House For A Good Cause', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/will-ferrell-breaks-into-the-kardashian-house-for-a-good-cause_us_5a297f89e4b03ece0300e845', 'short_description': '"All right, let\'s get out of here!"', 'date': '2017-12-07'}

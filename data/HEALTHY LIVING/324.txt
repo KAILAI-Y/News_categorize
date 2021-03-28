@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Triathlon Deaths Are A Lot More Common Than You'd Think", 'authors': 'Lisa Rapaport, Reuters', 'link': 'https://www.huffingtonpost.com/entry/triathlon-deaths-are-a-lot-more-common-than-youd-think_us_59c139f6e4b0f22c4a8cc8c4', 'short_description': 'The majority of deaths happen during the swim portion of the race.', 'date': '2017-09-19'}

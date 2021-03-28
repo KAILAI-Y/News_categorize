@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Judge Declares Second Mistrial For Former Ohio Cop Who Fatally Shot Sam DuBose', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/ray-tensing-sam-dubose_us_594be57be4b0a3a837bdfb7c', 'short_description': "It's the third police shooting trial in a week that didn't end with a conviction.", 'date': '2017-06-23'}

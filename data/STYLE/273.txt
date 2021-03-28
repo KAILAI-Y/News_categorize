@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "17 Ways To Make The Most Of What's Left Of Summer", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/summer-things-to-do_us_599b06b6e4b01f6e80200663', 'short_description': 'Take that, fall.', 'date': '2017-08-21'}

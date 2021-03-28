@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Supreme Court To Review Whether Cops Need A Warrant To Obtain Your Phone's Location", 'authors': 'Cristian Farias', 'link': 'https://www.huffingtonpost.com/entry/supreme-court-privacy-cell-phones_us_59355e32e4b0c242ca25b7d1', 'short_description': 'The issue has long perplexed lower courts and alarmed privacy advocates.', 'date': '2017-06-05'}

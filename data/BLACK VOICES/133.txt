@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Teen Gets Decades In Prison For ‘Murder’ Of Someone Killed By A Cop', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/lakeith-smith-adonte-washington-sentence-murder_us_5ac8df6de4b09d0a11943ba4', 'short_description': "Lakeith Smith was convicted under Alabama's accomplice liability law.", 'date': '2018-04-07'}

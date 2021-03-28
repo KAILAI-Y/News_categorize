@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Keeps Citing A Paris Agreement Study That Seriously Misses The Point', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/trump-heritage-study-paris-agreement_us_5930579ee4b07572bdbfd318', 'short_description': "He also cites it wrong because that's our president.", 'date': '2017-06-02'}

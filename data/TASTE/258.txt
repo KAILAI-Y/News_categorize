@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Jessica Simpson Finally Redeems Herself When Tuna Is Found In Whole Foods' Chicken Salad", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/jessica-simpson-tuna-chicken_us_59637a51e4b0d5b458ebdb85', 'short_description': 'It only took 14 years.', 'date': '2017-07-10'}

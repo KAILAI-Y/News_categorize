@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': '2 Guys Leap Into A Plane From The Alps In Heart-Stopping Video', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/soul-flyers-base-jump-into-plane_us_5a208fe6e4b03c44072c510e', 'short_description': 'Wingsuit duo managed to catch their flight.', 'date': '2017-12-01'}

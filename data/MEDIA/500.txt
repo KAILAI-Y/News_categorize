@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Rolling Stone Magazine Is Up For Sale', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/rolling-stone-magazine-for-sale_us_59bf9b1ce4b086432b0864d8', 'short_description': 'The magazine reaches an audience of over 65 million people.', 'date': '2017-09-18'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': '#OnlyYou, #TeamSmokey', 'authors': 'Smokey Bear, ContributorWildfire Prevention Icon, Longest Running PSA in U.S. History', 'link': 'https://www.huffingtonpost.com/entry/onlyyou-teamsmokey_us_598a2456e4b08a4c247f2654', 'short_description': 'That’s right friends, I need you.', 'date': '2017-08-09'}

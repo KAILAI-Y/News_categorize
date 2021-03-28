@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Facebook Admits It's Probably Not The Best Thing For Democracy", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/facebook-not-good-for-democracy_us_5a6639f7e4b0dc592a0b8502', 'short_description': '"If you live in an information cocoon, you will believe many things that are false."', 'date': '2018-01-22'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Donald Trump Tweet Rescues 'Roseanne' And Family In Season Finale", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-tweet-roseanne_us_5b053e19e4b05f0fc843414e', 'short_description': '“The president spelled ‘Illinois’ wrong in his tweet, but it still counts, right?”', 'date': '2018-05-23'}

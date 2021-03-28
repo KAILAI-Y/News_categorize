@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "4-Year-Old Boy Is A Superhero To Alabama's Homeless Population", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/austin-perine-superhero-alabama-homeless_us_5b0333dce4b0463cdba528eb', 'short_description': '“Feeding the homeless is the highlight of my life,” Austin Perine said.', 'date': '2018-05-21'}

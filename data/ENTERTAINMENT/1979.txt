@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chris Pratt Warns Fans Of 'Potential Predator' Disguised As Him Online", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/chris-pratt-warns-fans-of-potential-predator-disguised-as-him-online_us_5a215db0e4b03c44072cfa98', 'short_description': '"It terrifies me to think someone could be hurt."', 'date': '2017-12-01'}

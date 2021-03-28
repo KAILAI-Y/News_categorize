@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The 'Curb Your Enthusiasm' Theme Over Animatronic Trump Is Comedy Gold", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/curb-your-enthusiasm-donald-trump-animatronic-abraham-lincoln_us_5a3b8dfde4b025f99e14b756', 'short_description': "Check out anima-Abraham Lincoln's face when the tune plays.", 'date': '2017-12-21'}

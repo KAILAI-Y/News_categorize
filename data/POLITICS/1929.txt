@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Needs Reminder To Listen To Parkland Survivors In ‘Listening Session’', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/trump-gun-violence-listening-session-cheat-sheet_us_5a8df898e4b077f5bfeaca88', 'short_description': 'Good thing he had a cheat sheet.', 'date': '2018-02-22'}

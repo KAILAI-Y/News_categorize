@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jerry Seinfeld Admits Some 'Seinfeld' Material Is Now Offensive", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/seinfeld-offensive_us_59d8d036e4b046f5ad9877ec', 'short_description': '"You could never do that today,” Seinfeld said of an old episode.', 'date': '2017-10-07'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Celebrities React To The Death Of Tom Petty', 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/celebrities-react-to-the-sudden-news-of-tom-pettys-death_us_59d29999e4b065578154bc05', 'short_description': '"You brought us so much joy."', 'date': '2017-10-02'}

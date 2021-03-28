@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Iconic Little Mermaid Statue Vandalized In Whale Hunting Protest', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/little-mermaid-statue-whale-hunting_us_592d8272e4b053f2d2ae4313', 'short_description': 'Graffiti nearby urged Denmark to "defend the whales of the Faroe Islands."', 'date': '2017-05-30'}

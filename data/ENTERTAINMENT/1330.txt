@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Game Of Thrones' Actor Believes A Twist Is Coming With Bran", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/thomas-brodie-sangster-game-of-thrones-maze-runner_us_5a6aa378e4b06e2532662fa7', 'short_description': 'This "Maze Runner" star can "Reed" between the lines on "Game of Thrones."', 'date': '2018-01-29'}

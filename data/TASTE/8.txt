@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'How The Heck Do Air Fryers Work, Anyway?', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/how-do-air-fryers-work-top-rated_us_5a4be0f5e4b06d1621bb52e8', 'short_description': 'Make everyday Fry Day 🍟', 'date': '2018-01-03'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "CNN Fires Jake Tapper's Senior Producer After Behavior Complaints", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/cnn-jake-tapper-fires-senior-producer-complaints_us_5a1f7a65e4b0a8581e67e92f', 'short_description': 'Three female colleagues reportedly came forward with the complaints.', 'date': '2017-11-30'}

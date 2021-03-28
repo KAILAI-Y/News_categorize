@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Don't Look Now, But Full Obamacare Repeal Is Back On The Table", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/dont-look-now-but-full-obamacare-repeal-is-back-on-the-table_us_59bd9f2de4b086432b07a12a', 'short_description': 'A bill nobody took seriously suddenly sounds serious.', 'date': '2017-09-17'}

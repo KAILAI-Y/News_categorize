@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Chiropractor's Car Seat Carrier Hack May Just Change Your Life", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/chiropractor-car-seat-hack_us_59581722e4b0da2c7323f7ca', 'short_description': 'Your shoulders and hips will thank you.', 'date': '2017-07-02'}

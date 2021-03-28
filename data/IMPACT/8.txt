@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'A New Farming Technique Using Drastically Less Water Is Catching On', 'authors': 'John Vidal', 'link': 'https://www.huffingtonpost.com/entry/farming-technique-using-drastically-less-water-is-catching-on_us_5af41876e4b0859d11d0ae35', 'short_description': 'But not everyone is on board.', 'date': '2018-05-15'}

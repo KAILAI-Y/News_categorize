@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Close Your Eyes And Allow Idris Elba To Read You A Bedtime Story', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/close-your-eyes-and-allow-idris-elba-to-read-you-a-bedtime-story_us_59b6a16ae4b036fd85cc9c31', 'short_description': "It's for a good cause!", 'date': '2017-09-11'}

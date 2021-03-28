@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Of Course Michael and Boomer Phelps Are Doing Ads For Swim Diapers', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/of-course-michael-and-boomer-phelps-are-doing-ads-for-swim-diapers_us_5972085de4b00e4363def6af', 'short_description': 'This Huggies commercial is adorable.', 'date': '2017-07-21'}

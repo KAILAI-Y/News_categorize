@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Asahd Khaled In A Custom Gucci Suit Is Too Cute For Words', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/asahd-khaled-in-a-custom-gucci-suit-is-too-cute-for-words_us_59a354dde4b05710aa5d24fd', 'short_description': 'The 10-month old is better dressed than all of us.', 'date': '2017-08-27'}

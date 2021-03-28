@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Bachelor In Paradise' Star Vinny Ventiera Discusses Filming After Scandal", 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/bachelor-in-paradise-star-vinny-ventiera-discusses-filming-after-scandal_us_598229aee4b06d488874039d', 'short_description': '"[The situation] will be addressed."', 'date': '2017-08-03'}

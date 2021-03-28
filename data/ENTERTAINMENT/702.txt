@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Roseanne' Reboot Snags More Viewers Than 1997 Season Finale", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/roseanne-reboot-ratings_us_5abbbf36e4b03e2a5c787995', 'short_description': 'The show hit 18 million viewers, which is, as one Twitter user said, "Big Bang Theory territory."', 'date': '2018-03-28'}

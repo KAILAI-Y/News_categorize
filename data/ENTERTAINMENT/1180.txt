@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'House Of Cards' Actor Reg E. Cathey Is Dead At 59", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/reg-e-cathey-dead_us_5a7e3bc8e4b08dfc930426ab', 'short_description': 'He\'s called a "masterful actor" and "one of a kind" by series creators.', 'date': '2018-02-10'}

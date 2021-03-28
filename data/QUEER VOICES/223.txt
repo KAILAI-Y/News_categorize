@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'NFL Prospect Derrius Guice Says Team Asked Him If He Was Gay', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/derrius-guice-nfl-sexuality_us_5aa13dbae4b002df2c616f6e', 'short_description': 'The former LSU running back said he was also asked if his mother "sells herself."', 'date': '2018-03-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "CNN Panel Rips Scaramucci After He Calls Trump 'Obviously Very Presidential'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/anthony-scaramucci-cnn-trump_us_5aa556c3e4b086698a9edc5a', 'short_description': '"Paying off a porn star is presidential?"', 'date': '2018-03-11'}

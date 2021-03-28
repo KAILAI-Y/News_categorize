@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Roseanne' Promo Trumpets Johnny Galecki's Return Next Week", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/johnny-galecki-roseanne-return_us_5ad0c312e4b077c89ce80402', 'short_description': 'His character has some explaining to do in an awkward homecoming.', 'date': '2018-04-13'}

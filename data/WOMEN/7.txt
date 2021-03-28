@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/20-funniest-tweets-from-women-may-13_us_5afdd0d1e4b0779345d73416', 'short_description': '"Coffee mugs do a lot of heavy lifting when it comes to personality in the workplace."', 'date': '2018-05-18'}

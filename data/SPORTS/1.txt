@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Trump Posthumously Pardons Boxer Jack Johnson', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/trump-pardons-late-boxing-champion-jack-johnson_us_5b06eea4e4b07c4ea10630c8', 'short_description': 'The pardoning of the black heavyweight boxer is only the third posthumous pardon in U.S. history.', 'date': '2018-05-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here Are 6 Of John Bolton's Most Belligerent Op-Eds In Recent Years", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/john-bolton-op-eds_us_5ab443fce4b054d118e14d32', 'short_description': "A taste of what's to come?", 'date': '2018-03-23'}

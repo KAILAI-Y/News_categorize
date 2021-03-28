@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Cerebral Palsy Didn't Stop This College Junior. Obamacare Repeal Might.", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/medicaid-cuts-disabilities_us_5941d2ade4b003d5948d133f', 'short_description': "Here's what cutting Medicaid could mean for people with disabilities.", 'date': '2017-06-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Allies Reportedly Planning To Defend Trump Jr. By Digging Up Dirt On Reporters', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-attacks-media_us_59661275e4b03f144e2f568a', 'short_description': "President Donald Trump's attacks on the free press continue.", 'date': '2017-07-12'}

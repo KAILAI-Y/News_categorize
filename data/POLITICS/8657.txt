@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Pillar' Of Hawaii's Coffee Industry Given Last-Minute Reprieve From Deportation", 'authors': 'Cristian Farias', 'link': 'https://www.huffingtonpost.com/entry/magana-ortiz-trump-hawaii-kona-coffee_us_5938c84ee4b0b13f2c66ee0b', 'short_description': 'Andres Magaña Ortiz has called the U.S. home for the last 28 years.', 'date': '2017-06-08'}

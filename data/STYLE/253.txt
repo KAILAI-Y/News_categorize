@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'The Reason Zayn Malik Shaved His Head Is Actually Pretty Common', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/zayn-malik-shaves-head-bleach-damage_us_59b30a75e4b0b5e531065506', 'short_description': '"The bleach affects your hair, doesn’t it? So you’ve got to shave it off."', 'date': '2017-09-09'}

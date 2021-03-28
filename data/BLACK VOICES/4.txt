@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'This Women Pulled Out All The Stops To Land Her Dream Job', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/applicant-scores-dream-spotify-job_us_5b071074e4b0784cd2b2def0', 'short_description': 'Jessica Bain scored the black history and culture fellowship at Spotify.', 'date': '2018-05-24'}

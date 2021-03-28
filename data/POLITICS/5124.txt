@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans Largely Stay Silent After Sen. Bob Corker's Rebuke Of President Trump", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-corker-war_us_59dc06efe4b0208970cf3071', 'short_description': "Tax cuts or bust remains the party's motto for now.", 'date': '2017-10-10'}

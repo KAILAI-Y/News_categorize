@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Patriots QB Tom Brady After Super Bowl Loss: 'I Expect To Be Back'", 'authors': 'By Daniel Trotta, Reuters', 'link': 'https://www.huffingtonpost.com/entry/super-bowl-tom-brady_us_5a7805dbe4b06ee97af47972', 'short_description': 'New England Patriots’ 40-year-old quarterback is not ready to retire.', 'date': '2018-02-05'}

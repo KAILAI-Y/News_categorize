@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'What If We Lose Live Performance?', 'authors': 'David Crosby, ContributorMusician', 'link': 'https://www.huffingtonpost.com/entry/what-if-we-lose-live-performance_us_59a4ace6e4b0446b3b860899', 'short_description': 'What happens when public safety concerns mean artists and venues no longer can get insurance?', 'date': '2017-08-29'}

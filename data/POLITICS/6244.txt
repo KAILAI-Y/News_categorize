@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New Memorial In Alabama Honors Confederate Soldiers', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/brantley-alabama-cofederate-statue_us_59a3a142e4b0821444c45402', 'short_description': 'The monument was placed on private land and dedicated to "Unknown Alabama Confederate Soldiers."', 'date': '2017-08-28'}

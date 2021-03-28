@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'This Optical Illusion Will Blow The Color Right Out Of Your Eyeballs', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/color-fade-illusion-troxler_us_5acc4fd7e4b09d0a1196d2b3', 'short_description': 'You might stop trusting your own eyes after seeing this.', 'date': '2018-04-10'}

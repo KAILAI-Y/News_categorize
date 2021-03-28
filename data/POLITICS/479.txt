@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "A Republican Convicted Of Election Fraud Had VIP Access To Trump's Michigan Rally", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-michigan-volunteer-election-fraud_us_5ae9d897e4b06748dc8ea7c8', 'short_description': "He's still serving on probation for his election fraud conviction.", 'date': '2018-05-02'}

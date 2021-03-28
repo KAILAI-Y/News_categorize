@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah: 'I Don’t Watch Fox News' And Neither Should You", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-fox-news-donald-trump_us_5afa871ee4b044dfffb568ef', 'short_description': '"I encourage my audience to not watch Fox News."', 'date': '2018-05-15'}

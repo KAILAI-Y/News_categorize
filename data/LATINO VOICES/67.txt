@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Guillermo Del Toro On How He Balances The Dark With The Good: 'I'm Mexican'", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/guillermo-del-toro-mexican_us_5a551394e4b0efe47ebdaa32', 'short_description': 'The response elicited laughs at first, but then he masterfully broke it down.', 'date': '2018-01-09'}

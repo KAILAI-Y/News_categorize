@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Montreal Is Ending Its Ban On Pit Bulls', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/montreal-pit-bull-ban_us_5a2c233de4b073789f6a4a20', 'short_description': '″\u200bMontreal is a welcoming city for pet owners and will remain so,” said a city official.', 'date': '2017-12-09'}

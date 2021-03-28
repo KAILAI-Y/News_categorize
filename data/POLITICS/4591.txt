@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bump Stock Maker Resumes Sales One Month After Las Vegas Mass Shooting', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/bump-stocks-sales-las-vegas_us_59fa0675e4b0b0c7fa377bbb', 'short_description': 'Move along, nothing to see here.', 'date': '2017-11-01'}

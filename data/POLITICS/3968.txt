@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Stands By Roy Moore, As GOP Senators Keep Their Distance', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-gop-senators-donald-trump_us_5a1acfaae4b0d4906caf5ae7', 'short_description': 'Tim Scott of South Carolina says Moore needs to "move on" rather than seek a Senate seat.', 'date': '2017-11-26'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chloe Kim Super Bowl Ad Reveals Her Dad's Sacrifices For Her Snowboarding Career", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/chloe-kim-super-bowl-ad_us_5a739029e4b06ee97af0fb55', 'short_description': '“I have to do what’s best for my daughter.”', 'date': '2018-02-02'}

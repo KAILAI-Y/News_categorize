@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrat Challenging GOP Rep. Steve King Drops Out Of Race, Citing Death Threats', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/steve-king-kim-weaver-iowa_us_5935948be4b013c48169e672', 'short_description': 'The congressman responded by dismissing Kim Weaver\'s claims as "a fabrication."', 'date': '2017-06-05'}

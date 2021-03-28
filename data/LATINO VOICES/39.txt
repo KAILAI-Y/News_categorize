@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Shakira And Maluma's 'Trap' Music Video Is Finally Here", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/shakira-maluma-trap-music-video_us_5a6b7c8ce4b0ddb658c63a24', 'short_description': 'It quickly became the No. 1 trending video on YouTube.', 'date': '2018-01-26'}

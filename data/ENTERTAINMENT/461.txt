@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "That Time 'Great British Baking Show' Judge Mary Berry Got Arrested At An Airport", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mary-berry-great-british-baking-show-arrested_us_5ad9c3d0e4b03c426dad678c', 'short_description': 'A snafu by sniffer dogs led to her detention.', 'date': '2018-04-20'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Sean Hannity Goes Berserk After Losing Conservative Media Award', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-buckley-award_us_59724a36e4b00e4363df4fda', 'short_description': 'The Fox News host assailed those who backed out of honoring him as "Never Trumpers."', 'date': '2017-07-21'}

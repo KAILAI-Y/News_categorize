@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Caps Refugee Resettlement At 45,000, Marking All-Time Low', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-lowers-refugee-resettlement_us_59bfc214e4b02da0e1436613', 'short_description': "The move will affect tens of thousands of the world's most vulnerable people.", 'date': '2017-09-27'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Michael Caine Says He Won't Work With Woody Allen Again", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/michael-caine-woody-allen_us_5aa66669e4b07047bec83ffd', 'short_description': 'The actor said he has "very strong views about pedophilia."', 'date': '2018-03-12'}

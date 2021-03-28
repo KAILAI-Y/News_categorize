@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': '27 Awe-Inspiring Photos Of Average-Sized Humans Next To Huge Machines', 'authors': 'Damon Dahlen', 'link': 'https://www.huffingtonpost.com/entry/27-really-big-machines_us_5ab5161ae4b008c9e5f6bc71', 'short_description': 'A larger-than-life look into feats of manufacturing.', 'date': '2018-04-09'}

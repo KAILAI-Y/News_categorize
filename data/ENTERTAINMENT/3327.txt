@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Daddy Yankee Singing 'Despacito' With Cancer Patient Needs No Translation", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/daddy-yankee-singing-despacito-with-a-cancer-patient_us_59529fb3e4b05c37bb79e838', 'short_description': 'Move over, Biebs.', 'date': '2017-06-27'}

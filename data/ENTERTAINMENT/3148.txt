@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Behold The Title Of 'American Horror Story' Season 7", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/behold-the-title-of-american-horror-story-season-7_us_5970e60be4b0aa14ea7872e5', 'short_description': 'Terrifying.', 'date': '2017-07-21'}

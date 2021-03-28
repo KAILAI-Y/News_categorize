@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "'Trap Adventure 2' Might Be The Most Infuriatingly Difficult Game Ever", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/trap-adventure-2_us_5a6a106be4b06e2532658364', 'short_description': 'If you like chucking your phone across the room, this is the game for you.', 'date': '2018-01-25'}

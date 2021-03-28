@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "White House Says Trump Was 'Making A Joke' When He Endorsed Police Brutality", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/trump-police-brutality-joke_us_597f9650e4b08e143004d709', 'short_description': 'Last week he urged officers not to be “too nice.”', 'date': '2017-07-31'}

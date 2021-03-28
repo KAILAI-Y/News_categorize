@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Higher Fuel Prices And Cold Weather Will Squeeze Heating Assistance', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/liheap-benefits-winter-heating_us_5a4e9d33e4b003133ec68e0a', 'short_description': 'The Trump administration proposed eliminating federal heating help altogether.', 'date': '2018-01-04'}

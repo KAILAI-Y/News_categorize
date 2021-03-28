@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "America's Epidemic Of Incivility", 'authors': 'Richard North Patterson, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/americas-epidemic-of-incivility_us_59ef342be4b0b8a51417bd1f', 'short_description': 'Trump did not accomplish this alone.', 'date': '2017-10-24'}

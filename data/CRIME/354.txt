@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Here's How Quickly Your 4th Of July Bonfire Could Go Badly Wrong", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/bonfire-accelerants_us_595b302ce4b05c37bb7fe073', 'short_description': 'YIKES!', 'date': '2017-07-04'}

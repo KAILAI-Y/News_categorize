@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "4 Notorious Hurricane Names You'll Never Hear Again", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/four-notorious-hurricane-names-youll-never-hear-again_us_5acfcee3e4b016a07e9a9f2d', 'short_description': 'Good riddance!', 'date': '2018-04-12'}

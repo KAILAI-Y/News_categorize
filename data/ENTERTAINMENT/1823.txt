@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift's BFF Todrick Hall Says She's 'Very Sensitive' To Criticism", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/todrick-hall-taylor-swift-sensitive_us_5a33d53ae4b040881be9c977', 'short_description': "So maybe last year wasn't so great after all?", 'date': '2017-12-15'}

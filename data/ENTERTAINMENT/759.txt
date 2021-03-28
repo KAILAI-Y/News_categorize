@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'A Fake Facebook Ad Killed Off William Shatner. Captain Kirk Was Not Happy.', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/william-shatner-facebook-dead_us_5ab393c8e4b0decad0473747', 'short_description': '"Thought you were doing something about this?"', 'date': '2018-03-22'}

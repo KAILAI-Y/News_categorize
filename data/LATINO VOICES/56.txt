@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'A Nicky Jam Bio-Series Is Coming To Netflix', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/nicky-jam-el-ganador-netflix-bio-series_us_5a5e525ae4b0c59bc1f9643f', 'short_description': 'The 13-episode show will star the reggaeton artist himself.', 'date': '2018-01-16'}

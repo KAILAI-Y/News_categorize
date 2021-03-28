@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Twitter Users Announce Their New Year's Resolutions Through Song", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-users-announce-their-new-years-resolutions-through-song_us_5a46ac22e4b06d1621b8a602', 'short_description': '"Get my 99 problems down to a more manageable number."', 'date': '2017-12-29'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Did You Donate To The NRA In The Wake Of The Las Vegas Attack?', 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/nra-donations-vegas-attack_us_59d5129ce4b04b9f9206f8a7', 'short_description': "We'd like to hear from you.", 'date': '2017-10-04'}

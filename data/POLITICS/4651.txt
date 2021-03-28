@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Manufacturing Lies', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/manufacturing-lies_us_59f69b43e4b03cd20b82792a', 'short_description': 'Donald Trump promises to make American manufacturing great again. Yet all of his policies would do just the opposite. America', 'date': '2017-10-30'}

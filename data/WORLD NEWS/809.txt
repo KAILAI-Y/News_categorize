@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Iraqi Forces Take Back Country's Last ISIS-Held Town", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/iraqi-capture-isis-town_us_5a0ecb21e4b0dd63b1a9d010', 'short_description': "The capture marks the end of the group's so-called caliphate.", 'date': '2017-11-17'}

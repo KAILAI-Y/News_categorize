@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "Sikh Uber Driver Claims Passenger Pulled Gun On Him, Said, 'I Hate Turban People'", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/sikh-uber-driver-passenger-gunpoint_us_5a85e21ae4b004fc319027dc', 'short_description': 'Gurjeet Singh says he is traumatized, the Sikh Coalition reports.', 'date': '2018-02-15'}

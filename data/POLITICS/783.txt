@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Billionaire GOP Donor: I’m Using My Tax-Cut Money To Help Elect Democrats', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/seth-klarman-democratic-donor_us_5ad4322fe4b077c89cea0063', 'short_description': '"For the good of the country, the Democrats must take back one or both houses of Congress.”', 'date': '2018-04-16'}

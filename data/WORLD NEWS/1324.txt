@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Typhoon Hato Leaves Deadly Trail Of Destruction In Hong Kong And Macau', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/typhoon-hato-hong-kong-macau_us_599d8c5ee4b0d97c4000792e', 'short_description': "The tropical storm killed at least 16 people across China's southeastern coast.", 'date': '2017-08-24'}

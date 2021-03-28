@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Samantha Bee Breaks Down Why She's So Disappointed With John Kelly", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-john-kelly-civil-war_us_59fac998e4b0415a42097c6a', 'short_description': '“You were supposed to be the one we didn’t have to watch like a hawk."', 'date': '2017-11-02'}

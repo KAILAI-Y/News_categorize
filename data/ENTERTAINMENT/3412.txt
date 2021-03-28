@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'After Fueling Their Feud For Weeks, Katy Perry Apologizes To Taylor Swift', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/katy-perry-apologizes-to-taylor-swift_us_593d5446e4b02402687a32ff', 'short_description': '"I love her and I want the best for her."', 'date': '2017-06-11'}

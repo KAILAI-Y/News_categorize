@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Former Fox Host Eric Bolling Says His Son Died Of An Accidental Overdose', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/eric-chase-bolling-death_us_59f26985e4b03cd20b8098d3', 'short_description': 'The death of 19-year-old Eric Chase Bolling has been linked to opioids.', 'date': '2017-10-26'}

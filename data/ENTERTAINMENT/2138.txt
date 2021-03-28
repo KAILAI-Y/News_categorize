@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Heartbreaking Reason Jimmy Fallon Cried Over This Taylor Swift Song', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/the-heartbreaking-reason-jimmy-fallon-cried-over-this-taylor-swift-song_us_5a0af5dee4b00a6eece429ce', 'short_description': "We're gonna need a moment.", 'date': '2017-11-14'}

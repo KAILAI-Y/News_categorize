@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Has A Gross Theory About Donald Trump's 'Executive Time'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-executive-time_us_5a59bd6fe4b0fcbc3a103a52', 'short_description': 'Eww.', 'date': '2018-01-13'}

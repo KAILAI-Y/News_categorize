@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "In 'Brave New Jersey,' Tony Hale Is A Doomsday Prepper Caught In A Rom-Com", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/brave-new-jersey-tony-hale_us_597b3fd6e4b02a8434b5e597', 'short_description': 'The charming comedy takes place during the "War of the Worlds" radio broadcast.', 'date': '2017-07-28'}

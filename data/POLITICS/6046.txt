@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Business, Tech Leaders Blast Trump Plan To Drop Dreamers Program', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/business-tech-daca-dreamer-trump_us_59aebcdae4b0dfaafcf2c2b2', 'short_description': 'Microsoft pledged to pay the legal fees of any Dreamer employee who faces deportation.', 'date': '2017-09-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here Are Donald Trump's 10 Best Days As President", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/here-are-donald-trumps-ten-best-days-as-president_us_5a5fdd3be4b054e351771a1f', 'short_description': 'Hear us out.', 'date': '2018-01-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'RNC Request To Send Christmas Greetings To The Trumps Goes Awry', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rnc-christmas-greetings-trump-twitter_us_5a3379e9e4b040881be937e1', 'short_description': '"Where should we send the lumps of coal?"', 'date': '2017-12-15'}

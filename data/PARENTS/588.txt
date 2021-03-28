@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Amanda Seyfried Has No Time For Chuck E. Cheese's 'Mom Friendly' Ad", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/amanda-seyfried-has-no-time-for-chuck-e-cheeses-mom-friendly-ad_us_59651b8fe4b09b587d62c599', 'short_description': 'The actress called it a "#slightlyoffensivecommercial."', 'date': '2017-07-11'}

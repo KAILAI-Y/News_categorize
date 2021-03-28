@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Men Should Just Give Up, Because Women Are Winning The 'Game Of Thrones'", 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/women-game-of-thrones-season-7_us_59755a34e4b00e4363e06d6c', 'short_description': 'The latest episode was all about the ladies in power.', 'date': '2017-07-24'}

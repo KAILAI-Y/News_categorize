@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Jennifer Aniston Found The Pants Of Your Comfort-Loving Dreams', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/jennifer-aniston-pants_us_596f5338e4b0000eb1975b75', 'short_description': "Here's how to find similar ones for yourself.", 'date': '2017-07-19'}

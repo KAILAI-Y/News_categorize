@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Stevie Wonder Interrupts Concert To 'Take A Knee' For America", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/stevie-wonder-takes-a-knee_us_59c70579e4b0cdc77331bd6c', 'short_description': "The blind music legend took a knee in wake of Trump's 'sons of bitches' comment.", 'date': '2017-09-24'}

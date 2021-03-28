@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': '1960s Cartoon Character Snagglepuss Reinvented As Closeted Gay Playwright', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/snagglepuss-comic-gay-playwright_us_5a257862e4b0a02abe92cbc6', 'short_description': '"Exit, stage left!"', 'date': '2017-12-04'}

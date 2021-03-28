@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Americans Can Still Be Shocked By School Shootings: Poll', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/americans-can-still-be-shocked-by-school-shootings-poll_us_5a8afddae4b004fc319534f9', 'short_description': "Last year, that wasn't a given.", 'date': '2018-02-19'}

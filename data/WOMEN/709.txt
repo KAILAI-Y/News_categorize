@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Women Need To Pack A Gun To Avoid Rape, Says GOP Indiana Lawmaker', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/empowered-rape-victims_us_593ce794e4b0c5a35ca0379b', 'short_description': 'People screamed. Now Jim Lucas is sort of sorry.', 'date': '2017-06-11'}

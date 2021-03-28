@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's Biggest GOP Critics Are Very, Very, Very Sad", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-gop-critics_us_59318288e4b02478cb9adc65', 'short_description': "The Never Trumpers aren't in a great place right now.", 'date': '2017-06-03'}

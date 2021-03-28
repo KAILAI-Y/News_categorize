@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "America Relieved It Didn't Elect The Reckless Email Candidate", 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/america-relieved-it-didnt-elect-the-reckless-email-candidate_us_5966a368e4b0a0c6f1e5c650', 'short_description': 'But her emails...', 'date': '2017-07-12'}

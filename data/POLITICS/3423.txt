@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Black Women Are A Political Organizing Force. They’re Not Unicorns.', 'authors': 'Julia Craven', 'link': 'https://www.huffingtonpost.com/entry/black-women-doug-jones_us_5a318dede4b091ca268508c2', 'short_description': '“Don’t just overlook the hard work that we did,” said one black woman who canvassed for Doug Jones.', 'date': '2017-12-13'}

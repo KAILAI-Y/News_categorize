@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Boy Swallows Piece Of Pet Toy And Can't Stop Squeaking", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/argentina-boy-pet-toy-squeak_us_59d26580e4b05f005d35ce8e', 'short_description': 'Honk!', 'date': '2017-10-02'}

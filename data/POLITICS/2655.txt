@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "John Kelly Told Lawmakers Trump Won't Build Wall Along Entire U.S.-Mexico Border: Reports", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/john-kelly-trump-wall_us_5a5fe02ae4b0ccf9f1214ecd', 'short_description': 'But Trump denied reports he was softening his stance.', 'date': '2018-01-18'}

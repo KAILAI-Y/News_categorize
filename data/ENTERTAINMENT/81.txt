@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jake Gyllenhaal Set To Star As Villain In 'Spider-Man' Sequel", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/jake-gyllenhaal-set-to-star-as-villain-in-spider-man-sequel_us_5b02fbaae4b07309e05afde7', 'short_description': '*Sends giftbasket to Marvel*', 'date': '2018-05-21'}

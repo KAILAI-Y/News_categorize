@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Obama Photographer Trolls Vladimir Putin With The Who Lyrics', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/pete-souza-obama-putin_us_595f3c40e4b0d5b458e978ec', 'short_description': "🎤 No one knows what it's like to be the bad man to be the sad man 🎤", 'date': '2017-07-07'}

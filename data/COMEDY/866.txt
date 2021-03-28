@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Samantha Bee Reveals R-Rated Parenting Technique That Gets Her Kids In Line', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-parenting-technique-stephen-colbert_us_597aee65e4b0da64e8784c4f', 'short_description': '"It\'s very thrilling for them."', 'date': '2017-07-28'}

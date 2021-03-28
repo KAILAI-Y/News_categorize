@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Uranium Company Urged Trump To Carve Up Bears Ears, Then He Did', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/uraniumco-bears-ears-carve_us_5a2ddd59e4b073789f6ae643', 'short_description': "An energy firm's lobbying team was led by Trump's incoming EPA deputy secretary.", 'date': '2017-12-11'}

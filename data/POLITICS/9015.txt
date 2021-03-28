@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report: Jared Kushner Had Undisclosed Contacts With Russian Envoy', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/kushner-russia-contact_us_5928d740e4b0df57cbfbd7db', 'short_description': 'The contacts with the Russian ambassador included two phone calls between April and November.', 'date': '2017-05-27'}

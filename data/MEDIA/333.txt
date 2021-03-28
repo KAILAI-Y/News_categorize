@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'The Top 10 Lies Of 2017', 'authors': 'Pamela Meyer, ContributorCEO, Calibrate', 'link': 'https://www.huffingtonpost.com/entry/top-ten-lies-of-2017_us_5a29a52ae4b022ec613b8077', 'short_description': 'Shameless cover-ups, unbelievable denials and, of course, our liar-in-chief.', 'date': '2017-12-07'}

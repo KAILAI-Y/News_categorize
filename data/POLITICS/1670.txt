@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democratic Party Set To Show Its Force In Nation's First 2018 Primary", 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/texas-primaries_us_5a9d7633e4b0479c0255c1ed', 'short_description': 'Democrats in Texas have turned out in massive numbers for early voting.', 'date': '2018-03-06'}

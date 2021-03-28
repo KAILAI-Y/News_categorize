@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Pope's Confidantes Pen Blistering Critique Of Steve Bannon's View of Christianity", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/popes-confidantes-pen-blistering-critique-of-steve-bannons-view-of-christianity_us_5968e8a3e4b0d6341fe8706c', 'short_description': 'They did not hold back.', 'date': '2017-07-14'}

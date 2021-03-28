@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kellyanne Conway Proves She Can Rhyme And Spin At The Same Time', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-brought-props-to-her-hannity-segment_us_5966e6dee4b0a0c6f1e5e2a7', 'short_description': 'Meme alert.', 'date': '2017-07-13'}

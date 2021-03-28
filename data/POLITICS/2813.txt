@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Top GOP Prospect Kevin Cramer Decides Against Senate Run In North Dakota', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/north-dakota-senate-cramer_us_5a5785a0e4b05b7a92eeacf7', 'short_description': 'Republicans are having trouble lining up quality Senate candidates in some key races.', 'date': '2018-01-11'}

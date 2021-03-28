@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mike Pence's NFL Stunt Cost Police Department $14,000", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-nfl-stunt-cost-police-department-14000_us_5a0b170fe4b0bc648a0e1a26', 'short_description': 'Trump told Pence to leave the game if players knelt.', 'date': '2017-11-14'}

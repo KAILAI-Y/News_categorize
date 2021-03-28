@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Woman Goes Absolutely Bonkers After Winning $11.30 In Online Trivia', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/woman-goes-bonkers-after-winning-online-trivia_us_5a4d1ef7e4b025f99e1f6ce4', 'short_description': 'Enjoy one minute and 14 seconds of pure joy.', 'date': '2018-01-03'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "This 'Pollen Bomb' Is Every Allergy Sufferer's Worst Nightmare", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/pollen-bomb-explosion-new-jersey_us_5af42775e4b04d3b2c90f5f2', 'short_description': 'Achoo!', 'date': '2018-05-10'}

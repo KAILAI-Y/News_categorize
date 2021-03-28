@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Could Protect Dreamers If They Wanted To. But Will They?', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/republians-dreamers-daca_us_59acb953e4b0dfaafcf1255c', 'short_description': "They're in a bind.", 'date': '2017-09-04'}

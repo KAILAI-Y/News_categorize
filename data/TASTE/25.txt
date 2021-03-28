@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Epic Gingerbread House Fails Are Your New Favorite Holiday Tradition', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/gingerbread-house-fails-holiday_us_5a326105e4b01bdd765a2fee', 'short_description': 'People are sharing snaps of their misshapen creations, which look NOTHING like this picture.', 'date': '2017-12-14'}

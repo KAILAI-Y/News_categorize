@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'As Law That First Saved Grand Canyon Turns 111, Trump Takes Aim At Its Legacy', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/antiquities-act-anniversary-trump_us_593994b5e4b0c5a35c9d5e7b', 'short_description': 'The president could eliminate as many as 27 national monuments.', 'date': '2017-06-08'}

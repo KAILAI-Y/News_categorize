@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Dramatic Photos Show London Apartment Building Enveloped In Flames', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/london-apartment-fire_us_5940ab4de4b0d3185485cb08', 'short_description': 'Authorities have confirmed multiple fatalities.', 'date': '2017-06-14'}

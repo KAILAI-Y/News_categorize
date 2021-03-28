@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '14 Dead, Hundreds Injured In Fiery South Africa Train Crash', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/south-africa-train-crash-deaths_us_5a4e3681e4b06d1621bd8809', 'short_description': 'The train struck a lorry, derailed and burst into flames.', 'date': '2018-01-04'}

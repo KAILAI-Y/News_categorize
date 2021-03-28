@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Older Gay Men Try Out 'New Gay' Slang In This Hilarious Video", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/older-gay-men-slang-video_us_5b0716cbe4b0784cd2b2e157', 'short_description': '“You guys are watching too much RuPaul.”', 'date': '2018-05-25'}

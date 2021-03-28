@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Trump To African Leaders: My Friends Go To Your Countries To Get Rich', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/trump-hosts-african-leaders-un-nambia_us_59c2b29fe4b0c90504fb0cfe', 'short_description': "He also praised Africa's non-existent nation of Nambia.", 'date': '2017-09-20'}

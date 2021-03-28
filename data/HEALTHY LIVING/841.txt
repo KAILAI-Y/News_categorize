@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'REM Sleep Cells Linked To Brain Disorders', 'authors': 'Tracy Staedter, Live Science', 'link': 'https://www.huffingtonpost.com/entry/rem-sleep-cells-linked-to-brain-disorders_us_5935a9d1e4b0099e7fae3a54', 'short_description': '“For some reason, the cells in the REM sleep area are the first to be sickened."', 'date': '2017-06-05'}

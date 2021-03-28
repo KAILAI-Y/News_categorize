@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hm, I Wonder What Mark Zuckerberg’s Up To On Facebook Right Now', 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/mark-zuckerberg-facebook-cambridge-analytica_us_5ab16456e4b0decad044d71a', 'short_description': "We're watching you, Mark.", 'date': '2018-03-20'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Woody Allen Really Hopes It’s OK To Keep Winking At Women. Women Beg To Differ.', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/woody-allen-wink-weinstein_us_59e418cae4b04d1d51829ee1', 'short_description': 'How NOT to behave at work.', 'date': '2017-10-16'}

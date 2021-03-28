@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chuck Schumer Warns Trump Against Withholding Obamacare Cash', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/chuck-schumer-donald-trump-obamacare-cash_us_597cc9f4e4b02a8434b6c5d9', 'short_description': 'The health care battle continues.', 'date': '2017-07-29'}

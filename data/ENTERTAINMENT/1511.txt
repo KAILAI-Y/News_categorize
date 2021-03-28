@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Designers To Auction Golden Globes Dresses To Benefit 'Time's Up' Fund", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/auction-golden-globes-dresses-times-up_us_5a5f5ca5e4b00a7f171c61dd', 'short_description': 'Black dresses and tuxedos will be available for bidding starting Jan. 19.', 'date': '2018-01-17'}

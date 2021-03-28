@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Rihanna Demands Puerto Rico Aid From Donald Trump', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/rihanna-slams-trump-with-a-twitterstorm-about-puerto-rico_us_59ce6c5de4b06791bb1052eb', 'short_description': '“Don\'t let your people die like this."', 'date': '2017-09-29'}

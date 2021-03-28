@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Poll Shows Trump's Support Dropping Among White Evangelicals", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/poll-trump-support-evangelicals_us_5a29fdece4b073789f689db9', 'short_description': "The president's approval rating continues to fall in his first year in office.", 'date': '2017-12-08'}

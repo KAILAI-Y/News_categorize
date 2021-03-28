@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Is The Fast-Food President', 'authors': 'Dave Jamieson', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-the-fast-food-president_us_598344d9e4b0fa1575fc6830', 'short_description': "The Trump administration is taking the reins off low-wage employers. It's a stark reversal from the Obama years.", 'date': '2017-08-05'}

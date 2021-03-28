@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'If Twitter Can #AddClimateChangeToTV, Then Maybe Trump Will Pay Attention', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/if-twitter-can-addclimatechangetotv-then-maybe-trump-will-pay-attention_us_598a0d20e4b0d793738aca9a', 'short_description': "Let's be real: He's watching plenty of TV.", 'date': '2017-08-08'}

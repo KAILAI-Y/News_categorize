@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "World's Oldest Man, Holocaust Survivor Yisrael Kristal, Dead At 113", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/world-oldest-man-holocaust-survivor-yisrael-kristal-dead-at-113_us_598dc703e4b08a247273e388', 'short_description': 'Last year, he finally got to celebrate his bar mitzvah.', 'date': '2017-08-11'}

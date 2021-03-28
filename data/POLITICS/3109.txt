@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Steph Curry, Chance The Rapper Join Barack Obama In Inspiring PSA', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/barack-obama-steph-curry-chance_us_5a43c3ace4b025f99e192029', 'short_description': '🙌  🙌  🙌', 'date': '2017-12-27'}

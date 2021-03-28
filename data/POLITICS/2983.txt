@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Lawyer Sends Cease-And-Desist Letter To Steve Bannon', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-cease-and-desist-bannon_us_5a4da9b5e4b06d1621bd1055', 'short_description': 'Attorney Charles Harder said legal action is imminent.', 'date': '2018-01-04'}

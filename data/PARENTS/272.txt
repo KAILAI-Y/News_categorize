@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Dad's Instagram Post Sums Up The Struggle Of Weekends For Parents", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/dads-instagram-post-sums-up-the-struggle-of-weekends-for-parents_us_59cba35be4b02aef6cd66a9b', 'short_description': 'This goes out to all the burned out parents.', 'date': '2017-09-27'}

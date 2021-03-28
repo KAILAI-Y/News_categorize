@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "The NBA Shows Its Love For Gregg Popovich After Wife's Death", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/gregg-popovich-wife-erin-death-nba_us_5ad88f80e4b03c426dabe254', 'short_description': '"It\'s bigger than winning and losing," Warriors star Kevin Durant said.', 'date': '2018-04-19'}

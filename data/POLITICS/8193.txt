@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The False Promise Of Trump’s Rural Infrastructure Investment', 'authors': 'The American Prospect, ContributorLiberal Intelligence', 'link': 'https://www.huffingtonpost.com/entry/the-false-promise-of-trumps-rural-infrastructure-investment_us_594d834ce4b0326c0a8d0852', 'short_description': 'Aviation isn’t spared, either.', 'date': '2017-06-23'}

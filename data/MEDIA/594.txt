@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Trump's Old Words Bite Him In The Butt\xa0As He Tries To Duck Responsibility", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-responsibility_us_596ee1a1e4b00db3d0f3f5ae', 'short_description': '"Leadership: Whatever happens, you\'re responsible."', 'date': '2017-07-19'}

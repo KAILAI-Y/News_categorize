@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mother Locked In Family Detention Attempts Suicide To Free Her Kids', 'authors': 'Roque Planas', 'link': 'https://www.huffingtonpost.com/entry/mother-family-detention-suicide-attempt_us_59271267e4b062f96a34da5c', 'short_description': 'A federal ruling says they should’ve been freed months ago.', 'date': '2017-05-26'}

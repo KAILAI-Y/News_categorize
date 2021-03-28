@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Judge Judy Lets Dog Loose In Court To Prove Who Owns It', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/judge-judy-lets-dog-loose-in-court-to-prove-who-owns-it_us_59940c57e4b009141641482b', 'short_description': "You can't miss the tail-wagging conclusion.", 'date': '2017-08-16'}

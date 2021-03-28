@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Zika Virus Could One Day Help Treat A Deadly Form Of Brain Cancer', 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/zika-virus-glioblastoma-treatment_us_59aee26ce4b0354e440d0792', 'short_description': "Zika's most damaging quality could be weaponized against brain tumor cells.", 'date': '2017-09-05'}

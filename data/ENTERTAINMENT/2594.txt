@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Julia Louis-Dreyfus Reveals Breast Cancer Diagnosis', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/julia-louis-dreyfus-reveals-breast-cancer-diagnosis_us_59cd2ffce4b0f18c4e3cddd6', 'short_description': 'The actress shared the personal news in a note on Twitter.', 'date': '2017-09-28'}

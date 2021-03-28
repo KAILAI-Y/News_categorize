@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'More Americans Trust Merkel Than Trump To Handle Foreign Affairs', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/more-americans-trust-merkel-than-trump-to-handle-foreign-affairs_us_595e89c1e4b02e9bdb0b516c', 'short_description': 'They have plenty of company elsewhere in the world.', 'date': '2017-07-06'}

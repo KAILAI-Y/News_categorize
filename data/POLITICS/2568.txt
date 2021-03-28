@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'WSJ Reporter: Trump May Have Reneged On Border Wall Deal To Hold On To Campaign Issue', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-wall-as-campaign-issue_us_5a65525fe4b0e5630070f553', 'short_description': 'Maybe what he really wants is to attack Democrats about not having a wall.', 'date': '2018-01-22'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Omarosa Says Donald Trump Is 'Racial' But 'Not A Racist’", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/omarosa-donald-trump-racial-not-racist_us_5a33e557e4b040881be9f178', 'short_description': 'She regrets not seeing the level of diversity in the White House she "strove to see."', 'date': '2017-12-15'}

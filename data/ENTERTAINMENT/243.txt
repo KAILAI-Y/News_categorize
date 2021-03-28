@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Catie Turner Forgets Words To 'Manic Monday' On 'American Idol'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/catie-turner-forgets-words-to-manic-monday-on-american-idol_us_5af0196de4b0ab5c3d674de1', 'short_description': 'This is what happens when you mangle the Bangles.', 'date': '2018-05-07'}

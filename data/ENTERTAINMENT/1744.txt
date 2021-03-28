@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kelly Marie Tran Of ‘Last Jedi’ Facing Racist, Sexist Comments Online', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/kelly-marie-tran-racists-last-jedi_us_5a4400fee4b06d1621b6b2bb', 'short_description': "Online trolls invaded the actress' fan page but social media users clapped back.", 'date': '2017-12-27'}

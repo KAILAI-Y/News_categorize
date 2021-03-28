@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'George H.W. Bush Becomes Longest-Lived U.S. President', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/george-hw-bush-longest-lived-president_us_5a19ae86e4b0cee6c04fff4c', 'short_description': 'The 93-year-old surpassed former President Gerald Ford.', 'date': '2017-11-25'}

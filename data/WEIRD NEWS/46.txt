@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Lego Royal Family Gets New Lego Member At Legoland', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/lego-royal-family-gets-new-lego-member-at-legoland_us_5ae0976be4b07be4d4c73d20', 'short_description': "He's got his father's bricks.", 'date': '2018-04-25'}

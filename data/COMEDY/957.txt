@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Sean Spicer Is Asked When Pence Will Replace Trump In Seth Meyers Spoof', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-is-asked-when-pence-will-replace-trump-in-seth-spoof_us_59429d81e4b06bb7d2715b8f', 'short_description': 'If only all press briefings were like this.', 'date': '2017-06-15'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Usher And His Wife Announce Separation', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/usher-grace-miguel-separate_us_5a9f127be4b0d4f5b66b397f', 'short_description': 'The couple claim they will remain "deeply connected, loving friends."', 'date': '2018-03-07'}

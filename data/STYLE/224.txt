@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Justin Trudeau Wore Chewbacca Socks To A Global Business Forum, Of Course', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/justin-trudeau-wore-chewbacca-socks-to-a-global-business-forum-of-course_us_59c3c027e4b063b253185966', 'short_description': '"Why can\'t we have nice things like Canada?"', 'date': '2017-09-21'}

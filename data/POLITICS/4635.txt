@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's Approval Rating Hits New Low, Poll Finds", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/poll-trump-approval-rating-new-low_us_59f6b435e4b03cd20b827ec0', 'short_description': "The latest NBC News/WSJ poll shows 58% of Americans disapprove of Trump's performance as president.", 'date': '2017-10-30'}

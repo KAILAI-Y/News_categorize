@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Donald Trump's Empty Chair Stunt Backfires Hilariously", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-empty-chairs_us_5a1e4d97e4b0dc52b02a33db', 'short_description': "That didn't go as planned.", 'date': '2017-11-29'}

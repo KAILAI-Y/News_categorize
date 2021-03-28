@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'An Update On HuffPost Arabi', 'authors': 'Louise Roug', 'link': 'https://www.huffingtonpost.com/entry/an-update-on-huffpost-arabi_us_5abe6787e4b0f112dc9be92e', 'short_description': 'As of today at 11:59 pm ET, we will officially cease publication of HuffPost Arabi. This was a mutual decision by HuffPost', 'date': '2018-03-30'}

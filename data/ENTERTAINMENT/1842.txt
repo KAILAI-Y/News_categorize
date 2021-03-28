@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Will Smith's Comments On Roy Moore's Defeat Are Something Else", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/will-smith-roy-moore_us_5a32524de4b091ca26858e18', 'short_description': 'What in the world?', 'date': '2017-12-14'}

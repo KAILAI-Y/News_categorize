@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ryan Reynolds Perfectly Trolls 'Avengers'\xa0By Revealing Why He's Not In The Film", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ryan-reynolds-deadpool-avengers-rejection_us_5ae6a700e4b04aa23f245769', 'short_description': '"The Merc With A Mouth" lets his Twitter do the talking.', 'date': '2018-04-30'}

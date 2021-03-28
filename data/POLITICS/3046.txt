@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Responds To Utah Senator Orrin Hatch's Retirement", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-orrin-hatch-retiring_us_5a4be8a4e4b0b0e5a7a9255b', 'short_description': 'Mitt Romney, who called Trump "a phony" and "a fraud," could seek Hatch\'s seat.', 'date': '2018-01-02'}

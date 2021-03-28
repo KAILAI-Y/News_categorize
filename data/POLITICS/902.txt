@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republican Lawmakers Are Now Getting Their Ideas From Fox News Commercials', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/republican-lawmakers-fox-news-commercials_us_5acd063be4b0259339de0299', 'short_description': 'The gold bug is going around.', 'date': '2018-04-10'}

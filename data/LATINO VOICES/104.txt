@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Puerto Rico's Death Toll May Be 1,052, New York Times Analysis Finds", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/puerto-ricos-death-toll-1052-nytimes-analysis-finds_us_5a2af857e4b0a290f0509d4e', 'short_description': 'The official count of hurricane-related deaths is 62.', 'date': '2017-12-09'}

@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'German Supermarket Strips All Its Shelves Of Foreign Foods', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/edeka-supermarket-foreign-foods_us_599e8f9de4b0821444c0d88d', 'short_description': 'But it was to make a very important point.', 'date': '2017-08-24'}

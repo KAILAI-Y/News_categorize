@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The First Trailer For The Queen Biopic 'Bohemian Rhapsody' Is Here", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/trailer-queen-biopic-bohemian-rhapsody_us_5afaf36be4b09a94524c49cb', 'short_description': 'Mamma mia!', 'date': '2018-05-15'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Al Jazeera Says It Was Target Of Cyber Attack', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/al-jazeera-cyber-attack_us_593981ade4b0b13f2c68399d', 'short_description': 'The network said on Twitter it was under cyber attack on all systems, websites and social media platforms.', 'date': '2017-06-08'}

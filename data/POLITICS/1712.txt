@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Devin Nunes Calls Colbert's Jokes About Him A 'Danger' In This Country", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/nunes-on-colbert-danger_us_5a9b5d71e4b089ec353af434', 'short_description': 'The left "attacks people trying to get to the truth," the congressman told Fox News.', 'date': '2018-03-04'}

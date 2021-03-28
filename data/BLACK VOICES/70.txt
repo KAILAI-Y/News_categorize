@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Philadelphia To Launch Youth Program In Settlement With Starbucks Arrestees', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/philadelphia-starbucks-arrest-settlement_us_5ae9e850e4b022f71a0462c6', 'short_description': 'Rashon Nelson and Donte Robinson will each take a symbolic $1.', 'date': '2018-05-02'}

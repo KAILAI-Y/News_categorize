@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Day Trump Truly Became President Of Alaska's Charred Remains", 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/the-day-trump-truly-became-president-of-alaskas-charred-remains_us_598b89b1e4b0a66b8bb0f412', 'short_description': 'At least those coal jobs are coming back...', 'date': '2017-08-09'}

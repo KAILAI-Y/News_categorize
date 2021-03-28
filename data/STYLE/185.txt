@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Adidas Model Says She Received Rape Threats For Showing Leg Hair', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/adidas-model-leg-hair_us_59dbd463e4b00377980b0515', 'short_description': 'Do better, internet.', 'date': '2017-10-11'}

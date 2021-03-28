@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'The Bachelorette Told A Cheating Bro To GTFO, And It Was Glorious', 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/the-bachelorette-season-13-episode-2_us_592cdcb1e4b0df57cbfceca9', 'short_description': '"I\'m not here to get played."', 'date': '2017-05-30'}

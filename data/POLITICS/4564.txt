@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Tax Reform Is Not For The Poor', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/tax-reform-middle-class_us_59fb89c4e4b0415a420aa019', 'short_description': 'Not even the middle class is a clear winner in the Republican plan.', 'date': '2017-11-02'}

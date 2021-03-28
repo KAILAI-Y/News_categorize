@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Cam Newton Apologizes For 'Degrading' Insult To Female Reporter", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/cam-newton-apologizes-for-degrading-insult-to-female-reporter_us_59d78f89e4b0f6eed34fd1b0', 'short_description': '"My word choice was ... disrespectful to women," the quarterback said.', 'date': '2017-10-06'}

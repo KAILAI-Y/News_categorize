@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "New York City Council Launches Probe Into Kushner Company's False Tenant Records", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/new-york-city-kusher-companies-tenant-records_us_5ab05018e4b00549ac7e6786', 'short_description': 'State attorney general is also talking to tenants.', 'date': '2018-03-20'}

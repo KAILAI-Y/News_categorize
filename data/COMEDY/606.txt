@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Tries To Trick Trump Supporters Into Signing Up For Obamacare', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-trumpcare-ad-donald-trump_us_5a02c836e4b04e96f0c6680b', 'short_description': 'Wait, what?!?', 'date': '2017-11-08'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "McDonald's Just Caved To A Ton Of Pissed Off ‘Rick & Morty’ Fans", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/mcdonalds-just-caved-to-a-ton-of-pissed-off-rick-morty-fans_us_59dba545e4b0208970ceb555', 'short_description': 'The fast food chain says it’ll bring back Szechuan sauce … again.', 'date': '2017-10-09'}

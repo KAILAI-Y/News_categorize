@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "How Netflix's Serial Killer Drama 'Mindhunter' Draws From Real Life", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/netflix-mindhunter_us_59e797d1e4b00905bdae3dce', 'short_description': 'We talked to the real-life Dr. Wendy Carr to find out what really went on at the FBI.', 'date': '2017-10-21'}

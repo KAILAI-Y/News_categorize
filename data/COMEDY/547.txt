@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Donald Trump Takes It Back To ‘Havana’ In This Camila Cabello Mashup', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/camila-cabello-havana-donald-trump-singing_us_5a192499e4b0cee6c04fde21', 'short_description': "🎤 There's somethin' 'bout his manners 🎤", 'date': '2017-11-25'}

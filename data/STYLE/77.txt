@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "13 Women's Puffer Jackets That Don't Add Bulk", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/13-womens-puffer-jackets-that-dont-add-bulk_us_5a256a1ae4b03c44072f07ea', 'short_description': 'The non-puffy puffer coat does exist.', 'date': '2017-12-04'}

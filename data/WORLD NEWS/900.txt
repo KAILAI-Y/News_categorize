@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Long-Lost Salamander Rediscovered In Guatemalan Jungle', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/salamander-rediscovered-guatemala_us_59f79bbce4b0aec1467a3fa2', 'short_description': 'The "golden wonder" species had not been seen for more than four decades.', 'date': '2017-10-31'}

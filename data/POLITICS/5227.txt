@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Failed Army Secretary Nominee Running For Congress", 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/mark-green-congress_us_59d6a662e4b046f5ad971e17', 'short_description': 'Mark Green withdrew his name from consideration after he came under criticism for anti-LGBTQ remarks.', 'date': '2017-10-05'}

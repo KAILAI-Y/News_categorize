@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '4 Dead As Hostage Standoff Ends At California Veterans Home', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/yountville-california-veterans-home-dead_us_5aa354b1e4b01b9b0a3b7f31', 'short_description': 'Three female employees and the gunman were all found dead after a daylong siege.', 'date': '2018-03-10'}

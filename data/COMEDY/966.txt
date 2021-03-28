@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Oliver Has The Answer To Britain's Brexit Prayers: Lord Buckethead!", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-lord-buckethead_us_593e3ac2e4b02402687ab6f4', 'short_description': '"It would not even be close to the stupidest thing you’ve ever done.”', 'date': '2017-06-12'}

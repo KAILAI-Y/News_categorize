@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'More Nonprofits Pull Fundraisers From Mar-a-Lago After Trump Defends White Supremacists', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-mar-a-lago-charities-pull-out_us_599acfb0e4b01f6e801f9e9d', 'short_description': 'The fallout over Charlottesville continues.', 'date': '2017-08-21'}

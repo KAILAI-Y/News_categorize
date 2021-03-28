@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Users Shred Tomi Lahren Over 'Disrespectful' Colin Kaepernick D-Day Image", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tomi-lahren-colin-kaepernick-d-day-photo_us_5a17ca2fe4b0d4906cadfa6a', 'short_description': '"This does not qualify as an actual thought."', 'date': '2017-11-24'}

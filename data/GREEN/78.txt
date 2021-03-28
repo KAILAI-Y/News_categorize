@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Thousands In Utah Protest Trump Plans To Shrink National Monuments', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/utah-protest-national-monument_us_5a235d14e4b0a02abe91a588', 'short_description': 'Five tribes intend to sue after Trump details his moves on Monday.', 'date': '2017-12-03'}

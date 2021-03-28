@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "New York Times Cancels James Franco Event Amid 'Recent Allegations'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/james-franco-new-york-times-event_us_5a559141e4b03417e87337f0', 'short_description': 'The actor and his brother Dave were scheduled to appear as guests on a "TimesTalk."', 'date': '2018-01-10'}

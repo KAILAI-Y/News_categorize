@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Comedy, We Have A Problem', 'authors': 'Mike Larsen, ContributorComedian, Emmy-nominated TV writer and ex-Communications Direc...', 'link': 'https://www.huffingtonpost.com/entry/comedy-we-have-a-problem_us_5a0c460ae4b060fb7e59d4fa', 'short_description': 'The comedy world can always use more truth-tellers.', 'date': '2017-11-15'}

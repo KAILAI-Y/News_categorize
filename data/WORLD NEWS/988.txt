@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Austria Shifts To The Right As It Elects A 31-Year-Old Conservative Leader', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/austria-election-kurz_us_59e35e48e4b0a52aca188468', 'short_description': 'The vote is set to also push the far-right into government.', 'date': '2017-10-15'}

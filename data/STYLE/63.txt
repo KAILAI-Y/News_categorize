@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Holiday Beauty Looks For Every Party On Your Calendar', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/celebrity-inspired-holiday-beauty_us_5a314c63e4b091ca2684a1d1', 'short_description': "We're obsessed with basically all of these.", 'date': '2017-12-14'}

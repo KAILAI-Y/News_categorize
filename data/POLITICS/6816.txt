@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sean Hannity Fails Badly In 'No Petty Political Disagreements' Pledge", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-political-disagreements-pledge_us_598af100e4b0449ed506bd3e', 'short_description': 'Promises, promises.', 'date': '2017-08-09'}

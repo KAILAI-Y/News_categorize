@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Al Franken Uses Final Senate Speech To List Trump's Lies To The American People", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/al-franken-trump-final-floor-speech_us_5a3c7f7de4b025f99e160ec1', 'short_description': '"We\'re losing the war for truth."', 'date': '2017-12-22'}

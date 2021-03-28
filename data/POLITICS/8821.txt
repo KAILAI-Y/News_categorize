@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Senator: 'I Don’t See A Comprehensive Health Care Plan This Year'", 'authors': 'Laura Barrón-López', 'link': 'https://www.huffingtonpost.com/entry/richard-burr-health-care_us_59319db6e4b02478cb9b0f71', 'short_description': '¯\\_(ツ)_/¯', 'date': '2017-06-02'}

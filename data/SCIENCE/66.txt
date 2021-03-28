@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': "People Across The U.S. Watch 'Surreal' Solar Eclipse", 'authors': "Lydia O'Connor and Ryan Grenoble", 'link': 'https://www.huffingtonpost.com/entry/total-solar-eclipse_us_599b157fe4b06a788a2ab10a', 'short_description': 'A scientist calls it “the most spectacular thing that anybody has ever seen."', 'date': '2017-08-21'}

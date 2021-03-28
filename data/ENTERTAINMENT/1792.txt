@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'After One Hell Of A Year, Aaron Carter Is Ready For A Fresh Start', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/aaron-carter-ready-for-a-fresh-start_us_5a382a33e4b0860bf4aa5d52', 'short_description': "The singer's first full-length in 15 years is out in February.", 'date': '2017-12-19'}

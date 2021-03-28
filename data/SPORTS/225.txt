@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Olympic Skier Fabian Bosch Catches Sweet Hang Time In Viral Escalator Stunt', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/skier-fabian-bosch-escalator-viral-video_us_5a8292d9e4b01467fcf0d871', 'short_description': 'Give him gold, already!', 'date': '2018-02-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Alabama Court Stays Judge's Order To Preserve Voting Records (UPDATE)", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/alabama-voting-record-lawsuit_us_5a2f6482e4b046175432d003', 'short_description': "Tuesday's special election for U.S. senator is likely to be close.", 'date': '2017-12-12'}

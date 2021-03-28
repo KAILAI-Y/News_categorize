@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hurricane Donald Making Hard Sell On Stability Amid Major Crisis', 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/hurricane-donald_us_59a42eb4e4b05710aa5dbf70', 'short_description': 'Trump, a destroyer of government, is going to Houston to sell government.', 'date': '2017-08-28'}

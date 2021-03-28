@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "This Spoken Word Poem Is A Beautiful Love Letter To 'Undocumented People'", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/undocujoy-poem-for-undocumented-immigrants_us_59ab392ae4b0dfaafcf0ddb3', 'short_description': '"I love us because we wake up to a country that hates us."', 'date': '2017-09-03'}

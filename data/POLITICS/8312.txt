@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Insurers Talk A Lot About Climate Change, But Most Still Do Business In Coal', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/coal-insurance_us_59482dd0e4b0edb84c14cfcd', 'short_description': 'Talk is cheap when you’re funding and insuring the dirtiest fossil fuel.', 'date': '2017-06-19'}

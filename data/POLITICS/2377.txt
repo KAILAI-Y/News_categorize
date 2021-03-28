@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's State Of The Union Victory Lap On ISIS Is Garbage", 'authors': 'Akbar Shahid Ahmed', 'link': 'https://www.huffingtonpost.com/entry/trump-state-of-the-union-isis_us_5a71137ce4b0a6aa487454e7', 'short_description': "The president maintains he didn't just build on Obama's strategy. Don't fall for it.", 'date': '2018-01-31'}

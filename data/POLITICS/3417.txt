@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Alabama Elects Doug Jones, The State's First Democratic Senator In 25 Years", 'authors': 'Amanda Terkel and Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/doug-jones-wins_us_5a3026a9e4b091ca26833755', 'short_description': "Republican Roy Moore couldn't overcome accusations of child molestation.", 'date': '2017-12-13'}

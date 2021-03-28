@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Force Is Still Strong: 'Star Wars: The Last Jedi' Has Second-Best Opening Of All Time", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/star-wars-the-last-jedi-box-office_us_5a37458be4b040881bebe6b7', 'short_description': 'The film trails only "The Force Awakens."', 'date': '2017-12-18'}

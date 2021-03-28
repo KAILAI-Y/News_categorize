@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Heartbroken Locals Hold Candlelight Vigil For Taco Bell That Burned Down', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/taco-bell-candlelight-vigil_us_5a6679e1e4b0e5630072d2be', 'short_description': 'It’s nacho ordinary vigil.', 'date': '2018-01-23'}

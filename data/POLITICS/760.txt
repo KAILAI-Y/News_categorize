@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sandy Hook Parents Hit Alex Jones With Defamation Lawsuits', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/sandy-hook-parents-hit-alex-jones-with-defamation-lawsuits_us_5acf6a6de4b0ac383d74bfe1', 'short_description': 'Suits against the Infowars host keep piling up.', 'date': '2018-04-17'}

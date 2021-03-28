@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'More Animal Abuse Claims Emerge Against Boaters Filmed Dragging Shark', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/abuse-claims-after-shark-dragging_us_597de646e4b0da64e879ae88', 'short_description': 'Locals are sharing other shocking images after the original video surfaced.', 'date': '2017-07-31'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Trucker's Scarily Close Call Shows Just Why Stop Signs Must Be Obeyed", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/close-call-dashcam-truck-car_us_593bc5eae4b024026879c37c', 'short_description': 'A "few seconds either way and the outcome could have been terrible,” he says.', 'date': '2017-06-10'}

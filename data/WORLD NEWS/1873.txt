@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Russia Says It Will Track U.S. Planes As Potential Targets In Syria', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/russia-syria-jet-us_us_5947e348e4b0f15cd5bcf302', 'short_description': 'The move is retaliation for the U.S. shooting down a Syrian jet.', 'date': '2017-06-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: The NFL Takes A Knee", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-the-nfl-takes-a-knee_us_59c8ddece4b06ddf45f91986', 'short_description': 'Dozens of NFL players took part in the protests.', 'date': '2017-09-25'}

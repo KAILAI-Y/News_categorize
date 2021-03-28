@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'MSNBC Reverses Firing Of Contributor Sam Seder', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/msnbc-reverses-sam-seder-firing_us_5a27f53de4b0c211762726d5', 'short_description': '“Sometimes you just get one wrong — and that’s what happened here," MSNBC President Phil Griffin said.', 'date': '2017-12-07'}

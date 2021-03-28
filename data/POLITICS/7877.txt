@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: The Fallout From Trump's CNN Tweet", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-the-fallout-from-trumps-cnn-tweet_us_595a27aee4b0da2c732493cf', 'short_description': 'Outrage was swift.', 'date': '2017-07-03'}

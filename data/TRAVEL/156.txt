@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "Airline Rep's Note To A Passenger With Cancer Will Make You Tear Up", 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/southwest-cancer-luggage_us_598c99b9e4b09071f6983f8a', 'short_description': 'An aggravating luggage delay turned into the sweetest moment.', 'date': '2017-08-10'}

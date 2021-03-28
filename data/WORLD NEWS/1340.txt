@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Barcelona Attackers Plotted Major Bombings', 'authors': 'Adrien Croft, Reuters', 'link': 'https://www.huffingtonpost.com/entry/barcelona-attackers-plotted-bombings_us_599cb970e4b0d8dde999adb7', 'short_description': 'The cell had planned to carry out major attacks, possibly against churches or monuments.', 'date': '2017-08-22'}

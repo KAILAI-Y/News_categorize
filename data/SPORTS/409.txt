@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "San Antonio Coach Gregg Popovich Won't Discuss Victory After Shooting", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/san-antonio-coach-gregg-popovich-wont-discuss-victory-after-shooting_us_5a008891e4b0baea2633919b', 'short_description': '"It\'s pretty meaningless," he said.', 'date': '2017-11-06'}

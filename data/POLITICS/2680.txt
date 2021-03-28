@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'With A Possible Shutdown Hours Away, Republicans Are Negotiating With Themselves', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/republicans-shutdown-continuing-resolution_us_5a5ec4a5e4b0ee2ff32b8597', 'short_description': 'House conservatives could throw the government into chaos.', 'date': '2018-01-17'}

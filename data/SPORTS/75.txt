@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Barack Obama Reveals Which NBA Team He'd Want To Play For", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/barack-obama-reveals-which-nba-team-hed-want-to-play-for_us_5a981356e4b07dffeb70716c', 'short_description': "And the coach's response is pretty hilarious.", 'date': '2018-03-01'}

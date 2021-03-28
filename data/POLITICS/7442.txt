@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '32 Million More Would Be Uninsured Under The Latest Senate Health Care Bill', 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/health-care-cbo-score_us_596fcd2ee4b0aa14ea76e487', 'short_description': 'And insurance premiums would double over the next decade.', 'date': '2017-07-19'}

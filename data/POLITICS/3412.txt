@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Omarosa Manigault Newman Denies She Was Fired From The White House', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/omarosa-manigault-newman-claims-resigned_us_5a326a3be4b01bdd765a3a26', 'short_description': 'The former "Apprentice" star slammed news outlets reporting otherwise.', 'date': '2017-12-14'}

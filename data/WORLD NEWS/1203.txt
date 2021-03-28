@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "London Deploys The 'Talon' To Thwart Car-Ramming Attacks", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/london-car-ramming-attack-terror_us_59b68f88e4b0354e441344e2', 'short_description': 'Vehicular attacks have killed over 100 people across Europe in recent years.', 'date': '2017-09-11'}

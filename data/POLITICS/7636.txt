@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Good News For Trump: Even If He Did Collude, It Wasn’t Treason', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-collusion-treason_us_59668939e4b0d51cda5fd4b3', 'short_description': 'The bad news: There are plenty of other possible crimes in play.', 'date': '2017-07-12'}

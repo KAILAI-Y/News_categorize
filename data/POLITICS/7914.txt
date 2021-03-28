@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pentagon Delays Transgender Recruitment By 6 Months', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/pentagon-transgender-delay_us_5956fc6ee4b05c37bb7e87a5', 'short_description': 'Defense Secretary Jim Mattis accepted a recommendation to defer transgender applicants until Jan. 1.', 'date': '2017-07-01'}

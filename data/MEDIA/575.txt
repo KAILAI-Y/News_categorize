@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "GOP Strategist Calls Out 'Little Child' Trump For His Lack Of Impulse Control", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/steve-schmidt-donald-trump-little-child_us_597fc1c4e4b00bb8ff390f04', 'short_description': 'Steve Schmidt also says the White House is a "latter-day zoo."', 'date': '2017-08-01'}

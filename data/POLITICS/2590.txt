@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bipartisan Group Of Senators Push For Deal To End Government Shutdown', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/shutdown-deal-bipartisan_us_5a6518c8e4b0dc592a09f85b', 'short_description': "It's not looking good, though.", 'date': '2018-01-21'}

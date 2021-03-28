@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump: Some NFL Team Owners Are 'Afraid Of Their Players'", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-nfl-owners-afraid-players_us_59ccd43ae4b0210dfdfc49b9', 'short_description': "He's probably talking about the owners who have criticized him and backed protesting players.", 'date': '2017-09-28'}

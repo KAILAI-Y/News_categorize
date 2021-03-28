@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S. Warplane Shoots Down Syrian Army Jet', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/syria-army-jet-downed_us_5946d6b1e4b0f15cd5bc3d7b', 'short_description': 'The incident reportedly took place on Sunday afternoon.', 'date': '2017-06-18'}

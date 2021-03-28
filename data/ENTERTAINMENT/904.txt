@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Charlize Theron Explains How Her Mom Became Her Weed Dealer', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/charlize-theron-weed-mom_us_5aa149b4e4b002df2c619f29', 'short_description': "It's a budding relationship, if you will.", 'date': '2018-03-08'}

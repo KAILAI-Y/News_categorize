@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Barbara Bush, Former First Lady, Dies At Age 92', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/barbara-bush-dead_us_587fbde2e4b0cf0ae8819fd9', 'short_description': 'She devoted much of her life to championing causes including literacy and cancer research.', 'date': '2018-04-17'}

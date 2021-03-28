@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Baby ‘Frankenstein’ Born On Halloween At Florida Hospital', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/baby-frankenstein-born-on-halloween_us_59f9fc70e4b0d1cf6e922552', 'short_description': 'Welcome to the world, Oskar Gray Frankenstein!', 'date': '2017-11-01'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Cena Has The Answer To One Of Your Biggest Driving Pet Peeves', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-cena-traffic-psa_us_5ac5aedae4b0aacd15b84d46', 'short_description': 'New PSA aims to solve a frustrating problem on the streets.', 'date': '2018-04-05'}

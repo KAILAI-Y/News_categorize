@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'James Franco Attends SAG Awards Amid Allegations Of Sexually Inappropriate Behavior', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/james-franco-sag-awards_us_5a653ddae4b00228300401cf', 'short_description': 'But he skipped out on the red carpet and pre-show interviews.', 'date': '2018-01-22'}

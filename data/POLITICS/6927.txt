@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Could Take Back The House. Will They Screw It Up?', 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/democrats-retake-house-drama_us_59839164e4b041356ebed22f', 'short_description': 'Party leaders have ambitious goals for 2018, but some worry they come at too high a cost.', 'date': '2017-08-04'}

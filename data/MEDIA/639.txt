@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Australian Broadcaster Apologizes For Asking Asian Journalist, 'Are You Yellow?'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/red-symons-beverley-wang-racist_us_59483313e4b0edb84c14d88e', 'short_description': '"I came across as racist," Red Symons later admits.', 'date': '2017-06-19'}

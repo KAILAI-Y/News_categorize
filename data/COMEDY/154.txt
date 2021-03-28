@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Says Donald Trump's Missile Tweets Are A Blind-Date Offer", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-missiles-syri_us_5acf34dfe4b064876777413d', 'short_description': "'The Daily Show' host urged the president to choose his words with less romance in mind.", 'date': '2018-04-12'}

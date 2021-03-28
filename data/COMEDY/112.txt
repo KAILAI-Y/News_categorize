@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Taunts Fox News Over Kanye West's Support Of Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-kanye-west-donald-trump_us_5ae18677e4b04aa23f1f85c6', 'short_description': '"You know that this is also going to confuse people on Fox News."', 'date': '2018-04-26'}

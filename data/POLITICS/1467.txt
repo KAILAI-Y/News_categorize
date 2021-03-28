@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "New Zealand Diplomat On U.S. Democrats: 'Get Your S**t Together Or We Will All Die'", 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/new-zealand-diplomat-tweet-usa-democrats_us_5aa87a4be4b001c8bf14d56e', 'short_description': 'She rubbished the idea of a Sanders-Warren presidential ticket.', 'date': '2018-03-14'}

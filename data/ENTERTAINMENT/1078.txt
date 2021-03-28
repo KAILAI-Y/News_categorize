@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Emily Ratajkowski Marries Sebastian Bear-McClard In Surprise City Hall Ceremony', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/emily-ratajkowski-married-sebastian-bear-mcclard_us_5a908a69e4b03b55731c2d59', 'short_description': 'The two have reportedly been dating for a few weeks.', 'date': '2018-02-23'}

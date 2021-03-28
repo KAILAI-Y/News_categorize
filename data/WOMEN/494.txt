@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Betsy DeVos Rescinds Key Obama-Era Policy On Campus Sexual Assault', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/betsy-devos-campus-sexual-assault_us_59c53abee4b0cdc77330fd89', 'short_description': "Advocates warned this could undercut sexual assault survivors' access to education.", 'date': '2017-09-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Students Have The Right To Participate In Gun Violence Walkouts', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/can-schools-punish-students-for-gun-violence-walkout_us_5aa80f0ce4b0a09afeae9467', 'short_description': 'But schools can punish those who miss class.', 'date': '2018-03-13'}

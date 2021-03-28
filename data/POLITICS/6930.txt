@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Lawyers Start To Couch Statements On Russia Investigation", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-lawyers-statements-russia_us_5983f46de4b041356ebeedd1', 'short_description': 'The full-throated denials appear to be getting a bit quieter.', 'date': '2017-08-04'}

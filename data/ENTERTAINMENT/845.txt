@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Man Katy Perry Kissed On 'American Idol' Says He Didn't Like It", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/katy-perry-kiss-american-idol_us_5aa93314e4b018e2f1c3a73f', 'short_description': '"I wanted my first kiss to be special."', 'date': '2018-03-14'}

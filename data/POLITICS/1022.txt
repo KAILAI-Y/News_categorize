@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Jr. Uses YouTube Shooting To Make Incoherent Rant About The Left', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-youtube-shooting_us_5ac471e3e4b063ce2e571d6a', 'short_description': '"Calm down and think before you spout off on serious issues," wrote one commenter.', 'date': '2018-04-04'}

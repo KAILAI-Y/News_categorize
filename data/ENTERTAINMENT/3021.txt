@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Kidnap' Is Dim-Witted, Shoddy And An Absolute Must-See", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/kidnap-review-halle-berry_us_59836e03e4b041356ebea502', 'short_description': 'For some reason, Halle Berry stars in yet another junky thriller.', 'date': '2017-08-04'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'The Journalist And The Blunderer', 'authors': 'Jason Cherkis', 'link': 'https://www.huffingtonpost.com/entry/michael-wolff-kurt-andersen_us_5a540292e4b003133ecb7964', 'short_description': 'How Trump irritant Michael Wolff gets what he wants, according to Kurt Andersen.', 'date': '2018-01-09'}

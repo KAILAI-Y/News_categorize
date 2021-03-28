@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Actor T.J. Miller Accused Of Punching Woman During Sexual Assault', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/tj-miller-sexual-assault_us_5a392ecbe4b0fc99878ef046', 'short_description': 'The "Silicon Valley" star says the woman made up the allegations for revenge.', 'date': '2017-12-19'}

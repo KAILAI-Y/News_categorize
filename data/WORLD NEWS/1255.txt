@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S. Pushes Security Council For New North Korea Sanctions', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/north-korea-sanctions_us_59ad7e6ee4b0dfaafcf1d312', 'short_description': '"Our country’s patience is not unlimited. We will defend our allies and our territory,” U.S. Ambassador Haley said.', 'date': '2017-09-04'}

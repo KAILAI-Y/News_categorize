@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "UN Rights Chief Calls Humanitarian Situation In Syria 'An Outrage'", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/syria-humanitarian-crisis_us_59f2fbf2e4b07fdc5fbd5a75', 'short_description': 'At least 350,000 trapped Syrians lack access to food and medicine.', 'date': '2017-10-27'}

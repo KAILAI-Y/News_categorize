@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Tennis Star Andy Murray Mercilessly Mocks Donald Trump Over Time Magazine Claim', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/andy-murray-time-magazine-bbc-sports-personality_us_5a191c36e4b0d4906caeee51', 'short_description': '"This tweet is perfection."', 'date': '2017-11-25'}

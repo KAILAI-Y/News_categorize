@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "WaPo's Jason Rezaian Returns To Journalism 2 Years After Prison Release", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/jason-rezaian-washington-post-return_us_5a5fd3b3e4b054e351771666', 'short_description': 'The reporter had been based in Tehran when Iran imprisoned him for 18 months.', 'date': '2018-01-18'}

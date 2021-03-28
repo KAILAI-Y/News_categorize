@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump To Paralympians: You Are 'Tough To Watch'", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-to-paralympians-you-are-tough-to-watch_us_5ae4f0c9e4b02baed1babaef', 'short_description': "Actually, for a lot of people, it's Trump who's tough to watch.", 'date': '2018-04-28'}

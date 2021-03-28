@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Migos Was Kicked Off A Delta Flight, But No One Agrees Why', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/migos-kicked-off-delta-flight_us_5960d212e4b0d5b458eab154', 'short_description': 'The airline said the customers "refused to follow crew member instructions."', 'date': '2017-07-08'}

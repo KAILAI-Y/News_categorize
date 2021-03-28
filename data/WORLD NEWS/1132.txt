@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Dominica Leader Weeps For His Country In Wake Of Deadly Hurricane', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/dominica-hurricane-skerrit-aftermath_us_59c40b4fe4b0c90504fc5e3b', 'short_description': '“We’ve never seen such destruction," said Prime Minister Roosevelt Skerrit.', 'date': '2017-09-21'}

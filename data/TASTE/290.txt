@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'A New Generation Of Pitmasters Is Preserving The Art Of Whole Hog Barbecue', 'authors': 'Sara Ventiera, Zagat', 'link': 'https://www.huffingtonpost.com/entry/how-a-new-generation-of-pitmasters-is-preserving-the-art-of-whole-hog-barbecue_us_5949579ae4b0b90e99aa3834', 'short_description': 'The Southern tradition lives on.', 'date': '2017-06-20'}

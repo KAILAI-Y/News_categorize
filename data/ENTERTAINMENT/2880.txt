@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Taylor Swift Slithers Back To Social Media With Cryptic Post', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-slithers-back-to-social-media-with-cryptic-post_us_599afb91e4b0e8cc855f08db', 'short_description': 'Hiss hiss, bish.', 'date': '2017-08-21'}

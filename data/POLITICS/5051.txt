@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Method To The Moron’s Madness', 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/trump-method-madness_us_59e125d7e4b03a7be580b923', 'short_description': 'The powers that be are underestimating Trump -- again.', 'date': '2017-10-13'}

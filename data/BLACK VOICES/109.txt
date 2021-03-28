@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Kendrick Lamar Won A Pulitzer Because ‘DAMN.’ Is Journalism', 'authors': 'Julia Craven', 'link': 'https://www.huffingtonpost.com/entry/kendrick-lamar-pulitzer-damn-journalism_us_5ad66e49e4b03c426da92b81', 'short_description': "Before y'all drag me, let me explain.", 'date': '2018-04-18'}

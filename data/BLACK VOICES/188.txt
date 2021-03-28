@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'The MVP Of ‘Atlanta’ Gets Her Moment', 'authors': 'Julia Craven and Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/atlanta-season-2-episode-4_us_5ab5332ae4b0decad049ac7b', 'short_description': 'Finally, Vanessa Keefer stands her ground against the emotionally abusive father of her child.', 'date': '2018-03-23'}

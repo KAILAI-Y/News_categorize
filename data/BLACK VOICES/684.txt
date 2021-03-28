@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Memphis Theater Won't Play 'Gone With The Wind' Due To Racial Backlash", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/memphis-theater-wont-play-gone-with-the-wind-due-to-racial-backlash_us_59a46a06e4b050afa90bdc0a', 'short_description': 'Some movie-goers are not happy about the decision.', 'date': '2017-08-28'}

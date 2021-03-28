@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'USA Hockey General Manager Jim Johannson Dies Unexpectedly At 53', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/jim-johannson-dead_us_5a64e15be4b0dc592a09d967', 'short_description': 'He died in his sleep early Sunday morning at his home in Colorado.', 'date': '2018-01-21'}

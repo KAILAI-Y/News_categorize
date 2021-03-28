@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "This Beloved '90s Backpack Brand Is Back And We're, Like, Totally Into It", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/90s-backpack-brand-kipling-urban-outfitters_us_597b55eee4b02a4ebb752077', 'short_description': "The '90s are alive and well at Urban Outfitters.", 'date': '2017-07-28'}

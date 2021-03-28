@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "This Millennial Is Quietly Promoting Detroit's Resurgence Behind The Scenes", 'authors': 'Philip Lewis', 'link': 'https://www.huffingtonpost.com/entry/millennial-detroit-resurgence_us_594ed3a7e4b0da2c731bec2c', 'short_description': 'Amber Lewis is making waves in her hometown.', 'date': '2017-06-28'}

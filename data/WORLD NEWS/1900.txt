@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '7 Sailors Reported Missing After USS Fitzgerald Collides With Container Ship Off Japan', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/uss-fitzgerald-collision_us_594468c6e4b01eab7a2dda8b', 'short_description': "It's not yet clear what caused the accident.", 'date': '2017-06-17'}

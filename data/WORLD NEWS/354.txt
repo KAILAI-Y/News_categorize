@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'ANC Decides To Remove South African President Jacob Zuma From Power', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/south-africa-jacob-zuma-anc-decision_us_5a828f3ae4b00ecc923d99e5', 'short_description': 'His scandal-plagued years in power darkened and divided Nelson Mandela’s “Rainbow Nation.”', 'date': '2018-02-13'}

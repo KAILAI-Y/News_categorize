@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump v. Mueller?', 'authors': 'Arn Pearson, ContributorSenior Fellow, People For the American Way', 'link': 'https://www.huffingtonpost.com/entry/trump-v-mueller_us_59ca4da8e4b0b7022a646dae', 'short_description': 'As Mueller homes in on the White House, the need to protect his investigation grows.', 'date': '2017-09-26'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Horrors Are Brewing In 'Killing Ground'", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/the-killing-ground-clip_us_59676f9de4b0d51cda606fc5', 'short_description': 'This scene from the Australian thriller presents a weekend getaway gone wrong.', 'date': '2017-07-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: What's Next For Theresa May Following Stunning UK Election Upset", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-whats-next-for-theresa-may-following-stunning-uk-election-upset_us_593a7d7ee4b0c5a35c9e823a', 'short_description': 'And for Brexit.', 'date': '2017-06-09'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "R. Kelly Cancels Multiple Shows Amid Allegations He Is Running A 'Cult'", 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/r-kelly-cancels-shows_us_59808e19e4b0d6e28a10ab84', 'short_description': 'The R&B singer has canceled at least two shows in Louisiana and one in Texas.', 'date': '2017-08-01'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Elizabeth Warren Might Get Her Very Own Action Figure', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/elizabeth-warren-might-get-her-very-own-action-figure_us_59246b57e4b034684b1063a5', 'short_description': 'Nevertheless, she persisted... and became an action figure.', 'date': '2017-06-06'}

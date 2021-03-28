@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Kristen Stewart's Mullet With Frosted Tips Is Quite The Look", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kristen-stewart-rocked-a-mullet-with-frosted-tips-on-the-red-carpet_us_5a09a294e4b0e37d2f38f3da', 'short_description': 'So edgy.', 'date': '2017-11-13'}

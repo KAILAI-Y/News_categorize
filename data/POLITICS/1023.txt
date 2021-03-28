@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Scott Pruitt's EPA Taking Its Time Fixing The Regulation That Poisoned Flint's Water", 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/pruitt-regulation-epa_us_5ac537b5e4b09ef3b2432ca6', 'short_description': 'This is one regulation Pruitt has said should be stronger.', 'date': '2018-04-04'}

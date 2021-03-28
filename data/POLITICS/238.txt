@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Michael Avenatti Posts Photos Of Cohen With Qatari Investor Accused Of Bribery', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/avenatti-posts-photos-of-cohen-kelly_us_5af8bfa4e4b00d7e4c1bb77e', 'short_description': '"Warning ignored. So here it goes,"  Stormy Daniels\' attorney tweeted.', 'date': '2018-05-14'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Insists He Has The 'Complete Power' To Pardon, As Russia Probe Persists", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-pardon-himself_us_5973587be4b0e79ec1999463', 'short_description': "It's not clear if he can pardon himself.", 'date': '2017-07-22'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Robert Mueller's 12 Days Of Christmas' Is Trump's Least Favorite Holiday Song", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/late-show-robert-mueller-12-days-of-christmas_us_5a265ccae4b0f9f0203edbcd', 'short_description': '"And a Michael Flynn guilty plea..."', 'date': '2017-12-05'}

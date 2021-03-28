@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Patty Jenkins Officially Seals The Deal To Direct 'Wonder Woman' Sequel", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/patty-jenkins-wonder-woman-sequel-deal_us_59b6d83fe4b0a50fd051e115', 'short_description': "She'll become the highest paid female director of all time.", 'date': '2017-09-11'}

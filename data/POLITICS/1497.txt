@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Veterans Are Pissed At Trump For Not Knowing How To Spell Marine Corps', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-marine-corps-spelling_us_5aa8b28ce4b0f7a689cd8a75', 'short_description': 'The president called it the Marine "Core."', 'date': '2018-03-14'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'At Least 5 Killed After Magnitude 6.4 Earthquake Strikes Taiwan', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/earthquake-strikes-taiwan_us_5a79dbbfe4b06505b4e85ca4', 'short_description': 'The quake struck about 14 miles northeast of the city of Hualien shortly before midnight.', 'date': '2018-02-06'}

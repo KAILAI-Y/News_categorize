@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'This Dog Had A Dreamier Maternity Shoot Than Most Humans', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/dog-maternity-shoot_us_5953b0b3e4b0da2c7320129e', 'short_description': "We're in (puppy) love.", 'date': '2017-06-28'}

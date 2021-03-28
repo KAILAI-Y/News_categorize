@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Donald Trump Exposed On New Yorker Cover', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-exposed-new-yorker_us_5aac53ace4b05b2217fed6fb', 'short_description': '“I wanted to address President Trump’s stormy relationship with the press," says artist Barry Blitt.', 'date': '2018-03-17'}

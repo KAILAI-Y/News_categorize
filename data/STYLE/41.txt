@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "So That's Why A Ball Drops In Times Square On New Year's", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/new-years-ball-drop-times-square_us_5a32dae7e4b040881be8e91f', 'short_description': 'Do you know what a time ball is?', 'date': '2017-12-26'}

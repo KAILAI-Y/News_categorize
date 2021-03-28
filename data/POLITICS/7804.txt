@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'We Say No To Making America Sicker', 'authors': 'Erik Levinsohn and Talia Robledo-Gil, Contributors', 'link': 'https://www.huffingtonpost.com/entry/we-say-no-to-making-america-sicker_us_595e4fdde4b0d5b458e8b241', 'short_description': 'America is ready to move forward with the ACA. Why is Congress holding us back?', 'date': '2017-07-06'}

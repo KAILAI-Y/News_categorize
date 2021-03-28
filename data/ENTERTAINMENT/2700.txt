@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Alec Baldwin Is Bringing Back His Trump Impression For The 'SNL' Premiere", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwin-is-bringing-back-his-trump-impression-for-the-snl-premiere_us_59b929aee4b02da0e13de0e6', 'short_description': "He's baaaaack.", 'date': '2017-09-13'}

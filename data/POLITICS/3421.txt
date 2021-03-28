@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Heartfelt Thank You To The Women Who Broke Their Silence On Roy Moore', 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-women-thank-you_us_5a30b59ce4b091ca2683ca37', 'short_description': 'Coming forward was an act of incredible bravery.', 'date': '2017-12-13'}

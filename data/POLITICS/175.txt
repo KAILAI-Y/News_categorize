@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Pennsylvania's Congressional Delegation Will No Longer Be All Men", 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/pennsylvania-congress-men_us_5afc3659e4b06a3fb50c85d4', 'short_description': 'It looks like at least one woman will be heading to Washington from the state.', 'date': '2018-05-16'}

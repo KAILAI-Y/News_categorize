@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '34 Schools In Louisiana Told By District That Athletes Should Stand For Anthem', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/louisiana-bossier-parish-schools-national-anthem_us_59cd7a7ce4b05f005d33311e', 'short_description': "It's a lawsuit waiting to happen.", 'date': '2017-09-29'}

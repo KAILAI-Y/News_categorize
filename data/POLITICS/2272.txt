@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Judge Who Sentenced Brock Turner To Face Recall In June', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/brock-turner-judge-recall_us_5a7a1464e4b06505b4e8daaa', 'short_description': 'Judge Aaron Persky sentenced Turner to six months in jail for sexually assaulting an unconscious woman.', 'date': '2018-02-06'}

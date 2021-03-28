@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Leaders Of British Far-Right Group Retweeted By Trump Found Guilty In Islamophobia Case', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/britain-first-convicted-religious-harassment_us_5a9fff58e4b0d4f5b66c6dc8', 'short_description': 'Britain First has a history of inciting religious hatred.', 'date': '2018-03-07'}

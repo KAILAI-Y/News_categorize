@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Says Trump Has Finally Done Something Obama Never Did', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-guns_us_5a975d03e4b09c872bb11387', 'short_description': 'The "Late Show" host was briefly speechless over the president\'s latest move.', 'date': '2018-03-01'}

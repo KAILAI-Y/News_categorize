@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "19 Asian-Americans Arrested At Paul Ryan's Office Pushing For Dream Act", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/19-asian-americans-arrested-dream-act-protest_us_5a0f3ebae4b0e97dffed2bab', 'short_description': 'They were calling on Congress to protect young undocumented immigrants.', 'date': '2017-11-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Experts Say Trump Tweet Provides Ammo For Obstruction of Justice Case', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-tweet-obstructionof-justice_us_5a232a53e4b03350e0b7295b', 'short_description': 'The tweet implies Trump knew Flynn lied to the FBI when he fired him.', 'date': '2017-12-03'}

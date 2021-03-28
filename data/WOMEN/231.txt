@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Emma Watson Opens Up About Sexual Harassment She's Faced In Hollywood", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/emma-watson-sexual-harassment_us_5a537482e4b0efe47ebac58e', 'short_description': '"I have experienced the full spectrum," the actress said on the Golden Globes red carpet.', 'date': '2018-01-08'}

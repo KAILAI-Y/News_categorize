@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ryan Zinke Defends ‘Konnichiwa’ Comment To Hawaii Congresswoman', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/ryan-zinke-konnichiwa_us_5aae6864e4b05b2217ff92e4', 'short_description': 'Critics accused the Interior secretary of perpetuating racial stereotypes.', 'date': '2018-03-18'}

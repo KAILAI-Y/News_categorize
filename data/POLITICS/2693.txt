@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jeff Sessions Praises MLK, Whose Widow Once Accused Him Of Racism', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/jeff-sessions-mlk-widow-racism_us_5a5f18bbe4b096ecfca8c757', 'short_description': "Coretta Scott King wrote a letter in 1986 urging Congress to block Sessions' judicial nomination.", 'date': '2018-01-17'}

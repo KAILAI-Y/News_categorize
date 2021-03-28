@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Airbnb Is Making It Easier For Refugees To Find Temporary Housing', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/airbnb-refugees-temporary-housing_us_59380c60e4b0ce1e7409957b', 'short_description': 'People can open up their homes at no cost to those in need.', 'date': '2017-06-07'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Here's Why Yawns Are So Contagious", 'authors': 'Sara G. Miller, Live Science', 'link': 'https://www.huffingtonpost.com/entry/heres-why-yawns-are-so-contagious_us_59bae70ae4b0edff971a8e65', 'short_description': 'Trying to stop yourself from yawning makes you want to yawn more.', 'date': '2017-09-14'}

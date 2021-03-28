@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "David Beckham's Lego Instagram Post Is #DadGoals", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/david-beckhams-lego-instagram-post-is-dadgoals_us_598c6a48e4b0d793738d1393', 'short_description': 'The sports star is clearly a hands-on parent.', 'date': '2017-08-10'}

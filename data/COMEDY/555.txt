@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Slams Charlie Rose In Fiery Takedown', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-charlie-rose_us_5a150127e4b025f8e9326a6e', 'short_description': '"Here\'s a good rule of thumb..."', 'date': '2017-11-22'}

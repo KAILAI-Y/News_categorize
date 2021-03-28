@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Wither The Democrats?', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/wither-the-democrats_us_5a006c89e4b04cdbeb34d796', 'short_description': 'Gentle reader, that’s not a typo.', 'date': '2017-11-06'}

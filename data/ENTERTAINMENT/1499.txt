@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Spike TV Is Off The Air, So Its Twitter Went Off The Rails', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/spike-tv-twitter_us_5a60cda6e4b062a7df0bc90e', 'short_description': '"My favorite number is 329 because it’s the number of times COPS is on every night."', 'date': '2018-01-18'}

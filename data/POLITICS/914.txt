@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Read Live Updates On Mark Zuckerberg's Senate Testimony", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/mark-zuckerberg-senate-testimony_us_5accc398e4b0a2e3547fde2a', 'short_description': 'Zuckerberg met with lawmakers Monday, ahead of his hearings.', 'date': '2018-04-10'}

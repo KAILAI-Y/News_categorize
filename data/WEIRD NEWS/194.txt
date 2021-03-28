@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Husband, Wife Win $1 Million Prizes Just Months Apart', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/husband-wife-million-prize_us_5a55f67fe4b0d614e48b2f2e', 'short_description': 'How lucky can you get?', 'date': '2018-01-10'}

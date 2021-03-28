@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Denies DACA Deal, Says 'We're Doing Nothing' Without Wall Funding", 'authors': 'Elise Foley and Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-border-wall-daca_us_59ba570ee4b0edff971983ee', 'short_description': '"No deal was made last night," he said.', 'date': '2017-09-14'}

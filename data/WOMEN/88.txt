@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Maryland Governor Candidate Breastfeeds In New Campaign Ad', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/maryland-governor-candidate-breastfeeds-in-new-campaign-ad_us_5ab3a1dce4b0decad0475af7', 'short_description': '“I’m a mom. I’m a woman. And I want to be your next governor.”', 'date': '2018-03-22'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jordan Peele Tweets 'Get Out' Joke About Meghan Markle And Prince Harry", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/jordan-peele-tweets-get-out-joke-about-meghan-markle-and-prince-harry_us_5a3d5522e4b025f99e16fbac', 'short_description': '"A lot of tea cups lying around Buckingham."', 'date': '2017-12-22'}

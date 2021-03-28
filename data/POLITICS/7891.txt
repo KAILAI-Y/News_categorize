@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "#25thAmendment Trends As Calls For Donald Trump's Removal Grow", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/25th-amendment-donald-trump_us_5959cd84e4b02734df332d8d', 'short_description': "The president's not going to like these latest trending hashtags.", 'date': '2017-07-03'}

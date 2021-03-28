@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Black Panther' Expected To Have Enormous $165 Million-Plus Opening Weekend", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/black-panther-opening-weekend_us_5a830452e4b01467fcf1f3d7', 'short_description': 'The film, which comes out Feb. 16, has already been breaking records.', 'date': '2018-02-13'}

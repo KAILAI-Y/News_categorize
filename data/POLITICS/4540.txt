@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Senate Republicans Say Trump Ruled Out 'Dreamer' Protections In Spending Bill", 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/trump-dreamers_us_59fb2935e4b01b474048b787', 'short_description': 'Get ready for a government shutdown fight.', 'date': '2017-11-02'}

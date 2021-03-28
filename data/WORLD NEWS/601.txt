@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'These 17 Photos Show Santas Spreading Joy Around The World', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/photos-santas-spreading-joy-world_us_5a3a87e1e4b06d1621b114b8', 'short_description': 'Santa has some awesome helpers.', 'date': '2017-12-25'}

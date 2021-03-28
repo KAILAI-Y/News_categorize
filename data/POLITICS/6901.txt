@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Marijuana Company Buys Entire California Town', 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/marijuana-company-buys-nipton-california_us_5985e9bce4b041356ec00bbd', 'short_description': 'Weed like to visit.', 'date': '2017-08-05'}

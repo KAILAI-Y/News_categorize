@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Netanyahu's Government Is Trying To Ban Police Investigations Of Prime Ministers", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/netanyahu-israel-investigations_us_59e50cb1e4b0ca9f4839f699', 'short_description': 'The Israeli leader also happens to be under investigation.', 'date': '2017-10-16'}

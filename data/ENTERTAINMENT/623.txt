@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jay-Z Says There's One 'Great Thing' Trump Has Done", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jay-z-donald-trump-david-letterman_us_5ac70941e4b0337ad1e64898', 'short_description': 'Rapper talks politics with David Letterman.', 'date': '2018-04-06'}

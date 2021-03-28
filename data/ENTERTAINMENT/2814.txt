@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kardashians And Jenners Lend Hand To Houston, Donate $500K To Those In Need', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/kardashians-jenner-houston-hurricane-harvey_us_59a5c613e4b00795c2a23dfd', 'short_description': '"Houston we are praying for you!"', 'date': '2017-08-29'}

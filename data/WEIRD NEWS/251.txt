@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'The Last Full Moon Of 2017 Is Going To Be A Supermoon', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/2017-supermoon-december-full-moon_us_5a231a6be4b03350e0b72803', 'short_description': 'A fittingly dramatic end to the year.', 'date': '2017-12-03'}

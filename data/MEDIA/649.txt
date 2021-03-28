@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "CNN Chief Says NBC's Marketing Of Alex Jones Interview Was A 'Big Mistake'", 'authors': 'Michael Calderone', 'link': 'https://www.huffingtonpost.com/entry/jeff-zucker-nbc-alex-jones_us_5942d17ee4b0f15cd5b9e73d', 'short_description': 'But Jeff Zucker still thinks the conspiracy-pushing host is a newsworthy subject.', 'date': '2017-06-15'}

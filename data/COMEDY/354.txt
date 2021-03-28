@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Has An Amusing Theory About Donald Trump's SOTU Teleprompter", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-state-of-the-union_us_5a717893e4b0be822ba198e7', 'short_description': 'Sounds convincing.', 'date': '2018-01-31'}

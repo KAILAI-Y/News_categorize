@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Tiffany Haddish Seriously Loves Bidets: ‘I Haven’t Needed A Man Since’', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/tiffany-haddish-bidets_us_5a738b4fe4b06ee97af0f44f', 'short_description': "You better bet there's a story behind her fascination with them.", 'date': '2018-02-01'}

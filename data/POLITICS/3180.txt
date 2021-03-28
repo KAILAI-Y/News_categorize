@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'So Donald Trump DOES Watch The News', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/trump_us_5a3d2872e4b06d1621b4132c', 'short_description': 'The president told the media he signed the GOP tax bill after watching TV because he "didn’t want you folks to say that I wasn’t keeping my promise."', 'date': '2017-12-22'}

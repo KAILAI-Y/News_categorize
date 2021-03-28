@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert’s Donald Trump-Inspired Artwork Is The Stuff Of Nightmares', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-karen-pence-art-therapy_us_5aaa4b1ae4b0f4aaa113fcc5', 'short_description': '"I was just working through some issues."', 'date': '2018-03-15'}

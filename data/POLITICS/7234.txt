@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Missing Costs Of War', 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/the-missing-cost-of-war_us_59775a95e4b0c95f375ec51d', 'short_description': 'Buckle your seat belt; you’re in for a bumpy, trillion-dollar ride into American financial hell.', 'date': '2017-07-25'}

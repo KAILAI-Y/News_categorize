@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "British Soldier Runs 'A Whey' With Cheese Rolling Championship", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/coopers_us_592f0908e4b09ec37c3133bc', 'short_description': 'The cheeses can reach speeds of 70 mph.', 'date': '2017-05-31'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Sean Hannity Accused Of Stealing His Legal Strategy From ‘Breaking Bad’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-breaking-bad_us_5ad56da2e4b016a07e9fc4e2', 'short_description': 'Better Call Saul!', 'date': '2018-04-17'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hundreds Of Child Soldiers Released In South Sudan', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/child-soldiers-south-sudan-release_us_5a7b4873e4b0c6726e0ea82a', 'short_description': 'More than 19,000 kids have been lured into combat since the civil war erupted.', 'date': '2018-02-07'}

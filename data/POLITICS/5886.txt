@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hillary Clinton Sends Pizza To Fans Camping Out Overnight For Her Book Signing', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-pizza-book-signing_us_59b7aa74e4b09be41657d453', 'short_description': '🍕🍕🍕', 'date': '2017-09-12'}

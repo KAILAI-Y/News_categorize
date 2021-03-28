@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Deaths In Pakistan Coal Mine Blast Climb To 23, Officials Say', 'authors': 'Gul Yousafzai, Reuters', 'link': 'https://www.huffingtonpost.com/entry/deaths-in-pakistan-coal-mine-blast-climb_us_5aef0b7be4b041fd2d27bd44', 'short_description': 'A methane gas build-up inside the mine is said to have caused the blast.', 'date': '2018-05-06'}

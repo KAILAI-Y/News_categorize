@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Cleveland Indians Set Record For Longest Winning Streak In Over A Century', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/cleveland-indians-winning-streak_us_59bb82f8e4b02da0e140cabf', 'short_description': 'The Indians have outscored their opponents by a whopping 137-34 margin during the streak.', 'date': '2017-09-15'}

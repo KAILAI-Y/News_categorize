@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'All The Harry Potter Makeup You Need To Look As Good As Hermione', 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/harry-potter-makeup-beauty-hermione_us_593974f4e4b0b13f2c681c6d', 'short_description': 'Works like a charm ✨', 'date': '2017-06-08'}

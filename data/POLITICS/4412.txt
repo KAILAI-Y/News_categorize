@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Tax Plan Estimated To Add $1.7 Trillion To National Debt', 'authors': 'Matt Fuller and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/gop-tax-plan-debt-cbo_us_5a03306ae4b04e96f0c70a68', 'short_description': 'The Republican plan sharply reduces individual and corporate tax rates.', 'date': '2017-11-08'}

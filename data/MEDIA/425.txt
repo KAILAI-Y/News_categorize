@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'NBC Fires Mark Halperin Following Sexual Harassment And Assault Allegations', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/mark-halperin-fired-nbc_us_59f7273be4b07fdc5fbf884b', 'short_description': 'At least a dozen women have publicly accused him of sexual misconduct.', 'date': '2017-10-30'}

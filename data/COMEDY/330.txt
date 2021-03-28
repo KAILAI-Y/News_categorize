@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'SNL’s Creepy ‘My Little Step Children’ Ad Puts A Dark New Spin On A Classic Toy', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/snl-my-little-step-children_us_5a7aab02e4b07af4e81f1fce', 'short_description': "Here's some dark humor for you.", 'date': '2018-02-07'}

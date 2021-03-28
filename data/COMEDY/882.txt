@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'SNL' Bids Hilarious Farewell To Melissa McCarthy's Sean Spicer", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/snl-sean-spicer-melissa-mccarthy_us_5972f291e4b00e4363dfaf4a', 'short_description': 'Oh Spicey, we hardly knew ye.', 'date': '2017-07-22'}

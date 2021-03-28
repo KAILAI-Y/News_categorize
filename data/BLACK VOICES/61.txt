@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Radio Station Announces No More Kanye', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/detroit-radio-station-kanye-west_us_5aec69ece4b0c4f19321d6fa', 'short_description': '“We just are refusing to give him a platform,” said the hosts of Detroit’s “The Bounce.”', 'date': '2018-05-04'}

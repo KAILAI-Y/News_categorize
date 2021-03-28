@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Obama Profiles Parkland Survivors For TIME's '100 Most Influential' List", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/obama-parkland-survivors_us_5ad8aed2e4b029ebe021cadd', 'short_description': 'The high school students "are shaking us out of our complacency.”', 'date': '2018-04-19'}

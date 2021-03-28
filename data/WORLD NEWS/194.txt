@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "World Powers Band Together To Punish Russia For Ex-Spy's Poisoning", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/europe-us-expel-russian-diplomats_us_5ab8f436e4b0decad04c1550', 'short_description': 'Russia threatened to expel diplomats in retaliation.', 'date': '2018-03-26'}

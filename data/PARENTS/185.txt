@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Burger King Tackles Bullying In Viral Ad', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/burger-king-tackles-bullying-in-viral-ad_us_59ea5035e4b0a484d0632eb6', 'short_description': '"The first step to putting an end to bullying is to take a stand against it."', 'date': '2017-10-20'}

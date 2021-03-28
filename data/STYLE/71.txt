@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '15 Chic Little Black Dresses For Under $100', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/little-black-dress-under-100_us_5a298dcde4b03ece0300fa15', 'short_description': 'Just in time for those holiday parties.', 'date': '2017-12-07'}

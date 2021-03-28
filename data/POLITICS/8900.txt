@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Portland Murder Suspect Calls Stabbings 'Patriotism' In First Court Appearance", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/portland-stabbing-arraignment_us_592def7ae4b0e95ac194cd5b', 'short_description': '“Free speech or die, Portland!”', 'date': '2017-05-31'}

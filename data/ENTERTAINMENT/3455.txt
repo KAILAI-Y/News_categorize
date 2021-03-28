@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'HBO Has No Plans To Fire Bill Maher After On-Air Racial Slur', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/hbo-bill-maher-fire_us_5935a393e4b013c4816a05ab', 'short_description': 'Some called for the host to be axed after the incident.', 'date': '2017-06-05'}

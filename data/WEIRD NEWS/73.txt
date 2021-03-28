@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "‘In A Dogs' World, Humans Are Elves That Routinely Live To Be 500+ Years Old’", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/shower-thoughts-reddit-april-2018-part-two_us_5ac74b4ae4b07a3485e34c58', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-04-06'}

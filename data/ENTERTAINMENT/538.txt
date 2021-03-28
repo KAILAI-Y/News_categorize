@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Art Bell, Paranormal Radio Show Host, Dies At 72', 'authors': 'Daniel Wallis, Reuters', 'link': 'https://www.huffingtonpost.com/entry/art-bell-death_us_5ad23ac0e4b0edca2cba533b', 'short_description': 'Bell, who created the popular show "Coast to Coast AM," died on Friday the 13th.', 'date': '2018-04-14'}

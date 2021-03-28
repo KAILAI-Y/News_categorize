@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sanders Movement Plots Democratic Party Takeover At Weekend Gathering', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-movement-plots-democratic-party-takeover_us_593eda98e4b0c5a35ca2060e', 'short_description': 'But some activists are losing patience with the party.', 'date': '2017-06-12'}

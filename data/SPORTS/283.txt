@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Rob Gronkowski's House Burglarized While Patriots Were At Super Bowl", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/rob-gronkowski-burglary_us_5a79b5fee4b00f94fe956482', 'short_description': '"Multiple safes and possible guns taken."', 'date': '2018-02-06'}

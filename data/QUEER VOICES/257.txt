@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Over 50% Of LGBTQ Youths Struggle With Eating Disorders, Survey Finds', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/lgbtq-eating-disorder-survey_us_5a975aa1e4b07dffeb6f8786', 'short_description': 'The groundbreaking survey also looked at the link to suicidal thoughts.', 'date': '2018-03-01'}

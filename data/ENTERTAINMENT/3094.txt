@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Carly Rae Jepsen Doesn't Care If She Has The Song Of The Summer", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/carly-rae-jepsen-doesnt-care-if-she-has-the-song-of-the-summer_us_5977818ce4b0e201d578acf6', 'short_description': 'Even though "Cut to the Feeling" has zero competition.', 'date': '2017-07-27'}

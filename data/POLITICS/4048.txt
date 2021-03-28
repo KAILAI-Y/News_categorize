@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Maniac Neo-Nazis Keeping Charles Manson's Race War Alive", 'authors': "Luke O'Brien and Christopher Mathias", 'link': 'https://www.huffingtonpost.com/entry/alt-right-charles-manson-atomwaffen_us_5a146921e4b03dec824892e6', 'short_description': 'How Atomwaffen wants to make Helter Skelter real.', 'date': '2017-11-21'}

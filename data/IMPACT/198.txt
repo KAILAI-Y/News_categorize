@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'The Everyday Heroes Of The Hurricanes', 'authors': 'Randi Weingarten, ContributorPresident, American Federation of Teachers', 'link': 'https://www.huffingtonpost.com/entry/the-everyday-heroes-of-the-hurricanes_us_59be6681e4b02c642e4a1771', 'short_description': 'Solidarity is central to what it means to be a union.', 'date': '2017-09-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Officially Gets His First 2020 Presidential Challenger', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/john-delaney-2020-presidential-election-candidate_us_597b7718e4b02a4ebb7553bc', 'short_description': 'Rep. John Delaney, a Democrat from Maryland, is years ahead of the pack.', 'date': '2017-07-28'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bernie Who?', 'authors': 'David Lyell, ContributorActor and Substitute Teacher', 'link': 'https://www.huffingtonpost.com/entry/bernie-who_us_594958efe4b028db60c614ac', 'short_description': 'Some people sort of dig him. He even ran for President in 2016. No, really. 2016. Remember?', 'date': '2017-06-22'}

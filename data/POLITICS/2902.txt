@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Another Top GOP Congressman Is Calling It Quits', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/ed-royce-retirement_us_5a53ecfce4b01e1a4b18b0cf', 'short_description': 'The move by Rep. Ed Royce (R-Calif.) is the latest sign of a possible Democratic wave this November.', 'date': '2018-01-08'}

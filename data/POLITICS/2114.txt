@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bill Gates Warns Tech Giants: Tone It Down -- Or Get Regulated', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/bill-gates-silicon-valley-tech-regulation_us_5a830508e4b00ecc923eb97f', 'short_description': '“There’s no question of ability," says Gates. "It’s the question of willingness.”', 'date': '2018-02-13'}

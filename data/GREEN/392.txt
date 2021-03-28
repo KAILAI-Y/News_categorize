@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Blue Whale Found Dead On Northern California Beach Likely Struck By Ship', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/blue-whale-ashore-california_us_592a5c56e4b0df57cbfc0dc9', 'short_description': '79-foot female suffered blunt force trauma and several broken bones.', 'date': '2017-05-28'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Another Woman Accuses Jeremy Piven Of Groping Her On 'Entourage' Set", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/jeremy-piven-groping-accusation-entourage-set_us_5a16448ae4b0cee6c04e413e', 'short_description': 'The extra says the incident happened in a dark hallway in 2009.', 'date': '2017-11-23'}

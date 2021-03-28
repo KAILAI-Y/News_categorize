@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Voter Fraud Probe Sends New Request For Voter Information', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/kris-kobach-trump-voter-fraud-probe_us_5979e393e4b02a4ebb734bfa', 'short_description': 'The panel had asked states to hold off on submitting data amid a lawsuit.', 'date': '2017-07-27'}

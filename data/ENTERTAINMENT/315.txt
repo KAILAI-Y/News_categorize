@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here Are The Movies Coming To Netflix This Week', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/good-movies-netflix_us_5adf4a14e4b07560f3960052', 'short_description': 'Is this finally the week that Netflix debuts a good sci-fi thriller?', 'date': '2018-04-30'}

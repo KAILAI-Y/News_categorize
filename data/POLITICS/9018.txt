@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Is A Big Reason The GOP Kept The Montana House Seat', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-republican-montana-house-race_us_5927a328e4b06f608053618c', 'short_description': 'The president still has long coattails in Big Sky Country.', 'date': '2017-05-26'}

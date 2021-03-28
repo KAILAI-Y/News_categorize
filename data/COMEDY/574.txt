@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Donald Trump's 'Bond Villains' Posing With Cash Is Your New Favorite Meme", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/steven-mnuchin-money-photo_us_5a0d4d76e4b0b17e5e14068f', 'short_description': 'This is probably not the impression they were hoping to make.', 'date': '2017-11-16'}

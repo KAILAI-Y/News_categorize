@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Joe Scarborough: Steve Bannon Is President Of The United States', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-president-joe-scarborough_us_593175c0e4b0c242ca2344ab', 'short_description': '"Donald Trump doesn’t know anything about anything."', 'date': '2017-06-02'}

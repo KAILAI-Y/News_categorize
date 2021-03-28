@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Jr. Appears To Have Violated Election Law,  Democrats Say', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-violated-law-democrats_us_59651d77e4b03f144e2e8766', 'short_description': '"This starts to look like open, knowing collusion with the Russian government."', 'date': '2017-07-11'}

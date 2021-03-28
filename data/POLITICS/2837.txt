@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Strange Bedfellows: Trump Does Davos', 'authors': 'Andy Serwer, Yahoo! Finance', 'link': 'https://www.huffingtonpost.com/entry/strange-bedfellows-trump-does-davos_us_5a5559ade4b03417e8732880', 'short_description': 'Why is Donald Trump going to the World Economic Forum in Davos?', 'date': '2018-01-10'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Tweet Condemning Al Franken Assault Allegations Backfires Spectacularly", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/trump-al-franken-tweet-backfires_us_5a0e731ae4b045cf43708e39', 'short_description': 'The president conveniently failed to mention his own troubled past.', 'date': '2017-11-17'}

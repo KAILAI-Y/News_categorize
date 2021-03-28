@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'What To Watch On Hulu That’s New This Week', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/hulu-what-to-watch_us_5adfa2f9e4b061c0bfa28ae5', 'short_description': 'You can probably guess which new show is recommended this week.', 'date': '2018-04-27'}

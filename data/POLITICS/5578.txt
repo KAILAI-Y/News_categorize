@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here Are Some Ways People Disrespect The Flag Daily Based On Flag Code', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/american-flag-disrespect-tru_us_59c7140be4b06ddf45f867a0', 'short_description': 'Ever used a disposable picnic plate with a U.S. flag on it? The Flag Code frowns on that.', 'date': '2017-09-24'}

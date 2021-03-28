@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: The Aftermath Of Trump's Decision To Exit Paris Agreement", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-the-aftermath-of-trumps-decision-to-exit-paris-agreement_us_5931452ae4b02478cb9a632c', 'short_description': 'And what happens next.', 'date': '2017-06-02'}

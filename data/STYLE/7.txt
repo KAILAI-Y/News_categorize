@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '9 Cruelty-Free Coats For Men That Are Surprisingly Warm', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/9-cruelty-free-coats-for-men-that-are-surprisingly-warm_us_5a58c1d7e4b0720dc4c67353', 'short_description': 'Who says fur is the only way to stay warm?', 'date': '2018-01-12'}

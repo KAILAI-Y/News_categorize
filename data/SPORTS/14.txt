@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'How Nick Foles Got Back Up', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/nick-foles-nfl-friends_us_5ae8e4cee4b00f70f0ecef79', 'short_description': 'The Super Bowl MVP chats with a childhood friend about his unusual journey from NFL backup to star to backup again.', 'date': '2018-05-02'}

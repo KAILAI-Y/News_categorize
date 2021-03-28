@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "MLK's Daughter Says We Must Remember Her Mother's Legacy, Too", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/coretta-scott-king-mlk-day_us_5a5cb6c1e4b04f3c55a48bcc', 'short_description': '“Without #CorettaScottKing, there would be no #MLKDay,” Bernice King writes.', 'date': '2018-01-15'}

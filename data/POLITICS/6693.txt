@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "President Trump's Reelection Campaign Releases Television Ad", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-reelection-ad_us_5990857ae4b08a2472753a39', 'short_description': '“The president’s enemies don’t want him to succeed," the ad\'s narrator says.', 'date': '2017-08-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Trump Administration Is Suing California Again', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/justice-department-sues-california-federal-lands_us_5ac28928e4b00fa46f854807', 'short_description': "This time the fight's over a new state law that limits the sale of federal lands.", 'date': '2018-04-02'}

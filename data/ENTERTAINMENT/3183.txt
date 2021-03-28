@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Dear Internet, Tracee Ellis Ross Heard Your 'Magic School Bus' Prayers", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/tracee-ellis-ross-magic-school-bus_us_596b5eb1e4b0d6341fe97cf9', 'short_description': 'The actress responded to fans on Twitter, and of course they flipped out.', 'date': '2017-07-16'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Legendary Sports Writer Frank Deford Dead At 78', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/frank-deford-dead_us_592c5bb3e4b053f2d2ad76d6', 'short_description': 'Deford is widely regarded as one of the greatest sports journalists ever.', 'date': '2017-05-29'}

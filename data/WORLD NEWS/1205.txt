@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'United Nations Passes New Sanctions Against North Korea', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/united-nations-north-korea-sanctions_us_59b70fffe4b027c149e1b7a6', 'short_description': 'The penalties fall short of those requested by the Trump administration, however.', 'date': '2017-09-11'}

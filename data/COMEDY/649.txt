@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Daily Show' Slams Trump's Careful Wording On The Opioid Crisis", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-daily-show-slams-trumps-careful-wording-on-the-opioid-crisis_us_59f33ce1e4b07fdc5fbdb37c', 'short_description': 'Words are cheap without the funding to back them up.', 'date': '2017-10-27'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Let 'Conan' Show You How To Live A Facebook-Free Life", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/conan-facebook-sketch_us_5ace37b7e4b0648767760033', 'short_description': "Here's the mock PSA you never knew you needed.", 'date': '2018-04-11'}

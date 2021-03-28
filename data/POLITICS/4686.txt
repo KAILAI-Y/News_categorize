@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Ally Roger Stone Suspended From Twitter After Vicious Attacks On CNN Journalists', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/roger-stone-twitter_us_59f50c11e4b03cd20b81fda7', 'short_description': 'The notorious GOP operative said Jake Tapper and Don Lemon should be "punished."', 'date': '2017-10-29'}

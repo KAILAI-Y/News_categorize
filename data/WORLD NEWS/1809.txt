@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Oil Tanker Explosion Kills 146 People In Pakistan', 'authors': 'Mubasher Bukhari, Reuters', 'link': 'https://www.huffingtonpost.com/entry/oil-tanker-explosion-pakistan_us_594f9a2de4b0da2c731c0d96', 'short_description': 'An estimated 20 children were among the dead.', 'date': '2017-06-25'}

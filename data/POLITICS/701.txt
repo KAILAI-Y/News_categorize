@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Justice Department Releases Comey Memos To Congress', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/justice-department-comey-memos-congress_us_5ad8faa0e4b03c426daca737', 'short_description': 'Top GOP lawmakers have been putting pressure on the DOJ to release the documents.', 'date': '2018-04-19'}

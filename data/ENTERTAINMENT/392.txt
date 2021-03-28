@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Family Guy' Wickedly Pranks Emmy Voters", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/family-guy-wickedly-pranks-emmy-voters_us_5ae04c78e4b07560f3971a46', 'short_description': "We hope they're laughing.", 'date': '2018-04-25'}

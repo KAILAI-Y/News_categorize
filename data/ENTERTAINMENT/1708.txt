@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'New K-Pop Music Video Praised As Celebration Of LGBTQ Love', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/loona-music-video-lgbtq-love_us_5a4bc8cde4b025f99e1e0641', 'short_description': 'More of this, please!', 'date': '2018-01-02'}

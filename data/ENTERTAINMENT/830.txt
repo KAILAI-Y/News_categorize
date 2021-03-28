@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Proof That Laura Dern Kept Saying 'Pew' When Firing A Blaster In 'The Last Jedi'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/laura-dern-mouthed-pew-star-wars-the-last-jedi_us_5aaa6220e4b0004c0407d742', 'short_description': "She just couldn't help it.", 'date': '2018-03-15'}

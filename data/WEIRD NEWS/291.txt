@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'The Coffee Pouring Puzzle That’s Messing With People’s Minds', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/coffee-pouring-puzzle-twitter_us_5a06d1f5e4b05673aa5975dd', 'short_description': 'Can you figure it out?', 'date': '2017-11-11'}

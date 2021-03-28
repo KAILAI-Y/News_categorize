@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Pancake-Craving Dog Accidentally Starts House Fire', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/pancake-dog-house-fire_us_5a79f50be4b07af4e81e6c3e', 'short_description': 'As Scooby Doo might say, "Ruh-roh!"', 'date': '2018-02-06'}

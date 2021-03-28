@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Barack Obama Is Getting All The Twitter Love On His Birthday', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/barack-obama-twitter-birthday_us_5984b724e4b08b75dcc6c270', 'short_description': '🎂 🎉 🎈', 'date': '2017-08-04'}

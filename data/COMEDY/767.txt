@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher: It's An 'Inconvenient Truth' That Climate Change Deniers' Homes Are In Irma's Path", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-hurricane-irma-donald-trump-climate-change-deniers_us_59b387abe4b0dfaafcf81e69', 'short_description': '"I\'m not gloating."', 'date': '2017-09-09'}

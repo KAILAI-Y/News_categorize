@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Stranger Things' Season 2 Delivers #JusticeForBarb", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/heres-how-stranger-things-season-2-gave-us-justiceforbarb_us_59f167ede4b07d838d3218be', 'short_description': 'Justice is served.', 'date': '2017-10-28'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'A Conspiracy Theory About A Stoneman Douglas Student Reaches No. 1 On YouTube', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/youtube-stoneman-douglas_us_5a8d9389e4b00a30a2517348', 'short_description': 'The video was viewed more than 200,000 times before it was removed by the site.', 'date': '2018-02-21'}

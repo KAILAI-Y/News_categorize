@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Trump Ends CIA Arms Support For Anti-Assad Syria Rebels', 'authors': 'John Walcott, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-ends-cia-arms-supply-syrian-rebels_us_597091fae4b0aa14ea77c477', 'short_description': 'The decision is a move sought by Assad ally Russia.', 'date': '2017-07-20'}

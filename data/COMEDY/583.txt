@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Larry David Shows His Enthusiasm Reading Mean Tweets About Jimmy Kimmel', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/larry-david-jimmy-kimmel-mean-tweets_us_5a0c06aee4b0bc648a0ece3a', 'short_description': 'This is pretty, pretty funny.', 'date': '2017-11-15'}

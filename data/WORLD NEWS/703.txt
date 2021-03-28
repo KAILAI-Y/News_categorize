@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Middle Eastern Allies Threaten Trump Over Jerusalem Announcement', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/allies-cut-ties-trump-jerusalem_us_5a26b136e4b07324e840b948', 'short_description': 'Recognizing the city as Israel\'s official capital wold be "the red line of Muslims," according to Turkey.', 'date': '2017-12-05'}

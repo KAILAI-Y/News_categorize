@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Erdogan Vows To Punish Turkey's Enemies On Anniversary Of Failed Coup", 'authors': 'Daren Butler and Tuvan Gumrukcu, Reuters', 'link': 'https://www.huffingtonpost.com/entry/turkey-coup-anniversary_us_596b722ae4b01741862823d4', 'short_description': 'The president also took aim at the European Union.', 'date': '2017-07-16'}

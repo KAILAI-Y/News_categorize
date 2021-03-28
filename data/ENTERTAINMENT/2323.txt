@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Celebrities Honor Fats Domino With Twitter Tributes', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/fats-domino-social-media_us_59f0b388e4b03c73bf34581e', 'short_description': 'Showbiz stars tip their hats to the pioneering rock legend.', 'date': '2017-10-25'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump: North Korea 'Closer Every Day' On Long-Range Missile", 'authors': 'Steve Holland, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-north-korea-russia_us_5a5fa33be4b046f0811c81de', 'short_description': 'The president said Russia is helping North Korea evade sanctions.', 'date': '2018-01-17'}

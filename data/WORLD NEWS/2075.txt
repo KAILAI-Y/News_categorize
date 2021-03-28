@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Coral Reefs Are Changing So Fast, Scientists Say We Need To Rewrite The Playbook', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/coral-reefs-future_us_592e66d9e4b0e95ac194f6fa', 'short_description': '"To steer coral reefs through the next century, we will need to be bold."', 'date': '2017-05-31'}

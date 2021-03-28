@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Federal Court Strikes Down North Carolina Congressional Map As Unconstitutional', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/north-carolina-gerrymandering_us_5a5547abe4b03417e873209f', 'short_description': 'The map in question was ruled to have violated multiple constitutional amendments.', 'date': '2018-01-09'}

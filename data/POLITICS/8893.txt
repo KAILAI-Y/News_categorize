@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Former NAACP President Ben Jealous Announces Run For Maryland Governor', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/ben-jealous-running-for-maryland-governor_us_592ef5a1e4b0540ffc83c252', 'short_description': 'The Bernie Sanders supporter has strong ties in the progressive community.', 'date': '2017-05-31'}

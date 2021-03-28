@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Harrison Ford And Ryan Gosling 'Blade Runner' Interview Goes Off The Rails", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/harrison-ford-and-ryan-gosling-blade-runner-interview-goes-off-the-rails_us_59d62e75e4b0becae802b6f0', 'short_description': 'No one can keep it together.', 'date': '2017-10-05'}

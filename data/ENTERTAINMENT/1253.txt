@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Justin Timberlake Pays Tribute To Prince At Super Bowl Halftime Show', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/justin-timberlake-super-bowl-halftime-sho_us_5a7623bbe4b01ce33eb346df', 'short_description': "He brought down the house, but didn't bring out Janet Jackson or N*SYNC.", 'date': '2018-02-05'}

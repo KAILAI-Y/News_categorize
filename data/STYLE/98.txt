@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'How The Date For Thanksgiving Was Decided', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/thanksgiving-fourth-thursday_us_5a0f283ee4b0e97dffed1988', 'short_description': 'It took a few famous presidents to finally settle on this date.', 'date': '2017-11-21'}

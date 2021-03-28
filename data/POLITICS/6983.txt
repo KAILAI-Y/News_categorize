@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "White House's 'We Don't Care Much For Brown Folks Week' Going OK", 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/white-houses-we-dont-care-much-for-brown-folks-week-going-ok_us_5982442ce4b00f0084adeaea', 'short_description': "Could be better, probably couldn't be worse.", 'date': '2017-08-02'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher Shreds GOP Official's 'Joseph And Mary' Defense Of Roy Moore", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-roy-moore-evangelical_us_5a06a546e4b0e37d2f379665', 'short_description': "The comedian pointed out one glaring flaw in Alabama State Auditor Jim Zeigler's analogy.", 'date': '2017-11-11'}

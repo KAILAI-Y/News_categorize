@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher: America Must 'Start Penalizing Liars' Like Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-liar-donald-trump-penalized_us_5ae41367e4b055fd7fcbfe5d', 'short_description': '"Obama should sue Trump for saying that he wiretapped him."', 'date': '2018-04-28'}

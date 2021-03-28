@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Jemele Hill Returns To ESPN After Controversial Suspension', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/jemele-hill-return-espn-suspension_us_59ecddf4e4b00f08619f82e7', 'short_description': 'The "SportsCenter" host has been off the air for two weeks.', 'date': '2017-10-23'}

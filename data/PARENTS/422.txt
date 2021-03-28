@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Mark Zuckerberg Says He'll Take Two Months Of Paternity Leave", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/mark-zuckerberg-facebook-paternity-leave_us_599b0186e4b0e8cc855f12a1', 'short_description': 'He and his wife, Priscilla Chan, will soon welcome their second daughter.', 'date': '2017-08-21'}

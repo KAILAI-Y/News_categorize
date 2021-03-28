@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Breaks Silence On Roy Moore Allegations', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-roy-moore_us_5a148af4e4b03dec8248bf02', 'short_description': '“We don’t need a liberal person in there,” the president said, referring to Moore’s Democratic challenger Doug Jones.', 'date': '2017-11-21'}

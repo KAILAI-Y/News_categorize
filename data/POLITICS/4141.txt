@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Denounces Al Franken But Remains Silent On Roy Moore', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-al-franken-roy-moore_us_5a0dbddae4b0b37054f52401', 'short_description': "Republicans' hypocrisy continues.", 'date': '2017-11-17'}

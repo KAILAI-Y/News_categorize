@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Matt Damon Reveals The Vain Reason Behind Donald Trump's Movie Cameos", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/matt-damon-donald-trump-movie-appearances-reason_us_59aa52d6e4b0b5e530fee3c2', 'short_description': "And it's not to do with the president's acting skills.", 'date': '2017-09-02'}

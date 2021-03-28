@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Marcus Mariota Throws Insane Touchdown Pass To Marcus Mariota', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/marcos-mariota-throws-impossible-touchdown-pass-to-marcus-mariota_us_5a5192b7e4b089e14dbb62e7', 'short_description': "That's not a typo, folks.", 'date': '2018-01-07'}

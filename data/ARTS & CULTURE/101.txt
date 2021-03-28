@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': '10-Year-Old Kindly Alerts Museum To Mislabeled Dinosaur Exhibit', 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/charlie-edwards-museum-natural-history_us_5989f256e4b0d793738a969e', 'short_description': 'Turns out amateur paleontologist Charlie Edwards was right.', 'date': '2017-08-08'}

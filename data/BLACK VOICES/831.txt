@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Ava DuVernay On How ‘Queen Sugar’ Cast Helped Her Through A Personally Tough Time', 'authors': 'Lilly Workneh', 'link': 'https://www.huffingtonpost.com/entry/ava-duvernay-woke-women_us_595a9fbae4b05c37bb7fcf4c', 'short_description': 'Being woke is about "being there for each other in a time of need," she said.', 'date': '2017-07-03'}

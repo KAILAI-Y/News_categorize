@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Obama Reports For Jury Duty Looking Sharper Than Ever', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/obama-jury-duty_us_5a0359e1e4b0937b510f23ab', 'short_description': 'Oh, how we miss him. ❤️', 'date': '2017-11-08'}

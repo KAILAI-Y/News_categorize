@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jim Carrey Turns Paintbrush On Rudy Giuliani With Ghoulish New Portrait', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jim-carrey-rudy-giuliani-portrait-trump_us_5adade10e4b089e33c8842b2', 'short_description': '“Ghouliani: Finally a face we can trust."', 'date': '2018-04-21'}

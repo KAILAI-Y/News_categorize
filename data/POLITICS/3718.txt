@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Gender Divide On Men And Women's Roles Is Dwarfed By The Gap Between Democrats And Republicans", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/democrats-republicans-men-and-women_us_5a26e9d7e4b069df71fa3e71', 'short_description': 'Republicans are from Mars, Democrats are from Venus?', 'date': '2017-12-05'}

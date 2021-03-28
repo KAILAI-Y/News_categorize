@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Germans, Canadians Reportedly Among Captured Women Who Fought For ISIS', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/women-isis-fighters_us_596f9141e4b01696c6a23142', 'short_description': 'A 16-year-old from Saxony was thought to be one of 20 foreign women taken in Mosul last week.', 'date': '2017-07-19'}

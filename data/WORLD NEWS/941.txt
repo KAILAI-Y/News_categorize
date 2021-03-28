@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'ISIS Reportedly Killed 128 People In Syrian Town Over 3-Week Period', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/syria-isis-massacre_us_59edc0f0e4b00f08619fd078', 'short_description': 'The Syrian army recaptured the town on Saturday.', 'date': '2017-10-23'}

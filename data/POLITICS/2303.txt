@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "FBI Director Chris Wray Tells Employees: 'Talk Is Cheap'", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/chris-wray-memo-reaction-talk-cheap_us_5a74f4b4e4b06ee97af2ab34', 'short_description': '“The work you do is what will endure,” he says after release of the GOP memo.', 'date': '2018-02-03'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Judd Apatow Isn't A Feminist, According To Judd Apatow", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/judd-apatow-feminist-vulture_us_59887d1ce4b08b75dcc8679e', 'short_description': '"I’m not thinking about representing minorities. I’m not thinking about society," he told Vulture.', 'date': '2017-08-07'}

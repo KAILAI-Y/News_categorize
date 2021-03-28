@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Late Night' Writer Shreds 'Roseanne': It's Better Than Ever At Being Racist", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/roseanne-racist-episode-amber-ruffin_us_5afe7c17e4b0463cdba06052', 'short_description': '“Now, let me tell you one of the bajillion reasons why this episode was poison."', 'date': '2018-05-18'}

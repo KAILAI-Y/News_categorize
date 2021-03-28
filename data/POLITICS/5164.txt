@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bob Corker Was A Trump Enabler Until He Saw A Chance Of Global War', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/bob-corker-trump-enabler_us_59dbbad1e4b00377980ad7a3', 'short_description': 'The powerful senator was an early and influential voice who helped propel Trump into the presidency.', 'date': '2017-10-09'}

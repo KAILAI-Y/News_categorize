@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Shows Just How F**king Infuriating The Equifax Data Breach Is', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-shows-you-how-fing-infuriating-the-equifax-data-breach-is_us_59e4c8bee4b04d1d51835ab4', 'short_description': "It's so, so, SO much worse than you thought.", 'date': '2017-10-16'}

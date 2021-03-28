@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5a7cd58ae4b0c6726e117a8c', 'short_description': "We're here for all the lady Doritos takedowns.", 'date': '2018-02-09'}

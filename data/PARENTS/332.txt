@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Not The Cool Dad', 'authors': 'Steve Stein, ContributorWriter', 'link': 'https://www.huffingtonpost.com/entry/not-the-cool-dad_us_59b7002de4b08f6632c07656', 'short_description': 'So, I won’t be the one asked for cigarettes and beer \u200a— \u200aI’m ok with that.', 'date': '2017-09-11'}

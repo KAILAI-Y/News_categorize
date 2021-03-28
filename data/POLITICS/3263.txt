@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "America's Generational Wars", 'authors': 'Danny Sjursen, ContributorU.S. Army strategist and former history instructor at West Point', 'link': 'https://www.huffingtonpost.com/entry/americas-wars_us_5a394cefe4b0fc99878f2906', 'short_description': 'Yet more of more of the same?', 'date': '2017-12-19'}

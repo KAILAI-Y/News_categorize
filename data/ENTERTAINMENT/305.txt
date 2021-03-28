@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'13 Reasons Why' Goes Beyond The Tapes In Haunting Season 2 Trailer", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/13-reasons-why-season-2-trailer_us_5ae8622ce4b02baed1be0c42', 'short_description': 'The new season debuts on Netflix May 18.', 'date': '2018-05-01'}

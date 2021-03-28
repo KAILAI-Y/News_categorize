@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Wondering What Vero Is? Here's A Primer.", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/what-is-vero-social-media-instagram_us_5a95b9b8e4b07dffeb6cf63f', 'short_description': 'The ad-free, privacy-oriented Instagram competitor exploded in popularity this week.', 'date': '2018-02-27'}

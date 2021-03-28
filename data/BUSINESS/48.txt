@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Papa John's Is No Longer NFL's Official Pizza", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/papa-johns-nfl-sponsor_us_5a95df6de4b09c872baec75f', 'short_description': 'The relationship has been sliced.', 'date': '2018-02-28'}

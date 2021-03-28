@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "CNN's Fourth Of July Tweets Are Obviously Directed At One Person", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/cnn-freedom-of-press-quotes-july-4_us_595beb99e4b02734df346be2', 'short_description': 'Independence Day is all about freedom, including freedom of the press.', 'date': '2017-07-04'}

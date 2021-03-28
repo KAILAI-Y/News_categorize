@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Why This Single Man Chose To Become A Dad Via IVF', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/why-this-single-man-chose-to-become-a-dad-via-ivf_us_594422d6e4b06bb7d272f412', 'short_description': '"It\'s been such a blessing to have a child. I never thought I would have one."', 'date': '2017-06-16'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Fake Melania Trump Separates Fact From Fiction In Michael Wolff's Book For Colbert", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/fake-melania-trump-late-show-michael-wolff-stephen-colbert_us_5a571980e4b0a300f905e7b5', 'short_description': '"Oh no no, that is true."', 'date': '2018-01-11'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'New York Family Of 5 Among 12 Killed In Costa Rica Plane Crash', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/costa-rica-plane-crash_us_5a49474ee4b06d1621b9a206', 'short_description': 'A family of 4 from Florida also perished Sunday when a Nature Air flight crashed into a mountain.', 'date': '2017-12-31'}

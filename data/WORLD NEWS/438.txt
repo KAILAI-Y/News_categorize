@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Brazilian Court Upholds Lula's Corruption Conviction", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/brazil-lula-conviction_us_5a68d450e4b0dc592a0ee8f3', 'short_description': 'The decision is a major blow to the plans of the former president to run again this year.', 'date': '2018-01-24'}

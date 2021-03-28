@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Threat To Iran Deal Grows With Rex Tillerson’s Ouster', 'authors': 'Igor Bobic and Jessica Schulberg', 'link': 'https://www.huffingtonpost.com/entry/rex-tillerson-iran-deal-pompeo_us_5aa7fc52e4b0e872b4bf53ad', 'short_description': 'Trump’s new pick for secretary of state, Mike Pompeo, is fiercely opposed to the accord.', 'date': '2018-03-13'}

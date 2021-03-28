@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'U.K. Radio Host: Trump Fans Must Think Harvey Weinstein Would Be A Good President', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/james-obrien-harvey-weinstein-donald-trump_us_59e051ffe4b03a7be57f7ef5', 'short_description': "James O'Brien calls out Trump supporters over a double standard.", 'date': '2017-10-13'}

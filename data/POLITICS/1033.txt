@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Score Big Win In Wisconsin Supreme Court Race', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/rebecca-dallet-wins_us_5ac3c75ce4b00fa46f873516', 'short_description': "It wasn't even close.", 'date': '2018-04-04'}

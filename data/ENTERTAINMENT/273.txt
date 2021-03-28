@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mike Myers Tells Fun Story About Verne Troyer And Barack Obama On 'Jimmy Kimmel'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/mike-myers-verne-troyer-barack-obama_us_5aeaf148e4b022f71a05aae0', 'short_description': "Let's just say Mini-Me was quite a hit with world leaders.", 'date': '2018-05-03'}

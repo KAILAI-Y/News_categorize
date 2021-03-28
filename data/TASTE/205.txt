@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Wine Expert Explains Why Screw Tops Are Better Than Corks On Wine Bottles', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/screw-top-wine_us_59834fc1e4b06d488874ba2d', 'short_description': 'Forget the corkscrew.', 'date': '2017-08-04'}

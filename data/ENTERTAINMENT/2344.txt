@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Snoop Dogg Rips Trump In 'Make America Crip Again'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snoop-dogg-make-america-crip_us_59ed54a9e4b0958c4682d4c3', 'short_description': '"MACA" bashes the president over the NFL anthem controversy.', 'date': '2017-10-23'}

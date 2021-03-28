@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Edward Snowden Boasts That He Got Security Clearance Faster Than 'Half Of This White House'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snowden-tweets-security-clearance-faster-than-white-house_us_5a823eb6e4b0892a0352201a', 'short_description': "So, what's up with Jared Kushner?", 'date': '2018-02-13'}

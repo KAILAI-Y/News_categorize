@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'At Least 2 Killed In Blaze At El Salvador Ministry', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/el-salvador-ministry-fire_us_59602b64e4b0615b9e91b319', 'short_description': 'At least 22 others were injured when a major fire broke out in El Salvador’s Finance Ministry.', 'date': '2017-07-08'}

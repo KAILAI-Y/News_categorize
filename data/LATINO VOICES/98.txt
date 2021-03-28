@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "'Coco' Director Writes Moving Tribute After Father's Death", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/coco-director-writes-moving-tribute-after-fathers-death_us_5a319552e4b091ca26851568', 'short_description': 'Lee Unkrich promised he would "always remember him."', 'date': '2017-12-13'}

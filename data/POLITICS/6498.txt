@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Charlottesville Could Be A Turning Point For Trump Supporters', 'authors': 'Daniel Cubias, ContributorThe Hispanic Fanatic', 'link': 'https://www.huffingtonpost.com/entry/is-this-a-turning-point-for-trump-supporters_us_5995ec68e4b033e0fbdec24a', 'short_description': 'The sense of disgust will only snowball.', 'date': '2017-08-17'}

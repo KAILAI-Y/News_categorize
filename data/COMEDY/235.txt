@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher Delivers Blistering Critique Of Democrats' Political Courage", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-democrats-criticism_us_5aacbf38e4b05b2217fef0fe', 'short_description': '"Democrats are to political courage what Velveeta is to cheese."', 'date': '2018-03-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Maybe Trump Should Stick To Tweeting About Holidays This Year', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trumps-least-popular-tweets-last-year-were-all-personal-attacks_us_5a4bb524e4b06d1621bb18e9', 'short_description': 'His least popular tweets last year were all personal attacks.', 'date': '2018-01-02'}

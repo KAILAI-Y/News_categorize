@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Sarah Huckabee Sanders' Emoji-Filled Tweet Brings Joy And Confusion", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/sarah-huckabee-sanders-tweet-covfefe_us_593bf9efe4b024026879c9a4', 'short_description': 'At least we could pronounce covfefe.', 'date': '2017-06-10'}

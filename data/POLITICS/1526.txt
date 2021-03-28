@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Just Trashed Some Very Popular Gun Proposals', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-gun-proposals-poll_us_5aa81743e4b04042d27edac1', 'short_description': "Republicans aren't worried that the president will take their guns.", 'date': '2018-03-13'}

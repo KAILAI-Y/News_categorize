@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'North Korea Focus Of Trump Calls With Japan, China', 'authors': 'Jeff Mason, Reuters', 'link': 'https://www.huffingtonpost.com/entry/north-korea-focus-of-trump-calls-with-japan-china_us_595a3427e4b02734df336cd4', 'short_description': 'They also discussed trade issues.', 'date': '2017-07-03'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Bomb Blasts Kill At Least 300 People In Somalia's Capital", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/car-bombings-somalia-mogadishu_us_59e25596e4b0a52aca184c66', 'short_description': 'The deadliest attack since the Islamist insurgency began in the country.', 'date': '2017-10-14'}

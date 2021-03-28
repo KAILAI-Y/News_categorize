@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Comedy Central Host Goads Another Billionaire Reality Star To Run For President', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/comedy-central-host-goads-another-billionaire-reality-star-to-run-for-president_us_5a02f947e4b04e96f0c6b979', 'short_description': "He's still thinking about it.", 'date': '2017-11-08'}

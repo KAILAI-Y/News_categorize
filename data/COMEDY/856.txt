@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Hilariously Predicts How The Los Angeles 2028 Olympics Could Go Down', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/los-angeles-2028-olympic-games-trevor-noah_us_598178c3e4b0353fbb3378dd', 'short_description': '“The entire Chinese Olympic team is going to be played by white actors."', 'date': '2017-08-02'}

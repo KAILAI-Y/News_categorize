@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Syrian Regime's Airstrikes Kill Scores Of Besieged Civilians In Eastern Ghouta", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/syria-airstrikes-civilians-eastern-ghouta_us_5a7cc47ae4b044b3821b4dce', 'short_description': 'More than a dozen children are among the dead.', 'date': '2018-02-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Pelosi's Pity Problem", 'authors': 'Matt Stoller, ContributorFellow at the Open Markets program', 'link': 'https://www.huffingtonpost.com/entry/nancy-pelosi-democrats_us_594d808ce4b05c37bb767d21', 'short_description': "It's time for the Democratic leader to step aside.", 'date': '2017-06-24'}

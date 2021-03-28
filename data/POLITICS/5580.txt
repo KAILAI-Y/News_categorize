@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump And Kim Are Trading Personal Threats As Millions Of Lives Hang In The Balance', 'authors': 'Matt Ferner', 'link': 'https://www.huffingtonpost.com/entry/trump-kim-north-korea-threats_us_59c5932de4b0cdc773316372', 'short_description': 'Experts are concerned the pair are edging dangerously close to war.', 'date': '2017-09-23'}

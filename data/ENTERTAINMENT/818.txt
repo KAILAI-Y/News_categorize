@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Cherish These Moments In 'Jersey Shore Family Vacation' Trailer", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jersey-shore-family-vacation-trailer_us_5aabbef6e4b0c33361afc334', 'short_description': 'Like Snooki said, "As we age, we just get more delinquency."', 'date': '2018-03-16'}

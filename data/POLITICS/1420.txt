@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Longtime Democratic Rep. Louise Slaughter Dies At 88', 'authors': 'Marina Fang and Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/louise-slaughter-dies_us_5aabd5e2e4b0337adf8340f9', 'short_description': 'In 2007, she became the first woman to chair the powerful House Rules Committee.', 'date': '2018-03-16'}

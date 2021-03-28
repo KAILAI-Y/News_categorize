@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "BHP: 2017 The Year Of 'Electric Vehicle Revolution'", 'authors': 'Clara Ferreira-Marques, Gavin Maguire, Reuters', 'link': 'https://www.huffingtonpost.com/entry/bhp-2017-the-year-of-electric-vehicle-revolution_us_59ca3b48e4b0cdc7733469c4', 'short_description': '"2017 is the revolution year we have been speaking about."', 'date': '2017-09-26'}

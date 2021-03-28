@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Alec Baldwin's Trump Bares Dark Secret On 'SNL': I Don't Care About You", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snl-baldwin-trump-i-dont-care-about-you_us_5ac98eefe4b0337ad1e8c8c0', 'short_description': '"This is a four-year cash grab."', 'date': '2018-04-08'}

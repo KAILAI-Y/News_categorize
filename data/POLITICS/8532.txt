@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Jobs Presidents Skips The Jobs', 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/the-jobs-presidents-skips-the-jobs_us_593eb586e4b0b13f2c6c9204', 'short_description': 'Whoops.', 'date': '2017-06-12'}

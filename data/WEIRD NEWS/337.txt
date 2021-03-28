@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Halloween Costumes Could Give You Head Lice', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/halloween-masks-head-lice-risk_us_59dc01fee4b00377980b39da', 'short_description': 'Oh, boo.', 'date': '2017-10-10'}

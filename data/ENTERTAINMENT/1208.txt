@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The First 'Venom' Trailer Is Here, And Spider-Man Better Be Scared", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/first-venom-trailer-spider-man_us_5a7c5baae4b0c6726e101cfd', 'short_description': 'Gulp.', 'date': '2018-02-08'}

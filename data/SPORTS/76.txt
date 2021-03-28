@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "NFL Names Pizza Hut Its New Official Pizza Sponsor After Dropping Papa John's", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/nfl-pizza-hut-papa-johns_us_5a96d8f6e4b0e6a523041a77', 'short_description': "Here's the deep dish.", 'date': '2018-02-28'}

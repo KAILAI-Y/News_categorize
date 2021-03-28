@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Twitter Users Slam Tech Bros' 'Bodega' Box That Intends To Replace Real Ones", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/twitter-google-startup-bodega_us_59b93711e4b0edff97183ccc', 'short_description': 'And the product’s logo is a cat.', 'date': '2017-09-13'}

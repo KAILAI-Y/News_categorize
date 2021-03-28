@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'This Supreme Court Case Is The Biggest Threat To Organized Labor In Years', 'authors': 'Dave Jamieson', 'link': 'https://www.huffingtonpost.com/entry/janus-unions-supreme-court-case_us_5a873b4de4b00bc49f43decd', 'short_description': 'It could cost unions millions of members -- but also force them to adapt and innovate.', 'date': '2018-02-19'}

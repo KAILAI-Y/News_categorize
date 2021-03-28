@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'The 2016 Election Is Still Straining Relationships', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/election-relationships-strain_us_5a00bd89e4b0c9653001a6a8', 'short_description': 'Political stress is taking a toll on families and couples, new polls show.', 'date': '2017-11-08'}

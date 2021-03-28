@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Protesters Rally Against GOP Health Care Plan At Senate Office Building', 'authors': 'Kaeli Subberwal and Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/senate-health-care-protests_us_596d04ece4b010d77672f70d', 'short_description': 'Multiple demonstrators were arrested.', 'date': '2017-07-17'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Conan O'Brien Just Had To Advertise During James Comey's Hearing", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/conan-obrien-just-had-to-advertise-during-james-comeys-hearing_us_593aaa73e4b0c5a35c9eaf3f', 'short_description': 'So tacky, so hilarious -- and so made up.', 'date': '2017-06-09'}

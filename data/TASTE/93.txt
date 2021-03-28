@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'These Heroic Food Trucks Are Coming To The Rescue Of California Fire Victims', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/off-the-grid-sonoma_us_59e655b5e4b08f9f9edb2be3', 'short_description': 'The photos are ultra-heartwarming.', 'date': '2017-10-17'}

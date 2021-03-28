@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Edward Snowden: Prosecuting NSA Leaker Threatens The Free Press', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/edward-snowden-reality-winner_us_59372230e4b0aba888b99f3e', 'short_description': "Snowden said Reality Winner's treatment is bad news for the First Amendment.", 'date': '2017-06-06'}

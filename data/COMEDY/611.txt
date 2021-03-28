@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "The Times They Are A-Changin' So Twitter Decided To #MakeSongLyricsWoke", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-times-they-are-a-changin-so-twitter-decided-to-makesonglyricswoke_us_5a0215f3e4b06ff32c9408d9', 'short_description': '"Who let the Pepe the Frogs out? Who? Who?"', 'date': '2017-11-07'}

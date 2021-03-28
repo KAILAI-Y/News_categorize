@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "8 People You'll Meet At The Splash Pad This Summer", 'authors': 'Mommy Nearest, ContributorThe only parenting resource you need', 'link': 'https://www.huffingtonpost.com/entry/8-people-youll-meet-at-the-splash-pad-this-summer_us_59496846e4b0f500e5526093', 'short_description': 'Spot the sun block ninja mom.', 'date': '2017-06-20'}

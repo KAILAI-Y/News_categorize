@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Michael Moore Tells Broadway Audiences, 'We All Live In Flint Now'", 'authors': 'Katherine Brooks', 'link': 'https://www.huffingtonpost.com/entry/michael-moore-on-broadway_us_598cdde3e4b09071f698a9cd', 'short_description': '"I refuse to live in Trump\'s America," the filmmaker says in his new one-man show.', 'date': '2017-08-11'}

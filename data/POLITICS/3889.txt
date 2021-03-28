@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Even With 'Fixes,' The GOP Tax Cut Plan Would Likely Damage Health Care", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/gop-tax-bill-health-care_us_5a1e41f6e4b0d724fed49a0f', 'short_description': 'Fewer people would have insurance -- and more would struggle with medical bills.', 'date': '2017-11-29'}

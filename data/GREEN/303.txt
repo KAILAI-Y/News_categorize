@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'End Finally In Sight For Massive California Wildfire', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/detwiler-fire-nears-end_us_59750feee4b09e5f6cd02b80', 'short_description': 'The Detwiler fire is nearly halfway contained.', 'date': '2017-07-23'}

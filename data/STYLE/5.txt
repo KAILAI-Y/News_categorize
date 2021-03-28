@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Designer Thom Browne Explains Why He Would Dress Melania Trump', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/thom-browne-melania-trump_us_5a5cacd5e4b03c41896792ec', 'short_description': 'Browne also worked with former first lady Michelle Obama.', 'date': '2018-01-15'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Sorry Trump, New Poll Says More People Trust The Media Now', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-press-poll_us_59d41364e4b06226e3f471a3', 'short_description': 'Experts say the poll suggests Americans are gradually recognizing the importance of the press.', 'date': '2017-10-03'}

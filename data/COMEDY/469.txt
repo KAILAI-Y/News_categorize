@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "#StarWarsHolidayFilms Is Precisely The Holiday Hashtag You're Looking For", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/starwarsholidayfilms-holiday-hashtag_us_5a343144e4b0ff955ad2da9c', 'short_description': 'The weather outside is ... absolute zero.', 'date': '2017-12-15'}

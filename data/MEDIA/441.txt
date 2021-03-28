@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Bill O'Reilly Dropped By His Talent Agency", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/bill-oreilly-talent-agency_us_59ef60f0e4b03535fa94217f', 'short_description': "The move follows reports of a $32 million O'Reilly sexual harassment settlement.", 'date': '2017-10-24'}

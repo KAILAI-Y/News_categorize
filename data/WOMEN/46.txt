@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Now A Company Is Using 'The Handmaid's Tale' To Sell Lingerie", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/lingerie-lunya-the-handmaids-tale_us_5ad4f239e4b016a07e9f67f1', 'short_description': 'Because nothing gets someone all hot and bothered quite like an \n“Offred” camisole.', 'date': '2018-04-17'}

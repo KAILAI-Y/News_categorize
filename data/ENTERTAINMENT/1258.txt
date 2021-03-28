@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Will Smith Created The Best Instagram Hype For The Eagles' Super Bowl", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/will-smith-philadelphia-eagles-super-bowl-instagram_us_5a77a522e4b0905433b5882b', 'short_description': 'West Philadelphia, born and raised.', 'date': '2018-02-05'}

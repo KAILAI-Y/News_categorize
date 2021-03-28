@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ryan Reynolds Perfectly Trolled Hugh Jackman's Love Letter To His Wife", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/hugh-jackman-ryan-reynolds_us_5acec95ee4b08337adc94f54', 'short_description': '"X-Men" star posts moving tribute to Deborra-Lee Furness.', 'date': '2018-04-12'}

@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Social Anxiety Doesn’t Get The Attention It Deserves', 'authors': 'Nicole Pajer', 'link': 'https://www.huffingtonpost.com/entry/social-anxiety-disorder_us_5afad7ade4b044dfffb5e19b', 'short_description': 'Fifteen million people have it, yet it remains in the shadows.', 'date': '2018-05-18'}

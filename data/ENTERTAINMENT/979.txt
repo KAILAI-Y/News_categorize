@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'M*A*S*H' Actor David Ogden Stiers Dies At 75", 'authors': 'Carmel Dagan, Reuters', 'link': 'https://www.huffingtonpost.com/entry/david-ogden-stiers-dead_us_5a9c0530e4b089ec353b3204', 'short_description': 'Stiers, who voiced Cogsworth in Disney\'s "Beauty and the Best," died of bladder cancer.', 'date': '2018-03-04'}

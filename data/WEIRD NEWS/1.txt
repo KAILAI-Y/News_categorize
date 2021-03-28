@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Mystery 'Wolf-Like' Animal Reportedly Shot In Montana, Baffles Wildlife Officials", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/montana-wolf-like-animal-mystery_us_5b04533de4b003dc7e4708af', 'short_description': '“We have no idea what this was until we get a DNA report back."', 'date': '2018-05-26'}

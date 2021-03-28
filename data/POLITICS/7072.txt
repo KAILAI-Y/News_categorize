@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chris Christie Has Another Bad Day At The Ballpark After Yelling At Cubs Fan', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/chris-christie-yells-cubs-fan_us_597e88f4e4b02a4ebb763924', 'short_description': '“I called him a hypocrite because I thought it needed to be said."', 'date': '2017-07-31'}

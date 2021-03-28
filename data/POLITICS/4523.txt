@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Twitter Goes Berserk As @RealDonaldTrump Account Goes Down', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-twitter-outage-response_us_59fba6b4e4b0b0c7fa392460', 'short_description': '"I think we just came together as a nation."', 'date': '2017-11-03'}

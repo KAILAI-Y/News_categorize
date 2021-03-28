@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "10 Food Truths You'll Understand If You're From Pittsburgh", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/pittsburgh-food-truths_us_59b6a16de4b036fd85cc9c3f', 'short_description': 'You want fries with that? Then go to Pittsburgh.', 'date': '2017-09-22'}

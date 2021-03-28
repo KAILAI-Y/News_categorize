@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Game Of Thrones' Finale May Have Secret Nod To Popular Bran Theory", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-finale-may-have-had-secret-nod-to-popular-bran-theory_us_59a59e5ce4b00795c2a1ee6c', 'short_description': 'Howl did we miss this?', 'date': '2017-08-29'}

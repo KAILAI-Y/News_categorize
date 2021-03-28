@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Ryan Reynolds Crashes Colbert As Deadpool To Crack Some X-Rated Trump Jokes', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-deadpool-monologue_us_5afbabb1e4b0a59b4dfe99e7', 'short_description': 'The "Merc With A Mouth" takes over the "Late Show" monologue.', 'date': '2018-05-16'}

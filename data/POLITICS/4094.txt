@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Christian Pastors In Alabama Seek To Build Momentum In Opposing Roy Moore', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/christian-pastors-in-alabama-seek-to-build-momentum-in-opposing-roy-moore_us_5a131a42e4b0aa32975cc552', 'short_description': 'Their disapproval of him is nothing new.', 'date': '2017-11-20'}

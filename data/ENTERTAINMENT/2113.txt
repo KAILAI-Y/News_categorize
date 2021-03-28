@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '20 People Accuse Kevin Spacey Of ‘Inappropriate Behavior’ At London Theater', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/kevin-spacey-london-theater_us_5a0d8627e4b0c0b2f2f80927', 'short_description': 'The alleged incidents occurred between 1995 and 2013.', 'date': '2017-11-16'}

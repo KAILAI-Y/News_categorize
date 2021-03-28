@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift's 'Look What You Made Me Do' Just Broke All The Records", 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-single-breaks-all-the-records_us_59a46307e4b0821444c531b7', 'short_description': 'Haters gonna hate, hate, hate, hate, hate.', 'date': '2017-08-28'}

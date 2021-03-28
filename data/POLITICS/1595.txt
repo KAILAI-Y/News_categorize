@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A New Poll Shows What Teenagers Really Think About Guns', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/a-new-poll-shows-what-teenagers-really-think-about-guns_us_5aa2ad42e4b01b9b0a3acfe1', 'short_description': "Teens' opinions often mirror adults' views, but some differences stand out.", 'date': '2018-03-09'}

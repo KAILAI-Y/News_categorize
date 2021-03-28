@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Molly Shannon Is Returning To 'Will & Grace'", 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/molly-shannon-will-grace-val-bassett_us_59fb4216e4b0b0c7fa389ed2', 'short_description': 'Accept the things you cannot change.', 'date': '2017-11-02'}

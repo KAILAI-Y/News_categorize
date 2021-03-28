@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Heavy Snow And High Winds Pound The East Coast', 'authors': 'Gina Cherelus and Scott Malone, Reuters', 'link': 'https://www.huffingtonpost.com/entry/blizzard-northeast-bombogenesis_us_5a4dd527e4b025f99e1fe850', 'short_description': 'The storm knocked out power, iced over roadways and closed hundreds of schools.', 'date': '2018-01-04'}

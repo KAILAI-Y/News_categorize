@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Rachel Maddow Stands By Her Trump Tax Reporting', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/rachel-maddow-trump-taxes-interview_us_5941465de4b003d5948c7b59', 'short_description': '"I feel like the free press is going to be what saves us from the political crisis that we are in."', 'date': '2017-06-14'}

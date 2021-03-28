@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Court Pick Says He Was Joking When He Compared Gay Marriage To Marrying Bacon', 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/trump-judge-don-willett-gay-marriage-bacon_us_5a0c6d23e4b0bc648a0f5d62', 'short_description': 'Ha ha. Wait, what?', 'date': '2017-11-15'}

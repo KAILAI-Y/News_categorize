@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'It Matters That The Alleged Golden State Killer Was A Cop', 'authors': 'Dana Liebelson', 'link': 'https://www.huffingtonpost.com/entry/golden-state-killer-cop_us_5aeb40aae4b0c4f193201464', 'short_description': '"He would absolutely look to try to use that to his advantage,” one police chief said.', 'date': '2018-05-05'}

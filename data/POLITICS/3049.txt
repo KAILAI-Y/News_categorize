@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Takes Credit For Airline Safety, Despite Slim Record', 'authors': 'Ethan Klapper', 'link': 'https://www.huffingtonpost.com/entry/trump-airline-safety-slim-record_us_5a4bbbf0e4b025f99e1df476', 'short_description': 'The last major overhaul of airline safety actually took place during the Obama administration.', 'date': '2018-01-02'}

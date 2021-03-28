@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '911 Calls From Parkland Shooting Reveal Terror Of Parents Desperate For Answers', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/911-calls-parkland-shooting_us_5aa1a744e4b07047bec49be4', 'short_description': 'One girl hid in a room the gunman shot into. It was her birthday.', 'date': '2018-03-08'}

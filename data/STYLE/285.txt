@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Karlie Kloss Knows Exactly How To Pair A Purple Leather Skirt With A White Tee', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/karlie-kloss-purple-leather-skirt_us_5984c9a1e4b041356ebfb7fe', 'short_description': 'She nailed it.', 'date': '2017-08-04'}

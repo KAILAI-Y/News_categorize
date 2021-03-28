@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Breaks Down Michael Flynn News With Perfect 'Star Wars' Analogy", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-star-wars-trump-flynn_us_5a226dc8e4b0a02abe91671a', 'short_description': "But who's the Darth Vader here?", 'date': '2017-12-02'}

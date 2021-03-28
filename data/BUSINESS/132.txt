@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Uber Paid Hackers $100,000 To Keep A Massive Data Breach Quiet', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/uber-rider-data-hack-57-million_us_5a14a58ce4b025f8e9324c3b', 'short_description': 'The hack affected 57 million people.', 'date': '2017-11-21'}

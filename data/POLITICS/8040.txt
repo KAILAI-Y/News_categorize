@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "There's No Consensus On 'Sensible' Gun Policies", 'authors': 'Mike Weisser, ContributorMike the Gun Guy', 'link': 'https://www.huffingtonpost.com/entry/theres-no-consensus-on-sensible-gun-policies_us_5953f3fee4b02734df2f7c39', 'short_description': 'A new Pew report on guns simply tells advocates what they want to hear.', 'date': '2017-06-28'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Trailer For Axed 'Tremors' Reboot With Kevin Bacon Offers Glimpse Of What Could Have Been", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tremors-reboot-trailer-kevin-bacon_us_5af5acc9e4b00d7e4c1a1d08', 'short_description': 'Damn! A preview for the rejected TV series looks like scary fun.', 'date': '2018-05-11'}

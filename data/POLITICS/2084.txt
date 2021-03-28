@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'We Asked Republicans Why They Think Trump’s Lawyer Gave A Porn Star $130,000', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/porn-trump-stormy-daniels_us_5a84a371e4b0058d55659824', 'short_description': "They insisted they're preoccupied with more weighty matters.", 'date': '2018-02-14'}

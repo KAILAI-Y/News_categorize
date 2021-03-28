@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Monica Lewinsky: 'I'm Not Alone Anymore' Thanks To The Me Too Movement", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/monica-lewinsky-me-too-movement_us_5a940a51e4b0ee6416a51ea6', 'short_description': "She's still grappling with consent and trauma 20 years after the Clinton scandal.", 'date': '2018-02-26'}

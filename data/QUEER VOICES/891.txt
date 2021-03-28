@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'A Thank You Letter To Gays With Kids', 'authors': 'Gays With Kids, ContributorHelping gay dads navigate fatherhood.', 'link': 'https://www.huffingtonpost.com/entry/a-thank-you-letter-to-gays-with-kids_us_59a1e06be4b0d0ef9f1c1482', 'short_description': '"These days, we\'re not just represented, we\'re celebrated."', 'date': '2017-08-31'}

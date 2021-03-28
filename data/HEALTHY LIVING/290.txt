@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Your Mood Might Be Connected To Your Ability To Resist The Flu', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/flu-shot-positive-mood_us_59cbbe6ce4b053a9c2f595b3', 'short_description': 'At least according to a study of older adults.', 'date': '2017-09-27'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers And Kelly Clarkson Get Daytime Drunk, Take Trump's Cognitive Test", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-kelly-clarkson-donald-trump_us_5a741de6e4b0905433b2e683', 'short_description': "“This is by no means 'A Closer Look.'”", 'date': '2018-02-02'}

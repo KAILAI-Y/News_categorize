@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "It's Not Just Wine Country: California Wildfires Have Hit Cannabis Growers Hard", 'authors': 'Ryan Grenoble and Matt Ferner', 'link': 'https://www.huffingtonpost.com/entry/california-wildfire-cannabis-growers-destroyed_us_59e63c74e4b08f9f9edaff1f', 'short_description': '“It’s my life’s work, lost.”', 'date': '2017-10-18'}

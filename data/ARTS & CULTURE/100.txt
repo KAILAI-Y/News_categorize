@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Activist Artist Lights Up Trump Hotel With 'Message' From Putin", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/artist-projects-trump-soho_us_598a19f7e4b0449ed50622b1', 'short_description': '"Happy to help, bro."', 'date': '2017-08-08'}

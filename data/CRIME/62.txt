@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Bungling Robbery Suspects Receive Much-Deserved Dose Of Karma', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/robbery-suspects-karma-video_us_5ad5c1c2e4b0edca2cbd9ebb', 'short_description': 'A gusty Mother Nature spoiled the getaway.', 'date': '2018-04-17'}

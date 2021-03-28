@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift Goes Full Bionic Woman In 'Ready For It' Music Video", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-goes-full-bionic-woman-in-ready-for-it-music-video_us_59f22d4be4b03cd20b804d6b', 'short_description': 'ABSOLUTELY 100 PERCENT NOT READY FOR IT.', 'date': '2017-10-27'}

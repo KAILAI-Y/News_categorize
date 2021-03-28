@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "50 Years Later, Bonnie And Clyde Are Still Film's Most Iconic Duo", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/bonnie-and-clyde-warren-beatty-faye-dunaway-premiere_us_598f27ace4b0909642973a60', 'short_description': 'We have Faye Dunaway and Warren Beatty to thank.', 'date': '2017-08-13'}

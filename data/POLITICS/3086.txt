@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Voters Had A Much Better 2017 Than Clinton Voters Did', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-voters-better-2017-than-clinton-voters_us_5a457086e4b025f99e1a9d2b', 'short_description': 'Their hopes for next year are higher, too.', 'date': '2017-12-29'}

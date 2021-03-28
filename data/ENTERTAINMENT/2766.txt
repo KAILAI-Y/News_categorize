@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Steve Carell Makes Emma Stone An Offer She Can Refuse In 'Battle Of The Sexes' Clip", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/battle-of-the-sexes-clip_us_59aebda2e4b0b5e531010d8a', 'short_description': 'The actors play tennis medalists Bobby Riggs and Billie Jean King.', 'date': '2017-09-05'}

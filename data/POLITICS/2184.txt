@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congress Is About To Show Whether It Really Wants To Protect Dreamers', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/congress-dreamers_us_5a7df7fce4b044b3821d41a3', 'short_description': "The strategy of pairing Dreamer protections to government funding didn't work. So what's next?", 'date': '2018-02-09'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Twitter Points Out How Dumb It Is To Be Mad About A Female Doctor Who', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/twitter-responds-doctor-who-woman_us_596cc7a8e4b03389bb190aae', 'short_description': 'And, of course, it’s hilarious.', 'date': '2017-07-17'}

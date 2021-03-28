@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ralph Northam Draws Progressive Ire Over Medicaid Comments', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/ralph-northam-medicaid_us_5a36a283e4b01d429cc9c92e', 'short_description': "Virginia's Democratic governor-elect said he wants to expand Medicaid, but he's concerned about its cost.", 'date': '2017-12-17'}

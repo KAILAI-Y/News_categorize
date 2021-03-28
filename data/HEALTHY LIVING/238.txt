@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'People Are Sharing Their Most Cringeworthy AIM Screennames', 'authors': 'Brittany Wong', 'link': 'https://www.huffingtonpost.com/entry/people-are-sharing-their-most-cringe-y-aim-screennames_us_59dbb101e4b0b34afa5b4267', 'short_description': 'You know yours were just as bad.', 'date': '2017-10-09'}

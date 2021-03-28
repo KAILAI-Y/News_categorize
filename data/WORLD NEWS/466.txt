@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'One Year In, Trump’s Style Is A Stress Test On Global Alliances', 'authors': 'Eoin Blackwell', 'link': 'https://www.huffingtonpost.com/entry/trump-foreign-policy-alliances_us_5a612927e4b074ce7a06dfbb', 'short_description': 'Trump has left U.S. allies nervous as America’s global competitors gain serious ground.', 'date': '2018-01-19'}

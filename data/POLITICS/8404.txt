@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Votes Near Unanimously For Russia, Iran Sanctions', 'authors': 'Patricia Zengerle, Reuters', 'link': 'https://www.huffingtonpost.com/entry/russia-iran-sanctions_us_5942bbe1e4b0f15cd5b9c8bf', 'short_description': 'Rand Paul and Bernie Sanders were the only two "no" votes.', 'date': '2017-06-15'}

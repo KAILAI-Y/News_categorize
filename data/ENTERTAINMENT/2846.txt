@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ryan Gosling And Jay-Z Will Open 'Saturday Night Live' Season 43", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/ryan-gosling-and-jay-z-will-open-saturday-night-live-season-43_us_599fee53e4b05710aa5b8548', 'short_description': "Can't wait for Sept. 30.", 'date': '2017-08-25'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Tries So Hard To Make Sense Of Rudy's Latest Trump Defense, Then Gives Up", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-rudy-giuliani-trump_us_5af14959e4b041fd2d2a4547', 'short_description': 'He even brought out a chalkboard for help.', 'date': '2018-05-08'}

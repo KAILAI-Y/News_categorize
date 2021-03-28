@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tweeters Freak Out Over Donald Trump's Appointment Of 'Warmonger' John Bolton", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/john-bolton-national-security-twitter-reaction_us_5ab4a8cce4b0decad048a384', 'short_description': '"I’m not gonna sugarcoat this: we’re f**ked."', 'date': '2018-03-23'}

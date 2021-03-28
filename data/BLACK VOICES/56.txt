@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Childish Gambino's 'This Is America' Video, Explained", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/childish-gambino-this-is-america_us_5af05c12e4b041fd2d28d8e9', 'short_description': "From Jim Crow to Gwara Gwara, there are a lot of references you might've missed.", 'date': '2018-05-07'}

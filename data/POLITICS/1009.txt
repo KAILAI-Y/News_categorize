@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'At Least 23 Ethical Issues Are Dogging EPA Administrator Scott Pruitt', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-scandals-list_us_5ac66dffe4b09d0a1191647f', 'short_description': "It's a lot deeper than his $50-a-night rental from industry lobbyists.", 'date': '2018-04-05'}

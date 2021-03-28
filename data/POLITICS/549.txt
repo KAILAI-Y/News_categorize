@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Melania Is Trapped In The White House, Says France's First Lady", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/melania-trump-trapped-in-white-house_us_5ae3dec9e4b02baed1ba6191', 'short_description': 'She "can\'t do anything," laments Brigitte Macron.', 'date': '2018-04-28'}

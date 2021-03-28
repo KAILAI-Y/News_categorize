@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '18 Magnificent Caves You Can Actually Sleep In', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/caves-you-can-actually-sleep-in_us_5ac3d929e4b093a1eb1fd766', 'short_description': 'Getaways worth caving for.', 'date': '2018-04-04'}

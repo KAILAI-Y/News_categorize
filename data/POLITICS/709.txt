@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Don't Let Nikki Haley Fool You", 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/nikki-haley-un-ambassador-confusion_us_5ad7bface4b0e4d0715cf600', 'short_description': "She had her moment this week, but that doesn't excuse the role she plays in the Trump White House.", 'date': '2018-04-19'}

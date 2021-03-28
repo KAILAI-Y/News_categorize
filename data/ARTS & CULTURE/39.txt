@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'The Ugly Business Of Defending Free Speech In 2017', 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/free-speech-center-charlottesville_us_59c8225de4b0cdc773320c85', 'short_description': 'Hate groups want to hijack the First Amendment. Clay Hansen is determined to protect it.', 'date': '2017-11-21'}

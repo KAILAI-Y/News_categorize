@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Have Dramatically Ramped Up Their Attacks On Russia Probes In 2018', 'authors': 'Nick Baumann and Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-robert-mueller-investigations-gop_us_5a56dfb4e4b0a300f905c57b', 'short_description': "Here's why that's worrying.", 'date': '2018-01-11'}

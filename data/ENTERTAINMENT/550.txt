@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "This Mashup Trailer Of 'The Office' And 'A Quiet Place' Needs To Be A Real Movie", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/a-quiet-place-the-office-mashup-trailer_us_5ace8576e4b0648767768c02', 'short_description': '“A Dwight Place” looks equal parts terrifying and hilarious.', 'date': '2018-04-12'}

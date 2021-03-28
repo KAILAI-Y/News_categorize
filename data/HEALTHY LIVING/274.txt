@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Every Morning Is A Fresh Start For Kristy Wallace', 'authors': 'Abigail Cuffey', 'link': 'https://www.huffingtonpost.com/entry/kristy-wallace-morning-routine_us_59cdca71e4b09538b5075415', 'short_description': 'How the CEO of Ellevate makes it happen in the a.m.', 'date': '2017-09-29'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Thanks Putin For Kicking Out Diplomats: 'We're Going To Save A Lot Of Money'", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/trump-putin-diplomats_us_598cc320e4b090964295d76c', 'short_description': '"I greatly appreciate the fact that we’ve been able to cut our payroll."', 'date': '2017-08-10'}

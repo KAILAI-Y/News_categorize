@@ -1,0 +1,1 @@
+{'category': 'GOOD NEWS', 'headline': "Meet Brynneth Pawltro, Kentucky Town's New Pit Bull Mayor", 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/pit-bull-mayor-dog-rabbit-hash-kentucky_us_594f7034e4b05c37bb76e78c', 'short_description': "This is Rabbit Hash's fourth canine mayor in a row.", 'date': '2017-06-25'}

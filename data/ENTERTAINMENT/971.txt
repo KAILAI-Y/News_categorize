@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Helen Mirren Took A Tequila Shot On The Oscars Red Carpet Like The Queen She Is', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/helen-mirren-took-a-tequila-shot-on-the-oscars-red-carpet-like-the-queen-she-is_us_5a9d4b4ee4b089ec353cf41f', 'short_description': 'Bow down to Queen Mirren.', 'date': '2018-03-05'}

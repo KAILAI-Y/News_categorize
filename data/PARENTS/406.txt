@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Fighter Conor McGregor's Son Got Suited Up, And It Is Freaking Adorable", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/conor-mcgregor-son-suit_us_599f4d9fe4b06d67e3369a5e', 'short_description': 'The Mayweather challenger is photographed with his son in a custom three-piece blue suit.', 'date': '2017-08-24'}

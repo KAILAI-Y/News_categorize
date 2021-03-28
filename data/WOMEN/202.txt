@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "L'Oreal Paris Makes Historic Hire With Hijab-Wearing Amena Khan In Hair Campaign", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/loreal-amena-khan-hijab_us_5a60ae57e4b062a7df0b82bb', 'short_description': '“How many brands are doing things like this? Not many," Khan told Vogue UK.', 'date': '2018-01-18'}

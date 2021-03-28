@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Some Of America's Wealthiest Tell Congress To Raise Their Taxes, Not Cut Them", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/america-wealthiest-congress-raise-taxes_us_5a09619ee4b01d21c83f8c86', 'short_description': 'More than 400 millionaires and billionaires penned a letter to Congress.', 'date': '2017-11-13'}

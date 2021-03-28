@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'NFL Distances Itself From Trump After He Says Protesting Players Should Be Fired', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/nfl-trump-players_us_59c66aa3e4b01cc57ff28771', 'short_description': '"Divisive comments like these demonstrate an unfortunate lack of respect."', 'date': '2017-09-23'}

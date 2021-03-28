@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Three Court Cases Worth Noting', 'authors': 'Chris Weigant, ContributorChris Weigant is a political commentator.', 'link': 'https://www.huffingtonpost.com/entry/three-court-cases-worth-noting_us_593f334de4b014ae8c69e36a', 'short_description': 'The Ninth Circuit just struck down Trump’s travel ban (again.)', 'date': '2017-06-13'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Luann De Lesseps Shuts Down Rumors That Cheating Tom Led To Divorce', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/luann-de-lesseps-divorce-cheating-rumors_us_5988d65de4b0449ed50493c7', 'short_description': '"It was a tough decision and we are both very sad about it."', 'date': '2017-08-07'}

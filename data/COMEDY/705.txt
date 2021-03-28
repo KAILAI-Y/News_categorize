@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert 'Reveals' Donald Trump's Other Cringeworthy Pick-Up Lines", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-pick-up-lines_us_59d88e1ee4b046f5ad986e6d', 'short_description': '"How would you like to add a little marmalade to the mix?"', 'date': '2017-10-07'}

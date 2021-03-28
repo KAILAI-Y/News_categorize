@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Ikea Founder Ingvar Kamprad Dies At 91', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/ingvar-kamprad-ikea-dies_us_5a6ddac5e4b01fbbefb2a155', 'short_description': 'The Swedish billionaire started the furniture company when he was just 17.', 'date': '2018-01-28'}

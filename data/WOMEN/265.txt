@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The Ultimate Roundup Of Hundreds Of Holiday Gift Ideas', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/ultimate-roundup-of-gift-ideas_us_5a394e98e4b0860bf4ab8275', 'short_description': 'Sleigh the season 🎄❄️✨🎁', 'date': '2017-12-19'}

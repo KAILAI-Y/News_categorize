@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Largest Number Of Scientists In Modern U.S. History Are Running For Office In 2018', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/science-candidates_us_5a74fffde4b06ee97af2ae60', 'short_description': 'This comes at a time when there’s only one Ph.D. scientist in Congress.', 'date': '2018-02-03'}

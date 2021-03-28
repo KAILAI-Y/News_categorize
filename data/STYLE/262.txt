@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Rihanna Has Twitter Freaking Out Over Her Beauty Line Launch', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/rihanna-fenty-beauty-twitter_us_59aa245ae4b0b5e530fed856', 'short_description': "Fenty Beauty will celebrate diversity, and it's coming out on Sept. 8.", 'date': '2017-09-02'}

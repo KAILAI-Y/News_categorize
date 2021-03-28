@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "See Two Spirits Wave Hello In The Funniest Scene From 'A Ghost Story'", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/a-ghost-story-clip_us_59661abbe4b005b0fdc9ef6c', 'short_description': "David Lowery's acclaimed film is now in theaters.", 'date': '2017-07-12'}

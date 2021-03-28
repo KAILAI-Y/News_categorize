@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Happy Interdependence Day', 'authors': 'Kathleen Dennehy, Contributorthisoldmom.com', 'link': 'https://www.huffingtonpost.com/entry/happy-interdependence-day_us_595dc45ce4b085e766b51059', 'short_description': 'I hope and pray she learns far faster than I did, to love who she is and fully embrace what she looks like.', 'date': '2017-07-06'}

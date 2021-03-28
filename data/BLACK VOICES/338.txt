@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Colin Kaepernick Completes His $1 Million Pledge For Underserved Communities', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/colin-kaepernick-donation-pledge_us_5a722733e4b03699143ef45c', 'short_description': 'Usher helped push the former NFL quarterback to the finish line.', 'date': '2018-02-01'}

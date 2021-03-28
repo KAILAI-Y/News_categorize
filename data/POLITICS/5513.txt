@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Traditional Campaign Tactics Are Basically A Waste Of Time, New Study Concludes', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/campaign-tactics-study_us_59ca64dce4b01cc57ff5a46c', 'short_description': 'Campaigns need to get more creative if they want to persuade voters.', 'date': '2017-09-26'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Oliver Needles The 'Dangerously Unregulated' Rehab Industry", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-rehab-industry_us_5b028dcae4b0a046186dc55b', 'short_description': 'Watch him try to rehabilitate the rehab biz.', 'date': '2018-05-21'}

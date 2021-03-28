@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Goes All In With Brutal Takedown Of 'Lying, Racist' Donald Trump", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-trump-lying-racist-brutal-takedown_us_5995397ae4b0d0d2cc843847', 'short_description': 'Ruthless.', 'date': '2017-08-17'}

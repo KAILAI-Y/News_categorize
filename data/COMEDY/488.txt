@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Delight In These 'Star Wars' Characters Singing 'MMMBop'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/star-wars-characters-singing-mmmbop_us_5a2fd26ee4b01598ac48031e', 'short_description': 'This could be the best 30 seconds of your day.', 'date': '2017-12-12'}

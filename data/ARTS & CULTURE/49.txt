@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Someone Put Up A Plaque To Mark The Spot Where Trump Bragged About Groping Women', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-access-hollywood-plaque_us_59f2de6ae4b07fdc5fbd46d7', 'short_description': 'It was "in dishonor" of the president.', 'date': '2017-10-27'}

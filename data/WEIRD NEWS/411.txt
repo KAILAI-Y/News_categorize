@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Self-Driving Car Technology Foiled By Kangaroos', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/driverless-cars-kangaroos-volvo_us_5957d3e8e4b0da2c7323eaf0', 'short_description': "Volvo says hopping throws off the vehicles' animal detection system.", 'date': '2017-07-01'}

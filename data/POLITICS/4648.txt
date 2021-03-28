@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Virginia GOP Candidate Calls Democrats 'Criminals, Communists, Crackheads'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/corey-stewart-dem-crackheads_us_59f692e9e4b07fdc5fbf09ea', 'short_description': 'Corey Stewart also made a transphobic attack on a Democratic candidate for the House.', 'date': '2017-10-30'}

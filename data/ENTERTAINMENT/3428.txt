@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Trevor Noah Explains How Eric Trump Got Like This', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-explains-how-eric-trump-got-like-this_us_59391bfee4b0b13f2c672cb2', 'short_description': '"This is the curse of being one of Donald Trump\'s children."', 'date': '2017-06-08'}

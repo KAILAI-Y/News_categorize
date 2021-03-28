@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Doctor Will Provide Free Surgeries For Trans Military Personnel', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/doctor-free-transgender-surgery_us_597e0e1fe4b02a4ebb760a2f', 'short_description': "Christine McGinn, herself transgender, won't let her patients go without care.", 'date': '2017-07-30'}

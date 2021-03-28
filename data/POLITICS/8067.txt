@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Hasn't Built A Wall Yet. He Hasn't Got A Prototype Wall Yet, Either.", 'authors': 'Dana Liebelson', 'link': 'https://www.huffingtonpost.com/entry/trump-mexico-wall-prototypes_us_5952d2aee4b02734df2e46b9', 'short_description': 'Still, construction will begin "later this summer," an official said.', 'date': '2017-06-27'}

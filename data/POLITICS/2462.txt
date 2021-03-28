@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Susan Collins Says It Wouldn't Hurt To Pass A Bill To Protect Robert Mueller", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/susan-collins-mueller_us_5a6e092fe4b0ddb658c761d8', 'short_description': 'The Maine GOP senator previously said in she saw no need of such legislation.', 'date': '2018-01-28'}

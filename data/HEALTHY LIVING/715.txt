@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Vaccination May Be Curbing ER Visits For Shingles', 'authors': 'Marilynn Larkin, Reuters', 'link': 'https://www.huffingtonpost.com/entry/vaccination-may-be-curbing-er-visits-for-shingles_us_5954fd82e4b05c37bb7c6e96', 'short_description': 'Vaccination can cut shingles risk by more than half.', 'date': '2017-06-29'}

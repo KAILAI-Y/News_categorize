@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Louis C.K. Has Been Baiting Us', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/louis-ck-has-been-baiting-us-i-love-you-daddy_us_5a04ed7fe4b05673aa585d1e', 'short_description': '"I Love You, Daddy" was an invitation to explore his sexual misconduct.', 'date': '2017-11-10'}

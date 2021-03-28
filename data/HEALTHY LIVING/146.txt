@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'The Sleep Phase Where You Dream May Make You Less Prone To Fear', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/rem-sleep-fear_us_59f749fce4b077d8dfcb3ea1', 'short_description': 'Better get those Zs.', 'date': '2017-10-31'}

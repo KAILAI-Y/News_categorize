@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Billy Eichner: Just 1 Actor Talked To Sean Spicer After Emmy Bit', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/billy-eichner-just-1-actor-talked-to-sean-spicer-after-emmy-bit_us_59d5fcf0e4b0380b6c9a5d1d', 'short_description': 'A certain TV boy genius had a moment.', 'date': '2017-10-05'}

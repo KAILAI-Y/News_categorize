@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Teen Claims He Visited Heaven During Near Death Experience', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/teen-claims-he-visited-heaven-near-death-experience_us_5afb1ffae4b044dfffb669ef', 'short_description': 'Trenton McKinley is recovering from severe brain trauma after an accident.', 'date': '2018-05-15'}

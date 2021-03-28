@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Catch Chris Pratt If You Can In Dino-Filled 'Jurassic World' Sequel Teaser", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/chris-pratt-dino-filled-jurassic-world-sequel-teaser_us_5a255e44e4b03350e0b81b25', 'short_description': 'Hold onto your butts (again).', 'date': '2017-12-04'}

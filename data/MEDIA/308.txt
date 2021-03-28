@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Bill O'Reilly's Latest Conspiracy Theory Is His Weirdest One Yet", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/bill-oreilly-clothing-conspiracy-theory_us_5a39c875e4b06d1621b05251', 'short_description': 'The former Fox News host\'s fashion-related "tip of the day" didn\'t go over so well.', 'date': '2017-12-20'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "DCCC Makes First Investment In Pennsylvania Democrat's Special Election Bid", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/dccc-conor-lamb-pennsylvania-special-election_us_5a6a70ade4b06e2532661eb2', 'short_description': 'To start, the party organ is buying $224,000 worth of TV ads.', 'date': '2018-01-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Barack Obama Finally Gets To Celebrate His Birthday Like A Normal Person', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/obama-birthday-2017-56_us_598436ace4b08b75dcc63a4e', 'short_description': 'The former president turns 56 on Friday.', 'date': '2017-08-04'}

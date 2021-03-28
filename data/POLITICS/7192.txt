@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP 'Moderates' Keep Saying No To Repeal, And Then Voting Yes", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/health-care-senate-repeal-moderates-mcconnell_us_5978a2c7e4b0c95f3760892a', 'short_description': "Either they are getting played by their leaders -- or they simply don't care", 'date': '2017-07-26'}

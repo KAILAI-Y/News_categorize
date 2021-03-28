@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Stunning Photos Show Faces Of Poverty That Are Rarely Seen', 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/photographs-faces-of-poverty_us_59e5c9f1e4b0a2324d1d4c49', 'short_description': '"I am providing for my family. I feel like the boss, but it is hard."', 'date': '2017-10-17'}

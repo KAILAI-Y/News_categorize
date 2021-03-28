@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'New Film Sheds Light On A Less-Heralded Aspect Of The Queer Experience', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/the-mess-he-made-preview_us_59cc2687e4b02aef6cd75548', 'short_description': '"The Mess He Made" re-creates the "specific ritual" of an HIV test -- and its aftermath.', 'date': '2017-10-02'}

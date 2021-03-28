@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "'Failing' New York Times Delivers the Perfect Response To Donald Trump's Latest Insults", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/new-york-times-trump-response_us_598960e4e4b0d7937389bd08', 'short_description': 'The paper of record sets the record straight.', 'date': '2017-08-08'}

@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Top Banks Pumped Billions More Into The Dirtiest Fossil Fuels Last Year', 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/global-fossil-fuels-banks-report_us_5aba989fe4b04a59a3122636', 'short_description': 'Even as they claimed they were committed to fighting climate change.', 'date': '2018-03-28'}

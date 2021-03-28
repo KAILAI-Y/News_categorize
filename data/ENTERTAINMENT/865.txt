@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Beyoncé And Jay-Z Announce Joint Tour 'On The Run II'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/beyonc%C3%A9-jay-z-announce-joint-world-tour-on-the-run-2_us_5aa687cce4b01b9b0a3d5822', 'short_description': 'TAKE OUR MONEY.', 'date': '2018-03-12'}

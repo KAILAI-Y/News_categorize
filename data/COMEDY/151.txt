@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Says The Scary Truth About Trump's Rumored Love Child", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-love-child_us_5ad0918ee4b016a07e9b8241', 'short_description': '"The Daily Show" host spoke for many in a funny dig at the president.', 'date': '2018-04-13'}

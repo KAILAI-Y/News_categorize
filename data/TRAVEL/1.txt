@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '14 Trips To Take From New York City On A Long Weekend', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/14-fun-long-weekend-trips-to-take-from-new-york-city_us_5b033412e4b0a046186ee57a', 'short_description': 'Charming towns, relaxing beaches and top hiking destinations await.', 'date': '2018-05-23'}

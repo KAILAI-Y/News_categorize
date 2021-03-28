@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '15 Popular Travel Destinations You Should Avoid In The Summer', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/15-popular-travel-destinations-you-should-avoid-in-the-summer_us_5aa8565ee4b018e2f1c28858', 'short_description': 'And when to go instead.', 'date': '2018-03-16'}

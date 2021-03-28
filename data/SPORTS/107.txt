@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'The Best Meme Of The Winter Olympics Belongs To Scott Moir', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/scott-moir-meme-winter-olympics-canada_us_5a8fdbc3e4b03b55731abae9', 'short_description': '"This should be one of those Canadian Heritage Moments."', 'date': '2018-02-23'}

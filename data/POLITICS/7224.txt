@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '2 GOP Senators Demanded A Better Health Care Process -- Then Voted The Opposite Way', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/mccain-murkowski-health-care_us_5977d185e4b0a8a40e83916a', 'short_description': 'John McCain and Lisa Murkowski agreed to disagree.', 'date': '2017-07-26'}

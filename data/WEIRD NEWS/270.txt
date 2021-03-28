@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'The Cute And Hilarious Ways People Are Dealing With Holiday Stress This Year', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/holiday-stress-relievers-thanksgiving-twitter-trend_us_5a17dfb0e4b0649480739a01', 'short_description': '"Screaming into festive decorative throw pillows."', 'date': '2017-11-24'}

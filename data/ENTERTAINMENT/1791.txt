@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Christian Bale: We’d Be Better Off If ‘White Dudes’ Weren’t Running Everything', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/christian-bale-american-culture-white-men_us_5a392b91e4b0c65287ac6a6b', 'short_description': 'The "Hostiles" actor called the U.S. a "country of inclusion."', 'date': '2017-12-19'}

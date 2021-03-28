@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Trump Says Iran Is Complying With Nuclear Deal, But Remains A Dangerous Threat', 'authors': 'By STEVE HOLLAND, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-iran-nuclear-deal_us_596d88c3e4b0e983c0587c34', 'short_description': 'The president said Tehran was in default of the spirit of the accord.', 'date': '2017-07-18'}

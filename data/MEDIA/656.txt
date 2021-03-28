@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Reporter Punched By GOP Candidate Gives Fiery Defense Of Free Press', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/ben-jacobs-gianforte-sentencing-statement_us_593ed1bfe4b02402687bc40f', 'short_description': '"This needs to stop," Ben Jacobs said at the sentencing of Greg Gianforte.', 'date': '2017-06-12'}

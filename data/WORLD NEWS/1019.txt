@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S., Turkey Mutually Suspend Visa Services After Arrest Of Consulate Employee', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/us-turkey-suspend-visa-services_us_59db2a41e4b046f5ad993c35', 'short_description': "The person was allegedly linked to Fetullah Gulen, the cleric blamed for last year's coup.", 'date': '2017-10-09'}

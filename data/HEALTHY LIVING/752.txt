@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'This Is Your Brain On Warm Weather', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/warm-weather-mood_us_594a8fade4b0312cfb60aa3b', 'short_description': 'The sunshine can totally influence your mood.', 'date': '2017-06-22'}

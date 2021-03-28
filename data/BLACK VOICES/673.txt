@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Solange To Host Two Benefit Concerts For Hurricane Harvey Victims', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/solange-benefit-concerts-hurricane-harvey_us_59a81a0ae4b0a8d14573a68b', 'short_description': 'The Houston native will be performing in Boston and New York City.', 'date': '2017-08-31'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Rohingyas Are Suffering 'On A Catastrophic Scale.' Here's How To Help.", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/how-you-can-help-rohingyas_us_59f0a90ee4b0abb85a8f27f8', 'short_description': 'More than 600,000 persecuted Muslims have fled Myanmar in just two months.', 'date': '2017-10-25'}

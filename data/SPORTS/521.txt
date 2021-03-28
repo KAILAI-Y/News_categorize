@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'The Baltimore Ravens Are Considering Signing Colin Kaepernick', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/the-baltimore-ravens-are-considering-signing-colin-kaepernick_us_597f3639e4b02a8434b7d558', 'short_description': 'The team has had "direct discussions" with the controversial quarterback.', 'date': '2017-07-31'}

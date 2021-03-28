@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'BOGUS! ‘Bill And Ted’ Actor Has An Excellent Reply To Former Government Ethics Boss', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/walter-shaub-alex-winter-bill-and-ted_us_5a794a6ce4b018ad894f3a2b', 'short_description': 'Party on, dudes.', 'date': '2018-02-06'}

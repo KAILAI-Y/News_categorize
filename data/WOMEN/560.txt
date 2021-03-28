@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Arkansas Can Block Planned Parenthood Funding, Court Rules', 'authors': 'Nate Raymond, Reuters', 'link': 'https://www.huffingtonpost.com/entry/arkansas-can-block-planned-parenthood-funding-court-rules_us_5995a231e4b0d0d2cc84c549', 'short_description': 'Planned Parenthood vowed that the "fight is not over."', 'date': '2017-08-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Hits Jeff Sessions With A Belittling Nickname', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jeff-sessions-nickname_us_5a9779d2e4b0e6a52304956a', 'short_description': 'The president continues to attack his own attorney general.', 'date': '2018-03-01'}

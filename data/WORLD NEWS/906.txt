@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Danish Submarine Owner Admits Dismembering Body Of Swedish Journalist', 'authors': 'Julie Astrid Thomsen, Reuters', 'link': 'https://www.huffingtonpost.com/entry/peter-madsen-kim-wall_us_59f71d21e4b03cd20b82e4ae', 'short_description': 'He still denies killing her.', 'date': '2017-10-30'}

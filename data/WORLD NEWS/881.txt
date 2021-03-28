@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S. Strikes Target Islamic State Militants In Somalia', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/somalia-strike-isis_us_59fcac95e4b0baea26319e4c', 'short_description': 'An official said the strikes were conducted in northeastern Somalia.', 'date': '2017-11-03'}

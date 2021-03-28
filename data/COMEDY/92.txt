@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Breaks Down The Major Flaw With Facebook's New Dating Feature", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-facebook-dating_us_5ae9618de4b00f70f0ed402a', 'short_description': '"Yeah, Facebook really has its finger on the pulse."', 'date': '2018-05-02'}

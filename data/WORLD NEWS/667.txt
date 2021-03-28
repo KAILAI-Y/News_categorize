@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Dennis Rodman Says He Knows What His Pal Kim Jong Un Wants', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/dennis-rodman-kim-jongun_us_5a2f0984e4b01598ac475ee4', 'short_description': "But the ex-NBA star says it's just for Donald Trump's ears.", 'date': '2017-12-12'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Likens Donald Trump's Administration To This Classic ’90s Mob Movie", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-mob-movie_us_597c3f8fe4b02a8434b6959f', 'short_description': 'But with several hilarious differences.', 'date': '2017-07-29'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': '10 Things That Lasted Longer Than Scaramucci In The White House', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/things-that-lasted-longer-than-scaramucci_us_597f7e23e4b0d6e28a0f877f', 'short_description': 'Got milk?', 'date': '2017-07-31'}

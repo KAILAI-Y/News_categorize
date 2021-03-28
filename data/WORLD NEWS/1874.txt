@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Even After Being Attacked, London Imam Responds To Violence With Peace', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/london-attack-response-peace_us_5947ea95e4b01eab7a2f5d33', 'short_description': 'He shielded the assailant from an angry crowd and asked the police to step in.', 'date': '2017-06-19'}

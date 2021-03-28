@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Channing Tatum And Adam Driver Are Your New Favorite Criminals', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/logan-lucky-trailer_us_592b45f9e4b0065b20b7593f', 'short_description': 'The "Logan Lucky" trailer is here.', 'date': '2017-05-28'}

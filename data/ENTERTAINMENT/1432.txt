@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kim Kardashian Says She's Self-Absorbed. Nooooooo.", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-self-absorbed_us_5a671c52e4b0e5630073384e', 'short_description': 'The reality star\'s response to Twitter criticism is "totally" a thing of beauty.', 'date': '2018-01-23'}

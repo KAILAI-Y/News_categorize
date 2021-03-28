@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Progressive Activist Group Targets Vulnerable Democratic Senators On Health Care', 'authors': 'Kaeli Subberwal', 'link': 'https://www.huffingtonpost.com/entry/democratic-senators-health-care_us_59497e13e4b00cdb99caf41c', 'short_description': 'CREDO Action placed billboards near airports that the senators use.', 'date': '2017-06-21'}

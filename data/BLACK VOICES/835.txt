@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Halle Berry: My Undying Wish Is To Play Angela Davis In A Biopic', 'authors': 'Lilly Workneh', 'link': 'https://www.huffingtonpost.com/entry/halle-berry-my-undying-wish-is-to-play-angela-davis-in-a-biopic_us_59591c55e4b0da2c7324298c', 'short_description': 'The actress has long admired the notable black activist.', 'date': '2017-07-02'}

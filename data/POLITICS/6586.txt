@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Lincoln Memorial Vandalized With Spray-Painted Expletive', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/lincoln-memorial-vandalized_us_5993bcc3e4b04b1933616150', 'short_description': 'The National Park Service said it could take up to two weeks for the graffiti to be removed.', 'date': '2017-08-16'}

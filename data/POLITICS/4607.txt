@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Osama Bin Laden's America", 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/osama-bin-ladens-america_us_59f8e24be4b046017faf88a6', 'short_description': 'Niger, 9/11 and apocalyptic humiliation.', 'date': '2017-10-31'}

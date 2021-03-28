@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Justin Timberlake Perfectly Sums Up 'Dad Life' In This Picture", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/justin-timberlake-sums-up-dad-life_us_594eb02ee4b02734df2ac3dc', 'short_description': "In case you needed yet another reminder we aren't teenagers anymore.", 'date': '2017-06-24'}

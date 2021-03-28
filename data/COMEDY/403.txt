@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert: Trump Is Now A Character In A Racist Fairy Tale', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-racist-fairy-tale_us_5a5d8338e4b0fcbc3a12c1cf', 'short_description': 'The "Late Show" host takes on day four of "shithole-gate."', 'date': '2018-01-16'}

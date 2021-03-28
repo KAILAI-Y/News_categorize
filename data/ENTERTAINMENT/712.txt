@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Zachary Quinto Uses Fake Name At Starbucks. Customer Gets Steamed.', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/zachary-quinto-starbucks-james-corden_us_5aba2878e4b0decad04df739', 'short_description': 'The "Star Trek" actor called himself Josh.', 'date': '2018-03-27'}

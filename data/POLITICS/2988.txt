@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Thursday's Morning Email: Inside the Trump-Bannon Schism", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/thursdays-morning-email-inside-the-trump-bannon-schism_us_5a4e19c4e4b025f99e2038fd', 'short_description': '"He lost his mind."', 'date': '2018-01-04'}

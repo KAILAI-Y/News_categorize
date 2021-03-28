@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "'Sunday Night Football' Looked Like A Halloween Horror Movie", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sunday-night-football-fog_us_59ed8a6be4b0958c4682e299', 'short_description': 'The long-awaited Super Bowl rematch got weird.', 'date': '2017-10-23'}

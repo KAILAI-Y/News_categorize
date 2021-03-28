@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Women Are Coming For Eric Schneiderman's Job", 'authors': 'Dana Liebelson', 'link': 'https://www.huffingtonpost.com/entry/women-coming-for-attorney-general-schneiderman-job_us_5af3890de4b09bb419e4ba79', 'short_description': 'Women are running for attorney general posts all over the country.', 'date': '2018-05-10'}

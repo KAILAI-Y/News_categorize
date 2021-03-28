@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Judge Throws Out Fired DJ's Suit Against Taylor Swift", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-suit-tossed_us_598e4280e4b09096429720f7', 'short_description': "David Mueller can't prove the singer got him fired.", 'date': '2017-08-12'}

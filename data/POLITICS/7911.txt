@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Trumpcare Fight Shows Mitch McConnell Knows Just How Overrated He Is', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/mitch-mcconnell-trumpcare-legacy_us_5953fd6be4b0da2c7320be69', 'short_description': 'His legacy now rests on repealing Obamacare.', 'date': '2017-07-02'}

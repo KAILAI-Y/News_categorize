@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Oil And Gas Firms Got A Last-Minute Goody In Senate Tax Bill', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/oil-and-gas-firms-got-a-last-minute-goody-in-senate-tax-bill_us_5a26b4f0e4b06d807b4f5de7', 'short_description': 'A sweet deal for companies that already have a sweet deal.', 'date': '2017-12-05'}

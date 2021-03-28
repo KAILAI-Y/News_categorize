@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Andy Cohen Auditions To Play Samantha In 'Sex And The City 3'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/andy-cohen-sex-and-the-city_us_5a733884e4b06fa61b4e4b7f', 'short_description': "One of Sam's legendary hookups hit close to home for the Bravo host.", 'date': '2018-02-01'}

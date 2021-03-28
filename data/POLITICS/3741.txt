@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Imagine With Me...', 'authors': 'John Romano, ContributorScreenwriter', 'link': 'https://www.huffingtonpost.com/entry/imagine-with-me_us_5a24c1ede4b0a02abe920b52', 'short_description': 'Imagine with me — since extraordinary times call for extraordinary imaginings — that tonight, with little forewarning, there', 'date': '2017-12-04'}

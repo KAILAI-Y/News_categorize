@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Debra Messing Asked That Grace Be A Feminist In The ‘Will & Grace’ Revival', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/debra-messing-asked-that-grace-be-a-feminist-in-will-grace-revival_us_59c910f6e4b06ddf45f98c93', 'short_description': 'Karen, however, is a different story.', 'date': '2017-09-25'}

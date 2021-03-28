@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Brie Larson And Woody Harrelson Spar In This Clip From 'The Glass Castle'", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/the-glass-castle-clip_us_5981f458e4b02b36343f8e49', 'short_description': 'The adaptation of Jeannette Walls’ best-selling memoir opens Aug. 11.', 'date': '2017-08-02'}

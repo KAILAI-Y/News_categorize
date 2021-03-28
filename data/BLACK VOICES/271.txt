@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "6 Things You Didn't Know About Michael B. Jordan", 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/7-things-about-micheal-b-jordan_us_5a8f317ae4b0ee6416a1347e', 'short_description': "Just in case you haven't already memorized everything.", 'date': '2018-02-23'}

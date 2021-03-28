@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: Stormy Daniels opens up about Trump", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-stormy-daniels-opens-up-about-trump_us_5ab8d832e4b008c9e5f93ea4', 'short_description': "Trump 'knows I'm telling the truth'", 'date': '2018-03-26'}

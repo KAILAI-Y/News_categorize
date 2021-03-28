@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Jose Canseco's Icky Tweets Prove Some People Still Don't Get #MeToo", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/jose-canseco-icky-tweet_us_5a3056c5e4b07ff75afe86c5', 'short_description': 'Hey Jose, delete your account!', 'date': '2017-12-12'}

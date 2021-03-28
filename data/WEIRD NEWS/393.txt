@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "The Internet Is In Love With This Enormous 'Stray' Cat Named Mr. Handsome", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/fat-cat-chatham-county-mr-handsome_us_59736382e4b0e79ec199986e', 'short_description': "At 31.4 pounds, he'll need to go on a diet when he's adopted.", 'date': '2017-07-22'}

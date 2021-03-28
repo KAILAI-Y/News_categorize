@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: The Fallout From Trump's Defense Of 'Both Sides'", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-the-fallout-from-trumps-defense-of-both-sides_us_59942347e4b0091416417909', 'short_description': 'And his comments on the "alt-left."', 'date': '2017-08-16'}

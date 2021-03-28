@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Steve Bannon Slated To Speak At Black Entrepreneurs Summit', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-black-entrepreneurs_us_59bbe2fbe4b086432b06845a', 'short_description': 'Former Trump campaign aide Corey Lewandowski is also on the schedule.', 'date': '2017-09-15'}

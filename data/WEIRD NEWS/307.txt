@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Charlie Bit My Finger' Dad Is Shocked His Video Was In Osama Bin Laden's Collection", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/charlie-bit-my-finger-osama-bin-laden_us_59fa3287e4b01b474048065b', 'short_description': '“You never can tell who has a lighter side," the boys\' father says.', 'date': '2017-11-01'}

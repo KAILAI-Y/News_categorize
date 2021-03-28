@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Dear Rolling Stone, Not All Canadians Are In Love With Justin Trudeau', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/rolling-stone-justin-trudeau_us_5978d020e4b0e201d57a8fbd', 'short_description': "He's charming and handsome, but the prime minister has disappointed many of his own voters.", 'date': '2017-07-26'}

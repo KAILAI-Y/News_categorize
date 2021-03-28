@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'BBC Mixes Up Two Asian Women During Cringeworthy Radio Interview', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/bbc-mixup-riko-muranaka-trinh-t-minh-ha_us_5a259a32e4b03c44072f89e7', 'short_description': '*Facepalm.*', 'date': '2017-12-04'}

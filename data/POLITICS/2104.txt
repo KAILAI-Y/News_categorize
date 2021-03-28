@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Attorney Michael Cohen: I Paid Porn Star Stormy Daniels', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/michael-cohen-stormy-daniels-payment_us_5a83c09be4b0cf06751faca5', 'short_description': 'He did not explain what the payment was for.', 'date': '2018-02-14'}

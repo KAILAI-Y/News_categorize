@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'No One Was Ready For Taylor Swift To Drop Her New Song Teaser', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-new-song-teaser-ready-for-it_us_59ab70dde4b0354e440ad7fe', 'short_description': 'The singer teased her single "Ready For It" during a college football game on ESPN.', 'date': '2017-09-03'}

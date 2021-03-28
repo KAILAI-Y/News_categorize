@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "A Comprehensive List Of Everything Don Jr. Doesn't Know About That Infamous Meeting", 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/everything-donald-trump-jr-doesnt-know-about-meeting_us_5afc5fd4e4b0779345d52258', 'short_description': 'All 216 things.', 'date': '2018-05-18'}

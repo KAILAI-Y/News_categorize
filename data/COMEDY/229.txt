@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Gay Bunny Book Outsells Pence Family's Bunny Book", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-bunny-book-sales_us_5ab0676be4b0e862383aa9c2', 'short_description': 'John Oliver\'s "Last Week Tonight" team beats Mike Pence in battle of the Bundo bunnies.', 'date': '2018-03-20'}

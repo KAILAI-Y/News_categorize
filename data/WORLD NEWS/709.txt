@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Trump Delays Announcement On U.S. Embassy In Israel', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/us-embassy-israel_us_5a25db5ae4b07324e840140a', 'short_description': 'An announcement on the decision will be made “in coming days.', 'date': '2017-12-04'}

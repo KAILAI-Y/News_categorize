@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Has Figured Out What Trump’s Job Will Be After He’s Impeached', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-trump-job_us_5acdaf22e4b0259339de9872', 'short_description': "Kimmel finds a clue hidden in the president's tweets.", 'date': '2018-04-11'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Reporter Out At Denver Post After 'Unacceptable' Tweet About Indy 500 Winner", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/sportswriters-tweet-about-japanese-indy-500-winner-causes-a-stir_us_592c128ee4b0065b20b7769c', 'short_description': '"I shouldn\'t have said what I said."', 'date': '2017-05-29'}

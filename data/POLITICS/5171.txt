@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Revels In Recounting The 'Very Good Towels' He Threw To Hurricane Victims", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-puerto-rico-paper-towels_us_59da65a3e4b046f5ad9904c6', 'short_description': '"I was having fun. They were having fun," Trump said.', 'date': '2017-10-08'}

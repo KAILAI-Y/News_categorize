@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Jimmy Kimmel' Asks Couples On Street How Long Their Sex Lasts", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-asks-couples-on-street-how-long-their-sex-lasts_us_5a5f68f2e4b0ee2ff32c8589', 'short_description': 'Wait, 4 hours?', 'date': '2018-01-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Emerging Republican Majority', 'authors': 'Joseph A. Palermo, ContributorAuthor, historian, professor', 'link': 'https://www.huffingtonpost.com/entry/the-emerging-republican-majority_us_594c2b81e4b0326c0a8d06e1', 'short_description': 'Trump’s “disapproval” rating is now politically meaningless.', 'date': '2017-06-22'}

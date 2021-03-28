@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Snapchat's Value Drops $1.3 Billion After 1 Kylie Jenner Tweet", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/kylie-jenner-snapchat-tweet_us_5a8f421ae4b01e9e56b9d258', 'short_description': "But she's not the only one getting snippy at Snapchat.", 'date': '2018-02-23'}

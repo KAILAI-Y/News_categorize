@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report Fuels Anthony Kennedy Retirement Rumors', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/anthony-kennedy-retirement_us_595a76e5e4b02734df33b800', 'short_description': "The Supreme Court justice apparently has told some people he's considering stepping down from the bench.", 'date': '2017-07-03'}

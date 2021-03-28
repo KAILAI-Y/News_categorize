@@ -1,0 +1,1 @@
+{'category': 'COLLEGE', 'headline': "Here's What College Students Really Want On Their Back-To-School Shopping Lists", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/college-students-share-their-college-essentials_us_598b5a00e4b0449ed50779cd', 'short_description': "Is it really a dorm room if it doesn't have LED string lights?", 'date': '2017-08-11'}

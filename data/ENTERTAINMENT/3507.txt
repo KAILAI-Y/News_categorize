@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kim Kardashian Spills The Tea On Why She Split With Monica Rose', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-monica-rose-style_us_592c4386e4b053f2d2ad6f00', 'short_description': "But don't expect her to speak for Khloe.", 'date': '2017-05-29'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Mario Cantone: It Would Be 'Fun' To Play Anthony Scaramucci On 'SNL'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/mario-cantone-anthony-scaramucci_us_5978ea79e4b02a8434b349b9', 'short_description': '"I know this guy. I have cousins," the "SATC" veteran said.', 'date': '2017-07-26'}

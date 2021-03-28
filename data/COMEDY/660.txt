@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Bill Nye Takes Down EPA Head Scott Pruitt With Jordan Klepper', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bill-nye-boosts-jordan-kleppers-takedown-of-epa-head-scott-pruitt_us_59f0b765e4b092dad3bb10a2', 'short_description': '"It\'s about time the environment got a pimp."', 'date': '2017-10-25'}

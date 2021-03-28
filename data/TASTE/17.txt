@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Dunkin' Donuts Coffee Is Being Turned Into A Stout Beer", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/dunkin-donuts-beer_us_5a39fc1be4b06d1621b061a5', 'short_description': "DDark Roasted Brew is the first beer to be made with the company's dark roast beans.", 'date': '2017-12-20'}

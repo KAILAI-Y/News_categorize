@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Stephen Colbert Starts 'Trump Attacked Me On Twitter' Hall Of Fame", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-hall-of-fame_us_596615bae4b005b0fdc9e875', 'short_description': 'Mika Brzezinski and Joe Scarborough became the first inductees.', 'date': '2017-07-12'}

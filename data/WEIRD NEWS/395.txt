@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Dazzling Photos Show Northern Lights Shimmering Over U.S. And Canada', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/northern-lights-us-canada_us_596cb2c9e4b017418628ecf9', 'short_description': 'A geomagnetic storm was responsible for the beautiful night sky display.', 'date': '2017-07-17'}

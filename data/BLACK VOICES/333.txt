@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Ivanka Trump's Black History Month Tweet Sparks Outrage", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-black-history-month-tweet_us_5a74151be4b06ee97af148f2', 'short_description': '"Are you serious? Do you know who your dad is?"', 'date': '2018-02-02'}

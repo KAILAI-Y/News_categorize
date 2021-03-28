@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "New Airport Security Rules Could Mean 'Short Interviews' With Passengers", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/airport-security-rules_us_59f0c029e4b0d094a5b6b04a', 'short_description': 'The new system applies to all U.S.-bound flights.', 'date': '2017-10-25'}

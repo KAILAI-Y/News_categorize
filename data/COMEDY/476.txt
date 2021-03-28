@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'James Corden, Hugh Jackman, Zendaya, Zac Efron Bring The Circus To NYC Streets', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/broadway-hugh-jackman-james-corden_us_5a33a805e4b01d429cc7bbbb', 'short_description': "It's the greatest show on earth. Well, in New York at least.", 'date': '2017-12-15'}

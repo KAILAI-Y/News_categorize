@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump White House Staffers Reportedly Have A 'Dead Pool' On Who Will Be Next To Go", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/white-house-betting-pool_us_5aa9d7f8e4b0004c040717ee', 'short_description': "They're filling out a different kind of bracket.", 'date': '2018-03-15'}

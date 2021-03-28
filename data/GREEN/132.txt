@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Circuses Banned From Using Elephants In New York State', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/circus-ban-elephants-new-york_us_59ea31bae4b0958c4681d6ba', 'short_description': 'The law comes four months after New York City outlawed all wild animals in circus acts.', 'date': '2017-10-20'}

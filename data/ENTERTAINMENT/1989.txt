@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Walking Dead' Characters Are Killing Zombies All Wrong", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-walking-dead-characters-are-killing-zombies-all-wrong_us_5a205a2fe4b03350e0b52f05', 'short_description': "Michonne knows what's up.", 'date': '2017-11-30'}

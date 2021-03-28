@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "There's A Scripted Malcolm X Series In The Works", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/theres-a-scripted-malcom-x-series-in-the-works_us_599ee439e4b06d67e335cb67', 'short_description': 'The show will be based on a Pulitzer-Prize winning biography about the Civil Rights leader.', 'date': '2017-08-24'}

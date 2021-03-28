@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Nathan For You' Is Finally Coming Back", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/nathan-for-you-coming-back_us_59779ba8e4b0a8a40e8324e4', 'short_description': 'The long-awaited return will air very soon.', 'date': '2017-07-25'}

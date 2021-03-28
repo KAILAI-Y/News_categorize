@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Demi Lovato Skips A Shirt Underneath Her Suit At The MTV EMAs', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/demi-lovato-skips-a-shirt-underneath-her-suit-at-the-mtv-emas_us_5a09e06fe4b00a6eece3401e', 'short_description': 'This look is 🔥 🔥 🔥.', 'date': '2017-11-13'}

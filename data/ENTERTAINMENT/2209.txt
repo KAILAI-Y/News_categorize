@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Marilyn Manson Defends Aiming Fake Assault Rifle At Concert As Anti-Gun Statement', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/marilyn-manson-fake-assault-rifle_us_5a013677e4b07eb51181b5b4', 'short_description': '"My performance was not meant to be disrespectful."', 'date': '2017-11-07'}

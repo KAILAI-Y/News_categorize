@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Susan Collins: 'No Reason To Be Concerned' That Trump Is Unhinged", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/collins-trump-mental-state_us_5a202183e4b0a8581e689f87', 'short_description': 'But the Maine GOP senator says it\'s not "helpful" that he promotes racist conspiracy theories.', 'date': '2017-11-30'}

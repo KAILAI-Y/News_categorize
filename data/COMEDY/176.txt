@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Unveils Amazon’s New Trump-Proof Delivery Service', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-amazon-trump-delivery_us_5ac491cbe4b093a1eb2072e5', 'short_description': '“You’re getting it, no matter what."', 'date': '2018-04-04'}

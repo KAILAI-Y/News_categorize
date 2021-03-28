@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'HuffPost UK Hires Jess Brammar From BBC', 'authors': 'HuffPost PR Team', 'link': 'https://www.huffingtonpost.com/entry/huffpost-uk-jess-brammar-bbc_us_5a96b98ee4b0e6a5230395c3', 'short_description': 'Acting "Newsnight" editor Brammar joins as Head of News.', 'date': '2018-02-28'}

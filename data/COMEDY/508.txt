@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Breaks Out A Ruthless New Impression Of Tongue-Tied Trump', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-tongue-tied_us_5a28fefae4b0b185e5395cb7', 'short_description': 'The president had a hard time saying "United States."', 'date': '2017-12-07'}

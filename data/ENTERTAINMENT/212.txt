@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift Might've Made Up With Katy Perry, But Her Kimye Feud Lives On", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-kim-kardashian-feud_us_5af2f774e4b00a3224ef6c39', 'short_description': 'The shade was real at the opening night of her "Reputation" tour.', 'date': '2018-05-09'}

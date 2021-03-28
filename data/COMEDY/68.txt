@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Hits Rudy Giuliani With A Brutal Fact Check', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-rudy-giuliani-fact-opinion_us_5af0fe37e4b0c4f19325fe79', 'short_description': '"Late Show" offers up a lesson in fact vs. opinion.', 'date': '2018-05-08'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kanye West Reportedly Breaks Ties With Jay-Z's Streaming Service Over Money", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/kanye-west-reportedly-breaks-ties-with-jay-zs-tidal-over-money_us_5958f894e4b05c37bb7ef693', 'short_description': 'Is anyone watching the throne?', 'date': '2017-07-02'}

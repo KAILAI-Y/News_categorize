@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'This Annual Penis Festival In Japan Is About More Than Just Giant Schlongs', 'authors': 'David Moye and Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/japan-penis-festival_us_5ac3aa44e4b09712fec4f118', 'short_description': 'The annual event raises awareness about safe sex and money for HIV charities.', 'date': '2018-04-03'}

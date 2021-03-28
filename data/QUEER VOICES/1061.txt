@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Transgender Troops: We Will Not Go Back', 'authors': 'Landon Wilson, ContributorYouth Advocate', 'link': 'https://www.huffingtonpost.com/entry/transgender-troops-we-will-not-go-back_us_5978d8e1e4b0c6616f7ce718', 'short_description': 'Let us serve; we already are.', 'date': '2017-07-26'}

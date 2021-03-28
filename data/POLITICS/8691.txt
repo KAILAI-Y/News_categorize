@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Why Georgia GOP Candidate's 'Livable Wage' Gaffe Is Not A Slam Dunk For Democrats", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/karen-handel-livable-wage_us_59382d0ae4b00610547e6d3e', 'short_description': 'The voters both candidates need might not care.', 'date': '2017-06-07'}

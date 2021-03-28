@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Lady Gaga's Documentary Explores Loneliness, Madonna And A Quest For Lifelong Fame", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/gaga-five-foot-two-review_us_59b3d9cee4b0354e4412245c', 'short_description': 'Netflix\'s "Gaga: Five Foot Two" is a fun, fascinating peek backstage.', 'date': '2017-09-09'}

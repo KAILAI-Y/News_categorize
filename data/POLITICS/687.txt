@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '5 Of The Wildest Revelations In The Comey Memos', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/comey-memos-wildest-revelations_us_5ad9c15ae4b029ebe0231c0a', 'short_description': 'Trump was obsessed with finding leakers and protecting his reputation.', 'date': '2018-04-20'}

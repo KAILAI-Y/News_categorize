@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Actually Plugged His Winery Right After Defending Racists And Bigots', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-winery-charlottesville_us_5993a084e4b0e789a947b8cc', 'short_description': '“Does anyone know that I own a house in Charlottesville?”', 'date': '2017-08-16'}

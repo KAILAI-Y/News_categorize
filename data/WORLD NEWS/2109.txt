@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Philippines President Duterte Says His Soldiers Can Rape During Martial Law', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/duterte-martial-law-rape_us_592a3abbe4b0065b20b6f179', 'short_description': '"If you rape three, I will go to jail for you," he "jokes" to troops.', 'date': '2017-05-28'}

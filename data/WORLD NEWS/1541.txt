@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Taliban Militants Attack Army Base In Kandahar, Kill Dozens Of Afghan Soldiers', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/taliban-attack-afghan-army-base_us_5978708be4b0a8a40e83ea6b', 'short_description': 'The attack underlined the steadily deteriorating security in much of the country.', 'date': '2017-07-26'}

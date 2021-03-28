@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Approval Ratings Look Like They're Taking Another Dip", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-approval-rating_us_59820fbee4b09d24e994c92a', 'short_description': "Possible culprits: White House chaos, polling anomalies, the GOP's health care failure.", 'date': '2017-08-02'}

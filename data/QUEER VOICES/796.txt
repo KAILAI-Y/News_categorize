@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Seven Arrested For Raising Rainbow Flag At Concert In Egypt', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/rainbow-flag-egypt-concert_us_59ca971ae4b07e9ca11f3666', 'short_description': 'The detainees were said to be "promoting sexual deviancy," according to reports.', 'date': '2017-09-26'}

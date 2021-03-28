@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Amazon Just Released A Sneak Peek At Its Black Friday Deals', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/amazon-black-friday-sneak-peek_us_5a0c6247e4b00a6eece5ba74', 'short_description': '🔍👀', 'date': '2017-11-15'}

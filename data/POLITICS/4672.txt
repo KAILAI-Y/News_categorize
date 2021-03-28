@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "An Iowa Teenager Didn't Wreck His State's Health Care Market. Here's Who Did.", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/iowa-teenager-obamacare-scapegoat_us_59f4715de4b077d8dfc9dd70', 'short_description': 'A case study in Obamacare success and failure.', 'date': '2017-10-29'}

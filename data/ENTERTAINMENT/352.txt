@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Amy Schumer Hospitalized For Days Due To 'Horrible' Kidney Infection", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/amy-schumer-hospitalized-kidney-infection_us_5ae36ef6e4b055fd7fcbc3a3', 'short_description': 'The comedian shared some "sexy as hell" photos from her hospital bed.', 'date': '2018-04-27'}

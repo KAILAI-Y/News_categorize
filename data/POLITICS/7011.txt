@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Voters Don't Quite Know What To Make Of His Attacks On Jeff Sessions", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-voters-dont-quite-know-what-to-make-of-his-feud-with-jeff-sessions_us_5980eedfe4b09d24e993af36', 'short_description': 'And more of the latest polling news.', 'date': '2017-08-01'}

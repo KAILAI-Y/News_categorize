@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Possible Listeria Contamination Prompts Multi-State Vegetable Recall', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/possible-listeria-contamination-prompts-multi-state-vegetable-recall_us_59ee3481e4b0d888ea3cf8dd', 'short_description': 'If you have these vegetables in your fridge, throw them out.', 'date': '2017-10-23'}

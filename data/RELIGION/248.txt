@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Campaign Raises Thousands To Support Family Of Murdered Muslim Teen', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/nabra-hassanen-launchgood_us_594816f1e4b0cddbb0089d30', 'short_description': 'Nabra Hassanen was walking with friends after Ramadan prayers when she was murdered.', 'date': '2017-06-19'}

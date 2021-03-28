@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Over 500 Dead In Congo As Cholera Epidemic Spreads', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/congo-cholera-epidemic_us_59b56f3ee4b0b5e53106d1f0', 'short_description': "The WHO sent a team of experts to Congo this month to try and stop the disease's spread.", 'date': '2017-09-10'}

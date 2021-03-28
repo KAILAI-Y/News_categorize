@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Lincoln Memorial Pool To Be Drained After 80 Ducklings Die', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/lincoln-duckling-deaths_us_593c7516e4b0b13f2c6b209e', 'short_description': 'Authorities suspect the elevated levels of parasites that live in snails could be the culprit.', 'date': '2017-06-11'}

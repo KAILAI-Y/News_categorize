@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Blames Putin, Iran For Backing 'Animal Assad' In Wake Of Reported Chemical Attack", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-putin-syria_us_5aca1995e4b07a3485e5ab4c', 'short_description': 'He also criticized Obama for not ending Syria\'s violent conflict "long ago."', 'date': '2018-04-08'}

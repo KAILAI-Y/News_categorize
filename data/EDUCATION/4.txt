@@ -1,0 +1,1 @@
+{'category': 'EDUCATION', 'headline': 'Desperate For Teachers, Districts Beg Retirees To Come Back', 'authors': 'The Hechinger Report, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/teacher-shortage-retirees_us_5ad657d6e4b0d6cc69cc730a', 'short_description': '"It’s difficult not to respond when you hear there is such a significant need.”', 'date': '2018-04-19'}

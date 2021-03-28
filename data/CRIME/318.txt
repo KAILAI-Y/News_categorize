@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Car Thief Busted After Braking To Watch Eclipse, Buy Eye Mask: Sheriff', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/suspect-arrested-after-braking-for-eclipse_us_599c27d3e4b04c532f4450d6', 'short_description': '"He never saw it coming," authorities said of his arrest.', 'date': '2017-08-22'}

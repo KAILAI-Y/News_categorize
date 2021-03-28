@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Layoffs Near At Carrier Factory 'Saved' By Trump", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/carrier-layoffs-trump_us_594c6b79e4b05c37bb757c42', 'short_description': 'More than 600 workers will lose their jobs in the coming months.', 'date': '2017-06-23'}

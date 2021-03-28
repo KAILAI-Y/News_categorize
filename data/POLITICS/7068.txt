@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Anthony Scaramucci, We Hardly Knew Ye', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/anthony-scaramucci-highlights-as-communications-director_us_597f7a64e4b00bb8ff38896c', 'short_description': "10 highlights from the Mooch's 10 days as White House communications director.", 'date': '2017-07-31'}

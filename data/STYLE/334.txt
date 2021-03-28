@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Goop Deletes Yet Another Strange Health Claim After Getting Fact-Checked By NASA', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/goop-stickers-nasa_us_594c02e8e4b0a3a837be5b01', 'short_description': 'The site said energy-balancing body stickers were made from the same stuff as space suits.', 'date': '2017-06-22'}

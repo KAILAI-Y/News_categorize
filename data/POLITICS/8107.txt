@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Wide World Of Winless War', 'authors': 'Nick Turse, ContributorManaging Editor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/a-wide-world-of-winless-war_us_595070cfe4b02734df2b3afa', 'short_description': 'Globe-trotting U.S. special ops forces already deployed to 137 nations in 2017.', 'date': '2017-06-26'}

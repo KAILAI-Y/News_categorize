@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Russians Reportedly 'Compromised' Systems In 7 States Before 2016 Election", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/russians-hacking-seven-states_us_5a95e717e4b09c872baed775', 'short_description': 'Intelligence officials say no ballots or information had been changed.', 'date': '2018-02-28'}

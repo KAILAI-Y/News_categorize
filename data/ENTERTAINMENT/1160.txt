@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Best Way To Leave 'The Bachelor' Is By Dumping Him", 'authors': 'Claire Fallon, Emma Gray, and Nick Offenberg', 'link': 'https://www.huffingtonpost.com/entry/bachelor-jacqueline-arie_us_5a8335f9e4b02b66c512a4ff', 'short_description': 'Jacqueline gave the Bachelor a taste of his own medicine on Monday night.', 'date': '2018-02-13'}

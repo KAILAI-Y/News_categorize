@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Condemns 'Sick' Syria Disaster Yet Slams The Door On Countless Refugees", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-syria-refugees_us_5acb501be4b07a3485e68a3d', 'short_description': 'The U.S. has resettled only 44 Syrian refugees since October.', 'date': '2018-04-09'}

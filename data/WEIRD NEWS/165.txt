@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'People Eating Tide Pods But Won’t Eat Those Stringy Things On Bananas'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reddit-shower-thoughts-end-january-2018_us_5a6b3723e4b06e253266d784', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-01-26'}

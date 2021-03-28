@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "French President Looks Like He's In An Action Movie, And People Are Really Excited", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/emmanuel-macron-nuclear-submarine_us_595ce1afe4b02734df34ff56', 'short_description': 'Emmanuel Macron got lowered from a helicopter onto a nuclear submarine.', 'date': '2017-07-05'}

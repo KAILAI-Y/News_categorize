@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '6 Fictional Fathers From Literature Who Are Actual #DadGoals', 'authors': 'Louise Verity, ContributorOwner of Bookishly', 'link': 'https://www.huffingtonpost.com/entry/6-fictional-fathers-from-literature-who-are-actual_us_5941024ce4b0d99b4c920ff3', 'short_description': 'Who would you add to the list?', 'date': '2017-06-14'}

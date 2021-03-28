@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Will Add Cuba To List Of Obama Achievements He’s Taking Apart', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-cuba-obama_us_5942e6e0e4b01eab7a2c68b1', 'short_description': 'A Miami speech is set for Friday to announce changes to the relaxation of tourism and trade rules.', 'date': '2017-06-15'}

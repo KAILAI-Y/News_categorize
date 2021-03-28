@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Takes Out A 'For Your Consideration' Ad For Trump's Fake News Awards", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-ad-trump-fake-news-awards_us_5a4dc146e4b06d1621bd1690', 'short_description': 'On a billboard. In Times Square.', 'date': '2018-01-04'}

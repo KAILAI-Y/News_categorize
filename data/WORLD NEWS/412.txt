@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Ireland Takes Major Step Forward In Path To Legal Abortion', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/ireland-abortion-referendum_us_5a6fabbae4b05836a255d452', 'short_description': "Voters will decide whether to revoke Ireland's strict ban in May.", 'date': '2018-01-30'}

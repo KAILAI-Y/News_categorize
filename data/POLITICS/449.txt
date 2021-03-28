@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "FEMA's Latest Excuse For Why It's Ignoring Climate Change: It Forgot", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/fema-strategic-plan-climate-change_us_5ae9d3a3e4b06748dc8e9515', 'short_description': 'That clears it up.', 'date': '2018-05-03'}

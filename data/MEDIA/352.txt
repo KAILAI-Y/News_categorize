@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'A Mysterious Company Bought LA Weekly And Just Gutted Its Staff', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/la-weekly-mystery-owner-layoffs_us_5a205f2de4b03c44072c0943', 'short_description': "Staffers and journalism advocates are demanding transparency from the site's new owner.", 'date': '2017-12-01'}

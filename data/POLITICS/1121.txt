@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jeb Bush Takes Apparent Swipe At Donald Trump Over His Children's Love", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jeb-bush-donald-trump-children_us_5abc8f89e4b04a59a31473b6', 'short_description': 'Donald Trump Jr. and Eric Trump have since responded to the comment.', 'date': '2018-03-29'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "The $40 Gadget That'll Help You Cook The Biggest Meal You've Ever Made", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/how-to-cook-for-a-crowd_us_5a09fceae4b0b17ffcdf9442', 'short_description': 'For folks who would rather host than play guest 🍽', 'date': '2017-11-14'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Trump And Other Leaders Clash On Trade, Climate At G7', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-g7-clash_us_59284a41e4b0df57cbfb4f25', 'short_description': '“No doubt, this will be the most challenging G7 summit in years.”', 'date': '2017-05-26'}

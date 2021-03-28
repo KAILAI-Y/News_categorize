@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jennifer Lawrence Cries Bloody Murder In The First 'Mother!' Teaser", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/mother-trailer-jennifer-lawrence_us_597f3bcae4b02a4ebb76e6de', 'short_description': "We still don't know much about Darren Aronofsky's upcoming movie.", 'date': '2017-07-31'}

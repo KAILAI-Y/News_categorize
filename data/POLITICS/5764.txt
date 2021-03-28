@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump To Campaign For Luther Strange In Alabama', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-strange-moore-alabama_us_59be8ecbe4b0edff971ccdd5', 'short_description': "Steve Bannon is supporting Strange's opponent, Roy Moore, in the Senate race.", 'date': '2017-09-17'}

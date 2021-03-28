@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Alabama Won't Help Disenfranchised Citizens Understand If They Can Now Vote", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/alabama-moral-turpitude_us_594a8335e4b0177d0b8af45f', 'short_description': '“I’m not going to spend state resources" on that effort, Alabama\'s secretary of state says.', 'date': '2017-06-21'}

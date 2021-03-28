@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "LGBTQ Activists Had A St. Patrick's Day Message For Mike Pence", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-savannah-st-patricks-day-parade_us_5aafe2a7e4b0697dfe191de2', 'short_description': 'Rainbow flags greeted the vice president at a parade in Georgia.', 'date': '2018-03-19'}

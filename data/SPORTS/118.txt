@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Lindsey Vonn Wins Bronze In What's Likely Her Last Olympic Downhill Race", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/lindsey-vonn-wins-bronze-pyeongchang_us_5a8cca4ee4b0273053a5b5ea', 'short_description': '"I have no regrets; I’m really happy," she said.', 'date': '2018-02-21'}

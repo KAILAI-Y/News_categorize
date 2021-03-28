@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Terrified Tweeters Flip Out Over Donald Trump's 'Coming Arms Race' Prediction", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-arms-race-twitter_us_5ab356d0e4b0decad046bfe9', 'short_description': '"Maybe this is stupid question but, what f**king coming arms race?"', 'date': '2018-03-22'}

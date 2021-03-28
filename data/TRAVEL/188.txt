@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "WATCH: America's Fourth Of July Firework Shows Go Out With A Bang", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/americas-fourth-of-july-fireworks_us_595ce0a1e4b0da2c7326269f', 'short_description': "It's not every day your country turns 241.", 'date': '2017-07-05'}

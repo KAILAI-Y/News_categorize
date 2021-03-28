@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "James Corden Reveals How Hillary Clinton's Grammys Skit Almost Didn't Happen", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-hillary-clinton-grammys-2018_us_5a70208be4b05836a255f766', 'short_description': '"We had no idea whether Hillary would do it or not."', 'date': '2018-01-30'}

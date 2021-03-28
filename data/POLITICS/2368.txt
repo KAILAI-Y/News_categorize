@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Justice Department Will Not Retry Sen. Bob Menendez', 'authors': 'Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/menendez-retrial_us_5a71f825e4b03699143eaf02', 'short_description': 'The decision follows a hung jury last year and an acquittal on other charges last week.', 'date': '2018-01-31'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Convoy Carrying Aid For Thousands Of Syrians Prepares To Enter Rebel-Held Area', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/ghouta-syria-aid-convoy_us_5aaa3e95e4b0600b83005bf6', 'short_description': 'The convoy of 25 aid trucks is carrying around 340 tonnes of food.', 'date': '2018-03-15'}

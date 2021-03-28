@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Black Panther' Is Already Being Hailed As One Of The Best Marvel Films Yet", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/black-panther-reviews_us_5a701015e4b05836a255eb10', 'short_description': "Here's a spoiler-free look at the early reaction.", 'date': '2018-01-30'}

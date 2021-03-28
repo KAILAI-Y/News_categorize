@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Let’s Not Forget That Scientists Warned Us It Could Be A Nasty Hurricane Season', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/science-prediction-hurricane-season-2017_us_59c2eb2ce4b0c90504fb6385', 'short_description': "And wouldn't you know? They were right.", 'date': '2017-09-20'}

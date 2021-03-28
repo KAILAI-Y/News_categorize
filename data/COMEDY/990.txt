@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Conan Trains With 'Wonder Woman' Gal Gadot And Does Not Fare Well", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/conan-trains-with-wonder-woman-gal-gadot-and-does-not-fair-well_us_59288466e4b0df57cbfbad71', 'short_description': 'But he has his super suit ready.', 'date': '2017-05-26'}

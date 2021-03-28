@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Big Wave Surfer Breaks His Back In Harrowing Wipeout On Video', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/andrew-cotton-big-wave-surfer-breaks-back_us_5a04c784e4b0e37d2f366d00', 'short_description': '"A whole world of pain happened," says Brit Andrew Cotton.', 'date': '2017-11-10'}

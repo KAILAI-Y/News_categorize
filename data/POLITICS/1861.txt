@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Rick Santorum Blames Absent Dads And Broken Homes For Mass Shooters', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/rick-santorum-mass-shootings-single-mothers_us_5a939762e4b01e9e56bd25bd', 'short_description': '"These kids come from broken homes without dads.”', 'date': '2018-02-26'}

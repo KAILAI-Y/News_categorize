@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Lawmakers Want Facebook To Expose People Behind Fake Ads In State Elections Too', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/facebook-ads-state-election-disclosure_us_5a0b5e63e4b00a6eece4ea62', 'short_description': 'For now, the social media giant is focusing just on federal elections.', 'date': '2017-11-14'}

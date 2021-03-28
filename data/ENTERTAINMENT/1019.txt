@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jennifer Lawrence Reveals The One Movie Role She's Still 'Devastated' She Lost", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/jennifer-lawrence-devastated-lost-role-alice-in-wonderland_us_5a98116de4b09c872bb1f51e', 'short_description': 'The part went to actress Mia Wasikowska.', 'date': '2018-03-01'}

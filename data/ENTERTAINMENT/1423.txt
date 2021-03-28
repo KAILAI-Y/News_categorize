@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Not Even Ryan Reynolds' Daughter Is Safe From His Twitter Trolling", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/ryan-reynolds-funny-tweet-daughter_us_5a68aee4e4b0dc592a0ea4e4', 'short_description': 'What else would you expect?', 'date': '2018-01-24'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'LGBTQ Celebs Write Moving Letters To Their Younger Selves', 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/letter-to-myself-coming-out_us_59de30a3e4b04fc4e1ea7656', 'short_description': 'Happy National Coming Out Day!', 'date': '2017-10-11'}

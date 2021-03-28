@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Fossil Fuel-Touting U.S. Heckled By Singing Demonstrators At UN Climate Summit', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/us-bonn-climate-summit-singing_us_5a0a5773e4b00a6eece3c35a', 'short_description': '“We see right through your greed," protesters sang.', 'date': '2017-11-14'}

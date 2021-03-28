@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Someone Just Gave Donald Trump A Full-Moon Salute', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-full-moon_us_59e953a7e4b05b4f1c3a502e', 'short_description': 'A man in Washington got cheeky with the president.', 'date': '2017-10-20'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Government Watchdog Agrees To Investigate Trump Voter Fraud Commission', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/gao-trump-voter-fraud-commission_us_59f22065e4b03cd20b804176', 'short_description': "Trump's panel is already facing a handful of lawsuits over its activities.", 'date': '2017-10-26'}

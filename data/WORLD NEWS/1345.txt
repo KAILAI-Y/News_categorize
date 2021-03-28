@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Taliban Condemns Trump's Decision To Continue War In Afghanistan", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/taliban-reax-trump-afghanistan_us_599bcac4e4b04c532f43e18e', 'short_description': 'The Islamist insurgents also vowed to “continue our jihad.”', 'date': '2017-08-22'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Sam Smith Is Back With Another Heartbreak Anthem', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/sam-smith-too-good-at-goodbyes_us_59b29b53e4b0b5e53105ad58', 'short_description': "And this time, he's got a gospel choir behind him.", 'date': '2017-09-08'}

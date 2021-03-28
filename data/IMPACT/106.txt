@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "What Thanksgiving Is Like For This Summer's Hurricane Victims", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/hurricane-victims-thanksgiving_us_5a1703c8e4b0649480735e08', 'short_description': 'Many of those still displaced by Harvey, Irma and Maria will celebrate the holiday together.', 'date': '2017-11-23'}

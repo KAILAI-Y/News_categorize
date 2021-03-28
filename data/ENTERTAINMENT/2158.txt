@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kim Kardashian And Katy Perry Hang Out The Day Taylor Swift Drops Her Album', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-katy-perry-taylor-swift-album_us_5a071796e4b01d21c83ec799', 'short_description': 'The shade is ALIVE AND WELL.', 'date': '2017-11-11'}

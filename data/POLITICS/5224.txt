@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan Says Congress Should 'Look Into' Bump Stocks", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-bump-stocks_us_59d641e1e4b0380b6c9aa850', 'short_description': 'The GOP is warming to the idea of banning the device that figured in the Las Vegas mass shooting.', 'date': '2017-10-05'}

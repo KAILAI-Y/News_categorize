@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "All The Republicans At Roy Moore's Party Had The Same Reaction", 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-election-night-party_us_5a30c4a2e4b091ca2683d313', 'short_description': 'Blame everyone. Except the candidate accused of sexual assault.', 'date': '2017-12-13'}

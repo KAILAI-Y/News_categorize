@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Director Of 'Tangerine' Is Back With 'The Florida Project'", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/the-florida-project-trailer_us_598f73cae4b08a247274d181', 'short_description': "See the charming trailer for Sean Baker's new movie, starring Willem Dafoe.", 'date': '2017-08-14'}

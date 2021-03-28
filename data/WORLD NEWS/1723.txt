@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Mexican Mayor Weds Crocodile To Bring Good Luck To Village', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/crocodile-wedding-mexico_us_595d03a6e4b02734df3541e3', 'short_description': 'The ceremony symbolizes a long-ago union between two indigenous groups.', 'date': '2017-07-05'}

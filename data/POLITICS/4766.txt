@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'As GOP Senators Bail, Republicans Are Learning What A Trump Party Looks Like', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/grand-old-trump-party-republicans_us_59efd400e4b04917c59412e4', 'short_description': 'Barry Goldwater and Ronald Reagan: out. Donald Trump and Steve Bannon: in.', 'date': '2017-10-25'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Cocky Navy Pilots Make 'Sky Penises' Over Washington State", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/sky-penises-navy-washington-state_us_5a0f1346e4b0dd63b1aa0e3f', 'short_description': '"You don’t expect to see something like that,” said one observer.', 'date': '2017-11-17'}

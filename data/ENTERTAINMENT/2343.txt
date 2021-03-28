@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Harry Belafonte Issues A Frightening Warning About America’s Future', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/harry-belafonte-warning_us_59ed49dfe4b0a484d0640117', 'short_description': '"Hitler is not too far from our door."', 'date': '2017-10-23'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Teachers Tell Trump What They Really Want To Be Armed With -- And It's Not Guns", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/arm-me-with-campaign_us_5a8fcc3de4b03b55731aa066', 'short_description': 'The #ArmMeWith campaign has a message for Washington.', 'date': '2018-02-23'}

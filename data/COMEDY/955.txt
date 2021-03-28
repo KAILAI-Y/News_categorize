@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'ChristianBees.com Is Where Karen Pence Got Those 20,000 Bees', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/christianbeescom-is-where-karen-pence-got-those-20000-bees_us_5942d58fe4b01eab7a2c48a9', 'short_description': 'A bee hive in every home!', 'date': '2017-06-15'}

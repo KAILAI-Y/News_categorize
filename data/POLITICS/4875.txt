@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jeff Sessions Praises Texas Immigration Crackdown', 'authors': 'Roque Planas', 'link': 'https://www.huffingtonpost.com/entry/sessions-praises-texas-immigration-crackdown_us_59ea4434e4b0958c4681eb03', 'short_description': '“We’ve got your back,” the attorney general said at a speech in Austin.', 'date': '2017-10-20'}

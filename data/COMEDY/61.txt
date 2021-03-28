@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Decodes Teen Slang, Reveals What ‘Giuliani’ Really Means', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-teen-slang-giuliani_us_5af2a041e4b0aab8a78a54f8', 'short_description': "The former New York mayor probably won't like this definition.", 'date': '2018-05-09'}

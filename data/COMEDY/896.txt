@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': '13 High-Quality Gifts For The High-Quality Person In Your Life', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/high-quality-person-gifts_us_5967a248e4b0a0c6f1e6d26b', 'short_description': 'Make gift-giving great again 🎁', 'date': '2017-07-13'}

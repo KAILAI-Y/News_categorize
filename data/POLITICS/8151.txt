@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Speaking Of 'Rigged'", 'authors': 'Susan K Smith, ContributorRev. Dr.', 'link': 'https://www.huffingtonpost.com/entry/speaking-of-rigged_us_594e2e4ae4b0f078efd981de', 'short_description': 'Within the last two weeks, much of the African American community has been thrown into abject pain yet again. The police', 'date': '2017-06-24'}

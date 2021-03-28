@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Uses Trump's Own Words Against Him To Show The Real State Of The Union", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-state-of-the-union_us_5a714daee4b0ae29f08c132b', 'short_description': 'The only speech you need to hear.', 'date': '2018-01-31'}

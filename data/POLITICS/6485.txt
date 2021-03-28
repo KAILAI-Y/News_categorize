@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Top Trump Adviser Steve Bannon Out From White House', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-out_us_597242dfe4b09e5f6ccf1ac8', 'short_description': "He was a conservative force in the West Wing credited with helping to shape Trump's populist appeal.", 'date': '2017-08-18'}

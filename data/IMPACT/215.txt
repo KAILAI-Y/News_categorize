@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'My Hometown And Hurricane Harvey', 'authors': 'Sharon Bush, ContributorCEO of Teddy Shares/Mother, Entrepreneur & Philanthropist', 'link': 'https://www.huffingtonpost.com/entry/houston-my-hometown-and-hurricane-harvey_us_59b03f88e4b0bef3378cdd2a', 'short_description': 'I couldn’t be prouder of my son and my city.', 'date': '2017-09-06'}

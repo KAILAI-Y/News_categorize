@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': '1 in 2 Abortions Worldwide Are Unsafe', 'authors': 'Catherine Pearson', 'link': 'https://www.huffingtonpost.com/entry/1-in-2-abortions-worldwide-are-unsafe_us_59cbf7b6e4b053a9c2f60576', 'short_description': 'Women around the globe are having millions of risky abortions every year, a new study has found.', 'date': '2017-09-28'}

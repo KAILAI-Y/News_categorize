@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'N.J. Senate Passes Bill To Count Property Taxes As Charity To Sidestep Federal Law', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/new-jersey-property-tax-charity_us_5a94c090e4b01f65f5998b2d', 'short_description': 'The state gets creative after the GOP tax bill caps deductions.', 'date': '2018-02-27'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Daily Show' Teases Trump And Fox News Over Eclipse Reactions", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/daily-show-teases-trump-and-fox-news-for-their-reactions-to-the-eclipse_us_599c3e3be4b06a788a2bd6ed', 'short_description': 'Jeff Sessions looks so whimsical!', 'date': '2017-08-22'}

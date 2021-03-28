@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Daily Show' Looks Back At ‘Little Donny’s’ First Year In Office", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/the-daily-show-donald-trump-first-year-office-review_us_5a62fa8ce4b002283002f195', 'short_description': "It's been ... emotional.", 'date': '2018-01-20'}

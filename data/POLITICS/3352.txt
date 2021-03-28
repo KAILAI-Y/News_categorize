@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump On Potential Michael Flynn Pardon: 'We'll See What Happens'", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-michael-flynn_us_5a33e0f2e4b040881be9e576', 'short_description': '"I don\'t want to talk about pardons for Michael Flynn yet."', 'date': '2017-12-15'}

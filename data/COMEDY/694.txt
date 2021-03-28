@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Colbert Delivers Hardest Hitting Fake Interview With President Trump', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/colbert-delivers-hardest-hitting-fake-interview-with-president-trump_us_59e0eed4e4b0a52aca179508', 'short_description': 'Fake, but it feels real tbh.', 'date': '2017-10-13'}

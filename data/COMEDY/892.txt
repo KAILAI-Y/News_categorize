@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Bad Lip Reading Of Trash-Talkers Floyd Mayweather And Conor McGregor Gets Brutal', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bad-lip-reading-mayweather-mcgregor-viral-video_us_5969b432e4b03389bb17913f', 'short_description': '"It\'s almost like you don\'t know words."', 'date': '2017-07-15'}

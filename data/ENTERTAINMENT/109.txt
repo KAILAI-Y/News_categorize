@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Deadpool 2' Is Already Breaking Box Office Records", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/deadpool-2-breaks-preview-night-money-record-for-rated-r-movie_us_5aff12f5e4b0463cdba19d8c', 'short_description': "It's made nearly $20 million before even officially opening.", 'date': '2018-05-18'}

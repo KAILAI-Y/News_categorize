@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Tennis Pro Loses Match For Calling Himself A 'Stupid Person'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tennis-pro-loses-match-for-calling-himself-a-stupid-person_us_5943e785e4b0f15cd5bac0a7', 'short_description': "That's a tough way to bow out.", 'date': '2017-06-16'}

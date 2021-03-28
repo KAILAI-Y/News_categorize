@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Hawaiian Canoe Completes Three-Year Voyage Around The World', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/hokulea-completes-voyage-around-the-world_us_5945910ae4b0f15cd5bbc9ce', 'short_description': 'The Hokulea\'s mission: To inspire people to take care of "island Earth."', 'date': '2017-06-18'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Why Adults Still Experience Back-To-School Anxiety', 'authors': 'Paige Smith', 'link': 'https://www.huffingtonpost.com/entry/back-to-school-adults_us_59a720cae4b010ca2899f298', 'short_description': "Yes, it's totally normal to get jitters. Here are some ways to ace that emotional test.", 'date': '2017-08-31'}

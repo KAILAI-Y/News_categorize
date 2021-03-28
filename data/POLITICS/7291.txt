@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Why More Americans Are Getting Paid Sick Days', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/paid-sick-days_us_59763e82e4b0a8a40e813e53', 'short_description': 'Trump promised to help workers, but it’s new state and local laws that are actually making a difference.', 'date': '2017-07-24'}

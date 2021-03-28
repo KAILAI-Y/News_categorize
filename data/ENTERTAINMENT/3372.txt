@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mark Wahlberg Forces Journalists To Reenact Spice Girls' 'Wannabe' Video Just 'Cause", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/mark-wahlberg-zig-a-zig-ha_us_594553c5e4b06bb7d2738903', 'short_description': 'Zig-a-zig-ha?', 'date': '2017-06-17'}

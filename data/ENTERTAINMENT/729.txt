@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'George Lucas Had Other Plans For Luke Skywalker, Mark Hamill Says', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-george-lucas-star-wars-ending_us_5ab93ad9e4b008c9e5fa2dc8', 'short_description': 'Things could have been very different going into "Episode IX."', 'date': '2018-03-26'}

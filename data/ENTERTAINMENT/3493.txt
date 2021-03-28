@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'You Can Now Study ‘Game Of Thrones’ At Harvard University', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-harvard-class_us_592fc3eae4b0540ffc847e14', 'short_description': '"Isn’t it partly our job (as professors) to use that interest and go deeper?"', 'date': '2017-06-01'}

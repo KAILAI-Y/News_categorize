@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "White House Says Its Stance On Flag & Anthem Issue Is 'Pretty Black And White'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/sarah-sanders-flag-anthem-black-and-white_us_59cd5575e4b06791bb0f6e08', 'short_description': 'Phrasing?', 'date': '2017-09-28'}

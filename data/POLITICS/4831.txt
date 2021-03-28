@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Budget Chief Raises Possibility Of Trump Agreeing To Obamacare Subsidy Deal', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/omb-mulvaney-alexander-murray_us_59ec99bee4b0a484d063e23c', 'short_description': 'Is the president about to flip-flop again?', 'date': '2017-10-22'}

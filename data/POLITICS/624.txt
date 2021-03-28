@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Another Federal Judge Rules Against Trump's Order To Cancel DACA", 'authors': 'Roque Planas', 'link': 'https://www.huffingtonpost.com/entry/judge-rules-against-canceling-daca_us_5adfd19ce4b07560f3967230', 'short_description': 'The decision may pave the way for new applications to the Obama-era program.', 'date': '2018-04-25'}

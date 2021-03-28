@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan Holds Back Criticism Of Donald Trump Jr.'s Russian Lawyer Meeting", 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-trump-russia_us_59663dc6e4b03f144e2fc0cc', 'short_description': "You wouldn't want Paul Ryan to rush to judgment!", 'date': '2017-07-12'}

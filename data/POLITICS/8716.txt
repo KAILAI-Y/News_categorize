@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Give Funding Boost To South Carolina House Contender', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/democrats-south-carolina-house_us_5936e3eee4b0099e7fafc255', 'short_description': "The party's modest aid for Archie Parnell pales in comparison to its efforts in Georgia.", 'date': '2017-06-06'}

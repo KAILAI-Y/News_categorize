@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Trevor Noah One-Ups Stephen Colbert In Battle For Best Trump Mockery', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/daily-show-donald-trump-colbert_us_596e037ee4b0e983c058ebd5', 'short_description': 'Both hosts seem to be trying hard to outdo one another.', 'date': '2017-07-18'}

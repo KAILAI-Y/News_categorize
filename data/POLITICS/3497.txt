@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sen. Lindsey Graham Promotes Trump Property After Golfing With President', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/lindsey-graham-praises-trump-golf-course_us_5a2e372ae4b073789f6b06c5', 'short_description': 'His "spectacular" comment didn\'t land him on Twitter\'s leaderboard.', 'date': '2017-12-12'}

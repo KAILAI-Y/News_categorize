@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': '5 Ways The Senate Health Care Bill Is Cruel To Women', 'authors': 'Catherine Pearson', 'link': 'https://www.huffingtonpost.com/entry/5-ways-the-senate-health-care-bill-is-cruel-to-women_us_594c0c6ae4b0a3a837be79c6', 'short_description': "It's gunning for maternity coverage. Medicaid. And Planned Parenthood.", 'date': '2017-06-23'}

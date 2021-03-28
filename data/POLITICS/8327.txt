@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Is Iran’s Ballistic Missile Use Trump’s Fault?', 'authors': 'Reza Marashi, ContributorResearch Director, National Iranian American Council', 'link': 'https://www.huffingtonpost.com/entry/is-irans-ballistic-missile-use-trumps-fault_us_59484261e4b0f7875b83e520', 'short_description': 'Trump is creating a recipe for war.', 'date': '2017-06-19'}

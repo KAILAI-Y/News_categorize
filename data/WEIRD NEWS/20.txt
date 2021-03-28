@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Dogs May Help Prepare You For Babies, But Cats Help Prepare You For Teenagers'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reddit-shower-thoughts-may-2018-11_us_5af57fd5e4b0e57cd9f89b9c', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-05-11'}

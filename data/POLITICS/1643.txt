@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ted Cruz Hits The Panic Button: 'We Could Lose Both Houses Of Congress'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ted-cruz-republicans-lose-congress_us_5a9f60cee4b0e9381c135ba6', 'short_description': '"Mark my words, we are going to see historic turnout from the extreme left in November."', 'date': '2018-03-07'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Several Injured After Vehicle Plows Into Crowd Near London Mosque', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/london-vehicle-injures-pedestrians_us_5947194ee4b06bb7d2741b74', 'short_description': 'One person has been arrested in what is being investigated as a potential terrorist attack.', 'date': '2017-06-19'}

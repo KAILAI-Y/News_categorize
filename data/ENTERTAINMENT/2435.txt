@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'South Park' Responds To Harvey Weinstein News In A Very 'South Park' Way", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/south-park-harvey-weinstein_us_59df59aee4b0fdad73b2614d', 'short_description': 'The show went after Weinstein for "victimiz[ing] innocent people."', 'date': '2017-10-12'}

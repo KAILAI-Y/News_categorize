@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Even Now, Paul Ryan Really Doesn't Want To Talk About Donald Trump", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-retirement-donald-trump_us_5acf4d4fe4b0648767777d0f', 'short_description': 'The retiring House speaker dodged a chance to say what he really thinks about the president.', 'date': '2018-04-12'}

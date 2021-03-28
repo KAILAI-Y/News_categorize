@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Joe Biden Jumps In To Help Democrats Win Alabama Senate Seat', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/joe-biden-doug-jones-alabama-senate_us_59c2db6ce4b063b25317b501', 'short_description': "He'll be campaigning for Doug Jones, the Democratic candidate in the special election.", 'date': '2017-09-20'}

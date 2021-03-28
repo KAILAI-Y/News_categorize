@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mercer Family Sides With Trump, Distances Itself From Steve Bannon', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/mercer-family-drops-steve-bannon_us_5a4ea9c3e4b089e14db99ef2', 'short_description': 'The family is reportedly considering dropping Bannon from his post overseeing Breitbart.', 'date': '2018-01-04'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Halle Berry Thanks Her Middle Finger For Getting Her Through 2017', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/halle-berry-thanks-her-middle-finger-for-getting-her-through-2017_us_5a4a8409e4b0b0e5a7a7f02f', 'short_description': '"Always standing up for me!"', 'date': '2018-01-01'}

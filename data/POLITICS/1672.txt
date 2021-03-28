@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Gary Cohn To Step Down From Trump Administration', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/gary-cohn-resigning_us_5a9f170ee4b0e9381c132858', 'short_description': "The former Goldman Sachs executive has served as Trump's chief economic adviser since the president's inauguration.", 'date': '2018-03-06'}

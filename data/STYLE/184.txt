@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Blake Lively Rocked A Delightful Fake Lob And You Can, Too', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/blake-lively-how-to-fake-lob_us_59df64eae4b0fdad73b26e36', 'short_description': "It's actually pretty easy to achieve.", 'date': '2017-10-12'}

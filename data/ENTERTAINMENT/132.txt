@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ryan Reynolds Is 'Genuinely Hurt' Trading Playground Insults With Josh Brolin", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ryan-reynolds-josh-brolin-insults_us_5afba770e4b06a3fb50bafcf', 'short_description': '"Deadpool 2" stars unload on each other for laughs.', 'date': '2018-05-16'}

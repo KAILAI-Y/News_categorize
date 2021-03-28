@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'How I Used Back-To-School Season To Transform My Habits', 'authors': 'Gemma Hartley, On Assignment For HuffPost', 'link': 'https://www.huffingtonpost.com/entry/back-to-school-transform-habits_us_59aeda8ce4b0354e440cf28c', 'short_description': '"Transitional times are a gold mine for fueling change."', 'date': '2017-09-06'}

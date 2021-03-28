@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Russia Votes to Enact Restrictions On Foreign Media Outlets', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/russia-foreign-media-restrictions_us_5a0c6b9ee4b0b17ffce1cf62', 'short_description': 'Russia has named nine U.S.-backed outlets that may face new restrictions.', 'date': '2017-11-15'}

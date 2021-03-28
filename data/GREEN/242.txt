@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Winter Cold Used To Kill Off Forest-Eating Beetles. Not Anymore.', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/pine-beetle-climate_us_59a4918ce4b0446b3b85f28a', 'short_description': 'Climate change could spread Southern pine beetles as far north as Canada, a new study finds.', 'date': '2017-08-28'}

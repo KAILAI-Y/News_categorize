@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chrissy Teigen, John Legend And The Tale Of The Missing Toilet', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-missing-toilet_us_5a69fdf0e4b06e2532656ab8', 'short_description': 'Yep, you read that right.', 'date': '2018-01-25'}

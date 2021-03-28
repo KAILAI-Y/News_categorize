@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Pardons Scooter Libby, Dick Cheney's Former Chief Of Staff", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-pardons-scooter-libby_us_5ad0b6e7e4b0edca2cb92053', 'short_description': "Libby was convicted of lying about how he learned of a CIA agent's identity.", 'date': '2018-04-13'}

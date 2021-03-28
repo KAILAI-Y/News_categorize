@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Uses DACA Setback To Launch New Attack On Court System', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-daca-court-attack_us_5a562423e4b0d614e48b7c88', 'short_description': 'The president claimed the judiciary is "broken and unfair."', 'date': '2018-01-10'}

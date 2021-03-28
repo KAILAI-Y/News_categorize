@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Tariff Tirade Makes More Sense After You Watch 'Mean Girls'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/mean-girls-trump-tariff_us_5a99a8f2e4b089ec353a1acd', 'short_description': 'That explains everything!', 'date': '2018-03-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The 'Awkward' Moment James Comey And Donald Trump Stared At Each Other In Silence", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/james-comey-donald-trump-awkward-moment_us_59384993e4b0b13f2c6658fa', 'short_description': 'Cringeworthy.', 'date': '2017-06-07'}

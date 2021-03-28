@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The New 'Stranger Things' Trailer Will Turn Your World Upside Down", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/new-stranger-things-trailer-will-turn-your-world-upside-down_us_59dfd7c5e4b0a52aca16abee', 'short_description': 'It keeps getting stranger.', 'date': '2017-10-13'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'This Woman Makes Amazing Sculptures With Her Hair As A Mode Of Self-Expression', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/artist-sculptures-hair_us_594036bde4b003d5948b8189', 'short_description': '"It’s really important to allow yourself to express what’s inside you.”', 'date': '2017-06-13'}

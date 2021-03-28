@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Peter Thiel Has Reportedly Made Offer To Buy Gawker, The Site He Helped Shutter', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/peter-thiel-gawker_us_5a57d06ae4b0d7e82dd5deac', 'short_description': "The news was first reported by Reuters, which did not specify Thiel's motivations.", 'date': '2018-01-11'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Model Gloriously Slams Man Who Tried To Fat-Shame Her On Airplane', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/model-slams-man-fat-shame-her-airplane_us_595a6ef1e4b05c37bb7fb1e4', 'short_description': '"This is a fat person\'s daily reality and not just on a plane."', 'date': '2017-07-03'}

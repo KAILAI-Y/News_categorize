@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sarah Huckabee Sanders Responds To Michelle Wolf: I Hope She Can Find Happiness', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/sarah-huckabee-sanders-response-michelle-wolf_us_5aeb30ace4b0c4f1931fd634', 'short_description': "The White House press secretary shot down the comedian's jokes.", 'date': '2018-05-03'}

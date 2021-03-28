@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "States Hope Trump's Own Bigoted Words And Tweets Will Help Keep DACA Alive", 'authors': 'Ryan J. Reilly and Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/daca-lawsuit-trump_us_59b05150e4b0354e440f053a', 'short_description': "Yet again, Trump's own words could come back to haunt him in court.", 'date': '2017-09-06'}

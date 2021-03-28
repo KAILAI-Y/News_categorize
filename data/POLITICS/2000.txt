@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "U.S. Officials Tell World Leaders To Ignore Trump's Tweets", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/world-leaders-ignore-trump-tweets_us_5a8a604ee4b004fc31939e98', 'short_description': 'Americans tried to calm rattled leaders at an international conference in Munich.', 'date': '2018-02-19'}

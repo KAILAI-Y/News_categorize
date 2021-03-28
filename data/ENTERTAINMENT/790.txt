@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Barbra Streisand Suggests Nose Is Why She Hasn't Been Sexually Harassed", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/barbra-streisand-sexual-harassment_us_5ab0ce05e4b0e862383afcd3', 'short_description': '"I wasn\'t like those pretty girls," she said.', 'date': '2018-03-20'}

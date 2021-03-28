@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Spread The News: It's Juneteeth", 'authors': 'Leslie Herod, ContributorState Representative for Colorado House District 8', 'link': 'https://www.huffingtonpost.com/entry/spread-the-news-its-juneteeth_us_594837b3e4b04d8767077afe', 'short_description': 'But are we truly free?', 'date': '2017-06-19'}

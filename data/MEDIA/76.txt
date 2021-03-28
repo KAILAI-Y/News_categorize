@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Getty Mixed Up Mark Zuckerberg's Executive Assistant With Priscilla Chan", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/getty-mixed-up-mark-zuckerbergs-executive-assistant-with-priscilla-chan_us_5ace4d21e4b064876776368a', 'short_description': "C'mon now.", 'date': '2018-04-11'}

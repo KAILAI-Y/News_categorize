@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "This Guy Used Augmented Reality To Recreate 'The Ring' In Real Life", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-ring-augmented-reality_us_5a91a119e4b01e9e56bc4210', 'short_description': 'File this under "Powers used for evil."', 'date': '2018-02-24'}

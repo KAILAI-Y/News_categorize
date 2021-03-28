@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Finland Tops World Happiness Report 2018 As U.S. Ranking Falls', 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/world-happiness-report-finland-us_us_5aa92fc1e4b018e2f1c39e12', 'short_description': '"Alarm bells should be ringing."', 'date': '2018-03-14'}

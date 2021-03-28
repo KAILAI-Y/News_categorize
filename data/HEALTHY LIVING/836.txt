@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Date Someone Who Doesn't Shame You For Going To Therapy", 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/dating-therapy_us_5915c90ae4b00f308cf4bf53', 'short_description': 'Because you deserve to feel supported.', 'date': '2017-06-07'}

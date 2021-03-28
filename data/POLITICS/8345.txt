@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Steve Scalise's Twitter Account Posts Touching Father's Day Tribute", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/family-of-steve-scalise-share-touching-tribute-on-fathers-day_us_5946c5bee4b06bb7d273fba4', 'short_description': '"Take the time to be close with the ones you love.”', 'date': '2017-06-18'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Nurse Barred From Jail After Allegedly Performing Exorcism On Inmate', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/nurse-exorcism-jail_us_59f9f3a8e4b0d1cf6e921885', 'short_description': 'The inmate, who allegedly received the exorcism instead of medical help, later died.', 'date': '2017-11-01'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Truck Driver Blamed For Damaging Ancient Nazca Lines', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/truck-driver-damages-nazca-lines_us_5a736b0fe4b06ee97af0b9e7', 'short_description': "UNESCO estimates Peru's famous geoglyphs are around 2,000 years old.", 'date': '2018-02-01'}

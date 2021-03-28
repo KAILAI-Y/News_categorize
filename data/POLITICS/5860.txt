@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's Travel Ban Gets A Temporary Win From The Supreme Court", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/supreme-court-trump-travel-ban_us_59b90270e4b086432b02b578', 'short_description': 'The ruling affects as many as 24,000 refugees seeking to enter the U.S.', 'date': '2017-09-13'}

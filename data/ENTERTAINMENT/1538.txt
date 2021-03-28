@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Cranberries Singer Dolores O'Riordan Dead At 46", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/dolores-oriordan-dead-dies_us_5a5ce22ce4b0fcbc3a12797b', 'short_description': 'The cause of death was not immediately made public.', 'date': '2018-01-15'}

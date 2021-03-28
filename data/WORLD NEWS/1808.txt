@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Tourist Boat Sinks In Colombia With Nearly 160 On Board', 'authors': 'Eline Gordts and Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/ferry-sinks-colombia_us_5950312de4b02734df2b2c9e', 'short_description': 'At least six people died.', 'date': '2017-06-25'}

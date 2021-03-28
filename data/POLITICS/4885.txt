@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How Women Factor Into The Uniquely American Problem Of Mass Incarceration', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/mass-incarceration-women_us_59ea1b51e4b0f9d35bca482b', 'short_description': 'There are 219,000 women locked up in the U.S. Many have not been convicted.', 'date': '2017-10-20'}

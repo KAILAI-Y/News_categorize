@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s Zig-Zagging On Health Care Back To Zig. For Now.', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-healthcare-zigzag_us_59765f62e4b0c95f375dc1a3', 'short_description': 'The president lurches from “repeal it now” to “who cares, it’s failing.”', 'date': '2017-07-24'}

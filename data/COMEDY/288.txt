@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Nails The NRA's Complete Hypocrisy In A Single Sentence", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-guns_us_5a94c816e4b02cb368c4fadb', 'short_description': '"Late Show" host\'s gun control tweet goes viral.', 'date': '2018-02-27'}

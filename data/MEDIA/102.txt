@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Twitter CEO Jack Dorsey Calls Out Trump Over 'Thoughts And Prayers' Tweet Following Shooting", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jack-dorsey-donald-trump-thoughts-prayers_us_5ac458d8e4b063ce2e570e18', 'short_description': '"We can\'t keep being reactive to this."', 'date': '2018-04-04'}

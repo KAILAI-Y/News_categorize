@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Scott Baio Facing New Allegations From Another 'Charles In Charge' Costar", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/scott-baio-alexander-polinsky_us_5a7bd72ae4b044b382192e59', 'short_description': 'Baio is accused of verbal attacks, mental abuse and physical assault.', 'date': '2018-02-08'}

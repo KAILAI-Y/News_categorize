@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'How To Be A Good Guy In The Office Without Avoiding Women Altogether', 'authors': 'Brittany Wong', 'link': 'https://www.huffingtonpost.com/entry/how-to-be-a-good-guy-in-the-office-without-avoiding-women-altogether_us_5a204f82e4b037b8ea20b6b5', 'short_description': "Don't worry, it's pretty simple.", 'date': '2017-12-01'}

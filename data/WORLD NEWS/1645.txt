@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "The Untold Story Of The Tiniest Victims Of Yemen's Brutal War", 'authors': 'Rowaida Abdelaziz', 'link': 'https://www.huffingtonpost.com/entry/yemen-war-children-malnutrition_us_59650ec1e4b03f144e2e6445', 'short_description': 'In one remote area, a citizen journalist found a hospital filled with starving children.', 'date': '2017-07-13'}

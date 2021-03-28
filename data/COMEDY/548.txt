@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "New 'Rick And Morty' Short Reminds Us To Be Thankful For What We Have", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/new-rick-and-morty-short-reminds-us-to-be-thankful-for-what-we-have_us_5a19910be4b0cee6c04ff6a2', 'short_description': 'For example, NEW "Rick and Morty" content.', 'date': '2017-11-25'}

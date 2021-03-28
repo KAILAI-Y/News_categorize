@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Young, Vulnerable And Slapped Down', 'authors': 'Jim Moore, ContributorJournalist, audiobook narrator, editor and photojournalist', 'link': 'https://www.huffingtonpost.com/entry/young-vulnerable-and-slapped-down_us_59f52e8fe4b05f0ade1b57d5', 'short_description': "It's shameful, but not unexpected.", 'date': '2017-10-29'}

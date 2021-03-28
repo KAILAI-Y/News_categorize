@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'REPORT: Tillerson Declines To Host Ramadan Event At State Department', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/tillerson-state-ramadan_us_592895dfe4b0df57cbfbc97a', 'short_description': 'The move breaks with a bipartisan tradition in place with few exceptions for nearly 20 years.', 'date': '2017-05-26'}

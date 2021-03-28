@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'How To Navigate The Holidays With Kids With Autism', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/how-to-navigate-the-holidays-with-kids-with-autism_us_5a2938c7e4b03ece030070a5', 'short_description': "Whether you're a parent with a child with autism or hosting a family with one.", 'date': '2017-12-07'}

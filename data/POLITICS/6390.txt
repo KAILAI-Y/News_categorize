@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump And The Geopolitics Of Crazy', 'authors': "John Feffer, ContributorDirector, Foreign Policy In Focus; Author, 'Aftershock: A Jour...", 'link': 'https://www.huffingtonpost.com/entry/trump-north-korea-war_us_599c7428e4b0771ecb07cc8a', 'short_description': "The times they are a-changin' in North Korea.", 'date': '2017-08-22'}

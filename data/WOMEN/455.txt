@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'ACLU Files Lawsuit After Trump Reverses Obama-Era Contraception Mandate', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/contraception-mandate-aclu_us_59d7bcbfe4b0f6eed35018c7', 'short_description': '"The Trump Administration is forcing women to pay for their boss’s religious beliefs.”', 'date': '2017-10-06'}

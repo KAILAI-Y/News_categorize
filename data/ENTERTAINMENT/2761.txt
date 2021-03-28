@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Celeb-Filled Hurricane Harvey Telethon Expands To Include Victims Of Irma', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/beyonc%C3%A9-george-clooney-oprah-team-up-for-hurricane-harvey-telethon_us_59aea60ae4b0354e440c832d', 'short_description': 'The goal is to raise funds and spirits.', 'date': '2017-09-05'}

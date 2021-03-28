@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Mormon President Thomas Monson Dies At 90', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mormon-thomas-monson-dies_us_5a4c9c6be4b06d1621bbd0d7', 'short_description': 'He had presided over the church since 2008.', 'date': '2018-01-03'}

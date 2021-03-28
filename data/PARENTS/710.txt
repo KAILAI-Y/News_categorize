@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "We're Obsessed With These Wonder-ful Kids Clothes From Gap's New Wonder Woman Line", 'authors': 'Emily McCombs', 'link': 'https://www.huffingtonpost.com/entry/gap-kids-wonder-woman-collection_us_59356306e4b0c242ca25c81f', 'short_description': 'Because capes are for girls, too.', 'date': '2017-06-05'}

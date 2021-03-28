@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "We Can't Escape The Reality Of Las Vegas Any Longer", 'authors': 'Cody Lyon, ContributorNYC writer/reporter', 'link': 'https://www.huffingtonpost.com/entry/we-cant-escape-the-reality-of-las-vegas-any-longer_us_59d2ed7de4b03905538d17ed', 'short_description': 'This is a human issue.', 'date': '2017-10-03'}

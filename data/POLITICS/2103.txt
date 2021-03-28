@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Michelle Obama Made A Valentine's Day Playlist For Barack, And It's Perfect", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-valentines-day-playlist-barack-obama_us_5a846549e4b0774f31d15514', 'short_description': 'She titled it "Forever Mine."', 'date': '2018-02-14'}

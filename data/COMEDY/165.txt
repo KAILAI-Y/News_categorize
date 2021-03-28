@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Exposes The Shady World Of Anti-Abortion Activists', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-crisis-pregnancy-centers_us_5acb10a8e4b07a3485e62868', 'short_description': '"Last Week Tonight" reveals how crisis pregnancy centers really operate.', 'date': '2018-04-09'}

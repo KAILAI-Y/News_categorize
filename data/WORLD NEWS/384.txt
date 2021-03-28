@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Poland's President Says He Will Sign Controversial Holocaust Bill Into Law", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/poland-president-sign-holocaust-bill_us_5a799193e4b00f94fe94fd2c', 'short_description': 'It hands down prison sentences to people who connect the country to Nazi Germany.', 'date': '2018-02-06'}

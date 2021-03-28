@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "In Seoul, Confusion And Apathy Surround City's 3,200 Bomb Shelters", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/seoul-bomb-shelters_us_59927081e4b09071f69c2539', 'short_description': '“I am not worried about North Korea. At all," an American retiree in South Korea says.', 'date': '2017-08-15'}

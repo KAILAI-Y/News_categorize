@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Corruption Is Bad', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/government-anti-corruption-oversight_us_5ae8e4ebe4b06748dc8d4b43', 'short_description': 'A new proposal would actually do something about it.', 'date': '2018-05-02'}

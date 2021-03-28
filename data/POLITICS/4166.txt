@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White Supremacy Is Killing American Democracy', 'authors': 'Susan K Smith, ContributorRev. Dr.', 'link': 'https://www.huffingtonpost.com/entry/white-supremacy-is-killing-american-democracy_us_5a0db1e7e4b006a16baf1f9b', 'short_description': 'This administration is disrespecting the basic tenets of American democracy.', 'date': '2017-11-16'}

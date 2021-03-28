@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'News Roundup for October 5, 2017', 'authors': 'Outspeak', 'link': 'https://www.huffingtonpost.com/entry/news-roundup-for-october-5-2017_us_59d65d4ee4b0380b6c9adfa9', 'short_description': 'You need some news? 1. Las Vegas Sheriff Joseph Lombardo believes Stephen Paddock had to have had help, he just doesn’t know', 'date': '2017-10-05'}

@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Here's Where To Get The Best Black Friday Deal On An XBox One", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/black-friday-deals-on-xbox-one_us_5a0cd040e4b0c0b2f2f79b9a', 'short_description': 'For hobbyist gamers, the Xbox One S is a wallet-friendly choice 🎮', 'date': '2017-11-16'}

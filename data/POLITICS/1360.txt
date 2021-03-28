@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What You Need To Know About Cambridge Analytica', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/cambridge-analytica-what-to-know_us_5ab11d7ee4b09a2c75c90931', 'short_description': 'How is it related to President Trump and what does it have to do with Facebook? We’ve got you covered.', 'date': '2018-03-20'}

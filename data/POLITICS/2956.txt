@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Someone Spoofed Michael Wolff's Book About Trump And It's Comedy Gold", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/spoof-extract-michael-wolff-book-donald-trump_us_5a4f2b72e4b003133ec6c19c', 'short_description': '"I\'m laughing so hard because it\'s so plausible."', 'date': '2018-01-05'}

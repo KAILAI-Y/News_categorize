@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Justice Department Drops Felony Charges Against 129 Trump Inauguration Defendants', 'authors': 'Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/j20-felony-charges_us_5a6122b4e4b074ce7a06d638', 'short_description': 'But 59 other #J20 protesters will face trial.', 'date': '2018-01-18'}

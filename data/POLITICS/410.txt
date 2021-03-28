@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "America's Housing Crisis Is Spreading To Smaller Cities", 'authors': 'Michael Hobbes', 'link': 'https://www.huffingtonpost.com/entry/housing-crisis-small-cities-boise_us_5ae878f7e4b055fd7fcfcee0', 'short_description': "The next front in the battle over affordable housing isn't Boston or San Francisco. It's Boise.", 'date': '2018-05-05'}

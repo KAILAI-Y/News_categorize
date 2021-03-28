@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Dishes Dirty Details On Trump's Reported Porn-Star Spanking", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-stormy-trump-spanking_us_5a615ae4e4b074ce7a06f28b', 'short_description': 'Stormy weather for the president.', 'date': '2018-01-19'}

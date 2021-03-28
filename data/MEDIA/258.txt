@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Trump Says He’s The ‘Least Racist Person.’ Anderson Cooper Has A Reality Check.', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/anderson-cooper-trump-racist-comments_us_5a5d718fe4b0fcbc3a12bfe1', 'short_description': "The CNN host uses the president's own words against him.", 'date': '2018-01-16'}

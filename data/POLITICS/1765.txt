@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "House Committee Is Digging Into Ben Carson's Pricey Office Redecoration", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/oversight-committee-ben-carson-expenses_us_5a9738a7e4b09c872bb10564', 'short_description': 'The congressional panel wants the receipts.', 'date': '2018-03-01'}

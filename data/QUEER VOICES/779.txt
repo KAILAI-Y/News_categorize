@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'The 6 Supreme Court Cases LGBTQ People Need To Watch This Term', 'authors': '', 'link': 'https://www.huffingtonpost.comhttps://www.lambdalegal.org/blog/20171002_6-supreme-court-cases-lgbtq-people-need-to-watch', 'short_description': 'Here’s what to look out for.', 'date': '2017-10-03'}

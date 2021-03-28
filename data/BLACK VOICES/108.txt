@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Idris Elba To Get Even Sexier By Showing Off Comedy Chops In New Netflix Series', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/idris-elba-comedy-netflix-series-turn-up-charlie_us_5ad7b359e4b029ebe020a2d1', 'short_description': 'Elba returns to his roots by playing a struggling DJ.', 'date': '2018-04-18'}

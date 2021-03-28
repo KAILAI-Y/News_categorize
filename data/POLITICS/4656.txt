@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Read The Special Counsel's Indictment Against Paul Manafort And Richard Gates", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/manafort-gates-indictment_us_59f7259de4b03cd20b82f2c5', 'short_description': 'They were indicted on 12 counts, including conspiracy to launder money.', 'date': '2017-10-30'}

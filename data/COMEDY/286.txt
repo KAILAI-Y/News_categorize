@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Late Night' Writer's Winter Olympics Roundup Will Make You Say Whaaat?", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/amber-ruffin-winter-olympics_us_5a958927e4b0bef79e3064b8', 'short_description': "You didn't need to watch for two weeks. You just needed Amber Ruffin.", 'date': '2018-02-27'}

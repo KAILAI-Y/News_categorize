@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Giant Animatronic T-Rex Bursts Into Flame Because Even Robots Are Done With 2018', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/t-rex-dinosaur-fire_us_5ab890a0e4b008c9e5f8c5a8', 'short_description': '"Electrical issue" blamed for loss of 24-foot-tall T. rex.', 'date': '2018-03-26'}

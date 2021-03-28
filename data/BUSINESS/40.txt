@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Theranos Founder Elizabeth Holmes Charged With 'Massive Fraud' By SEC", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/elizabeth-holmes-theranos-fraud-sec-charges_us_5aa94df4e4b0600b82ff5b35', 'short_description': 'The biotech company Holmes started was once worth $9 billion.', 'date': '2018-03-14'}

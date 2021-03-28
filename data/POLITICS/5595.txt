@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Colin Kaepernick's Mom Has No Time For Trump Calling Her Son A 'Son Of A Bitch'", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/colin-kaepernick-donald-trump_us_59c67acce4b0cdc77331a0ce', 'short_description': 'Boom.', 'date': '2017-09-23'}

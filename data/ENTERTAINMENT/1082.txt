@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Do Not Come For Michael B. Jordan For Living With His Parents', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/michael-b-jordan-living-with-his-parents_us_5a902b49e4b01e9e56bb0acb', 'short_description': '"Put some respeck on my name."', 'date': '2018-02-23'}

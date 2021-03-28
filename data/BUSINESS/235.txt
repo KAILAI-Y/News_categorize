@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Uber Didn't Tell Its Drivers In Singapore Their Cars Had Been Recalled", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/uber-singapore-recalled-honda-fire_us_59838167e4b08b75dcc5ebc8', 'short_description': 'Then one caught fire.', 'date': '2017-08-03'}

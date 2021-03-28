@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Crashes A Wedding And Finds His Fan Base', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-crashes-a-wedding-and-finds-his-fan-base_us_593e5e7be4b0c5a35ca0fa2b', 'short_description': '"Beautiful bride," he says.', 'date': '2017-06-12'}

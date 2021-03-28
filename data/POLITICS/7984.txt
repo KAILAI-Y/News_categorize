@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "ISIS Is On The Run In Mosul, A Campaign Trump Called 'A Total Disaster'", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/isis-mosul-iraq-trump_us_59550a4fe4b05c37bb7c810c', 'short_description': '"A group of losers," according to Trump, appear to have retaken the Iraqi city.', 'date': '2017-06-29'}

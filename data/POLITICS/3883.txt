@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Top House Dem Says John Conyers Should Resign If Allegations Are 'Founded'", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/john-conyers-resign-sexual-misconduct_us_5a1efb83e4b01edb1a81af5d', 'short_description': '"We all believe in due process, I hope,"  Minority Whip Steny Hoyer (D-Md.) said.', 'date': '2017-11-29'}

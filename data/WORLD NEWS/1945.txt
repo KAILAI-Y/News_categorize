@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Macron Tells May Door Remains Open To Stay In EU', 'authors': 'Michel Rose and Elizabeth Piper, Reuters', 'link': 'https://www.huffingtonpost.com/entry/macron-may-brexit_us_59403e91e4b09ad4fbe3b9c0', 'short_description': 'But he cautioned it would be difficult to walk back once Brexit negotiations start.', 'date': '2017-06-13'}

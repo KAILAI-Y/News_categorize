@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'What To Do If You Feel Traumatized By The Las Vegas Shooting', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/las-vegas-shooting-vicarious-trauma_us_59d247a9e4b06791bb11f718', 'short_description': "Grief and anxiety are totally normal reactions even if you weren't there.", 'date': '2017-10-02'}

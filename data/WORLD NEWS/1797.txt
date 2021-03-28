@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "BTS Proves K-pop's Power With Spot On Time Magazine's Most Influential List", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/bts-k-pop-time-most-influential_us_59514b28e4b0da2c731d7dab', 'short_description': "K-pop is here to stay, y'all.", 'date': '2017-06-26'}

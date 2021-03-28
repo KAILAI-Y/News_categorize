@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Police Suspect 'Serial Bomber' In Deadly Austin Attacks", 'authors': 'Jon Herskovitz, Reuters', 'link': 'https://www.huffingtonpost.com/entry/austin-bombings_us_5aaf29cde4b0337adf851d3e', 'short_description': 'Police say the latest explosion involved a bomb that may have been detonated by a trip wire.', 'date': '2018-03-19'}

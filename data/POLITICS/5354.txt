@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'As Usual, The NRA Goes Into Hiding After A Deadly Mass Shooting', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/nra-las-vegas-shooting_us_59d27683e4b048a44324250b', 'short_description': '"The myth that they’ve been peddling to the American public has the possibility of being exposed."', 'date': '2017-10-02'}

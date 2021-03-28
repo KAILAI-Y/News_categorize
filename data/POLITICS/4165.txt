@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Face Some Last-Minute Doubts On Tax Proposal', 'authors': 'Matt Fuller and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/republicans-tax-last-minute-doubts_us_5a0cca9de4b0b17e5e13d56a', 'short_description': "They'll probably still pass the bill, but they're having a good sweat.", 'date': '2017-11-16'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Steve Bannon Blasts 'Javanka' As Everything Wrong With The White House", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/bannon-blasts-javankaat-white-house_us_5a3efe16e4b0b0e5a7a29a12', 'short_description': 'And the president is "like an 11-year-old child," he tells Vanity Fair.', 'date': '2017-12-24'}

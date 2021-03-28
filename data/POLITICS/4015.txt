@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Tribute To The Most Cringeworthy Turkey Pardon Of All Time, Featuring Sarah Palin', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/sarah-palin-turkey-pardon_us_5a15c1b9e4b09650540f0257', 'short_description': "So bad, it's good.", 'date': '2017-11-23'}

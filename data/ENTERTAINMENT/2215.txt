@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Surprise! Kanye West Performs Live For First Time In Nearly A Year', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/kanye-west-performs-live_us_5a00376ce4b04cdbeb348af5', 'short_description': 'Yeezy brought the house down when he joined Kid Cudi in Chicago.', 'date': '2017-11-06'}

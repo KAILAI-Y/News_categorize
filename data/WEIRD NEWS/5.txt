@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Man Discovers Handgun Impaled In Front Bumper Of Car', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/handgun-impaled-car-bumper_us_5b073b16e4b0fdb2aa51d109', 'short_description': 'The driver kept going after a mysterious object struck his car.', 'date': '2018-05-24'}

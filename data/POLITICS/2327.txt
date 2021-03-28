@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Accuses His Justice Department, FBI Of Favoring Democrats', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-justicej-fbi-democrats_us_5a7450dbe4b06ee97af19d5c', 'short_description': 'Many of them are actually Republicans.', 'date': '2018-02-02'}

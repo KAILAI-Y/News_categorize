@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Colbert Brings Down The House By Using Trump’s Words Against Don Jr.', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-jr-emails_us_5a2a0254e4b069ec48ac2e2b', 'short_description': '"Late Show" host slams the latest claims from the president\'s son.', 'date': '2017-12-08'}

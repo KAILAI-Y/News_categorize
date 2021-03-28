@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s Outsourcing Of War Decision-Making Worries Democrats', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-troop-levels_us_594995fde4b00cdb99cb1879', 'short_description': "But Republicans say they're OK with the Pentagon calling the shots.", 'date': '2017-06-20'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "This Little Girl's Hilarious Message To Santa Is Peak Sibling Rivalry", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/message-santa-brother_us_5a3bb6e9e4b06d1621b237f2', 'short_description': 'Jennifer just won Christmas 😂', 'date': '2017-12-21'}

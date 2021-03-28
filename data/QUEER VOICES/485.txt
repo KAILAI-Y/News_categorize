@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'AIM And The Beauty Of Aimlessness', 'authors': 'INTO, ContributorQueer news and culture. For everyone.', 'link': 'https://www.huffingtonpost.com/entry/aim-and-the-beauty-of-aimlessness_us_5a37edafe4b0e1b4472ae876', 'short_description': 'I learned there were men like me out there and plenty of them.', 'date': '2017-12-18'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'How To Help A Friend With A Substance Use Problem', 'authors': 'Stephanie Hallett', 'link': 'https://www.huffingtonpost.com/entry/how-to-help-friend-substance-use_us_59f9f344e4b0d1cf6e92183d', 'short_description': 'Your support is vital.', 'date': '2017-11-02'}

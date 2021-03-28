@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "18 #MenForChoice On Why They're Standing Up For A Woman's Right To Choose", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/18-menforchoice-on-why-theyre-standing-up-for-a-womans-right-to-choose_us_59ca65aee4b01cc57ff5a544', 'short_description': 'More of this, please.', 'date': '2017-09-26'}

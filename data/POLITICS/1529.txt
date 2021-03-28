@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Viral Photo Of Joe Biden's Chat With A Homeless Man Is Melting Frozen Hearts", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/joe-biden-homeless_us_5aa7522be4b087e5aaed2eed', 'short_description': 'A candid moment with the former vice president.', 'date': '2018-03-13'}

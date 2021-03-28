@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Rep. Maxine Waters Absolutely Shreds Trump's Pitch To Black Voters", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/maxine-waters-donald-trump-black-voters_us_5982505ee4b06d488874267f', 'short_description': 'He asked. She answered.', 'date': '2017-08-02'}

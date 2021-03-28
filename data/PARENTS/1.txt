@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "These Were The Trendiest Baby Names In The Late '80s", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/these-were-the-trendiest-baby-names-in-the-late-80s_us_5a45305fe4b025f99e1a4f9e', 'short_description': 'Shout out to the Jessicas and Ambers of the world.', 'date': '2018-01-31'}

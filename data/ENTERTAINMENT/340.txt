@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Lea Michele Announces Engagement To Boyfriend Zandy Reich', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/lea-michele-engaged-zandy-reich_us_5ae4d898e4b04aa23f23949b', 'short_description': "We're sure the couple is feeling ~*gleeful*~.", 'date': '2018-04-28'}

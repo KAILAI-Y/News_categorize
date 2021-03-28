@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Brazilian Tennis Player Pulls Racist Eye Gesture At Line Judge In Japan', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tennis-guilherme-clezar-racist-gesture-japan_us_59bd15f4e4b02da0e1424808', 'short_description': 'The International Tennis Federation has fined Guilherme Clezar over the incident.', 'date': '2017-09-16'}

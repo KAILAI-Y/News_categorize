@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': '9-Hour Rainbow Shines Its Way Into The Record Books', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/taiwan-nine-hour-rainbow_us_5aabfb05e4b0c33361b02ff2', 'short_description': 'Color them impressed.', 'date': '2018-03-16'}

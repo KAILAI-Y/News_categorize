@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Melania Trump Mocked For 'Teach Kids To Be Responsible Digital Citizens' Tweet", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/melania-trump-cyberbullying-tweet-reaction_us_5ab20b52e4b0decad0454739', 'short_description': '"You always tweet as though you\'ve never met your husband."', 'date': '2018-03-21'}

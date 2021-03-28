@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Pentagon: North Korean ICBM Was Type Of Missile 'Not Seen Before'", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/north-korea-icbm-pentagon_us_595d1341e4b05c37bb81814e', 'short_description': 'A Pentagon spokesman said the Pyongyang had fired a new type of missile.', 'date': '2017-07-05'}

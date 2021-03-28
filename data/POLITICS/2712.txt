@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tweeters Ridicule Donald Trump Over 'Uninspired' New Nickname For Political Rival", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-nickname-dicky-durbin-mocked_us_5a5db77ee4b03c4189687177', 'short_description': '"I bet he can\'t wait for 6th grade to start."', 'date': '2018-01-16'}

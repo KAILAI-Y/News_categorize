@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "MLK's Funeral: Rare Photos", 'authors': 'FOTO, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/mlks-funeral-rare-photos_us_5abe4882e4b0f8e848433755', 'short_description': 'Andrew Young was the executive director of the Southern Christian Leadership Conference (SCLC); marched in (and was arrested', 'date': '2018-04-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mitch McConnell Says Government Shutdown Over Dreamers Would Be 'Ridiculous'", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mcconnell-shutdown-ridiculous_us_5a245ef7e4b03350e0b78167', 'short_description': '“There’s not going to be a government shutdown."', 'date': '2017-12-03'}

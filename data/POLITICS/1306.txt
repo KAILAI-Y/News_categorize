@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Billionaire Democrat Wins Illinois Gubernatorial Nomination', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/jb-pritzker-democratic-illinois-governor-primary_us_5ab181ebe4b008c9e5f255e6', 'short_description': "J.B. Pritzker has a big bank account -- and he's gonna need it.", 'date': '2018-03-21'}

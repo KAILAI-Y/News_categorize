@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "The Duchess Of Cambridge's Black Lace Dress Is Clearly Part Of A Pattern", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/kate-middleton-black-lace-dress_us_5a020f6ee4b04e96f0c5fa92', 'short_description': 'Talk about playing favorites.', 'date': '2017-11-07'}

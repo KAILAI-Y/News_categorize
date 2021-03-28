@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Uncontacted Tribe Allegedly Killed By Gold Miners In Brazil', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/uncontacted-tribe-massacre_us_59b61a37e4b0354e4412bdf7', 'short_description': 'The miners reportedly bragged about the slaughter.', 'date': '2017-09-11'}

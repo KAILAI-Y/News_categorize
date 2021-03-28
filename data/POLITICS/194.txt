@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Panel Releases Details From Its Trump Tower Meeting Probe', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-tower-meeting-transcripts_us_5afc31ffe4b0a59b4dff6b58', 'short_description': 'Among the information released was an interview with Donald Trump, Jr.', 'date': '2018-05-16'}

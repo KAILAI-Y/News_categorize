@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'There Was A Fancy Masquerade Ball For Dogs And It Did Not Disappoint', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/bark-ball-masquerade-fundraiser_us_5946b5ade4b0f15cd5bc29e8', 'short_description': 'These dogs know a good ball when they see one.', 'date': '2017-06-18'}

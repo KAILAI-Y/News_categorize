@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "Here's How To Celebrate The Halloween Season Like An Actual Witch", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/samhain-halloween_us_59d571cfe4b0380b6c9a239d', 'short_description': "It's called Samhain, and it's coming to smash the patriarchy.", 'date': '2017-10-06'}

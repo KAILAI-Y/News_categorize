@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Woman Arrested After Raunchy Come-On To Easter Bunny', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/woman-lewd-come-on-to-easter-bunny_us_5abbcdabe4b04a59a313c0e4', 'short_description': 'A disapproving witness reported "lewd acts" on the costumed creature, police said.', 'date': '2018-03-28'}

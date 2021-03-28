@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Harvard Rescinds Invitation To Chelsea Manning To Be Visiting Fellow', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/chelsea-manning-harvard-visiting-fellow_us_59bb6d51e4b0edff971ad4db', 'short_description': '"I now think that designating Chelsea Manning as a Visiting Fellow was a mistake."', 'date': '2017-09-15'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Hello, It Is I, The Man Who Blew Every Last Cent Of His Fortune On Booze, Women And Movies', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/booze-women-movies_us_5a25ca7ae4b086e4e503d75c', 'short_description': "I could've explained it all to Sen. Chuck Grassley if he'd just called.", 'date': '2017-12-05'}

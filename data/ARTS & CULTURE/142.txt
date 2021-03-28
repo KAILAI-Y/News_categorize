@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Hear Janet Mock Read A Passage About 'Selling A Girlfriend Experience' As A Stripper", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/janet-mock-surpassing-certainty-clip_us_59415f93e4b003d5948caed3', 'short_description': 'It\'s from her new book, "Surpassing Certainty."', 'date': '2017-06-14'}

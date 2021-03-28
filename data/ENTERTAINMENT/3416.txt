@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Trump 'SNL' Season Led Kate McKinnon To Smash A Wall With A Hammer", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/kate-mckinnon-hammer-donald-trump_us_593bf7d7e4b0b13f2c6aecd6', 'short_description': 'Specifically, it was a wall in the "Saturday Night Live" office.', 'date': '2017-06-10'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Avengers' Cast Has A 'Brady Bunch' Singalong And It's A Marvel", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/avengers-brady-bunch-marvel-bunch_us_5ae1b35ce4b055fd7fc8bbea', 'short_description': 'The clever parody hilariously summed up their heroic history.', 'date': '2018-04-26'}

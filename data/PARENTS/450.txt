@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "This Comedian's Parenting Tweets Are LOL-Worthy", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/this-comedians-parenting-tweets-are-lol-worthy_us_598d2872e4b0909642960da2', 'short_description': 'Michael Ian Black does not hold back.', 'date': '2017-08-11'}

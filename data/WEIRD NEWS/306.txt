@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Charles Barkley Says 'There Is No Such Thing As A Vegetarian'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/charles-barkley-vegetarian-comment_us_59fc987ce4b0415a420b8912', 'short_description': 'What a meathead.', 'date': '2017-11-03'}

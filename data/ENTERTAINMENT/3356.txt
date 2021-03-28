@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Seth Meyers Rips Trump's Team For Making Us Question Our Sanity", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-rips-trumps-team-for-making-us-question-our-sanity_us_5949121ce4b07499199e774d', 'short_description': "Does anyone know what's going on?", 'date': '2017-06-20'}

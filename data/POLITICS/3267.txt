@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'America In Retreat', 'authors': 'Richard North Patterson, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/america-in-retreat_us_5a390ed9e4b0cebf48e9f757', 'short_description': "Trump's foreign policy is a travesty.", 'date': '2017-12-19'}

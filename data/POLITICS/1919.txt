@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'NRA Chief Wayne LaPierre: FBI, Elitism To Blame For School Shootings', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/wayne-lapierre-cpac-speech-school-shootings_us_5a8ef95ee4b005bb0fef501e', 'short_description': 'Democrats are trying to “eradicate all individual freedoms,” he said.', 'date': '2018-02-22'}

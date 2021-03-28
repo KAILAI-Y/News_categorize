@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '38 Women Accuse Director James Toback Of Sexual Misconduct', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/james-toback-sexual-misconduct_us_59eca60ae4b00f08619f790d', 'short_description': "Toback's alleged predatory behavior was known in Hollywood for years.", 'date': '2017-10-22'}

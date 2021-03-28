@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Absolut's New Campaign Shines A Light On Queer Struggles Around The World", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/absolut-kiss-with-pride_us_597f9ee6e4b00bb8ff38cf6b', 'short_description': '"Kiss With Pride" highlights couples from nations where same-sex love is illegal.', 'date': '2017-08-01'}

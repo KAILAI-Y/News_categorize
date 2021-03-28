@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Here's Why Flying The Rainbow Flag At Sports Events Is Necessary", 'authors': 'Katelyn Best, Outsports', 'link': 'https://www.huffingtonpost.com/entry/outsports-flying-rainbow-flag_us_5978c950e4b0e201d57a83aa', 'short_description': 'How one queer journalist and fan found belonging in soccer.', 'date': '2017-07-28'}

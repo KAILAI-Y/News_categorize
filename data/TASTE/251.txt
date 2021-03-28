@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'This Chicago Joint Serves Barbecue With A Side Of Bacon Candy', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/this-chicago-joint-serves-barbecue-with-a-side-of-bacon-candy_us_59651553e4b03f144e2e7ce9', 'short_description': 'Memphis-style ‘cue isn’t the only thing on the menu at Honky Tonk BBQ.', 'date': '2017-07-11'}

@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Fired Google Engineer Blames Diversity Zealots For His Dismissal', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/james-damore-fired-google-engineer-diversity_us_598e138de4b0909642970bcf', 'short_description': 'James Damore\'s Wall Street Journal essay decries "public shaming."', 'date': '2017-08-11'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Ex-Trump Spokeswoman Tells Fox News That Slavery Is 'Good' History", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/katrina-pierson-slavery-good-history_us_599af2e8e4b0e8cc855f000b', 'short_description': "Katrina Pierson's comment did not go over well with Wendy Osefo.", 'date': '2017-08-21'}

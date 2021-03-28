@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Ranks Himself Just Behind Lincoln. Seriously.', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/trump-lincoln-presidential_us_597803ace4b0e201d5797384', 'short_description': '"Hey look ― great schools, smart guy ― it’s so easy to act presidential."', 'date': '2017-07-26'}

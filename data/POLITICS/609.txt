@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Preps Spending Cuts Bill That Could Set Up Another Shutdown Standoff', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/white-house-spending-cuts-rescissions_us_5ae0c89be4b04aa23f1ea9df', 'short_description': 'Good plan, guys.', 'date': '2018-04-25'}

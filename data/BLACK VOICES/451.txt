@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Cardi B's 'Bodak Yellow' Brings NYC Commuters Together For Massive Subway Party", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/cardi-b-bodak-yellow-subway-party_us_5a25a855e4b03c44072fa9af', 'short_description': '#MoneyMoves 💸', 'date': '2017-12-04'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "These Kids' Portraits Of The Trump Administration Should Hang In A Gallery", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-kid-pictures-fallon_us_5aeae321e4b06748dc90029f', 'short_description': 'Jim Carrey best watch out.', 'date': '2018-05-03'}

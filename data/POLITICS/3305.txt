@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mike Pence Delays Egypt, Israel Trip Due To Tax Vote', 'authors': 'Jeff Mason, Reuters', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-delays-trip_us_5a3845c5e4b0c65287abb616', 'short_description': 'The trip will be rescheduled for the week of Jan. 14.', 'date': '2017-12-18'}

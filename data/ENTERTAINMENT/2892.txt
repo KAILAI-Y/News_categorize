@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'James Corden Delivers Powerful, Heartfelt Message On The Tragedy In Barcelona', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/james-corden-delivers-heartfelt-message-to-barcelona_us_5996db76e4b0e8cc855d1966', 'short_description': 'The late-night host urged people not to become numb.', 'date': '2017-08-18'}

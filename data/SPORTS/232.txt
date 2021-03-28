@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Figure Skater Mirai Nagasu Becomes First U.S. Woman To Land Triple Axel At Olympics', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/mirai-nagasu-triple-axel-olympics_us_5a8102d8e4b0c6726e14b9e4', 'short_description': 'Nailed it!', 'date': '2018-02-12'}

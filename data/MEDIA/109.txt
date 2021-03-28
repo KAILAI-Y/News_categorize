@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Sinclair Broadcasting Orders Local Anchors To Record Bizarre 'Hostage' Video", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sinclair-anchors-script_us_5ac18d08e4b055e50acea0b6', 'short_description': 'Supercut shows broadcasters across the nation reading the same script.', 'date': '2018-04-02'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Eavesdrops On Donald Trump's Inner Voice Of Self-Doubt", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-voice-back-of-head_us_5a684921e4b0e5630074cf01', 'short_description': '"Mike Pence looks a lot more like a president than you do."', 'date': '2018-01-24'}

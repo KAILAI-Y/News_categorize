@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Photos Record A Historic Day As Catalonia Declares Independence From Spain', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/catalonia-independence-photos_us_59f36fd2e4b03cd20b815dd2', 'short_description': 'Spain is already fighting back.', 'date': '2017-10-27'}

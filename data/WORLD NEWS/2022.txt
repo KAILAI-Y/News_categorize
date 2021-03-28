@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Trudeau Reaffirms Climate Change Fight Will Go On Despite Trump', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/justin-trudeau-kayak-climate-change_us_5935d76ce4b0099e7fae8c0d', 'short_description': '"Around the world, nearly every country is on our side."', 'date': '2017-06-05'}

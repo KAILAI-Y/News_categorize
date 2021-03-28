@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'MMA Fighter Does Front Flip Off Knocked-Out Opponent, Gets Disqualified', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/mma-fighter-back-flip-dq_us_5ab8ee7de4b0decad04c0b5c', 'short_description': '"My mother has to see that," an ashamed Drew Chatman said.', 'date': '2018-03-26'}

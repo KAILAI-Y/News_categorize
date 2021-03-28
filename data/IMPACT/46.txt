@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Where Zika Came From', 'authors': 'Peter Martell, On Assignment For HuffPost', 'link': 'https://www.huffingtonpost.com/entry/where-zika-came-from_us_5a662996e4b0dc592a0b6bd1', 'short_description': 'Early cases of the virus were different from those today.', 'date': '2018-03-06'}

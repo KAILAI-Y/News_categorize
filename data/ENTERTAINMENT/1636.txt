@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Winona Ryder Deserves A Golden Globe For This L'Oreal Commerical", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/winona-ryder-deserves-a-golden-globe-for-this-loreal-commerical_us_5a52d026e4b003133ec9461a', 'short_description': 'Winona forever.', 'date': '2018-01-08'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Turns Out That Carrie Fisher Wrote Some Of Her Best Lines In 'The Last Jedi'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/carrie-fisher-wrote-some-last-jedi-lines_us_5a3e6ff5e4b025f99e1768b7', 'short_description': 'Not surprising, because she was awesome.', 'date': '2017-12-23'}

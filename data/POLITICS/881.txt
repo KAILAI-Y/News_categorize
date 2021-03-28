@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Ryan Is Retiring. His House Seat Is Up For Grabs.', 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-retiring-house-race_us_5ace3168e4b0701783aa72ce', 'short_description': 'The candidate with the most money in the Wisconsin congressional race is now Democrat Randy Bryce. 👀', 'date': '2018-04-11'}

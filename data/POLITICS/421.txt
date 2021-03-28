@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '1 Year After Obamacare Repeal Vote, GOP Has Largely Dropped The Cause', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/obama-repeal-ads_us_5aeb5310e4b041fd2d2459ab', 'short_description': 'Republicans are running far fewer ads mentioning Obamacare than they have in the past.', 'date': '2018-05-04'}

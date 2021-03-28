@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "NBC's 'The Office' Could Return To The Prime Time Grind: Reports", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/nbcs-the-office-return_us_5a394094e4b0fc99878f0f13', 'short_description': 'But the reboot would be missing at least one key element.', 'date': '2017-12-19'}

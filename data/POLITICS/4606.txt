@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Scott Pruitt: Trump With Manners', 'authors': 'Keith Gaby, ContributorSenior Comms Dir (Climate/Health), Environmental Defense Fund ...', 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-trump-with-manners_us_59f89496e4b094db8e76f8ae', 'short_description': 'Pruittism is a more gentlemanly form of Trumpism.', 'date': '2017-10-31'}

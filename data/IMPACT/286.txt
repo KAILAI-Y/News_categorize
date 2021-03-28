@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'To All The Kids Without A School', 'authors': 'Amy Aves Challenger, ContributorWriter, artist, mom', 'link': 'https://www.huffingtonpost.com/entry/to-all-the-kids-without-a-school_us_5948fe22e4b04d8767077b83', 'short_description': 'We keep forgetting that you exist.', 'date': '2017-06-20'}

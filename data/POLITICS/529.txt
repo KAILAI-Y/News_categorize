@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Eric Trump ‘Liked’ Michelle Wolf’s Blistering Cracks About Sarah Huckabee Sanders', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/eric-trump-michelle-wolf-sarah-huckabee-sanders_us_5ae69330e4b02baed1bb6c31', 'short_description': 'Whoops!', 'date': '2018-04-30'}

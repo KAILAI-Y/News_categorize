@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Festering Disarray Greets Donald Trump As He Visits Puerto Rico', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/puerto-rico-donald-trump_us_59d380b7e4b0655781556519', 'short_description': 'Huge numbers of people in Puerto Rico and the U.S. Virgin Islands are still without power.', 'date': '2017-10-03'}

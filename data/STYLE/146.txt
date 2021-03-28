@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Pimple Nail Art: Deeply Disturbing Or Oddly Satisfying?', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/pimple-nail-art_us_59f9e0d9e4b00c6145e32224', 'short_description': 'Make it stop. Keep it going.', 'date': '2017-11-01'}

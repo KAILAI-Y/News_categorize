@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'British PM Strikes Deal With Northern Ireland Party To Prop Up Her Minority Government', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/teresa-may-northern-ireland-party-deal_us_5950e4fde4b0da2c731cb2c9', 'short_description': 'The details of the deal were not immediately released.', 'date': '2017-06-26'}

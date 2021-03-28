@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Boko Haram Claims Major Attack On Key Northeast Nigerian City', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/boko-haram-major-attack_us_593c7ac1e4b0c5a35ca020c8', 'short_description': 'The attack on Nigeria’s northeastern city of Maiduguri on Wednesday night killed at least 14 people.', 'date': '2017-06-10'}

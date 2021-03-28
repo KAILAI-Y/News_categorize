@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Real Health Care Fixes', 'authors': 'Michael Hodin, ContributorCEO, Global Coalition on Aging', 'link': 'https://www.huffingtonpost.com/entry/real-healthcare-fixes_us_597b34e7e4b06b305561cfb0', 'short_description': 'An emphasis is being made on healthy aging.', 'date': '2017-07-28'}

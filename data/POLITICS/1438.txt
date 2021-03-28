@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nikki Haley Condemns Russia Over Spy Poisoning, Urges UN Action', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/nikki-haley-russia-spy-poisoning_us_5aaa0ba7e4b0600b830012f3', 'short_description': "Trump's government finally calls out Russia, but the president himself is keeping quiet.", 'date': '2018-03-15'}

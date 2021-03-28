@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Pippa Middleton's Father-In-Law Investigated For Alleged Child Rape", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/pippa-middleton-fatherinlaw-minor-rape_us_5abef913e4b055e50acdbcf6', 'short_description': 'David Matthews was detained and questioned in France.', 'date': '2018-03-31'}

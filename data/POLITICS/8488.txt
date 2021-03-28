@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'In First, White Person Not Eager To Talk About Mayflower', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/in-first-white-person-not-eager-to-talk-about-mayflower_us_59405533e4b0d31854859aac', 'short_description': 'This is fine', 'date': '2017-06-13'}

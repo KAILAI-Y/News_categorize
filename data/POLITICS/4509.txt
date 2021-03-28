@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Man Found Guilty Of First-Degree Murder In Death Of Gender-Fluid Teen', 'authors': 'Dana Liebelson', 'link': 'https://www.huffingtonpost.com/entry/kedarie-johnson-murder-verdict_us_59fcc6dbe4b0baea2631b0a4', 'short_description': 'The case had attracted the attention of the U.S. Department of Justice.', 'date': '2017-11-03'}

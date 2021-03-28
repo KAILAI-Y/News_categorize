@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Commerce Secretary Wilbur Ross Failed To Disclose Ties To Vladimir Putin', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/wilbur-ross-russia-putin_us_59ff5495e4b04cdbeb33f901', 'short_description': "The Trump Cabinet member shares business interests with the Russian president's son-in-law.", 'date': '2017-11-05'}

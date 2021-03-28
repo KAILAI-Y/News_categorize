@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hawaii Governor Assigns General To Review Botched Missile Alert', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/hawaii-governor-missile-alert_us_5a5d72b8e4b04f3c55a53629', 'short_description': 'The probe will provide a report for improving preparedness within 60 days.', 'date': '2018-01-16'}

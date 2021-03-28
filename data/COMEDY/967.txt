@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Suggests The Perfect Place For Donald Trump To Testify Under Oath', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-testify-under-oath_us_593ba5f4e4b0c5a35c9fd86d', 'short_description': 'It\'s "to make sure Trump is honest," says Colbert.', 'date': '2017-06-10'}

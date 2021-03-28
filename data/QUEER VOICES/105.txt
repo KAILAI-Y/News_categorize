@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "China's Version Of Twitter Reverses Gay Content Ban After Backlash", 'authors': 'Christian Shepherd, Reuters', 'link': 'https://www.huffingtonpost.com/entry/china-sina-weibo-lgbtq_us_5ad4b306e4b0edca2cbc3ad7', 'short_description': 'Sina Weibo\'s new "clean-up" measures will no longer include LGBTQ content.', 'date': '2018-04-16'}

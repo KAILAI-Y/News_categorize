@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Parkland Shooting Survivor Calls Out Lawmakers In Chilling NRA-Style Ad', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/parkland-shooting-survivor-nra-style-ad_us_5aacce18e4b0337adf83f531', 'short_description': '“What if our politicians weren’t the b***h of the NRA?"', 'date': '2018-03-17'}

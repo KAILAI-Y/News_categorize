@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': '6 Beach Safety Tips Lifeguards Swear By', 'authors': 'Stephanie Hallett', 'link': 'https://www.huffingtonpost.com/entry/beach-safety-lifeguard-tips_us_5952a43de4b05c37bb79f440', 'short_description': "Know your limits, know your surroundings -- and don't underestimate nature.", 'date': '2017-06-28'}

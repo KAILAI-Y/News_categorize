@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Concedes He's 'Not At All Presidential' As He Slams Michael Moore Play", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-michael-moore-play_us_59f55635e4b07fdc5fbe9456', 'short_description': 'Your presidency is a "total bomb," Moore tweets back.', 'date': '2017-10-29'}

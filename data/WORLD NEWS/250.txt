@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Myanmar Steps Up Campaign Against Rohingya By Bulldozing Villages: Report', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/myanmar-bulldozing-rohingya-villages_us_5aa67a05e4b01b9b0a3d3a1c', 'short_description': 'And the government is building military bases and new villages in their place.', 'date': '2018-03-12'}

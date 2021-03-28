@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "A Photo Of Reese Witherspoon With Emilia Clarke Is Blowing Fans' Minds", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reese-witherspoon-emilia-clarke-critics-choice-awards_us_5a59d1aee4b03c418965c7b8', 'short_description': '"I WILL NEVER STOP TALKING ABOUT THIS."', 'date': '2018-01-13'}

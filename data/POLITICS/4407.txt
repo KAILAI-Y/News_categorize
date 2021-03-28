@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's How People Say Their Lives Have Changed (Or Not) Since The 2016 Election", 'authors': 'Marc Janks', 'link': 'https://www.huffingtonpost.com/entry/how-lives-changed-since-2016-election_us_5a020e19e4b06ff32c93fb77', 'short_description': 'Listen to Americans tell their own stories.', 'date': '2017-11-08'}

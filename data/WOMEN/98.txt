@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5aaae73fe4b05b2217fd5789', 'short_description': '"I just worked out where is my award please"', 'date': '2018-03-16'}

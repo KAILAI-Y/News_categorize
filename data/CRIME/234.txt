@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Filipina Model Says Woman Punched Her In Garage, Called Her ‘Chinky Eyes’', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/quiggle-ignacio-parking-garage-attack_us_5a05e457e4b01d21c83e5767', 'short_description': '"When something like this happens it breaks your confidence," the victim said.', 'date': '2017-11-10'}

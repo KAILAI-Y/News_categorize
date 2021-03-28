@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '22 Million More Uninsured Under Senate GOP Health Care Bill, CBO Reports', 'authors': 'Jeffrey Young and Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/senate-health-care-bill-cbo_us_59512a7de4b0da2c731d398e', 'short_description': 'Senate Republicans want to pass this legislation this week.', 'date': '2017-06-26'}

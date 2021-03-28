@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Twitter Gives Trump's Chief Strategist A Proper Send-Off With #BannonFilms", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-gives-trumps-chief-strategist-a-proper-send-off-with-bannonfilms_us_599c7ccae4b06a788a2c7f57', 'short_description': '"Hate Actually."', 'date': '2017-08-22'}

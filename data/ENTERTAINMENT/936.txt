@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Only Good Part Of The Oscars Was Its Blackest: Tiffany Haddish And Maya Rudolph', 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/oscars-best-tiffany-haddish-maya-rudolph_us_5a9cce68e4b0a0ba4ad50db3', 'short_description': 'Also, a lesson in "diversity."', 'date': '2018-03-05'}

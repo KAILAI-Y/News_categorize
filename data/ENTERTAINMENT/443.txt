@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift Stalker Breaks Into Singer's Home, Takes Nap", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-stalker-breaks-into-singers-home-and-takes-a-nap_us_5adb6362e4b009869bf9d6ea', 'short_description': 'Fortunately, the singer was not home at the time.', 'date': '2018-04-21'}

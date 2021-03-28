@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Dave Grohl Wants To Apologize To The World For ‘Massive Jerk’ Trump', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/dave-grohl-donald-trump_us_5b04e3d7e4b07c4ea10304be', 'short_description': "The Foo Fighters star said he's ashamed of the president.", 'date': '2018-05-23'}

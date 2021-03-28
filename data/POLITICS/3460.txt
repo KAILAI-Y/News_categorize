@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Minnesota To Replace Al Franken With Lt. Gov. Tina Smith', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/tina-smith-franken-replacement_us_5a290ed6e4b03ece030036ef', 'short_description': 'The state will be represented by two female senators.', 'date': '2017-12-13'}

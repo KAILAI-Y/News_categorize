@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel's Fake Olympics Is Getting Too Painful To Watch", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-fake-olympics_us_5a8e8eefe4b0161d4318cbcd', 'short_description': '"He\'ll need to put some ice on that."', 'date': '2018-02-22'}

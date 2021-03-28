@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'How To Turn Any Vegetable Into Rice', 'authors': 'Epicurious, ContributorEpicurious', 'link': 'https://www.huffingtonpost.com/entry/how-to-turn-any-vegetable-into-rice_us_596519bce4b09be68c0055b6', 'short_description': 'With this technique, the world is your grain-free oyster.', 'date': '2017-07-11'}

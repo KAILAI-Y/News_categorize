@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'A Wolf In Hollywood', 'authors': 'Debra A. Smith, ContributorDebra Smith is a lawyer and writer who writes about popular cu...', 'link': 'https://www.huffingtonpost.com/entry/a-wolf-in-hollywood_us_59e50683e4b04e9111a3e3f9', 'short_description': 'The real heroes of this story are the women who came forward.', 'date': '2017-10-17'}

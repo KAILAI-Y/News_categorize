@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Lois Lane Finally Gets Her Own TV Series', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/lois-lane-tv-series_us_5a71d634e4b0ae29f08cdecb', 'short_description': 'The comic book love interest of Superman will be the star of DC Comics’ “Metropolis.”', 'date': '2018-01-31'}

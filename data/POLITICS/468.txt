@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'This Week Was A Great Reminder That Trump Is A Huge Liar', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-liar_us_5aeb188be4b0ab5c3d629635', 'short_description': 'What fresh hell will next week bring?', 'date': '2018-05-03'}

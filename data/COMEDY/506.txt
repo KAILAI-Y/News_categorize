@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Samantha Bee Shreds 'S****y Media Men’ And Their Treatment Of Hillary Clinton", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-men-media-hillary-clinton_us_5a28ef02e4b0fa7986121362', 'short_description': '“We’ll never know how much these pubes affected the election."', 'date': '2017-12-07'}

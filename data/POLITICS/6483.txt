@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Naiveté Is No Excuse For Racism', 'authors': 'Kayla Chadwick, ContributorVideo Editor', 'link': 'https://www.huffingtonpost.com/entry/naivet%C3%A9-is-no-excuse_us_5994e7e4e4b00dd984e37c46', 'short_description': 'As an adult, it is your responsibility to seek information to fill those egregious gaps in your knowledge.', 'date': '2017-08-18'}

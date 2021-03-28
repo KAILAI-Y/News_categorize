@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Rewrite Portions Of Tax Bill Hours Before Vote', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/republicans-rewrite-tax-bill_us_5a20b157e4b03c44072c65ed', 'short_description': 'Problems with a tax increase "trigger" cause an eleventh-hour scramble.', 'date': '2017-12-01'}

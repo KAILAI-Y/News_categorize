@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: Trump Plays To His Base In Divisive Arizona Rally", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-trump-plays-to-his-base-in-divisive-arizona-rally_us_599d5f12e4b0d97c40003f1d', 'short_description': "And suggests he'll pardon Joe Arpaio.", 'date': '2017-08-23'}

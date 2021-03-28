@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Psychologists Explain How To Deal With The Nightmare That Is Thanksgiving Dinner', 'authors': 'Kristen Aiken', 'link': 'https://www.huffingtonpost.com/entry/psychologists-thanksgiving-dinner-stress_us_59ee86b1e4b03535fa937e9c', 'short_description': "It doesn't have to be this way.", 'date': '2017-11-15'}

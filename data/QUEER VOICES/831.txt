@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Gay Athlete Raising Money To Fight Suicide After His Best Friend’s Death', 'authors': 'Jim Buzinski, Outsports', 'link': 'https://www.huffingtonpost.com/entry/gay-athlete-raising-money_us_59bc2d27e4b02da0e141f1e5', 'short_description': 'Josh Velasquez has dealt first-hand with depression, suicidal thoughts.', 'date': '2017-09-15'}

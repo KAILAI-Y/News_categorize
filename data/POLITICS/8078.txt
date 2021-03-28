@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congress: Preserve Our Children’s Health', 'authors': 'Kevin M. Ryan, ContributorPresident and CEO, Covenant House', 'link': 'https://www.huffingtonpost.com/entry/congress-preserve-our-childrens-health_us_59525f5be4b0c85b96c65c9a', 'short_description': 'I beg our leaders in Washington: Do not go backward.', 'date': '2017-06-27'}

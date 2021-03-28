@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congresswoman Moves To Protect Senate Pages From Accused Molester Roy Moore', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-senate-pages-gwen-moore_us_5a2eb4ffe4b0ce3b344473df', 'short_description': "Rep. Gwen Moore is worried about the Senate's teenage interns if he wins election.", 'date': '2017-12-11'}

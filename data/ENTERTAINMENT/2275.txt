@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Bryan Cranston Tells People Who Want Donald Trump To Fail: ‘F**k You’', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bryan-cranston-donald-trump_us_59f83594e4b09b5c2568be65', 'short_description': '"Why would you want that? So you can be right?"', 'date': '2017-10-31'}

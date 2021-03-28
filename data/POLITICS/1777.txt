@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Dozen Democrats Want To Help Banks Hide Racial Discrimination In Mortgages', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/democrats-banks-racial-discrimination_us_5a96e489e4b0e6a523042fc8', 'short_description': 'These senators are finding common ground with President Trump.', 'date': '2018-03-01'}

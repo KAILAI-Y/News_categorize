@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Woman Plunges 6 Feet Down Open New Jersey Cellar', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/texting-woman-stair-tumble_us_593a35a7e4b0c5a35c9e0e67', 'short_description': 'The 67-year-old sustained serious injuries after flipping over an open access door.', 'date': '2017-06-09'}

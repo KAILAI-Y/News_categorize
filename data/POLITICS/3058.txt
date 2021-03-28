@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Could The U.S. Pass The EU’s Democracy Test?', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/could-the-us-pass-the-eus-democracy-test_us_5a498384e4b0b0e5a7a78195', 'short_description': 'The EU’s basic treaty requires its members first and foremost to be democracies.', 'date': '2018-01-01'}

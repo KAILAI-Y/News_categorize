@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'These Are The Real People Who Follow The Jedi Religion', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/american-jedi-documentary_us_5a355dfae4b01d429cc943c2', 'short_description': '"American Jedi" documents a universal path of pain, growth and redemption.', 'date': '2017-12-17'}

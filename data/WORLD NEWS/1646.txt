@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'The Battle For Mosul Is Coming To An End. Now What?', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/iraq-battle-for-mosul-what-comes-next_us_5964f81be4b09b587d624e30', 'short_description': 'Iraq faces a long, challenging road toward reconstruction and reconciliation.', 'date': '2017-07-13'}

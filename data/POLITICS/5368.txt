@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "One Photo Stands Out After Trump Says Puerto Rico Wants 'Everything Done For Them'", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/trump-puerto-rico-everything-done-for-them-mar-a-lago_us_59d031c0e4b05f005d34a6dd', 'short_description': 'This writer served Trump some ice cold tea.', 'date': '2017-10-01'}

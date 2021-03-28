@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Roy Moore Accuser Describes How He 'Seduced' Her When She Was 14", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/leigh-corfman-roy-moore_us_5a12ce49e4b0e97dffee8556', 'short_description': '"He touched me under my clothing and he tried to get me to touch him as well," Leigh Corfman said.', 'date': '2017-11-20'}

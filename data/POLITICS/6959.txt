@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Leave Town With Nothing To Show', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/gop-leaves-nothing-to-show_us_598379dde4b08b75dcc5e397', 'short_description': "The GOP's failure to pass any major legislative priorities has imperiled the Trump administration's agenda.", 'date': '2017-08-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'San Francisco Mayor Ed Lee Dies At 65', 'authors': "Alana Horowitz Satlin and Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/ed-lee-dead-san-fransisco-mayor_us_5a2fb200e4b01598ac47c653', 'short_description': 'Lee was the city’s first Asian-American mayor.', 'date': '2017-12-12'}

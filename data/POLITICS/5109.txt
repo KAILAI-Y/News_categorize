@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's The Mugshot Of Rep. Greg Gianforte That He Really, Really Didn't Want You To See", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/greg-gianforte-mug-shot_us_59de7fb3e4b0fdad73b1cd4a', 'short_description': 'The congressman was convicted in June of assaulting a reporter.', 'date': '2017-10-11'}

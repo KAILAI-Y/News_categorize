@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Grateful Dead Lyricist, Internet Pioneer John Perry Barlow Dead At 70', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-perry-barlow-dead_us_5a7beda5e4b08dfc92fff7c7', 'short_description': '"The world lost a true hero today, a Renaissance man who was a relentless warrior for our freedom."', 'date': '2018-02-08'}

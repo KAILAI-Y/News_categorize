@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mariah Carey's Fans Are Freaking Out Over Her ‘Invisible Chair’", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mariah-carey-invisible-chair_us_5a2652e7e4b086e4e5040e92', 'short_description': '"I\'m convinced that Mariah Carey gets special powers during the holiday season."', 'date': '2017-12-05'}

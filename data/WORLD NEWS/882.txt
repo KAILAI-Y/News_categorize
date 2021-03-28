@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'ISIS Claims Responsibility For New York City Terror Attack', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/isis-new-york-attack_us_59f9ca6ee4b046017fb02364', 'short_description': 'President Donald Trump said the U.S. military was already retaliating.', 'date': '2017-11-03'}

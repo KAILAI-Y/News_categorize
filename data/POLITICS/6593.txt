@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Baltimore Quietly Removed All 4 Of Its Confederate Statues Overnight', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/baltimore-confederate-statues_us_5994274fe4b009141641806b', 'short_description': 'The city council voted unanimously to rid the city of the monuments.', 'date': '2017-08-16'}

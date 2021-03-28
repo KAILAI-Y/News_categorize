@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Americans Are Giving Up Hope That Mass Shootings Can Be Stopped', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/mass-shootings-fact-of-life-poll_us_59d5534fe4b0cde45872c551', 'short_description': 'Nearly 40 percent consider these horrific events a "fact of life."', 'date': '2017-10-04'}

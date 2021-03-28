@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Death Toll From London Apartment Complex Fire Climbs To 17', 'authors': 'Alistair Smout and Estelle Shirbon, Reuters', 'link': 'https://www.huffingtonpost.com/entry/london-apartment-fire-death-toll_us_59425d98e4b09ad4fbe56be7', 'short_description': 'Theresa May promised a public inquiry into the fire.', 'date': '2017-06-15'}

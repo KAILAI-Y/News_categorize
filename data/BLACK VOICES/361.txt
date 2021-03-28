@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'University Of Alabama Expels Sorority Sister For Using Racial Slurs In Video Rants', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/alabama-expels-sorority-sister-racial-slur_us_5a60a3eee4b01b82649d1895', 'short_description': '"I\'m an idiot," she said of the vile clips.', 'date': '2018-01-18'}

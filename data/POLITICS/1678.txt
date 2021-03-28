@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Users Mock Donald Trump's Whiny Tweet About Oscar Ratings", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-oscars-tweet_us_5a9ed3cae4b002df2c5e438e', 'short_description': '"Thanks, lowest rated President in HISTORY," Jimmy Kimmel tweeted.', 'date': '2018-03-06'}

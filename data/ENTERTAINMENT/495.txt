@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Johnny Galecki Returns To 'Roseanne' And Reuniting Is Such Sweet Sorrow", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/johnny-galecki-roseanne-episode_us_5ad70c8ce4b03c426da9a035', 'short_description': 'The episode left the door slightly open for an appearance next season.', 'date': '2018-04-18'}

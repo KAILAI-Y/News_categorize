@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Huge Bearded Seal Blocks Airport Runway In Alaska', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/seal-alaska-seal_us_59f5bacee4b07fdc5fbea4b9', 'short_description': 'A sled was called in to help move the 450-pound animal.', 'date': '2017-10-29'}

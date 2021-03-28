@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Hilarious Haunted House Photos Are The Funniest Part Of Halloween', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/hilarious-photos-inside-nightmares-fear-factory_us_59edfa11e4b00f0861a02034', 'short_description': "Here's hoping these people brought a change of pants.", 'date': '2017-10-23'}

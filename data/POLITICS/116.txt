@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Sets Up Showdown With DOJ Over Claims Of Campaign Surveillance', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-doj-justice-order_us_5b01b32ae4b0a046186d4305', 'short_description': "The Justice Department responded by asking its inspector general to look into Trump's charge.", 'date': '2018-05-20'}

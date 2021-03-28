@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '8 Times The World Narrowly Avoided A Potential Nuclear Disaster', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/nuclear-disaster-near-misses-korea_us_598b4f5ce4b0449ed5076e9b', 'short_description': "We've survived a disturbingly long list of nuclear near-misses.", 'date': '2017-08-10'}

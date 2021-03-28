@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Makes America Great Again For Foreign Workers — At Mar-A-Lago', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/mar-a-lago-foreign-worker-visas_us_5a8797d1e4b004fc31923884', 'short_description': 'Of 144 openings at three Trump properties, only a single American was hired, Vox reports.', 'date': '2018-02-17'}

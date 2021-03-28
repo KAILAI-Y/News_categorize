@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Dolly Parton Pays Ultimate Video Tribute To Adele Over Dress-Up Photo', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/dolly-parton-adele-dress-up-response_us_5a71be16e4b0be822ba21708', 'short_description': '"I thought that was a picture of me back in the day."', 'date': '2018-01-31'}

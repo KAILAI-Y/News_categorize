@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': '#WeirdThanksgivingTraditions Is The Holiday Hashtag You Never Knew You Needed', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/weird-thanksgiving-traditions_us_5a0e934be4b0dd63b1a990ff', 'short_description': 'Give your Thanksgiving a real kick in the bird.', 'date': '2017-11-17'}

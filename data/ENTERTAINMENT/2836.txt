@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Miley Cyrus Reminds Us Of Her Risqué VMA Past With The Perfect Meme', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/miley-cyrus-vma-past-meme-robin-thicke_us_59a33b01e4b0821444c4111a', 'short_description': 'But really, who could forget?', 'date': '2017-08-27'}

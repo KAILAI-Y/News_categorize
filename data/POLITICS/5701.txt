@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Washington Is Still Hillary Clinton's Town", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/washington-hillary-clinton-what-happened_us_59c1100be4b0186c2205a9c9', 'short_description': 'Sitting shiva with the former secretary of state as she begins her "What Happened" book tour.', 'date': '2017-09-19'}

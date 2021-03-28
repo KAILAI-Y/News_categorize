@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Meryl Streep Looks Exactly Like The 'Shrek' Fairy Godmother At The Oscars", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/meryl-streep-shrek-fairy-godmother-oscars_us_5a9cb5eae4b089ec353bd35d', 'short_description': 'Seriously, did she do this on purpose?', 'date': '2018-03-05'}

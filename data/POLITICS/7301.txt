@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Are Finally Waking Up To The Monopoly Problem', 'authors': 'Dave Jamieson', 'link': 'https://www.huffingtonpost.com/entry/democrats-antitrust_us_5976572fe4b0a8a40e817612', 'short_description': 'The party is putting antitrust reform at the core of its new agenda, "A Better Deal."', 'date': '2017-07-24'}

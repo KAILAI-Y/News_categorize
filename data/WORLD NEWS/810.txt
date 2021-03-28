@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Zimbabwe's Longtime Leader Digs In Despite Army Takeover", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mugabe-digs-in_us_5a0f1e3de4b0e97dffed103f', 'short_description': "Mugabe appeared in public for the first time since Zimbabwe's military took over three days ago.", 'date': '2017-11-17'}

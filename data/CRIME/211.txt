@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Suspect Is Killed After Shots Fired In Reno, Nevada', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/reno-active-shooter_us_5a1e3486e4b0cb0e917c5733', 'short_description': 'Gunman allegedly fired from 8th-floor window onto the street below. One injury is reported.', 'date': '2017-11-29'}

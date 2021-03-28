@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Says Health Care Vote Is Close; Rand Paul Says Not So Much', 'authors': 'Kate Sheppard', 'link': 'https://www.huffingtonpost.com/entry/health-care-vote-rand-paul_us_5959088ae4b0da2c732421ca', 'short_description': '“We’re at an impasse," according to one of the bill\'s leading conservative critics.', 'date': '2017-07-02'}

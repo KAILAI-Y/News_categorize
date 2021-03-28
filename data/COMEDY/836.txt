@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Just Figured Out The Worst Thing Trump Could Do To North Korea', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/colbert-fire-and-fury_us_598d5581e4b08a24727381dc', 'short_description': 'Yes, worse than "fire and fury."', 'date': '2017-08-11'}

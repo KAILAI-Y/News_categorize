@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Rihanna Had A Street Named After Her, And Now Everyone Wants To Move There', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rihanna-street-barbados-people-moving_us_5a227d76e4b03c44072dd095', 'short_description': '"If that isn\'t goals idk what is."', 'date': '2017-12-02'}

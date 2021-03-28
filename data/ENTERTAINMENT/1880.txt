@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Joey Lawrence Says There's 'Serious Talk' Of 'Blossom' Reboot", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/joey-lawrence-says-theres-serious-talk-on-blossom-reboot_us_5a2ebdcae4b0ce3b34448261', 'short_description': 'The actor said his former co-star, Mayim Bialik, is on board.', 'date': '2017-12-11'}

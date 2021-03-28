@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Candice Bergen Rebooting 'Murphy Brown' For CBS", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/candice-bergen-murphy-brown-reboot_us_5a6914f9e4b0e56300762c2c', 'short_description': 'Everything old really is new again.', 'date': '2018-01-25'}

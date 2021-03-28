@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'California Moves Its Presidential Primary From June To March', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/california-primary-date-march_us_59cc13c8e4b02aef6cd73e65', 'short_description': 'The change to Super Tuesday could give the heavily Democratic state more political clout.', 'date': '2017-09-27'}

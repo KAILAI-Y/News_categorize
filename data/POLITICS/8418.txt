@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congressional Baseball Game Goes On One Day After Shooting', 'authors': 'Mollie Reilly, Igor Bobic, and Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/congressional-baseball-game-2017_us_5942c155e4b0f15cd5b9d202', 'short_description': 'The annual bipartisan event raised over $1 million for charities.', 'date': '2017-06-15'}

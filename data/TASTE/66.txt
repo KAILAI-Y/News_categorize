@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'How Your Body Knows The Difference Between 100 Calories Of Kale vs. Junk Food', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/why-your-body-processes-100-calories-of-cereal-differently-from-100-calories-of-kale_us_59fc8990e4b0b0c7fa39c362', 'short_description': 'The more you know!', 'date': '2017-11-03'}

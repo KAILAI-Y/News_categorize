@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Blocking People On Twitter Is Unconstitutional, Judge Rules', 'authors': "Lydia O'Connor and Ryan J. Reilly", 'link': 'https://www.huffingtonpost.com/entry/trump-twitter-block-ruling_us_5b059ca2e4b0784cd2b0c38b', 'short_description': 'The president\'s Twitter feed is a "public forum," the judge found.', 'date': '2018-05-23'}

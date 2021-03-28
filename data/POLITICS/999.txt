@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "NYT: EPA Officials Reassigned, Demoted For Questioning Scott Pruitt's Spending", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-epa-officials-demoted_us_5ac68b86e4b09d0a1191a96a', 'short_description': 'The report comes as the EPA chief faces mounting pressure to step down.', 'date': '2018-04-05'}

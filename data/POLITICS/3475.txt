@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Lawyers Want A Second Special Counsel', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-lawyers-second-special-counsel_us_5a2fc0f3e4b01598ac47e0d3', 'short_description': 'They want a probe into "obvious conflicts of interest" in the Department of Justice.', 'date': '2017-12-12'}

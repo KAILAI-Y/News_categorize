@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Gleefully Reveals Donald Trump's New Nickname In Washington", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-nickname_us_5abb37cee4b04a59a3127f71', 'short_description': '“I think that’s a wonderful thing."', 'date': '2018-03-28'}

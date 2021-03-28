@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "North Korea's Evil-Looking Hotel Has A Brighter Feature", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/ryugyong-hotel-north-korea_us_5ac31a3ae4b09712fec3b3df', 'short_description': 'The long-abandoned skyscraper has stirred to life in recent days with a high-tech light panel.', 'date': '2018-04-03'}

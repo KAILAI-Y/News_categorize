@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon Shares Viewers' Funniest Misheard Song Lyrics", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-misheard-lyrics_us_5a6b210ee4b0ddb658c59ab1', 'short_description': '"Do you like bein\' a banana? Or getting bored on a train?"', 'date': '2018-01-26'}

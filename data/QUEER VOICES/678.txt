@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Elton John Slams Lawmaker Who Suggested People With HIV Should Be Quarantined', 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/elton-john-betty-price-response_us_59ee0a51e4b0a484d064b571', 'short_description': '"Love is the cure. Not quarantines.”', 'date': '2017-10-23'}

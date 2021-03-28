@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here’s What Is Coming To Hulu In May 2018', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/hulu-coming-may_us_5addeb04e4b009869bfbe202', 'short_description': 'All the movies and shows joining Hulu.', 'date': '2018-04-26'}

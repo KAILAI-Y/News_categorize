@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Trump Suggests North Korea Summit Could Still Happen', 'authors': 'Roberta Rampton and Christine Kim, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-north-korea-summit_us_5b0823c7e4b0568a880aee31', 'short_description': 'He had canceled the planned June 12 summit less than a day earlier.', 'date': '2018-05-25'}

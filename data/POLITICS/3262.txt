@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Big Brother Trump', 'authors': 'Philip Rotner, Contributor@PhilipRotner, Attorney and Columnist', 'link': 'https://www.huffingtonpost.com/entry/big-brother-trump_us_5a38382ce4b0c12e6337aff0', 'short_description': 'He’s using Orwellian manipulation to corrupt thought and create an alternative reality.', 'date': '2017-12-19'}

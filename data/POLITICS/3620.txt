@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Top Trump Aide Dina Powell To Resign Early Next Year', 'authors': 'Steve Holland, Reuters', 'link': 'https://www.huffingtonpost.com/entry/dina-powell-to-resign_us_5a2adc95e4b069ec48ad01df', 'short_description': 'The White House confirmed the news on Friday.', 'date': '2017-12-08'}

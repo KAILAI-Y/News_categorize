@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Outback Steakhouse At The Center Of Bizarre Conspiracy Theory', 'authors': 'Samantha Tomaszewski', 'link': 'https://www.huffingtonpost.com/entry/outback-steakhouse-not-satanic-cult_us_597cc5bde4b0da64e8798095', 'short_description': "One Twitter user noticed something creepy about the restaurant's locations.", 'date': '2017-07-29'}

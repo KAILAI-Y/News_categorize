@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Rich Fraud, Poor Fraud: The GOP's Double Standard On Tax Mistakes", 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/gop-tax-bill_us_5a32c369e4b0ff955ad122b6', 'short_description': 'Their new tax bill lavishes breaks on businesses that underpay what they owe.', 'date': '2017-12-14'}

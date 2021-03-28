@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New Tax Law Benefiting Shareholders More Than Workers So Far', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/tax-law-stock-buybacks_us_5a9990ade4b089ec3539d869', 'short_description': 'At least according to the metrics politicians have chosen.', 'date': '2018-03-02'}

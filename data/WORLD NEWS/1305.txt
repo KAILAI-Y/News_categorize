@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Thousands Flee Myanmar After Days Of Surging Violence', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/myanmar-violence-rohingya_us_59a4235ee4b06d67e33917af', 'short_description': '“Everything is on fire,” one villager said.', 'date': '2017-08-28'}

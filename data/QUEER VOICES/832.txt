@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "In His New Act, Tommy Tune Vows To Be A 'Vitamin For The Spirit'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/tommy-tune-chita-rivera-broadway_us_59b84ffee4b0edff97175911', 'short_description': 'The legendary actor, singer and dancer is back on the road once more.', 'date': '2017-09-15'}

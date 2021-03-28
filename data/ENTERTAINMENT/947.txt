@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mark Bridges Was The Night's Biggest Winner: He Took Home An Oscar And A Jet Ski", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/oscars-jet-ski-mark-bridges_us_5a9cf221e4b0479c02547773', 'short_description': 'A 36-second speech led to an $18,000 prize.', 'date': '2018-03-05'}

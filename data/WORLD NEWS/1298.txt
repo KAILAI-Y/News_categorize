@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '18,000 Rohingya Muslims, Many Sick Or Injured, Flee Violence In Myanmar', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/rohingya-muslims-myanmar-exodus_us_59a678b5e4b084581a1458a9', 'short_description': '“They are in a very, very desperate condition."', 'date': '2017-08-30'}

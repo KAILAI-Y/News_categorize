@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'British Police Arrest Another Man After Manchester Attack', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/manchester-another-arrest_us_5927a47de4b06f608053620f', 'short_description': "It's the tenth person to be taken into custody in connection with Monday’s Manchester attack.", 'date': '2017-05-26'}

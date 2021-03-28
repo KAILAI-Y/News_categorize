@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Mark Cuban May Run Against Donald Trump In 2020 As A Republican', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/mark-cuban-2020-president_us_59ed5fc4e4b0958c4682dac2', 'short_description': '“I wouldn’t run unless I have solutions."', 'date': '2017-10-23'}

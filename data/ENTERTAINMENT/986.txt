@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Macaulay Culkin Addresses Those Nutty ‘Home Alone’ Conspiracy Theories', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/macaulay-culkin-home-alone-conspiracy-theories_us_5a9a8577e4b0479c0252d18b', 'short_description': 'Was Elvis Presley really an extra in the movie?', 'date': '2018-03-03'}

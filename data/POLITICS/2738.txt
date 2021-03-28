@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Past Presidents Volunteered On MLK Day. Donald Trump Is Spending It At His Golf Club.', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-mlk-day-golf_us_5a5cc0b2e4b03c418967bad2', 'short_description': 'The president had no public events scheduled on Monday.', 'date': '2018-01-15'}

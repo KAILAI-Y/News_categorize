@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "When The Fire Comes And There's No Home To Evacuate And Nowhere To Go", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/california-thomas-fire-homeless_us_5a3408a6e4b0ff955ad29a0f', 'short_description': 'How the Thomas fire is affecting an already vulnerable homeless community.', 'date': '2017-12-16'}

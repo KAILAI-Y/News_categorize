@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jane Fonda Was Asked About That Megyn Kelly Interview And Gave Another Iconic Answer', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/jane-fonda-was-asked-about-that-megyn-kelly-interview-and-gave-another-iconic-answer_us_59cd3cece4b0ef0694272634', 'short_description': 'Queen.', 'date': '2017-09-28'}

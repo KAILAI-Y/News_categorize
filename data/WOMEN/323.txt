@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Piers Morgan Chews Out Dating Guru: 'You Are A Repulsive Individual'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/piers-morgan-dating-guru_us_5a155fe9e4b025f8e9329fef', 'short_description': 'The self-styled seduction expert trash-talked British women as "very famous for moaning and complaining."', 'date': '2017-11-22'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Texas Man Returns To Flood-Hit Home, Finds Terrifying Intruder Inside', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/texas-alligator-home-harvey-storm-flooding_us_59aa87c6e4b0dfaafcf0b32f', 'short_description': 'Brian Foster discovered his surprise guest under his dining table.', 'date': '2017-09-02'}

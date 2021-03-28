@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'SNL' Zings NRA: 'Only Way To Stop A Bad Roach Is A Good Roach With A Gun'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snl-arming-good-roaches-with-barkley_us_5a9b9de0e4b0479c02533c2d', 'short_description': 'The good ones are God-fearing bugs who regularly attend their tiny church.', 'date': '2018-03-04'}

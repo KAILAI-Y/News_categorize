@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'GLOW' Actresses Talk Filming That KKK Wrestling Scene", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/glow-actresses-on-filming-the-kkk-wrestling-scene_us_596e2361e4b010d77673f2c4', 'short_description': 'The match was a twist on an ugly real-life moment in wrestling history.', 'date': '2017-07-18'}

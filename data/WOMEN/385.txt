@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Men, Power Must Change', 'authors': 'P.L. Thomas, ContributorP.L. Thomas , professor of education (Furman University, Green...', 'link': 'https://www.huffingtonpost.com/entry/men-power-must-change_us_59f32f5be4b06acda25f4920', 'short_description': 'Assessing our entrenched tendency to deprive women of efficacy.', 'date': '2017-10-27'}

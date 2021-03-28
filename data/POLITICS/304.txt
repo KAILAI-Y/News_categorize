@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here Are All 3 FCC Complaints About The '60 Minutes' Interview With Stormy Daniels", 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/stormy-daniels-60-minutes-fcc-complaints_us_5af448b4e4b09bb419e58830', 'short_description': '“Well ... the ka-kahas hit the fan now.”', 'date': '2018-05-10'}

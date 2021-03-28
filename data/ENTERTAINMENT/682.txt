@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Cameron Diaz Says She's 'Actually Retired,' So There", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/cameron-diaz-retired_us_5abdff53e4b0f112dc9b6ef6', 'short_description': 'A former costar previously said Diaz had called it quits, but then said she was joking.', 'date': '2018-03-30'}

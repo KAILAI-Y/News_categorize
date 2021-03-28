@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Defiant North Korea Launches What Appears To Be ICBM', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/north-korea-launches-missile_us_5a1dab24e4b079c1128a4667', 'short_description': "It's Pyongyang's first missile launch since firing over Japan in September.", 'date': '2017-11-28'}

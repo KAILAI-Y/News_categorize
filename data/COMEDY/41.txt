@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Savages 'Peace-Treaty Barbie And Collusion Ken' Over Embassy Opening", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-jared-ivanka_us_5afa2f85e4b044dfffb52bd5', 'short_description': 'The "Late Show" host took aim at Ivanka Trump and Jared Kushner\'s presence in Jerusalem.', 'date': '2018-05-15'}

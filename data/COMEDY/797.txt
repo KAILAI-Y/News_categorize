@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Fake Conor McGregor Reveals How He'll Take Down Floyd Mayweather", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/snl-weekend-update-conor-mcgregor-mayweather-fight_us_599fd88be4b0821444c26eab', 'short_description': '"I can still do a couple of kicks, yeah?"', 'date': '2017-08-25'}

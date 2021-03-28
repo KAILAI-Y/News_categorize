@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Benedict Cumberbatch Does A Dramatic Reading Of 'I'm A Little Teapot'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/benedict-cumberbatch-does-a-dramatic-reading-of-im-a-little-teapot_us_5a8f0e56e4b00804dfe69cf6', 'short_description': 'The Sorcerer Supreme probably makes a mean tea.', 'date': '2018-02-22'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Let Mark Wahlberg Make You Wicked Smart In Boston Slang', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/mark-wahlberg-boston-slang_us_5a3bc825e4b0b0e5a7a02368', 'short_description': 'But you might want to go to the "packie" for a beverage first.', 'date': '2017-12-21'}

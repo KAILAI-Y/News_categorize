@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Beyond A Moment Of Silence', 'authors': 'LaShawn Warren, ContributorVice President, Faith and Progressive Policy Initiative', 'link': 'https://www.huffingtonpost.com/entry/beyond-a-moment-of-silence_us_5942e8efe4b06bb7d271de19', 'short_description': 'We must stand up to hate and support common sense gun reform.', 'date': '2017-06-15'}

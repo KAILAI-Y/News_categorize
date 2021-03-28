@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Check Out The Hilarious Device That Lets Racists Sleep At Night', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/funny-or-die-racists-sleep_us_5a61ed4ee4b01d91b254d960', 'short_description': 'Sweet dreams, bigots.', 'date': '2018-01-19'}

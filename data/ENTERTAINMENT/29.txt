@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Amy Poehler: A 'Parks And Recreation' Revival Would Be 'Amazing'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/amy-poehler-parks-and-recreation-revival_us_5b06e39de4b07c4ea1061910', 'short_description': 'Co-star Nick Offerman also seemed on board... under one (incredible) condition.', 'date': '2018-05-24'}

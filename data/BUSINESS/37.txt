@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'This Sad Version Of The Toys R Us Jingle Will Hit You Where It Hurts', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/toys-r-us-jingle-minor-key_us_5aab60b0e4b0337adf82a87b', 'short_description': 'Sniff.', 'date': '2018-03-16'}

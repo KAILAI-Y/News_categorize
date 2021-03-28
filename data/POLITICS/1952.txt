@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Jr. Loves India's 'Poorest Of The Poor' Because They Smile", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-india-smiling-poor_us_5a8d4940e4b0273053a63331', 'short_description': 'The tone-deaf remark is drawing sharp criticism on social media.', 'date': '2018-02-21'}

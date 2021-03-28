@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': '14 Romantic Gifts That Can Be Delivered', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/14-romantic-gifts-that-can-be-delivered_us_5a65fea1e4b0dc592a0adb4a', 'short_description': 'Think inside the delivery box.', 'date': '2018-01-22'}

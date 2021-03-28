@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Mila Kunis Expertly Trolls Mike Pence Every Single Month', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mila-kunis-mike-pence-protest-conan_us_59fc19fde4b01b4740498ea4', 'short_description': '“I disagreed with some of the stuff that Pence was doing and was trying to do."', 'date': '2017-11-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Alec Baldwin Becomes 'Professor Of Trumpology' In Iowa Trump Roast", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwin-trump-iowa_us_5a1d4a3ae4b04e8b2a843487', 'short_description': 'The actor also struck a serious tone with a call to action for Democrats.', 'date': '2017-11-28'}

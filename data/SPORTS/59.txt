@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Rob Gray's Man Bun Just Won The NCAA Tournament", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/rob-gray-man-bun-just-won-the-ncaa-tournament_us_5aab8e30e4b0c33361af73e3', 'short_description': 'The Houston guard, who scored the winning basket, has game to go with his signature style.', 'date': '2018-03-16'}

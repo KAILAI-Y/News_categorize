@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Better Deal Than What?', 'authors': 'Dean Baker, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/better-deal-than-what_us_598051b8e4b0d187a5969002', 'short_description': 'The Democrats have set a very low bar for themselves.', 'date': '2017-08-01'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Shares 'Exclusive Look' At Steve Bannon's '60 Minutes' Interview", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-60-minutes-charlie-rose-stephen-colbert_us_59b39bb9e4b0354e44121a12', 'short_description': '(Spoof) spoiler alert.', 'date': '2017-09-09'}

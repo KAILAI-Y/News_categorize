@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Tillerson Declines Request To Host Ramadan Event', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/tillerson-declines-request-to-host-ramadan-event_us_592c5ac3e4b0065b20b792d8', 'short_description': 'Since 1999, secretaries of state from both parties have hosted Ramadan break fasts or receptions.', 'date': '2017-05-29'}

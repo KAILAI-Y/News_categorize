@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Infamous Cristiano Ronaldo Sculptor Gets Another Try At The Soccer Star's Bust", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/infamous-ronaldo-statue-artist-gets-another-chance-at-the-soccer-star-bust_us_5abe7910e4b0a47437aabc5f', 'short_description': 'It\'s a "Ronal-Do over."', 'date': '2018-03-30'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '3 Reasons Why #ThisIsNotUs Is Problematic', 'authors': 'Ali Owens, ContributorWriter, activist, optimist', 'link': 'https://www.huffingtonpost.com/entry/this-actually-is-us-3-reasons-why-thisisnotus-is_us_5992fa54e4b0caa1687a638d', 'short_description': 'When we allow racism to exist, we become racism.', 'date': '2017-08-15'}

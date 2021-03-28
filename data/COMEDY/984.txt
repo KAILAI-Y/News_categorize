@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "The 5 Hot Takes You Need To Unpack Trump's 'Covfefe' Tweet", 'authors': 'Steven Hoffer', 'link': 'https://www.huffingtonpost.com/entry/covfefe-hot-takes_us_592ec882e4b0540ffc834495', 'short_description': 'What to make of the kerfuffle over "covfefe."', 'date': '2017-05-31'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Hollywood Celebrities React To Bill Cosby Guilty Verdict', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/bill-cosby-guilty-verdict-celebrities_us_5ae22744e4b02baed1b83f53', 'short_description': 'Rose McGowan, Terry Crews and other celebs all had something to say.', 'date': '2018-04-26'}

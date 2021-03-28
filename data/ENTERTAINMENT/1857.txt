@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ed Sheeran And Anne-Marie Totally Nail Their 'Fairytale Of New York' Cover", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ed-sheeran-anne-marie-christmas-song-cover_us_5a30f139e4b01bdd76588be9', 'short_description': "It's a fairytale reworking.", 'date': '2017-12-13'}

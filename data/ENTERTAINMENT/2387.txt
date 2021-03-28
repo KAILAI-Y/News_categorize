@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Pussycat Dolls Founder Denies Claims Of Abuse By Former Member (UPDATE)', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/robin-antin-pussycat-dolls-abuse_us_59e60c90e4b0a2324d1decfb', 'short_description': 'Robin Antin called the claims “disgusting, ridiculous lies."', 'date': '2017-10-17'}

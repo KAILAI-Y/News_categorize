@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '5 Netflix Shows To Watch If You Like ‘Game Of Thrones’', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/netflix-game-of-thrones-shows_us_5acd0268e4b09212968c55aa', 'short_description': 'Underrated similar shows to tide you over until Season 8.', 'date': '2018-04-11'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Dustin Hoffman Allegedly Exposed Himself To A Minor, Assaulted 2 Women', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/dustin-hoffman-exposed-minor_us_5a32fcd3e4b01d429cc74c5f', 'short_description': "One of the accusers was a good friend of his daughter's.", 'date': '2017-12-15'}

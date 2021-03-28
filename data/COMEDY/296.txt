@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Tomi Lahren Mocked As Right-Wing Crisis Actor In ‘Daily Show’ Conspiracy Spoof', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/tomi-lahren-crisis-actor_us_5a8f7a6fe4b01e9e56ba0012', 'short_description': 'Exposed!', 'date': '2018-02-23'}

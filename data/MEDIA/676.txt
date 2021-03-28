@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'CNN Names Ivanka Trump Most Powerful U.S. Jewish Woman. Twitter Says Hell No.', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-most-powerful_us_5931f81fe4b0c242ca243dcd', 'short_description': '"If only Janet Yellen had a line of lavender sheath dresses."', 'date': '2017-06-03'}

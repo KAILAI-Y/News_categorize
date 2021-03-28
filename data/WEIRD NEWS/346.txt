@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Woman Goes On Rant Over Veteran's Service Dog In Restaurant", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/women-unhinged-service-animals-ptsd-veterans_us_59c6d0b4e4b06ddf45f84c16', 'short_description': "The woman in the video says she doesn't regret how vocal she was.", 'date': '2017-09-24'}

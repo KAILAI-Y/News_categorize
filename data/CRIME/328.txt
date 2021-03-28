@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Girl Hospitalized After Getting Boiling Water Poured On Face At Sleepover', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/girl-boiling-water-face-sleepover_us_598c78e4e4b0d793738d291e', 'short_description': 'Her 12-year-old alleged attacker has been charged with assault.', 'date': '2017-08-10'}

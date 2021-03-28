@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Alabama Media Group Rejects Cease-And-Desist Order From Roy Moore — With A Warning', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/alabama-media-group-rejects-cease-and-desist-order-from-roy-moore_us_5a123f1ae4b045cf43723d83', 'short_description': 'A lawsuit could hurt more than help.', 'date': '2017-11-20'}

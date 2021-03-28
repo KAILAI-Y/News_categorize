@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Nicole Kidman And Sandra Bullock Have A 'Practical Magic' Moment At The Oscars", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/nicole-kidman-sandra-bullock-oscars_us_5a9ca0e1e4b0a0ba4ad4be3b', 'short_description': 'The Owens sisters are bewitching once again on the red carpet.', 'date': '2018-03-05'}

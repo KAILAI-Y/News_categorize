@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Agrees With Donald Trump: Michelle Wolf Is 'Filthy'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-michelle-wolf-donald-trump_us_5ae80b13e4b04aa23f266aa4', 'short_description': '"Which is what we love about her."', 'date': '2018-05-01'}

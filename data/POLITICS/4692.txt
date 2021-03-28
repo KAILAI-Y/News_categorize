@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'California Rep. Jackie Speier Launches #MeTooCongress', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/jackie-speier-me-too-congress_us_59f3a6e1e4b07fdc5fbe4729', 'short_description': 'The Democratic congresswoman calls Capitol Hill "a breeding ground for a hostile work environment."', 'date': '2017-10-28'}

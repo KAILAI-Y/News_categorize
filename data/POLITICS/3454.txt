@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chuck Schumer Calls For Tax Vote To Be Delayed Until Doug Jones Is Seated', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/schumer-doug-jones_us_5a313e16e4b01bdd7659261d', 'short_description': 'The Senate is expected to vote on the bill next week.', 'date': '2017-12-13'}

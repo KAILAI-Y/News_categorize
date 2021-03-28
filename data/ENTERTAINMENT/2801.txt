@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Miranda Lambert Is Saving Dogs By The Truckload In Texas', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/miranda-lambert-saving-dogs-harvey-texas_us_59a7ebdae4b07e81d3557020', 'short_description': "Dozens of dogs have so far benefited from the country star's foundation.", 'date': '2017-08-31'}

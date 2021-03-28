@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Compton Mayor Aja Brown Announces Run For Congress', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/compton-mayor-aja-brown-congress-race_us_5aa16539e4b0e9381c167a5e', 'short_description': 'She will face off against incumbent Rep. Nanette Barragán and "Clueless" actress Stacey Dash.', 'date': '2018-03-08'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trump Declared Himself Mentally Stable And Stephen Colbert Isn’t Having It', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-fire-and-fury_us_5a542f67e4b003133ecb7f3f', 'short_description': 'The "Late Show" host has the CliffsNotes.', 'date': '2018-01-09'}

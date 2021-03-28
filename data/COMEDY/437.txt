@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Suggests Perfect Name For Donald Trump's Fake News Awards", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-fake-news-awards-donald-trump_us_5a4df788e4b06d1621bd36aa', 'short_description': 'But he does have one reservation about it.', 'date': '2018-01-04'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Stand\u200a—\u200aOr Kneel\u200a—\u200aFor Something', 'authors': 'Erin Schrode, ContributorCitizen Activist and Co-Founder, Turning Green', 'link': 'https://www.huffingtonpost.com/entry/standor-kneelfor-something_us_59c7d351e4b0f2df5e83af40', 'short_description': 'If you’re not outraged, you’re not paying attention.', 'date': '2017-09-24'}

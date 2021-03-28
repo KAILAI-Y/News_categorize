@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': '‘Guardians Of The Galaxy’ Director James Gunn Offers $100,000 If Trump Will Step On A Scale', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-girthers_us_5a5eea56e4b0ee2ff32b949c', 'short_description': 'The president\'s height and weight claims sparked the "Girther" movement.', 'date': '2018-01-17'}

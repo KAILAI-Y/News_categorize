@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ellen Grills Mark Wahlberg About His Shirtless Instagram Selfies', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/ellen-degeneres-mark-wahlberg_us_5b058e8ce4b05f0fc843fd09', 'short_description': '“I get ‘Dad, put a shirt on,’ all the time,” the actor explained.', 'date': '2018-05-23'}

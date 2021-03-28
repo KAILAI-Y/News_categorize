@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Paris Is Installing Sparkling Water Fountains Across The City', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/sparkling-water-fountains_us_5a00b145e4b04cdbeb355e8c', 'short_description': 'Oui, oui and more oui.', 'date': '2017-11-06'}

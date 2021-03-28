@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Montana Just Updated Rape Laws To Include Cases When Victims Don't Fight Back", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/montana-just-updated-rape-laws-to-include-cases-when-victims-dont-fight-back_us_596622bbe4b09b587d63b7f9', 'short_description': 'The bill passed almost unanimously.', 'date': '2017-07-12'}

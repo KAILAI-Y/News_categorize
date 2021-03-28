@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Avengers' Stars Laugh In The Face Of Twitter Trolls' 'Mean Tweets'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mean-tweets-avengers-jimmy-kimmel_us_5ae81176e4b02baed1bd8f5c', 'short_description': '"Benedict Cumberbatch always looks like he\'s had an allergic reaction to bad shrimp."', 'date': '2018-05-01'}

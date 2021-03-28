@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Here's What Happens To Breast Cancer Diagnoses When Medicaid Is Rolled Back", 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/medicaid-breast-cancer_us_59512d3fe4b0da2c731d3d6a', 'short_description': 'A study of women in Tennessee offers a glimpse.', 'date': '2017-06-26'}

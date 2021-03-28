@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Sia Responds To Criticism That She Pushed Fame On Teen Dancer Maddie Ziegler', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/sia-criticism-maddie-ziegler_us_5a2950b3e4b0b185e539c856', 'short_description': 'Ziegler, now 15, was 11 when she and Sia started collaborating.', 'date': '2017-12-07'}

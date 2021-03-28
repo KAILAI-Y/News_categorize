@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'While Defending Roy Moore, Steve Bannon Slams Mitt Romney For Not Serving In Vietnam', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/bannon-moore-roy-moore_us_5a274f98e4b0c2117626acd6', 'short_description': 'Bannon criticized Romney, but worked for accused draft dodger Donald Trump.', 'date': '2017-12-06'}

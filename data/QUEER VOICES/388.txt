@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Wrestler Mike Parrow Decided To Come Out As Gay After Conversion Therapy', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/mike-parrow-gay-conversion-therapy_us_5a6219a5e4b0125fd6363345', 'short_description': '“It was the first time I heard people had the same feelings that I did."', 'date': '2018-01-19'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Guardians Of The Galaxy' Director Masterfully Trolls Marvel Executive Impersonator", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/james-gunn-marvel-instagram-troll_us_5942e9bde4b0f15cd5ba12b3', 'short_description': '"Did you do that thing we talked about yet?"', 'date': '2017-06-15'}

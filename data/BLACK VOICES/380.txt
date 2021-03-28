@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Ohio Mom Wants Teacher Fired For Telling Her Son He Might Be Lynched', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ohio-teacher-lynching_us_5a58e51de4b04df054f878dc', 'short_description': '“I know that what she said is racist.”', 'date': '2018-01-12'}

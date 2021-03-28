@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "The 25 Best Women's Fashion Deals Of The Nordstrom Anniversary Sale Under $100", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/deals-under-100-nordstrom-anniversary-sale_us_597206e7e4b00e4363def531', 'short_description': 'Shop now, because prices go up Aug. 7.', 'date': '2017-07-21'}

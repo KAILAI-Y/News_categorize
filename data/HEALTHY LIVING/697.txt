@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Brain-Infecting 'Rat Lungworm' Spreads In Florida", 'authors': 'Rachael Rettner, Live Science', 'link': 'https://www.huffingtonpost.com/entry/brain-infecting-rat-lungworm-spreads-in-florida_us_595d0926e4b0da2c732681e0', 'short_description': 'In people, the parasite can infect the brain and cause meningitis.', 'date': '2017-07-05'}

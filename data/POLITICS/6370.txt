@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Progressive Challenger Heads To A Runoff In Birmingham Mayor's Race", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/randall-woodfin-birmingham-alabama-mayor-runoff_us_59988b9ce4b0e8cc855e0b86', 'short_description': 'Randall Woodfin has the endorsement of Our Revolution.', 'date': '2017-08-23'}

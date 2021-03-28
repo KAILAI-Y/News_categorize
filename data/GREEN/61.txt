@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "California's Thomas Fire Now Ranks Among Largest In State History", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/california-thomas-fire-ranking_us_5a2d7ba2e4b073789f6aa761', 'short_description': "Of the state's largest fires on record, this is the only one to occur in December.", 'date': '2017-12-10'}

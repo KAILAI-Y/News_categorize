@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Helicopter Crew Plucks Mom And Kids From Boat Capsized By Hurricane Maria', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/dramatic-rescue-video-boat-capsized-hurricane-maria_us_59c4d238e4b06ddf45f6edaf', 'short_description': "The children's father did not  survive the devastating storm.", 'date': '2017-09-22'}

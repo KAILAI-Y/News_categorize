@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'This Artist Gives Renaissance-Style Sculptures A Goofy Modern Twist', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/this-artist-gives-renaissance-style-sculptures-a-funny-modern-twist_us_5a53bff8e4b003133ecb0cc0', 'short_description': "She's been waiting 500 years to pick that nose.", 'date': '2018-01-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Still Hasn’t Chosen A Science Adviser -- After 390 Days In Office', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/trump-science-adviser_us_5a83f375e4b02b66c5136a6a', 'short_description': 'The White House may be having a hard time finding someone for the job.', 'date': '2018-02-14'}

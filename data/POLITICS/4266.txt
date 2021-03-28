@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Did Trump Collude With Russia Or Obstruct Justice? Probably Both', 'authors': 'Richard North Patterson, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/did-trump-collude-with-russia-or-obstruct-justice_us_5a0980c9e4b0f1dc729a6c7f', 'short_description': 'Just follow the facts.', 'date': '2017-11-13'}

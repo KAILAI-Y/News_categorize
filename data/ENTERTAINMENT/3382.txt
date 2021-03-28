@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ted Nugent: 'I'm Not Going To Engage In Hateful Rhetoric Anymore'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ted-nugent-vows-to-be-respectful_us_59433947e4b0f15cd5ba531e', 'short_description': '"We have got to be more respectful to the other side."', 'date': '2017-06-16'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Vladimir Putin Suggests American Hackers Framed Russia', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/vladimir-putin-megyn-kelly_us_5931ebfae4b02478cb9bafbc', 'short_description': "His remarks came in an interview with NBC News' Megyn Kelly.", 'date': '2017-06-02'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jim Carrey Skewers Trump's Bromance With Macron In Clever New Artwork", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jim-carrey-donald-trump-emmanuel-macron_us_5ae2d5d1e4b04aa23f21c368', 'short_description': '"Later there would be wedgies and wet willies in the Rose Garden."', 'date': '2018-04-27'}

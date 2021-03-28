@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Will There Be A Nielsen 2.0?', 'authors': 'Bill Wise, ContributorFounding CEO of Mediaocean', 'link': 'https://www.huffingtonpost.com/entry/will-there-be-a-nielsen-20_us_5a302d81e4b0b73dde46a7e1', 'short_description': 'Media buyers, prepare: The days of just one measurement provider may be numbered.', 'date': '2017-12-13'}

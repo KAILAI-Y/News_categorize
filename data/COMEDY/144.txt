@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Uses Tax Day To Show How Corporate America Is Screwing You Over', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-taxes_us_5ad44e3ae4b016a07e9dec2d', 'short_description': '"We just had a huge chance to reform our tax code and we absolutely blew it."', 'date': '2018-04-16'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Demands For Answers Mount As London's Tower Fire Death Toll Rises", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/grenfell-tower-fire_us_59428ad6e4b09ad4fbe5bb7d', 'short_description': 'The deadly blaze has triggered a debate on public housing and safety.', 'date': '2017-06-15'}

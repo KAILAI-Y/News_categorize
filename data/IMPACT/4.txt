@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "She Started A Suicide Prevention Site At Age 15. It's Still Going Strong.", 'authors': 'Lauren Rearick', 'link': 'https://www.huffingtonpost.com/entry/buddy-project-mental-health_us_5aff20eee4b07309e057dcad', 'short_description': '“People didn’t view me seriously because I was a 15-year-old girl.”', 'date': '2018-05-21'}

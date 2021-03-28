@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "A Sex Scandal Is Threatening The Future Of Australia's Governing Coalition", 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/australia-politicians-sex-staff_us_5a8611abe4b004fc31906bec', 'short_description': 'Barnaby Joyce\'s affair "appalled all of us," Prime Minister Malcolm Turnbull said.', 'date': '2018-02-16'}

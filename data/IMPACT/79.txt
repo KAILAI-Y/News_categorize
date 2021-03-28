@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': '4 Heartwarming Stories of Triumph Over Adversity In 2017', 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/4-heartwarming-stories-of-triumph-over-adversity-in-2017_us_5a3d1d8ce4b0b0e5a7a1cc71', 'short_description': 'It wasn’t all unrelenting doom and gloom in 2017.', 'date': '2017-12-28'}

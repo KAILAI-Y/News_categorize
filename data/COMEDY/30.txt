@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Wants Mueller To Give Trump A Special Anniversary Gift', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-mueller-anniversary_us_5afcfc80e4b0779345d5c124', 'short_description': 'The special counsel investigation began one year ago on Thursday.', 'date': '2018-05-17'}

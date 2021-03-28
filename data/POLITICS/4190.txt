@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans Say Expiring Tax Cuts Won't Expire", 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/senate-tax-bill-expiring-cuts_us_5a0db416e4b0b37054f504b5', 'short_description': 'The Senate tax bill makes corporate cuts permanent, but household cuts temporary.', 'date': '2017-11-16'}

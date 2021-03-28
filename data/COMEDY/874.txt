@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Twitter Imagines Trump As A Hallmark Card Writer And It’s … Sad!', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/trump-writes-funny-hallmark-cards-twitter_us_5978a42ee4b0c95f37608cda', 'short_description': 'But accurate. And hilarious.', 'date': '2017-07-26'}

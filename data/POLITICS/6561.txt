@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'America: [1] Days Without The President Implicitly Endorsing Nazism', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/america-days-without-the-president-implicitly-endorsing-nazism-1_us_5994b5a7e4b0acc593e4e9b7', 'short_description': 'Also, try our big gulps!', 'date': '2017-08-16'}

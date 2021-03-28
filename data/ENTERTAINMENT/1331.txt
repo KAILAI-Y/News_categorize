@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Patti LuPone, Ben Platt Salute Broadway At The Grammys', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/patti-lupone-ben-platt-grammy-awards_us_5a6e9404e4b0ddb658c7c337', 'short_description': 'They slayed in their respective tributes to musical theater composers.', 'date': '2018-01-29'}

@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Brazilian And Chinese-American Apostles Diversify Mormon Church Leadership', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/new-mormon-apostles-diversity_us_5ac291cee4b04646b6453983', 'short_description': 'The new appointments were announced during a historic general conference.', 'date': '2018-04-03'}

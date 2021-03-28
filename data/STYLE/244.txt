@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Mindy Kaling Has Already Developed Her Own Signature Pregnancy Style', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/mindy-kaling-pregnant_us_59b96bf6e4b02da0e13e7f4c', 'short_description': "She's glowing AND sparkling.", 'date': '2017-09-13'}

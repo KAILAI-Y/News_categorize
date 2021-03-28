@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Booming Wind Energy Industry Might Finally Break Its Massachusetts Hex', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/offshore-wind-massachusetts_us_59820268e4b02b36343fa4be', 'short_description': 'A new offshore wind farm could bring jobs to New England’s struggling fishermen.', 'date': '2017-08-02'}

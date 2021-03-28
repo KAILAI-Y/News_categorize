@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Google's Cheeseburger Emoji Has One MAJOR Flaw", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/google-cheeseburger-emoji-ceo-promises_us_59f72aaae4b03cd20b82f9fa', 'short_description': '"What are we? Heathens?"', 'date': '2017-10-30'}

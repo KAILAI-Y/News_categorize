@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Game Of Thrones' Actor Says Euron Actually Wants 'World Domination'", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/euron-greyjoy-game-of-thrones_us_597a2636e4b0da64e8779406', 'short_description': "With his magical ship-building abilities, Pilou Asbæk's character might have a shot.", 'date': '2017-07-28'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Actress' Lawsuit Accuses Weinstein Brothers Of Sex Trafficking", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/kadian-noble-weinstein-sex-trafficking_us_5a1c90a9e4b04e8b2a83d90f', 'short_description': 'Kadian Noble argues her alleged assault at Cannes was part of a company pattern.', 'date': '2017-11-28'}

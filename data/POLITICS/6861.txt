@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Leader Of Free World Not On Vacation, Totally Has His Phone On', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/leader-of-free-world-not-on-vacation-totally-has-his-phone-on_us_5988dbe9e4b0a66b8bade0cd', 'short_description': "We're sure the president is also checking Slack.", 'date': '2017-08-07'}

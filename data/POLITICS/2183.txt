@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Navy SEAL Who Killed Bin Laden Calls Trump's Parade Plan 'Third World Bulls**t'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/navy-seal-robert-oneill-trump-parade_us_5a7d1344e4b044b3821badf1', 'short_description': '"Stop this conversation."', 'date': '2018-02-09'}

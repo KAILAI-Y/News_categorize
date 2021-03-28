@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Just Falsely Claimed He Had A Historically Huge Audience. Again.', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trump-state-of-the-union-viewers-lie_us_5a730284e4b0bf6e6e221d6c', 'short_description': 'No. The "highest number in history" did not watch his State of the Union speech.', 'date': '2018-02-01'}

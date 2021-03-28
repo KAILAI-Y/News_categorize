@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "State Department's Top Diplomat On North Korea Is Retiring", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/joseph-yun-north-korea-diplomat-retiring_us_5a94cffde4b0699553cb99c7', 'short_description': 'Joseph Yun helped secure the release of American student Otto Warmbier last year.', 'date': '2018-02-27'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Catalonia Votes On Independence Despite Police Crackdown', 'authors': 'Sam Edwards, Reuters', 'link': 'https://www.huffingtonpost.com/entry/spanish-riot-police-storm-catalan-polling-place-wounding-38_us_59d0d053e4b09538b508c5b3', 'short_description': 'Authorities say more than 460 people have been injured.', 'date': '2017-10-01'}

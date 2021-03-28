@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Insists He's The 'Least Racist Person'", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-least-racist-person_us_5a5bf71ee4b0fcbc3a116206', 'short_description': 'The president was responding to the global criticism of his "shithole" comments.', 'date': '2018-01-15'}

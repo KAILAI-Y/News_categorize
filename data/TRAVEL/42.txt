@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "Disney's 'Star Wars' Land Takes Shape In New Video -- And It's Huge", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/star-wars-land-drone-video_us_5aa2411ee4b07047bec5099b', 'short_description': 'Aerial footage shows the massive scale of construction at Disneyland.', 'date': '2018-03-09'}

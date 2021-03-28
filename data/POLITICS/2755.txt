@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Stayed On The Golf Course As Hawaii Panicked', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-golf-hawaii-missile-alarm_us_5a5a9201e4b04f3c55a32242', 'short_description': "He didn't even tweet about the false missile alarm as soon as he put away his golf clubs.", 'date': '2018-01-14'}

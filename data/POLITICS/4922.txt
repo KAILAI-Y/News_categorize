@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'For Steve Bannon, Money Isn’t Everything', 'authors': 'Kurt Bardella, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/money-isnt-everything_us_59e6bbcee4b0e60c4aa3664e', 'short_description': 'Every establishment dollar spent supporting a candidate is a dollar that is going to be used against them.', 'date': '2017-10-18'}

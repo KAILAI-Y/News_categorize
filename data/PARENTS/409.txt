@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Dad Shares Hilariously Honest Guide To Potty Training', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/dad-shares-hilariously-honest-guide-to-potty-training_us_599e5daae4b0821444c0b48c', 'short_description': '"Step 20: Close yourself in a closet and question your parenting abilities."', 'date': '2017-08-24'}

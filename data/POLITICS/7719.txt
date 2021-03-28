@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Reince Priebus Accuses Democratic Operatives Of Setting Up Russia Meeting With Trump Jr.', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/trump-russia-lawyer_us_59624746e4b0615b9e922779', 'short_description': 'The meeting just came to light on Saturday.', 'date': '2017-07-09'}

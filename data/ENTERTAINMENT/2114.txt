@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Fantastic Beasts' Sequel First Look Reveals Jude Law As Young Dumbledore", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/fantastic-beasts-sequel-first-look-reveals-jude-law-as-young-dumbledore_us_5a0d9d74e4b0c0b2f2f82332', 'short_description': 'Brush up your "Young Pope" jokes.', 'date': '2017-11-16'}

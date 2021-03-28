@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Zayn Malik Is Now Bald And Still Beautiful', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/zayn-malik-is-now-bald-and-still-beautiful_us_59ad44cfe4b0b5e530ffded9', 'short_description': 'Smooth move.', 'date': '2017-09-04'}

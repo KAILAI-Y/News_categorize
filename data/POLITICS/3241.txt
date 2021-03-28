@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Control Of Virginia's House Of Delegates Could Come Down To Drawing Straws", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/virginia-house-of-delegates-tie_us_5a3a8f89e4b025f99e13e47f', 'short_description': 'Or picking a name from a hat. Or flipping a coin...', 'date': '2017-12-20'}

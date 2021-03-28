@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "If Mobile Games Were Honest ... Well, You'd Probably Still Be Addicted", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/if-mobile-games-were-honest-well-youd-probably-still-be-addicted_us_593eb9ebe4b02402687b7b94', 'short_description': "That's how addiction works.", 'date': '2017-06-12'}

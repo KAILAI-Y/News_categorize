@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's What Happens In A Government Shutdown", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/what-happens-government-shutdown_us_5a60bf64e4b01f3bca590dad', 'short_description': 'National parks could close, but essential operations like air traffic control continue.', 'date': '2018-01-18'}

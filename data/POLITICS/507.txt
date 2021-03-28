@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Rosenstein To Republicans: DOJ ‘Will Not Be Extorted’', 'authors': 'Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/rod-rosenstein-donald-trump-robert-mueller-doj_us_5ae8a798e4b02baed1be9e28', 'short_description': 'GOP House members drafted articles of impeachment against him the day before.', 'date': '2018-05-01'}

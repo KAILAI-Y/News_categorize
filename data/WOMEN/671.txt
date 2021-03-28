@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Twitter Sufficiently Drags Trump For Commenting On Irish Reporter's Smile", 'authors': 'Jenavieve Hatch', 'link': 'https://www.huffingtonpost.com/entry/twitter-sufficiently-drags-trump-for-commenting-on-irish-reporters-smile_us_5953c93ee4b02734df2f257f', 'short_description': '"Ugh."', 'date': '2017-06-28'}

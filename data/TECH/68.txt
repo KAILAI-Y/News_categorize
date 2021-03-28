@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Facebook Says It's Getting Pretty Good At Filtering Out Terrorists", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/facebook-ai-filter-terrorist-content_us_5a1edac8e4b017a311eba712', 'short_description': "And it's working with other companies to scrub the internet of recruitment propaganda.", 'date': '2017-11-29'}

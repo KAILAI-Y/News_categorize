@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Has Found The Perfect Christmas Present For Donald Trump', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-christmas-present_us_5a2617cee4b07324e84025eb', 'short_description': "The president's probably not going to appreciate the thought.", 'date': '2017-12-05'}

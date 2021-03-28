@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Colin Kaepernick Covers GQ As 'Citizen Of The Year'", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/colin-kaepernick-gq_us_5a09af47e4b05673aa5ade43', 'short_description': 'The former NFL quarterback wants to "reclaim the narrative of his protest."', 'date': '2017-11-13'}

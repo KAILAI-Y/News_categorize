@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Yup. Sean Hannity Found A Way To Blame Obama For The Stock Market Drop', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-blames-obama-stock-market-drop_us_5a791428e4b018ad894f229c', 'short_description': 'He also claimed the slide is "a sign of strength more than anything else."', 'date': '2018-02-06'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Celebrities Mourn Gregg Allman After News Of His Death', 'authors': 'Stephanie Marcus', 'link': 'https://www.huffingtonpost.com/entry/celebrity-reactions-gregg-allman-death_us_5929d62ce4b053f2d2acca57', 'short_description': 'Allman died peacefully at his home in Georgia.', 'date': '2017-05-27'}

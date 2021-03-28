@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Donald Trump Asked Twitter A Question. It Really Didn't Go Well.", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-twitter-question_us_595afc8ee4b02734df33db54', 'short_description': "These probably aren't the answers he was expecting.", 'date': '2017-07-04'}

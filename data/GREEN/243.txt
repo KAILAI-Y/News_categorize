@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Houston Faces Another Threat: Damaged Refineries Spewing Toxic Fumes', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/houston-harvey-refinery-toxic-pollution_us_59a45a30e4b06d67e3397f2e', 'short_description': '“Air pollution is one of the unseen dangers of the storm," a scientist said.', 'date': '2017-08-28'}

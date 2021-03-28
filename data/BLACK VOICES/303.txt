@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': '6 Queer Couples Share Their Definition of Black Love', 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/6-queer-couples-share-their-definition-of-black-love_us_5a834c90e4b02b66c512e3cc', 'short_description': '"Open your heart and mind to all the ways our love is the same."', 'date': '2018-02-14'}

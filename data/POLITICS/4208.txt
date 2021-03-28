@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Roy Moore's Attorney Holds News Conference To Demand Release Of Accuser's Yearbook", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-yearbook-handwriting_us_5a0cbb2ee4b0b17e5e13c7dc', 'short_description': 'Phillip Jauregui wants a handwriting expert to analyze the signature.', 'date': '2017-11-15'}

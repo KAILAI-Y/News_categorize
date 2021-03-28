@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Previews Asia Trip With Foreboding Message For Japan', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-asia-trip-japan_us_59fc375be4b01b4740499b0c', 'short_description': '"They should be worried," he said about the North Korean threat.', 'date': '2017-11-03'}

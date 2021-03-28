@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Scientific Community Rails Against Trump's Decision To Pull Out Of Paris Accord", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/scientists-trump-paris-agreement_us_59306bd5e4b0e9a77a53ba4e', 'short_description': '"It’s a disappointing and embarrassing day for the United States."', 'date': '2017-06-01'}

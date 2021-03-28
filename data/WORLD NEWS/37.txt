@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Stalking Cheetahs Give Oblivious Family A Scare When They Exit Car At Safari Park', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/cheetahs-chase-family-safari-park_us_5af62829e4b00d7e4c1aba7f', 'short_description': '"These people were incredibly lucky," says a park spokesman.', 'date': '2018-05-12'}

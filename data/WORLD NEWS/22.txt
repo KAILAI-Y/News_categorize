@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Cuba Plane Crash Reportedly Kills Over 100', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/cuba-plane-crash-havana_us_5aff0a4ae4b0a046186b4a98', 'short_description': "The plane went down shortly after takeoff from Havana's Jose Marti airport.", 'date': '2018-05-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Transformative Power Of Listening', 'authors': 'Daniel Horrigan, ContributorMayor of Akron, Ohio', 'link': 'https://www.huffingtonpost.com/entry/the-transformative-power-of-listening_us_59d1a62de4b06791bb11638d', 'short_description': 'How civility and inclusion drive progress.', 'date': '2017-10-02'}

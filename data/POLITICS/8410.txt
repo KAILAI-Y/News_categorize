@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Thousands Gather To Watch Congressmen Underperform', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/thousands-gather-to-watch-congressmen-underperform_us_594306a0e4b0f15cd5ba437a', 'short_description': 'Par for the course, really.', 'date': '2017-06-15'}

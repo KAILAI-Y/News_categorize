@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Annie Dean Has a Genius Way Of Getting Dressed In The Morning', 'authors': 'Abigail Cuffey', 'link': 'https://www.huffingtonpost.com/entry/annie-dean-morning-routine_us_599ca9dbe4b0d8dde999a444', 'short_description': 'The woman behind the job board Werk takes us through her a.m. routine.', 'date': '2017-09-22'}

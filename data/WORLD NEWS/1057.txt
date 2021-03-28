@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'A Sikh Politician Just Became The First Person Of Color To Lead A Major Canadian Political Party', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/jagmeet-singh-sikh_us_59d26a3de4b05f005d35d2cb', 'short_description': "Jagmeet Singh is the new leader of Canada's New Democratic Party.", 'date': '2017-10-02'}

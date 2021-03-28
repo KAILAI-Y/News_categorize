@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sing, Paulie, Sing: Michael Rapaport Urges Manafort To Talk In Gleeful Video', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/michael-rapaport-paulie-the-rat-manafort_us_59f79290e4b0aec1467a2d43', 'short_description': '"Whaddya got on Donald, huh?" asks the "Boston Public" actor.', 'date': '2017-10-30'}

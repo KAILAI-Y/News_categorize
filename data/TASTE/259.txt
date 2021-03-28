@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Governor Scott Walker Angers Beer Lovers Everywhere With A Single Tweet', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/scott-walker-beer-miller-lite_us_596387c3e4b0d5b458ebfa60', 'short_description': 'First he enraged food lovers with his kebabs. And now THIS.', 'date': '2017-07-10'}

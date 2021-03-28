@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Vets Fight To Save Horses In Harvey Aftermath', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/vets-fight-at-texas-park-to-hurricane-ravaged-horses_us_59acc701e4b0354e440b1c41', 'short_description': '“Their skin was literally falling off.”', 'date': '2017-09-04'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump White House Kills Off Yanny-Laurel Debate With 'Ridiculous' Clip", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-laurel-yanny-debate-video_us_5afe73dee4b0a046186a0d1d', 'short_description': "It's over.", 'date': '2018-05-18'}

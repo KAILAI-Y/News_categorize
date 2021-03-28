@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Uninsured Rate Is Worsening After Years Of Obamacare's Gains", 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/uninsured-rate-worsens_us_5af22859e4b0a0d601e7850e', 'short_description': "Trump's sabotage of Obamacare seems to be having predictable consequences.", 'date': '2018-05-09'}

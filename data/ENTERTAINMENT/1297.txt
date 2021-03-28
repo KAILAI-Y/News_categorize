@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's What Is Arriving On Amazon In February 2018", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/amazon-february-2018_us_5a70bd1be4b0be822ba0fd55', 'short_description': 'Including "Good Time" featuring Robert Pattinson.', 'date': '2018-02-01'}

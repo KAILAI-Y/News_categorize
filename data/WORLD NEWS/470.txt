@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Pope Francis Performs Impromptu Wedding Ceremony Aboard Papal Plane', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/pope-francis-wedding-plane_us_5a60ab5ae4b062a7df0b7da4', 'short_description': "It's a match made in heaven for two Chilean flight attendants.", 'date': '2018-01-18'}

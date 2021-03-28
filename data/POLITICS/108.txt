@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s Top Economic Adviser Says Amazon Threats Are ‘Not In My Lane’', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-amazon-larry-kudlow_us_5b01807fe4b0463cdba35548', 'short_description': 'Larry Kudlow dodges when asked about the president’s attacks on the retail giant.', 'date': '2018-05-20'}

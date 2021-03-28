@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Nova Scotia Plans To Sell Weed In Liquor Stores', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/nova-scotia-marijuana-liquor-stores_us_5a2d4570e4b0a290f051792f', 'short_description': "The province's sole alcohol distributor will sell pot in some of its stores and online.", 'date': '2017-12-10'}

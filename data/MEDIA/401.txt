@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Report: Rupert Murdoch Called AT&T's CEO Twice About CNN Sale", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/murdoch-calls-about-cnn-sale_us_5a065314e4b05673aa595714', 'short_description': 'Is there a Fox in the Time Warner merger deal?', 'date': '2017-11-11'}

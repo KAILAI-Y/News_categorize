@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kris Jenner Totally Face-Planted At Chrissy Teigen's Super Bowl Party", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kris-jenner-face-planted-at-chrissy-teigens-super-bowl-party-and-boy-did-it-leave-a-mark_us_5a787fe7e4b0d3df1d13f485', 'short_description': "That'll leave a mark.", 'date': '2018-02-05'}

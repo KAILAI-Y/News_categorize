@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Lena Dunham And Jack Antonoff Split After 5 Years Together', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/lena-dunham-jack-antonoff-breakup_us_5a5412dde4b0efe47ebbfd23', 'short_description': 'A source tells E! News the pair split up in December.', 'date': '2018-01-09'}

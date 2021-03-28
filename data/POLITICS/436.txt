@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Anderson Cooper Briefly Speechless When GOP Strategist Swears He's Never Heard Trump Lie", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/anderson-cooper-speechless-trump-lie_us_5aeb9d42e4b041fd2d24a7b1', 'short_description': '"Wow," he finally said.', 'date': '2018-05-04'}

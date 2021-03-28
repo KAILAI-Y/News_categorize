@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Americans Say The White House Is Creating More Problems Than It Solves', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/americans-think-white-house-creating-problems_us_598a217ce4b0449ed5062d2f', 'short_description': 'And more of the latest polling news.', 'date': '2017-08-08'}

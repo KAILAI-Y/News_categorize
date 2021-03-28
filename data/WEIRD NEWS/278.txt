@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'People Are Hilariously Reimagining Donald Trump’s Awkward Water Bottle Moment', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-water-bottle-photo-editing_us_5a0ee764e4b045cf4370f2df', 'short_description': 'Trump playing the panpipes? Check.', 'date': '2017-11-17'}

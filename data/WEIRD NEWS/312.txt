@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Your Halloween Costume Will Never Top This Dog Who Went As A Mop', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/mop-dog-halloween-costume_us_59f3a9c3e4b07fdc5fbe4a2b', 'short_description': 'Cleaning never looked so cute.', 'date': '2017-10-28'}

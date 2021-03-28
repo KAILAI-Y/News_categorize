@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Cable News Chyrons Tell The Bizarre Story Of Trump's First Year In Office", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/cable-news-chyrons-captions-trump-first-year_us_5a60fd2de4b0b3f7fa12fc33', 'short_description': 'These are not from alternate realities. These are Earth-1 stories.', 'date': '2018-01-20'}

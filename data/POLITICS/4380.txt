@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Texas Votes Against Mexican-American Studies Textbook', 'authors': 'Roque Planas', 'link': 'https://www.huffingtonpost.com/entry/texas-votes-against-mexican-american-studies-textbook_us_5a035380e4b0937b510f1450', 'short_description': 'The State Board of Education’s vote marks a setback for ethnic studies advocates.', 'date': '2017-11-08'}

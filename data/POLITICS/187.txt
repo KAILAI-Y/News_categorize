@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tweeters Take Hard Pass At RNC's Dinner And Photo With Donald Trump Prize", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rnc-donald-trump-dinner-backfires_us_5afbda3fe4b0779345d41771', 'short_description': '"Seriously? You\'re pushing raffle tickets to get a picture with an elected official?"', 'date': '2018-05-16'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Measles Deaths Are Down Around The World', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/deaths-from-measles-are-down-around-the-world_us_59f35822e4b07fdc5fbdd9e8', 'short_description': 'The death rate has dropped 84 percent in 16 years, but we still have a long way to go to eliminate the virus.', 'date': '2017-10-27'}

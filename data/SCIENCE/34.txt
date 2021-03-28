@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'In The Future We May All Talk Like Trump, Linguist Warns. Sad.', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trumpspeak-drilling-intoour-heds_us_5a656a0fe4b0022830041626', 'short_description': 'Constant repetitions are worming their way into the circuitry of our  brains.', 'date': '2018-01-22'}

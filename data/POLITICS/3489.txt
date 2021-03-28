@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Roy Moore Spokesman Says Candidate 'Probably' Thinks Gay Sex Should Be Illegal", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-campaign-spokesman-says-moore-probably-thinks-gay-sex-should-be-illegal_us_5a3051f0e4b091ca26839f5a', 'short_description': '"It\'s just a sin."', 'date': '2017-12-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's Personal Pilot Reportedly On Shortlist To Run FAA", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-john-dunkin-faa_us_5a938efce4b01e9e56bd20f0', 'short_description': '“John Dunkin isn’t just a pilot,” a White House source told Axios.', 'date': '2018-02-26'}

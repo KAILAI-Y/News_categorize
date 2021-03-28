@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: Two Terror Attacks Rock Spain", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-two-terror-attacks-rock-spain_us_5996c9bce4b0a2608a6baf04', 'short_description': '14 are reportedly dead and over 100 injured.', 'date': '2017-08-18'}

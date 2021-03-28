@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Conor McGregor Charged With Assault In Chaotic Attack Of Bus', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/conor-mcgregor-ufc-bus-assault_us_5ac735d2e4b0337ad1e67fc5', 'short_description': 'The UFC star "went bananas" and shattered a window, injuring other fighters.', 'date': '2018-04-06'}

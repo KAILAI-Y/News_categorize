@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Feeling Overwhelmed By All The News This Year? You're In The Minority.", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/news-stress-poll_us_5a7a1a08e4b06505b4e8e3f0', 'short_description': 'Americans who try to keep up with politics are split over how stressful that is.', 'date': '2018-02-06'}

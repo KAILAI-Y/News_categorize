@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ed Skrein Turns Down 'Hellboy' Role To Prevent Whitewashing", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/ed-skrein-turns-down-hellboy-role-to-prevent-whitewashing_us_59a4751ce4b050afa90bf507', 'short_description': '"Representation of ethnic diversity is important."', 'date': '2017-08-28'}

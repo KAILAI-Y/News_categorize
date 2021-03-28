@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'David Cassidy Hospitalized In Critical Condition', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/david-cassidy-hospitalized_us_5a10a1a2e4b0dd63b1aacbc5', 'short_description': 'The former "Partridge Family" star is reportedly suffering from organ failure.', 'date': '2017-11-18'}

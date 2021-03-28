@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'James Comey Needs To Get His Clinton Investigation Story Straight...Again', 'authors': 'Jason Linkins', 'link': 'https://www.huffingtonpost.com/entry/comey-clinton-russia_us_592893abe4b0df57cbfbc919', 'short_description': 'The twisted tale of a dubious document leaves more questions than answers.', 'date': '2017-05-26'}

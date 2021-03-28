@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jane Fonda Has Cancerous Growth Removed', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jane-fonda-cancerous-growth-removed-from-her-lip_us_5a5dd5a5e4b03c418968aa9f', 'short_description': 'The 80-year-old actress explained why she was wearing a bandage during a public appearance.', 'date': '2018-01-16'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Trump’s State Of The Union Speech Won’t Be The ‘Reset’ Pundits Desperately Want', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/trump-sotu-presidential-praise_us_5a6f4aa4e4b01fbbefb46ced', 'short_description': 'Can they break their pattern of praising the optics of a Trump speech?', 'date': '2018-01-30'}

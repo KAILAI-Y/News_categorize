@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Rihanna's Gucci Socks Are Jaw-Droppingly Expensive", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/rihanna-gucci-socks_us_5a2aa39ee4b0a290f0500f9d', 'short_description': "Our bank account can't handle this.", 'date': '2017-12-08'}

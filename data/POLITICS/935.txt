@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Joe Manchin Says He Doesn't Regret Voting To Confirm Scott Pruitt", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/joe-manchin-scott-pruitt_us_5acbeaaae4b09d0a1196a036', 'short_description': 'The Democratic senator says the EPA chief has been "good for West Virginia."', 'date': '2018-04-09'}

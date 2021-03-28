@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "NBC's 'Today' Show Ratings Have Increased Since Matt Lauer's Firing", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/today-show-ratings-matt-lauer_us_5a315944e4b01bdd76594ad6', 'short_description': 'Lauer was fired from the show after multiple women accused him of sexual misconduct.', 'date': '2017-12-13'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah: ‘I’m Sorry Man, But Donald Trump Is A Proper Asshole’', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-andrew-mccabe_us_5ab0b7dae4b0697dfe19ed67', 'short_description': '"Like if being an asshole were an arcade game, he would have all the top scores."', 'date': '2018-03-20'}

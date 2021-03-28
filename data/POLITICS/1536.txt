@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Companies Are Disclosing How Much Less They Pay Workers Than Executives', 'authors': 'Arthur Delaney and Dave Jamieson', 'link': 'https://www.huffingtonpost.com/entry/ceo-pay-disclosure_us_5aa6da18e4b03c9edfae9aec', 'short_description': 'And some firms seem a little embarrassed.', 'date': '2018-03-13'}

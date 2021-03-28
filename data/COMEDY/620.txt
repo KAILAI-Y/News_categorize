@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Larry David Goes To The  Dark Side With Death Camp Pick-Up Lines On 'SNL'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/larry-david-concentration-camp-snl_us_59febf95e4b0c9652fffcbf0', 'short_description': "Twitter's not laughing.", 'date': '2017-11-05'}

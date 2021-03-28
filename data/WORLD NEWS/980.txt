@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Iraqi Army Seizes Kirkuk From Kurds', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/iraq-army-kirkuk_us_59e48d30e4b0a52aca190fb4', 'short_description': "Baghdad isn't pleased with the region of Kurdistan's emboldened attempts at independence.", 'date': '2017-10-16'}

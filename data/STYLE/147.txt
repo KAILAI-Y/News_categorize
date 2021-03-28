@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'The Best Place To Buy Designer Fall Clothes On Sale', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/shopbop-surprise-sale_us_59f9d370e4b00c6145e301bc', 'short_description': 'This secret sale only lasts until Nov. 2.', 'date': '2017-11-01'}

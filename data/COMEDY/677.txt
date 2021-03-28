@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher: America 'Really Should Fight Back' Against Russian Attacks", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-russia-america-attacks-fight-back_us_59eaf0cce4b0a484d06373cc', 'short_description': '"We stopped fighting the Cold War, but the Russians never did."', 'date': '2017-10-21'}

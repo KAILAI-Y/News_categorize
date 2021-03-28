@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Patriots' James Harrison Shows Off Customized AK-47 On Instagram", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/patriots-james-harrison-shows-off-custom-ak-47-on-instagram_us_5a5f2b57e4b0ee2ff32be2be', 'short_description': "The gun-loving linebacker's picture triggers criticism.", 'date': '2018-01-17'}

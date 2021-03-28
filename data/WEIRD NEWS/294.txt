@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Driverless Shuttle Gets Hit By A Truck During Its Debut Ride In Las Vegas', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/driverless-shuttle-hit-by-truck_us_5a0371bfe4b03deac08af3db', 'short_description': 'The human truck driver was cited for the accident. No one was injured.', 'date': '2017-11-09'}

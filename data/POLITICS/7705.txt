@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How Trump Gives Protection A Bad Name', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/how-trump-gives-protection-a-bad-name_us_5962e96ce4b0615b9e927519', 'short_description': "Trump's trade policy is a menace, but not for the reasons many people think.", 'date': '2017-07-10'}

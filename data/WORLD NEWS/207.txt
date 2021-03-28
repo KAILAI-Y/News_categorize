@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Man Dies After Getting Head Stuck In Movie Theater Seat', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ateeq-rafiq-freak-theater-accident_us_5ab28d2ae4b0decad04634a0', 'short_description': "The footrest on the electrically-powered seat clamped down on the victim's head.", 'date': '2018-03-21'}

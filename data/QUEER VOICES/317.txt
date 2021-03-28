@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'This Grade School Teacher Was Fired Days After Marrying Her Wife', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/florida-teacher-fired-same-sex-weding_us_5a7fbd85e4b0c6726e141da8', 'short_description': 'Officials say Jocelyn Morffi\'s dismissal was "difficult" but "necessary."', 'date': '2018-02-11'}

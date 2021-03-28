@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Bryant Gumbel Thanked Donald Trump For NFL Rant, And For Good Reason', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/byrant-gumbel-trump-nfl_us_59cb44f1e4b02aef6cd61351', 'short_description': 'The "Real Sports" host ended his show with a powerful message.', 'date': '2017-09-27'}

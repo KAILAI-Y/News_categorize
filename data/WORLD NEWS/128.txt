@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Explosions Heard In Rural Area Near Aleppo', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/explosions-government-controlled-area-near-aleppo_us_5ad26782e4b016a07e9d08df', 'short_description': 'The cause of the explosion was not immediately clear, said The Syrian Observatory for Human Rights.', 'date': '2018-04-14'}

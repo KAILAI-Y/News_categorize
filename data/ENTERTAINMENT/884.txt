@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kristen Wiig Officially Joining Cast For 'Wonder Woman 2'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/kristen-wiig-wonder-woman-cheetah_us_5aa2bec0e4b086698a9d6a8f', 'short_description': 'Director Patty Jenkins has confirmed the news.', 'date': '2018-03-09'}

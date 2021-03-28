@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Diane Keaton On Woody Allen: ‘I Continue To Believe Him’', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/diane-keaton-woody-allen_us_5a70804ee4b0a52682ff9a51', 'short_description': '“Woody Allen is my friend.”', 'date': '2018-01-30'}

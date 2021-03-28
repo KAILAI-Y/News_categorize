@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'China Shuts Down Domestic Ivory Trade In Effort To Fight Poaching', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/china-bans-ivory-sales_us_5a47a24ae4b06d1621b8f856', 'short_description': '“We can start 2018 hopeful that elephants will be safer," said one environmentalist.', 'date': '2017-12-30'}

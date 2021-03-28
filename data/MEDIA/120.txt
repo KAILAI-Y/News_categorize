@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Parkland Survivor Slams Fox News Host: ‘Coming From A 14-Year-Old, Please Grow Up’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/lauren-hogg-laura-ingraham_us_5abc7654e4b06409775d0d2c', 'short_description': 'Teens call for boycott of Laura Ingraham after she mocked a shooting survivor.', 'date': '2018-03-29'}

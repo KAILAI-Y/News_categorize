@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ohio Legislator Says Students Should Be Able To Bring Guns To School', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/niraj-antani-guns-in-school_us_5aabe38ce4b05b2217fe54ea', 'short_description': 'He has a very open idea of open carry.', 'date': '2018-03-16'}

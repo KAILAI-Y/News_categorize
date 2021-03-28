@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Twitter Sends Emotional Thanks To 'Sesame Street' After It Tweets Pride Message", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/sesame-street-pride-message_us_59529dbae4b0da2c731f07cb', 'short_description': '"You guys have made so many childhoods."', 'date': '2017-06-27'}

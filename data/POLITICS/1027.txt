@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Hillary Clinton Recalls Hairy Story About 'Misogynist' Vladimir Putin", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-tells-hairy-story-about-misogynist-vladimir-putin_us_5ac493c0e4b093a1eb2076bb', 'short_description': 'It involved a dog and German Chancellor Angela Merkel.', 'date': '2018-04-04'}

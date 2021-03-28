@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Express Outrage As GOP Tax Cuts Inch Closer To Completion', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/democrats-outrage-gop-tax-cuts_us_5a39ff6be4b025f99e132495', 'short_description': '"Let\'s call this out for what it is: Government for sale."', 'date': '2017-12-20'}

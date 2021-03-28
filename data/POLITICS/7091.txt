@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Has Parted Ways With A Shocking Number Of Senior Officials', 'authors': "Daniel Marans and Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/donald-trump-priebus-flynn-comey-firings_us_597d1c2be4b02a4ebb75e460', 'short_description': 'Remember Michael Flynn?', 'date': '2017-07-30'}

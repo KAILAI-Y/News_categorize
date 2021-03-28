@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Tim Federle Reveals Cover Of His New Book For Young Readers', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/tim-federle-nate-expectations_us_5a50008ee4b01e1a4b151bbe', 'short_description': '"Nate Expectations" completes Federle\'s queer-inclusive, theater-themed trilogy.', 'date': '2018-01-11'}

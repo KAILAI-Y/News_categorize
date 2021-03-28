@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Tiger Attacks And Kills Keeper At U.K. Zoo', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/tiger-kills-zookeeper-hamerton-zoo-park_us_592c909be4b0df57cbfccdf0', 'short_description': 'The Hamerton Zoo Park called the fatal incident a "freak accident."', 'date': '2017-05-29'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Before 'Fake News,' Trump Gloated About His Fake Renoir", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-fake-renoir_us_59eacb8be4b0a484d0636b01', 'short_description': 'He refuses to see a phony staring him in the face, says biographer.', 'date': '2017-10-21'}

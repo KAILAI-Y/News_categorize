@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Thoughts On Charlottesville, 'The Many Sides,' And White Supremacy", 'authors': 'Bianca Carrizal, ContributorStudent', 'link': 'https://www.huffingtonpost.com/entry/thoughts-on-charlottesville-the-many-sides-and_us_598f59e0e4b063e2ae058019', 'short_description': 'Imagine if these people ever faced real oppression.', 'date': '2017-08-12'}

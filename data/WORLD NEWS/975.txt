@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "ISIS Losing Its 'Capital' Is A Pivotal Defeat For The Terrorist Group", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/raqqa-isis-syria_us_59e36c76e4b03a7be5813ab4', 'short_description': 'U.S.-backed forces have finally retaken the Syrian city of Raqqa.', 'date': '2017-10-17'}

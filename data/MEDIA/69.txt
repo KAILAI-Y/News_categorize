@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "This Year's Pulitzer Prizes Honor Reporting On The Me Too Movement", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/2018-pulitzer-prize-winners_us_5ad4d4d7e4b077c89ceb701f', 'short_description': 'The New York Times and The New Yorker jointly won for their coverage of sexual assault in Hollywood.', 'date': '2018-04-16'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Amazon Can't Target People Unable To Spell 'Birkenstock': Judge", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/amazon-birkenstock-germany_us_5a46d990e4b0b0e5a7a68354', 'short_description': 'The sandal maker fears Amazon might sell low-quality counterfeits.', 'date': '2017-12-30'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Obi-Wan Kenobi Is Apparently Getting His Own 'Star Wars' Movie", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/star-wars-obi-wan-kenobi_us_5995cd79e4b0d0d2cc853653', 'short_description': 'There are going to be so many "Star Wars" movies.', 'date': '2017-08-17'}

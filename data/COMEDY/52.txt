@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Gives Michael Cohen A Biting New 'Breaking Bad'-Themed Nickname", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-michael-cohen-donald-trump_us_5af53c71e4b0e57cd9f8038b', 'short_description': "He also likened Trump's personal attorney to a Nigerian Prince scam artist.", 'date': '2018-05-11'}

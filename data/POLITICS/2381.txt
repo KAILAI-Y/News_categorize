@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sarah Sanders Says Nancy Pelosi Should Smile More For The Good Of The Nation', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/sarah-huckabee-sanders-nancy-pelosi-should-smile-more_us_5a71d6b2e4b0ae29f08ce04e', 'short_description': 'OK.', 'date': '2018-01-31'}

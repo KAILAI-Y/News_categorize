@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Now Boba Fett Is Getting His Own 'Star Wars' Movie", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/boba-fett-movie_us_5b07991fe4b0fdb2aa51f2dd', 'short_description': 'An Obi-Wan Kenobi film is also reportedly in development.', 'date': '2018-05-25'}

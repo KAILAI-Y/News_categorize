@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Amazon Is Creating A 'Lord Of The Rings' Prequel Series", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/amazon-lord-of-the-rings-show_us_5a09efb5e4b0b17ffcdf83bc', 'short_description': 'The network announced in a press release that it plans to "explore new storylines."', 'date': '2017-11-13'}

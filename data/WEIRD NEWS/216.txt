@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Florida Man Beats Up ATM For Giving Him Too Much Cash, Police Say', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/michael-oleksik-atm_us_5a42b049e4b0b0e5a7a38245', 'short_description': "Money! It's what he didn't want.", 'date': '2017-12-26'}

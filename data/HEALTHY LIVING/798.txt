@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "What It's Really Like To Have A Miscarriage", 'authors': 'Anna Almendrala and Nick Offenberg', 'link': 'https://www.huffingtonpost.com/entry/miscarriage-stories-what-its-like_us_589e21cee4b094a129eb076a', 'short_description': "Pregnancy loss is common, but you wouldn't know it from the way society talks about it.", 'date': '2017-06-14'}

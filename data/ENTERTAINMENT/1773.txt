@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Will Smith Explains Why He Can't Watch Himself On 'The Fresh Prince'", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/will-smith-cant-watch-himself-fresh-prince_us_5a3bb180e4b0b0e5a79ffb4a', 'short_description': '"It’s terrible and I can’t bear to watch it."', 'date': '2017-12-21'}

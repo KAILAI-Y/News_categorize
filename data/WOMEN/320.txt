@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'A Movement, Not A Mob', 'authors': 'Nadine Smith, ContributorFlorida-based civil rights organizer. LGBT Advocate. Executive...', 'link': 'https://www.huffingtonpost.com/entry/a-movement-not-a-mob_us_5a15d70ee4b0250a107bfd47', 'short_description': 'Let us be unflinching and wise.', 'date': '2017-11-22'}

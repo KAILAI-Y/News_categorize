@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Guns And Prayers', 'authors': 'Kerry Walters, ContributorProfessor Emeritus of Philosophy, Gettysburg College; Catholic...', 'link': 'https://www.huffingtonpost.com/entry/guns-prayers_us_5a043f92e4b0204d0c171492', 'short_description': 'Talk is cheap. But not all prayer is.', 'date': '2017-11-09'}

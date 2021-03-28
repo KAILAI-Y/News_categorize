@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Watchdog Group Accuses Nikki Haley Of Illegally Endorsing GOP Candidate', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/nikki-haley-crew-complaint_us_5955be17e4b0da2c732260ec', 'short_description': 'CREW says the Hatch Act prohibits the ambassador from using her office to sway an election.', 'date': '2017-06-30'}

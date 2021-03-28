@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Gunmen Attack Restaurant In Burkina Faso, Kill At Least 18', 'authors': 'By Thiam Ndiaga, Reuters', 'link': 'https://www.huffingtonpost.com/entry/burkina-faso-restaurant-attack_us_59912268e4b09071f69aa284', 'short_description': '“This is a terrorist attack,” Communications Minister Remi Dandjinou said.', 'date': '2017-08-14'}

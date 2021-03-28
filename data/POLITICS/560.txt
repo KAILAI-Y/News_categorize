@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Date For Donald Trump's U.K. Visit Scares The Bejesus Out Of Superstitious Tweeters", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-uk-visit-friday-13_us_5ae2e76ae4b055fd7fcaaa48', 'short_description': '"Either somebody really didn\'t think this through... or they really did."', 'date': '2018-04-27'}

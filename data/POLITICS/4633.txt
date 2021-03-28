@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Manafort Wanted Respect And Power', 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/paul-manafort-money-life_us_59f78827e4b0c0c8e67c16b1', 'short_description': 'He settled for money, but the bottom line could be jail.', 'date': '2017-10-30'}

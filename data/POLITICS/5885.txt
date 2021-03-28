@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Former CDC Director's New Initiative Aims To Save 100 Million Lives", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tom-frieden-resolve-cardiovascular-health_us_59b7e9cee4b027c149e27ac1', 'short_description': 'Tom Frieden also hopes to increase global epidemic preparedness.', 'date': '2017-09-12'}

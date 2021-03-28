@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Orrin Hatch Calls Obamacare Supporters 'The Stupidest, Dumbass People I've Ever Met'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/orrin-hatch-obamacare-supporters-dumbasses_us_5a988eafe4b0a0ba4ad19ef4', 'short_description': '“The comments were obviously made in jest," his spokesman said.', 'date': '2018-03-02'}

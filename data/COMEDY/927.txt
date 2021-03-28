@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Dad Figures Out Very Dad-Like Way To Sleep Face Down In A Pool', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/dad-sleeps-face-down-pool-snorkel_us_59551576e4b02734df308d87', 'short_description': "Don't worry, he's alive and well.", 'date': '2017-06-29'}

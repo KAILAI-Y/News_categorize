@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Senators Are Pushing Lisa Murkowski For A Hasty Yes On Obamacare Repeal', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/republicans-health-care-votes-lisa-murkowski_us_59c18c34e4b087fdf508e00f', 'short_description': 'Without the Alaska senator, the clock may run out on their latest bill.', 'date': '2017-09-19'}

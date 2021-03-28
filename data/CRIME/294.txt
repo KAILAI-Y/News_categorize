@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'High School Football Team Forfeits Entire Season Amid OxyContin Scandal', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/high-school-football-team-forfeits-season-in-oxycontin-scandal_us_59ce63c7e4b06791bb10447b', 'short_description': 'Several players are accused of taking the pills before a game.', 'date': '2017-09-29'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Sarah Sanders Asks Press To Say What They're Thankful For Before Questions", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/sanders-thanksgiving-press-briefing_us_5a13592fe4b0c335e996d80d', 'short_description': '“I hope you felt the passion of my thankfulness," April Ryan said.', 'date': '2017-11-21'}

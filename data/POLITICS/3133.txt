@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Stranger Who Sent Steve Mnuchin A Box Of Horse Poo Has Come Forward', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/steve-mnuchin-horse-manure_us_5a3ffcb8e4b06d1621b503e5', 'short_description': 'Merry Christmas!', 'date': '2017-12-25'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Warrior Women Are The Role Models We Need', 'authors': 'Brynn Tannehill, ContributorBoard member of the Trans United Fund', 'link': 'https://www.huffingtonpost.com/entry/warrior-women-are-the-role-models-we-need_us_59976d98e4b02eb2fda32001', 'short_description': 'We need them, because they give us hope.', 'date': '2017-08-18'}

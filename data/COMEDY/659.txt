@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Try Not To Laugh At Ricky Gervais' Facial Expressions", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/try-not-to-laugh-at-ricky-gervaiss-facial-expressions_us_59f07125e4b0b7e632661739', 'short_description': 'Jimmy Fallon couldn\'t keep it together on "The Tonight Show."', 'date': '2017-10-25'}

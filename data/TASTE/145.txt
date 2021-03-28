@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "McDonald's Denies Claims That Employees Are Taught To Under-Fill Your Fries", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/mcdonalds-underfills-fries_us_59b7dcc6e4b09be4165816e4', 'short_description': 'Apparently there\'s a whole "pinch the bottom of the carton" trick.', 'date': '2017-09-12'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "World's Dumbest Shoplifters Literally Run Into The Police At Costco", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/costco-shoplifting-caught-on-camera_us_5aaf0ed2e4b0c33361b1c199', 'short_description': 'Suspects are accused of taking $2,200 in merch from the warehouse club.', 'date': '2018-03-19'}

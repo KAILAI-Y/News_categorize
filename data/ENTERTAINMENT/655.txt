@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Channing Tatum And Jenna Dewan Tatum Split, And People Are Worried Love Is Dead', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/channing-tatum-and-jenna-dewan-tatum-split_us_5ac30270e4b00fa46f858bea', 'short_description': '"We have lovingly chosen to separate as a couple."', 'date': '2018-04-03'}

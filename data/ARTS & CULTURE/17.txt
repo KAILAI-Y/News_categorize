@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Merriam-Webster Tweets About 'Doggos,' Gets Flooded With 'Good Boys And Girls'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/merriam-webster-tweets-about-doggos-gets-flooded-with-good-boys-and-girls_us_5a43f6bee4b06d1621b6a8a8', 'short_description': "Don't stop retrievin'.", 'date': '2017-12-27'}

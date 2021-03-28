@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New TV Ad Thanks Trump For Ending War On Christmas That Never Existed', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/new-tv-ad-thanks-trump-for-ending-war-on-christmas-that-never-existed_us_5a3ea0aae4b025f99e177d8b', 'short_description': 'Happy holidays!', 'date': '2017-12-23'}

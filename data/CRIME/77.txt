@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "YouTube Shooter Was 'Upset' With Company, Police Say", 'authors': 'Carla Herreria, Nick Visser, and Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/youtube-office-shots-fired_us_5ac3de0fe4b093a1eb1fde7e', 'short_description': "Four people were injured in the attack at the company's headquarters.", 'date': '2018-04-03'}

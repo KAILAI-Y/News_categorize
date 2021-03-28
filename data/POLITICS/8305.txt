@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Downed Jet Is The Latest Element In The Syrian Powder Keg', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-syria-russia_us_594840a7e4b0edb84c14ed11', 'short_description': 'The White House calls it “self-defense,” and Russia has responded by threatening to shoot down American planes.', 'date': '2017-06-19'}

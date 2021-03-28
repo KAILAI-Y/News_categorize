@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "9 Times Donald Trump Showed He Doesn't Understand The Climate Pact He Just Quit", 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/trump-paris-speech-fact-check_us_59309ab8e4b02478cb99f151', 'short_description': 'The president never even mentioned, you know, global warming.', 'date': '2017-06-02'}

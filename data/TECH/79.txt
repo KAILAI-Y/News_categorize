@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Company Blames Secret Intimate Recordings By Sex Toy On 'Minor Bug'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/lovense-vibrator-recordings_us_5a08cdade4b0e37d2f383425', 'short_description': "Vibrator app wasn't directed to eavesdrop.", 'date': '2017-11-13'}

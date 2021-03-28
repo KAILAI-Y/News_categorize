@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Gap And Old Navy Have Winter Clothes Half Off Right Now', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/what-to-buy-on-black-friday-at-old-navy-and-gap_us_5a1466d6e4b025f8e931f962', 'short_description': 'Stock up on a whole new winter wardrobe for under $100.', 'date': '2017-11-22'}

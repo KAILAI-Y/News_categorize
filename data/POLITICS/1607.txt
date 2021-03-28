@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Florida Legislature Passes Bill Allowing Guns On Campus', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/florida-passes-guns-on-campu_us_5aa07986e4b002df2c6089e7', 'short_description': "Gov. Rick Scott has expressed hesitancy over the bill and hasn't ruled out a veto.", 'date': '2018-03-08'}

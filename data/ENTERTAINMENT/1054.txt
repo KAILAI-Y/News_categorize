@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Director Kevin Smith Suffers Massive Heart Attack', 'authors': 'Jade Walker', 'link': 'https://www.huffingtonpost.com/entry/kevin-smith-heart-attack_us_5a93e59ce4b01e9e56bd7e10', 'short_description': '"I\'m still above ground!"', 'date': '2018-02-26'}

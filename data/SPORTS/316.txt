@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Viewers Rip Brett Young For National Anthem At NHL All-Star Game', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/brett-young-national-anthem-nhl-all-star-game_us_5a6ef70be4b0ddb658c83804', 'short_description': 'The country star got the cold shoulder for his downbeat rendition.', 'date': '2018-01-29'}

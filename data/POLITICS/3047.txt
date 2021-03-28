@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mike Pence's Aspen Vacation Cost A Small Business $10,000 In Lost Earnings", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-aspen-vacation-hurts-small-business_us_5a4bda08e4b06d1621bb4a86', 'short_description': 'Business friendly!', 'date': '2018-01-02'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Eric McCormack On New Rules For 'Will & Grace'", 'authors': 'Jill Serjeant, Reuters', 'link': 'https://www.huffingtonpost.com/entry/eric-mccormack-will-and-grace_us_59cf9592e4b09538b508799c', 'short_description': '"I know we are going to push the boundaries because there is no fun if you don‘t."', 'date': '2017-09-30'}

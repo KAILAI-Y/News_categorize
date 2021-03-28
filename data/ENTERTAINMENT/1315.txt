@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Charlie Walk Of Fox's 'The Four' Accused Of Sexual Misconduct", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/charlie-walk-sexual-misconduct_us_5a7056dee4b0a52682ff5474', 'short_description': "The singing talent show's prize is a recording contract with Walk's label.", 'date': '2018-01-30'}

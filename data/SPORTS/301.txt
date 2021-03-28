@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'After An NFL Season Defined By Black Protest, The Super Bowl Sticks To Sports', 'authors': 'Travis Waldron', 'link': 'https://www.huffingtonpost.com/entry/nfl-super-bowl-protests_us_5a762325e4b0905433b4b1be', 'short_description': "Agitation is taking a knee, and the league couldn't be happier.", 'date': '2018-02-04'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Your Instagram Photos May Reveal Whether Or Not You Have Depression', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/instagram-depression-study_us_5989b9e9e4b0d793738a3074', 'short_description': 'The power of social media.', 'date': '2017-08-08'}

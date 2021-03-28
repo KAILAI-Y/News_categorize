@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Dismisses Campaign Adviser As 'Young, Low Level Volunteer'", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-george-papadopoulos_us_59f86a2ee4b0aec1467aa951', 'short_description': "It's a line of defense similar to ones he's used before.", 'date': '2017-10-31'}

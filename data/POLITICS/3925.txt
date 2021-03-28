@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Access Hollywood' Shoots Down Trump: 'The Tape Is Very Real'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/access-hollywood-trump-tape_us_5a1cf253e4b0e2ddcbb23733', 'short_description': '"He said every one of those words."', 'date': '2017-11-28'}

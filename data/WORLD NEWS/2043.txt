@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "London Mayor Defended on Social Media After Donald Trump's Tweet", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/london-mayors-defense-donald-trump-tweet_us_59340135e4b075bff0f45481', 'short_description': 'J.K Rowling and Christiane Amanpour are among those setting the record straight.', 'date': '2017-06-04'}

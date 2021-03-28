@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Says Obamacare Is 'Imploding.' That's News To California.", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/covered-california-obamacare_us_5936cf84e4b013c4816b639f', 'short_description': 'Funny what happens when officials actually believe in the program.', 'date': '2017-06-10'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "2 Women Accuse Tom Brokaw Of Sexual Harassment In The '90s", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/two-women-accuse-tom-brokaw-of-sexual-harassment_us_5ae26f13e4b02baed1b87faa', 'short_description': 'A former NBC News war correspondent is among those accusing the longtime anchor.', 'date': '2018-04-27'}

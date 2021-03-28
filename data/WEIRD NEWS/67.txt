@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Louisiana Woman Creates Frog Bikini (And It's Ribbiting)", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/fabiana-lefleur-frog-bikini_us_5acf71d8e4b0d4931c8af7ea', 'short_description': 'Fabiana LeFleur warned the suit has little support in the bosom, so wardrobe malfunctions are "inevitable."', 'date': '2018-04-12'}

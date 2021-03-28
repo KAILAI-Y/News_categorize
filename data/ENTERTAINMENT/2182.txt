@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Meryl Streep And Anna Wintour Just Had A 'Devil Wears Prada' Moment", 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/meryl-streep-anna-wintour-devil-wears-prada_us_5a05cb60e4b05673aa58fd5c', 'short_description': 'And it was fabulous.', 'date': '2017-11-10'}

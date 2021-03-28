@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "People Really Appreciate The Irony Of Michael Flynn's 'Lock Her Up' Chant", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/michael-flynn-lock-her-up-irony_us_5a218094e4b0a02abe90dc55', 'short_description': '"Life comes at you fast."', 'date': '2017-12-01'}

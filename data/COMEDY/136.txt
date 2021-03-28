@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Comey Hits Trump Where It Hurts: 'I'm Like A Breakup He Can't Get Over'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-james-comey_us_5ad6c617e4b0e4d0715b3f06', 'short_description': 'The former FBI director drinks and dishes about the president on the "Late Show."', 'date': '2018-04-18'}

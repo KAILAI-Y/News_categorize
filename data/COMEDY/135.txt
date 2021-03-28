@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Conan O'Brien Reveals How Donald Trump Coped When Twitter Went Down", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/conan-obrien-donald-trump-twitter_us_5ad7193ae4b029ebe01f71c7', 'short_description': 'Pity the passersby.', 'date': '2018-04-18'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'UCLA Basketball Players Freed Before Trump Intervened: Report', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/ucla-players-left-china-before-trump-intervened_us_5a9b3a5fe4b089ec353aeaea', 'short_description': "An ESPN investigation found Trump wasn't involved with the students' release.", 'date': '2018-03-04'}

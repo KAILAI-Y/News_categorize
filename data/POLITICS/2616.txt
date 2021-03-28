@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Flubs Key Line In Anti-Abortion Speech', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-flubs-anti-abortion-speech_us_5a627b15e4b002283002c6c0', 'short_description': 'President says it\'s "wrong" that laws allow babies to be born in the ninth month.', 'date': '2018-01-20'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "These Are The Mother's Day Gifts Your Weird Mom Really Wants", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/weird-mothers-day-gifts_us_5aebc5c3e4b0ab5c3d63a1d6', 'short_description': 'No matter if your mom is into "Star Wars," wine or something even wilder, we\'ve got you covered.', 'date': '2018-05-04'}

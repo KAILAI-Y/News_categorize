@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'BET Chairman and CEO Debra Lee Is Stepping Down', 'authors': 'Carla Baranauckas', 'link': 'https://www.huffingtonpost.com/entry/bet-ceo-stepping-down-debra-lee_us_5b071754e4b07c4ea1066888', 'short_description': 'Lee brought more original shows to the black entertainment network and focused on family programming.', 'date': '2018-05-25'}

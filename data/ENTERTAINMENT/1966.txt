@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "People Can't Get Over Britney Spears' Christmas Tree", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/britney-spears-christmas-tree_us_5a211c35e4b0a02abe902155', 'short_description': 'Literally and figuratively.', 'date': '2017-12-01'}

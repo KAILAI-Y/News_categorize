@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Blade Runner 2049' Falls Short At Box Office On Opening Weekend", 'authors': 'Dave McNary, Reuters', 'link': 'https://www.huffingtonpost.com/entry/blade-runner-box-office-debut_us_59da70fde4b072637c44df4b', 'short_description': 'The sequel to 1982\'s "Blade Runner" earned a lower-than-expected $31.5 million.', 'date': '2017-10-08'}

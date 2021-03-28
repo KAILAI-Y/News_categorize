@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Marshawn Lynch Showed Up On Game Day Wearing 'Everybody vs. Trump' Shirt", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/trump-marshawn-lynch-nfl_us_59d16c5ce4b05f005d350abb', 'short_description': '"And with the pants sagging ... extra petty. I\'m here for it all," Jemele Hill tweeted.', 'date': '2017-10-01'}

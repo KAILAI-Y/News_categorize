@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Make Healthy Mashed Potatoes With This One Kitchen Tool', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/how-to-make-healthy-mashed-potatoe_us_59fa12cde4b0b0c7fa37970a', 'short_description': 'Hint: Ditch the spuds.', 'date': '2017-11-02'}

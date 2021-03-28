@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Seth Rogen Takes Down Donald Trump In Donald Trump Jr.'s DMs", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/seth-rogen-takes-down-donald-trump-in-donald-trump-jrs-dms_us_59dfaf18e4b0a52aca166cbf', 'short_description': '"Are you aware your father has been accused of sexual harassment?"', 'date': '2017-10-12'}

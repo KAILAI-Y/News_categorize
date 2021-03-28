@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Ready Player One' Scores At The Box Office", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/ready-player-one-box-office_us_5ac1ecd5e4b0f112dc9d8542', 'short_description': 'The virtual reality fantasy currently holds an A- CinemaScore and 76 percent on Rotten Tomatoes.', 'date': '2018-04-02'}

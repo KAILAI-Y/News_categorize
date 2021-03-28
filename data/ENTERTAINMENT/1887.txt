@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kevin Spacey Replacement Christopher Plummer Scores Golden Globe Nod', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kevin-spacey-replacement-christopher-plummer-scores-golden-globe-nod_us_5a2e9783e4b0a290f05256d7', 'short_description': 'Oof.', 'date': '2017-12-11'}

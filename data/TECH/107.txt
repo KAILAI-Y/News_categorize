@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Why Air Travel Still Sucks', 'authors': 'Nikhil Reddy', 'link': 'https://www.huffingtonpost.com/entry/why-air-travel-still-sucks_us_5977be3ee4b0e201d579471d', 'short_description': 'What if I told you we haven’t seen a genuine innovation to commercial flight in over 60 years? The Boeing 707 of the 1950s', 'date': '2017-07-25'}

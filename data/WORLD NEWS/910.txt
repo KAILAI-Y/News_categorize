@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hundreds Of Thousands March For Unified Spain in Barcelona', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/catalonia-poll-spain-independence_us_59f5da6fe4b07fdc5fbeb0e4', 'short_description': "It's one of the biggest pro-unity rallies amid Catalonia's independence crisis.", 'date': '2017-10-29'}

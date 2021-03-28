@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kid Golfer With One Arm Shows Off His Drive On 'Little Big Shots'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tommy-morrissey-little-big-shots_us_5addd261e4b075b631e7fedf', 'short_description': 'Tommy Morrissey adorably schools Steve Harvey.', 'date': '2018-04-23'}

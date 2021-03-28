@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Please Explain Why Vanity Fair Gave Oprah 3 Hands In This Photo', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/reese-witherspoon-oprah-3-hands-legs-vanity-fair_us_5a6a2a27e4b01fbbefafe5c4', 'short_description': 'Another image shows Reese Witherspoon with what looks like three legs.', 'date': '2018-01-26'}

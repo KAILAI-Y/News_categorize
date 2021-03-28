@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Carl Kasell, Iconic Newscaster Whose Voice Defined NPR, Dead At 84', 'authors': 'Rebecca Shapiro and David Moye', 'link': 'https://www.huffingtonpost.com/entry/carl-kasell-dead-iconic-npr-newscaster_us_5ad65328e4b0e4d0715b0d61', 'short_description': "The famed radio man died of complications from Alzheimer's disease.", 'date': '2018-04-17'}

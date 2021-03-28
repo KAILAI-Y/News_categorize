@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Chef On 'Today' Goes Rogue And Puts Mayo In The Mashed Potatoes", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/mayo-mashed-potatoes-elizabeth-heiskell_us_5a16f33ee4b0649480734c74', 'short_description': "Welcome to Thanksgiving in Trump's America.", 'date': '2017-11-23'}

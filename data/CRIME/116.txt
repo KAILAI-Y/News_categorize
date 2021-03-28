@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Parkland School Shooter Indicted On 17 Counts Of Murder', 'authors': 'Reuters, Reuters', 'link': 'https://www.huffingtonpost.com/entry/parkland-school-shooter-indictments-murder_us_5aa04045e4b002df2c604b73', 'short_description': 'Nikolas Cruz faces a maximum sentence of either execution or life in prison.', 'date': '2018-03-07'}

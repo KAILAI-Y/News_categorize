@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Reportedly Gives Mattis Authority To Set Troop Levels In Afghanistan', 'authors': 'Phil Stewart and Idrees Ali, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-afghanistan-troop-levels_us_5940788fe4b003d5948bdfb5', 'short_description': 'The move opens the door for future troop increases.', 'date': '2017-06-13'}

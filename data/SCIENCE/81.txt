@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': "'Bergxit': One Of The Largest Icebergs On Record Set To Break From Antarctic Shelf", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/larsen-c-ice-shelf-iceberg_us_595d1c68e4b02734df359334', 'short_description': 'Experts say the chunk of ice will be larger than the island of Bali.', 'date': '2017-07-05'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Britain's Snap Election Takes A Surprising Turn Days Away From The Vote", 'authors': 'Paul Waugh, HuffPost UK', 'link': 'https://www.huffingtonpost.com/entry/uk-election-may-corbyn-polls_us_592dac9fe4b0c0608e8bb61b', 'short_description': 'New polls bring uncertainty and turn up the heat on the U.K. vote.', 'date': '2017-06-02'}

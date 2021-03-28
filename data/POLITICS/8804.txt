@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's Political Arm Cites InfoWars In An Email Boasting About Crowd Size", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/alex-jones-donald-trump-fundraising-email_us_593306d1e4b0c242ca249805', 'short_description': 'The far-right website is known for hawking conspiracy theories.', 'date': '2017-06-03'}

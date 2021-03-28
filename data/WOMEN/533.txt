@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Laura Dern On The Low-Key Feminist Moment From 'Jurassic Park' You Might've Missed", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/laura-dern-on-the-low-key-feminist-moment-from-jurassic-park-you-mightve-missed_us_59a57a18e4b050afa90cc20c', 'short_description': "And why it's important.", 'date': '2017-08-29'}

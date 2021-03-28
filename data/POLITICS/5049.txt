@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Federal Judge Rules Handcuffing Little Kids Above Their Elbows Is Unconstitutional', 'authors': 'Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/handcuffs-little-kids-unconstitutional_us_59e127fce4b0a52aca1809ad', 'short_description': 'The cuffs twisted the arms of the 8-year-boy behind his back.', 'date': '2017-10-13'}

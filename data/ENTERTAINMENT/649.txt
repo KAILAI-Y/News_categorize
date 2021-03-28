@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kaley Cuoco Explains Why Her Ex-Husband 'Ruined' Marriage For Her", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kaley-cuoco-ryan-sweeting-cosmo_us_5ac4d242e4b093a1eb210ee1', 'short_description': '"And that wasn’t my fault ― that was his."', 'date': '2018-04-04'}

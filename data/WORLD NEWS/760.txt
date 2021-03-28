@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Central London Panics Over Reports Of Shots Fired', 'authors': 'Sara Boboltz, Alana Horowitz Satlin, and Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/shots-fired-in-central-london_us_5a1852a4e4b0d4906cae8ceb', 'short_description': 'But police could not find evidence of gunshots.', 'date': '2017-11-24'}

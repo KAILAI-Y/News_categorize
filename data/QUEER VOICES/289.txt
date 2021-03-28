@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Daniela Vega To Be The Oscar's First Openly Transgender Presenter", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/daniela-vega-oscars-presenter_us_5a8b1755e4b05c2bcace123f', 'short_description': 'And the winner is ... all of us!', 'date': '2018-02-19'}

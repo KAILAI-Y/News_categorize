@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Jay-Z Calls Pain That Inspired '4:44' And Beyoncé's 'Lemonade' 'The Hardest Thing'", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/jay-z-t-magazine_us_5a1ec80be4b0dc52b02aeec3', 'short_description': 'He added that the two were working on a joint album before dropping their solo albums.', 'date': '2017-11-29'}

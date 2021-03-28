@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Blasts Michael Wolff's Shocking Trump Book With Attack Ad", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/republicans-michael-wolff-attack-ad_us_5a5150e0e4b003133ec85023', 'short_description': 'Republicans have an attack plan for Wolff: Listen to his critics.', 'date': '2018-01-07'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Boxed Wine Stays Good Up To Six Times Longer Than Bottled Wine Once It's Opened", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/boxed-wine-lasts-longer_us_5992e5f1e4b090964299c869', 'short_description': "Don't turn your nose up quite so fast.", 'date': '2017-08-21'}

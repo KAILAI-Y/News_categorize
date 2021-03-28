@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Anderson Cooper Shreds Trump: ‘He Went To Play Golf While They Held Funerals’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/anderson-cooper-trump-florida-tweets_us_5a8b9082e4b0117adf71255a', 'short_description': 'CNN host slams the president for a weekend of "factually challenged" tweets.', 'date': '2018-02-20'}

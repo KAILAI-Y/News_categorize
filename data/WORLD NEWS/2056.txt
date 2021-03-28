@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Accusing Russia Of Meddling In U.S. Election Is Like 'Blaming The Jews,' Vladimir Putin Says", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/russia-election-blaming-jews-putin_us_59318a95e4b0c242ca2378c6', 'short_description': '🤔', 'date': '2017-06-02'}

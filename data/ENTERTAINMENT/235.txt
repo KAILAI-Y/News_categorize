@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Lili Reinhart And Cole Sprouse Finally Make Couple Debut At Met Gala', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/lili-reinhart-and-cole-sprouse-make-it-red-carpet-official-at-met-gala_us_5af1aa80e4b0ab5c3d6a102c', 'short_description': '"RIVERDALE" PROM.', 'date': '2018-05-08'}

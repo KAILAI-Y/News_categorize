@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Adele Calls On Theresa May To Do More To Investigate Deadly London Apartment Fire', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/adele-grenfell-tower-fire_us_5a25a8bae4b03350e0b8dbc7', 'short_description': 'The singer has made helping victims of the Grenfell Tower fire a personal cause.', 'date': '2017-12-04'}

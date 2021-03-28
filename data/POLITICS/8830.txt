@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Protesters Shame Donald Trump Over Paris Climate Deal', 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-paris-climate-change-protest_us_59309f1de4b075bff0f1e514', 'short_description': '"Climate change is real! Duh!"', 'date': '2017-06-02'}

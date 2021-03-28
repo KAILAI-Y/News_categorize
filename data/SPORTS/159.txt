@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Olympic Skier Ted Ligety’s Son 'Could Give 2 S***s That Daddy Sucked At Work'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ted-ligety-olympics-2018-son-instagram-post_us_5a895c45e4b05c2bcacbdb1b', 'short_description': '"He is the bright spot on the day."', 'date': '2018-02-18'}

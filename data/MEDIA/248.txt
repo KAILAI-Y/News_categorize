@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Fox News\xa0Guest Goes Off The Rails: 'White Supremacists Are American Citizens'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/mark-steyn-white-supremacists_us_5a61890ce4b0125fd6356675', 'short_description': '"The illegal immigrants are people who shouldn’t be here."', 'date': '2018-01-19'}

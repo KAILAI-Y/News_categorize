@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Many Lives Of Steven Tyler', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/steven-tyler-aerosmith-documentary_us_5afa0083e4b0200bcab8027e', 'short_description': 'The Aerosmith frontman, who recently turned 70, is ready for the next big thing.', 'date': '2018-05-16'}

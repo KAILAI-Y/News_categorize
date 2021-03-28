@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Rep. Mark Walker Calls Female Colleagues 'Eye Candy' At Press Event", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/mark-walker-eye-candy-gop-rep_us_59cb1964e4b053a9c2f4ff8f', 'short_description': 'He later tells CNN he regrets his "flippant remark."', 'date': '2017-09-27'}

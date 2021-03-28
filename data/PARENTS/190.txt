@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "'Interview With A 5-Month-Old' Shows Dad's Struggle To Get Baby To Say 'Dada'", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/interview-with-a-5-month-old-shows-dads-struggle-to-get-baby-to-say-dada_us_59e830e5e4b08f9f9edcd0da', 'short_description': "Hint: It doesn't go well.", 'date': '2017-10-19'}

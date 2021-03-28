@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Oil Rig Explodes In Louisiana, Injuring 7', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/lake-pontchartrain-louisiana-oil-rig-explosion_us_59e43ca8e4b03a7be58185f2', 'short_description': 'One person is missing, and oil may be leaking into Lake Pontchartrain.', 'date': '2017-10-16'}

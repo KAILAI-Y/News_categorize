@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Bust Out The Redneck Margaritas: Tom And Abby From ‘Queer Eye’ Are Engaged', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/tom-abby-queer-eye-engaged_us_5aa8014ce4b0a09afeae8279', 'short_description': 'The beloved contestant who pined for his ex put a ring on it. 💍', 'date': '2018-03-13'}

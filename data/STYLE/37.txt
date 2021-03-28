@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '12 Style And Fashion Trends On Our Radar In 2018', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/2018-style-fashion-trends_us_5a4538a0e4b0b0e5a7a56372', 'short_description': 'Pull out your old Tommy Jeans t-shirt.', 'date': '2017-12-28'}

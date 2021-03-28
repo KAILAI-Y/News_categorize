@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Japan Swoops In To Nab Women's Mass Speed Skating Gold", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/womens-mass-speed-skating-pyeongchang-winter-olympics-final_us_5a91abd2e4b03b55731cb461', 'short_description': 'In a sudden move, Nana Takagi overtook a Dutch skater, who then came in third.', 'date': '2018-02-24'}

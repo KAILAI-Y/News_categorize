@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: What The White House Wants In Return For DACA", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-what-the-white-house-wants-in-return-for-daca_us_59db559be4b0f6eed3517f4e', 'short_description': 'It includes the border wall.', 'date': '2017-10-09'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'At Least 58 Presumed Dead In London Tower Fire, PM May Admits Failings', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/death-toll-london-fire_us_59458e92e4b01eab7a2e2334', 'short_description': 'May admitted that the response from the authorities had not been good enough.', 'date': '2017-06-17'}

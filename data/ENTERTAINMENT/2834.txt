@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Texas Chain Saw Massacre' Director Tobe Hooper Dead At 74", 'authors': 'Pat Saperstein, Reuters', 'link': 'https://www.huffingtonpost.com/entry/texas-chain-saw-massacre-tobe-hooper-dies_us_59a337afe4b0821444c410d4', 'short_description': 'The acclaimed horror director died Saturday.', 'date': '2017-08-27'}

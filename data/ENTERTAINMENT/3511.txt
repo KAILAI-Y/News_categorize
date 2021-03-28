@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "A 'Pirates Of The Caribbean' Set Features Around $2 Million In Snacks", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/pirates-of-the-caribbean-2-million-snacks_us_592adaa5e4b0df57cbfc2338', 'short_description': 'Dead men tell no tales, but they sure do eat.', 'date': '2017-05-28'}

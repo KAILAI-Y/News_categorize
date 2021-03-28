@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Bill Maher Sat Down With Ken Bone To Find Out Who He Voted For', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ken-bone-bill-maher-election-2016_us_59b38ee8e4b0b5e531066c62', 'short_description': 'But the viral star of the televised presidential debates played hardball with the "Real Time" host.', 'date': '2017-09-09'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5a68fa65e4b0dc592a0f220d', 'short_description': 'On giving up carbs, forgetting deodorant and taking being an introvert to a whole new level.', 'date': '2018-01-26'}

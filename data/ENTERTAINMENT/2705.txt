@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Dean Admits He Kept Playing Kristina And Danielle After 'Bachelor In Paradise'", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/dean-kristina-danielle-bachelor-in-paradise_us_59b735cee4b09be416577870', 'short_description': 'Seriously, enough is enough.', 'date': '2017-09-12'}

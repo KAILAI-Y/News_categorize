@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump 'Likes' Tweet On Sexual Misconduct Claims Against 'Great Friend' Steve Wynn", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-likes-tweets-steve-wynn_us_5a6c35d2e4b0ddb658c6ae5b', 'short_description': '"This is truly bizarre."', 'date': '2018-01-27'}

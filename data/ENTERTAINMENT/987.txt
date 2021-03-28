@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "There’s A Good Chance Gina Rodriguez Will Play Rosa’s Girlfriend On ‘Brooklyn Nine-Nine'", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/gina-rodriguez-brooklyn-nine-nine_us_5a96bb1de4b07dffeb6e8df2', 'short_description': 'The actress expressed interest in the role in January.', 'date': '2018-03-02'}

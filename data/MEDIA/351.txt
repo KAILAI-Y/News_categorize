@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Sen. Lindsey Graham's Old Words About Trump Come Back To Bite Him In The Butt", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/lindsey-graham-trump-kook_us_5a20bf36e4b03c44072c68d5', 'short_description': '“What a difference a year makes."', 'date': '2017-12-01'}

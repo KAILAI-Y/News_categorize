@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Says His Criticism Of NFL Has 'Nothing' To Do With Race", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-nfl-race_us_59c81897e4b0cdc773320b14', 'short_description': '"I’ve never said anything about race."', 'date': '2017-09-24'}

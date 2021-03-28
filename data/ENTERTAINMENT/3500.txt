@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Inside The 'Circular Madness' That Made The 'Psycho' Shower Scene So Terrifying", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/score-clip-psycho-shower-scene_us_592d8562e4b0df57cbfd78e6', 'short_description': 'See a clip from "Score: A Film Music Documentary."', 'date': '2017-05-30'}

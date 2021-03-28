@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "People Thought This Tote Bag Said 'Hitler' Thanks To An Unfortunate Font Choice", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/hitler-tote-bag_us_59774729e4b0a8a40e825957', 'short_description': 'Oops.', 'date': '2017-07-25'}

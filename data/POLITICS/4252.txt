@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan Calls On Roy Moore To 'Step Aside'", 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-roy-moore-step-aside_us_5a0b0e7de4b0b17ffce07cbb', 'short_description': 'No more "if true."', 'date': '2017-11-14'}

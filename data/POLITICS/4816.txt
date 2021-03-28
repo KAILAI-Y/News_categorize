@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mitch McConnell: Steve Bannon Backs Losers And Is Hurting The GOP', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/mcconnell-bannon-backs-losers_us_59ed4088e4b0958c4682d009', 'short_description': 'This is war.', 'date': '2017-10-23'}

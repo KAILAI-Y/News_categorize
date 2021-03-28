@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Announces Paris Accord Decision With ... Is That Jazz Music?', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/paris-accord-jazz-band-rose-garden_us_5930691ae4b010df62cc68dd', 'short_description': 'Striking a bad note.', 'date': '2017-06-01'}

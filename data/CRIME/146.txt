@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Package Thief Gets A Painful Dose Of Instant Karma, And It's All Caught On Video", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/package-thief-instant-karma_us_5a6fe79fe4b0a52682fede41', 'short_description': "That's gotta hurt.", 'date': '2018-01-30'}

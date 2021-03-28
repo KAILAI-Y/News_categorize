@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Rudy Giuliani Just Came Clean About Why Trump Fired Comey', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/rudy-giuliani-donald-trump-james-comey-fired_us_5aea7082e4b022f71a04e62a', 'short_description': 'Yes, it was the Russia investigation.', 'date': '2018-05-03'}

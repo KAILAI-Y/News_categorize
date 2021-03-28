@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Leslie Jones Is One Funny Liar In 'Tonight Show' Confessions Game", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/leslie-jones-is-one-funny-liar-in-tonight-show-confessions-game_us_599462b4e4b04b1933622c46', 'short_description': "It's a hilarious bit, we must confess.", 'date': '2017-08-16'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Washington Insider: White House Story On Porter 'Doesn’t Add Up'", 'authors': 'Hunter Walker, Yahoo News', 'link': 'https://www.huffingtonpost.com/entry/insider-white-house-story-porter_us_5a83bc64e4b0cf06751faa09', 'short_description': '“It would be highly irregular for something like this to happen."', 'date': '2018-02-14'}

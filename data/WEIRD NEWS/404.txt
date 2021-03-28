@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Weed Has Been Legal In Nevada For A Week And It's Already Running Out", 'authors': 'Samantha Tomaszewski', 'link': 'https://www.huffingtonpost.com/entry/weed-legal-nevada-running-out_us_59610c75e4b0d5b458eac7e9', 'short_description': 'The state may adopt an emergency regulation to alleviate the shortage.', 'date': '2017-07-08'}

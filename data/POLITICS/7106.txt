@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Suggests Republicans Take Another Health Care Vote Before Doing Anything Else', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-health-care-vote_us_597cf9dde4b02a8434b6d337', 'short_description': "Trump doesn't want Republicans to give up yet.", 'date': '2017-07-29'}

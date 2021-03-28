@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Lorde Shuts Down Rumors She's Dating Jack Antonoff, Lena Dunham's Ex", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/lorde-jack-antonoff-rumors_us_5a905a37e4b01e9e56bb82ff', 'short_description': 'But she does "love" him.', 'date': '2018-02-23'}

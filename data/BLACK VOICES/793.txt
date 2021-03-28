@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Arian Foster, NFL Players Invest $810,000 In 12-Year-Old's Lemonade Company", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/arian-foster-nfl-lemonade-company_us_5970bcd3e4b0110cb3cca138', 'short_description': 'Mikaila Ulmer just keeps winning.', 'date': '2017-07-20'}

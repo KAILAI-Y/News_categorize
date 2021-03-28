@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Kicks Off 'Infrastructure Week' By Feuding With London Mayor", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-london-mayor_us_59356378e4b0c242ca25c97c', 'short_description': "The president stomped on the White House's message.", 'date': '2017-06-05'}

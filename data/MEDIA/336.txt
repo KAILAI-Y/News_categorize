@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'MSNBC Gives In To Disingenuous Right-Wing Smear, Fires Sam Seder', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/sam-seder-msnbc-fired_us_5a25c064e4b086e4e503ce2f', 'short_description': 'The network fired Seder, a contributor, after an alt-right personality publicized one of his old tweets.', 'date': '2017-12-05'}

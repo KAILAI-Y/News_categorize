@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '14 Resistance Purchases That Also Support The ACLU', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/things-you-can-buy-that-support-the-aclu_us_599478bde4b0091416421599', 'short_description': 'Purchase with purpose ✊', 'date': '2017-08-16'}

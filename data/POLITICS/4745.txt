@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Julian Assange Says WikiLeaks Rejected Request From Trump-Linked Firm', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/julian-assange-wikileaks-cambridge-analytica_us_59f1655de4b0af27f5899697', 'short_description': "A data firm reportedly offered to help with Hillary Clinton's emails.", 'date': '2017-10-26'}

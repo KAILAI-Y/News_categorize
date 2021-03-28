@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': '22-Year-Old Rapper Meets 81-Year-Old Words With Friends Opponent', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/words-with-friends-meeting_us_5a25a145e4b0a02abe9333eb', 'short_description': "Words can't express how we feel.", 'date': '2017-12-04'}

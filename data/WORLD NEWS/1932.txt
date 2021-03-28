@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Baby Tossed From Burning London Building 'Miraculously' Caught, Says Witness", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/baby-saved-london-fire_us_594035e0e4b003d5948b7e83', 'short_description': '“It was honestly like a horror movie unfolding in front of us," she said.', 'date': '2017-06-14'}

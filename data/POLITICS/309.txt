@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump-Inspired Businessman Wins Indiana’s GOP Senate Primary', 'authors': 'Kevin Robillard', 'link': 'https://www.huffingtonpost.com/entry/braun-wins-indiana-primary_us_5af1d462e4b0c4f193278d63', 'short_description': 'He defeated two congressmen and will challenge Democratic Sen. Joe Donnelly in November.', 'date': '2018-05-09'}

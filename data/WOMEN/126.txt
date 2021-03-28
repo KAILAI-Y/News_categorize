@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "'Lemony Snicket' Out As Wesleyan Speaker Amid Reports Of Inappropriate Comments", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/lemony-snicket-sexual-comments-anita-hill_us_5a987536e4b089ec353871b1', 'short_description': "Anita Hill will take the author's place at the commencement ceremony.", 'date': '2018-03-02'}

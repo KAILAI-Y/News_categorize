@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Gal Gadot's Unbelievable Style Evolution", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/gal-gadot-style_us_593acf78e4b0c5a35c9eea18', 'short_description': 'Power, grace, wisdom, wonder and great style.', 'date': '2017-06-11'}

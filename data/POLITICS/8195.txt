@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's Latest Hire Is Plucked Directly From His D.C. Hotel", 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/trump-hotel-timothy-harleth_us_594d615fe4b05c37bb764ed2', 'short_description': 'The merger continues.', 'date': '2017-06-23'}

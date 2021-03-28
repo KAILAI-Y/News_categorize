@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Alabama Sen. Shelby Didn't Vote For Roy Moore. Now Moore's Supporters Hate Him.", 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-supporters-richard-shelby_us_5a2fc21ee4b01598ac47e5df', 'short_description': 'Alabama Republicans are willing to eat their own.', 'date': '2017-12-12'}

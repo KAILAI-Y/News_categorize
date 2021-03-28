@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "The Omar Khadr Settlement Reaffirms Canada's Values", 'authors': 'Craig Martin, ContributorProfessor of Law', 'link': 'https://www.huffingtonpost.com/entry/canadians-deserve-the-khadr-settlement_us_596b8603e4b06a2c8edb4753', 'short_description': 'Khadr’s international human rights were egregiously violated', 'date': '2017-07-17'}

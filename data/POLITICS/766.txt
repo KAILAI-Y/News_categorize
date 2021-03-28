@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New York Times Calls On GOP To Protect Rule Of Law From Donald Trump', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/times-calls-on-gop-to-save-law-from-trump_us_5ad3e65ae4b016a07e9d8cd0', 'short_description': 'The president is "not a king, but a citizen."', 'date': '2018-04-16'}

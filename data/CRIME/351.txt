@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Second Person In Custody In Connection With Killing Of 4 In Pennsylvania', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/man-confesses-to-killing-4-pennsylvania_us_5968c373e4b03389bb16bce9', 'short_description': 'Cosmo DiNardo has already confessed to his involvement in their deaths.', 'date': '2017-07-14'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Ibtihaj Muhammad On Amplifying Black, Muslim Voices In The Trump Era', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/ibtihaj-muhammad-black-muslim-trump_us_599f2478e4b0821444c1d11b', 'short_description': 'The Olympic fencer is fighting for Muslim Americans to reclaim their narrative.', 'date': '2017-08-24'}

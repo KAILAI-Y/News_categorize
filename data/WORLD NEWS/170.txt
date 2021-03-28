@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "British Muslims Were Vigilant And Defiant On 'Punish A Muslim' Day", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/british-muslims-punish-a-muslim-day_us_5ac3e317e4b0ac473edaeb4f', 'short_description': 'In the U.K. and U.S., people worked to turn a day of fear into a day of solidarity.', 'date': '2018-04-03'}

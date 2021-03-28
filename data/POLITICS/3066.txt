@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'You Can Now Buy Legal Recreational Marijuana In California', 'authors': 'Matt Ferner', 'link': 'https://www.huffingtonpost.com/entry/legal-marijuana-california_us_5a3ab524e4b06d1621b1600e', 'short_description': 'The first state to legalize medical cannabis becomes the most populous to allow recreational use.', 'date': '2018-01-01'}

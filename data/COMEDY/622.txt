@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Amusingly Imagines John Kelly's Itinerary On Trump's Asia Trip", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-john-kelly-asia-trip_us_59fd7086e4b04cdbeb3359b9', 'short_description': '"Explain that real pandas don\'t know Kung Fu."', 'date': '2017-11-04'}

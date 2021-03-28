@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Will Ferrell Taken To Hospital After Car Flips In Freeway Crash', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/will-ferrell-car-crash_us_5ad0cca5e4b0edca2cb94c83', 'short_description': 'Video shows the actor sitting up in a stretcher talking on his phone.', 'date': '2018-04-13'}

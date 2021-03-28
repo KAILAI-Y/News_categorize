@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Andy Cohen Ends Feud With Kathy Griffin: 'I've Moved On'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/andy-cohen-ends-feud-with-kathy-griffin-everybody-can-have-someone-they-hate_us_5ae74b30e4b055fd7fce7933', 'short_description': '"Everybody can have someone they hate."', 'date': '2018-04-30'}

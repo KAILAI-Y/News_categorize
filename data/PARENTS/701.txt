@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Stop Scaring New Dads!', 'authors': 'Mark Roeder, ContributorJust a hard working husband and father trying to do everything...', 'link': 'https://www.huffingtonpost.com/entry/stop-scaring-new-dads_us_59393b1ae4b094fa859f15fd', 'short_description': 'Always tell some good with the bad', 'date': '2017-06-08'}

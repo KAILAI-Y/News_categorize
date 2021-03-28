@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Are Voting To Give A Huge Tax Cut To Many Members Of Congress', 'authors': 'Arthur Delaney and Philip Lewis', 'link': 'https://www.huffingtonpost.com/entry/republicans-tax-cuts-congress_us_5a33fc64e4b040881bea2f81', 'short_description': "But they insist they didn't give that a thought.", 'date': '2017-12-15'}

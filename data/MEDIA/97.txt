@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'The Perfect Watchdog For The Trump Era Is A Journalist In West Virginia', 'authors': 'Jason Cherkis', 'link': 'https://www.huffingtonpost.com/entry/rob-byers-journalist-west-virginia_us_5ac52737e4b056a8f597dea0', 'short_description': 'And Rob Byers is out of a job.', 'date': '2018-04-05'}

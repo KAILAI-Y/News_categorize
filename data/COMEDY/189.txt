@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Issues A Rare Apology To Donald Trump', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-apology_us_5abd927fe4b0a47437a9c5bc', 'short_description': '"Late Show" host becomes the victim of exactly what the president has complained about.', 'date': '2018-03-30'}

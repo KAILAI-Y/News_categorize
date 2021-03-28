@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: The Classrooms In Scientology's Shadow", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-the-classrooms-in-scientologys-shadow_us_5a2e71cce4b0a290f05229c2', 'short_description': "And they're voucher schools.", 'date': '2017-12-11'}

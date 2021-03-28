@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The 7-Year-Old Actress In 'The Florida Project' Gives The Year's Best Screen Performance", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/the-florida-project-brookynn-prince_us_59d6a9a7e4b046f5ad971fe4', 'short_description': 'In Brooklynn Prince, a star is born.', 'date': '2017-10-08'}

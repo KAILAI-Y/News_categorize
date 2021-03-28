@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report: SEC Probing Kushner Company Role In Visas-For-Money Program', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/kushner-investigation-invisas-formoney_us_5a51ad55e4b01e1a4b15a93e', 'short_description': 'Chinese who invest in Kushner company real estate deals can get green cards.', 'date': '2018-01-07'}

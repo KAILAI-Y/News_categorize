@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "CNN Called James Comey's Dad, But James Comey Picked Up The Phone Instead", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/cnn-called-comeys-dad-comey-picks-up_us_593cd8c3e4b0c5a35ca0340b', 'short_description': 'A tale of two Comeys.', 'date': '2017-06-11'}

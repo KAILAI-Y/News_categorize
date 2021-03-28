@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Pitch Perfect 3' Looks Like An Aca-Awesome Action Movie In New Trailer", 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/pitch-perfect-3-trailer_us_594fc357e4b02734df2b0454', 'short_description': '"The Farewell Tour" hits theaters this December.', 'date': '2017-06-25'}

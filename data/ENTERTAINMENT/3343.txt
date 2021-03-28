@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Real Frustrated Lawyers Tell A Fake Trump They Won't Save Him", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/lawyers-donald-trump_us_594e7947e4b0da2c731bc9e0', 'short_description': "Trump isn't getting out of this situation.", 'date': '2017-06-24'}

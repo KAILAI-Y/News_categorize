@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Poll: Donald Trump Has Embarrassed America And Really Needs To Stop Tweeting Now', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-poll-embarrassed-stop-tweeting_us_59cc6141e4b05063fe0f11cc', 'short_description': "A majority say he's not fit to serve as president.", 'date': '2017-09-28'}

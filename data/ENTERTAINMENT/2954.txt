@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Carly Rae Jepsen Is A Movie Star Now', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/leap-clip-carly-rae-jepsen_us_598c5503e4b0449ed5082a3b', 'short_description': 'See an exclusive clip from her big-screen debut, "Leap!"', 'date': '2017-08-10'}

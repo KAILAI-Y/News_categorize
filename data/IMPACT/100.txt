@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Robots Are Coming For Our Jobs. Here Are 5 Ways To Prepare.', 'authors': 'Amy Westervelt, On assignment for HuffPost', 'link': 'https://www.huffingtonpost.com/entry/robots-jobs-automation-employment-training_us_5a0c3f77e4b0b17ffce184a1', 'short_description': 'Get ready for an automated world.', 'date': '2017-11-25'}

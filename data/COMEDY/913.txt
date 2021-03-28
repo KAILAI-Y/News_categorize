@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Bought 5 Presidential Wax Dummies And Made The Weirdest Movie Ever', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-wax-dummies_us_595b3454e4b05c37bb7fe1bd', 'short_description': 'Warren G. Harding gets his long-awaited biopic. Sort of.', 'date': '2017-07-04'}

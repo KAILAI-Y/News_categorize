@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kate McKinnon Breaks Out Another Impression Of Rudy Giuliani', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kate-mckinnon-rudy-giuliani-snl-late-night_us_5afebeb1e4b0a046186ab9bd', 'short_description': '"It wasn\'t as hard as I thought."', 'date': '2018-05-18'}

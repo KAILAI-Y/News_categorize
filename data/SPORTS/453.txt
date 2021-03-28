@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Packers Player Is Hospitalized After ‘Dirty’ Hit In Game Against Bears', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/green-bay-packers-adams-chicago_us_59cdc176e4b09538b5075256', 'short_description': '"That\'s not OK right there," CBS\' Tony Romo says during replay.', 'date': '2017-09-29'}

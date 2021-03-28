@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Watch The First Official Sneak Peek Of Spike Lee's 'She's Gotta Have It' Series", 'authors': 'Lilly Workneh', 'link': 'https://www.huffingtonpost.com/entry/shes-gotta-have-it-spike-lee-netflix-sneak-peek_us_595ab6f9e4b05c37bb7fd623', 'short_description': 'Ten episodes are coming to Netflix this Thanksgiving.', 'date': '2017-07-03'}

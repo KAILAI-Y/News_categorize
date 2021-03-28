@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jon Stewart Pulls Together Epic ‘Daily Show’ Reunion', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/jon-stewart-stephen-colbert-john-oliver-samantha-bee-night-of-too-many-stars_us_5a132860e4b0bfa88c1c2319', 'short_description': "They're like a comedy Justice League.", 'date': '2017-11-20'}

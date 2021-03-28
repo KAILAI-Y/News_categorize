@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "French Bishop Declares Nun's Recovery A Lourdes Miracle", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/french-nun-lourdes-miracle_us_5a81b39ae4b044b3821fab9d', 'short_description': 'Bernadette Moriau said she was able to walk for the first time in decades after visiting the shrine.', 'date': '2018-02-12'}

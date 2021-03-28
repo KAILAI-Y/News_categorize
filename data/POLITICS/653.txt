@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Michael Bloomberg Contributes $4.5 Million For Paris Climate Deal After Trump Bails', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/bloomberg-us-paris-climate-deal_us_5add798fe4b089e33c898983', 'short_description': '"America made a commitment."', 'date': '2018-04-23'}

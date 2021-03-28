@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Cuba Flee-bré', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/cuba-flee-br%C3%A9_us_5944549ce4b0f15cd5bb6f13', 'short_description': 'Get it?', 'date': '2017-06-16'}

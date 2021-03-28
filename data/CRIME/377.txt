@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'This Law Lets Abused Animals Get Their Own Advocates In Court', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/legal-advocates-animals-connecticut-desmonds-law_us_5932d1c7e4b075bff0f3e6d7', 'short_description': 'Connecticut is the first state to pass this kind of legislation, a professor says.', 'date': '2017-06-03'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Onion Is Getting Into Crime Podcasts With 'A Very Fatal Murder'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-onion-is-getting-into-crime-podcasts-with-a-very-fatal-murder_us_5a78af23e4b0d3df1d144026', 'short_description': 'Fake ad spots included.', 'date': '2018-02-05'}

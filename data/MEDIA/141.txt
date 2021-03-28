@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Shepard Smith Isn't Letting Trump Off The Hook For Gun Control Reversal", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/shepard-smith-trump-gun-control_us_5aa6e96fe4b087e5aaece70b', 'short_description': 'The Fox News host called out the president for pandering to the NRA.', 'date': '2018-03-12'}

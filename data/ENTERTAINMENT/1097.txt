@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ed Sheeran Isn't Married, He's Just Wearing An Engagement Ring", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/ed-sheeran-isnt-married-wearing-engagement-ring_us_5a8e38dde4b0161d431867f1', 'short_description': 'The singer said his fiancée, Cherry, made it for him.', 'date': '2018-02-22'}

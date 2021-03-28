@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'I Love Steve Bannon', 'authors': 'Earl Ofari Hutchinson, ContributorEarl Ofari Hutchinson is an author and political analyst', 'link': 'https://www.huffingtonpost.com/entry/i-love-steve-bannon_us_5a36c386e4b0e1b4472ae77a', 'short_description': 'I love him because he continues to terrorize GOP mainstream leaders.', 'date': '2017-12-17'}

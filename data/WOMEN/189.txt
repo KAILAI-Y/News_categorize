@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "L'Oréal Claims To Champion Diversity. But Now Its Only Hijabi Model Is Gone.", 'authors': 'Rowaida Abdelaziz', 'link': 'https://www.huffingtonpost.com/entry/loreal-amena-khan-hijab-tweets_us_5a6617cae4b0022830052a59', 'short_description': 'Amena Khan stepped down after her old tweets criticizing Israel were uncovered.', 'date': '2018-01-22'}

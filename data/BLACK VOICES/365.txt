@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'A Pam Grier Biopic May Be Coming To The Big Screen Soon', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/pam-grier-biopic_us_5a5f81b3e4b0ee2ff32cba4e', 'short_description': 'Jay Pharoah is set to portray Richard Pryor in the film.', 'date': '2018-01-17'}

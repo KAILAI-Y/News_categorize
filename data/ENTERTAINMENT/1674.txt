@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Diddy Reveals He Was Once Engaged 'For 4 Hours'", 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/diddy-engaged-four-hours-ellen-show_us_5a4e5d8de4b025f99e20adc4', 'short_description': '"I kept it a secret forever — until now.”', 'date': '2018-01-04'}

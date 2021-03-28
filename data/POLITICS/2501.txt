@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Indicates Possible Citizenship Pathway For Dreamers', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/trump-citizenship-pathway-dreamers_us_5a69121ee4b0dc592a0f3a5c', 'short_description': 'The White House also said it would release an immigration framework on Monday.', 'date': '2018-01-25'}

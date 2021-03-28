@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "A Down-And-Out 'Joel Osteen' Asks New Yorkers For Charity After Harvey In Spoof", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/a-fake-joel-osteen-asks-for-money-and-nyc-doesnt-give-a-flock_us_59aebffce4b0354e440cbb3b', 'short_description': 'The televangelist springs to action to help himself.', 'date': '2017-09-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'This Is What The March For Our Lives Looked Like From Space', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/this-is-what-the-march-for-our-lives-looked-like-from-space_us_5ab6ae5de4b008c9e5f7dbe4', 'short_description': 'Whoa.', 'date': '2018-03-24'}

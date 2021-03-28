@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Totoro The Mystical Creature Is Getting Its Own Theme Park In Japan', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/totoro-theme-park-japan_us_5931e16ce4b075bff0f39528', 'short_description': "Like Hayao Miyazaki's classic film, the park will focus on nature. It won't include rides.", 'date': '2017-06-03'}

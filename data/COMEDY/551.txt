@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon Reads Out People's Funniest Thanksgiving Fails", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-thanksgiving-fails_us_5a167842e4b064948072f0ff', 'short_description': "Be thankful these didn't happen to you.", 'date': '2017-11-23'}

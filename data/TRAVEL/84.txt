@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'The 8 Prettiest And Most Photogenic Spots In The Pacific Northwest', 'authors': 'PureWow, ContributorWhat your girl crush reads online', 'link': 'https://www.huffingtonpost.com/entry/the-8-prettiest-and-most-photogenic-spots-in-the-pacific_us_5a1c8244e4b09413e786ae30', 'short_description': '1. Prospect, Oregon', 'date': '2017-11-27'}

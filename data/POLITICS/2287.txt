@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Supreme Court Won't Let Pennsylvania GOP Delay Drawing New Congressional Map", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/supreme-court-pennsylvania-gerrymandering_us_5a74bf28e4b06ee97af274d4', 'short_description': 'Legal experts saw the GOP appeal to the Supreme Court as a long shot.', 'date': '2018-02-05'}

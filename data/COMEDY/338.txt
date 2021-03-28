@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon Shares Viewers' Weirdest Superstitions", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-weird-superstitions_us_5a75726be4b06ee97af2c17a', 'short_description': '"Any time someone on TV winks, I have to wink back."', 'date': '2018-02-03'}

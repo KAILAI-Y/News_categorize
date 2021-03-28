@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Twitter Warns Users To Change All Their Passwords After Finding Bug', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/twitter-bug-user-passwords_us_5aeb86d0e4b041fd2d249dc7', 'short_description': 'An “internal defect” led users’ account passwords to be stored in an internal log, the company said.', 'date': '2018-05-04'}

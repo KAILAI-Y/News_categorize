@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tina Fey Agrees She 'Screwed Up' 'SNL' Sketch About Charlottesville", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/tina-fey-says-she-screwed-up-snl-sketch-about-charlottesville_us_5aec7cd6e4b0c4f193221323', 'short_description': '“I wanted to help, but I chunked it."', 'date': '2018-05-04'}

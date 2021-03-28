@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Have Failed To Repeal Obamacare. How Did We Get Here?', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/republicans-obamacare-repeal-fails_us_597b58abe4b02a8434b61f68', 'short_description': 'The party was never able to unify behind an idea for a new plan.', 'date': '2017-07-28'}

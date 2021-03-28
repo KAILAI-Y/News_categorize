@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The First Trailer For 'Fifty Shades Freed' Will See You Now", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/the-first-trailer-for-fifty-shades-freed-will-see-you-now_us_5a00a30fe4b0c96530015848', 'short_description': 'BDSM, Jet Skis and abs, oh my!', 'date': '2017-11-06'}

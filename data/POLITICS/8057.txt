@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Freedom Caucus Chair: House Conservatives Would Reject Current Senate Health Care Bill', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/freedom-caucus-senate-health-care-bill_us_59527fede4b05c37bb79b10e', 'short_description': "In case Mitch McConnell didn't have enough problems at the moment.", 'date': '2017-06-27'}

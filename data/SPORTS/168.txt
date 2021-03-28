@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "U.S. Hockey Team Can't Even Score A Goal Against Russians At Winter Olympics", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/us-hockey-team-lose-russians_us_5a882975e4b05c2bcacb4d91', 'short_description': 'The 4-0 loss forces the American men into an elimination game before the quarterfinals.', 'date': '2018-02-17'}

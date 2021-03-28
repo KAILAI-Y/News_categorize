@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Judd Apatow Reads Garry Shandling's Hilarious Diary On 'Conan'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/judd-apatow-garry-shandling-diary-conan_us_5ab395cbe4b054d118e01ef2', 'short_description': "The late comedian's entry after a movie flop may be his best material.", 'date': '2018-03-22'}

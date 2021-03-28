@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jim Carrey Mourns Toronto Van Attack Victims With Powerful New Portrait', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jim-carrey-toronto-van-attack-tribute-portrait_us_5ae050e5e4b07be4d4c66950', 'short_description': '"There\'s no way to cover your eyes anymore."', 'date': '2018-04-25'}

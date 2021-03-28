@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Indian Court Rules Deceased Guru Can Be Kept Preserved In A Freezer', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/ashutosh-maharaj-guru-freezer_us_595e8f41e4b0615b9e903ad4', 'short_description': 'Followers of Ashutosh Maharaj claim the guru is in a deep meditative state.', 'date': '2017-07-06'}

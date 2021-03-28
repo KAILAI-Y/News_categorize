@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here Are The Biggest Nationwide Gun Control Protests Planned', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/gun-protests-walkouts-florida-school-shooting_us_5a8daa96e4b0273053a6fd20', 'short_description': 'Major events are scheduled to demand action after the Florida school shooting.', 'date': '2018-02-21'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift Cuts The BS And Announces New Album, 'Reputation'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-announces-new-album-reputation_us_599db14be4b0a296083bb719', 'short_description': "Swift's sixth studio album will be out Nov. 10.", 'date': '2017-08-23'}

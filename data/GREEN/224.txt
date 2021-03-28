@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Denmark's Corporate Sector Just Sold Off Its Last Oil Company", 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/denmark-oil-company_us_59ad8530e4b0b5e531001e5e', 'short_description': "The country is aggressively transitioning to wind power. But that doesn't mean the oil is going away.", 'date': '2017-09-04'}

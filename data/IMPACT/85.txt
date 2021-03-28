@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "6 Ideas For A Truly Radical Tax System Instead Of Trump's Tax Plan For The Wealthy", 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/radical-tax-systems_us_5a158ea2e4b025f8e932ceb8', 'short_description': 'What else could be taxed? From pollution to robots.', 'date': '2017-12-09'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Diana Ross Wore White To A Wedding And It Was Totally Stunning', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/diana-ross-wedding_us_593ff267e4b0b13f2c6df67d', 'short_description': 'Rules do not apply.', 'date': '2017-06-13'}

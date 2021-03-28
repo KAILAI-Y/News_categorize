@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Little Girl Awestruck By Michelle Obama's Portrait Goes Viral For The Best Reasons", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-portrait-little-girl-viral-picture_us_5a9a73b9e4b089ec353a89da', 'short_description': '"Feeling all the feels."', 'date': '2018-03-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mitch McConnell Delays Vote On GOP Senate Health Care Bill', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/gop-health-care-bill-delayed_us_59529978e4b02734df2dcee1', 'short_description': 'Republican senators have been invited to discuss the bill at the White House.', 'date': '2017-06-27'}

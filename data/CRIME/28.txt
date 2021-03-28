@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '1 Person Dead After Shooting At Nashville, Tennessee, Mall', 'authors': 'Sebastian Murdock and Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/shooting-nashville-mall_us_5aeb6453e4b0c4f19320510c', 'short_description': 'A suspect is in custody.', 'date': '2018-05-03'}

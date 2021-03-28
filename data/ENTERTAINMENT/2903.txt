@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Watch Elvis Deliver A Powerful Performance Just Weeks Before His Death', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/elvis-presley-unchained-melody_us_5993d674e4b04b1933617e24', 'short_description': "On the 40th anniversary of The King's death, a reminder of just how special he was.", 'date': '2017-08-16'}

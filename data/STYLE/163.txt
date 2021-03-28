@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'This Trick For Cleaning Sneakers Gets Mind-Blowing Results', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/how-to-clean-converse_us_59e9ee70e4b0df10767c6835', 'short_description': "If clean sneakers are what you're into, that is.", 'date': '2017-10-21'}

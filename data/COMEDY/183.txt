@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Netflix Acquires Seth Rogen's Mind And Body In April Fools' Gag", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/netflix-seth-rogen-april-fools_us_5ac2275be4b0f112dc9dc4b7', 'short_description': '"I should have read this before I signed it," the actor said.', 'date': '2018-04-02'}

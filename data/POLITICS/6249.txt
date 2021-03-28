@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Goodbye, Columbus?', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/taking-a-sledgehammer-to-columbus-wont-help-race-relations_us_59a34f69e4b05710aa5d2270', 'short_description': 'Altogether now, will the far left play into Steve Bannon’s hands?', 'date': '2017-08-27'}

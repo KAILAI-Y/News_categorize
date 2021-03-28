@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Explains Donald Trump Jr.-Russia Collusion Claims In 1 Handy Diagram', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-stephen-colbert-chalkboard_us_59660118e4b005b0fdc9d3b6', 'short_description': 'The "Late Show" host is connecting the dots.', 'date': '2017-07-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ivanka Trump Condemns White Supremacists In Charlottesville', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-jared-kushner_us_598f3560e4b08a247274b03b', 'short_description': 'Her father, President Donald Trump, blamed "many sides" for the Virginia unrest.', 'date': '2017-08-13'}

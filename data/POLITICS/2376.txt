@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report: Trump Scrapped South Korea Envoy Pick Over Split On Bombing North', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/victor-cha-south-korea-ambassador_us_5a70ee3fe4b0a6aa487438a5', 'short_description': "The ambassador's job has been vacant for more than a year.", 'date': '2018-01-31'}

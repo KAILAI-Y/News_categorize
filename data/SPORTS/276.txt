@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'The Day The NBA Wrapped Itself Around LeBron’s Finger', 'authors': "Maxwell Strachan, Travis Waldron, and Ja'han Jones", 'link': 'https://www.huffingtonpost.com/entry/nba-trade-deadline_us_5a7cad3fe4b08dfc93019cb5', 'short_description': 'An inarguably way-too-in-depth diary of a bonkers NBA trade deadline.', 'date': '2018-02-08'}

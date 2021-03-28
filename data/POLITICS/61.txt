@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tulsi Gabbard's Syria Views Cost Her Support Of Hawaii Teachers Union", 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/tulsi-gabbard-syria_us_5b057ab8e4b0784cd2b0653d', 'short_description': "The state's fourth-largest union had backed the Democratic congresswoman two years ago.", 'date': '2018-05-23'}

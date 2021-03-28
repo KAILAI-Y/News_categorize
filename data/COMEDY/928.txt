@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Likens 'Fox & Friends' To 'Helicopter Parents Of A S**t Private School Kid'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-fox-friends-donald-trump_us_5954a49be4b0da2c73211585', 'short_description': 'He took aim at the show for incessantly praising President Donald Trump.', 'date': '2017-06-29'}

@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'American Richard Thaler Wins Nobel Economics Prize', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/2017-prize-in-economic-sciences_us_59db3056e4b0f6eed35157d5', 'short_description': 'He was honored for his contributions to behavioral economics.', 'date': '2017-10-09'}

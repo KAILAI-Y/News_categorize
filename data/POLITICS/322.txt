@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senators Force A Vote That May Ultimately Reverse FCC, Restore Net Neutrality', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/net-neutrality-senate-vote-next-week_us_5af32bcae4b09bb419e455dd', 'short_description': 'If the effort makes it through the chamber, tougher battles await.', 'date': '2018-05-09'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Colbert Hits Marco Rubio With A Brutal Review For His CNN Town Hall Performance', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-marco-rubio_us_5a8f90e9e4b0ee6416a18c8e', 'short_description': '"Just showing up isn’t that impressive."', 'date': '2018-02-23'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Bill O'Reilly Says He Was A Good Mentor To Women Working At Fox News", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/bill-oreilly-fox-news-mentor-women_us_59c348cbe4b063b25317d4d6', 'short_description': 'The network fired the former host amid mounting sexual harassment allegations.', 'date': '2017-09-21'}

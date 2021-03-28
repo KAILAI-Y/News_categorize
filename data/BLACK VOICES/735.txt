@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Taraji P. Henson On Charlottesville: We Must Continue To Fight, But Only Through Love', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/taraji-p-henson-charlottesville_us_5991fdc2e4b09096429927a8', 'short_description': '“It appears to be like hate is winning, but it will not."', 'date': '2017-08-14'}

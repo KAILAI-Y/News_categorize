@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '14 Must-See Movies Likely To Spark Buzz At The Toronto Film Festival', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/toronto-film-festival-2017-preview_us_59af155ee4b0b5e53101c6d8', 'short_description': 'Look out for an Obama doc, a Louis C.K. comedy and a slew of Oscar hopefuls.', 'date': '2017-09-07'}

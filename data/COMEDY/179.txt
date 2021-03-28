@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Turns Trump’s Notorious Spelling Struggles Into A New Kids Game', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/kimmel-trump-spelling-bee_us_5ac3079ae4b09712fec3a428', 'short_description': 'Introducing the "Make America Grate Again Spelling Bee."', 'date': '2018-04-03'}

@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'How To Watch The Eclipse Without Burning Holes In Your Eyeballs', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/eclipse-safety_us_5976eddde4b0c95f375dfc31', 'short_description': 'Protect your retina from painful burns.', 'date': '2017-07-25'}

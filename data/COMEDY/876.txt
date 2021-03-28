@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "The Cookie Version Of Jeff Sessions Appeared On 'Colbert' To Respond To Trump", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-cookie-version-of-jeff-sessions-appeared-on-colbert-to-respond-to-trump_us_5978bccfe4b0a8a40e849d50', 'short_description': '"I am double-stuffed with indignity!"', 'date': '2017-07-26'}

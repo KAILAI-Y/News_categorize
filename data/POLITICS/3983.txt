@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Plugs MAGA Merch For Black Friday, Twitter Users Howl', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-blackfriday-maga-promo_us_5a18b9b5e4b0cee6c04fcf54', 'short_description': '"MAGA: Mueller Ain\'t Going Away."', 'date': '2017-11-25'}

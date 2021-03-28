@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "As I Prepare To Hunker Down For Hurricane Irma, Here's My Letter From Her Target", 'authors': 'Madeleine Burnside, ContributorEditor, The Sanity Papers', 'link': 'https://www.huffingtonpost.com/entry/letter-from-irma-day-0_us_59b3104ae4b0c50640cd6742', 'short_description': "Here's what I'm seeing on the ground.", 'date': '2017-09-08'}

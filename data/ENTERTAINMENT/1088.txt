@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Future Cool Mom Rachel McAdams Is Reportedly Pregnant', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/future-cool-mom-rachel-mcadams-is-reportedly-pregnant_us_5a8f140ee4b0664343555be1', 'short_description': 'The "Mean Girls" star has yet to comment on the news.', 'date': '2018-02-22'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Man Uses Live Alligator For His Baby’s Gender Reveal Party', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/alligator-gender-reveal-party-louisiana-t-mike_us_5aba9af1e4b06409775ada39', 'short_description': 'What could possibly go wrong? 🐊', 'date': '2018-03-28'}

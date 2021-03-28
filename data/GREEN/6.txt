@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'It Even Snowed In The Sahara Desert', 'authors': "Lydia O'Connor and Chris McGonigal", 'link': 'https://www.huffingtonpost.com/entry/sahara-desert-snow_us_5a550fe8e4b01e1a4b1a67a2', 'short_description': 'Take a look at the stunning images captured by a local photographer.', 'date': '2018-01-09'}

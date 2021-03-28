@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': '28 Of The Most Powerful Pieces Of Writing By Women In 2017', 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/best-writing-by-women-2017_us_5a37f219e4b0ff955ad54274', 'short_description': 'Sometimes collective rage turns into beautiful words.', 'date': '2017-12-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's War To 'Annihilate' ISIS Is Raising Civilian Casualties", 'authors': 'David Wood', 'link': 'https://www.huffingtonpost.com/entry/trump-isis-civilian-casualties_us_5939a2dfe4b0c5a35c9d76e5', 'short_description': 'In a sharp reversal, the U.S. has started prioritizing battlefield gains over civilian safety.', 'date': '2017-06-13'}

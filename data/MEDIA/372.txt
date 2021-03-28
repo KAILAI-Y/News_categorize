@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "The Daily Mail's Erroneous Tweet On London Shooting Report Sparks Anger", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/daily-mail-london-shooting-tweet_us_5a18715ce4b0d4906caeabda', 'short_description': 'The U.K. paper says it "deeply regrets" the error.', 'date': '2017-11-24'}

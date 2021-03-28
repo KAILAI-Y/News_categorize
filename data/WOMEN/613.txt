@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Watch Trump Silence A Reporter For Doing Her Job', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/watch-trump-silence-a-reporter-for-doing-her-job_us_59774d16e4b0e201d578298c', 'short_description': 'The president told a reporter to be "quiet" when she asked about health care.', 'date': '2017-07-25'}

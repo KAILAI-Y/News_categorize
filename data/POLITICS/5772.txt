@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Immorality Of Police Brutality', 'authors': 'Susan K Smith, ContributorRev. Dr.', 'link': 'https://www.huffingtonpost.com/entry/the-immorality-of-police-brutality_us_59be5ebce4b06b71800c3a60', 'short_description': 'Officers too often appear to engage in ultra-violent behavior, because they can.', 'date': '2017-09-17'}

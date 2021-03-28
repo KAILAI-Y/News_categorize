@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Peter Dinklage Is Ready For 'Game Of Thrones' To End", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/peter-dinklage-game-of-thrones-ending_us_5a61a0dae4b074ce7a070e85', 'short_description': "Tyrion, say it isn't so!", 'date': '2018-01-22'}

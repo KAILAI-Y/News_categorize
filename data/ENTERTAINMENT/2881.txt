@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jon Snow And Daenerys Just Made Fans Squeal With Delight', 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/jon-snow-and-daenerys-love_us_5995c1fee4b0d0d2cc851eb1', 'short_description': 'Their chemistry was on fire during the latest episode of "Game of Thrones."', 'date': '2017-08-21'}

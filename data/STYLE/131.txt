@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Tiffany's Is Trolling Everyone With 'Everyday Objects' That Cost A Fortune", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/tiffany-everyday-objects_us_5a032995e4b0920530598b5f', 'short_description': '"That paperclip better be able to keep my life together."', 'date': '2017-11-08'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Self-Styled Indian 'Godman' Gets 20 Years In Jail For Rape Of 2 Women", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/gurmeet-singh-20-years-jail_us_59a46307e4b06d67e3399d1e', 'short_description': 'Dozens died last week after thousands came out to protest the conviction.', 'date': '2017-08-28'}

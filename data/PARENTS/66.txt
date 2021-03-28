@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Family Dog Mauls Little Girl's Elf On The Shelf, ER Staff Work Their Magic", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/elf-on-the-shelf-childrens-hospital-florida-orlando_us_5a29329be4b0fa79861267fb', 'short_description': "They brought Kris Kringle's helper back to full elf.", 'date': '2017-12-07'}

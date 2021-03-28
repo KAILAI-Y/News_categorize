@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Most Republicans Think Trump's GOP Critics Are Hurting The Party", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/republican-trump-critics-polling_us_59f8e9d3e4b046017faf91f7', 'short_description': "The intraparty tensions in Washington haven't gone unnoticed.", 'date': '2017-10-31'}

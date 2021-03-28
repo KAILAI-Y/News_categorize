@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Still-Blinking Beached Humpback Whale Euthanized After Failed Rescue', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/whale-euthanized-australia_us_593c9d71e4b02402687a02a4', 'short_description': "The animal's health deteriorated amid rough seas off Australia.", 'date': '2017-06-11'}

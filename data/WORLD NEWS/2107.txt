@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Bodies Of Civilians Dumped Near Besieged City In The Philippines', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/philippines-marawi-civilians_us_592aee07e4b0065b20b71991', 'short_description': 'ISIS-linked militants are suspected to have murdered eight civilians.', 'date': '2017-05-28'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Pity The Fools Who Don't Love Mr. T's Inspirational Olympics Tweets", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mr-t-winter-olympics-twitter_us_5a82c6e7e4b01467fcf13209', 'short_description': '"You heard me, curling Fool!"', 'date': '2018-02-13'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Late Show' Confirms There's An Anti-Trump Protest For Everyone", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/late-show-confirms-theres-an-anti-trump-protest-for-everyone_us_59b2d963e4b0dfaafcf7da44', 'short_description': 'And more on the way!', 'date': '2017-09-08'}

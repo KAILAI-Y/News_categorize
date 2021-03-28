@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'How To Create The Perfect Back-To-Work Wardrobe', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/back-to-work-basics_us_59833752e4b06d48887495e3', 'short_description': 'Revitalize your work wardrobe while the back-to-school sales are hot 🔥', 'date': '2017-08-03'}

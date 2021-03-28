@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Leopoldo Lopez's Wife Says Venezuelan Opposition Leader Returned To House Arrest", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/leopoldo-lopez-house-arrest_us_59868e76e4b041356ec04635', 'short_description': 'Lopez was transferred to a military prison on Tuesday.', 'date': '2017-08-06'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Suck Up' Mitt Romney Is Called Out For\xa0Flip-Flopping On Trump's Endorsement", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/mitt-romney-trump-endorsement-flip-flop_us_5a8be936e4b0117adf7183cf', 'short_description': '"Good to have the old Mitt Romney back."', 'date': '2018-02-20'}

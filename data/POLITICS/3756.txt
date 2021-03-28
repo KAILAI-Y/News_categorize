@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's What Americans Make Of The Russia Investigation Now", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/americans-russia-investigation-poll_us_5a2412bee4b0a02abe91cd14', 'short_description': 'And what they think about the case against Michael Flynn.', 'date': '2017-12-04'}

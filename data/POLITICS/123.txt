@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Misspells Melania's Name In Welcome Home Tweet, Twitter Roars", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/twitter-roars-over-trump-melanie-mistake_us_5b009a5be4b0463cdba2cc37', 'short_description': 'Has "Melanie" signed an NDA?', 'date': '2018-05-19'}

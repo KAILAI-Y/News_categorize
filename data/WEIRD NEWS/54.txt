@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'These Old Marijuana Movie Posters May Scare You Into Smoking Pot', 'authors': 'David Moye and Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/marijuana-movie-posters_us_5ad6644ae4b03c426da922e3', 'short_description': 'According to these films, smoking pot may make you dance the Charleston.', 'date': '2018-04-20'}

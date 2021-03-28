@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Progressives Actually Like Democrats' New Message", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/progressives-actually-like-democrats-new-message_us_59766598e4b0c95f375dc6f7', 'short_description': 'With some caveats, of course.', 'date': '2017-07-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Republicans Anti-Growth Tax Plan', 'authors': 'Dean Baker, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/the-republicans-anti-growth-tax-plan_us_59d2de11e4b092b22a8e3908', 'short_description': 'The plan could mean huge tax cuts for the very rich.', 'date': '2017-10-03'}

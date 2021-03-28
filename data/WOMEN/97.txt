@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "17 Children's Books To Read To Your Kids In Honor Of Women's History Month", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/womens-history-month-childrens-books_us_5aabf58ae4b0c33361b027e9', 'short_description': "You'll want to read these titles inspired by real women's lives year-round.", 'date': '2018-03-16'}

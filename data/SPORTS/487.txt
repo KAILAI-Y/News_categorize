@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Sonia Sotomayor Dresses Up In Support Of Yankees Star Aaron Judge', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/sonia-sotomayor-yankees-aaron-judge_us_59a8b6e0e4b0354e44092306', 'short_description': 'All Rise!', 'date': '2017-09-01'}

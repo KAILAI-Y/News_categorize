@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Why Modern Work Is So Boring', 'authors': 'The School Of Life, ContributorThe School Of Life', 'link': 'https://www.huffingtonpost.com/entry/why-modern-work-is-so-boring_us_592c4b65e4b0a7b7b469cc50', 'short_description': 'We have collectively chosen to make work pay more rather than be more interesting.', 'date': '2017-06-02'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "In The Newest 'It,' Stephen King's Cutthroat Clown Tries Again To Stoke Childhood Fears", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/it-review_us_59b05c31e4b0b5e531036bcc', 'short_description': 'Pennywise has returned. Too bad the movie is mostly a snooze.', 'date': '2017-09-07'}

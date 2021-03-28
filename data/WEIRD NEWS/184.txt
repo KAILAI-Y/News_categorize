@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Redditors Rework Old Photo Of Donald Trump To Hilarious Effect', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-angry-photo-editing-battle_us_5a5daa97e4b0fcbc3a12d832', 'short_description': 'Trump as a sea monster? Check.', 'date': '2018-01-16'}

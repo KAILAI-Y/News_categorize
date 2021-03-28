@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Rosario Dawson Opens Up About Being Raped And Molested As A Child', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/rosario-dawson-childhood-rape-abuse_us_5a620b87e4b01d91b2550dba', 'short_description': "The actress also discussed the aftermath of her cousin's tragic death last year.", 'date': '2018-01-19'}

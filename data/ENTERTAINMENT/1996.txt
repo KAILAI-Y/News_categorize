@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "New Star-Studded Movie Aims To Tell Mary Magdalene's Story", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/star-studded-movie-mary-magdalene_us_5a202071e4b0a8581e689ae7', 'short_description': "It's the story of Jesus -- from a woman's perspective.", 'date': '2017-11-30'}

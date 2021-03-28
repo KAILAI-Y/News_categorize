@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel 'Deduces' Why Jeff Sessions Hates Marijuana", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-jeff-sessions-hates-marijuana_us_5a509e26e4b003133ec809d9', 'short_description': '"I want to connect the dots for you."', 'date': '2018-01-06'}

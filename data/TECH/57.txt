@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'The Bitcoin Hoax', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/the-bitcoin-hoax_us_5a3fd6dce4b025f99e17bb2f', 'short_description': 'We should hardly be surprised that Bitcoin is on a wild speculative ride—that’s the essence of privatized credit creation.', 'date': '2017-12-24'}

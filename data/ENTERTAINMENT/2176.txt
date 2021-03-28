@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Former Faith No More Vocalist Chuck Mosley Dead At 57', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/chuck-mosley-faith-no-more-dead_us_5a062149e4b01d21c83e84e5', 'short_description': "Mosley helped pioneer the band's blend of funk and heavy metal in the '80s.", 'date': '2017-11-10'}

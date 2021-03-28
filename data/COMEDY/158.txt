@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Watch Facebook's Emojis Tell You How They Really Feel About Mark Zuckerberg", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/facebook-emoji-react-late-show_us_5acd6eace4b09212968cc58b', 'short_description': 'He\'s not going to "like" this one.', 'date': '2018-04-11'}

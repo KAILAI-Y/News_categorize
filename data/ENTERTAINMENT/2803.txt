@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Miley Cyrus Tears Up Discussing Her $500,000 Donation To Harvey Relief', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/miley-cyrus-hurricane-harvey-donation_us_59a80fd7e4b07e81d3559af8', 'short_description': '“I’m really happy to help any way that I can."', 'date': '2017-08-31'}

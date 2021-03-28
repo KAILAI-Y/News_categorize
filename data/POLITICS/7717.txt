@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Campaign Veterans Say They Wouldn't Have Met With Foreign Agent Offering Dirt", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-meeting-russia-campaign_us_5963a7a0e4b0615b9e936e06', 'short_description': '“Senior presidential campaign officials don’t take meetings with nameless people."', 'date': '2017-07-10'}

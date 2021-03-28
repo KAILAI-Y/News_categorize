@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S., European Countries Bash Russia As Spy Poisoning Spat Intensifies', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/russia-expel-uk-diplomats-skripal_us_5aaa3ff3e4b0004c04078609', 'short_description': 'The move comes after Russia announced its intention to oust British diplomats.', 'date': '2018-03-15'}

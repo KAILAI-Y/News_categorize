@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'More Findings Of CTE In The NFL', 'authors': 'Dr. Adam Lipson, ContributorNeurosurgeon at IGEA Brain & Spine', 'link': 'https://www.huffingtonpost.com/entry/more-findings-of-cte-in-the-nfl_us_59c9074ce4b08d6615504448', 'short_description': 'Some NFL players are not waiting to find out what could be in their future.', 'date': '2017-09-25'}

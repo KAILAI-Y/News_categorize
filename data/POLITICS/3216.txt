@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sean Hannity Appears To Bash CNN, NBC While Sharing NBC Story', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-cnn-nbc-uranium-one_us_5a3be475e4b0b0e5a7a07522', 'short_description': 'What are you doing, Sean?', 'date': '2017-12-21'}

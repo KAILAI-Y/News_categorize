@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Cabaret Star Vows To Make America 'Gay Again' With New Album, Tour", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/tori-scott-make-america-gay-again_us_59484e01e4b07499199e0285', 'short_description': 'Meet Tori Scott, the "Garland for the Grindr era."', 'date': '2017-06-23'}

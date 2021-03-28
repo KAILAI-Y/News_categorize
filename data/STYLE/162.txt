@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '3 Fool-Proof Halloween Makeup Ideas For Your Last-Minute Costume', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/halloween-costume-ideas-with-makeup_us_59ea59dfe4b0958c46820929', 'short_description': 'If you can apply mascara, you can get these looks.', 'date': '2017-10-23'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'From Afghanistan To Somalia, Achieving Less With More', 'authors': 'Nick Turse, ContributorManaging Editor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/special-ops-at-war_us_5a54f90be4b003133ecce08c', 'short_description': 'From Afghanistan to Somalia, Special Ops achieves less with more.', 'date': '2018-01-09'}

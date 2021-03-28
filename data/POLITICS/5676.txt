@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How St. Louis’ Only City Synagogue Became A Safe Haven For Protesters', 'authors': 'Dana Liebelson', 'link': 'https://www.huffingtonpost.com/entry/st-louis-church-synagogue-protesters_us_59c2844be4b087fdf5098e70', 'short_description': 'Along with a Unitarian church across the street.', 'date': '2017-09-20'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '6 Injured In Suspected Acid Attack Near Mall In East London', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/acid-attack-stratford-london_us_59c6d05ce4b06ddf45f84c14', 'short_description': 'Police said "a group of males" were reportedly spraying a "noxious substance.', 'date': '2017-09-23'}

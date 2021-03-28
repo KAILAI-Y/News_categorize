@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'How This Muslim Teacher In Berlin Is Fighting Anti-Semitism', 'authors': 'Dervis Hizarci and Leonhard Landes, HuffPost Germany', 'link': 'https://www.huffingtonpost.com/entry/berlin-antisemitism_us_5a4282cce4b025f99e186149', 'short_description': '“Don’t look away when you witness anti-Semitism.”', 'date': '2017-12-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump: Outgoing Economic Adviser Is ‘A Globalist, But I Still Like Him’', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/trump-calls-advisor-globalist_us_5aa17807e4b0e9381c169eea', 'short_description': '“He’s seriously globalist, there’s no question," Trump added of Gary Cohn.', 'date': '2018-03-08'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Two Generations Of Queer Women Reflect On Life, Love And Feminism', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/glaad-womens-history-month-video_us_5abc0760e4b04a59a3141e8f', 'short_description': 'For Kali and Vickie, "family" isn\'t defined by race, sexuality or gender.', 'date': '2018-03-29'}

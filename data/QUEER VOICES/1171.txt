@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Equality Starts With Me', 'authors': 'Brent Tippen, ContributorAssociate Director, Public Affairs at Gilead Sciences', 'link': 'https://www.huffingtonpost.com/entry/equality-starts-with-me_us_59533265e4b0c85b96c65dcb', 'short_description': 'A very important part of diversity and inclusion starts with allies.', 'date': '2017-06-28'}

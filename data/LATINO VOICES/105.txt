@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "These Latinos' Reactions To 'Coco' Prove Representation Matters", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/latinos-react-to-coco-representation_us_5a2adb39e4b073789f697289', 'short_description': '“I’m a wreck. I’m going to cry again like 10 other times today.”', 'date': '2017-12-08'}

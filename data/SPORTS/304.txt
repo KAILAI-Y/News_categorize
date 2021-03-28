@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Flight Attendant Told Eagles Fans To 'Tone It Down' -- They Didn't", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/flight-attendant-told-eagles-fans-to-tone-it-down-they-didnt_us_5a776f21e4b0905433b57168', 'short_description': 'These fans are flying high.', 'date': '2018-02-04'}

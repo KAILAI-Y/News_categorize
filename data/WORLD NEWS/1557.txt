@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Parents Of Terminally Ill UK Baby Charlie Gard End Legal Battle', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/charlie-gard-baby-legal-battle_us_5975fa9ce4b00e4363e0e605', 'short_description': "The child's parents had been seeking an experimental therapy that courts had refused.", 'date': '2017-07-24'}

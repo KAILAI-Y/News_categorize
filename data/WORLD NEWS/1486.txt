@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Venezuela's Vote Turnout Was Manipulated, Election Company Reports", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/venezuela-vote-manipulated_us_5981d996e4b09d24e9944ce3', 'short_description': 'The election has been widely criticized as illegitimate.', 'date': '2017-08-02'}

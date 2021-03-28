@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Kelly Clarkson Announces New Children's Book About Her Daughter", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/kelly-clarkson-announces-new-childrens-book-about-her-daughter_us_59566175e4b02734df31d964', 'short_description': 'The singer shared the news with a funny video.', 'date': '2017-06-30'}

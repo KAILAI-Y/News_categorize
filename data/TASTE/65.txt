@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': '9 Easy Thanksgiving Side Dishes', 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/day-before-thanksgiving-recipes_us_59fb38b6e4b0415a420a1e00', 'short_description': "All the last-minute Thanksgiving dishes you're searching for!", 'date': '2017-11-03'}

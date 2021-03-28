@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Model Lauren Wasser Lost 1 Leg To Toxic Shock Syndrome And Will 'Inevitably' Lose The Other", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/model-lauren-wasser-toxic-shock_us_5a3b8da7e4b06d1621b1f439', 'short_description': '"My legs were everything."', 'date': '2017-12-21'}

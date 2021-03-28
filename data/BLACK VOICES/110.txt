@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'New Stephon Clark Videos Show Officers Waited 5 Minutes Before Trying To Save Him', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/new-stephon-clark-videos_us_5ad5afb1e4b016a07ea01eb2', 'short_description': 'Officers wondered whether he was armed and pretending to be dead.', 'date': '2018-04-17'}

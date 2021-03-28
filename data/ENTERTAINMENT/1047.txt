@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Patton Oswalt Brings Late Wife's Newly Published Book To Her Grave", 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/patton-oswalt-late-wife-book-published_us_5a959df3e4b036ab0142fbdf', 'short_description': '"You did it, baby."', 'date': '2018-02-27'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Former Trump Campaign Chair Paul Manafort Indicted Yet Again', 'authors': 'Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/paul-manafort-indicted_us_5a90878be4b01e9e56bbc0ef', 'short_description': "Robert Mueller's team now says he paid off a group of European politicians.", 'date': '2018-02-23'}

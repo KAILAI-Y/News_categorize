@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'So, About That Tax Break For Private Jets', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/senate-tax-bill-break-private-jets_us_5a0f563be4b0e97dffed3e5a', 'short_description': 'Why one of the most liberal lawmakers in the Senate is backing it and what it really means.', 'date': '2017-11-18'}

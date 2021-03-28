@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'The Houston Texans Are Donating $1 Million To Harvey Disaster Relief', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/houston-texans-hurricane-harvey_us_59a4477ce4b0821444c4e5bd', 'short_description': 'And the Dallas Cowboys and NFL Foundation each matched the donation soon after.', 'date': '2017-08-28'}

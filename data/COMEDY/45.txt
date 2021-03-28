@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Amy Schumer Goes Full-On Girl Raunch On 'Saturday Night Live'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/amy-schumer-girl-raunch-snl_us_5af7b700e4b032b10bfb5d10', 'short_description': "And she disses husband Chris Fischer's marriage proposal.", 'date': '2018-05-13'}

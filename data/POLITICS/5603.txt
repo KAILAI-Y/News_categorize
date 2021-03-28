@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Former Republican Presidential Candidate Bob Dole Hospitalized', 'authors': 'Gina Cherelus, Reuters', 'link': 'https://www.huffingtonpost.com/entry/bob-dole-hospitalized_us_59c547e6e4b0cdc773312018', 'short_description': "He's been hospitalized since last week due to low blood pressure, his spokeswoman said.", 'date': '2017-09-22'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Sean Penn Rips Steve Bannon: You Can't Age Like That Without Hating People", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/sean-penn-steve-bannon-conan-obrien_us_5abdddcbe4b0f112dc9b3f18', 'short_description': 'Penn worked with Bannon on his 1991 movie "The Indian Runner."', 'date': '2018-03-30'}

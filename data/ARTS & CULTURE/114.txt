@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Gallery-Goer Loses Balance, Knocks Over So Many Pedestals Of Art', 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/art-fall-break_us_5967e854e4b0d6341fe7b99a', 'short_description': 'Your cringeworthy moment of the week. Reminder: selfies destroy.', 'date': '2017-07-13'}

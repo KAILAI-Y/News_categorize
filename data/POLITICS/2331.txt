@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Read The GOP's Controversial Secret FISA Memo", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/read-the-fisa-memo_us_5a731280e4b0bf6e6e2236d9', 'short_description': 'President Donald Trump ordered the release of the memo despite protests from the FBI and Democrats.', 'date': '2018-02-02'}

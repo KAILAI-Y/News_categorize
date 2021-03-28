@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Shhh! 'A Quiet Place' Is Officially Getting A Sequel", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/a-quiet-place-sequel_us_5ae201dee4b02baed1b7f705', 'short_description': '*Screams internally.*', 'date': '2018-04-26'}

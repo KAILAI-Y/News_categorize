@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kris Jenner Has Her Say On Son-In-Law Kanye West's 'Good Intentions'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kris-jenner-kanye-west_us_5aec112ee4b0ab5c3d63dba1', 'short_description': '"Kanye has a lot of love for all of you."', 'date': '2018-05-04'}

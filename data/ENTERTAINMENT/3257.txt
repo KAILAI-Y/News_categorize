@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "What It's Like To Leave 'The Bachelorette' On The First Night", 'authors': 'Claire Fallon, Emma Gray, and Nick Offenberg', 'link': 'https://www.huffingtonpost.com/entry/the-bachelorette-night-one-rejects_us_595faf7be4b02e9bdb0c37ef', 'short_description': 'Maybe more embarrassing than heartbreaking, it turns out.', 'date': '2017-07-07'}

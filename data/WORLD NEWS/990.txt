@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'French Army Charter Plane Crashes In Ivory Coast', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/french-army-charter-plane-crashes-in-ivory-coast_us_59e217f7e4b04d1d51821b66', 'short_description': 'Four Moldovan citizens were killed and two others were injured.', 'date': '2017-10-14'}

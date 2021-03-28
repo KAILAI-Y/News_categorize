@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'What Do You Say To Sexist Passengers? This Female Pilot Has The Perfect Response.', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/female-pilot-sexist-comments-response_us_5b03ee63e4b0a046186f7e92', 'short_description': '"Fact is, I can fly an £80m jet, you can’t."', 'date': '2018-05-22'}

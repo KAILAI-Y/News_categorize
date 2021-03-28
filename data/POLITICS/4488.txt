@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hawaii Protesters Troll Donald Trump Over His Obama Birther Lies', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/hawaii-welcome-to-kenya_us_59fe2e94e4b0c9652fffae7b', 'short_description': '"Welcome to Kenya," rally signs read.', 'date': '2017-11-05'}

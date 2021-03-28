@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "8 Minutes After Saying 'I Don't Like Pinocchios,' Donald Trump's Nose Grows", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/donald-trump-pinocchio-mining-jobs_us_596d4df4e4b010d776734191', 'short_description': '"We picked up 45,000 mining jobs,” the president claimed.', 'date': '2017-07-18'}

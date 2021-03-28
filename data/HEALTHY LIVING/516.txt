@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Here's What Happened When I Gave Up Takeout For A Month", 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/giving-up-takeout-delivery_us_59888973e4b0ca8b1d49ccae', 'short_description': 'Seamless is a bitter habit to break.', 'date': '2017-08-07'}

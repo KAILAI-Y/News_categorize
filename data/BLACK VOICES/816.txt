@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Federal Employee Leaves Noose On Black Co-Worker's Desk", 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/mint-worker-makes-noose-for-black-colleague-in-yet-another-hateful-act_us_595fa42de4b02e9bdb0c29e2', 'short_description': "It's only the latest in a frightening nationwide trend.", 'date': '2017-07-07'}

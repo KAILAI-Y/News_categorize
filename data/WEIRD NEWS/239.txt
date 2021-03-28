@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Uber Charges Passenger Over $14,000 For 5-Mile Ride Across Toronto', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/uber-passenger-14k-surge-pricing_us_5a2eefcce4b01598ac473a12', 'short_description': 'This brings new meaning to the term "driving up the price."', 'date': '2017-12-11'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kim Cattrall Accuses Sarah Jessica Parker Of Exploiting Brother's Death", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/kim-cattrall-sarah-jessica-parker-brother-death_us_5a7f103ae4b0c6726e13d2c7', 'short_description': '"You are not my family. You are not my friend."', 'date': '2018-02-10'}

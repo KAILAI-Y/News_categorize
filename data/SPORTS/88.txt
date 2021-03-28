@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'All The Best Moments From The 2018 Winter Olympics Closing Ceremony', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/2018-winter-olympics-closing-ceremony-live-updates_us_5a9167f9e4b03b55731c8f02', 'short_description': 'The games in Pyeongchang, South Korea, drew to a colorful close on Sunday.', 'date': '2018-02-25'}

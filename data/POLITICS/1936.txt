@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'State Department Erases Reproductive Rights Section From Annual Report', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/state-department-womens-reproductive-rights_us_5a8eeb5ce4b0746ba2acef1e', 'short_description': 'The section on racial and sexual discrimination will also be trimmed.', 'date': '2018-02-22'}

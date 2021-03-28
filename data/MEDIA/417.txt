@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Fox News' Shepard Smith Gets Emotional Paying Tribute To New York City", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/shepard-smith-new-york-city-tribute_us_59fa89d2e4b0b0c7fa37ea10', 'short_description': '"New York City made you proud last night."', 'date': '2017-11-02'}

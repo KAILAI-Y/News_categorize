@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Two Ohio Police Officers Fatally Shot While Responding To 911 Call', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/ohio-police-officers-killed_us_5a80a1c7e4b044b3821e9926', 'short_description': 'Officers Eric Joering and Anthony Morelli were met with gunfire upon their arrival, officials said.', 'date': '2018-02-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The RNC Will Support Roy Moore After Pulling Funding Over Misconduct Allegations', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/republican-national-committee-support-roy-moore_us_5a261231e4b07324e8402593', 'short_description': 'The move follows an endorsement from President Donald Trump.', 'date': '2017-12-05'}

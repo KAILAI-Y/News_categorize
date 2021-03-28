@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Protestors Want Green Day's 'American Idiot' To Top UK Chart For Trump Visit", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-uk-visit-american-idiot_us_5ae8334ee4b055fd7fcf4fab', 'short_description': "🎤 Don't wanna be an American idiot... 🎤", 'date': '2018-05-01'}

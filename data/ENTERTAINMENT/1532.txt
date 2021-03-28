@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "CBS Asked Sharon Stone If She Ever Felt 'Uncomfortable' In Hollywood. She Just Laughed.", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/sharon-stone-harassment-hollywood_us_5a5cc423e4b0fcbc3a123be0', 'short_description': '"Can you imagine the business I stepped into 40 years ago?"', 'date': '2018-01-15'}

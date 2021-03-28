@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Gina Rodriguez Slams Hollywood For Lack Of Latino Leads', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/gina-rodriguez-hollywood-latino_us_5a65fdbce4b002283004d524', 'short_description': 'The actress did not mince words during her red carpet interview with E! News.', 'date': '2018-01-22'}

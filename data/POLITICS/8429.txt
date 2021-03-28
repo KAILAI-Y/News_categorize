@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Dangerous Moment For America', 'authors': 'Jason Belcher, ContributorAuthor & Iraq War Veteran', 'link': 'https://www.huffingtonpost.com/entry/a-dangerous-moment-for-america_us_59429e88e4b0d188d027fc23', 'short_description': 'Disagreement is part of our political system, but shooting at people is not.', 'date': '2017-06-15'}

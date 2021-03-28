@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Women On Twitter Groaned As Gilly's Major Moment Was Ignored By A Man", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/women-on-twitter-groaned-as-gillys-major-moment-was-ignored-by-a-man_us_5991b474e4b08a247275fc69', 'short_description': 'Sam, my man, hush your face!', 'date': '2017-08-14'}

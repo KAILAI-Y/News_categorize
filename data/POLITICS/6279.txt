@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Pardons Former Sheriff Joe Arpaio, Who Illegally Targeted Latinos', 'authors': 'Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/trump-pardon-joe-arpaio_us_599da366e4b0a296083b9758', 'short_description': 'The self-declared "law and order" president backs a man who defied a court order.', 'date': '2017-08-26'}

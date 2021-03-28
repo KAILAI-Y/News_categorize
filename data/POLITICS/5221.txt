@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Government Workers: What Are You Seeing At Your Federal Agency?', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/federal-workers_us_59d53264e4b0380b6c99ea05', 'short_description': 'We want to hear from you.', 'date': '2017-10-05'}

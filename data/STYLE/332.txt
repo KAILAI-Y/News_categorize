@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Justin Trudeau's Socks Are On Point", 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/justin-trudeau-socks_us_594cb905e4b0da2c731aae88', 'short_description': "No world leader's socks have ever been so beloved.", 'date': '2017-06-23'}

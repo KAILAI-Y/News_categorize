@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'For Women, New Uber CEO Dara Khosrowshahi Is Almost Certainly An Improvement', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/uber-dara-khosrowshahi-women_us_59a4368be4b05710aa5dcac2', 'short_description': 'The bar is low, of course.', 'date': '2017-08-28'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Rap Star Rick Ross Put On Life Support: Report', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/rick-ross-life-support_us_5a99d91fe4b0479c02528a41', 'short_description': 'Ross is being treated in a cardiac unit at a Florida hospital.', 'date': '2018-03-02'}

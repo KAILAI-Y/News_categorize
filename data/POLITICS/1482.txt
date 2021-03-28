@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Libertarian Candidate Embraces His Role As Spoiler In Pennsylvania Election', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/drew-miller-libertarian-spoiler-special-election_us_5aa98129e4b0600b82ffaa03', 'short_description': "Drew Miller says he's the most hated man in America.", 'date': '2018-03-14'}

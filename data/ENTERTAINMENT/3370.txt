@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Coroner Reveals Details Of Carrie Fisher's Death", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/carrie-fisher-cause-of-death_us_59447f56e4b0f15cd5bb82ec', 'short_description': 'The manner of death remains "undetermined."', 'date': '2017-06-17'}

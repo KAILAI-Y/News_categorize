@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Officials May Be Privately 'Upset,' But They're Still Working For Him", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-charlottesville-upset_us_5995b8e8e4b0d0d2cc850ce1', 'short_description': 'Profiles in courage.', 'date': '2017-08-17'}

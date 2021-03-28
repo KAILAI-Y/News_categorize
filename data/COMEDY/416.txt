@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon Shares People's Worst First Dates, Proves Romance Is Dead", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-peoples-worst-dates_us_5a5898d9e4b02cebbfdadfd3', 'short_description': 'Including the one with a "puppy trumpet."', 'date': '2018-01-12'}

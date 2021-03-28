@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Serena Williams Loves This Baby Book Written By One Of Her BFFs', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/serena-williams-loves-this-baby-book-written-by-one-of-her-bffs_us_59679b2ae4b0a8d46d12e195', 'short_description': '"It’s been really, really good for me.”', 'date': '2017-07-13'}

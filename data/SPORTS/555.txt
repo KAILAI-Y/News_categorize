@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Warriors Ride Durant To Beat Cavaliers And Clinch NBA Title', 'authors': 'Rory Carroll, Reuters', 'link': 'https://www.huffingtonpost.com/entry/warriors-nba-championship_us_593f61c2e4b0b13f2c6d8345', 'short_description': "It was the Warriors' second NBA championship in three seasons.", 'date': '2017-06-13'}

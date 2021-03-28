@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Actresses At Golden Globes To Wear Black To Protest Sexual Harassment', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/golden-globes-sexual-harassment-protest_us_5a32e867e4b0ff955ad15199', 'short_description': "It's unclear if men will participate as well.", 'date': '2017-12-14'}

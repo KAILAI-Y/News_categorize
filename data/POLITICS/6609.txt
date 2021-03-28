@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Party Of Lincoln Returns To Its Pro-Confederacy Roots', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/party-of-lincoln-returns-to-its-pro-confederacy-roots_us_59936df6e4b04b19336136c1', 'short_description': 'Shots fired in Fort Trumpter', 'date': '2017-08-15'}

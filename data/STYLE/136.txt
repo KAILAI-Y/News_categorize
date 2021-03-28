@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "12 Items Of Heated Clothing For The Person Who's Always Cold", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/12-items-of-heated-clothing-for-the-person-whos-always-cold_us_59fa231ce4b0b0c7fa37b0be', 'short_description': 'Time to stock up!', 'date': '2017-11-07'}

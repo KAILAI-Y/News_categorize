@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Set To Take On Davos Globalism And Optimism', 'authors': 'Andy Serwer, Yahoo! Finance', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-take-on-davos_us_5a673446e4b0dc592a0c75e8', 'short_description': 'At Davos, there is much talk of Donald Trump.', 'date': '2018-01-23'}

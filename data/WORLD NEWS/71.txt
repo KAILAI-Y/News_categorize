@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Benjamin Netanyahu's Big Speech On Iran Was Aimed Directly At Trump", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/netanyahu-speech-trump-israel-iran_us_5ae87810e4b04aa23f2718a5', 'short_description': '"It was pretty obvious that the speech had an audience of one," one expert said.', 'date': '2018-05-01'}

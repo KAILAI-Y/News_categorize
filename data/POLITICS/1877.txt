@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump: Chief Of Staff Kelly To Settle Kushner Security Dispute', 'authors': 'Steve Holland, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-chief-of-staff-kelly-to-settle-kushner-security-dispute_us_5a90c469e4b03b55731c49eb', 'short_description': '“I have no doubt he will make the right decision.”', 'date': '2018-02-24'}

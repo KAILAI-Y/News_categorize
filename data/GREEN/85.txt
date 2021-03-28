@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Ringmaster Who Killed Escaped Paris Tiger Says Cage Lock Was Cut', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/cagelock-cut-paris-tiger_us_5a1a2eb7e4b064948074d50e', 'short_description': '"We\'re devastated," says circus statement.', 'date': '2017-11-26'}

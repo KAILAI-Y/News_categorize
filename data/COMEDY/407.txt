@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "This College Humor Video Finally Solves The Mystery Of 'Dad Noises'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/college-humor-dad-noises_us_5a5ba7f6e4b04f3c55a3a2bc', 'short_description': 'The answer is quite obvious actually.', 'date': '2018-01-14'}

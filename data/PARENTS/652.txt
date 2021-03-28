@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Why We Need More Hallway Moms', 'authors': 'Holli Fawcett Clayton, ContributorFormer attorney, freelance writer, and creator of Courageous &...', 'link': 'https://www.huffingtonpost.com/entry/why-we-need-more-hallway-moms_us_594a77cfe4b0710bea889ae9', 'short_description': 'My friend Karen is a hallway mom.', 'date': '2017-06-21'}

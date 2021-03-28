@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Chelsea Handler Categorizes America's Racists In A Genius Way", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/chelsea-handler-racist-trading-cards_us_59bb3da7e4b02da0e140a0a2', 'short_description': 'These trading cards are a necessity in 2017.', 'date': '2017-09-15'}

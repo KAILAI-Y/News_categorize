@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Michael Che, Colin Jost To Host 2018 Emmy Awards', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/michael-che-colin-jost-emmy-hosts_us_5ae200fbe4b04aa23f20d317', 'short_description': 'Their "SNL" boss, Lorne Michael, has the producing chores for the September show.', 'date': '2018-04-26'}

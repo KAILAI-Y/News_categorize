@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "House Passes An Abortion Ban After Letting Children's Health Program Expire", 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/abortion-20-weeks-republicans-chip_us_59d3a3e6e4b048a4432552d4', 'short_description': 'The White House said the move will "facilitate a culture of life."', 'date': '2017-10-03'}

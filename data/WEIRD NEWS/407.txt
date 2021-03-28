@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Praying Mantises Are Killing Birds And Eating Their Brains Worldwide', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/praying-mantises-eating-birds-brains_us_59610ff4e4b0d5b458eac95e', 'short_description': 'Mostly hummingbirds, based on the documented cases.', 'date': '2017-07-08'}

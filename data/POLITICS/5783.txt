@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: 'Terrorist Incident' Rocks London Tube", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-terrorist-incident-rocks-london-tube_us_59bbb132e4b02da0e1410aee', 'short_description': 'Multiple people were injured.', 'date': '2017-09-15'}

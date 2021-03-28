@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jeff Flake Won't Seek Re-Election, Says There 'May Not Be A Place' For Him In Trump's GOP", 'authors': 'Paige Lavender and Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/jeff-flake-retiring_us_59ef8bf0e4b0bf1f88365964', 'short_description': 'His departure is a political earthquake for 2018.', 'date': '2017-10-24'}

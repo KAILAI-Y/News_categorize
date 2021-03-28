@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'You Believe Too Many Tax Myths And Republicans Are Taking Advantage Of It', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-tax-myths_us_59e664fce4b0d0e4fe6bb319', 'short_description': 'Unless you’re a multimillionaire, the “death tax” isn’t going to hit you.', 'date': '2017-10-17'}

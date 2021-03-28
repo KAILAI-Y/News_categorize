@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mueller Team Adds Lawyer With Experience In Foreign Bribery, White-Collar Crime', 'authors': 'Karen Freifeld, Reuters', 'link': 'https://www.huffingtonpost.com/entry/mueller-investigation-greg-andres-lawyer_us_59810b98e4b02b36343ebb66', 'short_description': 'Greg Andres is the 16th lawyer on the team.', 'date': '2017-08-01'}

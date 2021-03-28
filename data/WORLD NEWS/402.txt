@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "What's Driving The Recent Carnage In Kabul", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/whats-driving-the-recent-carnage-in-kabul_us_5a6dfc72e4b06e2532687712', 'short_description': 'The Afghan capital has endured three brutal terrorist attacks.', 'date': '2018-02-01'}

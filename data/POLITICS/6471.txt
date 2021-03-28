@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Never Again', 'authors': 'David L. Phillips, ContributorDirector, Program on Peace-building and Rights, Institute for ...', 'link': 'https://www.huffingtonpost.com/entry/never-again_us_5996ebafe4b03b5e472ceeb3', 'short_description': 'We can choose to act against intolerance and bigotry.', 'date': '2017-08-18'}

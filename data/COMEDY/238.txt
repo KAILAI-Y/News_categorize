@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trump Store's Attempt To Troll Jimmy Kimmel Over Chinese Merch Goes Very Wrong", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-trump-store-twitter_us_5aab6b2fe4b0337adf82afa5', 'short_description': 'The battle heats up.', 'date': '2018-03-16'}

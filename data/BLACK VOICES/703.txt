@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Petition Wants A Statue Of Missy Elliott To Replace A Confederate Monument', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/missy-elliott-confederate-statue-petition_us_599af996e4b0e8cc855f071c', 'short_description': '"Together we can put white supremacy down, flip it and reverse it."', 'date': '2017-08-21'}

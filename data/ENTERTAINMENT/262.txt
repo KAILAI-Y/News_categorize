@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ryan Reynolds Reveals The Topic He Wasn't Allowed To Joke About In 'Deadpool 2'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/deadpool-2-disney-joke_us_5aebe6b5e4b0c4f19320a486', 'short_description': '"Fox made me take it out."', 'date': '2018-05-04'}

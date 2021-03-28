@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'This Dutch 23-Year-Old Epitomizes The Future Of American Filmmaking', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/joosje-duk-night_us_5a4ecb6ce4b089e14db9ad49', 'short_description': 'Joosje Duk\'s short film "Night" depicts racial profiling with a surreal accessibility.', 'date': '2018-01-08'}

@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "The 'President Of The United States' Made An Appearance At The Tonys", 'authors': 'Katherine Brooks', 'link': 'https://www.huffingtonpost.com/entry/frank-underwood-president-tony-awards_us_593eab9be4b0b13f2c6c724a', 'short_description': "And seems to be recruiting Lin-Manuel Miranda as 2020's VP.", 'date': '2017-06-12'}

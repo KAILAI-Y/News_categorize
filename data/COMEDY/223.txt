@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Donald Trump’s ‘DO NOT CONGRATULATE’ Putin Blunder Is Already A Savage New Meme', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-do-not-congratulate-twitter_us_5ab1feb2e4b0decad0453c58', 'short_description': "The president's latest gaffe takes over Twitter.", 'date': '2018-03-21'}

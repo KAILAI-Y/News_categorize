@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Olivia Munn Links Hollywood Sexual Misconduct Epidemic To Gender Pay Gap', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/olivia-munn-sexual-harassment-essay-hollywood_us_5a3cbde0e4b06d1621b366ad', 'short_description': '"Continuing to pay us less perpetuates a bias that women are inferior."', 'date': '2017-12-22'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Prince Harry Opens Up About His 'Fantastic' Christmas With Meghan Markle", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/prince-harry-meghan-markle-christmas_us_5a4397ffe4b025f99e18edc1', 'short_description': 'He also hinted about inviting former President Barack Obama to his wedding.', 'date': '2017-12-27'}

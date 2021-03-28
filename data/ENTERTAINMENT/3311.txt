@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Adele Sets Fire To The Internet, Reportedly May Never Tour Again', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/adele-sets-fire-to-the-internet-says-she-may-never-tour-again_us_5954f0d5e4b02734df305bfd', 'short_description': 'Watch it burn!', 'date': '2017-06-29'}

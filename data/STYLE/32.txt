@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Carrie Underwood's Style Through The Years, In Photos", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/carrie-underwood-style-evolution_us_5a4ba769e4b06d1621bafc57', 'short_description': 'She\'s gone from "American Idol" winner to bona fide country music star.', 'date': '2018-01-02'}

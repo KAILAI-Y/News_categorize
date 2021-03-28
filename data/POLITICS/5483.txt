@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's Attempt At Using Usain Bolt To Slam NFL Players Spectacularly Backfires", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/usain-bolt-donald-trump-team-jamaica_us_59cb4c6be4b02aef6cd619ad', 'short_description': '"Please leave The Boss out of your politricks."', 'date': '2017-09-27'}

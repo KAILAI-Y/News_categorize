@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tweeters School 'Amazingly Dumb' Donald Trump Over 'Special Council' Typo", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-special-council-typo-tweet_us_5ab25f5fe4b008c9e5f32dc2', 'short_description': '"The Special Council is a unit of the Space Force."', 'date': '2018-03-21'}

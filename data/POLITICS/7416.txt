@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Supreme Court Partly Rejects Trump In Latest Travel Ban Fight', 'authors': 'Lawrence Hurley, Reuters', 'link': 'https://www.huffingtonpost.com/entry/supreme-court-travel-ban_us_596f9302e4b05453c5cd087a', 'short_description': 'The brief order said its decision is temporary.', 'date': '2017-07-19'}

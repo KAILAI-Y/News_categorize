@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Texas Senate Candidate Beto O'Rourke Says He's Seen Enough Evidence To Impeach Trump", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/beto-orourke-trump-impeachment_us_5acbb18de4b09d0a1196527d', 'short_description': 'But the Democrat wants to wait for the conclusion of the Russia probe first.', 'date': '2018-04-09'}

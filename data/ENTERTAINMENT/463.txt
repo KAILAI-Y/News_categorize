@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Gwen Stefani Superfan Beats Gwen Stefani At A Gwen Stefani Quiz', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/gwen-stefani-quiz-jimmy-kimmel_us_5ad87031e4b0e4d0715d9f9d', 'short_description': 'Oops.', 'date': '2018-04-19'}

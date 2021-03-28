@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congressman Launches Petition To Stop Deportation Of 9/11 Cleanup Worker', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/joe-crowley-cardona-deportation_us_5953b642e4b05c37bb7af3d4', 'short_description': '"This is shameful."', 'date': '2017-06-28'}

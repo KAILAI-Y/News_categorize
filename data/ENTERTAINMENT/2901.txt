@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Spotify Removes White Supremacist Bands From Its Platform', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/spotify-removes-white-supremacist-hate-bands_us_599594e1e4b0acc593e58dd4', 'short_description': 'Hate has no place in music.', 'date': '2017-08-17'}

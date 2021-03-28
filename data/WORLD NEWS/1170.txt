@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Tunisia Just Took A Big Step Forward On Muslim Women's Rights", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/tunisia-muslim-women-marriage_us_59bc42ffe4b02da0e142181f', 'short_description': 'A new law allows Muslim women to marry outside the faith, just like their male counterparts.', 'date': '2017-09-16'}

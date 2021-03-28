@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Conan O'Brien's Trip To Israel Was Hilarious -- And Heartbreaking", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/conan-obrien-israel_us_59c1f46be4b0f22c4a8d8bc6', 'short_description': 'The host threw himself an impromptu bar mitzvah and visited a hospital on the Golan Heights.', 'date': '2017-09-20'}

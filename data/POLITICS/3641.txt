@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Meet Al Franken's Republican Defenders", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/al-franken-republican-defenders_us_5a29530fe4b03ece03008f5f', 'short_description': 'They say the Minnesota senator has fallen victim to a "lynch mob."', 'date': '2017-12-07'}

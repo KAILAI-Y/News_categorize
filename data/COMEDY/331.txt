@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Sad Tom Brady' Was The Only Tom Brady Who Won Super Bowl LII", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/sad-tom-brady-meme_us_5a78c9f6e4b0164659c728eb', 'short_description': "Folks on Twitter found images of the Patriots' quarterback looking defeated very satisfying.", 'date': '2018-02-06'}

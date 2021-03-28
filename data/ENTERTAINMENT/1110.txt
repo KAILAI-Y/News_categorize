@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Adam Rippon Loved Sally Field's 'Bold' Matchmaking Attempt", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/adam-rippon-sally-field-matchmaking-bold_us_5a8c6c2ce4b0273053a55048', 'short_description': 'And the Olympic skater sent a sweet message to the actress’ son.', 'date': '2018-02-20'}

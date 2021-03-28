@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Car Flies Into Second Floor Of Building And Stays There', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/car-crash-second-floor_us_5a5c83bde4b0fcbc3a11c033', 'short_description': "Two car occupants had minor injuries from the wild ride that ended in a dentist's office.", 'date': '2018-01-15'}

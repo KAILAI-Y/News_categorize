@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Megyn Kelly Grills Alex Jones In Controversial Interview', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/megyn-kelly-alex-jones-interview_us_594786fce4b01eab7a2eb8e4', 'short_description': 'But Jones evaded most of her toughest questions.', 'date': '2017-06-19'}

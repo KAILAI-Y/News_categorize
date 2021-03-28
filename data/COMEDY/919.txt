@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Exposes The Right-Wing Media Empire Taking Over Your Local News', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-sinclair-broadcast_us_5959e755e4b0da2c732460f9', 'short_description': 'The merger would give this company 2.2 million evening news viewers.', 'date': '2017-07-03'}

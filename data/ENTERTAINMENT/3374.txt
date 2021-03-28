@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Celebrities React To Bill Cosby Mistrial With Total Indignation', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/celebrities-react-to-bill-cosby-mistrial_us_5944446ce4b06bb7d273247b', 'short_description': '"What kind of bulls**t??????"', 'date': '2017-06-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Utah Senator Orrin Hatch Announces Retirement', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/orrin-hatch-retiring_us_5a4bd927e4b0b0e5a7a9174c', 'short_description': 'The news has reignited speculation that 2012 GOP presidential nominee Mitt Romney will seek the seat.', 'date': '2018-01-02'}

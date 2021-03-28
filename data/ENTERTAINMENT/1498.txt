@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jessica Chastain And Kate McKinnon Gleefully Fire Up Their Non-Feud In 'SNL' Preview", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jessica-chastain-kate-mckinnon-snl_us_5a60baf2e4b01b82649d4410', 'short_description': 'This week\'s "SNL" host makes some intriguing threats.', 'date': '2018-01-18'}

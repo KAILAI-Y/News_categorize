@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Bill Cosby Publicist Invokes Emmett Till In Calling Cosby's Accusers Liars", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/bill-cosby-publicist-emmett-till_us_5ae3320fe4b055fd7fcb5d48', 'short_description': '"Since when are all women honest?" a spokeswoman for the convicted comedian said.', 'date': '2018-04-27'}

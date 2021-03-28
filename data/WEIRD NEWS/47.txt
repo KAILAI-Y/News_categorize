@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Christian Researcher' Has A Head-Spinning New Doomsday Prediction", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/2018-doomsday-prediction_us_5ae01f88e4b07be4d4c5ecf3', 'short_description': "But don't cancel your plans just yet.", 'date': '2018-04-25'}

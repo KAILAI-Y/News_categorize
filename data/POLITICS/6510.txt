@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Rep. Peter King Says Trump Should Fire Steve Bannon', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/peter-king-steve-bannon_us_5995f4c3e4b01f6e801d2511', 'short_description': '“To me, his time in the White House should be over."', 'date': '2017-08-17'}

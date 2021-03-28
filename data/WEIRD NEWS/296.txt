@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Guess The Humongous Amount A Canada Goose Can Poop In A Day', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/canada-geese-poop-how-much_us_5a0489bae4b03deac08bdd4b', 'short_description': 'The answer has some people down in the dumps.', 'date': '2017-11-09'}

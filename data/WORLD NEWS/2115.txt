@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Masked Gunmen Kill 28 In Attack On Coptic Christians In Egypt', 'authors': 'Omar Fahmy, Reuters', 'link': 'https://www.huffingtonpost.com/entry/egypt-coptic-christians-attack_us_592803bde4b01b9a59381117', 'short_description': 'Health Ministry officials said many children were among the victims.', 'date': '2017-05-26'}

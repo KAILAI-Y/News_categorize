@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'NBC Renews ‘Will & Grace’ Revival For A Third Season', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/will-grace-revival-third-season_us_5aaec75fe4b0337adf84ffad', 'short_description': 'The network also announced Season 2 would include more episodes.', 'date': '2018-03-18'}

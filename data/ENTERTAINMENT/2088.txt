@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Audience Loses It When Pikachu Speaks English In 'Pokémon' Movie", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/pikachu-speaks-english-pokemon-movie_us_5a10a98ae4b0dd63b1aacc7a', 'short_description': 'Although it might have been a dream sequence. Maybe.', 'date': '2017-11-18'}

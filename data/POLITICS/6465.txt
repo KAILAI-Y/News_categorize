@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Burden of Hate', 'authors': 'Annum Masroor', 'link': 'https://www.huffingtonpost.com/entry/the-burden-of-hate-white-supremacy_us_59973df7e4b0e8cc855db6a8', 'short_description': 'View full experience here', 'date': '2017-08-18'}

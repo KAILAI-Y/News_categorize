@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Eric Bolling Out At Fox News', 'authors': 'Yashar Ali', 'link': 'https://www.huffingtonpost.com/entry/eric-bolling-fox-news_us_59b2fb2de4b0354e4411f212', 'short_description': 'The news comes a month after HuffPost reported the host sent unsolicited lewd texts to female colleagues.', 'date': '2017-09-08'}

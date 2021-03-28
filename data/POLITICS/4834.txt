@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "David Petraeus: White House Is Wrong, Generals Are 'Fair Game' For Criticism", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/petraeus-generals-fair-game_us_59ed06d8e4b00f08619f85e7', 'short_description': 'The military is "fiercely protective" of that right, says retired four-star general.', 'date': '2017-10-22'}

@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Wall Street Turmoil Worsens As Dow Jones Plunges 1,000 Points', 'authors': 'Lewis Krauskopf, Reuters', 'link': 'https://www.huffingtonpost.com/entry/dow-drops-wall-street-turmol_us_5a7cbc1be4b0c6726e111c62', 'short_description': 'The benchmark S&P 500 and the Dow industrials confirmed they were in correction territory.', 'date': '2018-02-08'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'More Than 60 Migrants Reported Dead After Boat Sinks In Mediterranean', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/migrants-dead-mediterranean_us_5a5496e3e4b0efe47ebc63e6', 'short_description': 'Eight members of one family drowned.', 'date': '2018-01-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Elvis Presley Is Running For Congress In Arkansas', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/elvis-presley-arkansas-congress_us_5a952b62e4b0699553cc03b0', 'short_description': "It's now or never!", 'date': '2018-02-27'}

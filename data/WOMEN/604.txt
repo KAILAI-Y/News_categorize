@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Alabama Minors Seeking Abortions No Longer Have To Face Their Fetuses' Lawyers In Court", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/alabama-abortion-law-minors_us_597f6b83e4b02a4ebb7750da', 'short_description': 'Yes, that was a thing.', 'date': '2017-08-01'}

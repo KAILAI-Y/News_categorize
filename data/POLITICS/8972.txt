@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hold The Phone. Trump Tweets He Now Wants More Money For Health Care', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-tweets-healthcare-money_us_592bb55fe4b053f2d2ad4c00', 'short_description': 'The White House proposed massive cuts just days ago.', 'date': '2017-05-29'}

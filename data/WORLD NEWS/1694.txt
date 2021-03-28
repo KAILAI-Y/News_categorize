@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "2 Americans Gored On Second Day Of Pamplona's Running Of The Bulls", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/pamplona-san-fermin-bull-running-2017-day-2_us_59607d8ce4b0615b9e91b8e0', 'short_description': "Ten people were hospitalized following Saturday's run.", 'date': '2017-07-08'}

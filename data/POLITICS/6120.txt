@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Houston Chemical Plant Fire Highlights Dangers Of Deregulation', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/arkema-deregulation_us_59a9ab48e4b0dfaafcf05c5e', 'short_description': "The Arkema factory disaster shows what's at risk with President Donald Trump's industrial agenda.", 'date': '2017-09-01'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'The Best Shopping In Detroit Is Filled With Detroit Pride', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/best-shopping-detroit_us_59c40cd3e4b0c90504fc60ee', 'short_description': 'Hand-crafted coolness.', 'date': '2017-09-26'}

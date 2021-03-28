@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'James Franco Blocks Tommy Wiseau From Finally Getting His Golden Globes Moment', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/james-franco-tommy-wiseau-from-finally-getting-his-golden-globes_us_5a52d2b9e4b003133ec94e8e', 'short_description': "You're tearing us apart, James!", 'date': '2018-01-08'}

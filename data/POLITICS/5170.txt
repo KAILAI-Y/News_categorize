@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Missing In Action: Barack Obama', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/missing-in-action-barack-obama_us_59da823ce4b046f5ad991e6f', 'short_description': 'His country needs him again.', 'date': '2017-10-08'}

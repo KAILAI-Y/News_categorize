@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Spanish Woman Looks More Like Trump Than The Donald Himself', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/dolores-antelo-donald-trump-lookalike_us_5adf8ed2e4b07be4d4c58c8c', 'short_description': '″My photo seems to have traveled far. I say it is because of the color of my hair,” she said.', 'date': '2018-04-24'}

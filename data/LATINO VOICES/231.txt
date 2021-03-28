@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Dascha Polanco Opens Up About What Makes Her Insecure', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/dascha-polanco-insecure_us_5972360be4b0e79ec198fb4d', 'short_description': 'The "OITNB" star also revealed why she always uses #SelfLovery.', 'date': '2017-07-21'}

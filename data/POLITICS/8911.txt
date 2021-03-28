@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Reportedly Plans To Withdraw From Paris Climate Deal', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/trump-paris-agreement_us_592dae29e4b0c0608e8bb885', 'short_description': 'The U.S. would join Syria and Nicaragua in rejecting the historic pact to address global warming.', 'date': '2017-05-31'}

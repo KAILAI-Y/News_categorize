@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Twin Suicide Bombing In Central Baghdad Kills At Least 27', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/baghdad-suicide-bombing_us_5a5c4f35e4b04f3c55a3f5f0', 'short_description': 'Dozens more were injured in the blast.', 'date': '2018-01-15'}

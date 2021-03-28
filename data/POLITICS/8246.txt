@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans Hold On To Mick Mulvaney's Old House Seat In South Carolina", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/south-carolina-special-ralph-norman-wins_us_59498830e4b0db570d37599c', 'short_description': 'The special election was overshadowed by a similar race in Georgia.', 'date': '2017-06-21'}

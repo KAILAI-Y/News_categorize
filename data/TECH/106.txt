@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "The One Essential Phone Accessory You're Missing", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/essential-phone-accessory-phone-grip_us_597f3dc9e4b02a8434b7deb5', 'short_description': "You won't know how your phone lived without it for so long.", 'date': '2017-07-31'}

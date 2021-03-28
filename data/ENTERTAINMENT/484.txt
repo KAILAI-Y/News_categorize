@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Robert De Niro Gives Donald Trump Another Savage Nickname', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/robert-de-niro-donald-trump-tribeca_us_5ad843bee4b0e4d0715d5563', 'short_description': '"America is being run by a madman."', 'date': '2018-04-19'}

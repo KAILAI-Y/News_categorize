@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Grace Kelly's Granddaughter Is Her Spitting Image", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/grace-kelly-granddaughter_us_59d7898ae4b0f6eed34fca6d', 'short_description': 'A little DNA goes a long way.', 'date': '2017-10-06'}

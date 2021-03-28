@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration To End Immigration Protections For Haitians', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-haitians-immigration_us_5a1373e3e4b0bfa88c1ca1fc', 'short_description': 'The U.S. will end the special status in July 2019.', 'date': '2017-11-21'}

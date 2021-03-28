@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jesuit Priest\xa0Debunks The 'War On Christmas' In The Best Way Possible", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jesuit-priest-war-on-christmas_us_5a3761aae4b0ff955ad44697', 'short_description': 'What would Jesus think of people who say "happy holidays"?', 'date': '2017-12-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Say Roy Moore Should Withdraw From Senate Race If Allegations Are True', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-republicans-resign_us_5a04a7e4e4b0f76b05c43cde', 'short_description': 'And Sen. John McCain called on Moore to "immediately" step aside.', 'date': '2017-11-09'}

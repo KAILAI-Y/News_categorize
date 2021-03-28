@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Another Former Staffer Alleges That John Conyers Groped Her', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/john-conyers-sexual-misconduct-allegations_us_5a268ccde4b0f9f0203f239c', 'short_description': 'The veteran congressman announced late Tuesday morning that he would retire from Congress.', 'date': '2017-12-05'}

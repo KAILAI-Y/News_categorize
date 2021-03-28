@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Trump Confuses Two Female Finnish Journalists During Press Conference', 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/trump-confuses-finnish-journalists_us_59a487dee4b041393a1ffa6f', 'short_description': 'The Finnish president had to explain that they were in fact two different women.', 'date': '2017-08-28'}

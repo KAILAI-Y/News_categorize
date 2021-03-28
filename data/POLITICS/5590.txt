@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Withdraws White House Invite To NBA Champions', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trump-white-house-nba-champions_us_59c65aede4b06ddf45f83bbb', 'short_description': '"Stephen Curry is hesitating, therefore invitation is withdrawn!"', 'date': '2017-09-23'}

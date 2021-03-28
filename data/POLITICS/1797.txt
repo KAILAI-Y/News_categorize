@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Florida Moves To Arm Teachers After School Massacre', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/florida-arm-teachers-school-shooting_us_5a96719ae4b0e6a52302c159', 'short_description': "Legislative committees' answer to the Marjory Stoneman Douglas High School slaughter? More guns.", 'date': '2018-02-28'}

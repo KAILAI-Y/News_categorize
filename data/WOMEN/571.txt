@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "The Next Big Mobilization From Women's March Will Be In October", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/the-next-big-mobilization-from-womens-march-will-be-in-october_us_59920732e4b0909642993535', 'short_description': 'Organizers are planning a three-day convention in Detroit.', 'date': '2017-08-14'}

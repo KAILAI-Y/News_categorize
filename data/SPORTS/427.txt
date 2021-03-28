@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Houston Astros Head To World Series', 'authors': 'Rory Carroll, Reuters', 'link': 'https://www.huffingtonpost.com/entry/houston-astros-head-to-world-series_us_59ec91c0e4b00f08619f7505', 'short_description': 'The Astros will face the Dodgers when the World Series begins on Tuesday in Los Angeles.', 'date': '2017-10-22'}

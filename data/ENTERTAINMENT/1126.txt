@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "This Is Why You Don't Ask Jamie Foxx About Katie Holmes", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/this-is-why-you-dont-ask-jamie-foxx-about-katie-holmes_us_5a8819b6e4b05c2bcacb46f7', 'short_description': 'The actor made his move at the NBA All-Star Celebrity Game.', 'date': '2018-02-17'}

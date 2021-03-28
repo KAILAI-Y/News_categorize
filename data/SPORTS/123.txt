@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Russian Skater Alina Zagitova Breaks World Record Set Minutes Earlier By Teammate', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/alina-zagitova-world-record_us_5a8d0fbce4b03414379b7a7f', 'short_description': 'She scored the highest score ever for a short program in women’s singles figure skating.', 'date': '2018-02-21'}

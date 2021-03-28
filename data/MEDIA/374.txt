@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Gayle King Further Addresses Charlie Rose Allegations', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/gayle-king-charlie-rose-colbert_us_5a1523aee4b09650540e3297', 'short_description': '"When you think about the anguish of those women ... you have to report the news."', 'date': '2017-11-22'}

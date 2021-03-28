@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "After 46 Years, Yoko Ono Is Finally Credited For Co-Writing 'Imagine'", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/yoko-ono-imagine_us_59427ab4e4b0d3185487518b', 'short_description': "Congratulations, Yoko. It's about time.", 'date': '2017-06-15'}

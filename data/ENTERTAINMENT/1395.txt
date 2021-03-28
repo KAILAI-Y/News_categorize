@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Crock-Pot Created A Twitter Account Just To Comfort 'This Is Us' Fans", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/crock-pot-twitter-account-this-is-us_us_5a6a3e8de4b0ddb658c4b4d3', 'short_description': "They're pretty torn up about this week's episode, too.", 'date': '2018-01-25'}

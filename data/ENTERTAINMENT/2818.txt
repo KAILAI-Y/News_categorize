@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Martha Stewart And Snoop Dogg Recreate That Sexy 'Ghost' Scene", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/martha-stewart-snoop-dogg-ghost_us_59a4ef60e4b0446b3b860fd1', 'short_description': 'So steamy.', 'date': '2017-08-29'}

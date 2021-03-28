@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Archdiocese Of New York Pays $40 Million To Sexual Abuse Victims', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/archdiocese-of-new-york-sexual-abuse-victims_us_5a29a6c3e4b069ec48abd404', 'short_description': 'The compensation payments were made to nearly 200 survivors.', 'date': '2017-12-07'}

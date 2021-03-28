@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "The Warwick Rowers' Steamy 2018 Calendar Has An Incredible Aim", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/warwick-rowers-calendar-2018_us_5a15c9c8e4b09650540f0615', 'short_description': 'The brawny, buff boys are back and ready to bust stereotypes.', 'date': '2017-11-25'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5a5fe2d4e4b046f0811cdc16', 'short_description': '"I took off my bra and a skittle fell out, but I don’t remember the last time I ate skittles?"', 'date': '2018-01-19'}

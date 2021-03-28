@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tina Fey Tries Out For 'Mean Girls' The Musical On 'SNL'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/tina-fey-tries-out-for-mean-girls-the-musical-on-snl_us_5b01ce83e4b07309e059bcf7', 'short_description': "This week's host did not fare well.", 'date': '2018-05-20'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Venezuela Helicopter Attack Exacerbates A Deteriorating Crisis', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/venezuela-helicopter-attack-crisis-deepens_us_5953e3e9e4b0da2c73207f4d', 'short_description': '"We are living in anarchy."', 'date': '2017-06-28'}

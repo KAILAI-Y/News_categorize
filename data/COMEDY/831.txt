@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Attempts To List Everything Trump Has Attacked Harder Than Nazis', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-nazis_us_59925c13e4b09071f69c1ab1', 'short_description': '"Late Show" host slams the president\'s response to Charlottesville.', 'date': '2017-08-15'}

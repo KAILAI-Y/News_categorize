@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sarah Huckabee Sanders Is The New White House Press Secretary', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/sarah-huckabee-sanders-press-secretary_us_597247f3e4b0e79ec19910b0', 'short_description': "She'll replace Sean Spicer, who resigned on Friday.", 'date': '2017-07-21'}

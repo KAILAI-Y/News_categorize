@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Jimmy Kimmel's Health Care Chat With Kids Is Funny And Sad At The Same Time", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmels-health-care-chat-with-kids-is-funny-and-sad-at-the-same-time_us_595122bee4b02734df2c012e', 'short_description': 'Leave it to kids to keep it real.', 'date': '2017-06-26'}

@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Equifax Says Another 2.4 Million Customers Hit By Data Breach In 2017', 'authors': 'Jim Finkle & Aparajita Saxena, Reuters', 'link': 'https://www.huffingtonpost.com/entry/equifax-data-breach_us_5a986140e4b0479c02508804', 'short_description': "The company's shares were down 2 percent on Thursday.", 'date': '2018-03-01'}

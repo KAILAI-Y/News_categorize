@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Inside The Criminal Network Ravaging Cambodia’s Forests ― And The Community Fighting To Save Them', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/cambodia-forest-devastation_us_5a3d86b0e4b06d1621b45772', 'short_description': '"It’s a bit of a David and Goliath story."', 'date': '2018-01-27'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "With Xi Jinping At The Helm, China's Communist Party Unveils New Leadership", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/xi-jinping-china-communist-party_us_59f01122e4b0bf1f8836b6cf', 'short_description': "There is no clear successor among the party's top officials.", 'date': '2017-10-25'}

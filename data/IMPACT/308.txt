@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Why You Should Stop Feeding Your Baby From Trendy Little Food Pouches', 'authors': 'Eleanor Goldberg', 'link': 'https://www.huffingtonpost.com/entry/baby-food-pouches-plastic_us_59120da5e4b050bdca600cb0', 'short_description': "They're an environmental nightmare.", 'date': '2017-05-29'}

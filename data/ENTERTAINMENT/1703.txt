@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "This Season Of 'The Bachelor' Is 13.79 Percent Laurens", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/the-bachelor-women-named-lauren_us_5a4b9709e4b025f99e1daa92', 'short_description': 'Will the real Lauren please stand up?', 'date': '2018-01-02'}

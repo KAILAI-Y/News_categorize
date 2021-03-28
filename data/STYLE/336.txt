@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'This Pizza Bath Bomb Even Smells Like Pizza. Yes, Really.', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/pizza-bath-bomb_us_5948251de4b0cddbb008b2e2', 'short_description': "It's cheesy in the best way possible.", 'date': '2017-06-20'}

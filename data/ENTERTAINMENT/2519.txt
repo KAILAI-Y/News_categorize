@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's Kristen Bell With Some Damn Good Relationship Advice", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/heres-kristen-bell-with-some-damn-good-relationship-advice_us_59d7d2c4e4b072637c43ef2b', 'short_description': 'Take out your notepad.', 'date': '2017-10-06'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'As CO2 Emissions Flatten, More Powerful Greenhouse Gases Flood The Atmosphere', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/carbon-emissions-flat_us_59ee1580e4b0958c4683a105', 'short_description': 'Recent studies paint a grim picture.', 'date': '2017-10-23'}

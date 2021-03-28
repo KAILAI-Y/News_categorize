@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "Justin Trudeau Shows Us What Manspreading Is On Cover Of Delta's Magazine", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/justin-trudeau-delta-magazine_us_5952931de4b0da2c731ee96b', 'short_description': "We're not even mad.", 'date': '2017-06-27'}

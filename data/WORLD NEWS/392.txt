@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Maldives President Declares State Of Emergency, Has Predecessor Arrested', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/maldives-state-of-emergency_us_5a78e45de4b0164659c746b5', 'short_description': 'The opposition called the moves a "purge."', 'date': '2018-02-05'}

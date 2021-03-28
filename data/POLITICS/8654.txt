@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Kris Kobach, 'King Of Voter Suppression,' Seeks Kansas Governorship", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/kris-kobach-kansas-governor_us_59399d2be4b0c5a35c9d6c3b', 'short_description': "He's served as an adviser to Donald Trump on voter fraud and immigration issues.", 'date': '2017-06-08'}

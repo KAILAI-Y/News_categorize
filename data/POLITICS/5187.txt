@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'President Of Just Some', 'authors': 'Susan K Smith, ContributorRev. Dr.', 'link': 'https://www.huffingtonpost.com/entry/president-of-just-some_us_59d8a280e4b0cf2548b33761', 'short_description': 'The image of the president throwing paper towels to people in Puerto Rico this week will not leave my mind. It was sickening', 'date': '2017-10-07'}

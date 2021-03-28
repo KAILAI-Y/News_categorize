@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "So THAT'S Why Your Alarm Snoozes For 9 Minutes", 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/snooze-button-9-minutes_us_5a130a4ae4b0aa32975cacc8', 'short_description': 'Mystery solved.', 'date': '2017-11-20'}

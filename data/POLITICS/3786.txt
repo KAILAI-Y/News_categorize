@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here Are 6 Of The Most Radical Aspects Of The GOP Tax Bill', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/most-radical-provisions-gop-tax-bill_us_5a230f19e4b03c44072df14c', 'short_description': 'Congratulations to private schools!', 'date': '2017-12-02'}

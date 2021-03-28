@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jokes On Twitter About ‘The Mooch’ Getting Fired In 10 Days Are Total 10s', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/anthony-scaramucci-fired-10-days-jokes-twitter_us_597f8441e4b0d6e28a0f9517', 'short_description': '“Gotta add ‘Scaramucci’ to the dictionary as a measure of time.”', 'date': '2017-07-31'}

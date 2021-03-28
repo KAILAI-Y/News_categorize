@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'We Are All These Dumb Dogs Stuck In A Storm Drain', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/dogs-stuck-storm-drain-colorado_us_5a205113e4b037b8ea20bdf7', 'short_description': "Don't act like it's never happened to you!", 'date': '2017-11-30'}

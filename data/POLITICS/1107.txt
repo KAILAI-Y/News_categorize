@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Says His Border Wall Is Going Up Right Now. It's Not.", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-wall-boasts-fake_us_5abd8932e4b0f112dc9b0b28', 'short_description': '"You can see a chicken as a penguin, but it\'s still a chicken," a panelist on CNN quips.', 'date': '2018-03-30'}

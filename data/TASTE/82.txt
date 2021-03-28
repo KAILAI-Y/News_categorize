@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': '10 Kitchen Tools You Need For Thanksgiving', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/kitchen-tools-for-thanksgiving_us_59f0ad79e4b0e064db7e3e15', 'short_description': "From bird to pie, we've got you covered.", 'date': '2017-10-25'}

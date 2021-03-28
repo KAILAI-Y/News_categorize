@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Manafort Accused Of Bank Fraud In New Mueller Court Documents', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/manafort-bail-bank-fraud_us_5a89137ae4b00bc49f44f359', 'short_description': 'He submitted "doctored profit statements" for mortgage to secure bail, say prosecutors.', 'date': '2018-02-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'CIA Director Mike Pompeo: Russia Will Try To Interfere With 2018 Elections', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mike-pompeo-russia-election-interference_us_5a702963e4b00d0de223638a', 'short_description': '“But I am confident that America will be able to have a free and fair election."', 'date': '2018-01-30'}

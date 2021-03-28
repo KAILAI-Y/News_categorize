@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "That 'Last Jedi' Reveal About Rey's Parents Is Actually 'Still Open'", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/that-big-last-jedi-reveal-about-rey-isnt-solved-after-all_us_5a39a21ee4b025f99e130e7f', 'short_description': 'Director Rian Johnson gives us a Rey of hope.', 'date': '2017-12-31'}

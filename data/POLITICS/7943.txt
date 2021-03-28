@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Voters Are Having A Much Better Year Than Everyone Else', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-voters-poll_us_5956b701e4b0da2c73238ad0', 'short_description': 'And more of the latest polling news.', 'date': '2017-06-30'}

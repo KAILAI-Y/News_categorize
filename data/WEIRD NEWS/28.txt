@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "May The Fourth Be With These Wonderful Tweets Celebrating 'Star Wars' Day", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/star-wars-day-may-the-4th-2018_us_5aec3cefe4b0ab5c3d648298', 'short_description': 'Brilliant, they are.', 'date': '2018-05-04'}

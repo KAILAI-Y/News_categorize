@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kylie Jenner Revealed All The Pregnancy Details You've Been Dying To Know", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kylie-jenner-revealed-pregnancy-details_us_5aa66fbce4b07047bec84f74', 'short_description': 'FINALLY.', 'date': '2018-03-12'}

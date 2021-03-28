@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Phil Collins Cancels Comeback Shows After Being Rushed To Hospital', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/phil-collins-cancels-comeback-shows-after-being-rushed-to-hospital_us_59393fa2e4b00610547fe8eb', 'short_description': 'The singer suffered a nasty fall in his hotel room.', 'date': '2017-06-08'}

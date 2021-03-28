@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'NFL Owners Decide To Punt In Meeting On Political Protests', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/nfl-protests-owners-meeting_us_59e64634e4b00905bdad01a9', 'short_description': 'No policy changes were announced after a four-hour discussion with the players union.', 'date': '2017-10-17'}

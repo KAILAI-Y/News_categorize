@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'As The U.S. Debates Gun Control, Australians Turn In Their Firearms', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/australia-gun-amnesty_us_5a97be2ce4b09c872bb14a10', 'short_description': 'Citizens handed in tens of thousands of guns, accessories and rounds of ammunition.', 'date': '2018-03-01'}

@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "'Sesame Street' Turns 'Despacito' Into A Bilingual Ode To Rubber Ducks", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/sesame-street-turns-despacito-into-a-bilingual-ode-to-rubber-ducks_us_599dbf2ee4b0a296083bd31d', 'short_description': 'Ernie really loves his patito! 🎶🐥', 'date': '2017-08-23'}

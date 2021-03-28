@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Channing Tatum's Mother's Day Message To Ex Jenna Dewan Is Full Of Love", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/channing-tatum-mothers-days-message-to-jenna-dewan_us_5af99bd9e4b00d7e4c1cfa23', 'short_description': 'From #CoupleGoals to #ExGoals.', 'date': '2018-05-14'}

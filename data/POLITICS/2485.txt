@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Has A History Of Being Cocky And Unprepared Under Oath', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-under-oath-robert-mueller_us_5a6a5fcce4b01fbbefb04c44', 'short_description': 'That sounds good for special counsel Robert Mueller and bad for the president’s lawyers.', 'date': '2018-01-26'}

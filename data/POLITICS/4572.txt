@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Scott Pruitt’s Professor Regrets ‘Unleashing’ EPA Chief On 'Unsuspecting Public’", 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-law-professor_us_59f9ec92e4b046017fb0693e', 'short_description': 'The teacher blasts his former law school student in an Op-Ed.', 'date': '2017-11-01'}

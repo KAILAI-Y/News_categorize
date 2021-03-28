@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Pink Had A Badass Response To A Troll Who Said She Looked Old', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/pink-had-a-badass-response-to-a-troll-who-said-she-looked-old_us_5afc3d2de4b06a3fb50c8f4b', 'short_description': '“I’ve earned every f**king minute of my 38 years.”', 'date': '2018-05-16'}

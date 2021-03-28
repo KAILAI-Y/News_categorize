@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Sexual Assault Claim Against Mark Cuban Resurfaces After 7 Years', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/mark-cuban-sexual-assault-claim_us_5a9fec76e4b002df2c5f8db1', 'short_description': 'The billionaire Dallas Mavericks owner has denied the allegation.', 'date': '2018-03-07'}

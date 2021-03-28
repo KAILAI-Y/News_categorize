@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Rihanna Had The Best Response To Being Asked If She Was Attending The Royal Wedding', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/rihanna-prince-harry-royal-wedding_us_5af98e2ae4b0e57cd9fbbf6b', 'short_description': 'Her answer is better than just a “yes” or “no.”', 'date': '2018-05-14'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans On House Intelligence Panel Find No Collusion Between Trump Campaign, Russia', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/house-intelligence-trump-russia-investigation_us_5aa6fa6de4b009b705d55f10', 'short_description': 'Democrats on the committee may have different findings.', 'date': '2018-03-12'}

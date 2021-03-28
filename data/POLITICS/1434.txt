@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chelsea Clinton Warns Media Amid Donald Trump Jr. Divorce Reports', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/chelsea-clinton-trump-grandchildren_us_5aab1e5de4b0337adf827b56', 'short_description': 'The former first daughter defends the current first family.', 'date': '2018-03-16'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Weird Father's Day Gifts Your Dad Doesn't Know He Wants (But He Does)", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/weird-fathers-day-gifts-2018_us_5b05bf18e4b05f0fc84438f6', 'short_description': 'Why buy a boring tie when you can give him testicle plush toys?', 'date': '2018-05-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Sneak Anti-Abortion Language Into Tax Bill', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/gop-abortion-tax-bill_us_59fca946e4b0baea2631965f', 'short_description': 'Democrats denounced the move as a back-door attack on Roe v. Wade.', 'date': '2017-11-03'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '‘Brooklyn Nine-Nine’ Finds New TV Home, Stars And Fans Rejoice', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/brooklyn-nine-nine-picked-up-again_us_5af67ea3e4b0e57cd9f9b1fc', 'short_description': 'Fox canceled the hit comedy on Thursday.', 'date': '2018-05-12'}

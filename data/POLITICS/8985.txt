@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Top Congressman Calls For Review Of Jared Kushner’s Security Clearance', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-security-clearance_us_592ae3b2e4b0065b20b71369', 'short_description': '“We need to get to the bottom of these allegations."', 'date': '2017-05-28'}

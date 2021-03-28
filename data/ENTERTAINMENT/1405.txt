@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Gal Gadot Responds Powerfully To 'Wonder Woman' Oscar Snub", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/gal-gadot-wonder-woman-oscar-snub_us_5a69b1b3e4b0dc592a0f7cdd', 'short_description': 'As usual, she kicked butt.', 'date': '2018-01-25'}

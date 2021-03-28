@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Spent His Sunday Night Watching ‘60 Minutes’ And Hate-Tweeting About Oprah', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-oprah-60-minutes_us_5a8a5ca2e4b05c2bcacc5636', 'short_description': 'The president dared Winfrey to run against him in 2020.', 'date': '2018-02-19'}

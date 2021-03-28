@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Cleveland Browns Just Made NFL History For An Unfortunate Reason', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/cleveland-browns-season-losses_us_5a496879e4b0b0e5a7a77879', 'short_description': "Welp, you can't win them all (or any of them, as it turns out).", 'date': '2017-12-31'}

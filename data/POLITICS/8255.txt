@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democratic Chatter Grows About Ousting Nancy Pelosi', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/nancy-pelosi-democrats-georgia_us_594ad93ee4b0312cfb613993', 'short_description': 'Some Democrats are calling for fresh ideas as special election losses pile up.', 'date': '2017-06-21'}

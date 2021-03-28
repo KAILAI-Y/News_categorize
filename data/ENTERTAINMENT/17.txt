@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Samantha Bee's Parents Think America Is Basically A War Zone", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-parents-canadians-america_us_5b083ea4e4b0568a880b29d2', 'short_description': 'Her dad even sent her a Kevlar vest.', 'date': '2018-05-25'}

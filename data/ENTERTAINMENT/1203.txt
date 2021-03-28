@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Richard Pryor’s Widow Says He Did Sleep With Marlon Brando', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/richard-pryor-marlon-brando_us_5a7b7bd9e4b0c6726e0f106b', 'short_description': 'Quincy Jones said the comedy and screen legends got it on.', 'date': '2018-02-08'}

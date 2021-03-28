@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Danish Inventor Sentenced To Life In Prison For Murder Of Journalist Kim Wall', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/peter-madsen-life-prison-kim-wall_us_5ae0625ce4b07560f39761d2', 'short_description': 'Peter Madsen plotted to either suffocate her or slit her throat.', 'date': '2018-04-25'}

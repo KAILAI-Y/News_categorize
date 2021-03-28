@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "What I Learned From Reading All The Media Safaris Into 'Trump Country' I Could Handle Before Wanting To Die", 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/media-trump-country_us_5a449e8ae4b025f99e199ef8', 'short_description': 'Turns out Trump supporters still support Trump.', 'date': '2017-12-29'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sean Spicer Struggles To Provide Any Actual Information At Press Briefing', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-press-briefing_us_592dbf0fe4b0e95ac1945a05', 'short_description': '"I’m not going to get into confirming stuff," he said.', 'date': '2017-05-30'}

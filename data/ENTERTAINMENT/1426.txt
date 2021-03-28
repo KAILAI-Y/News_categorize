@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Elton John Announces Retirement — But Will Perform A Long, Long Goodbye Tour', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/elton-john-retirement_us_5a68ca2ce4b0e5630075bc6e', 'short_description': "It's the circle of life.", 'date': '2018-01-24'}

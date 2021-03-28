@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'This Ex-NFL Player Is On A Mission To Become A Chess Master', 'authors': 'Zach Young', 'link': 'https://www.huffingtonpost.com/entry/this-ex-nfl-player-is-on-a-mission-to-become-a-chessmaster_us_5a7a0cd1e4b0d0ef3c0a26d9', 'short_description': 'Having mastered football and math, John Urschel has his sights on chess.', 'date': '2018-02-09'}

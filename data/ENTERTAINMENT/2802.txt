@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '10 Reality Shows That Embraced The Adventure Of The Open Road', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/10-reality-shows-that-embraced-the-open-road_us_599dd5bbe4b0d97c40011368', 'short_description': 'Never leave home again.', 'date': '2017-08-31'}

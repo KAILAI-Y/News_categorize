@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Mom Uses Flowers And Produce To Make Her Kid ‘Dresses’ And They’re Bananas', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/mom-dresses-daughter-flowers-fruit-vegetables-instagram_us_595fe246e4b0d5b458ea6195', 'short_description': 'The two have built up quite the following on Instagram.', 'date': '2017-07-07'}

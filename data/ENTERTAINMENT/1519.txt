@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Someone Edited 'The Last Jedi' To Make A 'Chauvinist Cut' Without Women", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/edited-the-last-jedi-chauvinist-women_us_5a5e1d6ee4b04f3c55a63b27', 'short_description': '"Basically The Last Jedi minus Girlz Powah."', 'date': '2018-01-16'}

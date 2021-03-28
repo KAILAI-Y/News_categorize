@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Dwayne Johnson Gets His Adorable Daughter To Say 'Girl Power'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/dwayne-johnson-jasmine-womens-day_us_5aa26b11e4b086698a9cc010', 'short_description': "The message packed a charming wallop for International Women's Day.", 'date': '2018-03-09'}

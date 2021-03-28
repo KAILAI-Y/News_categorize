@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Michael Kelly Of 'House Of Cards' Begs 'SNL' To Cast Him As Stephen Miller", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/michael-kelly-stephen-miller-snl_us_5987166ee4b08b75dcc780bd', 'short_description': '"Oh please oh please," Kelly wrote to "Saturday Night Live" on Twitter.', 'date': '2017-08-06'}

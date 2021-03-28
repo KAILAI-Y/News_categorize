@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's New Communications Director Once Called Him A 'Hack Politician' And Bully", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/scaramucci-trump-hack_us_59725246e4b00e4363df5ac1', 'short_description': "Anthony Scaramucci also rebuked the president's treatment of women, including Megyn Kelly.", 'date': '2017-07-21'}

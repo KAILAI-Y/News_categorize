@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Uses 3 Little Words To Sum Up  Donald Trump', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-obstruction-justice_us_5a7049a9e4b0a52682ff2d5b', 'short_description': 'Obstruction of justice? Nope, not those words.', 'date': '2018-01-30'}

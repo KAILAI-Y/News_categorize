@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Barney Frank: Don't Blame Bill Clinton For 'Don't Ask, Don't Tell'", 'authors': 'Sam Stein', 'link': 'https://www.huffingtonpost.com/entry/barney-frank-bill-clinton-dont-ask-dont-tell_us_59555eb3e4b02734df3108f8', 'short_description': 'The former congressman says the former president has been unfairly maligned.', 'date': '2017-08-09'}

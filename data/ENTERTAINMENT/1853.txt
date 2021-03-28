@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Smithereens Lead Singer Pat DiNizio Dead At 62', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/pat-dinizio-dead-62_us_5a316287e4b01bdd76595774', 'short_description': 'The cause of death was not announced.', 'date': '2017-12-13'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Dictator-Themed Restaurant In Tunisia Features Portrait Of Melania Trump', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/melania-trump-dictator-restaurant_us_598aff1ee4b0a66b8bb0097f', 'short_description': "She's depicted alongside Stalin.", 'date': '2017-08-09'}

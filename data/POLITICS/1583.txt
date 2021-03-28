@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Michael Cohen May Have Used Trump Org Email For Stormy Daniels Arrangement: Report', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/michael-cohen-email-stormy-daniels_us_5aa2c1c3e4b01b9b0a3b0d0e', 'short_description': "It's unclear which bank account Cohen used to wire the money.", 'date': '2018-03-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The White House Keeps Lying About Donald Trump's Taxes", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-tax-returns-audit-excuse_us_5a396f33e4b0b0e5a79de196', 'short_description': "For the last time, the president can release his tax returns even if he's under audit.", 'date': '2017-12-19'}

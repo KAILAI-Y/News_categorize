@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Andrew Garfield Lip-Syncs Whitney Houston In Epic Drag Show Act', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/andrew-garfield-lip-syncs-whitney-houston-in-epic-drag-show-act_us_592ff5d1e4b0540ffc84b79b', 'short_description': 'With a back flip and everything.', 'date': '2017-06-01'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Suspect Throws Explosive At U.S. Embassy In Montenegro', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/montenegro-explosives-suicide-attack_us_5a8e7fa4e4b0161d4318a840', 'short_description': 'The attacker then committed suicide.', 'date': '2018-02-22'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Colbert Wants To Turn NYC Subway Rides Into A New And Terrible Punishment', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-michael-cohen-taxi-king_us_5b07654de4b0fdb2aa51da46', 'short_description': 'The "Late Show" host takes on Michael Cohen and his "taxi king" business partner.', 'date': '2018-05-25'}

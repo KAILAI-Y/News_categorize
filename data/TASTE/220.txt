@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Patrick Stewart Says What We've All Been Thinking About Avocados", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/patrick-stewart-avocado-sandiwches_us_59788f28e4b0e201d579e280', 'short_description': "Admit it. He's right.", 'date': '2017-07-26'}

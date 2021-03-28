@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Stormy Daniels' Attorney: Something Among Our Accusations About Trump Has Occurred During His Presidency", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/stromy-daniels-incidents-during-trump-presidency_us_5aaca879e4b0337adf83eb6a', 'short_description': "But he won't say what.", 'date': '2018-03-17'}

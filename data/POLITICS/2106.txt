@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The White House Continues To Muddle Its Message On Rob Porter', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/white-house-muddled-rob-porter-message_us_5a82031fe4b00ecc923d2a78', 'short_description': "Trump's surrogates say he supports abuse victims, but his tweets suggest otherwise.", 'date': '2018-02-13'}

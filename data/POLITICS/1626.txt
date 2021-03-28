@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Stormy Who? Democratic Leaders Won't Talk About Trump's Porn Star Payoff", 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/democrats-stormy-daniels-trump-silence_us_5aa1732de4b0d4f5b66eb04d', 'short_description': 'Why are Democrats scared to talk about this?', 'date': '2018-03-08'}

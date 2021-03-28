@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's Aides Can't Agree On Whether His Tweets Are Official Statements", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/trump-tweets-sean-spicer_us_5936fb3ae4b0aba888b94ce8', 'short_description': 'Yesterday, they were downplaying his Twitter feed as a media "obsession."', 'date': '2017-06-06'}

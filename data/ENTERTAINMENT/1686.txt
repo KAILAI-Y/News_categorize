@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "David Duchovny Says He Nearly Joined 'Full House'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/david-duchovny-full-house-jimmy-kimmel_us_5a4ce714e4b0b0e5a7aa194f', 'short_description': '"The X-Files" actor told Jimmy Kimmel he auditioned extensively for a role on the sitcom.', 'date': '2018-01-03'}

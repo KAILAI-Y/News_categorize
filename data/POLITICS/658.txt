@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mitt Romney Fails To Secure Utah Senate GOP Nomination, Will Face Primary', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/mitt-romney-primary_us_5adc8cabe4b089e33c88e78e', 'short_description': "Romney fell short of getting the nod at the state's Republican Convention.", 'date': '2018-04-22'}

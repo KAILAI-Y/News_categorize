@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Indy 500 Winner Speaks Out On Newspaper Columnist's Racist Tweet", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/takuma-soto-speaks-racist-tweet_us_592efa31e4b0e09b11ece57d', 'short_description': "Takuma Sato says he respects the Denver Post's decision.", 'date': '2017-05-31'}

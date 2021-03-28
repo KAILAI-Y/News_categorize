@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'What Is Eggnog Made Out Of, Anyway?', 'authors': 'Kristen Aiken', 'link': 'https://www.huffingtonpost.com/entry/what-is-eggnog-made-out-of_us_5a2aaf0ae4b069ec48acbf03', 'short_description': 'Mmmmm, raw eggs.', 'date': '2017-12-11'}

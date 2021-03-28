@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Meet The 18-Year-Old Artist Now Showing In The Museum Of Sex', 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/taira-rice-drawing-art_us_597b351ce4b02a8434b5d5f3', 'short_description': 'Harlem-based Taira Rice creates watercolor portraits of naked women of color.', 'date': '2017-07-31'}

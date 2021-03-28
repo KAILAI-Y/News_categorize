@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'CNN Legal Analyst Jeffrey Toobin Has An Ominous New Warning For Trump', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jeffrey-toobin-donald-trump-robert-mueller_us_5ac431aae4b0ac473edb285b', 'short_description': 'Jeffrey Toobin said new revelations spell bad news for the president.', 'date': '2018-04-04'}

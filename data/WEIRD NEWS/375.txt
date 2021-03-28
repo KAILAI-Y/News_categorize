@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "OkCupid Bans White Supremacist, Says 'No Room For Hate' On Site", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/okcupid-bans-white-supremacist-says-no-room-for-hate-on-site_us_5995e470e4b01f6e801cf04e', 'short_description': "Love is hard to find when you're hateful.", 'date': '2017-08-17'}

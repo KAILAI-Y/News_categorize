@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "#EmbraceTheLatinx Is An All-Inclusive Tribute To Latinos' Many Identities", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/embracethelatinx-is-an-all-inclusive-tribute-to-latinos-many-identities_us_59514b21e4b0da2c731d7d79', 'short_description': 'Because nobody puts baby in a box.', 'date': '2017-06-26'}

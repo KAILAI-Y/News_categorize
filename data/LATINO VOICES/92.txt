@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Gina Rodriguez Goes Full 'Fifty Shades Of Jane' On Instagram", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/gina-rodriguez-goes-full-fifty-shades-of-jane-on-instagram_us_5a397a00e4b025f99e12e4db', 'short_description': 'Things are about to get interesting on "Jane The Virgin."', 'date': '2017-12-19'}

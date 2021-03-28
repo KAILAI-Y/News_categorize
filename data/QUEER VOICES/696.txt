@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Bisexual Women Say #MeToo', 'authors': 'Heron Greenesmith, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/bisexual-women-say-metoo_us_59e5d7d9e4b0a741e4b353ee', 'short_description': 'Bisexual women report higher percentages of sexual assault than lesbian and heterosexual women.', 'date': '2017-10-17'}

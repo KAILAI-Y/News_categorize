@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Netflix Just Hired Producer Ryan Murphy In A Huge 5-Year Deal', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/netflix-ryan-murphy_us_5a83afefe4b0adbaf3d89fba', 'short_description': "The deal's reportedly worth up to $300 million.", 'date': '2018-02-14'}

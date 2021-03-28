@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher Slams Fox News' 'Scary' Influence On Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-fox-news-influence-trump_us_5ab5f98ee4b008c9e5f74afe', 'short_description': '"America’s being run by Steve Doocy."', 'date': '2018-03-24'}

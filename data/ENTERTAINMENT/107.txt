@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Bachelorette' Bios Are Here, And They Are Terrible", 'authors': 'Emma Gray, Claire Fallon, and Nick Offenberg', 'link': 'https://www.huffingtonpost.com/entry/bachelorette-bios-becca-season-14_us_5aff2ab7e4b0a046186b77a4', 'short_description': 'Why do you insist on ruining our snarky fun, ABC?', 'date': '2018-05-18'}

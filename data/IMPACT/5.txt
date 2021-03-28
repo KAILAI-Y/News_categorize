@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'This CEO Took A Pay Cut To Give Employees $70,000 A Year. Now He’s Battling Amazon.', 'authors': 'Gaby Hinsliff', 'link': 'https://www.huffingtonpost.com/entry/dan-price-minimum-wage_us_5afd3d8ee4b06a3fb50dcf28', 'short_description': 'Tech entrepreneur Dan Price is working to curb the dangers of "unbridled capitalism."', 'date': '2018-05-19'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "You Must Listen To These Little Boys Perform Beyoncé's 'Listen'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tnt-boys-beyonce-listen-little-big-shots_us_5ade0a10e4b0df502a4e45f2', 'short_description': 'We think Queen Bey would approve.', 'date': '2018-04-23'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Oscars 2018: The Complete Winners List', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/oscars-2018-the-winners-list_us_5a99b658e4b0a0ba4ad3440d', 'short_description': "Hollywood's biggest night is here.", 'date': '2018-03-05'}

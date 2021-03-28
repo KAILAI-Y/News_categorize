@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'If Only All Tampon Ads Were This Honest', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/if-tampon-ads-were-honest_us_5a281ad3e4b0c2117627b1e2', 'short_description': 'Now you can reach for a pack of "vaginal blood absorbency sticks."', 'date': '2017-12-06'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Parents Give Baby Born On Day Of Eclipse A Beautifully Fitting Name', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/baby-named-eclipse-after-solar-eclipse_us_599bdbf1e4b0771ecb06c8a9', 'short_description': '"I think it was just meant to be, her name."', 'date': '2017-08-22'}

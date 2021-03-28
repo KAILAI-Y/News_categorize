@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donna Brazile Wants To Move On From 2016 Drama And Talk About Hacking', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/donna-brazile-hacks_us_5a0200fde4b06ff32c93e3a7', 'short_description': "The former DNC chief's book, however, is getting attention for very different reasons.", 'date': '2017-11-07'}

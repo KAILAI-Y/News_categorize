@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Teen's Grandparents Wave To Her Every Single Day On Her Commute To Work", 'authors': 'Brittany Wong', 'link': 'https://www.huffingtonpost.com/entry/teens-grandparents-wave-to-her-every-single-day-on-her-commute-to-work_us_59efc4a4e4b04917c5940f08', 'short_description': 'Grandparents of the year. 👏', 'date': '2017-10-25'}

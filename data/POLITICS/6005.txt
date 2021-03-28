@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: What You Need To Know About Hurricane Irma", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-what-you-need-to-know-about-hurricane-irma_us_59afe065e4b0354e440e1385', 'short_description': 'The Category 5 storm has already made landfall.', 'date': '2017-09-06'}

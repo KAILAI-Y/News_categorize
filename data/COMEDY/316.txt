@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Leslie Jones' Winter Olympics Twitter Game Keeps Killing It", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/leslie-jones-winter-olympics-twitter_us_5a80092fe4b08dfc9304eb8b', 'short_description': '"Is it like marbles?"', 'date': '2018-02-11'}

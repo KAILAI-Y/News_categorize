@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "John Conyers Won't Run For Re-Election In 2018 After Sexual Misconduct Allegations", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/john-conyers-retiring_us_5a264a25e4b0f9f0203ed0ea', 'short_description': 'Conyers is currentthe longest serving member of the House.', 'date': '2017-12-05'}

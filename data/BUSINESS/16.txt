@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Apple Co-Founder Steve Wozniak Ditches Facebook After Data Scandal', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/steve-wozniak-quits-facebook_us_5acaf56ee4b09d0a119529bf', 'short_description': '"It\'s brought me more negatives than positives."', 'date': '2018-04-09'}

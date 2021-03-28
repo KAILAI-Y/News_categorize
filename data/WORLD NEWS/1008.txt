@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'This Syrian Toddler Was Named After His Uncle. The War Killed Them Both.', 'authors': 'Rowaida Abdelaziz', 'link': 'https://www.huffingtonpost.com/entry/syria-idlib-bombing-child-killed_us_59dbcd26e4b0b34afa5b68b7', 'short_description': '“His siblings are in disbelief over the loss of their baby brother."', 'date': '2017-10-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Pardons Turkey In Thanksgiving Ceremony You Didn't Think Could Get Any Weirder", 'authors': 'Jeff Mason, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-pardons-turkey-drumstick_us_5a148420e4b03dec8248b77a', 'short_description': '"Drumstick has a very, very bright future ahead of him."', 'date': '2017-11-21'}

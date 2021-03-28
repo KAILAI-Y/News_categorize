@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'eBay Pulls Offensive Coffee Mug Showing Skeletal Madeleine McCann', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/ebay-coffee-mug-madeleine-mccann_us_5a05b647e4b05673aa58e798', 'short_description': '"The seller needs to develop a conscience," said a victim advocate.', 'date': '2017-11-10'}

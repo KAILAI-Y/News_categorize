@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'On Fleek' Viral Star Peaches Monroee Just Launched Her Own Hair Line", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/peaches-monroee-on-fleek-hair-line_us_59aeafc7e4b0dfaafcf2a3d5', 'short_description': 'The teen is here to collect her coin.', 'date': '2017-09-05'}

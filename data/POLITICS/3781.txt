@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sen. Chuck Schumer Shames GOP Tax Bill: It's A 'Stunning Deception'", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/chuck-schumer-tax-bill_us_5a2224fde4b0a02abe91524b', 'short_description': '“If it creates jobs or loses them ― who knows? Certainly no one here."', 'date': '2017-12-02'}

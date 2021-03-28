@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Alec Baldwin Has New ABC Talk Show And It Debuts After The Oscars', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwin-abc-talk-show-debut-after-oscars_us_5a969885e4b09c872bafbbd9', 'short_description': 'The Trump-impersonating actor admits he\'s entering a "crowded field."', 'date': '2018-02-28'}

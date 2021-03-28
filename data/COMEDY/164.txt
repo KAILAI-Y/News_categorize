@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Oliver: Even Mickey Mouse Would Tell Scott Pruitt To 'Go F**k Himself'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-scott-pruitt-mickey-mouse_us_5acb1353e4b07a3485e62ae5', 'short_description': '"Space Mountain’s going to be underwater in 10 years, you son of a bitch!"', 'date': '2018-04-09'}

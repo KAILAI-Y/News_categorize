@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Samantha Bee Imagines The Memo Sequels That Devin Nunes Is Working On', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-devin-nunes-memo_us_5a7bff9de4b0c6726e0f57d5', 'short_description': 'Get ready for "Nunes Memo: The Squeakquel."', 'date': '2018-02-08'}

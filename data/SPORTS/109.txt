@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "U.S. Women's Olympic Hockey Wins Gold In Nail-Biter Finish Over Canada", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/us-womens-hockey-beats-canada_us_5a8e6442e4b0617d4639f85a', 'short_description': 'Wow, that was stressful.', 'date': '2018-02-22'}

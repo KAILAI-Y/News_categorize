@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'An America That Stands For Human Rights', 'authors': 'Margaret Huang, ContributorExecutive Director, Amnesty International USA', 'link': 'https://www.huffingtonpost.com/entry/an-america-that-stands-for-human-rights_us_5a2c1fb9e4b069ec48add3ac', 'short_description': 'This is the America that we believe in.', 'date': '2017-12-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Steve Bannon Out At Breitbart', 'authors': "Sebastian Murdock and Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-out-at-breitbart_us_5a4eb231e4b003133ec6a275', 'short_description': "Bannon's exit comes after his quotes in a new tell-all sparked a feud with President Donald Trump.", 'date': '2018-01-09'}

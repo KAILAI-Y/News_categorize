@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'On ‘The Bachelor,’ Ambition Is Still An ‘Obstacle’ To Love', 'authors': 'Emma Gray, Claire Fallon, and Nick Offenberg', 'link': 'https://www.huffingtonpost.com/entry/the-bachelor-ambition-obstacle-to-love_us_5a7a2328e4b0d0ef3c0a44bd', 'short_description': 'But not a "hindrance," apparently.', 'date': '2018-02-07'}

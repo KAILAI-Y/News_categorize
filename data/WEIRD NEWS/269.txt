@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Man Plans To Launch Himself In Homemade Rocket Funded By Flat-Earthers', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/mike-hughes-rocket-launch-flat-earth_us_5a18495fe4b0649480741ff4', 'short_description': '“I don’t believe in science,” said limo driver "Mad" Mike Hughes.', 'date': '2017-11-24'}

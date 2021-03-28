@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Oklahoma Approves Tax Hike To Avert Teachers' Strike", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/oklahoma-teachers-strike_us_5abceb0ae4b06409775dea9c', 'short_description': 'Oklahoma’s teachers rank among the worst paid in the United States.', 'date': '2018-03-29'}

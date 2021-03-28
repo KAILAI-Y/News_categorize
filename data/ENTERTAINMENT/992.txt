@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Hamilton Polka' Is A Gift From Weird Al To The Whole World", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/hamilton-polka-is-a-gift-from-weird-al-to-the-musical-world_us_5a99ac3ae4b089ec353a1d44', 'short_description': 'This collaboration just feels right.', 'date': '2018-03-02'}

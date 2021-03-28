@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Yes, Trump Has The Power To Launch A Nuclear Attack On His Own', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-nuclear-attack_us_598dfdcae4b09071f699a005', 'short_description': '“There’s no veto once the president has ordered a strike."', 'date': '2017-08-11'}

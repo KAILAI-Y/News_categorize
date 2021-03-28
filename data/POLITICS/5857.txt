@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Citizens Ask: How Many Guns Do We Need?', 'authors': "Robert J. Benz, ContributorA People's Proponent", 'link': 'https://www.huffingtonpost.com/entry/citizens-ask-how-many-guns-do-we-need_us_59664019e4b09be68c0056ce', 'short_description': '"Preventing gun violence is an overwhelming, but attainable goal."', 'date': '2017-09-13'}

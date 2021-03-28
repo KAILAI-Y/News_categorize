@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Senior Palestinian Official: Vice President Mike Pence 'Unwelcome In Palestine'", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/pence-palestine_us_5a29a953e4b0a290f04f35d5', 'short_description': "The comment came one day after the Trump official moved to recognize Jerusalem as Israel's capital.", 'date': '2017-12-07'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Black Filmmakers Make History At The Box Office This Weekend', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/black-filmmakers-make-history-at-the-box-office-this-weekend_us_5aa5725ce4b086698a9eeb7c', 'short_description': 'For DuVernay and Coogler, this is surely just the beginning.', 'date': '2018-03-11'}

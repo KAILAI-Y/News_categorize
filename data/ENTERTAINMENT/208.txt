@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Fans Erupt Over Fate Of Elias Koteas' Olinsky On 'Chicago P.D.'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/elias-koteas-olinsky-chicago-pd_us_5af439f1e4b0859d11d0e255', 'short_description': 'The season finale was a shocker.', 'date': '2018-05-10'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's How Hillary Clinton Tried To Skip Donald Trump's Inauguration", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-donald-trump-inauguration_us_59eaea49e4b0a484d063725b', 'short_description': 'Totally relatable.', 'date': '2017-10-21'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': '4 Of The Absolute Worst Holiday Stressors And How To Deal With Them', 'authors': 'Fiona Tapp', 'link': 'https://www.huffingtonpost.com/entry/anxiety-at-holidays-how-to-deal_us_5a3bd6d9e4b0b0e5a7a052a8', 'short_description': 'From traveling to high expectations.', 'date': '2017-12-21'}

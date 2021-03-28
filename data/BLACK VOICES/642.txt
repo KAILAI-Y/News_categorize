@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'You Better Believe It': Issa Rae Is Now The New Face Of CoverGirl", 'authors': 'Lilly Workneh', 'link': 'https://www.huffingtonpost.com/entry/you-better-believe-it-issa-rae-is-now-the-new-face-of-covergirl_us_59b7fa0be4b09be416586a13', 'short_description': 'So exciting!', 'date': '2017-09-12'}

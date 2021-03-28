@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Yes, These Cows Actually Milk Themselves', 'authors': 'Catherine Delorme', 'link': 'https://www.huffingtonpost.com/entry/milking-robots-farm_us_5ae8341be4b055fd7fcf51b6', 'short_description': "And it's getting millennials interested in farming.", 'date': '2018-05-03'}

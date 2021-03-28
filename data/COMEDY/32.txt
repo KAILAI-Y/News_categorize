@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'SNL' Cast Member Claims Trump Faked A Bizarre Phone Call During Rehearsals", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/pete-davidson-trump-phone-call_us_5afd1dbae4b06a3fb50d9095', 'short_description': "Pete Davidson said the future president answered a phone that didn't ring.", 'date': '2018-05-17'}

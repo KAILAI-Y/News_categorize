@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Starbucks' Pumpkin Spice Lattes Are Coming To Grocery Stores", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/pumpkin-spice-lattes-are-back-this-month-but-theres-a-catch_us_598c86dde4b0d793738d39c2', 'short_description': 'Are you ready?', 'date': '2017-08-10'}

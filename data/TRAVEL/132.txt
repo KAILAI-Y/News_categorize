@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Woman Turns Her Missed Flight Into An Airport Staff Dance Party', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/airport-music-video_us_59ca9362e4b07e9ca11f3291', 'short_description': 'She recruited gate agents to dance to "All Night Long." 🕺 🕺 🕺', 'date': '2017-09-26'}

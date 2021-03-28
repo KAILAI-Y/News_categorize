@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Philippines' Duterte Calls North Korea's Kim A 'Fool' Over Nuclear Ambitions", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/duterte-north-korea-kim-fool_us_5981f30ee4b0353fbb34317e', 'short_description': '“That chubby face that looks kind," he said. "That son of a bitch."', 'date': '2017-08-02'}

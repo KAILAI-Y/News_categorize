@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Yes, ‘Will & Grace’ Went After Trump In Its First Episode In 11 Years', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/will-and-grace-first-episode-trump-twitter_us_59cd9c49e4b05f005d334513', 'short_description': '"OMG THE CHEETO BAG I AM CRYING."', 'date': '2017-09-29'}

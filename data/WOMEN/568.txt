@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'How To Help Charlottesville Right Now', 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/charlottesville-how-to-help-donate_us_5991bb97e4b09071f69b5007', 'short_description': "Even if you don't live nearby, there are things you can do today.", 'date': '2017-08-14'}

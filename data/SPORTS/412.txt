@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'NFL Pledges Donations To Military Nonprofits In Hashtag Campaign', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/nfl-military-nonprofit-campaign_us_59ff62c4e4b0c965300035ff', 'short_description': 'League leadership has spoken out against ongoing kneeling protests during the national anthem.', 'date': '2017-11-05'}

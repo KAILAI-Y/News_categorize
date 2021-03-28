@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Here's Evidence Floyd Mayweather And Conor McGregor Actually Love Each Other", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/heres-evidence-floyd-mayweather-and-conor-mcgregor-actually-love-each-other_us_59a06101e4b05710aa5bfb82', 'short_description': 'We knew it!', 'date': '2017-08-25'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Jake Tapper's Grim Reminder: Steve Bannon Isn't The Problem. Trump Is.", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/jake-tapper-steve-bannon-trump_us_599750c8e4b0a2608a6c7a7d', 'short_description': 'The president was racist long before Bannon joined up with him, the CNN host said.', 'date': '2017-08-18'}

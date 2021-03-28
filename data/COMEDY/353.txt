@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Imagines Trump As Russian Operative Named 'Big Fat Spy'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-trump-russia-big-fat-spy_us_5a71e95ae4b0be822ba28d54', 'short_description': '"Are you trying to look guilty?"', 'date': '2018-01-31'}

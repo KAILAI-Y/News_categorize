@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Arkansas Woman Used Government Funds To Buy Her Dog A Tuxedo', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/kristi-goss-dog-tuxedo_us_59bb0419e4b02da0e14086b7', 'short_description': 'The tuxedo-clad pug may be the cutest accessory to a crime ever.', 'date': '2017-09-15'}

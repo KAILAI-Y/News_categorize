@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'At 27, Hanif Johnson Is The Youngest District Judge In Pennsylvania', 'authors': 'Philip Lewis', 'link': 'https://www.huffingtonpost.com/entry/hanif-johnson-youngest-district-judge_us_5a6a6748e4b06e2532661af6', 'short_description': 'The Harrisburg native is looking to make a difference in his community.', 'date': '2018-01-26'}

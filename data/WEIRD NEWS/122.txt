@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Women Are Tying The Knot With Trees For A Very Good Reason', 'authors': 'David Moye and Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/tree-wedding-oaxaca_us_5a96ea14e4b07dffeb6f2904', 'short_description': 'Maybe someone should create a tree dating app called Timber.', 'date': '2018-02-28'}

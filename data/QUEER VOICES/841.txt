@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Obama Remembers LGBTQ Rights Icon Edie Windsor With Heartfelt Tribute', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/obama-clinton-edie-windsor_us_59b93f80e4b086432b035f9e', 'short_description': "Hillary Clinton also offered her condolences on Windsor's passing.", 'date': '2017-09-13'}

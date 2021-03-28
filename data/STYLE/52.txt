@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Demi Lovato Proves Denim Chaps Can Be Red Carpet Worthy', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/demi-lovato-denim-chaps_us_5a392252e4b0860bf4ab1ef3', 'short_description': "She's out here lookin' like revenge.", 'date': '2017-12-19'}

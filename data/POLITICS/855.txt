@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan's Exit Is A Reminder That Democrats Always Need Good Candidates", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/democrats-randy-bryce-tough-districts_us_5ace8278e4b0701783ab0fd4', 'short_description': 'And this time, they already have one.', 'date': '2018-04-12'}

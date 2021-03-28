@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Trevor Noah Has A Sad Theory For Why Anthony Scaramucci Got His Job', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/anthony-scaramucci-trevor-noah_us_59775d48e4b0c95f375ecf0b', 'short_description': 'Noah thinks Donald Trump wishes he was Scaramucci.', 'date': '2017-07-25'}

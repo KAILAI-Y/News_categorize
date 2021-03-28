@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Conan O’Brien ‘Reveals’ Donald Trump’s 2020 Campaign Slogan', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/conan-obrien-donald-trump-2020-campaign-slogan_us_59c3b291e4b06f93538cd9a8', 'short_description': "It doesn't promise to make anything great again.", 'date': '2017-09-21'}

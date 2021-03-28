@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Uber Is Still Losing Carloads Of Money', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/uber-loss-2017_us_5a8457a1e4b0774f31d13f6a', 'short_description': 'But the ride-hailing pioneer seems to be slowing the bleeding.', 'date': '2018-02-14'}

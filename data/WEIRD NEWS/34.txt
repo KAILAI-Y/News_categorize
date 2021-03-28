@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Sweden Just Made A Startling Confession About Its Famous Meatballs', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/swedish-meatballs-are-from-turkey_us_5ae9370ae4b022f71a02fc5d', 'short_description': 'A 300-year-old secret is revealed.', 'date': '2018-05-02'}

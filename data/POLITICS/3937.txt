@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Teachers Could Lose Tax Deduction For Pencils And Erasers', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/tax-plan-educator-expenses_us_5a1c80a8e4b0e2ddcbb20cb6', 'short_description': 'Republicans in the House would scrap the writeoff, but their Senate counterparts would double it.', 'date': '2017-11-27'}

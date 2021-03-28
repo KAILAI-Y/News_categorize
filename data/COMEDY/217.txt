@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Nails CNN Over Steamy Stormy Coverage: It’s Now 'Anderson Cooper 36DD'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-cnn-stormy-daniels_us_5ab31167e4b008c9e5f3fbc2', 'short_description': 'The "Late Show" host also has a porn name for Wolf Blitzer.', 'date': '2018-03-22'}

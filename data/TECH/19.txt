@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Facebook Bug Asks Users If Puppies And Bahamas Vacations Are Hate Speech', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/facebook-hate-speech-bug_us_5ae88cc8e4b02baed1be6739', 'short_description': 'A glitch on Tuesday morning led Facebook to question everything posted on the site.', 'date': '2018-05-01'}

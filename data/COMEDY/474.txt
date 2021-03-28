@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Trolls Omarosa For Getting Fired', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-omarosa-fired_us_5a335b1be4b01d429cc76961', 'short_description': '"You know it\'s bad if they have to fire you in the same place where they killed Osama bin Laden."', 'date': '2017-12-15'}

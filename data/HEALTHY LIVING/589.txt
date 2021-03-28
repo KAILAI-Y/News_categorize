@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Hopes For HIV Cure Revived By African Child In Remission', 'authors': 'Kate Kelland, Reuters', 'link': 'https://www.huffingtonpost.com/entry/hopes-for-hiv-cure-revived-by-african-child-in-remission_us_59762ceee4b0a8a40e810e8b', 'short_description': 'The child is off treatment and has no signs of the disease.', 'date': '2017-07-24'}

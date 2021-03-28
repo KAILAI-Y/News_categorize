@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Henry Cavill Shaved Off His Mustache And Made This Epic Video In Tribute', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/henry-cavill-moustache-shaved-tribute_us_5ab24ab7e4b0decad045b586', 'short_description': '"It’s hard for me to admit, this is not CGI. He’s really gone."', 'date': '2018-03-21'}

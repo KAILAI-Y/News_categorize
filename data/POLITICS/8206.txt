@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump To Nominate NFL Team Owner As Ambassador To Britain', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/woody-johnson-ambassador-britain_us_594c579de4b0da2c731a9506', 'short_description': 'New York Jets Owner Woody Johnson will require Senate confirmation to take up the post.', 'date': '2017-06-22'}

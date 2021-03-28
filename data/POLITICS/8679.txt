@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Phil Murphy And Kim Guadagno To Face Off In New Jersey Gubernatorial Election', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/new-jersey-governor-primary_us_5936ab37e4b0099e7faf1d5d', 'short_description': 'The race to replace Gov. Chris Christie had gotten off to a slow start.', 'date': '2017-06-07'}

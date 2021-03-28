@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Boy Applies For NASA's Planetary Protector Job In The Most Adorable Way", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/nasa-alien-protector-job-kid-letter_us_59843460e4b08b75dcc638bd', 'short_description': '"I am young, so I can learn to think like an Alien."', 'date': '2017-08-04'}

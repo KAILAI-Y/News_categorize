@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democratic Governor Confronts Trump: 'Less Tweeting ... More Listening'", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/jay-inslee-trump-tweeting-guns_us_5a945b36e4b02cb368c4842a', 'short_description': 'Jay Inslee told the president to reconsider his idea of arming school teachers.', 'date': '2018-02-26'}

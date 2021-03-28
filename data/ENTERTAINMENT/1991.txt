@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ed Sheeran's Cheeky Bid For New Zealand Citizenship Gets Surprising Response", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ed-sheeran-new-zealand-citizenship_us_5a1fd40de4b0392a4ebb3dfb', 'short_description': '"Do you like pineapple lumps?"', 'date': '2017-11-30'}

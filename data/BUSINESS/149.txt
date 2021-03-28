@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Because Sexual Abuse Is The Old Normal', 'authors': 'Madeleine Burnside, ContributorEditor, The Sanity Papers', 'link': 'https://www.huffingtonpost.com/entry/because-sex-abuse-is-the-old-normal_us_59f4dcdbe4b06acda25f4a70', 'short_description': 'Don’t let Bill O’Reilly dominate any part of our culture again.', 'date': '2017-10-28'}

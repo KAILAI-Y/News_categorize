@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Israel Moves To Shut Down Local Operations Of Al Jazeera', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/al-jazeera-israel_us_59872418e4b041356ec0601b', 'short_description': 'Israel\'s communications minister accused the station of "supporting terrorism."', 'date': '2017-08-06'}

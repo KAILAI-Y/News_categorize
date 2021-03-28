@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Borrows Trump's Obamacare Strategy: 'Impeach Now, Replace Later'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/impeach-now-replace-later_us_595704b2e4b05c37bb7e8b2a', 'short_description': "Trump's idea comes flying back like a boomerang.", 'date': '2017-07-01'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Twitter Responds Perfectly After Marvel Editor-In-Chief Exposed For Posing As Asian', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/twitter-marvel-editor-asian_us_5a1ee56fe4b017a311ebc108', 'short_description': 'The internet decided to lift up #ActualAsianComicWriters. 💪', 'date': '2017-11-29'}

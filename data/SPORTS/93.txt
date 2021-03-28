@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Ester Ledecka Makes Olympic History With Snowboard Gold', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/ester-ledecka-olympic-history_us_5a9119fee4b01e9e56bc062b', 'short_description': 'She won gold in both the skiing and snowboarding events in Pyeongchang.', 'date': '2018-02-24'}

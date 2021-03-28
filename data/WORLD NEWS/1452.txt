@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'France Opens Terror Probe After Man With Knife Tries To Enter Eiffel Tower', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/eiffel-tower-knife-terror_us_59872340e4b08b75dcc78863', 'short_description': 'The man was quickly stopped after trying to force his way into the tower on Saturday.', 'date': '2017-08-06'}

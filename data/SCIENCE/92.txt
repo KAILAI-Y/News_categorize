@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'Neil deGrasse Tyson Burns Donald Trump Over Possible Paris Climate Deal Withdrawal', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/neil-degrasse-tyson_us_592fdff0e4b0e09b11edbf7e', 'short_description': '🔥🔥🔥', 'date': '2017-06-01'}

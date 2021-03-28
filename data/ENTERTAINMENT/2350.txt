@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Watch French President's Dog Pee In Fireplace During Official Meeting", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/french-president-dog-pee-fireplace_us_59eded81e4b0a484d0647084', 'short_description': 'Nemo did his business while President Emmanuel Macron was doing his.', 'date': '2017-10-23'}

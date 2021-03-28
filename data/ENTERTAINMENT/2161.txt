@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "George Takei 'Shocked And Bewildered' By Former Model's Sexual Assault Allegation", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/george-takei-denies-sexual-assault-allegation_us_5a071b14e4b0e37d2f37b615', 'short_description': 'The actor said the incident "simply did not occur."', 'date': '2017-11-11'}

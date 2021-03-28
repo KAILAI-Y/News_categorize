@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chelsea Manning Officially On The Ballot For U.S. Senate Race In Maryland', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/chelsea-manning-maryland-senate-race_us_5a61360ee4b01d91b25443f3', 'short_description': 'She joins four other Democrats who have filed to run in the race.', 'date': '2018-01-19'}

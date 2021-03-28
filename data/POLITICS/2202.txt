@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Russia Infiltrated Some U.S. Voter Registration Rolls Before 2016 Election, DHS Says', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/russia-voter-registration-rolls_us_5a7c1eb4e4b0c6726e0f9912', 'short_description': 'The FBI had warned that this was happening.', 'date': '2018-02-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mitch McConnell Mocks Blankenship On Twitter With A Big Cloud Of Cocaine', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/mitch-mcconnell-cocaine-tweet_us_5af2722ae4b00a3224ee42e3', 'short_description': "McConnell's official campaign account trolls West Virginia GOP primary loser.", 'date': '2018-05-09'}

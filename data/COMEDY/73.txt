@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Fans Freak Out After He Says ‘Goodbye Forever’ And Packs Up His Set', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-walks-off_us_5aefffeae4b0ab5c3d671793', 'short_description': '"Thanks very much everyone, but we are f**king done here."', 'date': '2018-05-07'}

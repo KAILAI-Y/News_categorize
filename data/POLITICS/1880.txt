@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Former RNC Chair Fires Back At Claim He Was Only Hired Because He Was Black', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/michael-steele-rnc-painfully-stupid-hired-because-black_us_5a91a1ece4b01e9e56bc42a2', 'short_description': 'It was a "painfully stupid" remark, said Michael Steele.', 'date': '2018-02-24'}

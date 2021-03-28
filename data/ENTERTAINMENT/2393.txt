@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ariana Grande’s 2014 Album Cover Is Your New Favorite Conspiracy Theory', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ariana-grande-conspiracy-theory_us_59e597fae4b02a215b328ce8', 'short_description': '"My Everything" gets a closer look.', 'date': '2017-10-17'}

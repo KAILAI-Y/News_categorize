@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Lawyers Ask Judge To Block Texas Immigration Crackdown While Lawsuits Move Forward', 'authors': 'Roque Planas', 'link': 'https://www.huffingtonpost.com/entry/texas-immigration-crackdown-sb4_us_59359fabe4b013c48169fe58', 'short_description': "If they're successful, SB 4 would not go into effect on Sept. 1 as planned.", 'date': '2017-06-05'}

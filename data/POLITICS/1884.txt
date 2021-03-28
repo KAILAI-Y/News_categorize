@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Teens Are Coming For The NRA, And They Can't Be Stopped", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/the-teens-are-coming-for-the-nra-and-they-cant-be-stopped_us_5a919197e4b03b55731ca1ba', 'short_description': 'We are witnessing history.', 'date': '2018-02-24'}

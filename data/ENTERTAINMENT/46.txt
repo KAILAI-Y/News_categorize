@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Robert De Niro Bans Trump From Every Nobu Restaurant', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/robert-de-niro-trump-nobu-ban_us_5b04f095e4b07c4ea1030c25', 'short_description': '"If he walked into a restaurant I was in, I’d walk out."', 'date': '2018-05-23'}

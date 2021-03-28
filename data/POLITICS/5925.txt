@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Speaks To Governors, Senators On Irma, Approves Disaster Aid', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-irma-aid_us_59b5633fe4b0dfaafcf8814b', 'short_description': '“He’s offered every resource there is of the federal government."', 'date': '2017-09-10'}

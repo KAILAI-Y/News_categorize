@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Doesn’t Want To Tell You If He’s Playing Golf. (Spoiler: He Is.)', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-golf-secret_us_5988ccb5e4b0a66b8badb541', 'short_description': "He once vowed he'd work so hard for America that he wouldn't have time to hit the links.", 'date': '2017-08-07'}

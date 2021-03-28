@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Obama Is Still President In Welcome Letter Sent To New U.S. Citizens', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/potus-is-obama-in-welcome-letter_us_596b821de4b0d6341fe992fd', 'short_description': 'Around 200 of the letters were reportedly distributed in error.', 'date': '2017-07-16'}

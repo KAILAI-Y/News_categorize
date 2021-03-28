@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rose McGowan Blasts Alec Baldwin As 'Baby Man' And 'Scum Bucket' In Weinstein Feud", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwin-rose-mcgowan-feud_us_5a0121dee4b07eb51181b1ee', 'short_description': 'She mocks "sooo liberal" Baldwin as spat grows.', 'date': '2017-11-07'}

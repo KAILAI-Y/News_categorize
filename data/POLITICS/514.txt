@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What A Year This Month Has Been', 'authors': 'Ryan J. Reilly and Ji Sub Jeong', 'link': 'https://www.huffingtonpost.com/entry/what-a-year-this-month-has-been-april-2018_us_5ae75c29e4b02baed1bd05a9', 'short_description': 'There was a lot of news in April 2018. See what you forgot about.', 'date': '2018-04-30'}

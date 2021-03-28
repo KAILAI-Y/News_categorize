@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s ‘Good’ And ‘Easy To Win’ Trade War Actually Might Be Neither', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-trade-war_us_5ac53929e4b09ef3b2432f64', 'short_description': 'States that had voted for Obama and then swung Trump’s way could be hit the hardest.', 'date': '2018-04-04'}

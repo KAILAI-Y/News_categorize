@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Addicted To Adulation, Trump Finds A New Supplier', 'authors': 'Philip Rotner, Contributor@PhilipRotner, Attorney and Columnist', 'link': 'https://www.huffingtonpost.com/entry/did-trump-finally-pivot-last-week_us_59b1afa5e4b0d0c16bb52b29', 'short_description': 'Did the president finally pivot last week?', 'date': '2017-09-11'}

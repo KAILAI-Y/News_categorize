@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'I, Nancy' Is A Comedic Take On The Other Side Of The 'I, Tonya' Story", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/i-nancy-i-tonya-parody_us_5a99978de4b089ec3539eb7a', 'short_description': "She's ice cold.", 'date': '2018-03-02'}

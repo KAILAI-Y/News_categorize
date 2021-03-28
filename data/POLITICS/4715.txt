@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Rex Tillerson's Joke About A Statue Actually Made People Feel Sad For Him", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rex-tillerson-curl-up-in-a-ball-reaction_us_59f2e80de4b077d8dfc8c599', 'short_description': '"In this one instance, Rex Tillerson is all of us."', 'date': '2017-10-27'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'McConnell Faces Mutiny On GOP Health Care Plan', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/mitch-mcconnell-health-care_us_595197e2e4b05c37bb78e388', 'short_description': 'He is down, but he is not out.', 'date': '2017-06-26'}

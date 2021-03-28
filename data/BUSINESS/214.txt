@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Why Great Managers Are Great Talent Scouts', 'authors': 'David Peck, ContributorHead-Western and Central US & Senior Executive Coach, Goodston...', 'link': 'https://www.huffingtonpost.com/entry/why-great-managers-are-great-talent-scouts_us_599d16cbe4b02289f761911b', 'short_description': 'Your talent is your tomorrow.', 'date': '2017-08-23'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Las Vegas Gunman Had 'Cache Of Weapons'", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/las-vegas-gunman-weapons_us_59d24bd3e4b05f005d35aa9c', 'short_description': 'The gunfire "just kept coming," a witness said. "It was relentless."', 'date': '2017-10-02'}

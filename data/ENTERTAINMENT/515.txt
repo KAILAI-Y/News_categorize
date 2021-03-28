@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Sophie Turner Explains Why Her Engagement To Joe Jonas Isn't An Achievement", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/sophie-turner-explains-why-her-engagement-to-joe-jonas-isnt-an-achievement_us_5ad5fd36e4b077c89cecea04', 'short_description': "She's got a point.", 'date': '2018-04-17'}

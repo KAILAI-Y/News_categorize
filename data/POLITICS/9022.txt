@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'HuffPost Headline Quiz: May 19 To May 25', 'authors': 'Christine Roberts and Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/huffpost-headline-quiz-may-19-to-may-25_us_59274443e4b0df34c35ac24f', 'short_description': 'Ready for a challenge?', 'date': '2017-05-26'}

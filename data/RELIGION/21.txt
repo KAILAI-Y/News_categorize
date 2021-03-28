@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "Southern Baptist Leader Resigns Over 'Morally Inappropriate Relationship'", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/southern-baptist-frank-page-resigns_us_5abb9a0ae4b03e2a5c781085', 'short_description': "It's not clear who the other party in the relationship was.", 'date': '2018-03-28'}

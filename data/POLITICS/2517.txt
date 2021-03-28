@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Reportedly Asked Acting FBI Director Andrew McCabe Who He Voted For', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-andrew-mccabe_us_5a67f674e4b0dc592a0db964', 'short_description': 'The Oval Office meeting left McCabe feeling "disturbed," according to reports.', 'date': '2018-01-24'}

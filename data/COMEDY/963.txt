@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Twitter Lets Trump Know Who His Daddy Is With #TrumpFathersDayFilms', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-lets-the-trump-know-who-his-daddy-is-with-trumpfathersdayfilms_us_594033ade4b0d3185485573f', 'short_description': "Papa, don't tweet.", 'date': '2017-06-13'}

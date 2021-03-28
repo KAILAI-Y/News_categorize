@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'This Doctor Wants To Transform Transgender Care In America', 'authors': 'Anna Almendrala', 'link': 'https://www.huffingtonpost.com/entry/maurice-garcia-transgender-care_us_5a284a23e4b0fa798611be0c', 'short_description': 'More transgender surgical centers mean more options for patients.', 'date': '2017-12-09'}

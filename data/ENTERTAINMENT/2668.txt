@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Acting Legend Harry Dean Stanton Dead At 91', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/harry-dean-stanton-dead_us_59bc5ec8e4b02da0e142266f', 'short_description': 'Roger Ebert said no movie with Stanton "can be altogether bad."', 'date': '2017-09-16'}

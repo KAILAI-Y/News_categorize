@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Comedian Ralphie May Dead At 45', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ralphie-may-dead-dies-45_us_59d7ecf3e4b0f6eed3505977', 'short_description': 'The comedian was best known for his appearance on "Last Comic Standing."', 'date': '2017-10-06'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Rex Tillerson Joins Long Line Of Officials Forced To Publicly Praise Trump', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/rex-tillerson-donald-trump-smart_us_59d4f737e4b0218923e6e8f0', 'short_description': 'It was an unusual move for the typically media-averse Tillerson.', 'date': '2017-10-04'}

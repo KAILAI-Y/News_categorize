@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Lady Antebellum Flubs National Anthem Before NHL Playoff Game', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/lady-antebellum-flubs-national-anthem-before-nhl-playoff-game_us_5af02778e4b0ab5c3d676766', 'short_description': '"We\'re human too y\'all."', 'date': '2018-05-07'}

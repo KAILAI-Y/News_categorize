@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Democrats Are 'Children Of Satan,' Right-Wing Radio Host Says", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/democrats-children-of-satan_us_5947325ce4b0f15cd5bc501c', 'short_description': 'Jesse Lee Peterson slams acts of political unity after shooting at Alexandria baseball field.', 'date': '2017-06-19'}

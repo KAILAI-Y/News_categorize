@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Floyd Mayweather Defended Donald Trump's 'Grab Them' Comments. It Didn't Go Well.", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/floyd-mayweather-defends-trumps-grab-comments_us_59bb73c9e4b086432b05dd72', 'short_description': '"Floyd Mayweather remains a garbage fire."', 'date': '2017-09-15'}

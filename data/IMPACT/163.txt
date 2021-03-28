@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Chicago Is Fighting Climate Change No Matter What Trump Says', 'authors': 'Debbie Carlson, On assignment for HuffPost', 'link': 'https://www.huffingtonpost.com/entry/chicago-climate-change-rahm-emanuel_us_59de80d4e4b0eb18af05fb98', 'short_description': 'America should pay attention.', 'date': '2017-10-12'}

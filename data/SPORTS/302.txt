@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'TODAY: The Dynasty vs. The Underdogs', 'authors': 'Steve Keating, Reuters', 'link': 'https://www.huffingtonpost.com/entry/super-bowl-the-dynasty-vs-the-underdogs_us_5a772118e4b06ee97af39512', 'short_description': 'The New England Patriots will take on the Philadelphia Eagles in Super Bowl LII.', 'date': '2018-02-04'}

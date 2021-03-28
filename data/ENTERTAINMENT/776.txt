@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Laura Benanti Reveals The Sad Truth Of Our Bond With Donald Trump', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/laura-benanti-melania-trump-seth-meyers_us_5ab2775be4b008c9e5f36ba6', 'short_description': 'The "Late Show" Melania Trump impersonator got real with Seth Meyers.', 'date': '2018-03-21'}

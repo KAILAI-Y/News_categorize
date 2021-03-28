@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "REPORT: Trump To Set Up 'War Room' To Repel Russia Probe Attacks", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-war-russia-probe_us_5928a335e4b0df57cbfbcecb', 'short_description': "It's his most aggressive effort yet to push back against allegations involving Russia and his campaign.", 'date': '2017-05-26'}

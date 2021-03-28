@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Cyclist Shows Off For Google's Street View Camera, Becomes Online Hero", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/google-street-view-cyclist-melbourne_us_59aa78c6e4b0354e440aa332', 'short_description': '"Name this street after him."', 'date': '2017-09-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Lawmaker Introduces Crowdfunding Bill To Pay For Trump's Border Wall", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/lawmaker-introduces-crowdfunding-bill-border-wall_us_5b036c8be4b0a046186f0e6f', 'short_description': "So Mexico's not paying for it?", 'date': '2018-05-22'}

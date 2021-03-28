@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift Said She 'Couldn't Have Asked For A Better Year' And Divided Us All", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-better-year-2017-reaction_us_5a3383a1e4b01d429cc7863a', 'short_description': '"READ THE ROOM, TAYLOR."', 'date': '2017-12-15'}

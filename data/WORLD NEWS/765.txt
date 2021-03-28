@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Myanmar Reaches Deal To Bring Rohingya Muslims Home', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/rohingya-muslims-deal-home_us_5a16b817e4b0d4906cad83be', 'short_description': "But rights groups are concerned Myanmar's army could still pose a threat.", 'date': '2017-11-23'}

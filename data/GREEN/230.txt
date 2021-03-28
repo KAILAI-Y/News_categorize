@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'This Pilot Rescued More People In Harvey Than In The Rest Of His Career Combined', 'authors': 'Melissa Jeltsen and Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/coast-guard-harvey-texas_us_59aa978ae4b0b5e530fefdbf', 'short_description': 'But first, Jason Brownlee needed rescue himself.', 'date': '2017-09-02'}

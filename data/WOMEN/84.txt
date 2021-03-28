@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5ab3a365e4b0decad0475d79', 'short_description': 'On avoiding taxes and men, eating when you want and pausing everything for Toto\'s "Africa."', 'date': '2018-03-23'}

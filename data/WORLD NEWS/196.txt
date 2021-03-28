@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'The Rest Of The World Showed Up To March For Our Lives', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/march-for-our-lives-around-the-world_us_5ab79c14e4b008c9e5f83f66', 'short_description': "Protesters from across the globe want U.S. lawmakers to know they're watching, too.", 'date': '2018-03-25'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Paulina Porizkova And Ric Ocasek Are 'Peacefully Separated'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/paulina-porizkova-and-ric-ocasek-are-peacefully-separated_us_5aeac6e3e4b06748dc8fc39a', 'short_description': "The Cars' rocker and supermodel have been married for nearly 29 years.", 'date': '2018-05-03'}

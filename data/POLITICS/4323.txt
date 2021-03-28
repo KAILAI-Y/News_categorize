@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Excuses Men Are Making For Roy Moore', 'authors': 'Amanda Terkel and Dana Liebelson', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-men-excuses_us_5a0605e3e4b01d21c83e748a', 'short_description': '"You can’t be a victim 40 years later, in my opinion."', 'date': '2017-11-10'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'David Blaine Chews Glass And Lets James Corden Puncture His Cheek', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/david-blaine-james-corden_us_5b06c501e4b07c4ea105b601', 'short_description': "Sure it's gross, but you're still here.", 'date': '2018-05-24'}

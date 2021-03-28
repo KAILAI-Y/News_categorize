@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'French Shoppers Go Full Black Friday Over Flash Nutella Sale', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/france-nutella-sale-violence_us_5a6b00bbe4b01fbbefb0ae3a', 'short_description': 'Violence broke out at supermarkets that chopped the price.', 'date': '2018-01-26'}

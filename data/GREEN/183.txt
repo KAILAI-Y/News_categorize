@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Tens Of Thousands In Puerto Rico Told To Evacuate Immediately As Dam Cracks', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/guajataca-dam-puerto-rico-hurricane-maria-evacuate_us_59c58844e4b06ddf45f7fe7b', 'short_description': '70,000 people are at risk.', 'date': '2017-09-22'}

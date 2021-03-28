@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Donald Trump Could Learn A Lot From Reebok’s Viral Tweet', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/trump-reebok-tweet_us_596a9076e4b03389bb17cf18', 'short_description': 'Mr. President, please take notes.', 'date': '2017-07-16'}

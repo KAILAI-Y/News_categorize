@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Rejects Attempt To Repeal 16-Year-Old War Authorization', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/war-authorization-senate-rand-paul_us_59b93788e4b086432b034946', 'short_description': "This was the chamber's first vote in 15 years on the executive branch's war-making powers.", 'date': '2017-09-13'}

@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Planes Might Not Be Disgusting Germ Factories After All', 'authors': 'Popular Science, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/planes-might-not-be-disgusting-germ-factories-after_us_5aba9605e4b03e5539296e3b', 'short_description': "Surely you can't be serious.", 'date': '2018-03-28'}

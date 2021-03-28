@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Artist Paints Donald Trump As Your Favorite Film And TV Show Villains', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/artist-donald-trump-villains_us_5a37dae5e4b040881bec86c3', 'short_description': 'Finally, a Pennywise president.', 'date': '2017-12-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democratic Leaders Not Quite Ready For A Jobs Guarantee', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/sanders-jobs-guarantee_us_5adf8f5fe4b061c0bfa280ab', 'short_description': "A proposal by Sen. Bernie Sanders hasn't yet caught on with party leaders.", 'date': '2018-04-24'}

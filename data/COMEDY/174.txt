@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Uses Theater To Make Sense Of Donald Trump's Border Troops Plan", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jimmy-kimmel-barista-theater-border-guard_us_5ac5c849e4b0aacd15b86467', 'short_description': 'Or at least try to.', 'date': '2018-04-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Entire GOP Should Be Ashamed Of Themselves', 'authors': 'Omar Valdez, ContributorWriter & World Explorer', 'link': 'https://www.huffingtonpost.com/entry/the-entire-gop-should-be-ashamed-of-themselves_us_59960893e4b02eb2fda31e4f', 'short_description': 'They cannot pretend their opponents didn’t warn them.', 'date': '2017-08-17'}

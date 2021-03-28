@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Tennessee County Offers Inmates Shorter Sentences If They Get A Vasectomy', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/tennessee-inmates-vasectomy_us_59710906e4b0e79ec1982341', 'short_description': 'The ACLU says the program is unconstitutional.', 'date': '2017-07-20'}

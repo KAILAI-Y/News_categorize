@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Signs Omnibus Spending Package To Fund Government Through September', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/trump-signs-omnibus-spending-package_us_5ab52f67e4b008c9e5f6f792', 'short_description': 'The president had threatened a veto just hours earlier.', 'date': '2018-03-23'}

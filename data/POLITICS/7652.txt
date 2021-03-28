@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Pick For FBI Director Affirms Russia Probes Are Not 'A Witch Hunt'", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/christopher-wray-trump-fbi-director_us_59663e6ce4b005b0fdca4d97', 'short_description': 'The president believes otherwise.', 'date': '2017-07-12'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Guys, A Starbucks Barista Asked Oprah How To Spell Her Name', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/oprah-starbucks_us_5a95ce41e4b09c872baea01d', 'short_description': 'The media icon gets the same treatment as the rest of us.', 'date': '2018-02-27'}

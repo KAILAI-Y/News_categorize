@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Florida Shooting Survivors Face Down The NRA And Politicians, Vow To Keep Fighting', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/florida-shooting-town-hall_us_5a8e44dfe4b0617d4639dce5', 'short_description': '"Our kids have started a revolution," one teacher says at emotional town hall.', 'date': '2018-02-22'}

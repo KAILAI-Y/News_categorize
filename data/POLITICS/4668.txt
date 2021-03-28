@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Controversial Congressman Touts Iowa 'Peasant Hunt' With Donald Trump Jr.", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/donald-trumpjr-iowa-peasant-hunt_us_59f64063e4b077d8dfca45cf', 'short_description': 'Puts a whole new twist on Second Amendment rights.', 'date': '2017-10-30'}

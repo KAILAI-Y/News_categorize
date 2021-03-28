@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chrissy Teigen\xa0Nails Bill O'Reilly\xa0Over His 'Jesus Christ Superstar'\xa0Complaint", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-bill-oreilly_us_5ac1afaae4b0f112dc9d5076', 'short_description': 'Former Fox News host gets burned on Twitter.', 'date': '2018-04-02'}

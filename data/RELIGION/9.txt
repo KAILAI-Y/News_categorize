@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'The Religious Imagery Stitched Throughout The 2018 Met Gala', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/religious-imagery-2018-met-gala_us_5af1a644e4b0ab5c3d6a00b0', 'short_description': "Some celebrities' nods to the religious theme were obvious. Others needed a closer look.", 'date': '2018-05-08'}

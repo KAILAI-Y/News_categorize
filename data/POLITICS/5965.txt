@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Bernie Sanders Ruthlessly Sums Up 'What Happened' To Hillary Clinton", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-hillary-clinton-stephen-colbert_us_59b23843e4b0dfaafcf6dc94', 'short_description': "Her former campaign rival fires back at accusations in Clinton's book.", 'date': '2017-09-08'}

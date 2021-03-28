@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Banning Bump Stocks Is A Mostly Meaningless Gesture, And The NRA Knows It', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/banning-bump-stocks-nra_us_59d83913e4b072637c4430c1', 'short_description': 'But at least it keeps us from talking about the bigger problem of gun violence in America.', 'date': '2017-10-07'}

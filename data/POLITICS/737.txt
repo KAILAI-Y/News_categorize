@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Say People Would Kick Themselves Off Food Stamps Under Their New Bill', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/republicans-food-stamps_us_5ad76c97e4b029ebe0205215', 'short_description': 'Like self-deportation, but for basic nutritional needs!', 'date': '2018-04-18'}

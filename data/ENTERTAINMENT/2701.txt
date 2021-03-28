@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Pennywise Actor Tells Conan How He Came Up With Creepy Smile For 'It'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/pennywise-actor-tells-conan-how-he-came-up-with-creepy-smile-for-it_us_59b8fbdae4b0edff9717a8f6', 'short_description': "It's just as terrifying without makeup.", 'date': '2017-09-13'}

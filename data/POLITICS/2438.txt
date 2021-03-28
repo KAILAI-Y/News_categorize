@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The State Of The Union Drinking Game To Help You Through The Night', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/state-of-the-union-drinking-game_us_5a6e2b77e4b06e25326884b6', 'short_description': "President Trump doesn't drink, but you may want to.", 'date': '2018-01-30'}

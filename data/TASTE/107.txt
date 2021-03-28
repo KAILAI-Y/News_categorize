@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Do You Need To Clean Your Turkey Before Cooking It?', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/wash-turkey-thanksgiving_us_59d7a2d3e4b072637c43b523', 'short_description': 'The FDA weighs in on this controversial topic.', 'date': '2017-10-06'}

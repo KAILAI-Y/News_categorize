@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'LA Times Takes Major Step Forward In Campaign To Unionize', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/la-times-union-election-filing_us_5a25a4c2e4b03350e0b8ce3c', 'short_description': "The paper's guild has filed for an election with the National Labor Relations Board.", 'date': '2017-12-04'}

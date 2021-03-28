@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Oreo Debuts New Jelly Donut Flavor Just In Time For National Donut Day', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/oreo-debuts-new-jelly-donut-flavor-just-in-time-for-national-donut-day_us_593102d3e4b02478cb9a25d8', 'short_description': 'Happy Friday to you!', 'date': '2017-06-02'}

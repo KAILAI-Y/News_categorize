@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Leslie Jones\xa0Live-Tweeting Figure Skating Is Olympic Gold', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/leslie-jones-live-tweeting-figure-skating_us_5a7d0dbde4b0c6726e11ae64', 'short_description': '"Who is in charge of these outfits!"', 'date': '2018-02-09'}

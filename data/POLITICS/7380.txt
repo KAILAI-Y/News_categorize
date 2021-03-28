@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Republicans Report New Life On Their Health Care Bill', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/senate-republicans-new-life-health-care_us_59702f8be4b0aa14ea7711b7', 'short_description': 'But it still might not change anything.', 'date': '2017-07-20'}

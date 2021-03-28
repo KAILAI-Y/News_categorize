@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Truly Uncool Thing 'Transformers 5' Does To Anthony Hopkins", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/the-truly-uncool-thing-transformers-5-does-to-anthony-hopkins_us_59499c19e4b00cdb99cb1e3d', 'short_description': 'So not awesome.', 'date': '2017-06-23'}

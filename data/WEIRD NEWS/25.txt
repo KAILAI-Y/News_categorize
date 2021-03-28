@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Video Of Bear Eating Ice Cream At Dairy Queen Leads To Charges For Zoo Owners', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/video-of-bear-eating-ice-cream-at-dairy-queen-leads-to-charges-for-zoo-owners_us_5af4a259e4b0e57cd9f79293', 'short_description': '"We made a mistake."', 'date': '2018-05-10'}

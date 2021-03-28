@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Moschino's $736 'Dry Cleaning Bag' Dress Is Totally Sheer And Totally Cheeky", 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/moschino-dry-cleaning-bag-dress_us_5a01ec3de4b09205305848eb', 'short_description': 'WOW. 👀', 'date': '2017-11-07'}

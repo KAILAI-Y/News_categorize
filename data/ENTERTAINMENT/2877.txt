@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chrissy Teigen Has Classic Response To Critics Of Her Ballet Vid', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-has-classic-response-to-critics-of-her-ballet-vid_us_599a9f51e4b0e8cc855e75f4', 'short_description': "She wasn't afraid to step on some toes in funny retort.", 'date': '2017-08-21'}

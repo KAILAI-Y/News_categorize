@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Donald Trump's 2012 Yankees Tweet Proves There Really Is A #TweetForEverything", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/trump-2012-yankees-tweet_us_59ec1898e4b0a484d063bfb1', 'short_description': 'Yes, even for Major League Baseball.', 'date': '2017-10-22'}

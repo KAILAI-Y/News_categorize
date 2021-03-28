@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ed Sheeran's 'Carpool Karaoke' Teaser Has Got Us Singing Like", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ed-sheeran-carpool-karaoke-james-corden_us_592fd472e4b0540ffc849241', 'short_description': '"LOUDER!"', 'date': '2017-06-01'}

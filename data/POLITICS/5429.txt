@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tom Price Says He'll Pay Taxpayers Back For Using Private Jets. But Just For His Seat.", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/tom-price-travel-flights_us_59cd5b1fe4b09538b50720e3', 'short_description': 'The price is wrong.', 'date': '2017-09-28'}

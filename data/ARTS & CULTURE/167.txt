@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Margaret Atwood Speaks Out Against Anti-Abortion Legislation In The U.S.', 'authors': 'Maddie Crum', 'link': 'https://www.huffingtonpost.com/entry/margaret-atwood-on-women-and-children_us_59357651e4b0ca5db291d0c8', 'short_description': 'At BookCon 2017, she talked about the dangers of regulating women’s bodies.', 'date': '2017-06-05'}

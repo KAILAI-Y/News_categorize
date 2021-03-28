@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Chris Cuomo And Kellyanne Conway Go Bananas In New Interview', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/chris-cuomo-kellyanne-conway-bananas_us_5ae1531ee4b055fd7fc7e93f', 'short_description': '"Everything with you guys is fruit salad," Cuomo says to Conway.', 'date': '2018-04-26'}

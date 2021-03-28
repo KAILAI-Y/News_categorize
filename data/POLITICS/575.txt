@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Food Stamp Bill Might Be Harsh Enough Win Over Hard-Liners', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/farm-bill-food-stamps_us_5ae1fe39e4b04aa23f20cec2', 'short_description': 'The bill might push more people off benefits than previously thought.', 'date': '2018-04-26'}

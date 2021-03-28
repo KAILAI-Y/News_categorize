@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Few Americans Are Cheering The Repeal Of Net Neutrality', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/few-americans-cheer-repeal-net-neutrality_us_5a3ea627e4b0b0e5a7a288b5', 'short_description': 'Opponents of the repeal feel far more strongly than its supporters.', 'date': '2017-12-23'}

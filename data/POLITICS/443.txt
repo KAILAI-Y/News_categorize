@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Is The Left Having A Senior Moment?', 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/liverals-senior-citizens-aarp-greyroots-action_us_5aeb17a7e4b041fd2d23add1', 'short_description': 'Some activists worry liberals aren’t doing enough to rally older voters.', 'date': '2018-05-03'}

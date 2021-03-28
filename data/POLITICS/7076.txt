@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Urges Republican Senators Not To Give Up On Healthcare', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-obamacare-tweet_us_597de5e7e4b0da64e879ae31', 'short_description': '“Don’t give up Republican Senators, the World is watching: Repeal & Replace."', 'date': '2017-07-30'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '23 Absurdly Easy Halloween Crafts', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/23-easy-halloween-crafts_us_59de72bee4b00abf3645fdf4', 'short_description': 'These ideas are simple, spooky and fun.', 'date': '2017-10-25'}

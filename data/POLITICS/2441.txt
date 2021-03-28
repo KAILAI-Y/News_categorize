@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Nikki Haley Trashes Hillary Clinton's Surprise Grammy Appearance", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/nikki-haley-hillary-clinton-grammy_us_5a6e9bc5e4b06e253268ed27', 'short_description': "The U.S. ambassador to the United Nations doesn't want politics in her music.", 'date': '2018-01-29'}

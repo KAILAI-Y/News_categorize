@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Handmaid's Tale' Has Apparently Turned Elisabeth Moss Into An Activist", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/elisabeth-moss-handmaids-tale-activism_us_596f7ec3e4b01696c6a207cc', 'short_description': 'The book and show made her wonder, "What happens if I don\'t speak up?"', 'date': '2017-07-19'}

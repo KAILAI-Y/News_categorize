@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "11 Things We're Obsessed With This Week, Besides National Taco Day", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/things-were-obsessed-with-12_us_59d5209be4b0becae801f2d9', 'short_description': "Finds we can't help but taco 'bout.", 'date': '2017-10-04'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Confirms He Called House GOP Health Care Bill 'Mean'", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-health-care-bill-mean_us_594fb481e4b0da2c731c1b1c', 'short_description': 'The bill was the same one he celebrated at the White House Rose Garden.', 'date': '2017-06-25'}

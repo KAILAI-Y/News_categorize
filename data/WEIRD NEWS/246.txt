@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Reddit Goes Nuts Over Duck Scarfing Down Peas', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/duck-eats-peas_us_5a283c39e4b044d16726ff5d', 'short_description': 'This video delivers exactly what it promises.', 'date': '2017-12-06'}

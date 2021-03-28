@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "#ClimateChangeMusic Is Twitter's Way Of Tuning Out The Deniers", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/climatechangemusic-is-twitters-way-of-tuning-out-the-deniers_us_5936ea40e4b013c4816ba3dd', 'short_description': 'The only debate is over who controls the radio station.', 'date': '2017-06-06'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'GLOW' Star Betty Gilpin Explains Why It's Actually Just Fine For Women To Bulk Up", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/glow-betty-gilpin-netflix_us_5967c6d1e4b03389bb160ebd', 'short_description': '"Ali Brie can deadlift, like, 200 pounds."', 'date': '2017-07-14'}

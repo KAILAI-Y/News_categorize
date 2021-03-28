@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Tara Lipinski And Johnny Weir Have The Cutest Olympics Pre-Show Ritual', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tara-lipinski-johnny-weir-handshake_us_5a841936e4b02b66c513ada3', 'short_description': 'Copy it if you can.', 'date': '2018-02-14'}

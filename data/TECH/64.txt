@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Apple To Buy Shazam Amid Rumors It Will Phase Out iTunes Downloads', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/apple-shazam-streaming-music-service_us_5a2ea9b3e4b0a290f052790a', 'short_description': "Apple says the rumors aren't true.", 'date': '2017-12-11'}

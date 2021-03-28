@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Massive Protests Call For An End To Togo's 50-Year Political Dynasty", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/togo-protests_us_59b05298e4b0354e440f0686', 'short_description': 'The opposition chief has called for the president to resign.', 'date': '2017-09-06'}

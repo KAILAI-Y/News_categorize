@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'More Than Half Of Opioid Prescriptions Go To People With Mental Illness', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/mental-illness-opioids_us_595261b0e4b02734df2d63eb', 'short_description': 'People with mood disorders receive 60 million prescriptions for painkillers a year.', 'date': '2017-06-27'}

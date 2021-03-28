@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Black Lives Matter Activist Who Snatched Confederate Flag Killed In New Orleans', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/black-lives-matter-muhiyidin-moye-killed-confederate-flag_us_5a7b1fe4e4b07af4e8200250', 'short_description': 'Rest in power, Muhiyidin Moye.', 'date': '2018-02-07'}

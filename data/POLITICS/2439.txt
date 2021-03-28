@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Companies Are On A Cheap Charm Offensive For Trump's Tax Bill", 'authors': 'Arthur Delaney and Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/companies-trump-tax-bill_us_5a6f56b5e4b01fbbefb48a1e', 'short_description': 'Major firms tout small perks for workers while funneling huge payouts to shareholders.', 'date': '2018-01-30'}

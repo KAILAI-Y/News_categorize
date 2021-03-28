@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'New Video Shows A Dazed\xa0Tiger Woods Taking Breathalyzer Tests', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/tiger-woods-arrest-breathalyzer-video_us_59323e69e4b075bff0f3b07d', 'short_description': 'The golfer reportedly blew .00 on both tests.', 'date': '2017-06-03'}

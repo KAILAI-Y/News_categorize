@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "White House Won't Say If There's A Recording System In The Oval Office", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/oval-office-recording-system-trump-tapes_us_59397b6be4b00610548089b2', 'short_description': '"I\'ll try to look under the couches," Sarah Huckabee Sanders said.', 'date': '2017-06-08'}

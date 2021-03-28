@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The New 'Thor' Trailer Will Ragna-Rock Your World", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/the-new-thor-trailer-will-ragna-rock-your-world_us_5969887be4b0d6341fe9168e', 'short_description': 'Stop! It’s hammer time.', 'date': '2017-07-23'}

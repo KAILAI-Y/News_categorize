@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Dogs Protect Humans From Other Humans. Humans Protect Dogs From Other Dogs.'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reddit-shower-thoughts-may-4-2018_us_5aec1c6de4b041fd2d250deb', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-05-04'}

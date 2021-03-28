@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New Bill Aims To Prevent White House From Dodging The Free Press', 'authors': 'Kaeli Subberwal', 'link': 'https://www.huffingtonpost.com/entry/free-press-act-himes_us_5967e30ae4b0d6341fe7b0ba', 'short_description': 'The House bill would require at least two on-camera briefings a week.', 'date': '2017-07-13'}

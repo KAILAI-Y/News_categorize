@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kendrick Lamar Leads Gender-Free MTV Video Music Award Nominations', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/mtv-video-music-award-nominations-2017_us_5977870ae4b0c95f375f25a6', 'short_description': 'The Weekend and Katy Perry also scored.', 'date': '2017-07-25'}

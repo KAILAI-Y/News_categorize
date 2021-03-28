@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Tax Cut And The Fake Trump Boom', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/the-fake-trump-boom_us_5a370206e4b0ff955ad429e9', 'short_description': 'While the economic boom looks pretty good now, it won’t look so great by November 2018.', 'date': '2017-12-18'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Laverne Cox Educates After ‘Breakfast Club’ Guest Jokes About Killing Trans Women', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/laverne-cox-breakfast-club-for-joke-about-killing-trans-women_us_597e1a82e4b0da64e879c8f6', 'short_description': '"Trans murder is not a joke."', 'date': '2017-07-30'}

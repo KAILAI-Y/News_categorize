@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: The Trump Administration Plays Politics With The Census", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-the-trump-administration-plays-politics-with-the-census_us_5aba267be4b054d118e6d53a', 'short_description': 'It could suppress participation.', 'date': '2018-03-27'}

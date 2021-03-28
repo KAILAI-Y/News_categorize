@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Football Fans Lose Faith In Humanity As Patriots Head To Another Super Bowl', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/patriots-head-superbowl-twitter-sad_us_5a651e01e4b0dc592a09fafb', 'short_description': '"Ugh, I\'d rather eat a tide pod than watch another Patriots Superbowl."', 'date': '2018-01-22'}

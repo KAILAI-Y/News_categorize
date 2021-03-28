@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Marvel At The Greatness Of These Bootleg Avengers Action Figures', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/bootleg-avengers-figures_us_5ae743e9e4b04aa23f25be11', 'short_description': 'From the other smash hit film, "Revengers: Endless Tussle."', 'date': '2018-04-30'}

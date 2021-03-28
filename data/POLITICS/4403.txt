@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democratic Election Sweep May Complicate GOP Push For Tax Reform', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/tax-reform-democrats-win_us_5a0346b4e4b0f76b05c2c40a', 'short_description': 'Some Republicans might think twice before voting to raise middle-class taxes.', 'date': '2017-11-08'}

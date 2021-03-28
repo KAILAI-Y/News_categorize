@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The ‘Roseanne’ Revival Finally Has A Premiere Date', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/roseanne-revival-premiere-date_us_5a340973e4b01d429cc878f6', 'short_description': '🚨 🚨 🚨', 'date': '2017-12-15'}

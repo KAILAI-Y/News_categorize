@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "LA Family's Lawsuit Says Starbucks Served Blood-Stained Frappuccino", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/la-family-starbucks-blood-frappuccino_us_5a7dcf7ee4b0c6726e12dccd', 'short_description': '“My wife and my baby just drank someone’s blood. It was bad.”', 'date': '2018-02-09'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Sheryl Crow's Sons Like To Rewrite Her Songs With Silly Kid Humor", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/sheryl-crows-sons-like-to-rewrite-her-songs-with-silly-kid-humor_us_59aec001e4b0dfaafcf2c851', 'short_description': 'The results are funny, weird and gross all at the same time.', 'date': '2017-09-05'}

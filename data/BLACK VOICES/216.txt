@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Here's A First Look At 'Sorry To Bother You' Starring Lakeith Stanfield", 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/sorry-to-bother-you-trailer_us_5aa6baf3e4b03c9edfae760f', 'short_description': 'The movie hits theaters this summer.', 'date': '2018-03-12'}

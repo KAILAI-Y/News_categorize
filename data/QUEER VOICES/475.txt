@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'Gay Christmas' Is For Everyone Who Can’t Bear The Holidays With Family This Year", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/tom-goss-gay-christmas_us_5a38438ae4b0c65287abb442', 'short_description': "Tom Goss dedicates his new song to anybody who's ever felt like an outsider.", 'date': '2017-12-21'}

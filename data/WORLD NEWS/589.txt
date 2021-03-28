@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Putin Critic Navalny Steps Up The Pressure After Kremlin Crackdown', 'authors': 'Andrew Osborn, Reuters', 'link': 'https://www.huffingtonpost.com/entry/navalny-russia-election_us_5a43c73de4b0b0e5a7a43409', 'short_description': 'The opposition leader called for nationwide rallies in support of an election boycott.', 'date': '2017-12-27'}

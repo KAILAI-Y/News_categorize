@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jim Carrey’s Scathing Portrait Of Trump As The Joker Will Give You Nightmares', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jim-carrey-trump-supervillain-joker_us_5af3e17ae4b04d3b2c908513', 'short_description': "There's even a code hidden within the painting.", 'date': '2018-05-10'}

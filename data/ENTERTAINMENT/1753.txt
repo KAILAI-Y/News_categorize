@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Britney Spears Wears Slogan T-Shirt In Support Of Dreamers', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/britney-spears-dreamers-tshirt-congress_us_5a3e2095e4b06d1621b4898f', 'short_description': '"We are all Dreamers."', 'date': '2017-12-23'}

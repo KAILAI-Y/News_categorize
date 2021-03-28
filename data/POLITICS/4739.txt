@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Throws U.S. Generals Under The Bus In Regard To Niger Attack', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-generals-niger_us_59f19528e4b0438859154c04', 'short_description': "And that's not presidential, experts say.", 'date': '2017-10-26'}

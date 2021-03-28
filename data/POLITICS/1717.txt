@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Deer Semen Donations Worth Big Bucks For Texas Democrat', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ana-lisa-garza-deer-semen-texas_us_5a99cd47e4b089ec353a4364', 'short_description': '“Semen is a very common way for us to donate,” one deer breeder said.', 'date': '2018-03-03'}

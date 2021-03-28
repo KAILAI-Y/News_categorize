@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Julianne Hough And Brooks Laich Get Married In Idaho Ceremony', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/julianne-hough-married_us_5962331ae4b0d5b458eb0afd', 'short_description': 'The "Dancing with the Stars" judge and the NHL star got engaged in 2015.', 'date': '2017-07-09'}

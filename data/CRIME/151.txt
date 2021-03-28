@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'There’s A Line Between Justice And Vengeance. Larry Nassar’s Judge Crossed It.', 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/larry-nassar-judge_us_5a6a204ee4b06e25326595eb', 'short_description': 'Wishing rape on anyone -- even a serial sexual abuser -- is unacceptable.', 'date': '2018-01-25'}

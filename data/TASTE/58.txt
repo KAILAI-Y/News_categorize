@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'People Are Boycotting Jim Beam Because Of Something Mila Kunis Said', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/people-are-boycotting-jim-beam-because-of-something-mila-kunis-said_us_5a031b8ce4b04e96f0c6f378', 'short_description': "The brand's spokesperson is causing quite a stir.", 'date': '2017-11-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Retweets Inflammatory Islamophobic Videos', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-retweets-british-far-right_us_5a1e9cd9e4b0cb0e917caaa1', 'short_description': 'The tweets came from a British far-right leader with a history of spreading hoaxes.', 'date': '2017-11-29'}

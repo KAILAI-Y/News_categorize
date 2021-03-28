@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Beyoncé's Money Roll Clutch Is Totally Badass", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/beyonce-tidal-concert_us_59e7483ce4b08f9f9edbd71f', 'short_description': 'It was made with over 10,000 Austrian crystals, natch.', 'date': '2017-10-18'}

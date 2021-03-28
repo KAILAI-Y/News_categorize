@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: What To Expect From Trump's Afghanistan Strategy", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-what-to-expect-from-trumps-afghanistan-strategy_us_599ab538e4b0a2608a6d3e4a', 'short_description': 'Which he is expected to announce tonight.', 'date': '2017-08-21'}

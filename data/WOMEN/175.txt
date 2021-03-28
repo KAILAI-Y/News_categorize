@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "People Think Ivanka Trump's New Twitter Bio Is An Insult To Women", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-twitter-bio-change_us_5a6997b1e4b0dc592a0f62d0', 'short_description': '"I guess she finally got honest with herself."', 'date': '2018-01-25'}

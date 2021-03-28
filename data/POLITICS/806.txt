@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'House Leadership Races Bring Out The Most Machiavellian Moves', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/house-leadership-races-moves-jordan_us_5ad0dcbce4b016a07e9c1371', 'short_description': 'For the attentive reader.', 'date': '2018-04-13'}

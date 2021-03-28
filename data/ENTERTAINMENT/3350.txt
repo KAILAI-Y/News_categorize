@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Seth Meyers Points Out That ‘The Mummy’ Is More Popular Than Trumpcare', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-trumpcare-less-popular-the-mummy_us_594bd623e4b0312cfb623690', 'short_description': "Percentages don't lie.", 'date': '2017-06-22'}

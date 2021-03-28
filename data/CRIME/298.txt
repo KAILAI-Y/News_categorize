@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Man Shot Dead By Oklahoma City Cop Was Deaf (UPDATED)', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/police-shooting-oklahoma-city_us_59c23f23e4b0f22c4a8dce68', 'short_description': 'Neighbors shouted at the officer that 35-year-old Magdiel Sanchez could not hear his commands.', 'date': '2017-09-20'}

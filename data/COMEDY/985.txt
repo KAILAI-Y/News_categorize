@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Man Wants To Sell 1,000 Raccoon Penis Bones Via IndieGogo Campaign (UPDATED)', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/steve-gadlin-raccoon-penis-bones_us_592f1efce4b09ec37c3157f3', 'short_description': 'WARNING: You won’t be able to stop singing his gloriously catchy jingle.', 'date': '2017-05-31'}

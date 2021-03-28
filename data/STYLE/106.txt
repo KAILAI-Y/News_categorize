@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'The Best Sheet Masks To Give Everyone On Your Gift List', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/sheet-masks-gift-guide_us_5a0dd04fe4b0b17e5e14e3d0', 'short_description': "Bonus: They won't break the bank.", 'date': '2017-11-16'}

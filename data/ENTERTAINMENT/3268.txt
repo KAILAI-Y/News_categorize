@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ava DuVernay Has No Time For Anthony Bourdain's Harsh Movie Reviews", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/ava-duvernay-on-anthony-bourdains-movie-reviews_us_595e68f3e4b0d5b458e8e5ba', 'short_description': '"Critique doesn’t have to be cruel."', 'date': '2017-07-06'}

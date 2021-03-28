@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "It's Now Easier For Asian-Americans With Limited English Skills To Vote In Texas", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/texas-asian-americans-voting_us_599eea16e4b05710aa5a6e36', 'short_description': 'A new ruling could mean the minority group has more of a voice.', 'date': '2017-08-25'}

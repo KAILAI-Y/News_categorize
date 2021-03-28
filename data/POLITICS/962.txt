@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Former Mexican President Vicente Fox Promotes Donald Trump-Trolling T-shirt', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/vicente-fox-donald-trump-t-shirt_us_5ac86ca7e4b09d0a1194003b', 'short_description': 'Its slogan reads "Can\'t Build A Wall If Your Hands Are Too Small."', 'date': '2018-04-07'}

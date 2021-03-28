@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Tronc Sold The Los Angeles Times To Billionaire Patrick Soon-Shiong', 'authors': "Lydia O'Connor and Willa Frej", 'link': 'https://www.huffingtonpost.com/entry/los-angeles-times-tronc-sale_us_5a7a27c7e4b07af4e81ec122', 'short_description': 'The sale comes amid turbulence between Tronc and Times staffers.', 'date': '2018-02-06'}

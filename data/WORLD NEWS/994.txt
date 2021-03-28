@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Syrian Refugees Return From Lebanon Only To Flee War Yet Again', 'authors': 'Abby Sewell, Refugees Deeply', 'link': 'https://www.huffingtonpost.com/entry/syrian-refugees-return-from-lebanon-only-to-flee-war-yet-again_us_59e263d6e4b03a7be580fff6', 'short_description': '', 'date': '2017-10-14'}

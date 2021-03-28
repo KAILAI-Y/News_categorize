@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kanye West Explains The 'Most Inspiring Thing' About Donald Trump In New Video", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kanye-west-making-of-donald-trump_us_5ae81c27e4b055fd7fcf2967', 'short_description': 'The rapper also admitted he doesn\'t agree with "half the s**t Trump does."', 'date': '2018-05-01'}

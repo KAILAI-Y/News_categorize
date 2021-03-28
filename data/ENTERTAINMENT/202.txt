@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kenan Thompson Says He'll Stay On 'SNL' For 'As Long As Possible'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/kenan-thompson-snl-long-as-possible_us_5af47e37e4b04d3b2c918500', 'short_description': "At 15 years, he's the longest-running cast member.", 'date': '2018-05-10'}

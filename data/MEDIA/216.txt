@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Internet Burns Washington Post Over Its Front Page On Trump's Speech", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/washington-post-trump-front-page_us_5a716d02e4b0ae29f08c2015', 'short_description': 'People are not happy at all.', 'date': '2018-01-31'}

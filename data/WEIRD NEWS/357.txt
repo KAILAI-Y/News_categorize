@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'This Traveling Cat Circus Has Helped Save More Than 200 Feline Lives', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/acrocats-cat-circus-rescue-foster_us_59b17d72e4b0354e44102b42', 'short_description': 'Like you needed another reason to love The Amazing Acro-Cats.', 'date': '2017-09-09'}

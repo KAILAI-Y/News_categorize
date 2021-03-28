@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Lindsey Vonn Deserves Gold For This Twitter Troll Shutdown', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/lindsey-vonn-twitter-troll_us_5a7ae4efe4b0d0ef3c0b2fc4', 'short_description': '"High fives buddy."', 'date': '2018-02-07'}

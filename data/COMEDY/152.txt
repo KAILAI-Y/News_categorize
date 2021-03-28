@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Crisis Actor' Alex Jones Gets A Taste Of His Own Medicine In Brilliant Troll", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/alex-jones-crisis-actor_us_5ad04d3be4b077c89ce71563', 'short_description': 'Comedy Central confronts the Infowars host with a stunning accusation.', 'date': '2018-04-13'}

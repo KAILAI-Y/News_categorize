@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Amber Rose Takes Down Trolls Who Called Her 5-Year-Old Son 'Gay'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/amber-rose-son-gay-taylor-swift-trolls_us_5ab4ff30e4b008c9e5f68782', 'short_description': '“Do better for the next generation," the model and activist tells haters.', 'date': '2018-03-23'}

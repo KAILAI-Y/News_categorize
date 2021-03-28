@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Car Crashes Into Crowd On Copacabana Sidewalk, Killing Baby And Injuring 15', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/cobacabana-sidewalk-crash_us_5a6179a6e4b074ce7a06fe52', 'short_description': 'There was no indication that the incident was deliberate.', 'date': '2018-01-19'}

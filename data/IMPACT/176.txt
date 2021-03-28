@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "'They Don't Care About Black People Dying In The Bush'", 'authors': 'Hannah McNeish', 'link': 'https://www.huffingtonpost.com/entry/monkeypox-congo-anne-laudisoit_us_59c95416e4b06ddf45fa51f5', 'short_description': "A disease detective calls out the world's apathy toward forgotten illnesses.", 'date': '2017-10-03'}

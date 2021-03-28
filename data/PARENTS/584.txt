@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Why This Mom Of Four Loves Her 'Jelly Abs And Shriveled Up Skin'", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/why-this-mom-of-four-loves-her-jelly-abs-and-shriveled-up-skin_us_59665a23e4b005b0fdca8fd7', 'short_description': '"What a straight up miracle this is."', 'date': '2017-07-12'}

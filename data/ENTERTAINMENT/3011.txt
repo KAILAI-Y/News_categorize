@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Halle Berry Reveals The One Problem Malia Obama Had As A PA', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/halle-berry-malia-obama-pa_us_59868d5ce4b0cb15b1bef11b', 'short_description': "It's not easy being a production assistant when your dad is the President of the United States.", 'date': '2017-08-06'}

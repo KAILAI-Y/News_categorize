@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'At Least 14 UN Peacekeepers, 5 Congolese Soldiers Killed In Attack', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/congo-attack-un-peacekeepers-killed_us_5a2ab559e4b073789f693cb0', 'short_description': 'Militia groups maintain an active presence in the country.', 'date': '2017-12-08'}

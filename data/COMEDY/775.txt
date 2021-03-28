@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "All Aboard The President Trump Express On 'Jimmy Kimmel Live'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/all-aboard-the-president-trump-express-jimmy-kimmel-live_us_59b2d529e4b0354e4411cea4', 'short_description': 'Faux ad for real train set goes off the rails.', 'date': '2017-09-08'}

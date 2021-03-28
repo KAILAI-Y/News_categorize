@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Bride Busted For DUI On The Way To Her Wedding', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bride-busted-for-dui-on-the-way-to-her-wedding_us_5aa7a212e4b03c9edfaf5b40', 'short_description': '"Till death do we part doesn\'t need any help."', 'date': '2018-03-13'}

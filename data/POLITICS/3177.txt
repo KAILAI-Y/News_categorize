@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Bemoans War Costs As Pence Promises Afghanistan To 'See This Through'", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-war-costs-afghanistan_us_5a3d0667e4b06d1621b3df68', 'short_description': '"It\'s time to start rebuilding our country," the president said.', 'date': '2017-12-22'}

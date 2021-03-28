@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "People Can't Agree On Whether This Voice Is Saying 'Yanny' Or 'Laurel'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/yanny-laurel-bot_us_5afb39cce4b0779345d3bba6', 'short_description': 'The voice is creating division on the internet not seen since that infamous dress.', 'date': '2018-05-15'}

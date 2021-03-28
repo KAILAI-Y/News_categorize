@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's 'Little Adam Schiff' Insult Has People Worried He's 'Losing His Touch'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/trump-insult-little-adam-schiff_us_5a7883aee4b01fe513a5f038', 'short_description': '"Have we exhausted all the bully words in your head?" one Twitter user asked.', 'date': '2018-02-05'}

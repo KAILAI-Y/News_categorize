@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Oscar Isaac On The Possibility Of Poe Being An LGBTQ Character In 'Star Wars'", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/poe-gay-lgbtq-star-wars-oscar-isaac_us_5a280f59e4b0c21176277a2b', 'short_description': "Because who doesn't want a Poe and Finn romance? 💕", 'date': '2017-12-06'}

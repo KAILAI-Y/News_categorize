@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Demi Lovato Has Fans Seeing Double With Her Selena Costume', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/demi-lovato-halloween-selena_us_59f64784e4b03cd20b824ea2', 'short_description': '"Everyone else can go home, Demi Lovato just won Halloween."', 'date': '2017-10-29'}

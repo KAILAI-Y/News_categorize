@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Hey Kids, Michael Bay Is Bringing Us A 'Dora The Explorer' Movie", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/hey-kids-michael-bay-is-bringing-us-a-dora-the-explorer-movie_us_59ef3acfe4b0d14acdcc76bd', 'short_description': "But she'll be a teenager in the live-action adaptation.", 'date': '2017-10-24'}

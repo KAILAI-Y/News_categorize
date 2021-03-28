@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Seth Rogen Says He Smoked Weed In Steven Spielberg's Face", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/seth-rogen-weed-steven-spielberg_us_5ac76089e4b09d0a1192a06d', 'short_description': '"I didn\'t know what to do," the actor said on "Jimmy Kimmel Live!"', 'date': '2018-04-06'}

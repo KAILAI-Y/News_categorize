@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Hilarious Reason Liam Cunningham Hasn't Read The 'Game Of Thrones' Scripts", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/liam-cunningham-game-of-thrones-scripts_us_59d7d226e4b0f6eed3503345', 'short_description': 'Two-step authentication is worse than White Walkers.', 'date': '2017-10-07'}

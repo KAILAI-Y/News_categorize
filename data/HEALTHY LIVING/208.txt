@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Oral HPV Affects More Men Than Women', 'authors': 'Lisa Rapaport, Reuters', 'link': 'https://www.huffingtonpost.com/entry/oral-hpv-affects-more-men-than-women_us_59e62328e4b0a2324d1e252f', 'short_description': 'This explains why throat cancers in men are now more common than cervical cancers in women.', 'date': '2017-10-17'}

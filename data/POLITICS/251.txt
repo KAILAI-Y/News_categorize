@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sarah Huckabee Sanders Berated Staffers Over McCain Leak', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/5-leak-huckabee-sanders-tamtrump-on-mccain-leak_us_5af767ace4b0e57cd9fa17f9', 'short_description': 'And they leaked that too.', 'date': '2018-05-13'}

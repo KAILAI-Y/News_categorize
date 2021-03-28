@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Shania Twain Apologizes After Saying She Would've Voted For Trump", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/shania-twain-donald-trump_us_5add0a51e4b075b631e6ed0e', 'short_description': '"My path will always be one of inclusivity, as my history shows."', 'date': '2018-04-23'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Carrie Fisher Sent A Cow Tongue To Producer Who Sexually Assaulted A Friend', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/carrie-fisher-sexual-harassment-cow-tongue_us_59e540b0e4b0ca9f483a2a90', 'short_description': 'Just another reminder that the world did not deserve Carrie Fisher.', 'date': '2017-10-17'}

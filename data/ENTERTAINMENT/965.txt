@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Amber Tamblyn Criticized For Complaint About Hasidic Jews', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/amber-tamblyn-criticized-for-complaint-about-hasidic-jews-in-her-nabe_us_5a9d5d20e4b0a0ba4ad63e71', 'short_description': 'The actress says people on Twitter are twisting her words.', 'date': '2018-03-05'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Pets Weren’t Forgotten In The Rush To Save People In Harvey's Path", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/pets-safety-hurricane-harvey-texas_us_59a1efa3e4b06d67e33807da', 'short_description': 'Some animals have even been evacuated to safer cities to make room in local shelters.', 'date': '2017-08-27'}

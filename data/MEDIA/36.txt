@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'New York Times Editor Resigns Following Investigation: Staff Email', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/wendell-jamieson-new-york-times_us_5ae77aa7e4b055fd7fcec68d', 'short_description': 'Details about the nature of the investigation were not immediately available.', 'date': '2018-04-30'}

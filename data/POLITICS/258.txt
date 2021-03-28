@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Want To Understand Straight Incels? Talk To This Gay One.', 'authors': 'Michael Hobbes', 'link': 'https://www.huffingtonpost.com/entry/gay-incels_us_5af5c37ae4b0e57cd9f91b97', 'short_description': "Erik's radicalization shows that the incel phenomenon has nothing to do with sex — duh — and everything with entitlement.", 'date': '2018-05-12'}

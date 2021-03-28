@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's 'Fear Of Being Poisoned' Reportedly Fuels His McDonald's Habit", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-mcdonalds-poison_us_5a4d1517e4b06d1621bc91b7', 'short_description': 'He likes "safely premade" food, according to a new tell-all book about the White House.', 'date': '2018-01-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Uber CEO Travis Kalanick Gave Employees 'Sex Rules' Before 2013 Company Party", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/travis-kalanick-uber-miami-party_us_5939dbbde4b0b13f2c68bee6', 'short_description': '“Do not throw large kegs off of tall buildings.”', 'date': '2017-06-09'}

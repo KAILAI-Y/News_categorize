@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Photos From The Scene Of The Deadly Truck Attack In New York City', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/photos-new-york-city-truck-attack_us_59f8e5a5e4b0d1cf6e9131e0', 'short_description': 'Multiple people were killed.', 'date': '2017-10-31'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New York Regulator Asks Deutsche Bank, Others About Kushner Loans', 'authors': 'Karen Freifeld, Reuters', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-loans_us_5a96fd89e4b0e6a52304458d', 'short_description': 'The regulator also asked for information related to other family members.', 'date': '2018-02-28'}

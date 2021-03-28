@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ice Cube Will Still Make His Appearance On Bill Maher This Week', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/ice-cube-bill-maher_us_5935c466e4b0cfcda916dcf0', 'short_description': 'Unlike Sen. Al Franken (D-Minn.), Ice Cube is keeping his scheduled slot.', 'date': '2017-06-06'}

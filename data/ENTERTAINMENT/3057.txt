@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Bask In The Lush 'Call Me By Your Name' Trailer", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/call-me-by-your-name-trailer_us_59807307e4b00bb8ff3978bd', 'short_description': 'Armie Harmie and Timothée Chalamet star in the sterling romance.', 'date': '2017-08-01'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ruff Night! Grammys Hand Out 'Consolation Puppies' To Losers", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/grammys-consolation-puppies_us_5a6e807fe4b01fbbefb2fa98', 'short_description': 'Giving out pizza is SO 2014.', 'date': '2018-01-29'}

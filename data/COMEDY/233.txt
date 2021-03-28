@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Goodman's Angry Rex Tillerson Spews About Being Fired By A 'Moron' On 'SNL'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snl-cold-open-white-house-firings_us_5aaddf11e4b0337adf844f44', 'short_description': "“Call Jurassic Park, 'cause the Rex-y's loose!”", 'date': '2018-03-18'}

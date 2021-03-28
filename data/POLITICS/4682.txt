@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'It’s Been One Month Since The Las Vegas Shooting And Bump Stocks Are Still Legal', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/bump-stocks-congress-las-vegas_us_59f5e721e4b07fdc5fbeb7fa', 'short_description': 'The push for a ban on the devices has stalled in Congress.', 'date': '2017-10-29'}

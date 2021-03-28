@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump: Senate Republicans 'Have Not Done Their Job' On Obamacare", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-health-care_us_59764b6fe4b0a8a40e816022', 'short_description': 'Trump said every Obamacare promise made was "a big, fat, ugly lie."', 'date': '2017-07-24'}

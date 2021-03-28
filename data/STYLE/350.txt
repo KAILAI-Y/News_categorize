@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'James Corden Roasts David Beckham For Matching Outfits With Posh', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/david-beckham-matching-victoria_us_593add0be4b0c5a35c9f03d7', 'short_description': 'Remember the infamous sarong? 👯', 'date': '2017-06-09'}

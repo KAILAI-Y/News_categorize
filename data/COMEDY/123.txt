@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Oliver Bought An Ad On 'Hannity' To Teach Basic Math To Trump", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-donald-trump-iran-deal_us_5add7d00e4b075b631e7346b', 'short_description': 'The catheter cowboy is back with an important message.', 'date': '2018-04-23'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "David Chang's New Show Embraces 'Ugly Delicious' Food", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/david-chang-ugly-delicious_us_5a60c641e4b062a7df0bb16a', 'short_description': 'The restaurateur is exploring food and culture outside of "polished kitchens."', 'date': '2018-01-18'}

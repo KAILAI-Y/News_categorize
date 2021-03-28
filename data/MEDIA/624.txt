@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Ana Navarro On Trump's CNN Tweet: 'He's Going To Get Somebody Killed In The Media'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/anna-navarro-on-trumps-cnn-tweet-hes-going-to-get-somebody-killed-in-the-media_us_5959a686e4b02734df332789', 'short_description': '"Maybe that will stop him."', 'date': '2017-07-03'}

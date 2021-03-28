@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Separate, Unequal And Unacceptable', 'authors': "Jim Mangia, ContributorPresident & CEO of St. John's Well Child and Family Center", 'link': 'https://www.huffingtonpost.com/entry/separate-unequal-and-unacceptable_us_59692ae8e4b022bb9372b17a', 'short_description': 'Access to health care is a fundamental human right', 'date': '2017-07-14'}

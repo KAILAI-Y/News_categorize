@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ousted VA Secretary David Shulkin Calls Washington 'Toxic, Chaotic' In Scathing Op-Ed", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/david-shulkin-oped_us_5abcd55fe4b03e2a5c79c7f2', 'short_description': "His tenure as the lone Democrat in Trump's Cabinet wasn’t without scandal.", 'date': '2018-03-29'}

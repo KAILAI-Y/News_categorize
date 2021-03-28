@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chuck Schumer Calls On New York’s Breakaway Democrats To Rejoin Mainstream Party Caucus', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/senator-chuck-schumer-new-york-idc_us_5a1323b0e4b0c335e9966b2f', 'short_description': 'Activists had asked the U.S. Senate minority leader to speak up.', 'date': '2017-11-20'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'The Totally Made-Up Affliction Affecting 1 In 45 U.S. Presidents', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/temporary-bone-spurs-affect-one-out-of-every-45-us-presidents_us_597a2eaee4b02a8434b4ec0b', 'short_description': '"Symptoms are often described as \'excruciatingly fine.\'"', 'date': '2017-07-27'}

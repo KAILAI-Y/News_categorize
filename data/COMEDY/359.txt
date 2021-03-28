@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Calls Out Hillary Clinton, And He's Not Joking", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-hillary-clinton-harassment_us_5a709a52e4b0ae29f08b58c8', 'short_description': 'The "Daily Show" host condemned Clinton for not firing an adviser accused of harassment.', 'date': '2018-01-30'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': '17 Country Songs With Feminist Messages', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/17-country-songs-with-feminist-messages_us_59f794a1e4b0c0c8e67c2e2c', 'short_description': "These songs by female country artists tackle women's issues and promote their empowerment.", 'date': '2018-03-15'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Donald Trump Admits He's Not A Feminist To The Surprise Of No One", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-admits-hes-not-a-feminist_us_5a6d22e5e4b06e253268257e', 'short_description': 'Piers Morgan tweeted his big breaking news to promote his presidential interview.', 'date': '2018-01-28'}

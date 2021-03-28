@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Norovirus Spreads To Athletes At Winter Olympics', 'authors': 'Jack Tarrant, Reuters', 'link': 'https://www.huffingtonpost.com/entry/norovirus-spreads-to-athletes-at-winter-olympics_us_5a866002e4b05c2bcac94d4b', 'short_description': 'The Swiss team confirmed two confirmed cases among its skiers.', 'date': '2018-02-16'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'James Corden Works At Old Navy To Make Shopping Goofy Again', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/james-corden-works-at-old-navy-to-make-shopping-goofy-again_us_59bbe7c2e4b0edff971b86a6', 'short_description': '"Mannequin down!"', 'date': '2017-09-15'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Al Gore Has The Hottest Climate Change-Themed Pick-Up Lines', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/al-gore-climate-change-pick-up-lines-stephen-colbert_us_597c2cdbe4b02a4ebb759ceb', 'short_description': '“Are you climate change? Because when I look at you, the world disappears."', 'date': '2017-07-29'}

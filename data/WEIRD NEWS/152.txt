@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Fiona The Hippo Predicts Who Will Win The Super Bowl', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/fiona-the-hippo-super-bowl-prediction_us_5a736aade4b0905433b249e4', 'short_description': 'Some tempting lettuce helped make the decision.', 'date': '2018-02-01'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Americans Call On GOP, Democrats To Mix Rosters At Their Big Game', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/congressional-baseball-game-mixed-teams_us_5941ffa0e4b0d3185486f5f7', 'short_description': 'Could united teams help unite America?', 'date': '2017-06-15'}

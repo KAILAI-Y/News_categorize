@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Don't Spend A Cent On Bitcoin Until You See John Oliver's Cryptocurrency Warning", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-bitcoin-cryptocurrency_us_5aa6291be4b01b9b0a3cce82', 'short_description': '"Last Week Tonight" host breaks it all down.', 'date': '2018-03-12'}

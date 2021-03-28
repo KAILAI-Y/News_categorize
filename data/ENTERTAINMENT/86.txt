@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chrissy Teigen, John Legend Announce Name Of Baby Boy With Adorable Photo', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-john-legend-announce-name-of-baby-boy_us_5b01ab64e4b0a046186d3efe', 'short_description': 'Meet Miles Theodore!', 'date': '2018-05-20'}

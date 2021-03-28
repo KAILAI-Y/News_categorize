@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bill Clinton Shares Awkward Puberty Picture For Puerto Rico Relief Campaign', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-clinton-awkward-puberty-photograph-puberme_us_59d5d461e4b0cde45872eb8c', 'short_description': '"Big dreams & even bigger hair."', 'date': '2017-10-05'}

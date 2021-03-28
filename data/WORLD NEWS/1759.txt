@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "China 'Outraged' By U.S. Arms Deal With Taiwan", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/china-reax-us-arms-deal-taiwan_us_59561a2de4b0da2c7322a8b2', 'short_description': 'China’s embassy to the U.S. urged Washington to revoke its “wrong decision” immediately.', 'date': '2017-06-30'}

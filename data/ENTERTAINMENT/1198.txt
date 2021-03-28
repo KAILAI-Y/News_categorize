@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Omarosa Turns On Trump: Wouldn't Vote For Him Again 'In A Million Years'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/omarosa-trump-million-years_us_5a7d0269e4b08dfc93025fc5', 'short_description': 'Former White House insider is done with the president.', 'date': '2018-02-09'}

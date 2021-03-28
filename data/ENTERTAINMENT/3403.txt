@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "You Won't Be Hearing Trump's Name In The New Season Of 'Broad City'", 'authors': 'Jillian Capewell', 'link': 'https://www.huffingtonpost.com/entry/trump-bleeped-broad-city_us_59403ab4e4b003d5948b89b4', 'short_description': "Safe to say he wasn't invited to make a cameo.", 'date': '2017-06-13'}

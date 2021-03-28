@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Commits To NATO Security Clause After Refusing A Few Weeks Ago', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-commits-nato-article-5_us_593af978e4b024026879319f', 'short_description': 'This is the same alliance Trump used to call "obsolete."', 'date': '2017-06-09'}

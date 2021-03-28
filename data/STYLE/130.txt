@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '21 Affordable Holiday Gifts That Look Really Expensive', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/affordable-luxe-gifts_us_5a00bc08e4b0baea26340703', 'short_description': "Our idea of luxury won't break the bank.", 'date': '2017-11-08'}

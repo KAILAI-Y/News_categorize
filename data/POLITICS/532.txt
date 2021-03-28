@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Report: John McCain Tells Son-In-Law To 'Take Care Of Meghan'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/mccain-tells-son-in-law-to-take-care-of-meghan_us_5ae646b5e4b055fd7fcce7a2', 'short_description': 'The six-term senator is back home after his latest surgery.', 'date': '2018-04-30'}

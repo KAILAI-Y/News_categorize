@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Actual Wealthy People Confirm They, Too, Spend Money On Booze And Movies', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/chuck-grassley-estate-tax-booze-movies_us_5a26e046e4b069df71fa297a', 'short_description': 'They also say paying estate tax isn’t a bad thing. Sorry, Chuck Grassley.', 'date': '2017-12-05'}

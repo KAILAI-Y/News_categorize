@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'In Wyoming, A Newly Unionized Newsroom Says Corporate Bosses Are Retaliating', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/casper-star-tribune-retaliation_us_5accade4e4b0337ad1ebc1ba', 'short_description': '“It’s fair to say they’re going to war with us," said one newsroom source.', 'date': '2018-04-10'}

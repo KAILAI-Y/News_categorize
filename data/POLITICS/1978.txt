@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'House Democrats Just Had Their Best Ever January Fundraising Haul', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/dccc-breaks-january-fundraising-record_us_5a8b213ae4b00bc49f47587a', 'short_description': 'The Democratic Congressional Campaign Committee raised $9.3 million.', 'date': '2018-02-20'}

@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "We Talk About Fonts All Wrong. Here's A Better Way.", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/never-use-futura-fonts_us_59dfe171e4b0a52aca16b3a5', 'short_description': '"Never Use Futura" author Douglas Thomas thinks we need to have a more positive conversation about typefaces.', 'date': '2017-10-20'}

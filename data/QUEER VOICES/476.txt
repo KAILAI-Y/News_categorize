@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'New Study Finds 1 Out Of 4 Queer Youth Attempt Suicide', 'authors': 'Lisa Rapaport, Reuters', 'link': 'https://www.huffingtonpost.com/entry/queer-youth-suicide-study_us_5a3a798ee4b0b0e5a79ece04', 'short_description': 'Researchers called the rates a "national public health crisis."', 'date': '2017-12-20'}

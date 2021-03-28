@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Why Hillary Clinton Was 'Shocked' Over Her Campaign Beauty Routine", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-beauty-routine_us_59ca4793e4b0cdc773347b3c', 'short_description': '“I’ve never gotten used to how much effort it takes just to be a woman in the public eye."', 'date': '2017-09-26'}

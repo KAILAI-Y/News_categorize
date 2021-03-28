@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Cops Fired After Blaming Missing Half-Ton Of Pot On Stoner Mice', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/mice-marijuana-argentina-skeptical-judge_us_5acf8ca6e4b016a07e9a3036', 'short_description': 'A judge tried to weed out the truth.', 'date': '2018-04-12'}

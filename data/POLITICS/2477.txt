@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Names Former Astronaut And Oil Geologist To Lead Key Scientific Agency', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/james-reilly-usgs_us_5a6b89e1e4b0ddb658c651e5', 'short_description': 'James Reilly, 63, has been tapped for director of the U.S. Geological Survey.', 'date': '2018-01-26'}

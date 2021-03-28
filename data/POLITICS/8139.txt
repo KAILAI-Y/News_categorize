@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here Is How Senate Republicans Try To Hide The Damage Of Their Repeal Bill', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/senate-republicans-health-care-hidden-damage_us_594dcdc0e4b02734df2a8ab8', 'short_description': 'They push the worst parts into the future.', 'date': '2017-06-24'}

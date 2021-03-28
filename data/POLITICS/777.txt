@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "In Searing Interview, James Comey Unleashes Against 'Morally Unfit' Trump", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/comey-trump_us_5ad3fd37e4b0edca2cbaf7fa', 'short_description': '"I don\'t think he\'s medically unfit to be president. I think he\'s morally unfit to be president."', 'date': '2018-04-16'}

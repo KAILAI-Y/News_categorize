@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Referenced The Wrong Korea At Media Dinner: Report', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-south-korea-north-korea_us_5a9de6aee4b0479c02563b98', 'short_description': '“President Trump did not have a call with the North Koreans," a source told Yonhap News Agency.', 'date': '2018-03-06'}

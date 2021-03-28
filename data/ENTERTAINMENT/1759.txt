@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mindy Kaling's Friends Throw Her A Nora Ephron-Themed Party Celebrating New Baby", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/mindy-kaling-nora-ephron_us_5a3d50d7e4b06d1621b438af', 'short_description': 'The “Mindy Project” creator gave birth to her first child last week.', 'date': '2017-12-22'}

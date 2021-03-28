@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ed Sheeran Deletes And Un-Deletes Twitter Account After Queasy Posts Brought To Light (UPDATE)', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/ed-sheeran-deletes-twitter_us_596df46ce4b0e983c058de22', 'short_description': 'Or was it that "Game of Thrones" cameo that led to his decision?', 'date': '2017-07-18'}

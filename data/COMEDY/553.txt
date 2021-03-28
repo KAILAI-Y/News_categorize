@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Hilariously Imagines The Trump Family's First Thanksgiving", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-thanksgiving-donald-trump-meal_us_5a167c68e4b064948072f1f2', 'short_description': 'As told by Donald Trump Jr.', 'date': '2017-11-23'}

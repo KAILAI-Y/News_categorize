@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Calls For A Law We've Already Had For More Than 20 Years", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-welfare-law_us_594b5630e4b0a3a837bcef3d', 'short_description': "The president's proposal sounds exactly like a law President Clinton signed in 1996.", 'date': '2017-06-22'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Letter From Irma: Hurricane Day September 9', 'authors': 'Madeleine Burnside, ContributorEditor, The Sanity Papers', 'link': 'https://www.huffingtonpost.com/entry/letter-from-irma-hurricane-day-september-9_us_59b6e519e4b0465f75880937', 'short_description': 'The storm is passing.', 'date': '2017-09-11'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Taylor Swift's New Album Cover Has Already Been Given A Hilarious Makeover", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-reputation-photoshop_us_599e7f05e4b05710aa59c196', 'short_description': "She should've known this was trouble.", 'date': '2017-08-24'}

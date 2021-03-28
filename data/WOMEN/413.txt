@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Mayim Bialik Is ‘Very Sorry’ For Her Controversial Weinstein Op-Ed', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/mayim-bialik-harvey-weinstein_us_59e8d3a9e4b0aa3f77dc5763', 'short_description': 'The actress apologized for parts of the op-ed that were interpreted as victim-blaming.', 'date': '2017-10-19'}

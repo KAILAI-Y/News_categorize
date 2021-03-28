@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Paris Plans To Eliminate Gas-Powered Vehicle Sales By 2030', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/paris-gas-car-ban-pollution_us_59e00827e4b0a52aca16bf1f', 'short_description': "And the city's mayor wants to ban the sale of diesel cars by 2024.", 'date': '2017-10-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here’s What Could Happen With Roy Moore And The Alabama Senate Ballot', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-alabama-senate-ballot_us_5a04baa6e4b0937b51108e64', 'short_description': 'Here are four different scenarios for Moore and the Republican Party.', 'date': '2017-11-09'}

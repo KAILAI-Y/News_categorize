@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: The Lights Won't Be Back On In Puerto Rico Until December", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-the-lights-wont-be-back-on-in-puerto-rico-until-december_us_59e5e234e4b0ca9f483aa4a1', 'short_description': 'At the earliest.', 'date': '2017-10-17'}

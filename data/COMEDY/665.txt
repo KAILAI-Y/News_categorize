@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Late Show' Unveils Spoof Halloween-Themed Trump Merch", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-themed-halloween-merchandise_us_59f042ece4b0bf1f8836cb34', 'short_description': 'This fake line will Make America Laugh Again.', 'date': '2017-10-25'}

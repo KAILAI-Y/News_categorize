@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Here's An Exclusive Look At 'The President Show' Christmas Special", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/comedy-central-president-show-christmas-special_us_5a133a26e4b0bfa88c1c420c', 'short_description': "It's the most wonderful, tremendous, luxurious time of the year.", 'date': '2017-11-20'}

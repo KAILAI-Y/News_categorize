@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'These Photos Of A Frozen Niagara Falls Are Pure Icy Magic', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/frozen-niagara-falls-photos_us_5a4fa573e4b01e1a4b14bea3', 'short_description': "Looks like Elsa's been here.", 'date': '2018-01-05'}

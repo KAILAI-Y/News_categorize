@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Papa Tossed! Pizza Chain Orders Up New CEO.', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/papa-johns-fires-papa-new-ceo_us_5a3c2e98e4b06d1621b31b69', 'short_description': "Papa John's has parted with its longtime CEO and founder John Schnatter.", 'date': '2017-12-21'}

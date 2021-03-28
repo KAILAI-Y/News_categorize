@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Okja' Nearly Ended Very Differently", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/okja-ending-bong-joon-ho_us_5956a882e4b02734df324b3e', 'short_description': 'Director Bong Joon-ho originally imagined a more optimistic finale.', 'date': '2017-07-03'}

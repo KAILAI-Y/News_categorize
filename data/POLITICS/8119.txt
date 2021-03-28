@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Special Adviser To POTUS Says 'I Try To Stay Out Of Politics'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-out-of-politics_us_595114f8e4b05c37bb77da25', 'short_description': '“I don’t have a hidden agenda. I make it very clear where I stand on an issue,” Ivanka Trump says.', 'date': '2017-06-26'}

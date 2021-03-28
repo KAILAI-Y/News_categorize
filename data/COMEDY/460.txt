@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Teases New 'Our Cartoon President' TV Show About Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-our-cartoon-president-showtim_us_5a38c6d0e4b0fc99878e5b53', 'short_description': '"No one is safe."', 'date': '2017-12-19'}

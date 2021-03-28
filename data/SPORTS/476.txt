@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Boxing Legend Jake LaMotta, Real-Life 'Raging Bull,' Dead At 95", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/jake-lamotta-raging-bull-dead-dies_us_59c2b938e4b063b253177806', 'short_description': 'Robert De Niro won an Oscar portraying the talent in "Raging Bull."', 'date': '2017-09-20'}

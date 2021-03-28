@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Ryan Phillippe Shares His Love For Women's Leggings From CVS", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/ryan-phillippe-womens-leggings-cvs_us_59bbdca8e4b0edff971b7392', 'short_description': '“XXL ladies leggings from CVS – birthday gift to myself (mad comfortable too)."', 'date': '2017-09-15'}

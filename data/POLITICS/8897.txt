@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Buys Into Putin Plan To Melt The Arctic', 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/putin-trump-arctic-climate-change_us_592ecd03e4b09ec37c309105', 'short_description': 'Russia is moving ahead with drilling plans in the region.', 'date': '2017-05-31'}

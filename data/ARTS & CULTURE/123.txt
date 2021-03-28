@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Michael Bond, Paddington Bear Creator, Dead At 91', 'authors': 'Maddie Crum', 'link': 'https://www.huffingtonpost.com/entry/michael-bond-paddington-bear-creator-dead-at-91_us_5953a8bde4b0da2c732007ee', 'short_description': "The children's book character became iconic in the U.K. and beyond.", 'date': '2017-06-28'}

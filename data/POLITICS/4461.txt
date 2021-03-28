@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "In Solemn Tweets, Obama Calls For 'Concrete Steps' To Tackle 'Weaponry In Our Midst'", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/obama-texas-shooting_us_59ffb363e4b0baea2632b681', 'short_description': '"We grieve with all the families in Sutherland Springs harmed by this act of hatred."', 'date': '2017-11-06'}

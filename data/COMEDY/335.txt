@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Kevin Hart Drops An F-Bomb In Awkward NFL Network Interview', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/kevin-hart-nfl-f-bomb_us_5a7816f2e4b06ee97af49a0f', 'short_description': '"I\'ve been drinking."', 'date': '2018-02-05'}

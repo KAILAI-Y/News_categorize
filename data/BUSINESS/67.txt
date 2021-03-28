@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Steve Wynn's $7.5 Million Settlement Reportedly Involved Paternity Claim", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/steve-wynn-settlement-paternity-claim_us_5a749e1ce4b06ee97af25312', 'short_description': 'Dozens of former employees have accused the casino mogul of sexual harassment.', 'date': '2018-02-02'}

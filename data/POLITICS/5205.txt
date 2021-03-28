@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Memo To The Next Secretary Of State', 'authors': 'Steven Pike, ContributorGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/a-memo-to-the-next-secretary-of-state_us_59d7f858e4b0f6eed3505ffd', 'short_description': "Some suggestions for repairing America's diplomatic machinery.", 'date': '2017-10-06'}

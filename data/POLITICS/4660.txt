@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What You Need To Know About Paul Manafort And Rick Gates', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/paul-manafort-need-to-know_us_59f71872e4b03cd20b82dfcb', 'short_description': 'Both men named in a 12-count indictment had significant roles in the Trump campaign.', 'date': '2017-10-30'}

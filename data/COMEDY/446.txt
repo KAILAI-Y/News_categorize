@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Late Night' Reimagines 'A Christmas Carol' Suitable For The Donald Trump Era", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-christmas-carol_us_5a3e1a6de4b025f99e17451f', 'short_description': "It doesn't end as you'd expect.", 'date': '2017-12-23'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kris Jenner Prank Shopping With Ellen In Her Ear Is Pure Hilarity', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/kris-jenner-prank-shopping-on-ellen_us_59ff17fce4b0c9652fffdecf', 'short_description': "It's Kris Jenner like you've never seen her before.", 'date': '2017-11-05'}

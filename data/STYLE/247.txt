@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Hope Hicks, New White House Communications Director, Used To Be A Child Book Cover Model', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/hope-hicks-book-covers_us_59b82009e4b0edff9716e0ba', 'short_description': 'Her path to the White House has been paved with paperbacks.', 'date': '2017-09-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ann Coulter Fears She'll 'Die Alone' In Self-Pitying Tweet Against Child Tax Credit", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ann-coulter-tweet-sad_us_5a34446de4b040881bea996f', 'short_description': '"We singles live empty lives of quiet desperation and will die alone," she wrote.', 'date': '2017-12-15'}

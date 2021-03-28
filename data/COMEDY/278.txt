@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jeff Daniels Lists All The Virtues America Has Lost Under Donald Trump', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jeff-daniels-donald-trump-stephen-colbert_us_5a99123ce4b089ec3538fea5', 'short_description': 'There are quite a few.', 'date': '2018-03-02'}

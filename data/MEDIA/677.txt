@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Lawrence O'Donnell Says He's Staying At MSNBC", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/lawrence-odonnell-staying-msnbc_us_591bb8b6e4b041db89655096', 'short_description': 'The host says he\'ll be there "for the next couple of years."', 'date': '2017-06-01'}

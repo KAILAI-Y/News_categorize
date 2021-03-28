@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Country Music Star Tim McGraw Collapses On Stage In Ireland', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/tim-mcgraw-collapse_us_5aa61077e4b07047bec7daa8', 'short_description': 'Singer Faith Hill says her husband was suffering from dehydration.', 'date': '2018-03-12'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Samantha Bee Relives Stealing Cars As A 'Delinquent' Teenager", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-cars-stephen-colbert_us_5abb51f4e4b06409775b502d', 'short_description': '“I was taking out of society."', 'date': '2018-03-28'}

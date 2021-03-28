@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "San Francisco Begins Providing Attorneys For Immigrants Who Can't Afford Them", 'authors': 'Michael McLaughlin', 'link': 'https://www.huffingtonpost.com/entry/san-francisco-attorneys-immigrants_us_59270f83e4b061d8f8201ead', 'short_description': "Supporters say it's a vital service as Trump ramps up deportation efforts.", 'date': '2017-05-26'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Sean Spicer Grows Strong, Learns How To Get Along In Spoof Music Video', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-jimmy-fallon-music-video_us_59770571e4b0e201d577ac3c', 'short_description': 'At first he was afraid, he was petrified.', 'date': '2017-07-25'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Here Are 21 Celebrity Coming Out Stories That Moved Us In 2017', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/celebs-coming-out-2017_us_5a467599e4b0b0e5a7a6262d', 'short_description': 'A heartfelt congrats to Rutina, Brandon, Gia ... and more!', 'date': '2017-12-31'}

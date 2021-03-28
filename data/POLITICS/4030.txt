@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "U.S. Labels Rohingya Crisis An 'Ethnic Cleansing'", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/tillerson-rohingya-ethnic-cleansing_us_5a157f76e4b03dec82495312', 'short_description': 'The U.S. is considering targeted sanctions against those responsible.', 'date': '2017-11-22'}

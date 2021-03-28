@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Ignores Revelations About Don Jr.'s Meeting With Russian Lawyer", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-ignores-don-jr-russia-meeting_us_596469f0e4b005b0fdc7d190', 'short_description': 'The silence is deafening.', 'date': '2017-07-11'}

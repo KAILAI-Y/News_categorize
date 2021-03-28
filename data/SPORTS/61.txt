@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Tom Brady Destroys Stephen Colbert In A Beer Chugging Contest', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/tom-brady-beer-stephen-colbert_us_5aa73986e4b009b705d57f07', 'short_description': 'Colbert never had a chance.', 'date': '2018-03-13'}

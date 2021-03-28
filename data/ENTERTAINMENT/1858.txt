@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'You Must Be A Woman To Present The SAG Awards This Year', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/sag-awards-women_us_5a316d57e4b01bdd76596e16', 'short_description': 'Boys, bye.', 'date': '2017-12-13'}

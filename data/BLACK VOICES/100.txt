@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Ellen On Shootings Of Unarmed Black Men: 'As A White Person, I'm Ashamed'", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/ellen_us_5adb6f8ae4b009869bf9e01f', 'short_description': 'Ellen Degeneres and Van Jones had a talk about racism and police violence on "The Ellen Show."', 'date': '2018-04-21'}

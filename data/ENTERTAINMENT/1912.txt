@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Yes, Ashanti Is Still Here And Ready For You To ‘Say Less’', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/ashanti-new-album_us_5a203bc5e4b037b8ea208d5b', 'short_description': 'The singer gets real about her new album, Ja Rule and staying relevant.', 'date': '2017-12-08'}

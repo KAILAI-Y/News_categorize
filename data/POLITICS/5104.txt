@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Nominates John Kelly's Deputy As New Homeland Security Secretary", 'authors': 'Vicky Ward', 'link': 'https://www.huffingtonpost.com/entry/kristjen-nielsen-dhs_us_59de64d8e4b0fdad73b18795', 'short_description': "Kirstjen Nielsen has been central to Kelly's effort to bring order to the White House.", 'date': '2017-10-11'}

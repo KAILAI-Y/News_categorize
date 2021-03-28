@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Don't Worry About Trump The Fascist. Trump The Inept Will Save Us.", 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-fascist-inept_us_5a7a2bade4b06505b4e8ffb8', 'short_description': 'Or so his critics keep hoping.', 'date': '2018-02-07'}

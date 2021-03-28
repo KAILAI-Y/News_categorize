@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Uber Reportedly Picks Dara Khosrowshahi As New CEO', 'authors': 'Heather Somerville, Reuters', 'link': 'https://www.huffingtonpost.com/entry/uber-new-ceo_us_59a38aeae4b05710aa5d5958', 'short_description': 'Dara Khosrowshahi faces a daunting task.', 'date': '2017-08-28'}

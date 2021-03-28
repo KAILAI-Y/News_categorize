@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Congressman Declines To Say Whether Every American Is Entitled To Eat', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/adrian-smith-food-stamps-eat_us_5929b06ce4b053f2d2acc6c2', 'short_description': 'Rep. Adrian Smith (R-Neb.) was asked about proposed food stamp cuts.', 'date': '2017-05-27'}

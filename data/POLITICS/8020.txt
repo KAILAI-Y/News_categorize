@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Repeat A Shockingly Dishonest Argument To Sell Their Health Care Plan', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/gop-health-care-plan_us_5953d624e4b0da2c732067ee', 'short_description': 'Their professed concern over the uninsured rings untrue.', 'date': '2017-06-28'}

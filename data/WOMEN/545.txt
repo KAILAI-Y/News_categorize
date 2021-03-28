@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Halsey On Why Posing In Playboy Doesn't Diminish Her Feminism", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/halsey-on-why-posing-in-playboy-doesnt-diminish-her-feminism_us_599d8a92e4b0d97c4000751a', 'short_description': '"Newsflash. A woman can be multi dimensional."', 'date': '2017-08-23'}

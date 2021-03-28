@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Listen: Trump Records Campaign Robocall For Roy Moore', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-robocall-roy-moore_us_5a2c7d09e4b0a290f0514d86', 'short_description': 'The president is all in for the GOP Alabama Senate candidate.', 'date': '2017-12-10'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "28 Photos Of Women Rallying Around The Globe On International Women's Day", 'authors': 'Alanna Vagianos and Damon Dahlen', 'link': 'https://www.huffingtonpost.com/entry/international-womens-day-protest-photos_us_5aa194b9e4b06d2d289207e1', 'short_description': "Witness the power of women's rage.", 'date': '2018-03-08'}

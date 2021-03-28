@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'New York Daily News Rips NFL Over Anthem Kneeling Ban', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/new-york-daily-news-nfl-flag-cover_us_5b0672dde4b07c4ea104f25d', 'short_description': '"NFL DISHONORS THE FLAG"', 'date': '2018-05-24'}

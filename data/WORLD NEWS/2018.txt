@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '3 Attacks In 3 Months Put Spotlight On Terrorism In The U.K.', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/uk-terror-attack_us_59343388e4b075bff0f4760f', 'short_description': 'The latest violence comes just days before a general election.', 'date': '2017-06-05'}

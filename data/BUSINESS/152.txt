@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'CVS Is Reportedly In Talks To Acquire Aetna', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/cvs-aetna-talks_us_59f2a5d9e4b077d8dfc8b406', 'short_description': "The pharmacy chain's move is likely motivated by concerns Amazon could enter the health care sector.", 'date': '2017-10-27'}

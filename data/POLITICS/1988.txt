@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chelsea Clinton Throws Subtle Shade At Donald Trump Jr. Over India Foreign Policy Speech', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/chelsea-clinton-donald-trump-jr-india_us_5a8bce5ae4b09fc01e02d97c', 'short_description': 'She made her point.', 'date': '2018-02-20'}

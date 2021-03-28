@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Comes Clean: 'I May Owe Donald Trump An Apology'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-donald-trump-apology_us_5afd10bee4b0a59b4e006898', 'short_description': 'The "Jimmy Kimmel Live" host offers a rare mea culpa to the president.', 'date': '2018-05-17'}

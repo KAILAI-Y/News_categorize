@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'LCD Soundsystem’s Gavin Russom Comes Out As Transgender', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/gavin-russom-transgender_us_595e8992e4b0615b9e902dd6', 'short_description': 'The musician opened up about her identity in a candid new interview.', 'date': '2017-07-06'}

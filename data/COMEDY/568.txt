@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Has Perfect Burn For Donald Trump Jr.'s Weightlifting Video", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-has-perfect-burn-for-donald-trump-jrs-weightlifting-video_us_5a0ed8cbe4b0e97dffecd6d3', 'short_description': 'The host will pump you up with this zinger.', 'date': '2017-11-17'}

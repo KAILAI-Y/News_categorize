@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Remembering Tom Petty Through The Years In Photos', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/tom-petty-photos_us_59d26ba4e4b06791bb1225cb', 'short_description': 'Heartbreaking.', 'date': '2017-10-03'}

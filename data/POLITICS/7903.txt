@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Carl Bernstein Slams Trump's 'Malignant' Presidency", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/bernstein-malignant-presidency_us_5958841de4b05c37bb7ee193', 'short_description': 'The "character and capability of this president are called into grave question," notes Watergate journalist.', 'date': '2017-07-02'}

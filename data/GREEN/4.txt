@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'The Agency That Approves Pipelines Is About To Get A Trump-Era Overhaul', 'authors': 'Eoin Higgins', 'link': 'https://www.huffingtonpost.com/entry/ferc-pipelines-trump_us_5a553515e4b0b117f8803d07', 'short_description': "Activists have been fighting with this government entity for years. Now, it's getting revamped.", 'date': '2018-01-10'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '10 Injured As Taxi Hits Pedestrians Near Boston Airport: Police', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/injuries-reported-at-boston-airport_us_595a881ae4b05c37bb7fc97e', 'short_description': 'State police say they believe the incident was not intentional.', 'date': '2017-07-03'}

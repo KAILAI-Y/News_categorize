@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Mark Hamill Lets Stephen Colbert Live Out His ‘Star Wars’ Dream', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-stephen-colbert-cantina_us_5a2baac9e4b0a290f051077b', 'short_description': 'Jealous much?', 'date': '2017-12-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Threatens To Yank FEMA Responders From Hurricane-Ravaged Puerto Rico', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/trump-puerto-rico-fema_us_59df4de8e4b00abf36469922', 'short_description': 'The president took another swipe at the island for its pre-hurricane financial crisis.', 'date': '2017-10-12'}

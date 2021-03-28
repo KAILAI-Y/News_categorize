@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "'The Angriest Librarian' Schools Columnist Over Anti-Library Tweets", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/angriest-librarian-columnist-tweets_us_59f03421e4b0bf1f8836bace', 'short_description': '"First of all, library usage is on the RISE mother*******."', 'date': '2017-10-25'}

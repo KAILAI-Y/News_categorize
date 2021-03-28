@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "White House 'MAGAnomics' Visual Aid Flies Off The Rails", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/maganomics-photoshop-white-boards_us_59718b5ae4b0e79ec198598f', 'short_description': 'How did they not see this coming?', 'date': '2017-07-21'}

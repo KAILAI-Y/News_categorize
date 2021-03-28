@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Eminem Rips NRA In A Rap: 'They Love Their Guns More Than Our Children'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/eminem-rips-nra-in-rap_us_5aa71088e4b087e5aaed1651', 'short_description': '"They control the puppet."', 'date': '2018-03-13'}

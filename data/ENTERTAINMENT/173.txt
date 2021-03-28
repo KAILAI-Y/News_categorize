@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'What To Watch On Hulu That’s New This Week', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/hulu-what-to-watch_us_5af459c6e4b09bb419e5a67e', 'short_description': 'The movie most worth watching has a lot to say about the times we live in.', 'date': '2018-05-12'}

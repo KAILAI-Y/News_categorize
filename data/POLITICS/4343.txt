@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '4 Women Accused Roy Moore Of Sexual Misconduct. GOP Senators Need More Proof.', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-gop-senators-proof_us_5a04ab07e4b03deac08c0e22', 'short_description': 'What would it take, exactly?', 'date': '2017-11-09'}

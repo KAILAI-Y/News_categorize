@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Not Having Paid Sick Leave Can Have Dire Mental Health Consequences', 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/paid-sick-leave-mental-health_us_59c16c23e4b087fdf508b719', 'short_description': '“There’s real stigma attached to taking sick time to care for yourself."', 'date': '2017-09-20'}

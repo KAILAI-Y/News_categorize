@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Talks A Good Game On Guns, But He Hasn’t Actually Pushed For Any Action', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-gun-control-immigration_us_5a95c31ce4b09c872bae8e19', 'short_description': 'And now maybe he’s backtracking, just like he did on the failed immigration bill.', 'date': '2018-02-27'}

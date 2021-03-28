@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Protest Leader Nikol Pashinian Elected Prime Minister Of Armenia', 'authors': 'Margarita Antidze and Hasmik Mkrtchyan, Reuters', 'link': 'https://www.huffingtonpost.com/entry/armenia-prime-minister-election_us_5af17239e4b0c4f193267607', 'short_description': 'Last week, a majority of lawmakers rejected his candidacy.', 'date': '2018-05-08'}

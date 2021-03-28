@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "George W. Bush's Ethics Chief Warns Trump Insiders: People Will Go 'To The Slammer'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/richard-painter-people-going-to-the-slammer_us_5abda079e4b055e50acc78e2', 'short_description': '"The question is who and how high up this is going to reach."', 'date': '2018-03-30'}

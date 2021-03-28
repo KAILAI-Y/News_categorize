@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Thursday's Morning Email: Momentum Grows In Congress For 'Bump Stock' Ban", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/thursdays-morning-email-momentum-grows-in-congress-for-bump-stock-ban_us_59d60e2ce4b0380b6c9a76c0', 'short_description': 'After some Republicans expressed interest.', 'date': '2017-10-05'}

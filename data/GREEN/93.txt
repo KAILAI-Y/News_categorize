@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "It's Not Just Elephants. Trump Rolled Back Regulations On Lion Trophies, Too.", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-lion-hunting-trophies_us_5a0e53ace4b0e97dffec781d', 'short_description': '“The folly that the killing helps lions and elephants is just that ― pure folly."', 'date': '2017-11-17'}

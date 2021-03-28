@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Year Of Nicole Kidman Continues With 'The Killing Of A Sacred Deer' Trailer", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/the-killing-of-a-sacred-deer-trailer_us_59943e68e4b0091416419ad1', 'short_description': 'Kidman and Colin Farrell reunite for the psychological thriller.', 'date': '2017-08-16'}

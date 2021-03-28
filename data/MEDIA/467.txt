@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Newly Published Emails Reveal Journalists Encouraged Alt-Right To Bully Women', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/journalists-alt-right-bully-female_us_59d77fb2e4b046f5ad97a6be', 'short_description': "This includes a former managing editor at Broadly, Vice's women's channel.", 'date': '2017-10-06'}

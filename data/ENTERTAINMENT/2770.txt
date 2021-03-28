@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jay-Z Gets Concert Crowd To Sing Happy Birthday To Beyoncé', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jay-z-gets-concert-crowd-to-sing-happy-birthday-to-beyonc%C3%A9_us_59ad2bb4e4b0b5e530ffbf6a', 'short_description': 'Good vibes in the house.', 'date': '2017-09-04'}

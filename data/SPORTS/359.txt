@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Alabama Player Proposes After Game Because A National Title Isn't Enough", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/alabama-player-proposes-national-championship_us_5a54f1ffe4b0efe47ebd56cd', 'short_description': 'How much winning can a guy do in one night?', 'date': '2018-01-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: Senate GOP STILL Trying To Repeal Obamacare", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-senate-gop-still-trying-to-repeal-obamacare_us_5975d641e4b0e79ec19a8104', 'short_description': "They're still at it.", 'date': '2017-07-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Most Clinton Voters Now Say 'People Like Them' Were Better Off 50 Years Ago", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/clinton-trump-voters-better-worse-huffpost-yougov-poll_us_5aece6e4e4b041fd2d26cb31', 'short_description': "It's a dramatic shift from 2016.", 'date': '2018-05-07'}

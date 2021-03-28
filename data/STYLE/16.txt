@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "12 Cruelty-Free Coats That'll Keep You Warm Without Down And Fur", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/12-cruelty-free-coats-to-keep-you-warm-without-down-and-fur_us_5a562f52e4b03417e874154e', 'short_description': 'Faux for the win.', 'date': '2018-01-10'}

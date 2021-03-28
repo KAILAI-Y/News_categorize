@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Punk Legend Gives 'Nazi Punks F**k Off' An Update Just For Donald Trump", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/nazi-trumps-jello-biafra_us_599f8056e4b06d67e336b7f6', 'short_description': 'The Dead Kennedys classic gets a 2017 twist.', 'date': '2017-08-25'}

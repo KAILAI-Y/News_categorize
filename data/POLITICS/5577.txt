@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Repeats Call For NFL Boycott To Stop Anthem Protests', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-call-for-nfl-boycott_us_59c7af8ce4b06ddf45f879da', 'short_description': 'Under fire, the president characteristically digs in.', 'date': '2017-09-24'}

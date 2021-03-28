@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report: FEC Probing Whether NRA Took Russian Funds For Trump Campaign', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/fec-probing-nra-russia-election-funding_us_5aadab7ee4b0c33361b0f887', 'short_description': 'The NRA spent $21 million backing Trump in the 2016 election.', 'date': '2018-03-18'}

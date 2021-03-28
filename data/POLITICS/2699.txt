@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans Didn't Promise Tax Reform Would Deliver A Smattering Of Bonuses", 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/republicans-tax-reform-bonuses_us_5a5fb152e4b046f0811c9412', 'short_description': 'Bonuses are well and good, but the goal was wage gains over the long term.', 'date': '2018-01-17'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Fire And Fury' Might Be Coming Soon To A Screen Near You", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/fire-and-fury-michael-wolff-tv-show_us_5a5fa4a4e4b054e35176c80e', 'short_description': 'The best-selling tale of palace intrigue will be shopped around to networks.', 'date': '2018-01-17'}

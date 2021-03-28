@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "France's Far-Right Fractures As Le Pen's Right-Hand Man Ousted", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/france-far-right-le-pen_us_59c40fc2e4b063b25318c7d6', 'short_description': 'Florian Philippot has quit the National Front amid a split in the party.', 'date': '2017-09-21'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Very Angry Badger' Seizes Part Of 500-Year-Old Scottish Castle", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/badger-castle-scotland_us_5ad559e6e4b0edca2cbd196c', 'short_description': 'Run away! Run away!', 'date': '2018-04-17'}

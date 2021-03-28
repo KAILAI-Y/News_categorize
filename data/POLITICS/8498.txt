@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Earth To Ivanka Trump: Your Dad Invented Vicious', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-vicious_us_593f343ae4b02402687c582b', 'short_description': 'Twitter is incredulous as the daughter of the man who called Mexican immigrants "rapists" is shocked by ugly politics.', 'date': '2017-06-13'}

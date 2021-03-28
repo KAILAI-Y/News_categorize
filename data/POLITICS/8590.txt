@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Jr. Tells Sean Hannity That The Dow Exonerates His Dad', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-tells-sean-hannity-that-dow-exonerates-his-dad_us_593a6c02e4b0240268782d76', 'short_description': 'The gloating goes off the rails after Comey hearing.', 'date': '2017-06-09'}

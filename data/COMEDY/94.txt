@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trump Savaged Online After John Kelly Reportedly Called Him An ‘Idiot’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-idiot-john-kelly-reaction-twitter_us_5ae7edbfe4b055fd7fcf0951', 'short_description': 'The alleged insult has taken on a life of its own.', 'date': '2018-05-01'}

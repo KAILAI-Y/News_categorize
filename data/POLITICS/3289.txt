@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Disney's Animatronic Trump Seems More Presidential Than The Real Thing", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/disney-world-trump-animatronic_us_5a384ad7e4b0fc99878e3159', 'short_description': 'And, yes, the hands on this Donald seem normal-sized.', 'date': '2017-12-19'}

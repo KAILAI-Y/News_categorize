@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '17 Gorgeous Photos That Celebrate The Bond Between Dads And Kids', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/17-gorgeous-photos-that-celebrate-the-bond-between-dads-and-kids_us_593f028be4b0b13f2c6d60b0', 'short_description': '"Enjoy those precious moments."', 'date': '2017-06-16'}

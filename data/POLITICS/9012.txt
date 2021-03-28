@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Doing The Right Thing Shouldn’t Be This Remarkable', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/politicians-doing-the-right-thing_us_59288529e4b0065b20b698db', 'short_description': "Leaders with integrity are hard to find in 2017. It's not just Donald Trump's fault.", 'date': '2017-05-27'}

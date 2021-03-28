@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Users Blast Donald Trump For Using Hurricane Harvey 'As Political Cover'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-hurricane-harvey-political-cover_us_59a14149e4b05710aa5c662c', 'short_description': '"This guy is such an awful freaking human being."', 'date': '2017-08-26'}

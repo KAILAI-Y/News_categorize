@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'National Anthem Singer Takes A Knee Before Brooklyn Nets Home Opener', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/justine-skye-takes-knee-brooklyn-nets_us_59eafce9e4b0958c46824570', 'short_description': '"We will not be silenced," said singer Justine Skye.', 'date': '2017-10-21'}

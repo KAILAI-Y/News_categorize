@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Epic Bollywood Movie That Sparked Protests, Court Battles And Burnings Opens In India', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/bollywood-padmaavat-protests-india_us_5a69e8b8e4b002283009c8b9', 'short_description': 'The debut of “Padmaavat” set off a new round of discord.', 'date': '2018-01-25'}

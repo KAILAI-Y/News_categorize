@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Rages Against Iran, Pakistan In First Tweets Of 2018', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-iran-pakistan_us_5a4a49f4e4b06d1621b9fc41', 'short_description': "Apparently, tweeting less wasn't one of his New Year's resolutions.", 'date': '2018-01-01'}

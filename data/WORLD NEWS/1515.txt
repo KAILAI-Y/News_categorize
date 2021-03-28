@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Russia Retaliates For Proposed New Sanctions', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/russia-sanctions_us_597b04bce4b02a8434b5add0', 'short_description': 'Lawmakers approved the sanctions bill, but Trump could still veto it.', 'date': '2017-07-28'}

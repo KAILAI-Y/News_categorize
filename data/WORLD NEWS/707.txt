@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Reports: Former Yemeni President Killed Fighting Houthis', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/president-saleh-killed-yemen_us_5a254969e4b03c44072ecb24', 'short_description': 'The country is being ravaged by war.', 'date': '2017-12-04'}

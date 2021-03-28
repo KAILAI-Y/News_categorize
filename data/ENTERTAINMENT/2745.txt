@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Arie Luyendyk Jr. Announced As Next 'Bachelor' In Surprise Twist", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/arie-luyendyk-jr-bachelor-announcement_us_59b1398ee4b0b5e5310404a6', 'short_description': 'Talk about a #TBT from ABC.', 'date': '2017-09-07'}

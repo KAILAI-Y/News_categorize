@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Accuses China Of Allowing Oil Into North Korea', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-china-north-korea_us_5a4520a3e4b0b0e5a7a545c4', 'short_description': '"There will never be a friendly solution to the North Korea problem if this continues to happen," Trump added.', 'date': '2017-12-28'}

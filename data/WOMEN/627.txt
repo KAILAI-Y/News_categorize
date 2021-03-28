@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Of Course The GOP Women Who Opposed ACA Repeal Are Facing A Sexist Backlash', 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/of-course-the-gop-women-who-opposed-aca-repeal-are-facing-a-sexist-backlash_us_596fcebce4b0aa14ea76e760', 'short_description': 'Sigh.', 'date': '2017-07-20'}

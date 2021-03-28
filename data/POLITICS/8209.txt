@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Thousands Gather To Mourn Otto Warmbier At His Former High School', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/otto-warmbier-funeral-ohio_us_594bba3ce4b0312cfb61df57', 'short_description': 'Friends, family and community members lined up in Wyoming, Ohio.', 'date': '2017-06-22'}

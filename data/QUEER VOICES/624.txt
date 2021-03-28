@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Here's Why Twitter Is Blocking 'Bisexual' From Its Search Results", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/twitter-blocks-bisexual-search_us_5a01828fe4b07eb51181d2eb', 'short_description': 'The company apologized and promised a fix.', 'date': '2017-11-07'}

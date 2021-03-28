@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "This Marlene Dietrich Google Doodle Has A Surprise 'Drag Race' Connection", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/marlene-dietrich-google-doodle_us_5a43bebfe4b025f99e1913d8', 'short_description': "The androgynous icon's legacy shines bright on her 116th birthday.", 'date': '2017-12-27'}

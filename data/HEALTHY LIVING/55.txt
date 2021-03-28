@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'What Is Mindful Eating, And How Do You Practice It?', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/mindful-eating_us_5a280365e4b044d1672669b4', 'short_description': 'It seems too good to be true.', 'date': '2017-12-07'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Heather North, Who Voiced Scooby Doo's Daphne, Dies at 71", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/heather-north-scooby-doo-daphne-dies_us_5a3a662de4b025f99e1398ef', 'short_description': 'Her death in California followed a long illness.', 'date': '2017-12-20'}

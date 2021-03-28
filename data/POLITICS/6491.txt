@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congratulations To HuffPost Hill Editor Jared Kushner', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/congratulations-to-huffpost-hill-editor-jared-kushner_us_59974e9ce4b0a2608a6c77fc', 'short_description': 'Treat her well, buddy.', 'date': '2017-08-18'}

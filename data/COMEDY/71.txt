@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Comedian Ken Jeong Rescues Audience Member Suffering From A Seizure', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ken-jeong-saves-audience-member_us_5aefd0b6e4b0ab5c3d670122', 'short_description': 'Jeong, who also happens to be a doctor, initially thought the woman was a heckler.', 'date': '2018-05-07'}

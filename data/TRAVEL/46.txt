@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "First-Class Passenger Tries To Open Emergency Door Mid-Flight, Shouts 'I Am God!'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/passenger-tries-to-open-emergency-door_us_5a9e24d6e4b089ec353e1af7', 'short_description': '“She wasn’t acting right, or normal, from the very beginning."', 'date': '2018-03-06'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'White House Struggled With Asian Leaders Names And Countries At G-20', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/white-house-mixes-up-asian-leaders-countries_us_596276b9e4b02e9bdb0d71bc', 'short_description': 'It’s never a dull moment for White House fact checkers.', 'date': '2017-07-09'}

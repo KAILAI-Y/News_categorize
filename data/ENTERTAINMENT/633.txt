@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Dr. Evil Resurfaces With Wild Claims About Working For Donald Trump', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/dr-evil-donald-trump-tonight-show_us_5ac5a4ace4b0aacd15b84857', 'short_description': "And there's one Trump policy that's too evil -- even for him.", 'date': '2018-04-05'}

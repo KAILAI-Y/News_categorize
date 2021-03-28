@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jake Tapper Mocks Donald Trump's Nickname Fail: 'He's Lost His Ability'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jake-tapper-donald-trump-ellen_us_5adf1b40e4b036e7aeb6365d', 'short_description': '"I used to think his branding skill was amazing."', 'date': '2018-04-24'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Woman Allegedly Blows Up Pee Sample In A 7-Eleven Microwave', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/angelique-sanchez-urine-7-eleven-microwave_us_5aefcf64e4b0c4f19323fd8c', 'short_description': 'The on-duty clerk was pissed.', 'date': '2018-05-07'}

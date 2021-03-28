@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Toys R Us May Shut Down All U.S. Operations, Impacting Thousands Of Workers', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/toys-r-us-liquidation_us_5aa997a4e4b0f4aaa1135781', 'short_description': 'The liquidation could put up to 33,000 U.S. jobs at risk.', 'date': '2018-03-14'}

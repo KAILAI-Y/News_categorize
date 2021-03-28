@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Despite Attacking Renewables, Trump Team Says It Loves All Energy Sources', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/energy-cpac-zinke-perry_us_5a901ab6e4b03b55731b57b9', 'short_description': '"As long as it’s made in America, I’m good with it," Secretary Ryan Zinke said Friday.', 'date': '2018-02-23'}

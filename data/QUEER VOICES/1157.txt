@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'Parks And Rec' Star Natalie Morales Comes Out As Queer", 'authors': 'Noah Michelson', 'link': 'https://www.huffingtonpost.com/entry/natalie-morales-queer_us_5958ecbae4b0da2c7324148b', 'short_description': '“I think it’s important that I tell you that this familiar face you see on your TV is the Q part of LGBTQ."', 'date': '2017-07-02'}

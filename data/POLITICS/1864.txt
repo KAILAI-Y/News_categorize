@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Fundraises Off Parkland Shooting Tragedy, Touts His 'Safer Schools'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-fundraises-off-parkland-school-shooting_us_5a922484e4b03b55731ccea9', 'short_description': 'The newsletter was emailed Friday to supporters.', 'date': '2018-02-25'}

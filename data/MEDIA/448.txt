@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Report: Fox Renewed Bill O'Reilly's Contract After $32 Million Harassment Settlement", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/oreilly-contract-sex-harassment_us_59ebc48ce4b0a484d063b18d', 'short_description': "The network knew of the agreement when it renewed O'Reilly's contract.", 'date': '2017-10-22'}

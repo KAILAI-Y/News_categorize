@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Interior Chief Signs Order To Boost Oil, Gas Development On Federal Lands', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/ryan-zinke-oil-gas_us_595e58c9e4b02e9bdb0af348', 'short_description': 'It\'s the latest move in the Trump administration\'s push for "energy dominance."', 'date': '2017-07-06'}

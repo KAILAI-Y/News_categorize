@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Several Schools Cancel Planned Walkouts Amid Threats Of Violence', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/schools-cancel-walkouts_us_5aa95b7ee4b0f4aaa112f14b', 'short_description': "Most of the threats ended up being illegitimate, but schools weren't taking any chances.", 'date': '2018-03-14'}

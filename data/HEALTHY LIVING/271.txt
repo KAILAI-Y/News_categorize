@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'The Hiking Trip That Helped Me Reconnect With Exercise', 'authors': 'Fiona Tapp', 'link': 'https://www.huffingtonpost.com/entry/group-exercise-better-results_us_598b8f46e4b0d793738c8a9a', 'short_description': "Here's why working out in a group often yields better results.", 'date': '2017-09-29'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jane Fonda Busts Out One Shady Comeback For Lily Tomlin’s Face-Lift Joke', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/jane-fonda-megyn-kelly-face-lift-joke_us_5a5e4ef5e4b03bb8f5a12551', 'short_description': 'Zing!', 'date': '2018-01-17'}

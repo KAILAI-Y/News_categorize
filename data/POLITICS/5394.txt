@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'NFL Mothers To Donald Trump: Put A Stop To The Divisive Language', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/nfl-mothers-letter-donald-trump_us_59cdebede4b06791bb0fa7ed', 'short_description': '"Whoever keeps his mouth and his tongue keeps himself out of trouble."', 'date': '2017-09-29'}

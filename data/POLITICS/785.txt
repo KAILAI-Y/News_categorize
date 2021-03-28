@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Ryan Brushes Off Criticism That He Enabled Trump', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-trump_us_5ad3619ae4b016a07e9d65c2', 'short_description': 'The retiring House speaker wants to be remembered as the man who ushered in tax reform.', 'date': '2018-04-15'}

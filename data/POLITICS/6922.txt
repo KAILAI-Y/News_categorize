@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Can't Win, So He'll Quit", 'authors': 'Barbod Salimi, ContributorPsychologist and Professor at Boston University', 'link': 'https://www.huffingtonpost.com/entry/trump-cant-win-so-hell-quit_us_5983e129e4b0bd82320296a7', 'short_description': '“Winners never quit” is, in this case, going to prove false.', 'date': '2017-08-04'}

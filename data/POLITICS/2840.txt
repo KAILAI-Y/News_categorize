@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Twitter Users Gleefully Troll Steve Bannon Over Breitbart Exit', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-breitbart-twitter-reaction_us_5a55c4d7e4b0d614e48ace77', 'short_description': '"You know Steve Bannon\'s going away card is all-white & [blank inside] like he is."', 'date': '2018-01-10'}

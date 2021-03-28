@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Barack Obama Offers Support For Victims Of Barcelona Attack', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/obama-barcelona-attack_us_5995ec90e4b0e8cc855c27b6', 'short_description': '"Americans will always stand with our Spanish friends," he said.', 'date': '2017-08-17'}

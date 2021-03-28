@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Navy SEAL Killed When Parachute Doesn't Open In Fleet Week Demo", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/navy-seal-killed-when-parachute-doesnt-open-in-fleet-week-demo_us_59288dace4b0df57cbfbc129', 'short_description': 'Navy SEALs "lost a true patriot today."', 'date': '2017-05-29'}

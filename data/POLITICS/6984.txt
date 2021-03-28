@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Dean Heller’s Approval Rating Takes A Hit After Health Care 'Debacle'", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/heller-approval-obamacare_us_5982100fe4b0353fbb346065', 'short_description': "The Nevada senator's shifting stance has angered both liberals and conservatives.", 'date': '2017-08-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'First State Ban On Bump Stocks Takes Effect After Las Vegas Massacre', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/massachusetts-bump-stock-ban_us_5a708397e4b0a52682ffa243', 'short_description': 'Under Massachusetts law, anyone found with one of the devices will face prosecution.', 'date': '2018-02-01'}

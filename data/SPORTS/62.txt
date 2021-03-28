@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "The NCAA Men's Championship Tournament Teams Are Finally Revealed", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-ncaa-mens-championship-tournament-teams-are-finally-revealed_us_5aa1ae50e4b086698a9bf2ca', 'short_description': 'March Madness is officially underway.', 'date': '2018-03-12'}

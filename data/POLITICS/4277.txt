@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Wants To Give Lifelong Judgeship To Lawyer Who Has Never Tried A Case', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/trump-federal-judge-pick-no-trial_us_5a091e73e4b0e37d2f385f17', 'short_description': 'The American Bar Association gave Brett Talley a "not qualified" rating.', 'date': '2017-11-13'}

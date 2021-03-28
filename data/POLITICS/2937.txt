@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Just Called Himself 'A Very Stable Genius'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-pays-himself-a-very-high-compliment_us_5a50c24ce4b01e1a4b155ce0', 'short_description': '"My two greatest assets have been mental stability and being, like, really smart."', 'date': '2018-01-06'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Donald Trump Calls Kathy Griffin ‘Sick’ In Response To Controversial Image', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-responds-kathy-griffin_us_592eb82ee4b0e95ac1955759', 'short_description': '"Kathy Griffin should be ashamed of herself," Trump wrote on Twitter.', 'date': '2017-05-31'}

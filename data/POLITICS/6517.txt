@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'More People Are Happy Working Part Time Since Obamacare', 'authors': 'Arthur Delaney and Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/obamacare-jobs_us_599488e7e4b0acc593e49bbf', 'short_description': 'The Affordable Care Act gave some people the freedom to leave full-time jobs.', 'date': '2017-08-17'}

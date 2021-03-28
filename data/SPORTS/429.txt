@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Dodgers Reach World Series For First Time Since 1988', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/dodgers-reach-world-series_us_59e96d6ae4b0f9d35bc9a522', 'short_description': 'The Los Angeles Dodgers beat the Chicago Cubs 11-1 to clinch the National League Championship Series.', 'date': '2017-10-20'}

@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "United Airlines Misplaces Rapper Schoolboy Q's French Bulldog Pup", 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/united-airlines-misplaces-schoolboy-qs-french-bulldog-puppy_us_596a25f3e4b03389bb17b1b5', 'short_description': 'The artist says his doggy was put on the wrong flight.', 'date': '2017-07-15'}

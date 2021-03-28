@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Lectures America On Values One Year After Being Caught Bragging About Assault', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-values-sexual-assault_us_59e0d471e4b03a7be5801fe5', 'short_description': 'Pot, meet kettle.', 'date': '2017-10-13'}

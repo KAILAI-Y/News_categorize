@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "‘RuPaul’s Drag Race All Stars 3’ Episode 3 Recap: Who Won The Bitchelor's Heart?", 'authors': 'INTO, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/rupauls-drag-race-all-stars-3-episode-3-recap-who_us_5a7de88be4b0a0f48092eb68', 'short_description': 'Good riddance to bad attitude.', 'date': '2018-02-12'}

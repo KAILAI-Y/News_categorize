@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congratulations To Israeli Prime Minister Jared Kushner', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/congratulations-to-israeli-prime-minister-jared-kushner_us_598e1c27e4b09071f699c2af', 'short_description': 'Good luck, Jared!', 'date': '2017-08-11'}

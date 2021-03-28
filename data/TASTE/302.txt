@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Twitter Nails The Funniest Thing About Amazon Purchasing Whole Foods', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/amazon-buying-whole-foods_us_5943dbe7e4b06bb7d2727a20', 'short_description': 'You can probably guess what it is.', 'date': '2017-06-16'}

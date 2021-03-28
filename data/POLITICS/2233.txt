@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Oregon Lawmaker Groped Women At State Capitol, Report Finds', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/oregon-jeff-kruse_us_5a7af7ede4b06505b4e9eeda', 'short_description': "Oregon's governor and House speaker are calling on State Sen. Jeff Kruse (R) to resign.", 'date': '2018-02-07'}

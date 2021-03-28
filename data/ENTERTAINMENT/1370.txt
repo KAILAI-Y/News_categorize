@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Eminem: 'A F**king Turd Would Have Been Better As A President' Than Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/eminem-donald-trump-fan-base_us_5a6c5a18e4b01fbbefb21b17', 'short_description': '“At the end of the day, if I did lose half my fan base, then so be it."', 'date': '2018-01-27'}

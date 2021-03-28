@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'A Photo Campaign To End Period Shame', 'authors': "Michelle Noehren, ContributorWomen's Rights Activist", 'link': 'https://www.huffingtonpost.com/entry/a-photo-campaign-to-end-period-shame_us_5963c8e7e4b0911162fc2e1a', 'short_description': 'Shame thrives on silence.', 'date': '2017-07-10'}

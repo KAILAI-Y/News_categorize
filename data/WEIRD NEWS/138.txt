@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Claw Machine Makes Florida Boy Its Next Victim', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/boy-stuck-claw-machine-florida_us_5a7ca72ee4b044b3821ad0e5', 'short_description': "“He went in, but obviously he couldn't come back out the same way,” said one firefighter.", 'date': '2018-02-08'}

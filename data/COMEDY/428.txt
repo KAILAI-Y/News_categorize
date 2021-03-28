@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Breaks Down Why Oprah Winfrey Is The 'Perfect Opponent' For Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-oprah-winfrey-donald-trump_us_5a5471f1e4b003133ecba02a', 'short_description': '"She\'s everything that he\'s not."', 'date': '2018-01-09'}

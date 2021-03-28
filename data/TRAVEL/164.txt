@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Indian Airline Launches Program To Protect Its Solo Female Fliers', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/women-fliers-india_us_59808708e4b0d6e28a1095eb', 'short_description': 'The program ensures no solo female passengers are given middle seats, and even assists with safe transport.', 'date': '2017-08-01'}

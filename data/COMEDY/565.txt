@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Calls Out Al Franken For 'Horrifying' Groping Photo", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-al-franken-groping-photo_us_5a0e6cd4e4b045cf43708d05', 'short_description': 'The Democratic senator should be held accountable, the late-night host says.', 'date': '2017-11-17'}

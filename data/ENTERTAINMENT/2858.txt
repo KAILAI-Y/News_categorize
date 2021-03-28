@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Defenders' Showrunner Explains Why The Season Was So Short", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-defenders-showrunner-on-why-the-season-was-so-short_us_599f0718e4b06d67e3361056', 'short_description': 'And shares his thoughts on Season 2.', 'date': '2017-08-24'}

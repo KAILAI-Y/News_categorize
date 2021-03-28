@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Mocks Trump For Failing To Stand Up To Putin After 'Rigged' Election Win", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-putin-election_us_5ab1b03ee4b008c9e5f274c6', 'short_description': '"Late Show" host calls out the president for giving Putin an "attaboy."', 'date': '2018-03-21'}

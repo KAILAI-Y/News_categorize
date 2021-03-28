@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Supreme Court Allows Watered-Down Travel Ban To Take Effect For Now', 'authors': 'Willa Frej and Roque Planas', 'link': 'https://www.huffingtonpost.com/entry/supreme-court-travel-ban_us_5950faf3e4b02734df2babaa', 'short_description': "The ban is one of the president's most controversial campaign promises.", 'date': '2017-06-26'}

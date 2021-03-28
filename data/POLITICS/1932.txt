@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Proposes Pay Bonus For Armed Teachers', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/trump-armed-teachers-pay-bonus_us_5a8f0048e4b005bb0fef56dd', 'short_description': "But there's little evidence that more armed security on campus will prevent school shootings.", 'date': '2018-02-22'}

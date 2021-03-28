@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Some Social Conservatives See No Parallels Between Harvey Weinstein And Donald Trump', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/harvey-weinstein-trump-sexual_us_59e11cdae4b04d1d5181d24e', 'short_description': '"I’m willing to give him a pass," one conservative said of the president.', 'date': '2017-10-13'}

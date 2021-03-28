@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Nails Sean Spicer On What A Fact Actually Is', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-jimmy-kimmel_us_59ba113ae4b0edff97194615', 'short_description': 'This is what happens when you try to "disagree with the facts."', 'date': '2017-09-14'}

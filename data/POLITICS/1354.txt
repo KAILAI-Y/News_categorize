@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Stormy Daniels Passed Polygraph Test About Alleged Trump Affair: Report', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/stormy-daniels-lie-detector-test-polygraph_us_5ab1472de4b054d118dd7f12', 'short_description': 'Psychologists are largely skeptical about the accuracy of polygraphs.', 'date': '2018-03-20'}

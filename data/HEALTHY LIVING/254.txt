@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Why Misinformation Travels In The Wake Of Tragedies Like Las Vegas', 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/las-vegas-shooting-rumors_us_59d28970e4b0655781549d7b', 'short_description': 'During an emergent situation, rumors can have social and psychological consequences.', 'date': '2017-10-04'}

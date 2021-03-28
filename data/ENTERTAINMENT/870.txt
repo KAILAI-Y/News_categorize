@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Walking Dead' Fan Notices Hilariously Obvious Pattern", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/walking-dead-fan-notices-hilariously-obvious-pattern_us_5aa33126e4b086698a9de361', 'short_description': 'This is not what the doctor ordered.', 'date': '2018-03-12'}

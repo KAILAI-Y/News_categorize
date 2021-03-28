@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Civil Rights Activist And Comedian Dick Gregory Dead At 84', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/dick-gregory-dead_us_5998f210e4b0e8cc855e19d3', 'short_description': 'The performer, who had marched with Martin Luther King Jr., dedicated his life to the civil rights movement.', 'date': '2017-08-20'}

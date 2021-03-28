@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Supreme Court Agrees To Hear Yet Another Gerrymandering Case', 'authors': 'Lawrence Hurley, Reuters', 'link': 'https://www.huffingtonpost.com/entry/supreme-court-gerrymandering-texas_us_5a59195ee4b0fcbc3a100001', 'short_description': 'It is the latest voting rights dispute taken up by the justices.', 'date': '2018-01-12'}

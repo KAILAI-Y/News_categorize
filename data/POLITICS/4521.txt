@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bowe Bergdahl Avoids Jail In Army Desertion Case', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/bowe-bergdahl-sentenced-army-desertion_us_59fc8901e4b0415a420b4f06', 'short_description': 'The soldier pleaded guilty last month.', 'date': '2017-11-03'}

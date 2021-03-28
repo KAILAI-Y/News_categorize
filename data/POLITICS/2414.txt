@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'In 2016, Scott Pruitt Called Trump A Bully Who Would Abuse The Constitution', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-2016-interview-trump_us_5a709a9fe4b0ae29f08b592b', 'short_description': "The EPA administrator said Tuesday that he doesn't recall making such comments.", 'date': '2018-01-30'}

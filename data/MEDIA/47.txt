@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Joy Reid’s Hacking Claims Look Increasingly Unlikely', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/joy-reid-blog-post-hacking_us_5ae0ae7ee4b02baed1b593b6', 'short_description': 'Only a pretty bizarre course of events would have led to those allegedly "fraudulent" homophobic blog posts.', 'date': '2018-04-26'}

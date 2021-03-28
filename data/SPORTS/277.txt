@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': '15,000 Eggs Delivered To Norwegian Olympic Team After Google Translate Error', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/norway-olympics-team-eggs-google-translate_us_5a7bcdfbe4b08dfc92ffe496', 'short_description': 'Oops.', 'date': '2018-02-08'}

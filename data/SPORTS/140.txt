@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Swiss Skier Joel Gisler Plunges 15 Feet In Brutal Crash During Olympic Halfpipe', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/halfpipe-crash-olympics-joel-gisler_us_5a8bb263e4b09fc01e02c39d', 'short_description': 'Ouch!', 'date': '2018-02-20'}

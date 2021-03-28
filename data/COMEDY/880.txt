@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "If Ghost-Hunting Shows Made A Comeback, 'Ghostbanger' Would Be Must-See TV", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/ghostbanger-justin-lanza_us_59761271e4b0e79ec19ad555', 'short_description': 'Meet Dave Lincotta, an afterlife pickup artist.', 'date': '2017-07-24'}

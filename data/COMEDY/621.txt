@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Alec Baldwin\'s Trump Has A "Plan" For Pardoning Paul Manafort', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snl-skit-baldwin-weinstein_us_59fe883ce4b04cdbeb339fc7', 'short_description': 'Trump also calls Harvey Weinstein an "idiot" in the "SNL" skit.', 'date': '2017-11-05'}

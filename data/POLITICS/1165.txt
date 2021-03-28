@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Lawmaker Says Rumor Swirling That Ryan Will Resign; Speaker's Aide Says Otherwise", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-resignation-rumors_us_5ab97262e4b0decad04d1b2d', 'short_description': 'Ryan\'s spokeswoman denied the claim, saying "the speaker is not resigning."', 'date': '2018-03-27'}

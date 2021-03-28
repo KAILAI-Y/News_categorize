@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ryan Reynolds Gave The Best Nod To The Glory Of 'Wonder Woman'", 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/ryan-reynolds-wonder-woman-instagram_us_5964f00de4b005b0fdc890e4', 'short_description': 'Bow down.', 'date': '2017-07-11'}

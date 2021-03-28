@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trump's Negotiating Skills Are In Full View On 'The President Show'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/trumps-negotiating-skills-are-in-full-view-on-the-president-show_us_593187b7e4b075bff0f2d82b', 'short_description': 'And Mike Pence is a poor, poor caddy.', 'date': '2017-06-02'}

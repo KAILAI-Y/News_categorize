@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Tweeters Barf Over Sweepstakes Prize Of Dinner With Donald Trump', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-dinner-rnc_us_5a92615ce4b01e9e56bc7582', 'short_description': '"This a punishment or a prize?"', 'date': '2018-02-25'}

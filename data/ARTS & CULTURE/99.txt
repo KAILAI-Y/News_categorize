@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'J.K Rowling Burns Trump And Fox With The Power Of Her Tweets (Again)', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/jk-rowling-nukes-trump-fox-with-tweets_us_598b0cd5e4b0d793738bab2d', 'short_description': 'She has no time for this nonsense.', 'date': '2017-08-09'}

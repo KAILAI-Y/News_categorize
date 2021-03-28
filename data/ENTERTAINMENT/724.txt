@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Brie Larson Goes Full Superhero For Intense 'Captain Marvel' Workouts", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/brie-larson-goes-full-superhero-for-captain-marvel-workouts_us_5aba5a14e4b008c9e5fbac2a', 'short_description': 'She plays "one of the universe’s most powerful heroes."', 'date': '2018-03-27'}

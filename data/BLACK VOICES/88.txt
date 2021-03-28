@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Cops Attempt To Unlock Phone Of Man They Killed Using His Finger', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/florida-cops-use-dead-mans-finger-in-attempt-to-unlock-iphone_us_5ae0bcc1e4b02baed1b5ac3a', 'short_description': '"It’s disgusting,” the man\'s fiancee told ABC Action News.', 'date': '2018-04-25'}

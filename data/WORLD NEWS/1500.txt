@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Free Movement Of E.U. Citizens To U.K. Will End In 2019', 'authors': 'Kylie MacLellan, Reuters', 'link': 'https://www.huffingtonpost.com/entry/free-movement-uk-eu-end-2019_us_597f5edfe4b02a8434b8213c', 'short_description': 'Ministers have been squabbling over how to tackle Brexit & immigration.', 'date': '2017-07-31'}

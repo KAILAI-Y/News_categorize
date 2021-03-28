@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Jimmy Kimmel Gets Kids To Tell Their Dads The Worst Thing They've Done", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-kids-tell-dads-worst-thing-theyve-done_us_59437bfee4b0f15cd5ba5ae1', 'short_description': "It's the perfect Father's Day gift!", 'date': '2017-06-16'}

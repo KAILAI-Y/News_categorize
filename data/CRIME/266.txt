@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Florida Man Pleads Guilty To Hate Crime For Phoned In Mosque Threat', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/florida-man-mosque-threat-guilty_us_59ea693ce4b00f08619edc6b', 'short_description': 'Gerald Wallace could face up to 20 years behind bars.', 'date': '2017-10-20'}

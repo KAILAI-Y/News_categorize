@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Ohio Man Threatened Historical Mass Shooting At Las Vegas Casino', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/wei-li-mass-shooting-threat_us_5a131266e4b0aa32975cb89f', 'short_description': 'The suspect faces federal charges after making a series of threats to his estranged wife.', 'date': '2017-11-20'}

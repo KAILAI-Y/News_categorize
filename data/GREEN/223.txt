@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Houston, Bangladesh, And Global Warming', 'authors': 'Dean Baker, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/houston-bangladesh-and-global-warming_us_59ae0423e4b0d0c16bb52732', 'short_description': 'More than 1,000 people across south Asia have died as a result of flooding this summer.', 'date': '2017-09-05'}

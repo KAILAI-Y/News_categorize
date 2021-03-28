@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Huge Fire Erupts At Tomorrowland Festival In Spain, Forces Evacuation Of 22,000 Revelers', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/tomorrowland-fire-spain_us_597dacb4e4b02a4ebb75ef4b', 'short_description': 'Videos show the main stage engulfed in flames.', 'date': '2017-07-30'}

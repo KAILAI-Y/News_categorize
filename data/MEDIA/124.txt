@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Howard Stern’s Blunt Advice For Trump: ‘Get The F**k Out Of There, Man’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/howard-stern-donald-trump_us_5abafc2be4b04a59a312607a', 'short_description': 'The King of All Media warns his old friend to leave D.C.', 'date': '2018-03-28'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republican Congresswoman Receives Threat After Scalise Shooting', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/republican-congresswoman-threatened-baseball-shooting_us_59418976e4b09ad4fbe50dc1', 'short_description': 'The email\'s subject line: "One down, 216 to go..."', 'date': '2017-06-14'}

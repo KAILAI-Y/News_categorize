@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump To Travel To Texas On Tuesday To Survey Damage From Harvey', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-harvey-travel_us_59a33010e4b05710aa5d1351', 'short_description': 'The White House is “coordinating logistics with state and local officials."', 'date': '2017-08-27'}

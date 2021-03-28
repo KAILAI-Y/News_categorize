@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Some Very Good Dogs Are Out Supporting The Women's March", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/dogs-at-womens-march-signs_us_5a63864fe4b0022830033721', 'short_description': '"These have been the worst seven years of my life."', 'date': '2018-01-20'}

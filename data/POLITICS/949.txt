@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Conservative Pollster Sounds The Alarm: GOP Could Lose Both House And Senate', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/gop-midterm-trouble-frank-luntz_us_5acabf01e4b07a3485e5fbf6', 'short_description': '"The Republicans are in deep trouble."', 'date': '2018-04-09'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Gleeful Kate McKinnon Unleashes Her Inner Robert Mueller On 'SNL'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/mckinnon-emerges-as-gleeful-muller_us_5a643090e4b0dc592a0979d8', 'short_description': "He's the pleased cat that swallowed the canary ... with wiretaps.", 'date': '2018-01-21'}

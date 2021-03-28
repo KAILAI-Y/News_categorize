@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Releases Statement For Ramadan That's Largely About Terrorism", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/trump-ramadan-statement_us_59284ea8e4b053f2d2ac22ec', 'short_description': 'The president made no reference to refugees.', 'date': '2017-05-26'}

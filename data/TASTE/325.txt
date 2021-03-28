@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'How 5 Chefs Doctor Up Their Scrambled Eggs', 'authors': 'Bon Appetit, ContributorBon Appetit', 'link': 'https://www.huffingtonpost.com/entry/how-5-chefs-doctor-up-their-scrambled-eggs_us_59302921e4b09e93d79647ea', 'short_description': 'Scrambled eggs, when cooked just right, have a buttery, custardy texture.', 'date': '2017-06-01'}

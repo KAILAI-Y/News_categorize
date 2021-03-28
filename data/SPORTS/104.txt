@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Russian Bobsledder Nadezhda Sergeeva Fails Doping Test', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/nadezhda-sergeeva-doping-russia_us_5a8feba8e4b0ee6416a1eac3', 'short_description': 'A Russian curler had earlier lost his bronze medal over doping charges.', 'date': '2018-02-23'}

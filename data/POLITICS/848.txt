@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The GOP Shadow Race For The Speakership', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/gop-race-speaker-scalise-mccarthy_us_5acea2cae4b0701783ab3149', 'short_description': "It's going to be an interesting seven months.", 'date': '2018-04-12'}

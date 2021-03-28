@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pentagon Distancing Itself From Donald Trump On Qatar', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/pentagon-trump-qatar_us_5937c755e4b0aba888ba14d7', 'short_description': 'The president this week inflamed already-mounting tensions in the Gulf.', 'date': '2017-06-07'}

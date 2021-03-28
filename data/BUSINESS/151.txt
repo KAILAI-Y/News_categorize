@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'The Lack Of Women Leaders Is A National Emergency', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/women-leadership-sexual-harassment_us_59f387cae4b03cd20b818ed1', 'short_description': "Men run everything, and it's enough already. Want to stop sexual harassment? Fix this now.", 'date': '2017-10-28'}

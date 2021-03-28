@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nobody Is Really Sure How Obamacare Enrollment Is Going This Year', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/obamacare-enrollment-health-care-insurance_us_5a0e82cae4b0dd63b1a98cb1', 'short_description': "The early signs look good. It's not clear how much they mean.", 'date': '2017-11-19'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Joseph Gordon-Levitt Inspired Justin Trudeau To Call Himself A Feminist', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/joseph-gordon-levitt-inspired-justin-trudeau-to-call-himself-a-feminist_us_59c3bab9e4b063b2531856c4', 'short_description': 'Another feminist favorite 😍', 'date': '2017-09-21'}

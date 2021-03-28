@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s Ethical Swamp', 'authors': 'Philip Rotner, Contributor@PhilipRotner, Attorney and Columnist', 'link': 'https://www.huffingtonpost.com/entry/trumps-ethical-swamp_us_597b5dade4b0c69ef7052797', 'short_description': 'He said he’d drain it. Instead he brought it into the White House.', 'date': '2017-07-31'}

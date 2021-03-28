@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans Say They Can Fix 'Skinny Repeal' Later. Don't Be So Sure.", 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/republicans-skinny-repeal-health-care_us_59790bcde4b02a4ebb729ca7', 'short_description': 'By the end of this week, it could be too late.', 'date': '2017-07-26'}

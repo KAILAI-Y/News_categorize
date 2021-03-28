@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Late Show' Lists All The Fake Titles That Donald Trump Has Awarded Himself", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-fake-news-awards-spoof_us_5a5f1437e4b096ecfca8c33d', 'short_description': 'Including... "the least racist person you have ever interviewed."', 'date': '2018-01-17'}

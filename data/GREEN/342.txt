@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Leaping Whale Nearly Capsizes New Jersey Fishing Boat', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/humpback-whale-jersey-boat_us_594f129ee4b02734df2acbb0', 'short_description': '"Moby Dick" encounter was "definitely one of the craziest experiences in my life," says Paul Ziolkowski.', 'date': '2017-06-25'}

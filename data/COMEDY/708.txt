@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Mocks 'Good Boy' Rex Tillerson For 'Rolling Over' For Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-rex-tillerson-moron_us_59d7417ee4b072637c43394c', 'short_description': '"I guess when your name is Rex..."', 'date': '2017-10-06'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Hilarious Way John Cleese Treats Donald Trump Supporters Who Walk Out Of His Show', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/john-cleese-donald-trump-supporters_us_5aab8f6ae4b05b2217fdc160', 'short_description': '“Most ‘Python’ fans aren’t Trump fans."', 'date': '2018-03-16'}

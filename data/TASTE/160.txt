@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Domino's And Ford Are Testing Pizza Deliveries With Self-Driving Cars", 'authors': 'Paul Lienert, Reuters', 'link': 'https://www.huffingtonpost.com/entry/ford-teams-with-dominos-on-self-driving-pizza-delivery-test_us_59a6a8bce4b084581a148a30', 'short_description': 'Look out!', 'date': '2017-08-30'}

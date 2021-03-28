@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "5 Things The Polls Show About Donald Trump's First Year", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/donald-trumps-first-year-polls_us_5a636231e4b0dc592a092bab', 'short_description': "On the anniversary of his inauguration, most Americans disapprove of the president's performance.", 'date': '2018-01-20'}

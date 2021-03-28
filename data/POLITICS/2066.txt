@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Votes Down Multiple Bills To Help Dreamers After Veto Threat On Bipartisan Proposal', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/senate-dreamers-trump_us_5a85f40de4b004fc31903ed3', 'short_description': "President Donald Trump's administration rejected multiple bipartisan proposals.", 'date': '2018-02-15'}

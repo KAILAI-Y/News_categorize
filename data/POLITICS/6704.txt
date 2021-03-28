@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here Are A Bunch Of People Donald Trump Has Criticized Instead Of Neo-Nazis', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-nazis_us_59905b9de4b090964297995e', 'short_description': 'The president blamed "many sides" for violence sparked by a white supremacist rally on Saturday.', 'date': '2017-08-13'}

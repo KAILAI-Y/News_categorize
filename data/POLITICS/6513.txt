@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Google's Former Anti-Diversity Employee Has No Case", 'authors': 'Noah Baron, ContributorCivil Rights Attorney', 'link': 'https://www.huffingtonpost.com/entry/google-anti-diversity-employee-has-no-case_us_5994ee5ae4b056a2b0ef0305', 'short_description': 'Damore’s legal options seem limited.', 'date': '2017-08-17'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mr. T Gave Team USA's Olympic Curlers A Fierce Pre-Final Pep Talk", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mr-t-team-usa-curlers-pep-talk_us_5a914089e4b01e9e56bc1ba2', 'short_description': 'And they went on to make sporting history.', 'date': '2018-02-24'}

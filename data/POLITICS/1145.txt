@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Hires Former Disney Channel Star As Press Assistant', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/white-house-hires-former-disney-channel-star-as-press-assistant_us_5abb9cb3e4b04a59a3134a8a', 'short_description': 'Caroline Sunshine starred on the show "Shake It Up."', 'date': '2018-03-28'}

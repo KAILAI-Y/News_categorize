@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Dealing With Chronic Stomach Pain (With A Plane To Catch)', 'authors': 'Emma Taubenfeld, ContributorStudent and Writer', 'link': 'https://www.huffingtonpost.com/entry/plane-to-catch-dealing-with-chronic-stomach-pain_us_595d4c7fe4b085e766b50ff0', 'short_description': 'This is my normal.', 'date': '2017-07-05'}

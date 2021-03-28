@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'The Eiffel Tower Goes Dark To Honor Victims Of Barcelona Attack', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/eiffel-tower-dark-barcelona-attack_us_599606eee4b01f6e801d562f', 'short_description': 'The City of Lights dimmed its iconic monument to show solidarity with Catalonia.', 'date': '2017-08-17'}

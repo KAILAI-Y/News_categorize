@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'NRA Head: More Guns Mean Safer Schools, ‘Completely Ridiculous’ To Think Otherwise', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/wayne-lapierre-nra-cpac_us_5a8edc7ee4b077f5bfec24d1', 'short_description': 'Wayne LaPierre is calling for more "armed security" in schools to prevent shootings.', 'date': '2018-02-22'}

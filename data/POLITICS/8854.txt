@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump To Announce Decision On Global Climate Deal On Thursday', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-climate-thursday_us_592f73e1e4b09ec37c319c1b', 'short_description': 'Reports say he is preparing to pull out of the Paris accord.', 'date': '2017-06-01'}

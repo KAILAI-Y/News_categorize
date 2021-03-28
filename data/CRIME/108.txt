@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Another Gun Just Went Off In A School', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/another-gun-just-went-off-in-a-school_us_5aa7ea76e4b0a09afeae5296', 'short_description': 'There were no injuries. This time.', 'date': '2018-03-13'}

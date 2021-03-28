@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Why Schools Are Flooded With Threats After Mass Shootings', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/schools-threats-mass-shootings_us_5a891db7e4b05c2bcacbc182', 'short_description': 'The arrest of dozens of students since the Florida massacre spotlights a mental health epidemic.', 'date': '2018-02-23'}

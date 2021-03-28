@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Demands Democratic Senator Quit In Saturday Morning Twitter Rant', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-ronny-jackson-jon-tester-tweet_us_5ae46bffe4b02baed1ba9352', 'short_description': '"Not fair, Tester!"', 'date': '2018-04-28'}

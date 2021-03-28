@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'This Manatee Mailbox Has A Flawless Outfit For Every Occasion', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/man-adorably-dresses-up-his-manatee-mailbox-and-people-are-here-for-it_us_5a3aa7dee4b025f99e14100d', 'short_description': "It's hard to miss the sea cow's adorable ensembles.", 'date': '2017-12-20'}

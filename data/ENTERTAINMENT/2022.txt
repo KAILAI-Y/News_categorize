@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Netflix Renews 'Mystery Science Theater 3000' For Another Season", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/netflix-renews-mystery-science-theater-3000-for-another-season_us_5a1c3010e4b064948075d355', 'short_description': "We've never been so excited for terrible movies.", 'date': '2017-11-27'}

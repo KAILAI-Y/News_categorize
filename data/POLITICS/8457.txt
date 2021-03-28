@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bernie Sanders Condemns Shooting At Congressional Baseball Practice', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/sanders-congressional-baseball-shooting_us_59415f96e4b003d5948caed4', 'short_description': "The suspect reportedly supported Sanders' presidential campaign last year.", 'date': '2017-06-14'}

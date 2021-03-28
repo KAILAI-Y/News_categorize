@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Gay Couple Claims Russia Accidentally Recognized Their Marriage', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/russia-gay-marriage-recognized_us_5a6d2495e4b01fbbefb26218', 'short_description': "The newlyweds' joy, however, is likely to be short-lived.", 'date': '2018-01-28'}

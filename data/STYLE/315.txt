@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Beyoncé's Iconic Post-Pregnancy Dress Is Unexpectedly From A Menswear Collection", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/beyonc%C3%A9s-iconic-post-pregnancy-look-was-menswear_us_596cd882e4b0d6341feace3c', 'short_description': 'The designer speaks out.', 'date': '2017-07-17'}

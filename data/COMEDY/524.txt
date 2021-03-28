@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Daily Show' Yule Log Roasts Michael Flynn On An Open Fire", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/michael-flynn-yule-log-lock-her-up-yule-log_us_5a22b26ee4b03350e0b70eef', 'short_description': 'Time to get cozy.', 'date': '2017-12-02'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "We Try Stink Bug-Flavored Jelly Bellys So You Don't Have To", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/stinkbug-jelly-belly-flavor_us_5b048f8ee4b0784cd2af49e5', 'short_description': 'Tastes as good as it sounds (unfortunately).', 'date': '2018-05-22'}

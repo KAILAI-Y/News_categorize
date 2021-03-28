@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Florida's 'Stand Your Ground' Law Linked To Surge In Homicides", 'authors': 'Lisa Rapaport, Reuters', 'link': 'https://www.huffingtonpost.com/entry/floridas-stand-your-ground-law-linked-to-surge-in-homicides_us_59946738e4b04b19336238c4', 'short_description': 'As soon as the law took effect, homicide rates spiked.', 'date': '2017-08-16'}

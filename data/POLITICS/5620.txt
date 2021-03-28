@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Just When You Thought Graham And Cassidy Couldn't Get More Cynical", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/graham-cassidy-bill-medicaid_us_59c51f13e4b06ddf45f76226', 'short_description': 'They are exploiting a problem Republicans created, in order to take away coverage from millions.', 'date': '2017-09-22'}

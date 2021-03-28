@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Says There's Just 1 Thing He's Sure Of When It Comes To Donald Trump", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-showed-up_us_5995127be4b0acc593e5173b', 'short_description': 'The "Late Show" host says he has no doubts anymore.', 'date': '2017-08-17'}

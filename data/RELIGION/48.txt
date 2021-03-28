@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Pope Francis Condemns Spread Of Fake News As Evil', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/pope-francis-condemns-fake-news_us_5a68b76ae4b0dc592a0eaf2e', 'short_description': 'The pope released the message on the Catholic feast day for journalists.', 'date': '2018-01-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Coverage Of Trump’s Big Dumb Body Is Fat With Stupidity', 'authors': 'Travis Waldron', 'link': 'https://www.huffingtonpost.com/entry/trump-health-coverage_us_5a60c127e4b01f3bca59108d', 'short_description': 'The president, it evidently needs to be said, is not a professional athlete.', 'date': '2018-01-18'}

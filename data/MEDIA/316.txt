@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'FCC Plans To Fine Sinclair Over Undisclosed Commercials', 'authors': 'David Shepardson, Reuters', 'link': 'https://www.huffingtonpost.com/entry/fcc-plans-to-fine-sinclair-over-undisclosed-commercials_us_5a341211e4b040881bea4c1e', 'short_description': 'The large fine could bolster critics of the broadcasting behemoth.', 'date': '2017-12-15'}

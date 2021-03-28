@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Kid With Heart Defect Blasts Off 'Into Outer Space' In Sweet Video", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/kid-with-heart-defect-blasts-off-into-outer-space-in-sweet-video_us_59274553e4b0df34c35ac331', 'short_description': "Make-A-Wish helped this Georgia boy's dream come true.", 'date': '2017-05-26'}

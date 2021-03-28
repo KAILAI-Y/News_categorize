@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Don't Lie, You Looked At The Eclipse Just Like Donald Trump Did", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-eclipse_us_599b2d0fe4b0771ecb065bca', 'short_description': 'Yes, he did sneak a peek without his protective glasses.', 'date': '2017-08-21'}

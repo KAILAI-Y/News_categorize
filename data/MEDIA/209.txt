@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Newsweek's Top Editor And Staffers Suddenly Fired", 'authors': "Lydia O'Connor and Maxwell Strachan", 'link': 'https://www.huffingtonpost.com/entry/newsweek-editor-fired_us_5a78ab9fe4b006e74aef095d', 'short_description': 'Staffers suspect the firings may be retaliation for investigations into their own parent company.', 'date': '2018-02-05'}

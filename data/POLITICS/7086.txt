@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Anthony Scaramucci's Wife Filed For Divorce While Pregnant, Reports Say", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/anthony-scaramucci-deidre-ball-divorce_us_597bb23fe4b0da64e879438c', 'short_description': 'Deidre Ball gave birth to a son on Monday.', 'date': '2017-07-30'}

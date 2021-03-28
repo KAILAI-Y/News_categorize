@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kremlin Says No Preparations Yet For Possible Putin-Trump Summit', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-putin-summit_us_5ac22ecbe4b055e50acf2cb8', 'short_description': 'Trump proposed the meeting in a phone call on March 20.', 'date': '2018-04-02'}

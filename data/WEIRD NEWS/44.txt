@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Pets Are 'The 1 Percent' Of Animals", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reddit-shower-thoughts-april-27-2018_us_5ae2fe56e4b02baed1b95cda', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-04-27'}

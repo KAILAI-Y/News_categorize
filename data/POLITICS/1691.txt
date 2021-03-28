@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'It's Fake News!': Congresswoman Who Said Most Mass Shooters Are Democrats Cuts Off Interview", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/claudia-tenney-mass-shootings_us_5a9db09de4b0479c025618a6', 'short_description': '“Bye. Done. It’s ridiculous.”', 'date': '2018-03-05'}

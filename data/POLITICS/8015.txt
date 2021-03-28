@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'In 2010, Obama Defended His Health Care Plan Before The GOP On Live TV. Things Have Changed.', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/obama-trump-health-care-reform_us_5953cf59e4b02734df2f3556', 'short_description': "Meanwhile, Donald Trump reportedly doesn't fully understand his plan.", 'date': '2017-06-28'}

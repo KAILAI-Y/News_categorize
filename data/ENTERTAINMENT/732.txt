@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Steven Spielberg Says Netflix Films Shouldn't Qualify For Oscars", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/steven-spielberg-says-netflix-movies-shouldnt-qualify-for-oscars_us_5ab8b693e4b054d118e47ce3', 'short_description': '"You\'re a TV movie," the 71-year-old legend said.', 'date': '2018-03-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Cites Facebook Executive In 'Fake News' Twitter Rant Over Russian Indictments", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-cites-facebook-ceo_us_5a88b5ace4b004fc3192e995', 'short_description': '"Hard to ignore the vice president of Facebook ads!"', 'date': '2018-02-18'}

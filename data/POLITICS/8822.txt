@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Most Americans Wanted The U.S. To Stay In The Paris Agreement. Will It Matter In 2020?', 'authors': 'Ariel Edwards-Levy and Grace Sparks', 'link': 'https://www.huffingtonpost.com/entry/paris-climate-agreement-polling_us_5931a15de4b02478cb9b182a', 'short_description': 'And more of the latest polling news.', 'date': '2017-06-02'}

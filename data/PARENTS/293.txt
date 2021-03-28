@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Mom's Hilarious Saga Of A Forgotten Poster Board Sums Up Parenting", 'authors': 'Emily McCombs', 'link': 'https://www.huffingtonpost.com/entry/moms-hilarious-saga-of-a-forgotten-poster-board-sums-up-parenting_us_59c3dbb3e4b06f93538d08fa', 'short_description': 'One photo says it all.', 'date': '2017-09-21'}

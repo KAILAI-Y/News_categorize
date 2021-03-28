@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Philippine President's War On Drugs Prompts Police To Kill 32 People In Single Day", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/philippines-deadly-war-on-drugs_us_59941c8ae4b00914164165bb', 'short_description': '“Let’s kill another 32 every day. Maybe we can reduce what ails this country.”', 'date': '2017-08-16'}

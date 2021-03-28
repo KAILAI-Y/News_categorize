@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'More U.S. Schools Are Offering Safe Spaces For LGBTQ Youth', 'authors': 'Lisa Rapaport, Reuters', 'link': 'https://www.huffingtonpost.com/entry/lgbtq-student-policies-us_us_5aa290f0e4b07047bec5b0ab', 'short_description': 'A study finds that school-based practices for LGBTQ students has surged in the past 8 years.', 'date': '2018-03-09'}

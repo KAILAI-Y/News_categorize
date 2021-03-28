@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Did Jeremy Corbyn High-Five The Shadow Foreign Secretary's Boob?", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/jeremy-corbyn-high-fives-boob_us_593a0679e4b0b13f2c68e56d', 'short_description': 'The Brits get awkward.', 'date': '2017-06-09'}

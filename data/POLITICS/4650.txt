@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Manafort And Rick Gates Plead Not Guilty In Federal Court', 'authors': 'Igor Bobic and Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/paul-manafort-not-guilty_us_59f773b1e4b09b5c25683014', 'short_description': 'They are charged with conspiracy and money laundering.', 'date': '2017-10-30'}

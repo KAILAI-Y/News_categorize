@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Velvet Holiday Party Dresses That'll Have You Covered For Party Season", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/velvet-holiday-party-dresses_us_5a1d7bc0e4b071403b29394d', 'short_description': 'Shine bright at your next holiday occasion ✨', 'date': '2017-11-28'}

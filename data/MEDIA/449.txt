@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Jemele Hill Says She Deserved ESPN Suspension "After My Donald Trump Tweets"', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/jemele-hill-deserved-suspension_us_59ebb7c2e4b0958c46827f67', 'short_description': 'But Hill said she\'ll "never take back what I said."', 'date': '2017-10-22'}

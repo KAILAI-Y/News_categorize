@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '22 Tweets About Christmas Shopping That Will Make Parents Laugh', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/tweets-christmas-shopping-parents_us_5a1ef772e4b01edb1a81a9dc', 'short_description': '"Pretty excited to find out which of these toys I completely wasted my money on."', 'date': '2017-11-29'}

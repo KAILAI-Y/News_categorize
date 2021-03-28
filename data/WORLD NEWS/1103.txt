@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Germany Votes In National Election As Merkel Eyes Fourth Term', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/german-election-merkel_us_59c7a752e4b06ddf45f87956', 'short_description': 'Polls show an easy win for the chancellor.', 'date': '2017-09-24'}

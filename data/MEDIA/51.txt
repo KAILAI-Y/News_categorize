@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Joy Reid Doubles Down: Homophobic Posts ‘Hacked,' ‘Fraudulent’", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/joy-reid-homophobic-blog_us_5adf9e1ce4b07560f39654a4', 'short_description': 'This is the second time the MSNBC host has been accused of making homophobic comments on an old blog.', 'date': '2018-04-25'}

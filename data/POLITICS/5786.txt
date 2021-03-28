@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Uses London Tube Attack To Promote Travel Ban', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-london-tube-attack-travel-ban_us_59bbb2b9e4b086432b063755', 'short_description': 'Because of course he did.', 'date': '2017-09-15'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Catalan Leader Fails To Clarify Whether Region Is Declaring Independence', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/catalonia-ultimatum_us_59e4b54ee4b0a52aca19542a', 'short_description': 'Instead, Carles Puigdemont made a “sincere and honest” offer for dialogue.', 'date': '2017-10-16'}

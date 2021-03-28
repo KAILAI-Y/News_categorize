@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "San Juan Mayor Pleads For Help: 'We Need Water!'", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/carmen-yulin-cruz-puerto-rico-we-need-water_us_59da4b51e4b072637c44c6e4', 'short_description': 'FEMA Director Brock Long dismissed her complaints as "political noise."', 'date': '2017-10-08'}

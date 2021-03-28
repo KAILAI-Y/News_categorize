@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Another North Korean Defector Dashed Across The DMZ', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/north-korea-defector_us_5a3bcd69e4b025f99e152e98', 'short_description': "It's historically been known as the most dangerous way to flee to South Korea.", 'date': '2017-12-21'}

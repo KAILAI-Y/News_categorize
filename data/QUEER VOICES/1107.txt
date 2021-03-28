@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Caitlyn Jenner Is Talking About Running For Office', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/caitlyn-jenner-run-california-senate_us_596d0775e4b010d77672fbaa', 'short_description': 'The Olympian and reality star says she’s interested in a senatorial run.', 'date': '2017-07-17'}

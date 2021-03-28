@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Thinks He Knows Where Trump Finds His Cabinet Picks', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-donald-trump-ronny-jackson_us_5ae1a5ace4b055fd7fc8a24b', 'short_description': 'Just click for "thousands of high-paying jobs you shouldn’t be within a 1,000 miles of.”', 'date': '2018-04-26'}

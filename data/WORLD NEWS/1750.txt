@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S. Warship Sails Near Disputed Island In South China Sea', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/us-warship-south-china-sea_us_59591e7ce4b0da2c73242a6e', 'short_description': "The operation was meant to challenge three countries' competing claims over the island.", 'date': '2017-07-02'}

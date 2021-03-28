@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Watch The Rock And Zac Efron Try To Ride A Pink Scooter Together', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/the-rock-zac-efron-scooter_us_5991c0dbe4b090964298b274', 'short_description': 'The new clip is a deleted scene from "Baywatch."', 'date': '2017-08-15'}

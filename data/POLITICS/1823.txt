@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Georgia's Lieutenant Governor Tells Delta To Give NRA Back Its Discounts, Or Else", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/delta-nra-casey-cagel_us_5a94a00fe4b01f65f5997dbb', 'short_description': '"Corporations cannot attack conservatives and expect us not to fight back."', 'date': '2018-02-27'}

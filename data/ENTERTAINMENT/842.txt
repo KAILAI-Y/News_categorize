@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Armie Hammer Shares His Mug Shot From A 2011 Arrest For Weed', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/armie-hammer-mug-shot-arrest_us_5aa91dbbe4b001c8bf15b251', 'short_description': 'Thanks for sharing, Armie.', 'date': '2018-03-14'}

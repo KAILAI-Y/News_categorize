@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "That Pre-Meeting 'Power Pose' Isn't Doing What You Think It's Doing", 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/power-poses-dont-work_us_59b7fd29e4b031cc65cd0f4f', 'short_description': "Here's what to do instead.", 'date': '2017-09-13'}

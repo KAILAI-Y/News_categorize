@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Lance Armstrong's Cameo In A Doping Comedy Is Strange But Fun", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/lance-armstrong-cameo-doping_us_595e9677e4b0d5b458e938d8', 'short_description': 'He\'s essentially the star of "Tour de Pharmacy."', 'date': '2017-07-07'}

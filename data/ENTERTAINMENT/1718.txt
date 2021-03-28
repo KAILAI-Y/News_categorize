@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "John Mayer Apes 'Last Jedi' Shirtless Scene With 'Kylo Ren Challenge'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/john-mayer-kylo-ren-challenge_us_5a4a638fe4b025f99e1cd2b0', 'short_description': 'When posing in pants hiked up past your stomach, attitude is everything.', 'date': '2018-01-01'}

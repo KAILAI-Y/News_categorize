@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Matt Damon Finally Says The Right Thing About Sexual Harassment', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/matt-damon-sexual-harassment_us_5a5e3539e4b03c4189696bdd', 'short_description': 'It took a few tries.', 'date': '2018-01-16'}

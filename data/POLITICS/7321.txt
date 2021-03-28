@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Anthony Scaramucci Deletes Tweets At Odds With Trump, Then Says He's Being Transparent", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/anthony-scaramucci-donald-trump-tweets_us_59739565e4b0e79ec199a75b', 'short_description': 'Seriously?', 'date': '2017-07-22'}

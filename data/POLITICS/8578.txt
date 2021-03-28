@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Top Dem Donor Calls On Lawmakers To Take Up Trump Impeachment', 'authors': 'Sam Stein', 'link': 'https://www.huffingtonpost.com/entry/trump-impeachment-dem-donor_us_593b1863e4b0240268797312', 'short_description': 'The base wants it. Now a big-name funder does too.', 'date': '2017-06-10'}

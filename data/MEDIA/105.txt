@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Tucker Carlson Guest Plugs A Book 'Revered By American White Supremacists'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/mark-steyn-camp-of-the-saints_us_5ac32d25e4b04646b6459bb2', 'short_description': 'Mark Steyn gives a shout-out to a book the SPLC has described as a "racist fantasy."', 'date': '2018-04-03'}

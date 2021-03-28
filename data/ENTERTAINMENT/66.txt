@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ariana Grande Reportedly Dating 'SNL' Star Pete Davidson", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/ariana-grande-pete-davidson_us_5b041eede4b0463cdba61f18', 'short_description': 'Both recently broke it off with their long-term partners.', 'date': '2018-05-22'}

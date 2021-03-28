@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Gus Kenworthy Embraces Prospect Of Making Olympics History', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/gus-kenworthy-gay-olympics_us_5a382497e4b0c65287ab8aa9', 'short_description': "He's poised to become the first openly gay male athlete to compete at the Winter Games.", 'date': '2017-12-19'}

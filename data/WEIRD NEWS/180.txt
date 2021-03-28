@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Alligator And Python Locked In Death Duel On Golf Course', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/alligator-and-python-locked-in-death-duel-on-golf-course_us_5a608199e4b01b82649ce289', 'short_description': 'See you later, alligator?', 'date': '2018-01-18'}

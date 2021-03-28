@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hope For Survivors Dims In Mexico 6 Days After The Earthquake', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mexico-earthquake-survivors_us_59c7a8f4e4b06ddf45f87999', 'short_description': 'The disaster killed over 300 people and toppled dozens of buildings.', 'date': '2017-09-24'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'South Korea Reportedly Bans 36,000 Foreigners From Attending The Olympics', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/winter-olympics-security_us_5a77fe6ce4b06ee97af47281', 'short_description': 'Security is going to be tough at the Winter Games this year.', 'date': '2018-02-05'}

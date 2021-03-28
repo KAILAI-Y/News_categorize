@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mark Ruffalo Accidentally Streamed 'Thor: Ragnarok' From His Pants", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/mark-ruffalo-accidentally-streamed-thor-ragnarok-from-his-pocket_us_59f9d1f4e4b0d1cf6e91d7d2', 'short_description': 'HULK SMASH ... video piracy laws.', 'date': '2017-11-01'}

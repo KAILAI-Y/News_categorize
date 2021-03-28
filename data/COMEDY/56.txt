@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Michelle Wolf Renews Hostilities With Sarah Huckabee Sanders', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/michelle-wolf-sarah-huckabee-sanders-seth-meyers_us_5af3e903e4b0859d11d060c6', 'short_description': '"Every single person loved it."', 'date': '2018-05-10'}

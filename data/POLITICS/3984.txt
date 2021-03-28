@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Welcome To The Class War', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/republican-tax-plan-class-war_us_5a1431dde4b0bfa88c1cfafa', 'short_description': 'Financial capital is people, my friend.', 'date': '2017-11-25'}

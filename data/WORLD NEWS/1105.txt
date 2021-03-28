@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Germany's Far-Right Enters Parliament For First Time Since WW2", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/germany-far-right-afd-election_us_59c7c14ce4b0cdc77331de06', 'short_description': 'The success of the anti-Islam, anti-immigrant AfD party marks a major shift.', 'date': '2017-09-24'}

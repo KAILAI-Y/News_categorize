@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Major Coal Company Pulls Out Of Industry Group, Citing Climate Change Stance', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/coal-company-bhp-billiton-climate-change_us_5a3a55e3e4b025f99e137a14', 'short_description': "And it's threatening to also break ties with the U.S. Chamber of Commerce.", 'date': '2017-12-20'}

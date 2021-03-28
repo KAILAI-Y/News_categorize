@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Oliver: Trump And Giuliani Have Something In Common And It's Gross", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-rudy-giuliani_us_5aefffc2e4b0ab5c3d671785', 'short_description': 'Ewww!', 'date': '2018-05-07'}

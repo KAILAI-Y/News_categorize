@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Says Donald Trump Totally Has A Man Crush On China's President", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-crush-xi_us_5a056e46e4b05673aa58ae47', 'short_description': '“Of course they have good chemistry, they met on XiHarmony."', 'date': '2017-11-10'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Goes To Europe, Trashes U.S. Intelligence Agencies', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-poland-russia_us_595e218de4b0d5b458e84cfc', 'short_description': 'The president will meet with Russian leader Vladimir Putin during his trip.', 'date': '2017-07-06'}

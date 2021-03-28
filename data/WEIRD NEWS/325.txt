@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Geostorm' Taxi Prank Will Make Your Blood Run Cold", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/geostorm-taxi-prank-weather-report-cold_us_59ea0ff8e4b05b4f1c3aecee', 'short_description': '"What the hell?"', 'date': '2017-10-20'}

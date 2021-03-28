@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jennifer Garner Is Returning To TV In Lena Dunham HBO Comedy', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/jennifer-garner-is-returning-to-tv-in-lena-dunham-hbo-comedy_us_5a7c9f53e4b08dfc93017a82', 'short_description': 'The "Alias" star is coming back to the small screen.', 'date': '2018-02-08'}

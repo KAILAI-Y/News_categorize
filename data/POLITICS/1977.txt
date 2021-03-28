@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Could Exacerbate The Teacher Diversity Gap', 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/latinx-teacher-diversity_us_5a8b060ce4b004fc3195429a', 'short_description': 'Some 20,000 teachers rely on DACA.', 'date': '2018-02-20'}

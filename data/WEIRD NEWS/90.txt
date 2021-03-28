@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Punxsutawney Phil Wanted By Police For Bad Weather Forecasting', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/punxsutawney-phil-arrest-warrant_us_5ab964f9e4b0decad04d10bf', 'short_description': 'The groundhog stands accused of deception.', 'date': '2018-03-27'}

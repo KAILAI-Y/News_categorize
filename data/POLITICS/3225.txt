@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Obamacare Plagued Democrats In 2010. The GOP Just Voted For A Bill Even Less Popular.', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/obamacare-democrats-tax-bill-republicans_us_5a3990b7e4b0b0e5a79e0dcf', 'short_description': "Is it a win to pass legislation that most people don't like?", 'date': '2017-12-20'}

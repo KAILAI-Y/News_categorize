@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Bet You Didn't Know Gal Gadot Is Pronounced With A Hard 'T'", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/gal-gadot-is-pronounced-with-a-hard-t_us_592da55de4b053f2d2ae8d2e', 'short_description': 'Let the "Wonder Woman" actress school you on saying her name.', 'date': '2017-05-30'}

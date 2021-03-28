@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Video Shows Man Who Sexually Assaulted 4-Year-Old Get Attacked By Inmate', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/video-shows-man-who-sexually-assaulted-4-year-old-get-attacked-by-inmate_us_5a22e41ae4b0a02abe9187b3', 'short_description': 'He was head-butted several times.', 'date': '2017-12-02'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': '16 Tweets That Define What It Means To Be An Introvert', 'authors': 'Sarah Bourassa', 'link': 'https://www.huffingtonpost.com/entry/introvert-tweets-november_us_5a20610ae4b03c44072c0c62', 'short_description': 'Could these be any more accurate?', 'date': '2017-12-04'}

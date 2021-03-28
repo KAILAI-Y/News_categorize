@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "There's Not Much Time Left To Get Obamacare For 2018", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/affordable-care-act-open-enrollment-ending_us_5a31a891e4b091ca26853702', 'short_description': 'For the majority of Americans, the deadline is Friday.', 'date': '2017-12-14'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Dan Rather Calls Trump's Defense Of Porter A 'Heat-Seeking Missile'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/dan-rather-trump-porter_us_5a7f8f7ee4b08dfc9304c97f', 'short_description': 'Rather wrote in a Facebook post that Trump, too, has been “credibly accused of assault."', 'date': '2018-02-11'}

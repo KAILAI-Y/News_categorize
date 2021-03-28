@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sen. Tammy Duckworth Is Tired Of Always Being The 'First'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/sen-tammy-duckworth-is-tired-of-always-being-first_us_5ace0912e4b09212968db3ee', 'short_description': 'She recently became the first woman to give birth while in the Senate.', 'date': '2018-04-11'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Left Out Of #MeToo, Strippers Fight For More Rights In The Workplace', 'authors': 'Jenavieve Hatch', 'link': 'https://www.huffingtonpost.com/entry/strippers-workplace-protection_us_5a612ee8e4b074ce7a06e4e1', 'short_description': '"You think this is easy?"', 'date': '2018-01-23'}

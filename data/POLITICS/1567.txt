@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Military Parade Planned For Veterans Day — Without Tanks", 'authors': 'Idrees Ali, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trumps-military-parade-planned-for-veterans-day-without-tanks_us_5aa32b3de4b086698a9de33e', 'short_description': 'The parade will cost taxpayers up to $30 million.', 'date': '2018-03-10'}

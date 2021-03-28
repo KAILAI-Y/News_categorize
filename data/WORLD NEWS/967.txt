@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Chilling Report Details Myanmar's Horrific Campaign Against Rohingya Minority", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/myanmar-rohingya-amnesty-report_us_59e5fdcbe4b0a2324d1dcd20', 'short_description': 'More than 530,000 Rohingyas have fled the country in less than two months.', 'date': '2017-10-18'}

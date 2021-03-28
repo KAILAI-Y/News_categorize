@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tom Hardy Made A Hip-Hop Mixtape In The '90s And It's Actually Pretty Dope", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tom-hardy-mixtape_us_5a61c8e7e4b074ce7a073ae0', 'short_description': '"Tom Hardy was already a GOAT but now this, what a guy."', 'date': '2018-01-19'}

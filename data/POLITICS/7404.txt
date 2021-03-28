@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Leaders Offer To Make Obamacare Repeal Bill Slightly Less Awful', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/obamacare-repeal-senate-gop-changes_us_5970c4a4e4b0aa14ea781e3f', 'short_description': "Apparently they hope wavering Republican senators can't do basic math.", 'date': '2017-07-20'}

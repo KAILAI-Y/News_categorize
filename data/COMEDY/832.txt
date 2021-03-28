@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Oliver: 'F**king Idiot' Trump Managed To Screw Up Disavowing Nazis", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-trump-nazis_us_599134aee4b090964297f4b0', 'short_description': '“Nazis are a lot like cats. If they like you, it’s probably because you’re feeding them.”', 'date': '2017-08-14'}

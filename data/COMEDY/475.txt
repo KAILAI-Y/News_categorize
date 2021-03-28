@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Simpsons' Troll Donald Trump With A Crucial Reminder About Puerto Rico", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/simpsons-puerto-rico-trump_us_5a334732e4b040881be92205', 'short_description': 'And an imagined disastrous meeting with Robert Mueller.', 'date': '2017-12-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Stop What You're Doing And Watch Chuck Schumer Bust A Move", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/chuck-schumer-dancing_us_594fc530e4b05c37bb770926', 'short_description': 'We all needed this.', 'date': '2017-06-25'}

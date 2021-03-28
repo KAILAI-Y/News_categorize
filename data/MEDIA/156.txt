@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Australian Columnist Gushes Over Trump, Then Hits Him Where It Hurts', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/miranda-devine-donald-trump_us_5a98e724e4b089ec3538c5fa', 'short_description': "He's really not going to like hearing this.", 'date': '2018-03-02'}

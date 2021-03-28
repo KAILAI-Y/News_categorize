@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Campaign Releases Ad Slamming Dems For 'Utterly Disgraceful' Sitting During SOTU", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-campaign-democrats-attack-ad_us_5a7a3f83e4b0d0ef3c0a7222', 'short_description': '"The Democrats just sat there."', 'date': '2018-02-07'}

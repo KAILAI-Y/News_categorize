@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s War On Truth', 'authors': 'Philip Rotner, Contributor@PhilipRotner, Attorney and Columnist', 'link': 'https://www.huffingtonpost.com/entry/trumps-war-on-truth_us_597367efe4b06b511b02c3bd', 'short_description': 'He is trying to destroy the credibility of everybody who can hold him accountable.', 'date': '2017-07-24'}

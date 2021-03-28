@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Teacher Who Hosted White Nationalist Podcast Submits Resignation', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/teacher-white-nationalist-podcast-resignation_us_5ac3346ce4b00fa46f85c04d', 'short_description': "The school board will vote on accepting Dayanna Volitich's resignation next week.", 'date': '2018-04-03'}

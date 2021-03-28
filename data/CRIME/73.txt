@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "NYPD Releases 911 Transcripts, Footage Of Saheed Vassell's Final Moments", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/nypd-911-footage-saheed-vassell_us_5ac7eb73e4b09d0a1193ce18', 'short_description': 'Police fatally shot Vassell, an unarmed black man, on Wednesday.', 'date': '2018-04-06'}

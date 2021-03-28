@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Carrie's Spending Behavior Caused 'Sex and the City' Writers' Biggest Fight", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/carrie-bradshaw-money_us_59ea12fae4b0df10767ca725', 'short_description': '"People are funny about money."', 'date': '2017-10-20'}

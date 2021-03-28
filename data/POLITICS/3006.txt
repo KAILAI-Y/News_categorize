@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Roy Moore Accuser Is Suing Him For Defamation', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/roy-moore-defamation-lawsuit_us_5a4ea4f1e4b089e14db99b43', 'short_description': 'Leigh Corfman is seeking an apology, not financial compensation.', 'date': '2018-01-04'}

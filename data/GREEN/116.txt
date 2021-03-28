@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Sandy And The Scientists', 'authors': 'Michael Brune, ContributorExecutive Director, Sierra Club', 'link': 'https://www.huffingtonpost.com/entry/sandy-and-the-scientists_us_59f79935e4b094db8e76f7cd', 'short_description': 'The good news is that people in this country are beginning to realize what’s happening.', 'date': '2017-10-30'}

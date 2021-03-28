@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'YouTube Star Austin Jones Faces Child Pornography Charges', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/youtube-singing-star-austin-jones-faces-child-pornography-charges_us_594101bfe4b0d3185485fb0a', 'short_description': "Both counts carry at least a 15-year sentence if he's convicted.", 'date': '2017-06-14'}

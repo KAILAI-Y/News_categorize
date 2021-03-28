@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Food Stamp Plan Would Shift Some Funds From Benefits To Training', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/republican-food-stamp-plan_us_5abaaca4e4b03e2a5c770ce0', 'short_description': 'Almost 1 million people could lose benefits by 2028 under the plan, Democrats say.', 'date': '2018-03-27'}

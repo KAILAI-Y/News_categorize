@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Admit That CEOs And Donors Really Need The Tax Cut Bill To Pass -- Or Else', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/gary-cohn-tax-cut-ceos-donors_us_5a049571e4b0f76b05c4249e', 'short_description': '“The most excited group out there are big CEOs," said Gary Cohn.', 'date': '2017-11-09'}

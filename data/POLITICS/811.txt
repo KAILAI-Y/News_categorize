@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Floated Rejoining Trans-Pacific Partnership, Walked It Back Hours Later: Report', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-trans-pacific-partnership_us_5ad08683e4b016a07e9b644d', 'short_description': 'He withdrew from the TPP three days after entering office.', 'date': '2018-04-13'}

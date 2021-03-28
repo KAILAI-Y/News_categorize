@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Everything You Should Know About The Stock Market', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/stock-market-matters_us_5a7b4964e4b044b38218a49e', 'short_description': 'The market matters, for the wrong reasons.', 'date': '2018-02-07'}

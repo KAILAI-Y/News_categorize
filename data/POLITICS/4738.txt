@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Plan To Address The Opioid Crisis: Tell Kids Drugs Are Bad", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/trump-drugs-just-say-no_us_59f23508e4b07fdc5fbceb4a', 'short_description': 'The president continues to push a stale, ineffective solution to the drug crisis.', 'date': '2017-10-26'}

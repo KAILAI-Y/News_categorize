@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Read Trump's Letter To Kim Jong Un Canceling North Korea Summit", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/read-trumps-letter-to-kim-jong-un-canceling-north-korea-summit_us_5b06d3e7e4b0784cd2b2658c', 'short_description': 'Basically: "It\'s not me, it\'s you."', 'date': '2018-05-24'}

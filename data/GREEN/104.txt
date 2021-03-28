@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'JPMorgan, BlackRock Tout Climate Bona Fides While Funding Amazon Oil Drilling', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/amazon-oil-drilling_us_5a05060fe4b05673aa586549', 'short_description': 'The financial giants are slated to make appearances at the COP23 in Germany next week.', 'date': '2017-11-10'}

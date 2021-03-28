@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Prince Harry And Meghan Markle Are Engaged', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/prince-harry-meghan-markle-engaged_us_5992ff4de4b08a2472776092', 'short_description': 'Harry proposed earlier this month.', 'date': '2017-11-27'}

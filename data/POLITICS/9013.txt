@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Texas Anti-Trans Bathroom Bill May Force A Special Session', 'authors': 'Roque Planas', 'link': 'https://www.huffingtonpost.com/entry/texas-anti-trans-bathroom-bill-may-force-texas-into-special-session_us_59299b06e4b0df57cbfbf42d', 'short_description': 'The state’s lieutenant governor thinks this is a huge priority.', 'date': '2017-05-27'}

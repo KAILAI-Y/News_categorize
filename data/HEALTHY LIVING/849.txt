@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Dads' Brains React Differently To Sons And Daughters", 'authors': 'Cari Nierenberg, Live Science', 'link': 'https://www.huffingtonpost.com/entry/dads-brains-react-differently-to-sons-and-daughters_us_5931a1d9e4b075bff0f3059c', 'short_description': 'Dads sing more to their daughters and roughhouse with their sons.', 'date': '2017-06-02'}

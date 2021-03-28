@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Ryan Had The Worst Reaction Possible To The Comey Testimony', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-comey-testimony_us_593970e2e4b0c5a35c9d1118', 'short_description': 'Did you expect anything less?', 'date': '2017-06-08'}

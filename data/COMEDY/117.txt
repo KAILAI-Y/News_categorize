@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Watch Out Alec Baldwin, These Kids' Donald Trump Impressions Are So On Point", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-children-impressions-jimmy-fallon_us_5ae03d64e4b07be4d4c61e27', 'short_description': 'Nailed it.', 'date': '2018-04-25'}

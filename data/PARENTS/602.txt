@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '4 Old School Ways Of Parenting That Still Hold Up Today', 'authors': 'Tessa A. Adams, ContributorCo-Author, www.familyfootnote.com; Freelance Writer', 'link': 'https://www.huffingtonpost.com/entry/old-school-parenting_us_595f7260e4b0cf3c8e8d57cf', 'short_description': '3. Shake it Off', 'date': '2017-07-07'}

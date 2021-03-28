@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Michigan Police Department Apologizes To Nassar Accuser For Not Believing Her', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/meridian-township-michigan-apology-brianne-randall-gay_us_5a73368ce4b06fa61b4e413d', 'short_description': 'Fourteen years later, Brianne Randall-Gay is getting her due.', 'date': '2018-02-01'}

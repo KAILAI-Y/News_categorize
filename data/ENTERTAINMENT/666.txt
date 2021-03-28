@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Taylor Swift Shuts Down Her Fans Concerned About Hayley Kiyoko Diss', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-shuts-down-fans-hayley-kiyoko-diss_us_5ac275e3e4b09712fec349aa', 'short_description': '"It\'s her right to call out anyone..."', 'date': '2018-04-02'}

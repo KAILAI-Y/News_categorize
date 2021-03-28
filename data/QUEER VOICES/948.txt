@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Yes, Outing Nazis Is Absolutely The Right Thing To Do', 'authors': 'Michelangelo Signorile', 'link': 'https://www.huffingtonpost.com/entry/yes-outing-nazis-is-absolutely-the-right-thing-to-do_us_5996febde4b01f6e801e31e3', 'short_description': 'Exposing the faces of hate is a righteous undertaking.', 'date': '2017-08-18'}

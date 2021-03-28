@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Justice Department Sues To Block AT&T's Merger With Time Warner", 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/doj-att-time-warner-lawsuit_us_5a135c89e4b0bfa88c1c8f0b', 'short_description': 'Their union would create one of the largest media monopolies in U.S. history.', 'date': '2017-11-21'}

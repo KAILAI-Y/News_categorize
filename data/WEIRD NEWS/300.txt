@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Hockey Coach Gives Kids Outrageously Obscene Pep Talk, Gets Canned', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/hockey-coach-obscene-pep-talk_us_5a033651e4b04e96f0c70f20', 'short_description': '"F**k their coaches! F**k their wives!" the coach can be heard telling the children.', 'date': '2017-11-08'}

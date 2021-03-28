@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "John Avildsen, Oscar-Winning Director Of 'Rocky,' Dead At 81", 'authors': 'Will Dunham, Reuters', 'link': 'https://www.huffingtonpost.com/entry/john-avildsen-director-dead-obituary_us_5944ef62e4b06bb7d2735f12', 'short_description': "Avildsen died Friday. His family said he'd been suffering from pancreatic cancer.", 'date': '2017-06-17'}

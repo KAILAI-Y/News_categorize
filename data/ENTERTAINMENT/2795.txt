@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Drew Barrymore To Produce Horror Series Written And Directed By Women', 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/black-rose-anthology-drew-barrymore_us_59a9b9b0e4b0b5e530feb570', 'short_description': 'It will be called "Black Rose Anthology."', 'date': '2017-09-01'}

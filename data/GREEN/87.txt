@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Circus Tiger Shot Dead In Paris After Escaping From Owner', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/circus-tiger-killed-inparis_us_5a189b29e4b0d4906caedda6', 'short_description': 'Activists posted photos of the dead cat and called for a boycott of events that use animals.', 'date': '2017-11-25'}

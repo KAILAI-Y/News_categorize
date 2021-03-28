@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Butterscotch The Clown Goes On 'Conan' To Protest The Film 'It'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/butterscotch-the-clown-goes-on-conan-to-protest-the-film-it_us_59b989cde4b02da0e13eba4e', 'short_description': 'Your order of nightmare fuel is here!', 'date': '2017-09-13'}

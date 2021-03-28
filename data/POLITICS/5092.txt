@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Scandal Of Pentagon Spending', 'authors': 'William D. Hartung, ContributorWriter and Foreign Policy Expert', 'link': 'https://www.huffingtonpost.com/entry/the-scandal-of-pentagon-spending_us_59de3859e4b04fc4e1ea8582', 'short_description': 'Your tax dollars support troops of defense contractor CEOs.', 'date': '2017-10-11'}

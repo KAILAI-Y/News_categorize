@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Harvey Spawns Tornadoes That Devastate Homes Outside Houston', 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/harvey-tornadoes-houston-area_us_59a19589e4b06d67e337f45b', 'short_description': 'At least two counties were struck by tornadoes, ripping apart homes and other buildings.', 'date': '2017-08-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'San Francisco Dances That Far-Right Rally Out Of Town', 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/san-francisco-far-right-rally_us_59a08351e4b0821444c332bf', 'short_description': 'It was a day for MC Hammer, not white supremacists.', 'date': '2017-08-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Americans Split On Whether They'd Side With Trump Against Their Representatives", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/americans-split-trump-representatives_us_59766250e4b0a8a40e81887c', 'short_description': 'And more of the latest polling news.', 'date': '2017-07-25'}

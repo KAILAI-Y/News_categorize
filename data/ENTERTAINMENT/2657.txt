@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Hulu Won Best Drama Series At The Emmys After Years Of Cable And Premium Dominance', 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/hulu-handmaids-tale-best-drama-emmys_us_59b6d3eae4b0349d072ba929', 'short_description': '"The Handmaid\'s Tale" had a night to remember.', 'date': '2017-09-18'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Kevin Durant Says He Won't Visit Donald Trump At The White House As NBA Champ", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/kevin-durant-white-house-wont-visit-trump_us_59965906e4b0a2608a6b69c7', 'short_description': '"I don’t respect who’s in office right now," the MVP said.', 'date': '2017-08-18'}

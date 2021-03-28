@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "A Salute To Edie Windsor's Signature Style", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/edie-windsor-style_us_59b932a4e4b02da0e13e06a3', 'short_description': 'The activist and icon had an unforgettable look.', 'date': '2017-09-13'}

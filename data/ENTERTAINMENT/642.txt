@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ryan Reynolds Jokes About Divorce Rumors — Again — With Help From His Mom', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/ryan-reynolds-jokes-about-divorce-rumors-againwith-help-from-his-mom_us_5ac542f7e4b0aacd15b8177b', 'short_description': '"We’re never splitting."', 'date': '2018-04-04'}

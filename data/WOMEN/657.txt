@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Malala Celebrates High School Graduation, Joins Twitter', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/malala-twitter-high-school_us_595f957be4b0615b9e90e9ed', 'short_description': 'She plans to spend her summer visiting young women around the world.', 'date': '2017-07-07'}

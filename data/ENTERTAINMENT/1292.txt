@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "James Corden's Dad Rapping With Daddy Yankee At Grammys Is Everything", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-dad-grammys_us_5a742e9de4b0905433b2fb10', 'short_description': '"The Late Late Show" host\'s parents had a blast covering backstage goings-on.', 'date': '2018-02-02'}

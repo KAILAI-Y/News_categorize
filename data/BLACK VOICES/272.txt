@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Atlanta Airport Teases 'Black Panther' Fans With Flights To Wakanda", 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/flights-to-wakanda-black-panther_us_5a8dd86ae4b0617d46395e51', 'short_description': 'Our one-way ticket is booked.', 'date': '2018-02-22'}

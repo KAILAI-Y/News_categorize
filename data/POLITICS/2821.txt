@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'War Pay', 'authors': 'William D. Hartung, ContributorWriter and Foreign Policy Expert', 'link': 'https://www.huffingtonpost.com/entry/war-pay_us_5a57ce4de4b0d5c0dd0a62de', 'short_description': 'Another good year for weapons makers is guaranteed.', 'date': '2018-01-11'}

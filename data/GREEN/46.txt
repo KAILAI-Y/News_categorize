@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Some Rich People Put Anti-Bird Spikes On Trees To Protect Fancy Cars From Poo', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/rich-brits-anti-bird-spikes_us_5a39640be4b0c65287accb99', 'short_description': '“It’s a shame to see trees being literally made uninhabitable to birds.”', 'date': '2017-12-19'}

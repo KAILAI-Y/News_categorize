@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Are You A Gamer Who's The Victim Of A Harassment Campaign?", 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/gamer-online-harassment_us_5a5e199de4b0fcbc3a13bb8e', 'short_description': 'We want to talk to you.', 'date': '2018-01-16'}

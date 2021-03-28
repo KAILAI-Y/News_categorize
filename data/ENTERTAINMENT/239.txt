@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here Are The Movies Coming To Netflix This Week', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/good-movies-netflix_us_5af060e5e4b0c4f19324c7b6', 'short_description': 'This low-budget horror flick could be for you.', 'date': '2018-05-07'}

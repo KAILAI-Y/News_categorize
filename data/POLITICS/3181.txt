@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Former CIA Director Brennan Rips Trump's 'Narcissistic, Vengeful' Behavior On UN Vote", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/john-brennan-donald-trump-narcissistic_us_5a3c5f79e4b0b0e5a7a0fb1e', 'short_description': '"He expects blind loyalty and subservience from everyone."', 'date': '2017-12-22'}

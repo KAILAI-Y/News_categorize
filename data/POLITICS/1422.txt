@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republican Food Stamp Plan In Disarray', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/republicans-food-stamps_us_5aabc379e4b0c33361afc925', 'short_description': "It's not clear how Republicans could overcome a Democratic filibuster in the Senate.", 'date': '2018-03-16'}

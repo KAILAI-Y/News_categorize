@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Finds A Fundamental Flaw With Trump Lawyers' Attempt To Stop Book Release", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-donald-trump-book-release-michael-wolff_us_5a4f3c78e4b089e14db9e089', 'short_description': '"I’m buying 20 copies!"', 'date': '2018-01-05'}

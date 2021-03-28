@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Pro-Trump Ad In Times Square Condemns 'Fake News,' Pushes Attack On Clinton", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/ad-times-square-fake-news_us_5a79e386e4b07af4e81e3f05', 'short_description': 'The super PAC that paid for it used to be called Stop Hillary PAC.', 'date': '2018-02-06'}

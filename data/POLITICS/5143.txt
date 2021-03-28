@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Stokes Feud With 'Liddle Bob Corker'", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-bob-corker_us_59dcc30de4b0b34afa5c1f17', 'short_description': 'Trump claimed the powerful GOP senator "was made to sound a fool" for harshly criticizing the president.', 'date': '2017-10-10'}

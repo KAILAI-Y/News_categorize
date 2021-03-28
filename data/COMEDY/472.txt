@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Tonight Show' Turns Beautiful Christmas Poem Into A Trumpian Nightmare", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tonight-show-christmas-trump_us_5a339f33e4b01d429cc7acdd', 'short_description': '"And not a person was working, but especially not me."', 'date': '2017-12-15'}

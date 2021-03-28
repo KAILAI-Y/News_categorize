@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Angela Merkel Says Border Walls Won't Solve Immigration Issues", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/angela-merkel-mexico-border-wall_us_593d676ee4b0b13f2c6b6177', 'short_description': 'The German leader points to history to make her point while visiting Mexico.', 'date': '2017-06-11'}

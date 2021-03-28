@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Julia Roberts And James Corden Act Out Her Movies In Double-Quick Time', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/julia-roberts-james-corden-act-out-her-movies_us_59d5dacae4b0becae80264ec', 'short_description': "Blink and you'll miss some of the funniest scenes.", 'date': '2017-10-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mitt Romney Says He Discussed Secretary Of State Role With Hillary Clinton', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/mitt-romney-hillary-clinton_us_593b0581e4b0240268795512', 'short_description': 'Romney said Clinton encouraged him to take the job if it was offered.', 'date': '2017-06-09'}

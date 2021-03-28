@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Janet Jackson Becomes First Black Woman To Receive Billboard Icon Award', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/janet-jackson-billboard-awards_us_5b02b03ee4b0a046186e05c3', 'short_description': 'She delivered an iconic performance and speech, too.', 'date': '2018-05-21'}

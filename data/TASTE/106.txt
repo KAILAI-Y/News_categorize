@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "This Peanut Butter Sandwich 'Hack' Is Causing Quite A Stir", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/this-peanut-butter-sandwich-hack-is-causing-quite-a-stir_us_59d79c88e4b046f5ad97d92c', 'short_description': 'Most people disagree that it\'s a "hack you never knew you needed."', 'date': '2017-10-06'}

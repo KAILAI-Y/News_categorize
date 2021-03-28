@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Daily Show' Gives Insta-Classic Lesson In How Not To Be A ‘Woke’ White Guy", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-daily-show-sports-woke-white-guy_us_5a452398e4b025f99e1a4413', 'short_description': 'Also in the 2017 sports roundup: Michael Phelps raced a shark!', 'date': '2017-12-28'}

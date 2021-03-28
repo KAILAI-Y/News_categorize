@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': '15 Times Running Water Was No Match For This Crazy Cold Weather', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/photos-cold-winter-2018_us_5a4bfc11e4b025f99e1e3d0c', 'short_description': "It's a bad time to be a fountain.", 'date': '2018-01-02'}

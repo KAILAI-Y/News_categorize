@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Will Not Visit DMZ During Asia Trip Because It's Too 'Cliché'", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-wont-visit-dmz-cliche_us_59f88f49e4b09b5c2569336c', 'short_description': 'Members of his administration have already visited the North-South Korea border.', 'date': '2017-10-31'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ted Cruz Mocked For His Fawning Time Magazine Tribute To Donald Trump', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ted-cruz-donald-trump-time-fawning-praise_us_5ad9892de4b03c426dacef2f', 'short_description': '"One of the most humiliating things ever written."', 'date': '2018-04-20'}

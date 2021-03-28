@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'When Will We Start Expecting Extreme Weather, And Planning For It?', 'authors': 'Rosemary Westwood, ContributorColumnist and Writer', 'link': 'https://www.huffingtonpost.com/entry/when-will-start-expecting-extreme-weather-and-planning_us_59a89085e4b0bef3378cd748', 'short_description': 'We cannot claim surprise any longer.', 'date': '2017-08-31'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Anderson Cooper Ruthlessly Mocks Donald Trump’s Latest Claim About The Media', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/anderson-cooper-donald-trump-media_us_5a56e71ce4b0a300f905c757', 'short_description': 'The CNN host did not hold back.', 'date': '2018-01-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Federal Appeals Court Gives Thumbs-Up To Revised Texas Voter ID Law', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/texas-voter-id-law_us_5ae39606e4b04aa23f232f7f', 'short_description': 'A lower court said the law was still discriminatory.', 'date': '2018-04-27'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Ultimate Provo, Utah, Road Trip Playlist', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-ultimate-provo-utah-road-trip-playlist_us_59e50f3ae4b02a215b324aad', 'short_description': 'Spotify figured out what people in this Western city are listening to.', 'date': '2017-10-17'}

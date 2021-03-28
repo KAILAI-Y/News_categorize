@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Preet Bharara: Paul Manafort May Flip To Avoid A Harsh Sentence', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/preet-manafort-may-flip_us_59ff9145e4b0baea2632b460', 'short_description': 'Loss of liberty can "focus" a man\'s mind, says the former U.S. attorney.', 'date': '2017-11-06'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Julius Caesar' Halted As Protester Storms Stage, Another Screams At 'Nazis'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/julius-caesar-halted_us_59448e0de4b06bb7d2734fad', 'short_description': 'The play came to a temporary stop as security removed the two demonstrators.', 'date': '2017-06-17'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '‘The Simpsons’ Predicted Disney Would Buy Fox Nearly 20 Years Ago', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/the-simpsons-disney-fox_us_5a328cc6e4b091ca2685efdd', 'short_description': 'The beloved animated series is like a freakin’ oracle.', 'date': '2017-12-14'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Can A Drug That Fights Parasites Also Help With Autism?', 'authors': 'Laura Geggel, Live Science', 'link': 'https://www.huffingtonpost.com/entry/can-a-drug-that-fights-parasites-also-help-with-autism_us_5935bd47e4b0099e7fae6641', 'short_description': 'The preliminary results of a small study were encouraging.', 'date': '2017-06-05'}

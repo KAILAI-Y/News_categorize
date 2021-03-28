@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Most Americans Favor Restoring Felons' Voting Rights, But Disagree On How", 'authors': 'Sam Levine and Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/felons-voting-rights-poll_us_5ab2c153e4b008c9e5f3c88a', 'short_description': 'States have taken widely varying approaches.', 'date': '2018-03-21'}

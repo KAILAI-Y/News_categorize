@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Florida Dairy Workers Seen Beating And Kicking Cows In Undercover Video', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/dairy-workers-beating-kicking-cows_us_5a07534ee4b05673aa599ad7', 'short_description': 'The farm previously supplied Publix Super Markets, which has suspended deliveries.', 'date': '2017-11-11'}

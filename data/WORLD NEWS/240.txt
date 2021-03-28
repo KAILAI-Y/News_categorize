@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Angela Merkel Re-Elected As Chancellor For 4th Term', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/angela-merkel-reelected_us_5aa8eab6e4b001c8bf155b50', 'short_description': '"I accept the vote," she said.', 'date': '2018-03-14'}

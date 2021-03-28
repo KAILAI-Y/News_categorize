@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Officer Comforts 93-Year-Old Theft Victim In Heartwarming, Musical Way', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/police-cheers-up-theft-victim-in-best-way_us_5a6331e2e4b002283003197b', 'short_description': '“It truly made me feel good about myself and the job I do."', 'date': '2018-01-20'}

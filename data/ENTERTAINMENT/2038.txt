@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mark Hamill Hints At A Potentially Huge Reveal In 'The Last Jedi'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-last-jedi_us_5a18808de4b0d4906caed36a', 'short_description': "You're his only hope to not spoil it for everyone else.", 'date': '2017-11-24'}

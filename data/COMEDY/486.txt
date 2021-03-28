@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers: Roy Moore Is 'As Unfit For Office' As ‘Colicky Man-Baby' Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-roy-moore_us_5a2f939ce4b0789502832f9b', 'short_description': 'The "Late Night" host also had thoughts about Trump\'s address in Florida.', 'date': '2017-12-12'}

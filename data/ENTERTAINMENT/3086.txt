@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'George Takei Has A Revelation About John McCain And Severus Snape', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/george-takei-john-mccain-sever-snape_us_597b616ee4b0da64e878ea0f', 'short_description': '"Only if Susan Collins is McGonagall and Lisa Murkowski, Mrs Weasley."', 'date': '2017-07-28'}

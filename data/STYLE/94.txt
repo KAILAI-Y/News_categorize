@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Black Friday Subscription Box Deals That'll Make Gifting A Cinch", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/black-friday-subscription-box-deals_us_5a1440f6e4b0c335e9976b6e', 'short_description': "There's a subscription box for that.", 'date': '2017-11-21'}

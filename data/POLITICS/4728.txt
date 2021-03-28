@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s Health Care Tantrum Will Cost Some Families Upwards Of $5,000 Per Year', 'authors': 'Bruce Kozarsky, ContributorWriter', 'link': 'https://www.huffingtonpost.com/entry/trumps-health-care-tantrum-will-cost-families_us_59f24dc1e4b07fdc5fbd0e1b', 'short_description': 'This is a lose-lose-lose decision.', 'date': '2017-10-26'}

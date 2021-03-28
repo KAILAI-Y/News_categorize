@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Magic School Bus' Flies Inside Trump's Body To Confirm 'Excellent' Health", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/magic-school-bus-trump-health_us_5a60bb7ae4b01f3bca590627', 'short_description': '"It\'s so cavernous in here!"', 'date': '2018-01-18'}

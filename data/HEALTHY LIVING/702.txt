@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "The Man Behind The Ice Bucket Challenge Is 'Still Alive,' Despite Death Reports", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/pete-frates-is-still-alive_us_595a31b6e4b02734df336c47', 'short_description': 'Pete Frates, 32, just shared a video of himself listening to Pearl Jam.', 'date': '2017-07-03'}

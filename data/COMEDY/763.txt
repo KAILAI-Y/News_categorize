@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Unleashes The Filthiest Ted Cruz Joke Of All', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-ted-cruz_us_59b8d223e4b0edff971783bb', 'short_description': "The late night host believes the senator's excuse, but not for the reason you think.", 'date': '2017-09-13'}

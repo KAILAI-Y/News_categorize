@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Perplexed As Trump Spouts Off Again About 'Illegal Special Council'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-confounding-comey-tweet_us_5adab2a2e4b089e33c88356c', 'short_description': 'Tweets: Go to bed.', 'date': '2018-04-21'}

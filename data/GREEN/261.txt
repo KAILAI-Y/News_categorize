@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Texans Brace For 'Life-Threatening' Hurricane Harvey To Hit Friday", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/hurricane-harvey-texas-warning_us_599f1a22e4b05710aa5ac63e', 'short_description': 'Harvey strengthened into a Category 2 storm overnight.', 'date': '2017-08-24'}

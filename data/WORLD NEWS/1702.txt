@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "2 Americans Gored On Opening Day Of Pamplona's Running Of The Bulls", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/pamplona-bull-run-spain-2017-3-gored_us_595f478fe4b0615b9e90963a', 'short_description': 'The men, aged 29 and 35, were among three people gored on Friday.', 'date': '2017-07-07'}

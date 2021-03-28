@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'New Yorkers Tell Jimmy Kimmel Their Most Disgusting Subway Stories', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/new-yorkers-subway-stories-kimmel_us_59e9c4b1e4b0df10767c3b73', 'short_description': 'Ugh.', 'date': '2017-10-20'}

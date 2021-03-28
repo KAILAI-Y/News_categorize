@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'LeBron James Rides The New York Subway And Ticks Off A Passenger', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/lebron-james-new-york-subway_us_5a0acba9e4b0b17ffcdffd1f', 'short_description': 'Aggrieved rider James Michael Angelo later explained his "Can you not?" public transit moment.', 'date': '2017-11-14'}

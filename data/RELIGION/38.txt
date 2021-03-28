@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "Christians Wrestle With Billy Graham's Legacy", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/christians-on-twitter-reflect-on-billy-grahams-influence-and-legacy_us_5a8dc4afe4b00a30a251fab3', 'short_description': '"An imperfect but devoted servant whose preaching pointed so many to Jesus."', 'date': '2018-02-21'}

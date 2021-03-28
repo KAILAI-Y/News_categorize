@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Casey Affleck Is Skipping The Oscars Amid #MeToo Backlash', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/casey-affleck-is-skipping-the-oscars-to-avoid-metoo-backlash_us_5a6a3c27e4b06e253265ce90', 'short_description': 'Two women have previously accused the actor of sexual harassment.', 'date': '2018-01-25'}

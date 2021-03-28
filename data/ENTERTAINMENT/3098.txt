@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Oh Boy, Abbi Jacobson And Matt Groening Are Making A New Netflix Show', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/matt-groening-netflix-abbi-jacobson_us_59779f74e4b0c95f375f6d07', 'short_description': 'If it\'s even half as good as "Broad City" or "The Simpsons," we\'re in.', 'date': '2017-07-25'}

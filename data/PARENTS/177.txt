@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "I'm Teaching My Boys That When Somebody Says 'Stop,' You Stop", 'authors': 'Motherwell, ContributorTelling all sides of the parenting story', 'link': 'https://www.huffingtonpost.com/entry/when-somebody-says-stop-you-stop_us_59eda2afe4b092f9f2419395', 'short_description': 'It’s not easy to enforce with young kids.', 'date': '2017-10-23'}

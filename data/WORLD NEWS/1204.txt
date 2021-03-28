@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hundreds Of Thousands Rally For Catalan Independence From Spain', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/catalonia-independence-rally_us_59b6bb17e4b06e4604a22f0a', 'short_description': 'The massive rally filled the streets of central Barcelona.', 'date': '2017-09-11'}

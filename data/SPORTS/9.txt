@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': '$18 Derby Day Bet Wins Thrilled Texas Woman $1.23 Million', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/texan-wins-big-with-kentucky-derby-day-bet_us_5af108a9e4b0c4f193260254', 'short_description': 'It was like a "mini-lotto," says the Pick 5 winner.', 'date': '2018-05-08'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'CAUGHT ON CAMERA: Truck Collision Sets Off Massive Explosion On Chinese Expressway', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/truck-explosion-china-video_us_597466e4e4b09e5f6ccfd4c1', 'short_description': 'Incredibly, no one was injured in the blast.', 'date': '2017-07-23'}

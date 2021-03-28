@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Latest North Korea Threat Could Have 'Apocalyptic' Consequences, Experts Warn", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-north-korea-trade_us_59ad7415e4b0354e440bc042', 'short_description': 'If executed, it would strike a huge blow to the global economy.', 'date': '2017-09-04'}

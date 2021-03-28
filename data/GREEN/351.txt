@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Sinking Island Passes Fundraising Goal After Trump Says It's Not Sinking", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/tangier-island-trump-sinking_us_5945c1ede4b01eab7a2e2a9f', 'short_description': 'Chesapeake Bay residents hope to build a sea wall to hold off rising waters.', 'date': '2017-06-18'}

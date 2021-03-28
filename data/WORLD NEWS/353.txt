@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Lions Kill And Eat Suspected Poacher', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/lions-kill-suspected-poacher_us_5a829010e4b0892a03526549', 'short_description': 'The lions "just left his head and some remains."', 'date': '2018-02-13'}

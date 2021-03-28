@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Tongan Skiier Pita Taufatofua Makes Olympic Debut', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/pita-taufatofua-olympic-debut_us_5a868b69e4b00bc49f429493', 'short_description': "His performance wasn't great, but then again he only recently learned to ski.", 'date': '2018-02-16'}

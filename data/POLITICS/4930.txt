@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Anita Hill: Harvey Weinstein's Behavior Is No Surprise", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/anita-hill-harvey-weinstein_us_59e756e3e4b00905bdaddb2a', 'short_description': '"I’ve heard from women, thousands of them over the past 26 years, about behavior of this kind."', 'date': '2017-10-18'}

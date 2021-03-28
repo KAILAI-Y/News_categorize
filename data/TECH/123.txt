@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Russian Malware Operation Linked To Britney Spears' Instagram", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/britney-spears-malware-instagram_us_5939f150e4b0c5a35c9dd889', 'short_description': 'Coded messages on her site were tied to the Turla hacker control server.', 'date': '2017-06-09'}

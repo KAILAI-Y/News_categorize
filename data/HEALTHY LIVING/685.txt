@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Firearm Restrictions Not Enough To Prevent Suicides', 'authors': 'Marilynn Larkin, Reuters', 'link': 'https://www.huffingtonpost.com/entry/firearm-restrictions-not-enough-to-prevent-suicides_us_595d0455e4b0da2c73266dc0', 'short_description': 'Half of all suicide deaths in the U.S. are due to firearms.', 'date': '2017-07-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Makes Fun Of Asian Leaders Who Hosted Him', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-mocks-asian-leaders_us_5a202618e4b0a8581e68b677', 'short_description': 'The president did his own imitation as he promoted GOP tax legislation.', 'date': '2017-11-30'}

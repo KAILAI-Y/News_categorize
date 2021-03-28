@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Game Show Host Prematurely Congratulates Contestant In Mortifying Fail', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/who-wants-to-be-millionaire-jeremy-clarkson-gaffe_us_5af6da31e4b00d7e4c1b00c2', 'short_description': '"Oh no, you’ve just lost."', 'date': '2018-05-12'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Joseph Gordon-Levitt And Tasha McCauley Welcome Baby Boy', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/joseph-gordon-levitt-and-tasha-mccauley-welcome-baby-boy_us_5971aaf0e4b09e5f6cce716c', 'short_description': "This is the couple's second child.", 'date': '2017-07-21'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Alec Baldwin's Trump Impression Is Apparently Even Better Than We Thought", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwins-trump-impression-is-officially-even-better-than-we-thought_us_59a18bfbe4b05710aa5c8b94', 'short_description': 'It really is yuuuge.', 'date': '2017-08-26'}

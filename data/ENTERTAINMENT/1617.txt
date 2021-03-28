@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Reclaiming My Wine' Is The Motto For 2018, Courtesy Of Amy Poehler", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/reclaiming-my-wine-is-the-motto-for-2018-courtesy-of-amy-poehler_us_5a52c626e4b089e14dbc331f', 'short_description': '... And Maxine Waters, too.', 'date': '2018-01-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Giving Up House Seats At A Rate Not Seen In Decades', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/congress-retirements-record_us_5acb8fc6e4b0337ad1ea639e', 'short_description': 'More Republicans are departing "than any year since at least 1952," according to an elections observer.', 'date': '2018-04-09'}

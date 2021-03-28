@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Syrian Government Forces Have Reportedly Taken Control Of Douma', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/syrian-forces-take-douma_us_5acf2573e4b0701783aba9ca', 'short_description': 'As some 40,000 residents fled, Russian military police were deployed in the town.', 'date': '2018-04-12'}

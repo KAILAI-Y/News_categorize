@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'CNN Panel Openly Questions Whether Trump Is Fit For Office After Wild Arizona Rally', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-fitness-for-office_us_599d92d6e4b0a296083b76a7', 'short_description': '"I’m not joking about it or being a smartass; this is a man who is not well."', 'date': '2017-08-23'}

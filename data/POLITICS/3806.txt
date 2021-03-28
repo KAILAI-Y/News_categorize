@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's Defense Of Michael Flynn Sure Didn't Age Well", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-michael-flynn_us_5a21718ae4b03c44072d23da', 'short_description': 'In March, Trump said Flynn should request immunity and the investigation was a "witch hunt."', 'date': '2017-12-01'}

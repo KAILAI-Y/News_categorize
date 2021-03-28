@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Oliver Says Some Forensic Analysis Is Actually 'Junk Science'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-shows-how-some-forensic-analysis-is-actually-junk-science_us_59d27eb3e4b0655781548078', 'short_description': "And he's got the perfect TV crime drama to prove it.", 'date': '2017-10-02'}

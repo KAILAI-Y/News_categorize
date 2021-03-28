@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Gunmen Open Fire On University Convoy In Kenya, Killing 2', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/kenya-university-attack_us_59dc7b35e4b0b34afa5bca16', 'short_description': 'A driver and two policemen were also wounded in the attack.', 'date': '2017-10-10'}

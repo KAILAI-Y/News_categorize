@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'How To Appreciate — Not Appropriate — Holi Celebrations', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/when-it-comes-to-holi-dont-just-do-it-for-the-gram_us_5a97211de4b09c872bb0ece6', 'short_description': 'Don’t dilute Holi as a “Color Run” or just do it for the ‘gram.', 'date': '2018-03-02'}

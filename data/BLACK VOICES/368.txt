@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "LeBron James Honors Martin Luther King Jr. By Calling Out Trump's Racism", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/lebron-james-mlk-trump-racism_us_5a5d2555e4b04f3c55a52dce', 'short_description': 'James said racism may never die, but we "can’t allow it to divide us.”', 'date': '2018-01-16'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Harvey's 'Unprecedented' Rainfall And Flooding Are 'Only Getting Worse'", 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/harvey-flooding-getting-worse_us_59a301a3e4b05710aa5cef0b', 'short_description': "The National Weather Service says the effects of this hurricane are 'catastrophic.'", 'date': '2017-08-27'}

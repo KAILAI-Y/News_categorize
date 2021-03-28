@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mat Kearney Gets A 'Second Wind' With New Album And Tour", 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/mat-kearney-new-album-crazytalk_us_5a58c699e4b04df054f845e4', 'short_description': 'Kearney gives the story behind "Crazytalk" and life as a new dad.', 'date': '2018-01-22'}

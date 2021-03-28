@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'This Corn On The Cob Hack Has The Internet Feeling SHUCK', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/this-corn-on-the-cob-hack-has-us-feeling-shuck_us_596f830ae4b01696c6a21276', 'short_description': "Believe us, you're gonna want to ear this.", 'date': '2017-07-19'}

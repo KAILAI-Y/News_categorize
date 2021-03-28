@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How Chicago’s Leading Latino Progressive Bested The Democratic Party Machine', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/chuy-garcia-chicago-congress_us_5abe9a84e4b055e50acd9d74', 'short_description': '“The southwest side was ripe for change,” said Jesús “Chuy” García.', 'date': '2018-04-02'}

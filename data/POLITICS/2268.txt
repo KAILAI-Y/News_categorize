@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tweeters Troll Donald Trump Over Massive 'Trump Dump' Stock Market Plunge", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-twitter-stock-markets-dow-jones_us_5a795b57e4b00f94fe947188', 'short_description': "Trump's boasts are coming back to haunt him.", 'date': '2018-02-06'}

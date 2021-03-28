@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'POLL: Americans Trust James Comey Over Trump', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/poll-americans-trust-james-comey-over-trump_us_593c4814e4b0b13f2c6b1b69', 'short_description': 'Few think Trump was right to fire Comey.', 'date': '2017-06-10'}

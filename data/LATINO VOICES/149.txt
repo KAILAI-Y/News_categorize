@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Buzzfeed's 'Try Guys' Tackle Immigration And The Results Are Emotional", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/try-guys-buzzfeed-immigraton_us_59d9455ce4b046f5ad98a999', 'short_description': '"I\'m ashamed of how much I was unaware of."', 'date': '2017-10-07'}

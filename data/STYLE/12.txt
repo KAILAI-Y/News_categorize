@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "11 Things We're Obsessed With This Week, Besides Warmer Weather", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/things-were-obsessed-with-19_us_5a568362e4b08a1f624b0eba', 'short_description': 'New year, new obsessions.', 'date': '2018-01-11'}

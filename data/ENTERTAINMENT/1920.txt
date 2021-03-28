@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kate Winslet Says Woody Allen Really Gets Women', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/kate-winslet-woody-allen_us_5a299ed1e4b0b185e53a4351', 'short_description': '“I think on some level Woody is a woman."', 'date': '2017-12-07'}

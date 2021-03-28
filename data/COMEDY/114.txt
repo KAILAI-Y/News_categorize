@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Melania Trump Pulls Off Perfect State Dinner With KFC In 'Jimmy Kimmel' Bit", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/melania-trump-state-dinner-kfc-jimmy-kimmel_us_5ae06377e4b07be4d4c6a4fb', 'short_description': 'Bon appetit with a bucket.', 'date': '2018-04-25'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'No Wall, No Embassy Move, And, Oh Yeah, We’re Staying In Afghanistan', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-afghanistan-troops_us_599b97abe4b0771ecb06bce2', 'short_description': 'Trump adds continuation of Afghanistan war to his growing list of broken promises.', 'date': '2017-08-22'}

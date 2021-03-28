@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Hefty Prison Sentence For Man Who Stole $1.2 Million In Fajitas', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/hefty-prison-sentence-for-man-who-stole-12m-in-fajitas_us_5adfadc5e4b07be4d4c5a0d6', 'short_description': '"It got to a point where I couldn’t control it anymore,” he said.', 'date': '2018-04-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Haitians In Florida Protest Trump's 'Shithole' Comments, Demand Apology", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/florida-haitians-protest-trump_us_5a5cfa19e4b03c4189682e93', 'short_description': 'The president was spending MLK Jr. Day at his golf resort.', 'date': '2018-01-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Washington's Weakening Hand In Iran", 'authors': 'Kaveh Mirani and Karim Pakravan, Contributors', 'link': 'https://www.huffingtonpost.com/entry/washingtons-weakening-hand-in-iran_us_59dcbe63e4b0208970cf96ec', 'short_description': 'Pulling out of the nuclear deal will carry great costs and little gain for the U.S.', 'date': '2017-10-10'}

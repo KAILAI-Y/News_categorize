@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'College Basketball Coaches, Adidas Exec Charged In Kickback Scheme', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/college-basketball-kickback-scheme_us_59ca6a61e4b06ddf45fb6258', 'short_description': 'Prosecutors said that high school athletes were bribed into playing for certain schools.', 'date': '2017-09-26'}

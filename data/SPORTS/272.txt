@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "U.S. Men's Olympic Hockey Team Includes First Black Player In 98-Year History", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/us-mens-olympic-hockey-team-selects-first-black-player_us_5a7e070ee4b0c6726e135ab5', 'short_description': '“I just think I’m another kid going to play in the Olympics."', 'date': '2018-02-09'}

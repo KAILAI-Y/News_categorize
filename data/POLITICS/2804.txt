@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'House Reauthorizes Controversial Surveillance Law', 'authors': 'Daniel Marans and Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/house-reauthorizes-fisa-surveillance_us_5a5791d8e4b068abc338a1f0', 'short_description': "Trump either did or didn't want this to happen — no one really knows.", 'date': '2018-01-11'}

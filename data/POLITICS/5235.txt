@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Apparently Thinks Meeting Mass Shooting Victims Is 'Wonderful'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-wonderful-las-vegas_us_59d60f54e4b0380b6c9a77a8', 'short_description': '"Are you not aware that you are making unspeakable tragedy sound like good news?"', 'date': '2017-10-05'}

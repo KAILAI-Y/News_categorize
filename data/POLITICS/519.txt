@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Migrant Caravan Reaches The U.S. Border', 'authors': 'Elise Foley and Damon Dahlen', 'link': 'https://www.huffingtonpost.com/entry/migrant-caravan-us-border_us_5ae71d3ae4b04aa23f256764', 'short_description': 'The Trump administration urged the asylum-seekers not to come.', 'date': '2018-04-30'}

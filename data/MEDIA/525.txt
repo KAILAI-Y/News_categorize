@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Jim Acosta Won't Allow Texas GOP Rep To Simply Mimic Ted Cruz's Hypocrisy", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/jim-acosta-texas-gop-rep-ted-cruz_us_59a6574ee4b00795c2a296ff', 'short_description': '"There really wasn’t very much pork at all in that bill."', 'date': '2017-08-30'}

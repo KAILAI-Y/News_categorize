@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Trump's Co-Author: White House Now 'Deeply Concerned About His Mental Health'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/tony-schwartz-donald-trump-mental-health_us_5a1f694ce4b0a8581e67e599', 'short_description': "Tony Schwartz claims two officials have made calls about Trump's mental health.", 'date': '2017-11-30'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Falling Tree Kills 11 People At Religious Festival In Portugal', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/portugal-falling-tree-kills-11_us_5992fdb9e4b08a2472775e4c', 'short_description': 'Dozens were also injured in the incident on the island of Madeira.', 'date': '2017-08-15'}

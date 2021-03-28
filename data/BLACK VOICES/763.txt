@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Maxine Waters Isn't Running For 'Anything Except The Impeachment of Trump'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/maxine-waters-isnt-running-for-anything-except-the-impeachment-of-trump_us_59849ca9e4b08b75dcc6ab93', 'short_description': 'All hail Queen Maxine.', 'date': '2017-08-04'}

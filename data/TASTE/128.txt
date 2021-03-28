@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Trix Brings Back Brightly Colored Cereal After Fans Rebel Over 'Natural' Version", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/trix-rabbit-artificial-ingredients_us_59c56375e4b0cdc773313dad', 'short_description': 'Silly rabbit! Artificial colors and flavors ARE for kids.', 'date': '2017-09-22'}

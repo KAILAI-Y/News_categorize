@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Belgian Police Shoot Suspected Terrorist In Brussels Central Station', 'authors': 'By Alastair Macdonald and Jan Strupczewski, Reuters', 'link': 'https://www.huffingtonpost.com/entry/brussels-station-attack-belgium_us_594977dee4b08709c82ffd8f', 'short_description': '“We consider this a terrorist attack."', 'date': '2017-06-20'}

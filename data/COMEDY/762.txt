@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "This iPhone X Unveiling Parody Doesn't Pull Any Punches", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/this-iphone-x-unveiling-parody-does-not-pull-any-punches_us_59b94f6fe4b0edff97187148', 'short_description': 'Introducing the $1,000 emoji machine.', 'date': '2017-09-13'}

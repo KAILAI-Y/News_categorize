@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Force Vote To Keep Net Neutrality Rules', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/net-neutrality-rules-senate-vote_us_5afc816fe4b0a59b4dfffc53', 'short_description': "It's only a temporary victory, however.", 'date': '2018-05-16'}

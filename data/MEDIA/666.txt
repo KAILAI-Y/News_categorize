@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'New York Times Stands By Trump-Russia Report That James Comey Disputed', 'authors': 'Michael Calderone', 'link': 'https://www.huffingtonpost.com/entry/james-comey-new-york-times_us_5939b1dae4b006105480ef28', 'short_description': 'The paper says it "found no evidence that any prior reporting was inaccurate.”', 'date': '2017-06-08'}

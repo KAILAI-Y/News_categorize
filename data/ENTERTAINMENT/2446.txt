@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Did Harvey Weinstein Sexually Harass You?', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/harvey-weinstein-victims_us_59dd7223e4b0b26332e7b81d', 'short_description': 'We want to hear from you.', 'date': '2017-10-11'}

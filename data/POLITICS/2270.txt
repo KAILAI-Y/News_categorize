@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'House Explicitly Bans Sexual Relationships Between Lawmakers And Staffers', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/house-sexual-harassment-bills_us_5a79ee37e4b06505b4e898a6', 'short_description': 'Representatives unanimously agreed to reform arcane sexual misconduct policies.', 'date': '2018-02-06'}

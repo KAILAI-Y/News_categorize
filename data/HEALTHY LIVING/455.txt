@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Here's How To Watch The Eclipse Without Ruining Your Eyes", 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/eclipse-eye-protection_us_5994628ee4b04b1933622c2c', 'short_description': 'Beware before looking to the sky.', 'date': '2017-08-18'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Homeland Security To Compile A Database Of Journalists, Bloggers And Influencers', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/homeland-security-searchable-database_us_5ac7f41de4b07a3485e4bb1d', 'short_description': 'Many in the media industry did *not* like the implications.', 'date': '2018-04-07'}

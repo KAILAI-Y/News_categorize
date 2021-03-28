@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mark Zuckerberg Says EU Users Have 'Different Sensibilities' On Data Protection", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/eu-privacy-laws-zuckerberg_us_5acd11f0e4b06a6aac8c8983', 'short_description': 'The Facebook CEO equivocated on enacting the same laws in the U.S.', 'date': '2018-04-10'}

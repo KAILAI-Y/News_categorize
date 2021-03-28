@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Mass Protests Lead Armenian Leader To Quit After Just A Week In Office', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/armenia-protests-prime-minister-resigns_us_5adf0c24e4b0b2e8113312e3', 'short_description': 'The people of Armenia demanded the chance to choose their own leader.', 'date': '2018-04-24'}

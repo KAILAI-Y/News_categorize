@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Netflix Paid 'The Crown' Star Claire Foy Less Than Her On-Screen Husband", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/claire-foy-pay-the-crown_us_5aa811c4e4b0a09afeae967d', 'short_description': "Apparently, even the queen of England doesn't get equal pay.", 'date': '2018-03-13'}

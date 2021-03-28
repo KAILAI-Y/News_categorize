@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "The Only Back-To-College Source You Need Probably Isn't Even On Your List", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/where-to-shop-back-to-college_us_5970d23fe4b0110cb3ccde33', 'short_description': 'Say goodbye to expensive back-to-college shopping.', 'date': '2017-07-20'}

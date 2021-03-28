@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "David Duchovny Addresses The Nuttiest Fan Theories About 'The X-Files'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/david-duchovny-x-files-fan-theories_us_5afa8b9ee4b044dfffb5717a', 'short_description': 'Did aliens really influence fashion choices in "The X-Files" universe?', 'date': '2018-05-15'}

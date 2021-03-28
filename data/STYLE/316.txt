@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Chrissy Teigen And John Legend Went All Out On Their Trip To Bali', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-john-legend-bali_us_596d09ece4b010d7767300f6', 'short_description': 'WOW.', 'date': '2017-07-17'}

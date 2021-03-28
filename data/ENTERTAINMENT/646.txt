@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "A Saucy Meme Made 41-Year-Old Fleetwood Mac Song 'Dreams' Climb The Charts", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/fleetwood-mac-dreams-billboard-charts-meme_us_5ac511abe4b09ef3b242fbc0', 'short_description': 'Listen carefully to the sound of... this meme.', 'date': '2018-04-04'}

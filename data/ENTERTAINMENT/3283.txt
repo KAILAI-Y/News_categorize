@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "We Dare You Not To Laugh At This Ridiculous 'Doctor Who' Video", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/we-dare-you-not-to-laugh-at-this-ridiculous-doctor-who-video_us_595a4dc9e4b02734df338b52', 'short_description': 'Cybermen will never be scary to us again.', 'date': '2017-07-03'}

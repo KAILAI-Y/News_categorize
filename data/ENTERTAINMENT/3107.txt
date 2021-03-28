@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rob Lowe Says You May Not Have Seen The Last Of 'The Grinder'", 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/rob-lowe-says-the-grinder-could-make-a-retrun_us_5976005de4b0e79ec19abec8', 'short_description': 'Fox canceled the sitcom in 2016 after just one season.', 'date': '2017-07-24'}

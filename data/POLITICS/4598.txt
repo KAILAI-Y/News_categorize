@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Says He'd 'Certainly Consider' Sending New York City Attacker To Guantanamo Bay", 'authors': 'Marina Fang and Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/trump-nyc-terrorist-attack-gitmo_us_59f9f53ae4b046017fb07430', 'short_description': 'He also called him an animal.', 'date': '2017-11-01'}

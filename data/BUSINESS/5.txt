@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'How Uber Silences Women After Sexual Assaults', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/uber-silences-women-sexual-assaults_us_5af5dfb5e4b0e57cd9f94ede', 'short_description': 'Just by using the app, you click away your rights. Now some victims are fighting for change.', 'date': '2018-05-12'}

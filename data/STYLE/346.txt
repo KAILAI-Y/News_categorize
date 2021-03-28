@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'These Gorgeous Tony Awards Looks Deserve A Standing Ovation', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/tonys-red-carpet-2017_us_593e93ade4b0b13f2c6c362c', 'short_description': 'Hello, Dolly... err, Bette Middler.', 'date': '2017-06-12'}

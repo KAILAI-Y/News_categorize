@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mattis: No Evidence Russia Wants Positive Relationship With U.S.', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mattis-no-evidence-russia-wants-positive-relationship-with-us_us_59401789e4b0b13f2c6e3e82', 'short_description': '"That is not to say we can’t get there as we look for common ground."', 'date': '2017-06-13'}

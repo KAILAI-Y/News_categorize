@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Washington State Changes Driver's License Requirements To Foil ICE", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/washington-drivers-license-immigration_us_5a6bdb43e4b06e253267b4da', 'short_description': 'Another West Coast state moves to protect undocumented immigrants.', 'date': '2018-01-27'}

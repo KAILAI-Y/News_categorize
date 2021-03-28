@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Defenders' Costume Designer Explains Eerie Inspiration For The Hand", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/defenders-costume-designer_us_59a969a6e4b0dfaafcefc44d', 'short_description': "And why Jessica Jones' leather jacket may be endangered.", 'date': '2017-09-01'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Roseanne Touts Latest Right-Wing Conspiracy Theory About Child Sex Rings In Tweet', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/roseanne-sex-ring-conspiracy-theory_us_5ac01e45e4b0a47437ab8502', 'short_description': 'The controversial tweet has since been deleted.', 'date': '2018-04-01'}

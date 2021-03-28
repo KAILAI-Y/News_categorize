@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'NFL Still Owes More Than Half Its Brain-Research Pledge', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/nfl-nih-cte_us_597ba1e6e4b0da64e8793819', 'short_description': "The league's $30 million deal with the National Institutes of Health to study CTE is dissolving in acrimony.", 'date': '2017-07-29'}

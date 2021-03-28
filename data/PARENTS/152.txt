@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'These Dads Put Together The Coolest DIY Costumes For Their Twins', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/these-dads-put-together-the-coolest-diy-costumes-for-their-twins_us_59f75fbae4b0aec146795cc8', 'short_description': 'Some of them take months to prepare.', 'date': '2017-10-30'}

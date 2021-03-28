@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kathy Griffin Rips Andy Cohen (And Harvey Levin) In Video Rant', 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/kathy-griffin-harvey-levin_us_59f5fc63e4b07fdc5fbebf3d', 'short_description': "That's the last time someone pretends to not know Kathy Griffin.", 'date': '2017-10-29'}

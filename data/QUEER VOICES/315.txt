@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "You've Never Heard The 'Golden Girls' Theme Like This Before", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/alexis-michelle-feinsteins-54-below_us_5a7b749de4b08dfc92ffb3a2', 'short_description': 'Thank you for being a friend, "RuPaul\'s Drag Race" veteran Alexis Michelle!', 'date': '2018-02-11'}

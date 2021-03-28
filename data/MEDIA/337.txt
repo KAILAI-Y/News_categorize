@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Hannity Loses It Over ABC News' Michael Flynn Error: 'Journalism Is Dead'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/hannity-abc-news-michael-flynn-error_us_5a261be5e4b07324e84026e3', 'short_description': '"It\'s scary. It\'s real."', 'date': '2017-12-05'}

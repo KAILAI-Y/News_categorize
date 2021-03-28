@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Massive California Wildfire Near Yosemite Sparked By Gunfire, Officials Say', 'authors': 'Eline Gordts', 'link': 'https://www.huffingtonpost.com/entry/detwiler-fire-yosemite-gunfire_us_59873247e4b08b75dcc7972b', 'short_description': 'The blaze burned more than 80,000 acres of land and destroyed 63 homes.', 'date': '2017-08-06'}

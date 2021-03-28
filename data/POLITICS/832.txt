@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Makes Syria Attack Timeline Even More Confusing', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-syria-attack-timeline_us_5acf3216e4b06487677738ab', 'short_description': '"Could be very soon or not so soon at all!"', 'date': '2018-04-12'}

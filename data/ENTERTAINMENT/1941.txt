@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jimmy Kimmel's Son Undergoes Second Heart Surgery", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-son-second-surgery_us_5a264e33e4b086e4e5040b52', 'short_description': 'Guest hosts will fill in on "Jimmy Kimmel Live" while he takes time off to be with his family.', 'date': '2017-12-05'}

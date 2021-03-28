@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Stephen Colbert Likens Trump Presidency To Worst Musical Ever At The Tonys', 'authors': 'Katherine Brooks', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-has-some-harsh-words-for-trump-at-the-tonys_us_593dffebe4b0c5a35ca0cae6', 'short_description': '“And the hair and makeup? Yeesh."', 'date': '2017-06-12'}

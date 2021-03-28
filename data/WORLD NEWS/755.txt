@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Zimbabwe Swears In Emmerson 'The Crocodile' Mnangagwa As President", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/zimbabwe-president-emmerson-mnangagwa-sworn-in_us_5a17eb0de4b064948073a704', 'short_description': "It brings the curtain down on Robert Mugabe's 37 years in power.", 'date': '2017-11-24'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'People Who Are Deaf Are Really Sick Of Getting Asked These Questions', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/most-annoying-questions-deaf-people_us_59a85677e4b0a8d145742287', 'short_description': 'That includes whether or not they wish they could hear.', 'date': '2017-08-31'}

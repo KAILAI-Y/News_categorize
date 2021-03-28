@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Taylor Swift To Testify Against Man She Says Groped Her', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-testifying-denver-grope-claim_us_5985be89e4b041356ebffdbf', 'short_description': 'A civil trial is set to begin Monday.', 'date': '2017-08-05'}

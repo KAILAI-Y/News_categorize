@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "WWE Fans Shout 'That's Too Far' At Racist Scripted Comments In The Ring", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/wwe-racist-comments-jinder-mahal_us_59c534a5e4b01cc57ff1d28b', 'short_description': "WWE responded with a non-apology for Jinder Mahal's scripted anti-Japanese comments.", 'date': '2017-09-22'}

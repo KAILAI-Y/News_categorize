@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'For Unclear Reasons, Utah Lawmakers Made A Cringe-Worthy Rap Video', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/utah-house-of-reps-made-a-cringe-worthy-rap-video_us_5a9862cce4b0479c02508ae6', 'short_description': 'Oh no.', 'date': '2018-03-01'}

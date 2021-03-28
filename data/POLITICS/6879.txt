@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Justice Department Not Looking To Charge Journalists For Leaks: Top Official', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/doj-leaks-journalists_us_59872dcee4b041356ec06b76', 'short_description': '“We don’t prosecute journalists for doing their jobs.”', 'date': '2017-08-06'}

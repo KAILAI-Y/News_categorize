@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Second Model Accuses Photographer Bruce Weber Of Sexual Harassment', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/fashion-industry-sexual-assault_us_5a270a53e4b06007f6b57fb4', 'short_description': 'This is just the latest in a long history of alleged abuse in the fashion industry.', 'date': '2017-12-06'}

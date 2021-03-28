@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Roseanne' Renewed For A Second Season After High-Rated Premiere", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/roseanne-renewed-second-season_us_5abe6548e4b0f112dc9be4d6', 'short_description': 'The debut of the sit-com revival reached about 18.2 million viewers.', 'date': '2018-03-30'}

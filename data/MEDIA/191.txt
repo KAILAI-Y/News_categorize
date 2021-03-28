@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Wall Street Journal's Chloe Kim Joke Falls Flat", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/chloe-kim-wsj-tweets_us_5a8288fbe4b0892a03525a22', 'short_description': 'The newspaper said the 17-year-old gold medalist was "better" at tweeting than snowboarding.', 'date': '2018-02-13'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'On Day One Of The Brexit Talks, EU Reminds Britain The Clock Is Ticking', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/brexit-talks-day-one_us_59481ef7e4b0edb84c14bc01', 'short_description': '“I am neither optimistic nor pessimistic. I am determined," the EU\'s chief negotiator said.', 'date': '2017-06-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Scott Pruitt Reportedly Lied About Knowledge Of Staff Raises', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-raises-washington-post_us_5ac7199ae4b07a3485e2eb9b', 'short_description': 'The report adds to a growing mountain of ethical issues dogging Pruitt’s tenure.', 'date': '2018-04-06'}

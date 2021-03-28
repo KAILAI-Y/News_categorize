@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Late Show' Imagines What Donald Trump's U.S.-Mexico Border Wall Will Really Look Like", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mexico-border-wall-late-show-stephen-colbert_us_5a63074ee4b0022830030362', 'short_description': 'Will it be as “big” and “beautiful” as Trump has promised?', 'date': '2018-01-20'}

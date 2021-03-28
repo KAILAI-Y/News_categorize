@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': '33 Fierce Signs Of Resistance From Pride Marches Across The U.S.', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/pride-2017-march-signs_us_594ff1a9e4b02734df2b1d93', 'short_description': '❤️ 💛 💚 💙 💜', 'date': '2017-06-25'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Women Fight Back After Assaults At Music Festivals Down Under', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/australia-music-festival-assault_us_5a4ad78ce4b025f99e1d0378', 'short_description': 'One collared a man who groped her; another punched her attacker in the head.', 'date': '2018-01-02'}

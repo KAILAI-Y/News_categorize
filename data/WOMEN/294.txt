@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "'Portlandia' Sums Up Every Woman's Thoughts On Sexual Harassment In Spot-On Sketch", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/portlandia-sexual-harassment-sketch_us_5a26d569e4b069df71fa1d43', 'short_description': 'Too real 😂', 'date': '2017-12-05'}

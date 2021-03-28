@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Don Jr. Shrugs, Clicks 'Accept' On 'CollusionFest2K17' Invite", 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/don-jr-shrugs-clicks-accept-on-collusionfest2k17-invite_us_59694295e4b0d6341fe90117', 'short_description': "C'mon, dude,", 'date': '2017-07-14'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Woman Enters Miss Universe Malaysia After Finding Beauty In Her Head-To-Toe Moles', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/moles-miss-universe_us_5953c254e4b0da2c73203667', 'short_description': 'Meet your new self-love hero.', 'date': '2017-06-28'}

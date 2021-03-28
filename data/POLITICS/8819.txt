@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Al Franken On Jettisoning Paris Pact: This Is So Bad In So Many Ways', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/al-franken-daily-show_us_59310c8ae4b0c242ca22b661', 'short_description': '"Donald Trump doesn\'t know what he\'s talking about."', 'date': '2017-06-02'}

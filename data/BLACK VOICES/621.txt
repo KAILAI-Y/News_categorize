@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Like Issa Rae, I’m Also ‘Rooting for Everybody Black’', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/issa-rae-rooting-for-everybody-black_us_59c06befe4b0186c2205422f', 'short_description': 'As many obstacles as we face in our lives, there are times when we need to see one another win.', 'date': '2017-09-19'}

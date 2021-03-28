@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Former Russian Spy Poisoned By Nerve Agent, UK Investigators Say', 'authors': 'Sarah Ruiz-Grossman', 'link': 'https://www.huffingtonpost.com/entry/russian-spy-skripal-nerve-agent-uk_us_5aa029d5e4b0d4f5b66ce072', 'short_description': 'Sergei Skripal and his daughter are still in critical condition.', 'date': '2018-03-07'}

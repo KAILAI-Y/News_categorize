@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "This Is Not A Drill: Jessica Williams Cast In 'Fantastic Beasts' Sequel", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/this-is-not-a-drill-jessica-williams-cast-in-fantastic-beasts-sequel_us_59d7a3bae4b072637c43b675', 'short_description': 'So THIS is what pure joy feels like.', 'date': '2017-10-06'}

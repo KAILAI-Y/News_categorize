@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Praises Paul Ryan After Speaker's Decision Not To Seek Re-Election", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/trump-on-paul-ryan-leave-office_us_5ace0320e4b0259339df4a52', 'short_description': 'The president said Ryan "will leave a legacy of achievement that nobody can question."', 'date': '2018-04-11'}

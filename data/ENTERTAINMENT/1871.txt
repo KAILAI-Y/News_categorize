@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Alabama Native Channing Tatum Encourages Followers Not To Vote For Roy Moore', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/channing-tatum-alabama-roy-moore_us_5a2fe3c8e4b01598ac48220c', 'short_description': 'But mostly he just wants young people to vote.', 'date': '2017-12-12'}

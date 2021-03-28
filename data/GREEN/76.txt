@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Decarbonizing The Economy', 'authors': 'Steven Cohen, ContributorProfessor in the Practice of Public Affairs, Columbia Universi...', 'link': 'https://www.huffingtonpost.com/entry/decarbonizing-the-economy_us_5a254b24e4b04dacbc9bd905', 'short_description': 'The transition depends on five key components.', 'date': '2017-12-04'}

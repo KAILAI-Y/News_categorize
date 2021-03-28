@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Black Panther' Appears Unstoppable As It Roars Past $700 Million", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/black-panther-box-office-700-million_us_5a9435dee4b0699553cae509', 'short_description': 'TL;DR: Everyone likes this movie.', 'date': '2018-02-26'}

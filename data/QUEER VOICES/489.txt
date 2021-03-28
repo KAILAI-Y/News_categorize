@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "This Naked Calendar Celebrates Gay Men With 'Ordinary' Bodies", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/meatzine-naked-gay-men-calendar_us_5a303f0de4b01bdd765803f5', 'short_description': "London's meatzine aims to ring in 2018 in a playfully provocative way.", 'date': '2017-12-17'}

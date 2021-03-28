@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "People Have Serious Questions About This Dictionary's Trump-Themed 'Word Of The Year'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-dictionary-word-of-the-year_us_59fafba4e4b01b4740485b03', 'short_description': '🤔 🤔 🤔', 'date': '2017-11-02'}

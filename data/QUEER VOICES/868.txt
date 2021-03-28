@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Brian Austin Green Says His Son Can Wear Dresses If He Wants To', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/brian-austin-green-megan-fox-sons-dresses_us_59b28f80e4b0dfaafcf7487d', 'short_description': '"If he wants to wear a dress? Awesome. Good on him."', 'date': '2017-09-08'}

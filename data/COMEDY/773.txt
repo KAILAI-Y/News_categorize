@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Remakes Steve Bannon Into A Nazi Street Fighter', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-steve-bannon-nazi-street-fighter_us_59b25de9e4b0b5e531054409', 'short_description': 'The "Late Show" host did not hold back.', 'date': '2017-09-08'}

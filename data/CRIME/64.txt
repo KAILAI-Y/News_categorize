@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Woman Burned To Death Can Testify From The Grave', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/woman-burned-to-death-testify-from-grave_us_5ad65cffe4b029ebe01ed373', 'short_description': '"She may be the only victim to testify in their own murder trial," a defense attorney said.', 'date': '2018-04-17'}

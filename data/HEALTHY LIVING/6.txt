@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "An Expert-Backed, Foolproof Guide To 'Going Dry' For A Month", 'authors': 'Gemma Hartley, On Assignment For HuffPost', 'link': 'https://www.huffingtonpost.com/entry/going-dry-for-a-month_us_5a4e63f3e4b06d1621bde7ee', 'short_description': 'How to cut down on everything from sugar to alcohol to social media.', 'date': '2018-01-08'}

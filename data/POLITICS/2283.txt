@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Michele Bachmann: God Didn't Call Me, So I'm Not Running For Senate", 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/michele-bachmann-senate-run-god_us_5a78d0dde4b00f94fe94152b', 'short_description': 'The Almighty did appear on a billboard telling her not to run, though.', 'date': '2018-02-05'}

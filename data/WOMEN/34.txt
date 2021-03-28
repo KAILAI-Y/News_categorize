@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Bill Cosby's Accusers: 'May This Verdict Open The Floodgates'", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/cosby-victims-react-to-verdict_us_5ae22d3ce4b02baed1b84b41', 'short_description': "Here's how the women who came forward reacted after Cosby was found guilty.", 'date': '2018-04-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Franken Debacle', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/the-franken-debacle_us_5a2e07f2e4b0a290f051d76e', 'short_description': 'Bravo, Democrats.', 'date': '2017-12-11'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'The Deep, Dark World Of Fake Porn', 'authors': 'Refinery29, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/the-deep-dark-world-of-fake-porn_us_5a7dd50ce4b0a0f48092eb64', 'short_description': 'In the fight against other forms of revenge porn, legislation has been slow, but strides have been made.', 'date': '2018-02-12'}

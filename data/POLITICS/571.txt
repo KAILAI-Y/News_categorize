@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chinese-American Scientist Who Was Wrongly Accused Of Spying Gets Job Back', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/sherry-chen-scientist-not-spying_us_5ae3465fe4b055fd7fcb9168', 'short_description': 'Several Asian-American legislators consider the decision a huge victory.', 'date': '2018-04-27'}

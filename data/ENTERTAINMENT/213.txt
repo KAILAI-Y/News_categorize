@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kim Kardashian To Make History With Fashion Council’s First Influencer Award', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-fashion-council-influencer-award_us_5af30c03e4b00a3224efae18', 'short_description': 'Congrats, Kim!', 'date': '2018-05-09'}

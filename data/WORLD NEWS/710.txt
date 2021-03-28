@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S., South Korea Launch Large-Scale Joint Aerial Drills [UPDATED]', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/us-south-korea-drills_us_5a24e93de4b0a02abe9212c9', 'short_description': 'The exercises have been condemned as a provocation by the isolated North.', 'date': '2017-12-04'}

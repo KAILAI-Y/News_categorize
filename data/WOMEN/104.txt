@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "4 Men Stand Around While Woman Scrubs 'Happy International Women’s Day' From Steps", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/woman-scrubs-oxford-steps-international-womens-day_us_5aa43fd5e4b01b9b0a3bd770', 'short_description': 'Give this woman a raise.', 'date': '2018-03-10'}

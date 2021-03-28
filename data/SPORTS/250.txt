@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'An American Man Actually Won A Luge Medal At The Olympics', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/holy-crap-an-american-man-actually-won-a-luge-medal-at-the-winter-olympics_us_5a804956e4b0c6726e145f79', 'short_description': 'In a first for U.S. men, Chris Mazdzer takes home silver.', 'date': '2018-02-11'}

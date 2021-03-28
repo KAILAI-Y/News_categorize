@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Starbucks Wants You To Color In This Year's Holiday Cup", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/starbucks-new-holiday-cup-is-here-and-its-totally-different_us_59f8af6de4b00c6145e1f60b', 'short_description': 'Say goodbye to the red!', 'date': '2017-11-01'}

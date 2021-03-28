@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rob Delaney Of 'Catastrophe' Honors Late Son On Birthday To Help Other Cancer Victims", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/rob-delaney-son-birthday_us_5ad71e72e4b0e4d0715bbd60', 'short_description': 'The actor recalled his "sweet boy" Henry who died in January.', 'date': '2018-04-18'}

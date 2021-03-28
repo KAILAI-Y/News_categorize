@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Sgt.Pepper' As You've Never Heard It Before — By Other Artists", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/sgt-pepper-cover-versions_us_59304169e4b0e9a77a537938', 'short_description': 'A classic album as performed by everyone from Miley Cyrus to Chris Cornell.', 'date': '2017-06-01'}

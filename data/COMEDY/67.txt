@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Says Hide-And-Seek Genius Dog Will 'Heal Our Nation'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-hide-and-seek-dog_us_5af1b360e4b041fd2d2b4c28', 'short_description': 'We so want a pooch like that.', 'date': '2018-05-08'}

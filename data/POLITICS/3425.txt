@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Roy Moore Spokesman Goes Blank After Jake Tapper Schools Him On The Constitution', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-ted-crockett-muslims-bible_us_5a306188e4b07ff75afe9367', 'short_description': 'That was awkward.', 'date': '2017-12-13'}

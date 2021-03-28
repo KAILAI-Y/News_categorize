@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Does Hollywood Have A Bias Against Films Portraying Disability?', 'authors': 'Sarah Weeks, ContributorAuthor, So B. It', 'link': 'https://www.huffingtonpost.com/entry/so-be-it-mpaa-rating_us_59c114bbe4b0186c2205afb0', 'short_description': 'The MPAA cited "thematic elements" in its rating decision for So B. It.', 'date': '2017-09-19'}

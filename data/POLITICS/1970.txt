@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Flip Kentucky State House Seat Where Trump Won Overwhelmingly', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/linda-belcher-democrat-won-kentucky-house-seat_us_5a8cc40ae4b03414379b4788', 'short_description': 'Another sign of a big year for Democrats.', 'date': '2018-02-21'}

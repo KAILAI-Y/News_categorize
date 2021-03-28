@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'SpaceX Launches Its First Recycled Cargo Ship Into Orbit', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/spacex-launches-first-recycled-cargo_us_59332c19e4b0c242ca24a351', 'short_description': 'The refurbished capsule brings us one step closer to cheaper space travel.', 'date': '2017-06-04'}

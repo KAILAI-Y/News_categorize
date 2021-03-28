@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Jemele Hill Honored As NABJ's Journalist Of The Year", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/jemele-hill-named-nabjs-2018-journalist-of-the-year_us_5b02c6dfe4b07309e05a9008', 'short_description': '“This is the biggest accomplishment of my career.”', 'date': '2018-05-21'}

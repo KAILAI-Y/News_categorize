@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Boston TV Station Posts Aaron Hernandez Photo To Celebrate Patriots' Win", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/boston-tv-station-aaron-hernandez-photo_us_5a65c4a2e4b0dc592a0a6df6', 'short_description': 'WCVB called the mistake "unacceptable."', 'date': '2018-01-22'}

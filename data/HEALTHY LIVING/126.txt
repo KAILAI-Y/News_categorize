@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'How Sexual Harassment Can Damage Your Health', 'authors': 'Ally Hirschlag, On Assignment For HuffPost', 'link': 'https://www.huffingtonpost.com/entry/sexual-harassment-health_us_59fb40b4e4b0b0c7fa389d19', 'short_description': 'And what you can do about it.', 'date': '2017-11-06'}

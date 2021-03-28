@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Suggests Russia Probe Investigate Clinton Amid Reports Of Grand Jury', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/trump-rally-russia-probe_us_598394efe4b08b75dcc600dc', 'short_description': '“What the prosecutors should be looking at are Hillary Clinton’s 33,000 deleted emails.”', 'date': '2017-08-04'}

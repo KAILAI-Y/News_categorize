@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Impeach!', 'authors': 'Michael Moore, ContributorOscar and Emmy-winning Director', 'link': 'https://www.huffingtonpost.com/entry/impeach-donald-trump_us_5a0d9e26e4b0b17e5e145fc9', 'short_description': "We can't wait until November 2020.", 'date': '2017-11-16'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Once Upon A Time Bonnie Tyler Sang During The Total Eclipse', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/bonnie-tyler-total-eclipse-of-the-heart-solar-eclipse_us_59973a90e4b0e8cc855db0b2', 'short_description': "And now we're only falling apart.", 'date': '2017-08-21'}

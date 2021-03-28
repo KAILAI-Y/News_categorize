@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Peter Thiel Wants To Buy Gawker, New Court Filing Suggests', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/peter-thiel-buy-gawker_us_5a15eea2e4b0cee6c04e28eb', 'short_description': "It would give him the power to delete the shuttered site's entire archive.", 'date': '2017-11-22'}

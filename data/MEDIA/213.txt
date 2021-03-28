@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Mika Brzezinski Shuts Down Michael Wolff Interview During Spat Over Nikki Haley Rumors', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/mika-brzensiski-michael-wolff_us_5a730a1be4b0bf6e6e222a16', 'short_description': 'The "Morning Joe" co-host called the author\'s behavior "disgraceful."', 'date': '2018-02-01'}

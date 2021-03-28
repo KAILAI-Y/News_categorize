@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Judges Slammed For Ranking Adam Rippon Third Place Despite Flawless Performance', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/adam-rippon-skated-flawlessly-judges-ranked-third_us_5a80f069e4b08dfc930565bb', 'short_description': '"Oh no."', 'date': '2018-02-12'}

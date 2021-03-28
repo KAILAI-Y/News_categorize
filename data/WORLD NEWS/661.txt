@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Norway Eliminates FM Radio Despite Majority Disapproval From Citizens', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/norway-fm-radio-digital-transition_us_5a3186d1e4b01bdd7659914c', 'short_description': 'Norway is now the first country to transition to completely digital radio.', 'date': '2017-12-13'}

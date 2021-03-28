@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sen. Tim Scott Responds To John Kelly: 'No Compromise To Make' On Civil War", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/tim-scott-john-kelly-civil-war_us_59f8e083e4b046017faf84d5', 'short_description': 'The White House chief of staff said the war was caused by the inability to compromise.', 'date': '2017-10-31'}

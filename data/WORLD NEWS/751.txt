@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Police Seek Answers On Central London's Black Friday Panic", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/police-london-black-friday-panic_us_5a199cb2e4b064948074a71c', 'short_description': 'Two men were questioned in connection with an incident that caused chaos, but no casualties.', 'date': '2017-11-25'}

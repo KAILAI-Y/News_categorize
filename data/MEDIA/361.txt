@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Sean Hannity Flips Out After Seeing His NY Times Magazine Cover Photo', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-new-york-times-cover-photo_us_5a1e5d18e4b0d724fed4a756', 'short_description': "He's not happy.", 'date': '2017-11-29'}

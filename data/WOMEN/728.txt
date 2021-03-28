@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Ariel Winter: 'This Is The Body I Was Given. This Is Who I Am.'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/ariel-winter-this-is-the-body-i-was-given-this-is-who-i-am_us_592ec4ade4b055a197cea090', 'short_description': 'The "Modern Family" star has no time for body shamers ✌️', 'date': '2017-05-31'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Fantastic Beasts: The Crimes Of Grindelwald' Heads To Hogwarts In First Trailer", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/fantastic-beasts-crimes-of-grindelwald-heads-to-hogwarts-in-first-trailer_us_5aa7faade4b04042d27eaf12', 'short_description': "WE'RE SO READY.", 'date': '2018-03-13'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers: Trump's 'Unhinged' Tweets Are Haunting His Staff", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-trump-tweets-staff_us_59cdd2e5e4b06791bb0fa418', 'short_description': 'Working at the White House seems to be taking its toll on press secretary Sarah Huckabee Sanders.', 'date': '2017-09-29'}

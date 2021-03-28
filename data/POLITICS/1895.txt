@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Pentagon Has Delivered Its Transgender Military Proposal To Trump', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/transgender-military-trump-james-mattis_us_5a904090e4b03b55731bc60c', 'short_description': "But it's still unclear what Defense Secretary James Mattis actually recommended.", 'date': '2018-02-23'}

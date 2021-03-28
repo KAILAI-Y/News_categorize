@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'CBS, PBS Cut Ties With Charlie Rose Following Sexual Misconduct Allegations', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/cbs-fires-charlie-rose_us_5a14621ce4b09650540db822', 'short_description': 'At least a dozen women have accused Rose of unwanted sexual harassment.', 'date': '2017-11-21'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Watch This Paddleboarder Get Straight-Up Wrecked By A Dolphin', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/watch-this-paddleboarder-get-straight-up-wrecked-by-a-dolphin_us_5ae4e2c0e4b055fd7fcc4a01', 'short_description': 'It dolphinately did that on porpoise.', 'date': '2018-04-28'}

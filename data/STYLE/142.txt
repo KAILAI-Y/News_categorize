@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'There Is A Choir That Dresses Up And Sings Like Duchess Kate', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/kate-middleton-choir_us_59fb2443e4b0415a420a03c9', 'short_description': "And it's royally amazing.", 'date': '2017-11-02'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Residents Describe Terrifying Escape From London Apartment Block Fire', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/london-apartment-complex-fire-escape_us_5940e0e4e4b0d3185485d322', 'short_description': '"We lost everything, everything. I’ve got only what I’m wearing on me."', 'date': '2017-06-14'}

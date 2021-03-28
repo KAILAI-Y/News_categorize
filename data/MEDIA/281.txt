@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'BBC Journalist Quits After Finding Out Her Male Colleagues Made 50 Percent More', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/bbc-journalist-quits-pay-disparity_us_5a534e1fe4b003133ec9ead6', 'short_description': 'Carrie Gracie wrote an open letter accusing the news outlet of breaking equality law.', 'date': '2018-01-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sebastian Gorka, Ex-Trump Aide Known For Anti-Islamic Views, Set To Join Fox News', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/sebastian-gorka-fox-news_us_5a04918ee4b0f76b05c421a8', 'short_description': "He'll be a perfect fit.", 'date': '2017-11-09'}

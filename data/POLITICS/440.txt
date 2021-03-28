@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Long Island Record Shop Selling Neo-Nazi Merch Gets Das Boot', 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/long-island-record-shop-neo-nazi-merchandise_us_5ae9bdaee4b022f71a03dd5a', 'short_description': 'Why did this weird little ode to white supremacy rear its ugly head in New York?', 'date': '2018-05-04'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Brit Party Leader Splits With Girlfriend After Her Shocking Remarks About Meghan Markle', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/girlfriend-ukip-suspension-over-markle_us_5a5c40bfe4b0fcbc3a117a76', 'short_description': 'Jo Marney said Markle would "taint" the royal family.', 'date': '2018-01-15'}

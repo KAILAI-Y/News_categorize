@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Memorial Day Tribute Hopefully Not Too Self-Involved", 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/trump-prepares-for-hopefully-not-too-self-involved-memorial-day_us_5928a0e1e4b053f2d2ac9a70', 'short_description': "But who will honor Trump's ultimate sacrifice?", 'date': '2017-05-26'}

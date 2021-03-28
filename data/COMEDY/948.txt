@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "A Kid Is At The Wheel In This Drive-Thru Prank, And Workers Are Lovin' It", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/kid-is-at-the-wheel-in-drive-thru-prank-and-workers-are-lovin-it_us_59441046e4b06bb7d272ccf9', 'short_description': '"I\'m tripping!"', 'date': '2017-06-16'}

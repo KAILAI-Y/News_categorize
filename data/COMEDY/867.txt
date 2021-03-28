@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Nails Why Donald Trump Should Fear Jeff Sessions', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-trump-jeff-sessions_us_597abc5ae4b0da64e87817b1', 'short_description': 'The president was warned.', 'date': '2017-07-28'}

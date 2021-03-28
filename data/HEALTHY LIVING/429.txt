@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Your Coffee May Keep Your Brain From Recognizing Sugar', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/coffee-sweetness-perception_us_59a04ffde4b06d67e33751b2', 'short_description': 'Beware of that caffeine jolt.', 'date': '2017-08-25'}

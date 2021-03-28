@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Michelle Obama Reveals Cover For Upcoming Memoir 'Becoming'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-cover-memoir-becoming_us_5b06c7f2e4b05f0fc8458cb4', 'short_description': '"The process of writing this book has been so personally meaningful and illuminating for me."', 'date': '2018-05-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Father Of Slain Parkland Teen Wants Trump To Say His Son’s Name', 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/father-of-slain-parkland-student-asks-trump-to-say-his-sons-name_us_5aedb798e4b041fd2d27272f', 'short_description': "It's Joaquin Oliver.", 'date': '2018-05-05'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Theresa May's Political Future In Danger After Stunning Election Defeat", 'authors': 'Eline Gordts and Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/uk-election-theresa-may_us_593a08a9e4b0c5a35c9dea1f', 'short_description': '10 Downing Street indicated she would not resign, though.', 'date': '2017-06-09'}

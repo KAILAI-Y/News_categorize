@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Comedian Refuses To Apologize For Disgusting Comments About Murdering Trans Women', 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/lil-duval-refuses-to-apologize_us_597f3ecae4b02a8434b7e10c', 'short_description': 'Lil Duval continues to dig in his heels.', 'date': '2017-07-31'}

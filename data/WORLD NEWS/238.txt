@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'A Crusader Against Police Violence Is Assassinated In Rio De Janeiro', 'authors': 'Travis Waldron', 'link': 'https://www.huffingtonpost.com/entry/marielle-franco-assassination-rio_us_5aaa7a51e4b0004c0407fbe0', 'short_description': "City councilwoman Marielle Franco was a symbol of hope for Rio's poorest residents.", 'date': '2018-03-15'}

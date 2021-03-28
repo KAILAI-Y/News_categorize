@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Trump To Move U.S. Embassy In Israel To Jerusalem. Here's Why That Matters.", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/trump-us-embassy-israel-move_us_5a219b8fe4b03c44072d62ba', 'short_description': 'Experts warn the move could lead to an "absolute explosion" in the region.', 'date': '2017-12-01'}

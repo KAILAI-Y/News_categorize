@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Idiot Islamophobes Mistake Empty Bus Seats For Burqa-Wearing Women', 'authors': 'Lee Moran and Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/burqa-women-bus-seats_us_59819907e4b02b36343ef111', 'short_description': '"You never know who is underneath. Maybe terrorists with weapons."', 'date': '2017-08-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Oprah 2020 Is A Bad Liberal Revenge Fantasy', 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/oprah-winfrey-president-2020-donald-trump_us_5a539012e4b0efe47ebb0fd8', 'short_description': 'Please, not again.', 'date': '2018-01-08'}

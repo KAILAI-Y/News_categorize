@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kit Harington Read The Final 'Game Of Thrones' Scripts And Couldn't Help Crying", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kit-harington-cried-games-of-thrones-read-through_us_59eb1e3de4b0958c46825377', 'short_description': '"I\'m really emotional about it."', 'date': '2017-10-21'}

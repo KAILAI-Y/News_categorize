@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Americans Take Gold, Silver In Men's Freestyle Halfpipe", 'authors': 'Jack Tarrant, Reuters', 'link': 'https://www.huffingtonpost.com/entry/david-wise-halfpipe-olympics_us_5a8e3faae4b077f5bfeb0dc8', 'short_description': 'David Wise retained his ski halfpipe Olympic gold medal, while Alex Ferreira took silver.', 'date': '2018-02-22'}

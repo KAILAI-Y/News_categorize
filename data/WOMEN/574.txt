@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'This Incarcerated Mother Is Fighting For Her Right To Breastfeed', 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/a-new-mexico-mom-fights-to-breastfeed-her-baby-while-in-prison_us_598b4844e4b0449ed507630a', 'short_description': 'Monique Hidalgo is facing obstacles every step of the way.', 'date': '2017-08-13'}

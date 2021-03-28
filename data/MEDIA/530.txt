@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "MSNBC's Katy Tur Calls Out Ted Cruz's Hypocrisy For Opposing Hurricane Sandy Relief", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/msnbc-ted-cruz-hurricane-sandy-relief_us_59a4e5e9e4b0446b3b860d59', 'short_description': '"It’s not really political sniping,  senator."', 'date': '2017-08-29'}

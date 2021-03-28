@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "'Japan's Babe Ruth' Hits 1st MLB Homer 2 Days After His 1st Pitching Win", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/shohei-ohtani-first-home-run_us_5ac443a0e4b0ac473edb2c63', 'short_description': "Shohei Ohtani's three-run blast traveled nearly 400 feet.", 'date': '2018-04-04'}

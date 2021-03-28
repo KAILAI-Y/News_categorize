@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'George Foreman Just Challenged Steven Seagal To A No-Holds-Barred Fight', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/george-foreman-steven-seagal_us_59d360b7e4b0f9629889c66d', 'short_description': '“I use boxing you can use whatever."', 'date': '2017-10-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s First SOTU Includes The Typical Falsehoods, Avoids The Typical Insanity', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-sotu-falsehoods_us_5a714bb0e4b0ae29f08c11aa', 'short_description': 'But tomorrow is a new day, and his neglected Twitter feed awaits.', 'date': '2018-01-31'}

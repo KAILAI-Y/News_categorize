@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Multiple Wildfires Rage Across California', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/california-wildifres-july-2017_us_5962497ae4b0615b9e9227a4', 'short_description': 'The blazes come as the state battles an intense heatwave.', 'date': '2017-07-09'}

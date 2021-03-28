@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jimmy Fallon Says Making Fun Of Trump Is 'Just Not What I Do'", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-donald-trump_us_59e20592e4b03a7be580ecfd', 'short_description': '"I don\'t really even care that much about politics," Fallon said on "Today."', 'date': '2017-10-14'}

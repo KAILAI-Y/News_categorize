@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '41 Photos Of Presidential Pets Over Time', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/41-photos-of-presidential-pets-over-time_us_5a8f2750e4b0664343557492', 'short_description': 'For animal lovers and history buffs alike.', 'date': '2018-03-30'}

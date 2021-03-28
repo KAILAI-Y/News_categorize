@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Voter Fraud Panel Does Little To Dispel Controversy In First Meeting', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-voter-fraud-commission-first-meeting_us_596fc4f3e4b0aa14ea76dcd8', 'short_description': 'Russia and voter disenfranchisement got little mention.', 'date': '2017-07-19'}

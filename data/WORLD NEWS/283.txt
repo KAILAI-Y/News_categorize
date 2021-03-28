@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Italian Soccer Captain Davide Astori Dies At 31', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/davide-astori-italy-soccer-dies_us_5a9c5d3be4b0479c0253a369', 'short_description': 'The Fiorentina captain was found dead in his hotel room Sunday.', 'date': '2018-03-04'}

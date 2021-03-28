@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump White House Furiously Tries To Distance Itself From Michael Flynn', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/trump-michael-flynn_us_5a216fbde4b03c44072d2023', 'short_description': 'They are trying to shift the blame to Obama. Seriously.', 'date': '2017-12-01'}

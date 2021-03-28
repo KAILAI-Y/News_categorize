@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Chance The Rapper Supports Mo'Nique's Call For Wage Equality", 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/chance-the-rapper-supports-moniques-call-for-wage-equality_us_5a942b11e4b0699553cac6ad', 'short_description': '"Black women, you deserve better."', 'date': '2018-02-26'}

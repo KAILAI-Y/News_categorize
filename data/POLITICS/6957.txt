@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Tells Australia Prime Minister That He 'Hates Taking' Refugees", 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/trump-refugees-australia_us_5983310ce4b06d4888748baf', 'short_description': 'He also was wrong about key details of the deal he was disparaging.', 'date': '2017-08-03'}

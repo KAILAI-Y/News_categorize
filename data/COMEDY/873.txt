@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Watching Donald Trump Sing 'Despacito' Is Weirdly Mesmerizing", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-despacito-remix-luis-fonsi-daddy-yankee_us_59783875e4b0c95f375feead', 'short_description': 'This will get you feeling some kind of way.', 'date': '2017-07-26'}

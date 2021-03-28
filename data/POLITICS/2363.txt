@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Was Silent On Deficits And Debt In State Of The Union Speech', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-deficits-debt-state-of-the-union_us_5a71d823e4b0be822ba25139', 'short_description': 'Fiscal conservatism takes a hit.', 'date': '2018-01-31'}

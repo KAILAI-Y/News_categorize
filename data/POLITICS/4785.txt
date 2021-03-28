@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Me Too, I Think? When Sexual Harassment Feels All Too Normal', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/me-too-sexual-harassment-normal_us_59ef6e98e4b0bf1f883628ac', 'short_description': "All women have stories. We're just not sure what to do with them.", 'date': '2017-10-24'}

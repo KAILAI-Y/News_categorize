@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Judge Orders Trump Administration To Allow Undocumented Teen To Have Abortion', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/undocumented-teen-abortion-court_us_59e7c73be4b00905bdaeacf0', 'short_description': "The Justice Department filed an appeal to the judge's ruling later on Wednesday.", 'date': '2017-10-18'}

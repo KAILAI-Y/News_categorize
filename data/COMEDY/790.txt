@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Twitter Imparts Some Presidential Wisdom With #TrumpBackToSchoolTips', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-imparts-some-presidential-wisdom-with-trumpbacktoschooltips_us_59a5bd89e4b084581a13d50c', 'short_description': '"Don\'t bother going -- I love the poorly educated!"', 'date': '2017-08-29'}

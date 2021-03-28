@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Report Shows Massive Increase In Anti-LGBTQ Violence Since Trump Took Office', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/lgbtq-violence-trump_us_5a625035e4b002283002897b', 'short_description': "It's incredibly scary to be LGBTQ in Trump's America.", 'date': '2018-01-22'}

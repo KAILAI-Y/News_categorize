@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Murray Slays As The 'Bannon Cannon' On 'Saturday Night Live'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/bill-murray-steve-bannon-snl_us_5a5adef0e4b04f3c55a33b04', 'short_description': 'And Fred Armisen\'s Michael Wolff talks about Oval Office "baby races."', 'date': '2018-01-14'}

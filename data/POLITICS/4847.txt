@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump To Release Classified Files On JFK Assassination', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jfk-files-release_us_59eb574ae4b00f08619f2205', 'short_description': 'More than 3,000 documents related to the 1963 shooting death have never been publicly released.', 'date': '2017-10-21'}

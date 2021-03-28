@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan's Real Legacy: Donald Trump", 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-legacy-trump_us_5ace4180e4b0648767761deb', 'short_description': "He could have stood up to Trump. He didn't. Not really at least.", 'date': '2018-04-11'}

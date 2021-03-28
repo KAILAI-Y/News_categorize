@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Nearly A Dozen Sharks Found Swimming In New York Home's Basement", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/sharks-found-in-basement-pool_us_59b19819e4b0dfaafcf67219', 'short_description': 'The sharks included the sandbar variety, a protected species.', 'date': '2017-09-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Steve Bannon Says President Cut Off Obamacare Payments To Destroy Health Law', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-obamacare_us_59e38e26e4b03a7be5815bd2', 'short_description': 'Sabotage.', 'date': '2017-10-15'}

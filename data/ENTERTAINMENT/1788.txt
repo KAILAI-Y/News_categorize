@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Brazilian DJ Killed When Festival Stage Collapses During Performance', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/kaleb-freitas-killed-debris_us_5a3939d6e4b0c65287ac8d79', 'short_description': 'DJ Kaleb Freitas died shortly after being struck by debris from the collapsing stage.', 'date': '2017-12-19'}

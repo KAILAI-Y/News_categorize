@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Holds First On-Camera Press Briefing In Weeks', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/white-house-press-briefings_us_59723294e4b00e4363df3242', 'short_description': 'It comes after a morning of drama in the White House press office.', 'date': '2017-07-21'}

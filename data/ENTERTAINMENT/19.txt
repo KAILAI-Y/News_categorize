@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "James Corden And Adam Levine Get Pulled Over During 'Carpool Karaoke'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/james-corden-adam-levine-carpool-karaoke-pulled-over_us_5b07b025e4b0fdb2aa5206b9', 'short_description': 'It was bound to happen.', 'date': '2018-05-25'}

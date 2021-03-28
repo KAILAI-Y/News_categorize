@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "10 Of The Best Cyber Monday TV Deals You'll Actually Want To Shop", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/the-best-cyber-monday-tv-deals_us_5a1c3337e4b0d4906cb046a9', 'short_description': '📺📺📺', 'date': '2017-11-27'}

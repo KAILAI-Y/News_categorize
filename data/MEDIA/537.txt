@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Ana Navarro Defends Tweet About Trump: 'I Did Not Say He Had Dementia'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/ana-navarro-defends-tweet-about-trump-i-did-not-say-he-had-dementia_us_599dab1ee4b0d97c4000b764', 'short_description': '"Go read my tweet. It’s right there."', 'date': '2017-08-23'}

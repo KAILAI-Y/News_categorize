@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Car Slams Into 3 People On Massachusetts Sidewalk (GRAPHIC VIDEO)', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/car-hits-pedestrians_us_59ae4e26e4b0b5e53100625e', 'short_description': 'All of the victims are expected to recover.', 'date': '2017-09-05'}

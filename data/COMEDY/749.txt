@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "This 'Full House' Joey Theory Will Upend Your World", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/this-cracked-full-house-joey-theory-will-upend-your-world_us_59bbffb6e4b0edff971bb0b6', 'short_description': 'Ever wonder why all the Tanner kids were blond?', 'date': '2017-09-15'}

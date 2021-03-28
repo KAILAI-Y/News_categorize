@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Learn BBQ Secrets From Pro Pitmasters', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/learn-bbq-secrets-from-pro-pitmasters_us_59650e41e4b03f144e2e6169', 'short_description': 'Take ‘cue lessons while you sip craft beers.', 'date': '2017-07-11'}

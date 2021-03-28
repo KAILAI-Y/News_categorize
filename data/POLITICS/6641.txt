@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Darkness That Will Outlast Donald Trump', 'authors': 'Martin Luz, ContributorAuthor, Ghostwriter, PR Exec.', 'link': 'https://www.huffingtonpost.com/entry/the-darkness-that-will-outlast-donald-trump_us_59935fa1e4b0a88ac1bc37cf', 'short_description': 'The Republican party owns this.', 'date': '2017-08-15'}

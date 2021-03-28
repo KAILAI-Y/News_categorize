@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Texans Form Human Chain To Rescue Driver From Sinking Car', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/human-chain-rescues-driver_us_59a6b810e4b063ae34da3668', 'short_description': "The heroic act is just one of many that have continued to outshine Hurricane Harvey's devastation.", 'date': '2017-08-30'}

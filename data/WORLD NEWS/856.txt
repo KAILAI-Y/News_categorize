@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Health Emergency Declared In New Delhi As Toxic Smog Blankets The City', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/delhi-health-emergency-smog_us_5a0323d6e4b04e96f0c6fe5a', 'short_description': '“Delhi has become a gas chamber," a senior Indian official warned this week.', 'date': '2017-11-08'}

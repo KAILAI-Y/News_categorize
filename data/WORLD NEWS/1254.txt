@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '2 North Korean Scientists Take Center Stage After Nuclear Test', 'authors': 'Ju-min Park and Soyoung Kim, Reuters', 'link': 'https://www.huffingtonpost.com/entry/north-korea-nuclear-scientists_us_59ad7428e4b0dfaafcf1cd57', 'short_description': "Meet the scientists at the frontline of Kim Jong Un's nuclear ambitions", 'date': '2017-09-04'}

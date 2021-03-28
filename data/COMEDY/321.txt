@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Boom! Stephen Colbert Gives Trump The Parade He Deserves', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/late-show-trump-parade_us_5a7bce4ee4b044b382192bf6', 'short_description': "The president's military fantasy gets a closer look.", 'date': '2018-02-08'}

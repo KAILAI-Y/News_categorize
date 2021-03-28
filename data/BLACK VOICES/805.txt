@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "A Klansman With Locs Showed Up To A KKK Rally Because Hate Doesn't Make Sense", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/a-klansman-with-locs-showed-up-to-a-kkk-rally-because-hate-doesnt-make-sense_us_59662e42e4b09b587d63dd30', 'short_description': 'Bruh.', 'date': '2017-07-12'}

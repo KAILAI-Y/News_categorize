@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Twitter Plays #DonJrChildrensBooks On His Horrible, No Good, Very Bad Day', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-plays-donjrchildrensbooks-on-his-horrible-no-good-very-bad-day_us_59651be3e4b03f144e2e8333', 'short_description': "For Donald Trump Jr., it probably isn't his last.", 'date': '2017-07-11'}

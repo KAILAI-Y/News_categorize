@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Massive Pro-Independence Rallies Fill The Streets In Catalonia', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/catalonia-independence-protests_us_59d39612e4b06557815586e4', 'short_description': 'Metro stations were closed in Barcleona as state workers walked out across Catalonia.', 'date': '2017-10-03'}

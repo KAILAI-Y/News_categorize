@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Evangelical Adviser Says You Don't Need Flu Shots When You Have Jesus", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/gloria-copeland-flu-jesus_us_5a792055e4b00f94fe944ac8', 'short_description': '“Inoculate yourself with the word of God," says Gloria Copeland.', 'date': '2018-02-06'}

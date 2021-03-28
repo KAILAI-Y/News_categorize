@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Another Woman Accuses Nevada Congressman Of Sexual Harassment', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/kihuen-sexual-misconduct_us_5a323ef4e4b091ca26857435', 'short_description': 'She alleges years of unwanted advances.', 'date': '2017-12-14'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Illinois Gun Show Bans AR-15 And Bump Stock Sales After Protesters Speak Out', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/illinois-gun-show-bans-ar-15-sales_us_5a9dc7f7e4b089ec353defd1', 'short_description': 'The popular sales events are a next-level battleground in the gun fight.', 'date': '2018-03-06'}

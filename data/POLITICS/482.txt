@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump-Loving Congressman Gets Flipped Off in Middle School Girl's Photobomb", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/matt-gaetz-flipped-off_us_5ae91a54e4b022f71a02f19a', 'short_description': "Apparently, Mom wasn't amused.", 'date': '2018-05-02'}

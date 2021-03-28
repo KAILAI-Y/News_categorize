@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "India's Gay Prince Opens His Palace To Vulnerable LGBTQ People", 'authors': 'Rina Chandran, Reuters', 'link': 'https://www.huffingtonpost.com/entry/india-gay-prince-palace_us_5a5631f9e4b0d614e48ba016', 'short_description': "Prince Manvendra Singh Gohil says he'll offer rooms, a medical facility and job assistance.", 'date': '2018-01-10'}

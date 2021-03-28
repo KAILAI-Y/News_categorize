@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': '12 Great New Books To Bring To The Beach This Summer', 'authors': 'Maddie Crum and Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/12-great-new-books-to-bring-to-the-beach-this-summer_us_5953f80fe4b0da2c7320b0d5', 'short_description': 'We’re all just looking for the right book to read on vacation.', 'date': '2017-06-29'}

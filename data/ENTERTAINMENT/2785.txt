@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift's Close Friend Todrick Hall Defends Her Election Silence", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-todrick-hall-trump_us_59aadac9e4b0dfaafcf0be5d', 'short_description': '"They’re making this huge assumption."', 'date': '2017-09-02'}

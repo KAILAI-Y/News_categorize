@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "Billy Graham, 'America's Pastor' And Noted Evangelist, Dead At 99", 'authors': 'Jade Walker and Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/billy-graham-dead_us_566e7e34e4b011b83a6bb479', 'short_description': "He believed that all men were lost and would face God's judgment.", 'date': '2018-02-21'}

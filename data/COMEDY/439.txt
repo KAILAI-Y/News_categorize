@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Watch People Criticize A Nonexistent Awards Show On 'Jimmy Kimmel'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-nonexistent-awards-show_us_5a4e5ac8e4b06d1621bddd53', 'short_description': '"I was very disgusted when I saw that."', 'date': '2018-01-04'}

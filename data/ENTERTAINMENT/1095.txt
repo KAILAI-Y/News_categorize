@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ellen DeGeneres Tested Bill Gates With A Grocery  Game. Clearly He Doesn't Shop.", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-gates-ellen-grocery-prices_us_5a8e816be4b0617d463a21ca', 'short_description': 'Perhaps he should stick to coding.', 'date': '2018-02-22'}

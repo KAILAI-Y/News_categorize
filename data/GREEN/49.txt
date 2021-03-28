@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Sea Lion Attacks Shut Popular Swimming Spot In San Francisco', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/sea-lion-attacks-sanfrancisco_us_5a35e445e4b0ff955ad383f0', 'short_description': '"I was a quarter mile from shore; there was nothing I could do," says a man who was bitten.', 'date': '2017-12-17'}

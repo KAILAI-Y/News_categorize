@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Ultimate Fort Wayne, Indiana, Road Trip Playlist', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-ultimate-ft-wayne-indiana-road-trip-playlist_us_59cab1cde4b0d0b254c50c93', 'short_description': 'A Spotify analysis picked up a love of pop and country in this Northern Indiana city.', 'date': '2017-10-04'}

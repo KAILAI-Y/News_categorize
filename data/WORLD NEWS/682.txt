@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Pope Francis Questions Traditional Translation Of Lord's Prayer", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/pope-francis-lords-prayer_us_5a2aa38be4b0a290f0500f8f', 'short_description': '"Lead us not into temptation" isn\'t a good version of the ancient Christian prayer, Francis said.', 'date': '2017-12-08'}

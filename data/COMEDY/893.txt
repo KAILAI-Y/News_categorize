@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "What's Playing At The Drive-In On The Planet Of The Apes", 'authors': 'Victor Brand', 'link': 'https://www.huffingtonpost.com/entry/cinema-of-the-apes_us_5967bb5ce4b0d6341fe77867', 'short_description': "There's no business like monkey business.", 'date': '2017-07-14'}

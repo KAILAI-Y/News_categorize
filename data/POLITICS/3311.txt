@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sen. Cory Booker Gets Extra Security Following Death Threat', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/cory-booker-death-threat_us_5a379717e4b040881bec1352', 'short_description': "Police have beefed up security at the senator's residence in Newark, New Jersey.", 'date': '2017-12-18'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Hannity Opens Trump Jr. Interview With Attack On 'Overpaid, Lazy' Media", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/hannity-donald-trump-jr-interview-media-attack_us_59657f19e4b03f144e2efe94', 'short_description': "The Fox News host also singled out MSNBC's Joe Scarborough.", 'date': '2017-07-12'}

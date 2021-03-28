@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'North Korea Says It Will Send A Delegation To The Winter Olympics In South Korea', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/north-korea-olympics_us_5a54459ce4b003133ecb8e00', 'short_description': 'The move is a striking change following months of tension on the Korean peninsula.', 'date': '2018-01-09'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Spike Lee's 'She's Gotta Have It' Is Being Adapted Into Show For Netflix", 'authors': 'Lilly Workneh', 'link': 'https://www.huffingtonpost.com/entry/spike-lee-shes-gotta-have-it-series_us_5950446fe4b05c37bb773568', 'short_description': 'Netflix announced on Sunday that the show will debut this Thanksgiving.', 'date': '2017-06-26'}

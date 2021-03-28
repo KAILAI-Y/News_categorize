@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kristina Reveals How She's Dealing With Dean After 'Bachelor In Paradise'", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/kristina-dean-bachelor-in-paradise_us_59bc0fcce4b0edff971bd0d9', 'short_description': '"I try to see the best in people."', 'date': '2017-09-15'}

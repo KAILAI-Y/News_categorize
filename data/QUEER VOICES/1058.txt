@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Transgender Airman Defies Trump: 'Try To Kick Me Out Of My Military'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/transgender-airman-defies-trump_us_59794d34e4b0da64e876901b', 'short_description': '"It just makes me very motivated today to continue my training.”', 'date': '2017-07-27'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "British Tweeters Celebrate 'Ed Balls Day,' Their Strangest 'National Holiday'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ed-balls-day-twitter-uk-national-holiday_us_5ae44786e4b02baed1ba84c2', 'short_description': '"It feels like the last Ed Balls day was just a few months ago."', 'date': '2018-04-28'}

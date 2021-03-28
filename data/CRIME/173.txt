@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '2018 Is Already Off To A Violent Start', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/2018-gun-violence_us_5a4a9bb6e4b025f99e1cf4f2', 'short_description': "There were several shootings around the U.S. on New Year's Day.", 'date': '2018-01-01'}

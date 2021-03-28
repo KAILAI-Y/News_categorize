@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Steve Bannon: 'Let Them Call You Racist; Wear It As A Badge Of Honor'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/bannon-far-right-french-racists_us_5aa45bade4b07047bec70239', 'short_description': '“The tide of history is with us," Bannon tells the French far right.', 'date': '2018-03-11'}

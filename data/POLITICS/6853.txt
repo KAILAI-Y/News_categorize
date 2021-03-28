@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Orrin Hatch Just Used An X-Rated Phrase, But He Really Didn’t Mean It Like That', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/orrin-hatch-they-shot-their-wad_us_598939b4e4b0449ed504f522', 'short_description': 'Also, you have a dirty mind.', 'date': '2017-08-08'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hurricane Irma Strengthens To Category 5 Storm', 'authors': 'Ian Simpson, Reuters', 'link': 'https://www.huffingtonpost.com/entry/puerto-rico-emergency-irma_us_59ad9b9fe4b0dfaafcf1dc50', 'short_description': 'Irma is expected to reach southern Florida on Saturday.', 'date': '2017-09-04'}

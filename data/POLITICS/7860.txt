@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Make America Talk Again', 'authors': 'Joshua White, ContributorJosh White is a husband and father, a traveler, a bridge playe...', 'link': 'https://www.huffingtonpost.com/entry/make-america-talk-again_us_595b9941e4b0f078efd98c81', 'short_description': 'Commit to building relationships with “them.”', 'date': '2017-07-04'}

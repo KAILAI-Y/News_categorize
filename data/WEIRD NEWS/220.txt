@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Parents Give Teachers Gift Suggesting Son Drives Them To Drink', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/jake-sommers-wine-gifts_us_5a3d5443e4b06d1621b439e6', 'short_description': '"Who doesn\'t need a glass of wine after teaching a kid like mine?"', 'date': '2017-12-22'}

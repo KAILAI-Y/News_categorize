@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How The Pentagon Devours The Budget', 'authors': 'TomDispatch, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/pentagon-devours-money_us_5a958750e4b0f2c735654d75', 'short_description': 'Normalizing budgetary bloat', 'date': '2018-02-27'}

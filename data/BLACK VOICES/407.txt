@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Spike Lee’s ‘She’s Gotta Have It’ Renewed For Second Season', 'authors': 'Philip Lewis', 'link': 'https://www.huffingtonpost.com/entry/spike-lees-shes-gotta-have-it-renewed-for-second-season_us_5a4ae9c3e4b0b0e5a7a80c66', 'short_description': 'Happy New Year!', 'date': '2018-01-02'}

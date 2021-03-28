@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '4 Things Trump Could Be Doing Instead Of Tweeting', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-tweeting_us_59552033e4b05c37bb7c9fdb', 'short_description': 'Six months in, the president has yet to take care of some of the basics.', 'date': '2017-06-29'}

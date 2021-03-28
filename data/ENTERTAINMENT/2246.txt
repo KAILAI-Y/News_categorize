@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Seinfeld' Fans Name The Show's Most Valuable Life Lessons", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seinfeld-taught-me-twitter-trend_us_59fc4fe6e4b01b474049b040', 'short_description': '"It\'s not a lie, if you believe it."', 'date': '2017-11-03'}

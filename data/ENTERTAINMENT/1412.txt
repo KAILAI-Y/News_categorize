@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Laura Dern Has A Dog Doppelgänger And The Internet Agrees', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/laura-dern-dog-doppleganger_us_5a688b7fe4b0022830085047', 'short_description': 'The actress had an amazing response to the picture.', 'date': '2018-01-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Florida Senate Approved An AR-15 Ban. Then They Didn't.", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/florida-senate-ar-15-ban-republicans_us_5a9b2996e4b0479c02531df6', 'short_description': 'Every member who opposed the short-term prohibition on sales was Republican.', 'date': '2018-03-04'}

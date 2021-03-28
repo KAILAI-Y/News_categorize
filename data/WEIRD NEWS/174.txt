@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Sushi Fanatic Rethinks Raw Fish After Pulling 5-Foot Tapeworm From Body', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/sushi-tapeworm-fresno_us_5a637b87e4b002283003341b', 'short_description': 'A doctor suspects it came from improperly prepared raw salmon.', 'date': '2018-01-20'}

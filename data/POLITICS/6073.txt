@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'House To Vote This Week On First Package Of Harvey Aid', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/house-harvey-aid-vote_us_59ad8671e4b0b5e531001f22', 'short_description': 'The move could imperil action on funding the government and raising the debt ceiling.', 'date': '2017-09-04'}

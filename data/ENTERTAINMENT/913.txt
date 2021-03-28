@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Bachelor' Arie Luyendyk Jr. And Lauren Burnham Get Engaged", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/arie-luyendyk-lauren-burnham-bachelor_us_5a9fc3e1e4b0d4f5b66bdc05', 'short_description': 'But after his betrayal of Becca, is he coming out of this smelling like a rose?', 'date': '2018-03-07'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Randy Rainbow Rips Donald Trump And His Supporters In 'All About His Base'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/randy-rainbow-donald-trump-all-about-his-base_us_5a702807e4b05836a256012d', 'short_description': '"He bringing stupid back, he\'s an unmanageable maniac."', 'date': '2018-01-30'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan Defends His Call For Prayers After Texas Mass Shooting: 'Prayer Works'", 'authors': 'Ed Mazza and Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-mass-shooting-prayer_us_5a014f1fe4b07eb51181be67', 'short_description': '"The right thing to do is pray in moments like this."', 'date': '2017-11-07'}

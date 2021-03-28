@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Backers Share His Animosity Toward The Media, Poll Shows', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-media-enemy-poll_us_592f1a54e4b0e09b11ed2eb6', 'short_description': 'Many Americans view their political opponents as enemies, not just rivals.', 'date': '2017-05-31'}

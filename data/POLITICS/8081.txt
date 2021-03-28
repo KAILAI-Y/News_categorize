@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'America At War Since 9/11', 'authors': "Rebecca Gordon, ContributorAuthor, 'American Nuremberg: The U.S. Officials Who Should Sta...", 'link': 'https://www.huffingtonpost.com/entry/america-at-war-since-911_us_595296a1e4b0da2c731ef06b', 'short_description': 'Reality or reality TV?', 'date': '2017-06-27'}

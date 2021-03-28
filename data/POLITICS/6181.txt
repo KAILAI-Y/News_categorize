@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The NRA Takes Aim At The New York Times', 'authors': 'Mike Weisser, ContributorMike the Gun Guy', 'link': 'https://www.huffingtonpost.com/entry/the-nra-takes-aim-at-the-new-york-times_us_59a70e64e4b0a8d14572bbd0', 'short_description': 'And nobody should be all that concerned.', 'date': '2017-08-30'}

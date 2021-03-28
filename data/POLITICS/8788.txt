@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'We (Still) Don’t Know If Trump Believes In Climate Change', 'authors': 'Sam Levine and JM Rieger', 'link': 'https://www.huffingtonpost.com/entry/we-still-dont-know-if-trump-believes-in-climate-change_us_5932085ce4b02478cb9bb72d', 'short_description': 'At this rate, we may never know.', 'date': '2017-06-03'}

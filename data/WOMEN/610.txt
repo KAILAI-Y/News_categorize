@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'NRA Spokesperson Compared Penalizing Gun Owners To ‘Shaming A Rape Survivor’', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/nra-spokesperson-compared-penalizing-gun-owners-to-shaming-a-rape-survivor_us_597b9b9ae4b02a8434b67576', 'short_description': 'Um.', 'date': '2017-07-28'}

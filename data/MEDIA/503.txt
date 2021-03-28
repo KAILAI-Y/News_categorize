@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'New Yorker Releases Cover It Would Have Run If Hillary Clinton Had Won', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/new-yorker-cover-hillary-clinton_us_59b9d9c9e4b086432b043f4d', 'short_description': 'The image is called "The First."', 'date': '2017-09-14'}

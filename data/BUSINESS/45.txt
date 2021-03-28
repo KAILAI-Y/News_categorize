@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Bumble Bans Gun Photos From Members' Profiles", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/bumble-bans-gun-photos-on-profiles_us_5a9e1ae6e4b089ec353e155c', 'short_description': 'AR-15s don\'t mix with dating app "rooted in kindness and respect."', 'date': '2018-03-06'}

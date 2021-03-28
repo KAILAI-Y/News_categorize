@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "There's Virtually No Way Trump Could Win The Nobel Prize This Year For North Korea", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-nobel-peace-prize_us_5ae95c96e4b022f71a031ac3', 'short_description': 'But next year is a different story.', 'date': '2018-05-03'}

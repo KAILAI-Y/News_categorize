@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Runner Wins Venice Marathon After Rivals Make Wrong Turn', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/venice-marathon-wrong-turn_us_59ee23f1e4b0d8293cabbe43', 'short_description': 'Eyob Faniel became the first Italian to win the race in 22 years.', 'date': '2017-10-23'}

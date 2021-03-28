@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The U.S. Just Quietly Deported The Largest Group Of Cambodians Ever', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/cambodians-deported-trump-immigration_us_5ac77dd9e4b07a3485e3da6c', 'short_description': 'The group included refugees who had been in the U.S. for decades.', 'date': '2018-04-06'}

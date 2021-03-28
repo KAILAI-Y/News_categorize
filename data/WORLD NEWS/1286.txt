@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Photos Show The Reality Of Women's Lives In Rural Afghanistan", 'authors': 'Najiba Noori, Sahar Speaks', 'link': 'https://www.huffingtonpost.com/entry/najiba-noori_us_5980af11e4b08e143006128b', 'short_description': 'Hardships and yet smiles.', 'date': '2017-08-31'}

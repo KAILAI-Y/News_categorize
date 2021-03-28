@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "It Seems 'The Walking Dead' Season 8 Trailer Just Trolled Everyone", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/the-walking-dead-season-8-trailer-trolled-everyone-with-that-coma-scene_us_5971b4f8e4b09e5f6cce79bd', 'short_description': 'Is "The Walking Dead" all a dream?', 'date': '2017-07-22'}

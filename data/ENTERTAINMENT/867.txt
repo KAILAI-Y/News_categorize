@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Simpsons' Producer Reveals The O.J. Simpson Cameo That Never Was", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/simpsons-producer-reveals-oj-simpson-cameo-that-never-was_us_5aa6a718e4b087e5aaec86a3', 'short_description': 'Sunday was 25 years to the day of when it would have aired.', 'date': '2018-03-12'}

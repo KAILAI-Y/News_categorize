@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'See All The Looks From The 2018 SAG Awards Red Carpet', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/see-all-the-looks-from-the-2018-sag-awards-red-carpet_us_5a65138fe4b0dc592a09f3c6', 'short_description': 'Stars came out for the only awards show for actors, by actors', 'date': '2018-01-22'}

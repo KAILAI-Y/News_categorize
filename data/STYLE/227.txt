@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Chalayan's Fashion Week Show Included Swarovski-Encrusted Headgear", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/chalayans-fashion-week-show-included-swarovski-encrusted-headgear_us_59c12b41e4b0f22c4a8c9fb8', 'short_description': 'What is going on here?', 'date': '2017-09-19'}

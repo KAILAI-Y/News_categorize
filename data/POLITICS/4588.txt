@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'This Teacher Has Watched 3 Deadly Attacks From Inside Stuyvesant High School', 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/stuyvesant-teacher-three-attacks_us_59f92fade4b046017fafb466', 'short_description': "Sadly, it's no longer surprising.", 'date': '2017-11-01'}

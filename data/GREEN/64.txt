@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Heartbreaking Video Shows Starving Polar Bear On Warming Canadian Island', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/starving-polar-bear-canada_us_5a2b1e5ae4b069ec48ad80f9', 'short_description': 'A photographer filmed the "soul-crushing" scene to try to break through climate change apathy.', 'date': '2017-12-09'}

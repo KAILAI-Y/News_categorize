@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Director James Gunn Slams Harvey Weinstein And All Sexual Predators In One Post', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/james-gunn-harvey-weinstein-sexual-harrassment_us_59dbec32e4b0b34afa5ba06f', 'short_description': '"F**K. THEM. ALL."', 'date': '2017-10-09'}

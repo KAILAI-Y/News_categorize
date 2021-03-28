@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'These 19 Men Are Vying For Best Actor In The 2018 Oscar Race', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/best-actor-predictions-2018-oscars_us_5a0e0791e4b0dd63b1a9520a', 'short_description': 'Gary Oldman can claim the brightest hour in this contest -- for now.', 'date': '2017-11-17'}

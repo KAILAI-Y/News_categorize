@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Dan Rather Subtly Zings Donald Trump With Immanuel Kant Quote About Lies', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/dan-rather-donald-trump-kant_us_5aab8900e4b0337adf82c2d9', 'short_description': '“By a lie a man throws away and, as it were, annihilates his dignity as a man."', 'date': '2018-03-16'}

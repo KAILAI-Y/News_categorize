@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Samantha Bee: 'Fire And Fury' Is 'The Book-Length Version Of A Trump Tweet'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-michael-wolff-distracting-2018_us_5a57258ae4b0a300f905f126', 'short_description': '"Only vaguely truth-adjacent but incredibly distracting, which is too bad."', 'date': '2018-01-11'}

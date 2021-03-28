@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Precious Toddler And Giant Poodle Have The Most Adorable Friendship', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/precious-toddler-and-giant-poodle-have-the-most-adorable-friendship_us_59887cdbe4b08b75dcc86749', 'short_description': "Can't handle the cute!", 'date': '2017-08-07'}

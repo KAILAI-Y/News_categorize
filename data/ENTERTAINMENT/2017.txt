@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jennifer Lawrence Explains Why She’s A ‘Huge A**hole’ In Public', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/jennifer-lawrence-rude-public_us_5a1dc97ee4b04abdc6147a3f', 'short_description': '“‘Can I have a selfie?’ And I’m like, ‘No!’”', 'date': '2017-11-28'}

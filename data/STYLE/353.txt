@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Why So Many Senators Wore Seersucker Today', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/dianne-feinstein-seersucker_us_593969ebe4b0b13f2c67f7ff', 'short_description': "It's about time you learned about Seersucker Thursday.", 'date': '2017-06-08'}

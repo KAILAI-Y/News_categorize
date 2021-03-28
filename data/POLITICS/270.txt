@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Just Launched The War On Christmas In May And People Are So Not Having It', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-war-on-christmas-may_us_5af51ee4e4b00d7e4c190452', 'short_description': "Apparently, it's that time of year already.", 'date': '2018-05-11'}

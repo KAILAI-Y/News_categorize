@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'This Streaker In Buffalo Ran For More Yards Than The Bills Did', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/streaker-buffalo-bills_us_5a098f08e4b01d21c83fe023', 'short_description': 'Sign him up! But give him clothes first.', 'date': '2017-11-13'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Parkland Shooter's Rifle Magazines Were Etched With Swastikas: Reports", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/parkland-shooter-swastikas_us_5a96a5c4e4b09c872bafe4af', 'short_description': 'The accused gunman left a rifle and 180 rounds of ammunition in the school, officials said.', 'date': '2018-02-28'}

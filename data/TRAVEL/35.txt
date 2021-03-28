@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "United Airlines Mistakenly Flies Family's Dog To Japan Instead Of Kansas City", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/united-airlines-dog-japan-missouri_us_5aa949dee4b0004c04067a57', 'short_description': 'The mix-up came just a day after a puppy died aboard a United flight.', 'date': '2018-03-14'}

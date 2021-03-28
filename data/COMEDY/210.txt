@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Crazy Old SOB' Pat Robertson Gets A Crude Birthday Present From Jimmy Kimmel", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/pat-robertson-jimmy-kimmel-birthday-video_us_5ab4a3d3e4b008c9e5f5f07a', 'short_description': "The televangelist's words come back to haunt him on his birthday.", 'date': '2018-03-23'}

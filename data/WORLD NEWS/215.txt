@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Saudi Crown Prince's Claims About Gender Equality Don't Add Up", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/saudi-prince-gender-equality_us_5aaf8397e4b05b2218005cd0', 'short_description': "Mohammed bin Salman says he's undoing decades of  oppression, but women still lack equal rights.", 'date': '2018-03-19'}

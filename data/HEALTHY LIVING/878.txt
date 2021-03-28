@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'This Is What Heat Stroke Does To Your Body', 'authors': 'Stephanie Hallett', 'link': 'https://www.huffingtonpost.com/entry/heat-stroke-signs_us_59278ca1e4b01b9a5937c2da', 'short_description': "If you're experiencing these symptoms, seek cooler temperatures ASAP.", 'date': '2017-05-29'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration Will Appeal DACA Ruling', 'authors': 'Lawrence Hurley 4 MIN READ, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trum-daca-appeal_us_5a5e506ce4b0106b7f65c5f7', 'short_description': "A 9th U.S. Circuit Court last week blocked Trump's move to end the program for Dreamers.", 'date': '2018-01-16'}

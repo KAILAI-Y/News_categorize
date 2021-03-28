@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Justin Trudeau Will Formally Apologize For Canada's Past LGBTQ Persecution", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/justin-trudeau-lgbtq-apology_us_5a12149ae4b0dd63b1ab29ad', 'short_description': 'The Canadian prime minister will deliver the apology later this month.', 'date': '2017-11-20'}

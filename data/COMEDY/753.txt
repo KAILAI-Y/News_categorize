@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Comedy Central Renews Trevor Noah's 'Daily Show' Through 2022", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/comedy-central-renews-trevor-noahs-daily-show-through-2022_us_59bac1c6e4b086432b0540a7', 'short_description': 'A welcomed voice of reason as the end of the world approaches.', 'date': '2017-09-14'}

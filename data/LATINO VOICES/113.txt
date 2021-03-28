@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "J.Lo Says Working With Marc Anthony On New Album 'Repaired' Their Relationship", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/jlo-marc-anthony-new-album-relationship_us_5a21918ce4b0a02abe90ee7f', 'short_description': '"It kind of made us friends again."', 'date': '2017-12-01'}

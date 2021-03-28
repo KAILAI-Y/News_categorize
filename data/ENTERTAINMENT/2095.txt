@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Netflix Announces New Dave Chappelle Special In 'Stranger Things' Style", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/new-dave-chappelle-netflix-special-announced-in-stranger-things-style_us_5a0f1ce2e4b045cf43711ddf', 'short_description': 'The stand-upside down?', 'date': '2017-11-17'}

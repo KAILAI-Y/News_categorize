@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congress Passes Another Short-Term Spending Deal', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/house-passes-short-term-spending-bill_us_5a3c2b84e4b0b0e5a7a0ddcf', 'short_description': "The government won't shut down after all.", 'date': '2017-12-21'}

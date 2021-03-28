@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Hannity Flips Out: Mueller Probe 'Is A Direct Threat To This American Republic'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-mueller-direct-threat_us_5afe5528e4b07309e05668fc', 'short_description': '"Mueller is causing irreparable damage to the rule of law in this country.”', 'date': '2018-05-18'}

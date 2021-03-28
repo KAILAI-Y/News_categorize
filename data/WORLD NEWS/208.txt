@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Trump Tweets Strange Warning Of 'Coming Arms Race,' Suggests Russia Can Help", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-vladimir-putin_us_5ab2b281e4b008c9e5f3b963', 'short_description': 'He also said Moscow can "help solve problems" in Ukraine and Syria. 🤔', 'date': '2018-03-21'}

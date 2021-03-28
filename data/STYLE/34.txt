@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "10 Winter Hats For Natural Hair That'll Protect Your Beautiful Curls", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/10-winter-hats-for-natural-hair-thatll-protect-your-beautiful-curls_us_5a4534a4e4b06d1621b792d2', 'short_description': 'No more flattened curls 🙅', 'date': '2017-12-29'}

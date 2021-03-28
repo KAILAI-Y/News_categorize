@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "A Look Back At Eminem's Image Over The Years", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/eminem-style_us_59dfa67de4b00abf36472cba', 'short_description': 'Lose Yourself in this walk down memory lane.', 'date': '2017-10-12'}

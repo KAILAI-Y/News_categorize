@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Tens Of Thousands In Hungary Protest Far-Right Leader Viktor Orbán', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/viktor-orban-hungary-election-protests_us_5ad0dbd0e4b016a07e9c11f7', 'short_description': 'There is widespread concern that Hungary is drifting away from democracy.', 'date': '2018-04-14'}

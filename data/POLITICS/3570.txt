@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Attacks Roy Moore's Accuser At Florida Rally", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-beverly-nelson-young_us_5a2af93ee4b0a290f050a005', 'short_description': 'The president also told the crowd to "Get out and vote for Roy Moore" for Senate.', 'date': '2017-12-09'}

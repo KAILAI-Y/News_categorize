@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chicago Mayor Rahm Emanuel Casts Doubt On Democratic Sweep In 2018', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/emanuel-democrats-2018_us_592adc60e4b0df57cbfc2474', 'short_description': '“It took us a long time to get this low. It ain\'t going to happen in 2018."', 'date': '2017-05-28'}

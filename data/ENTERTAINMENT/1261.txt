@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Justin Timberlake Is The New Face Of Dad-Pop', 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/justin-timberlake-face-of-dad-pop_us_5a773631e4b06ee97af3c599', 'short_description': "Controversies aside, have we stopped to consider that maybe he's just corny?", 'date': '2018-02-05'}

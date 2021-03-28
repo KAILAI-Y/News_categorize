@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Canadian Pharmaceutical Billionaire, Wife Found Dead In Toronto', 'authors': 'Julie Gordon, Reuters', 'link': 'https://www.huffingtonpost.com/entry/canadian-pharmaceutical-billionaire-dead_us_5a34676fe4b01d429cc8f9d5', 'short_description': 'Police have described the circumstances surrounding the deaths as "suspicious"', 'date': '2017-12-16'}

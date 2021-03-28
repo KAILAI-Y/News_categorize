@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "'Eat Your F**king Food' Is The Parenting Anthem You Didn't Know You Needed", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/eat-your-fking-food-is-the-parenting-anthem-you-didnt-know-you-needed_us_598d3d0fe4b08a2472737a56', 'short_description': 'Too real.', 'date': '2017-08-11'}

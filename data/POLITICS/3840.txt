@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Rep. Joe Barton Says He Won't Seek Re-Election In 2018", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/joe-barton-no-re-election-2018_us_5a203ad8e4b037b8ea208c92', 'short_description': 'A sexually explicit photo of the Texas Republican recently surfaced.', 'date': '2017-11-30'}

@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "The Best Comments From Milo Yiannopoulos' Editor On His Spiked Manuscript", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-best-comments-from-milo-yiannopoulos-editor-on-his-spiked-manuscript_us_5a451019e4b025f99e1a16c1', 'short_description': 'Christmas has come late.', 'date': '2017-12-28'}

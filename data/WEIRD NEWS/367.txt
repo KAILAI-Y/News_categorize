@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'A Blue Fuzzy Fighter Stole The Spotlight Before Mayweather-McGregor Fight', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/gervonta-davis-furry-blue-outfit_us_59a237e7e4b06d67e33815b8', 'short_description': 'Let the Cookie Monster jokes commence.', 'date': '2017-08-27'}

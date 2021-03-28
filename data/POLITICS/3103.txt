@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'The Office' Star Jenna Fischer Apologizes For Getting Detail Of GOP Tax Bill Wrong", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/jenna-fischer-twitter-gop-tax-bill_us_5a4419bfe4b0b0e5a7a49345', 'short_description': '"I made a mistake and I want to correct it," she tweeted.', 'date': '2017-12-27'}

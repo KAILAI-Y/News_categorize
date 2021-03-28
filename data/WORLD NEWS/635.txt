@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "China Unveils World's Largest Carbon Market", 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/china-carbon-market_us_5a38c978e4b0860bf4aab4b8', 'short_description': 'The move shows China is taking the lead on climate change as the U.S. retreats.', 'date': '2017-12-19'}

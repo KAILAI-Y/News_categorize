@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Uber Finds Itself In More Legal Trouble, This Time With The Justice Department', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/uber-foreign-bribery-doj_us_59a5db92e4b063ae34d9ba2d', 'short_description': 'The DOJ is looking into claims Uber might have violated foreign-bribery laws.', 'date': '2017-08-29'}

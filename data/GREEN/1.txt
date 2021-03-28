@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Fourth San Francisco Swimmer In A Month Attacked By Sea Lion', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/fourth-sealion-attack-sanfrancisco_us_5a583316e4b02cebbfda6954', 'short_description': 'The woman was not seriously injured even though animal "chomped down," a witness said.', 'date': '2018-01-12'}

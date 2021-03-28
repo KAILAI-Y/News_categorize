@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republican Lawmakers Concerned By Facebook Data Leak', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/republican-lawmakers-concerned-by-facebook-data-leak_us_5aaf37aae4b05b221800250f', 'short_description': 'Cambridge Analytica has denied violating Facebook’s terms.', 'date': '2018-03-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Twitter Users Burn Trump For Denying He Watches 4-8 Hours Of TV A Day', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/trump-tv-watching-tweet_us_5a2eaed7e4b073789f6b9b84', 'short_description': 'To paraphrase Shakespeare, the president doth protest too much.', 'date': '2017-12-11'}

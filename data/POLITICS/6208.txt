@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Former Clerk Defends Arizona Judge Who Ruled Against Ex-Sheriff Joe Arpaio', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/joe-arpaio-pardon-clerk_us_59a5b595e4b00795c2a213f2', 'short_description': 'The recently pardoned Arpaio claims he was the victim of a "political witch hunt."', 'date': '2017-08-29'}

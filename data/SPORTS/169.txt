@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Olympic Figure Skater Cosplays Jaime Lannister For 'Game Of Thrones' Routine", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/olympic-game-of-thrones-paul-fentz_us_5a87e7f3e4b00bc49f444b4b', 'short_description': '"We need to give him every medal."', 'date': '2018-02-17'}

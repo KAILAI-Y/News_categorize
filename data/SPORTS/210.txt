@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Baby Watching Her Olympian Dad Compete On TV Will Give You Gold Medal Feels', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/baby-watching-olympics-dad-tv-curling_us_5a842772e4b0adbaf3d94ad2', 'short_description': "She's got her cute mojo working for Canada's Winter Olympics curling team.", 'date': '2018-02-14'}

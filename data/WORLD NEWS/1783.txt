@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Police Helicopter Strafes Supreme Court, Government Ministry In Venezuela', 'authors': 'By Silene Ramírez and Eyanir Chinea, Reuters', 'link': 'https://www.huffingtonpost.com/entry/venezuela-supreme-court-attacked_us_5952fc3ae4b05c37bb7a592c', 'short_description': 'There were no reports of injuries.', 'date': '2017-06-28'}

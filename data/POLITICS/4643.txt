@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Obama's Overtime Reforms Aren't Dead Yet", 'authors': 'Dave Jamieson', 'link': 'https://www.huffingtonpost.com/entry/overtime-reform-trump_us_59f7561ce4b09b5c256772ce', 'short_description': 'Trump might make more workers eligible for overtime pay, just not as many as Obama envisioned.', 'date': '2017-10-30'}

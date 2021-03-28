@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Google Features 12 Female Artists To Celebrate International Women's Day", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/google-features-12-female-artists-to-celebrate-international-womens-day_us_5a9ef2b3e4b0d4f5b66b19a6', 'short_description': "Happy Women's History Month!", 'date': '2018-03-07'}

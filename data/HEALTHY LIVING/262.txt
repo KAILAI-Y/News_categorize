@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "7 Graphics Cast Light On America's Gun Problem", 'authors': 'Erin Schumaker and Alissa Scheller', 'link': 'https://www.huffingtonpost.com/entry/gun-statistics_us_59d2a0b4e4b048a443248337', 'short_description': "Imagine what we'd know if studying the issue were easier?", 'date': '2017-10-03'}

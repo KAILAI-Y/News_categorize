@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jerusalem Is Just The Latest Example Of Trump's Nonsensical Foreign Policy", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/jerusalem-trump-foreign-policy_us_5a29598fe4b03ece0300983b', 'short_description': 'The president\'s "America first" moves continue to provoke widespread backlash.', 'date': '2017-12-07'}

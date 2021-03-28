@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Let's Take A Minute To Praise Beyoncé's Epic Pregnancy Style", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/beyonce-pregnancy-style_us_5947d8aee4b06bb7d274a3a3', 'short_description': '"I look so good tonight" - Beyoncé, in all of these photos.', 'date': '2017-06-19'}

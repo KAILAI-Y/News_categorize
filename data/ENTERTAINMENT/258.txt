@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jimmy Kimmel Takes A Swipe At Kylie Jenner And That'll Sting", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-kylie-jenner_us_5aec78cee4b0ab5c3d650c45', 'short_description': "Didn't see that coming.", 'date': '2018-05-04'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Constant Anxiety Won't Save The World", 'authors': 'The Atlantic, ContributorExploring the American idea since 1857', 'link': 'https://www.huffingtonpost.com/entry/constant-anxiety-wont-save-the-world_us_599ed409e4b0cb7715bfd383', 'short_description': 'Anxiety is not a necessary prerequisite for action.', 'date': '2017-08-24'}

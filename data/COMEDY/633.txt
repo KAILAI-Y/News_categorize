@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Sam Bee Presents Horrific Tales 'Coming From Inside The White House'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/sam-bee-presents-horrific-tales-coming-from-inside-the-white-house_us_59f898b0e4b09b5c25694418', 'short_description': 'Truly horrifying, or horrifyingly true??', 'date': '2017-10-31'}

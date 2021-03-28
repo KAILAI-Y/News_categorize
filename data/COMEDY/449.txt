@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trump's Speeches Sound Suspiciously Like Holiday Movie Lines", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trump-holiday-movie-lines-jimmy-fallon_us_5a3ce437e4b06d1621b3a271', 'short_description': 'Wait. What?!?', 'date': '2017-12-22'}

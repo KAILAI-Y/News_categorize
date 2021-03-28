@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Late Show' Gives The White House A Makeover For Donald Trump's Return", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-white-house-makeover_us_5a0d6b7fe4b0c0b2f2f7dece', 'short_description': 'Confidential briefing papers are out in the spoof clip.', 'date': '2017-11-16'}

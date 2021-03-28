@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan Says He Won't Seek Re-Election", 'authors': 'Marina Fang and Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-reelection_us_5a328e40e4b07ff75b00d34a', 'short_description': 'The House speaker will complete his current term in Congress.', 'date': '2018-04-11'}

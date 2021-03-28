@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jeff Flake's Speech And The White House Response Was The Trump Presidency In A Nutshell", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/flake-white-house-trump-gop_us_59efe79fe4b0b7e63265bc01', 'short_description': 'In Trumpland, political might always makes right.', 'date': '2017-10-25'}

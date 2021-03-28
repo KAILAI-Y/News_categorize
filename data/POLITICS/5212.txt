@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "In Bizarre Photo Op, Trump Tells Press 'This Is The Calm Before The Storm'", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-photo-op_us_59d6cc16e4b072637c430e62', 'short_description': '“You guys know what this represents?” Trump asked reporters.', 'date': '2017-10-06'}

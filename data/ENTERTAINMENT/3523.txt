@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ariana Grande Announces Manchester Benefit Concert In Powerful Open Letter', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/ariana-grande-announces-manchester-benefit-concert-in-powerful-open-letter_us_59286e2fe4b0065b20b66c62', 'short_description': '"We won\'t let hate win."', 'date': '2017-05-26'}

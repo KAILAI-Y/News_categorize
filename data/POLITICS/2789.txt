@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Top Goon: Donald Trump Brags About Selling A Fighter Jet That Only Exists In 'Call Of Duty'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-boasts-fighter-jet-video-game_us_5a5879d3e4b0720dc4c5f332', 'short_description': '"I wonder if F-52s were invented in Nambia?"', 'date': '2018-01-12'}

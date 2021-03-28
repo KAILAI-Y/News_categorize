@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Janelle Monáe May Be Mass-Producing Those Vagina Pants', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/janelle-monae-pynk-vagina-pants_us_5ae9c305e4b022f71a03f0d7', 'short_description': "It's a good day, people.", 'date': '2018-05-02'}

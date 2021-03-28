@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bernie Sanders Sets His Sights On The Foreign Policy Establishment', 'authors': 'Akbar Shahid Ahmed', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-foreign-policy-establishment_us_59c2ee8be4b0c90504fb65cb', 'short_description': "Sanders will give a major speech Thursday. Here's a sneak peek.", 'date': '2017-09-21'}

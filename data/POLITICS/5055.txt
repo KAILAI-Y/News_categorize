@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Kellyanne Conway's Tweet About Trump 'Empowering Women' Didn't Go Down Well", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-donald-trump-empowering-women_us_59e05e93e4b03a7be57f802f', 'short_description': '"Do you actually have no clue how ridiculous this assertion is?"', 'date': '2017-10-13'}

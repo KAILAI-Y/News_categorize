@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Ladurée's Macarons Are Made In Factories Far, Far Away, And Now We Have Trust Issues", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/laduree-macarons-hibernation-factories_us_59ef9c9ee4b0b7e632658dab', 'short_description': '"They hibernate and then we slowly wake them."', 'date': '2017-10-26'}

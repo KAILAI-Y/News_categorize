@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Pink Got Her Kid's Age Wrong, And Every Parent Can Relate", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/pink-got-her-kids-age-wrong-and-every-parent-can-relate_us_59d6810fe4b072637c42bb66', 'short_description': 'The singer gets real about motherhood in her upcoming documentary.', 'date': '2017-10-05'}

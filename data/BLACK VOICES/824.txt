@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "John Blackwell Jr., Prince's Former Drummer, Dead At 43", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/john-blackwell-jr-prince-drummer-dead_us_595ced64e4b02734df351a43', 'short_description': 'Blackwell had been battling cancer for the past year.', 'date': '2017-07-05'}

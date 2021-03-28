@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Thinks He Has Proof That Trump Watches His Show', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-watches-late-show_us_5ad7f3a7e4b029ebe020d303', 'short_description': '"Late Show" host finds hidden meaning in a Trump tweet.', 'date': '2018-04-19'}

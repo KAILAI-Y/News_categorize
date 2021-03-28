@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Exit Poll Shows UK Conservatives Set To Lose Majority Government', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/british-election-results_us_5939bbcde4b006105480f7e1', 'short_description': 'Official tallies are still to come, as the country waits to see results.', 'date': '2017-06-08'}

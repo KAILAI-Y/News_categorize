@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Murdoch-Owned NY Post Urges Trump To Act On Gun Control To 'Stop The Slaughter'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/new-york-post-gun-control-trump_us_5a866172e4b00bc49f428404', 'short_description': '"Mr. President, this is your moment."', 'date': '2018-02-16'}

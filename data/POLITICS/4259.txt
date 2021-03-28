@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Every Time Chris Cillizza Has Said 'Bigly' On Twitter", 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/chris-cillizza-bigly-twitter_us_5a09d109e4b0b17ffcdf3064', 'short_description': "The CNN commentator thinks it's a very, very, very, very funny word.", 'date': '2017-11-14'}

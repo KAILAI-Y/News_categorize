@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jared Kushner Probably Isn't Going To Save The Paris Climate Deal", 'authors': 'Kate Sheppard', 'link': 'https://www.huffingtonpost.com/entry/kushner-climate-change-paris_us_592c3608e4b053f2d2ad6c11', 'short_description': 'So much for that moderating force.', 'date': '2017-05-29'}

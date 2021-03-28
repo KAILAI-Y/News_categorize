@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Starbucks Under Fire For Giving Less Parental Leave To Hourly Workers', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/starbucks-parental-leave_us_59cea755e4b05f005d3441f5', 'short_description': '"This is a moral issue."', 'date': '2017-10-02'}

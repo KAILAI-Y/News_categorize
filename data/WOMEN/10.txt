@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Kristen Stewart Ditches Heels On Cannes Red Carpet, Defying 'No Flats' Rule", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/kristen-stewart-ditches-heels-cannes-red-carpet-no-flats-rule_us_5afb4e80e4b0779345d3d248', 'short_description': 'Going, going, gone.', 'date': '2018-05-15'}

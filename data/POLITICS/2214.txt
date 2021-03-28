@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "President Trump Is Less Unpopular Than He's Been In A While", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/president-trump-is-less-unpopular-than-hes-been-in-a-while_us_5a7ca9c5e4b0c6726e10dc95', 'short_description': 'He has members of his own party to thank.', 'date': '2018-02-08'}

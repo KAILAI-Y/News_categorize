@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mel B Throws Water At Simon Cowell, Exits After His Marriage Jab On 'AGT'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/mel-b-throws-water-at-simon-cowell-exits-after-his-marriage-jab-on-agt_us_599d42d5e4b0d97c40001788', 'short_description': '"I told him he was an arsehole."', 'date': '2017-08-23'}

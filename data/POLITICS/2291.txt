@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'An Actual Nazi Is About To Be The Only GOP Candidate In A Congressional Race', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/arthur-jones-republican-nomination_us_5a77d3f6e4b0905433b5bd84', 'short_description': 'The Holocaust denier has no primary opponents.', 'date': '2018-02-05'}

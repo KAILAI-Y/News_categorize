@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jay Z Staged A 'Candid' Photo With Kevin Hart Because He Is A Damn Pro", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/jay-z-staged-a-candid-photo-with-kevin-hart-because-he-is-a-damn-pro_us_5931ad96e4b075bff0f31e61', 'short_description': 'The man knows his angles.', 'date': '2017-06-02'}

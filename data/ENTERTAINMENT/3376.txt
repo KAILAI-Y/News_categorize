@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Judge Declares Mistrial In Bill Cosby Case', 'authors': "Michael McLaughlin, Andy Campbell, and Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/bill-cosby-mistrial_us_5942d1d5e4b0f15cd5b9e780', 'short_description': 'The jury could not come to a unanimous decision.', 'date': '2017-06-17'}

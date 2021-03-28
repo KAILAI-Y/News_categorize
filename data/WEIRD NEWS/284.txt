@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "This 6-Foot-5-Inch Teddy Bear Is All Legs And It's Freaking People Out", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/teddy-bear-long-legs_us_5a0c5e13e4b00a6eece5b216', 'short_description': "It's unBEARable.", 'date': '2017-11-15'}

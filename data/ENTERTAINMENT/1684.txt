@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Proud Hubby John Krasinski Brags About Emily Blunt’s ‘Superpower’', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/john-krasinski-brags-emily-blunt_us_5a4d3e45e4b06d1621bcccab', 'short_description': 'Too sweet. 💕', 'date': '2018-01-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'HuffPost Headline Quiz: June 30 to July 6', 'authors': 'Christine Roberts and Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/huffpost-headline-quiz-june-30-to-july-6_us_595eae90e4b0d5b458e9590a', 'short_description': "Can you beat last week's score?", 'date': '2017-07-07'}

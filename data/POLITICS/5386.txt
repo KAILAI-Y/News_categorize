@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Illinois Governor Signs Bill Expanding Abortion Coverage', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/illinois-governor-abortion-bill_us_59ce1d74e4b06791bb0fd253', 'short_description': 'The bill would also keep abortions legal even if the U.S. Supreme Court were to strike down Roe v. Wade.', 'date': '2017-09-29'}

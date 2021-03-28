@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Brutally Dissects One Of Donald Trump's Weirdest Speeches Yet", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-immigration-rant_us_5ac31fd9e4b00fa46f85a09b', 'short_description': '“What are you talking about?”', 'date': '2018-04-03'}

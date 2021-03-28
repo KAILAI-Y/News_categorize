@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Stevie Wonder Opens Hurricane Benefit By Slamming Climate Change Deniers', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stevie-wonder-climate-deniers_us_59b88ad0e4b02da0e13d4992', 'short_description': 'Music legend has a short and direct message.', 'date': '2017-09-13'}

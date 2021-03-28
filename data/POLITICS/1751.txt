@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Makes The Case Against Drug Prohibition — In His Own Way', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/trump-drug-prohibition_us_5a971863e4b09c872bb0e25f', 'short_description': 'But if he actually believes this, it certainly isn’t guiding his administration’s drug policy.', 'date': '2018-03-01'}

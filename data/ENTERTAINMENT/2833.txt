@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Katy Perry Comes 'Back To Earth' To Host MTV VMAs, And Twitter Was Not Here For It", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/katy-perry-mtv-vmas-hosting_us_599744afe4b01f6e801eaca6', 'short_description': 'It was ... interesting, to say the least.', 'date': '2017-08-28'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Syrians Fight For Survival Amid Assad's Poison Gas Warfare", 'authors': 'Lennart Pfahler', 'link': 'https://www.huffingtonpost.com/entry/assad-ghouta-syria-attacks_us_5a999ef6e4b0a0ba4ad31783', 'short_description': "In Syria's Ghouta region, attacks continue even after a United Nations ceasefire.", 'date': '2018-03-02'}

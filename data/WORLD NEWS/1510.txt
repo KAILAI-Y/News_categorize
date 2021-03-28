@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'One Dead, Several Injured In Knife Attack In Hamburg Supermarket', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/one-dead-several-injured-in-knife-attack-in-hamburg-supermarket_us_597b5384e4b0da64e878ce5a', 'short_description': 'The assailant is a migrant and Islamist known to German security forces.', 'date': '2017-07-28'}

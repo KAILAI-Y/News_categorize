@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here’s How To Become Kris Jenner’s Assistant, According To Kris Jenner', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kris-jenner-assistant-kardashian-family_us_5afaeb82e4b044dfffb608d5', 'short_description': 'Keeping up with the Kardashians is an obvious requirement.', 'date': '2018-05-16'}

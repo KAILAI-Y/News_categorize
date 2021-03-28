@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Freedom Caucus Sinks Key Part Of Paul Ryan's Welfare Reform Agenda", 'authors': 'Matt Fuller and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/farm-bill-food-stamps_us_5afef4dfe4b07309e0579452', 'short_description': 'A fight over immigration ended up tanking the farm bill.', 'date': '2018-05-18'}

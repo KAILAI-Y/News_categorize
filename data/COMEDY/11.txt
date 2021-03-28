@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Conan O'Brien Muscles In On The Royal Wedding With His Own Spoof Ads", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/conan-royal-wedding-spoof-ads_us_5b0510eee4b05f0fc842ef21', 'short_description': '"Notice anything different about this royal wedding?"', 'date': '2018-05-23'}

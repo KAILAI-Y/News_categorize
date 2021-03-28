@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Trump Designates North Korea A State Sponsor Of Terrorism', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-north-korea-terrorism_us_5a1309c1e4b0aa32975cac25', 'short_description': 'This will slap more sanctions on the isolated nation.', 'date': '2017-11-20'}

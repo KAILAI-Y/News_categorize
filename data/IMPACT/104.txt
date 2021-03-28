@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Where To Donate To Help Sexual Assault Survivors This Holiday Weekend', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/thanksgiving-donate_us_5a0f32abe4b0dd63b1aa2748', 'short_description': 'Consider setting aside some of your shopping budget for a cause.', 'date': '2017-11-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Thursday's Morning Email: Hurricane Irma Barrels Through Caribbean", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/thursdays-morning-email-hurricane-irma-barrels-through-caribbean_us_59b1284ce4b0dfaafcf5a9db', 'short_description': 'Killing at least 9.', 'date': '2017-09-07'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Stephen Colbert Is Creating A Cartoon TV Show About Donald Trump', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-cartoon_us_597a41e6e4b02a8434b516bd', 'short_description': '"I look forward to sharing the man behind the MAGA," Colbert said.', 'date': '2017-07-27'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Iron Man, Black Widow, Captain America, Thor And Hawkeye Got Matching Tattoos', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/avengers-matching-tattoos_us_5af1d6bbe4b0ab5c3d6a949e', 'short_description': 'The Hulk did not want to partake.', 'date': '2018-05-08'}

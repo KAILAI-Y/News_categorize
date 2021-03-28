@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'The Story Behind The Stock Photo That Launched A Thousand Jokes', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/distracted-boyfriend-disloyal-man-wandering-eyes-meme_us_59a05626e4b05710aa5bf381', 'short_description': 'What do we meme? Read on.', 'date': '2017-08-25'}

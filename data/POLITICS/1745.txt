@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report: Trump Wants His Chief Of Staff To Get Rid Of Jared And Ivanka', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jared-ivanka-kelly_us_5a98f1b1e4b089ec3538d550', 'short_description': 'The president reportedly wants his daughter and son-in-law out of the White House.', 'date': '2018-03-02'}

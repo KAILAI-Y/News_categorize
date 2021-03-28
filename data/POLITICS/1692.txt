@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Puts Pressure On NAFTA Talks With More Tariff Threats', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-pressure-nafta-tariffs_us_5a9d33f0e4b089ec353cd0a0', 'short_description': 'Canada and Mexico could be exempt from new tariffs if they renegotiate the trade deal, he hinted.', 'date': '2018-03-05'}

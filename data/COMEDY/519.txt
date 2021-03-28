@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bryan Cranston Is The Elf On The Shelf Of James Corden's Nightmares", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bryan-cranston-james-corden-elf-on-the-shelf_us_5a264b81e4b07324e8402fa6', 'short_description': 'Happy creepy Christmas!', 'date': '2017-12-05'}

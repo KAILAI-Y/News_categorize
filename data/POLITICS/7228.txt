@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Says White House Staffers 'Fighting Over Who Loves Me The Most'", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-leaks-staff-fighting_us_59781538e4b0a8a40e83b11d', 'short_description': 'The president seemed to characterize some leaks as "just stupid people" vying for his attention.', 'date': '2017-07-26'}

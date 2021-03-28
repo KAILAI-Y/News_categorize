@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Cardi B Is The Only Rapper With First 3 Singles In Top 10 Simultaneously', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/cardi-b-top-10-billboard_us_5a4befbde4b06d1621bb5d6b', 'short_description': 'The "Bodak Yellow" singer joins The Beatles and Ashanti in Billboard chart history.', 'date': '2018-01-02'}

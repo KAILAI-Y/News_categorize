@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Fumes Over Michael Cohen Raid: 'Attorney-Client Privilege Is Dead'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-michael-cohen_us_5accab6ae4b09d0a119767d8', 'short_description': "Experts are pushing back on Trump's claim about the legal privilege.", 'date': '2018-04-10'}

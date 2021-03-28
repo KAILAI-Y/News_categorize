@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'A ‘House Party’ Remake Is In The Works, With LeBron James As Producer', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/house-party-remake-lebron-james_us_5a831bbce4b01467fcf24812', 'short_description': 'The NBA star says he may even make a cameo.', 'date': '2018-02-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "How Florida's Millions Of Senior Citizens Are Preparing For Hurricane Irma", 'authors': 'Jessica Schulberg', 'link': 'https://www.huffingtonpost.com/entry/florida-senior-citizens-hurricane-irma_us_59b30e99e4b0b5e531065885', 'short_description': '"This one\'s scaring the hell out of me," Natalie Geisman, 92, said.', 'date': '2017-09-08'}

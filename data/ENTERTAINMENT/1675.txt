@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Top Talent Agency Cuts Ties With Danny Masterson Amid Rape Allegations', 'authors': 'Yashar Ali', 'link': 'https://www.huffingtonpost.com/entry/danny-masterson-talent-agency_us_5a4e9889e4b01e1a4b13cfc8', 'short_description': 'The news comes a month after Netflix fired him from "The Ranch."', 'date': '2018-01-04'}

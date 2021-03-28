@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Taunts Kim Jong Un: My Nuclear Button Is 'Bigger'", 'authors': 'Mollie Reilly and Eline Gordts', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-kim-jong-un_us_5a4c29a3e4b06d1621bb9328', 'short_description': 'And, the U.S. president tweets, "my Button works!"', 'date': '2018-01-03'}

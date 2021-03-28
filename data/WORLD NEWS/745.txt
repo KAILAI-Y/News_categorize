@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Vandals Shatter Windows At A Mosque In Poland', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/vandals-shatter-windows-at-a-mosque-in-poland_us_5a1c73bae4b0d23f4c3b4e18', 'short_description': "This isn't the first time the Warsaw mosque has received threats.", 'date': '2017-11-27'}

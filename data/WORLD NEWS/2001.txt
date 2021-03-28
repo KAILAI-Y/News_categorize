@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Man Shot After Attacking Police Outside Paris' Notre Dame", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/paris-police-officer-attacked_us_5936c2dfe4b0cfcda917ce66', 'short_description': 'Police sources said the officers shot at the man after he had threatened them with a hammer and refused to stop.', 'date': '2017-06-06'}

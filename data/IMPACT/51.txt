@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'German Cities To Trial Ambitious Free Public Transport Plans', 'authors': 'Senay Boztas, On assignment for HuffPost', 'link': 'https://www.huffingtonpost.com/entry/free-transport-germany-tallinn_us_5a8d5f3ae4b00a30a25117a4', 'short_description': 'In a bid to cut air pollution and make cities more livable.', 'date': '2018-02-22'}

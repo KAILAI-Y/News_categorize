@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "A Year Ago, Facebook Said It Was 'Crazy' That Fake News Could've Influenced The Election", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/zuckerberg-facebook-election-russian-fake-news_us_5a05c339e4b0e37d2f372840', 'short_description': 'So, about that ...', 'date': '2017-11-10'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "2 Dead In Gaza During Anti-Israel 'Day Of Rage'", 'authors': 'Willa Frej and Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/israel-day-of-rage-protests_us_5a2a59a1e4b073789f68c247', 'short_description': 'Two people were killed in the demonstrations on Friday.', 'date': '2017-12-08'}

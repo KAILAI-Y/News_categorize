@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'NASA Golden Record For ETs Soon Available On Vinyl For Earthlings', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/voyager-golden-record-vinyl_us_5a1cc106e4b071403b28902d', 'short_description': 'A "story of our world" for extraterrestrials comes home.', 'date': '2017-11-28'}

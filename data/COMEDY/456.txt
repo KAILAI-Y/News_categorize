@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Daily Show' Mourns The Trump Administration Casualties Of 2017", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-administration-in-memoriam_us_5a3a21ffe4b025f99e133902', 'short_description': 'In memoriam of Sean Spicer, Steve Bannon, Anthony Scaramucci, et al.', 'date': '2017-12-20'}

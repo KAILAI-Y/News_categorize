@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump To Violate Iran Nuclear Deal, Vows To Reimpose Sanctions', 'authors': 'Jessica Schulberg and Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/trump-iran-deal-sanctions_us_5aeca9d9e4b0c4f193226f92', 'short_description': 'The move puts the future of the 2015 international agreement in crisis.', 'date': '2018-05-08'}

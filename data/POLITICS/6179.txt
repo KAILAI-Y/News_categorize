@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump On North Korea: 'Talking Is Not The Answer'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/trump-on-north-korea-talking-is-not-the-answer_us_59a6b8bce4b00795c2a2f48d', 'short_description': 'Another morning, another blast of Trump remarks via Twitter.', 'date': '2017-08-30'}

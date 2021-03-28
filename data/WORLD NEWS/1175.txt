@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "UK Officials Say Trump's 'Speculation' On London Tube Attack Is 'Unhelpful'", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/uk-criticize-trump-london_us_59bbdab9e4b02da0e1414e6e', 'short_description': '"I\'m not going to go there," London Mayor Sadiq Khan said.', 'date': '2017-09-15'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Fox News Meteorologist Slams Woman Who Said Her Legs Are 'Too Fat'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/janice-dean-internet-troll-fat-legs_us_5a58ffe7e4b04f3c55a24b7b', 'short_description': 'Janice Dean wants young girls to know: "It’s OK to be yourself, to show who you are."', 'date': '2018-01-12'}

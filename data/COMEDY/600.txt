@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert And Jon Stewart Swap Some Spit For A Good Cause', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-jon-stewart-spit_us_5a041339e4b0f76b05c36cea', 'short_description': 'Things got messy on "The Late Show."', 'date': '2017-11-09'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Bill O’Reilly's 'Killing Patton' Movie Gets Killed By Fox's NatGeo", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/bill-oreillys-killing-patton-movie-gets-killed-by-nat-geo_us_593071c5e4b07572bdbffc28', 'short_description': 'Wonder why?', 'date': '2017-06-01'}

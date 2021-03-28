@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Cop Stops Erykah Badu On NYE To 'Say Hi'", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/cop-erykah-badu-hi_us_5a4bc716e4b0b0e5a7a90666', 'short_description': 'The musician shared a video of the encounter on Instagram.', 'date': '2018-01-02'}

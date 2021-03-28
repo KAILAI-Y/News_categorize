@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Big Bird, Beastie Boys Mashup Tells You How To Get To Sabotage Street', 'authors': 'Steven Hoffer', 'link': 'https://www.huffingtonpost.com/entry/big-bird-sabotage-mashup_us_595e4696e4b02e9bdb0ac01d', 'short_description': 'It\'s a "Sesametage."', 'date': '2017-07-06'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Every Single Lady Can Relate To This Christmas Card', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/every-single-lady-can-relate-christmas-card_us_5a1eb36be4b0dc52b02ab151', 'short_description': "We've all been there, Emily. 😂", 'date': '2017-11-29'}

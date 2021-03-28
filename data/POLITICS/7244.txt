@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Texas Senate OKs Trans Bathroom Restrictions', 'authors': 'Roque Planas', 'link': 'https://www.huffingtonpost.com/entry/texas-senate-bathroom-bill_us_59779857e4b0c95f375f513c', 'short_description': "It's unclear whether Republicans in the state House of Representatives will kill the measure or pass a different version.", 'date': '2017-07-25'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Facing History In The Age Of Trump', 'authors': 'Robert Koehler, ContributorPeace journalist', 'link': 'https://www.huffingtonpost.com/entry/facing-history-in-the-age-of-trump_us_599f17d8e4b0cb7715bfd3e7', 'short_description': 'He’s scary. His supporters are scary. But he comes in a context.', 'date': '2017-08-24'}

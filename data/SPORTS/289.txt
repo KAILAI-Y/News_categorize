@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'My Cartoon Diary Of The Super Bowl', 'authors': 'Liana Finck, .', 'link': 'https://www.huffingtonpost.com/entry/liana-finck-cartoon-diary-super-bowl_us_5a77da03e4b01ce33eb450a6', 'short_description': 'Football, commercials, Timberlake and Proust.', 'date': '2018-02-05'}

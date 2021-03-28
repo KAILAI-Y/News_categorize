@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Mar-a-Lago Obtains Visas For 70 Foreign Workers", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-mar-a-lago-visas-foreign-workers_us_59fcde72e4b0c9652fff66ab', 'short_description': 'Cooks, maids and waiters at the president\'s golf resort won\'t be "made in America."', 'date': '2017-11-04'}

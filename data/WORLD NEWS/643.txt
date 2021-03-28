@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Same-Sex Weddings Begin In Australia', 'authors': 'Eoin Blackwell', 'link': 'https://www.huffingtonpost.com/entry/same-sex-weddings-australia_us_5a378bd7e4b040881bec0362', 'short_description': 'Congrats to all!', 'date': '2017-12-18'}

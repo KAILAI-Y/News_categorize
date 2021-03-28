@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Shania Twain's Dog Won't Let Her Work, But Paw-sistence Pays Off", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/shania-twain-dog-work_us_5a5c90bde4b04f3c55a457f1', 'short_description': '"You won!"', 'date': '2018-01-15'}

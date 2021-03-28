@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mike Pence Insists He's Not Mulling A Presidential Run In 2020", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-2020_us_59872edde4b08b75dcc79448', 'short_description': "The vice president pushed back on a report that he's taking steps to run if Trump doesn't.", 'date': '2017-08-06'}

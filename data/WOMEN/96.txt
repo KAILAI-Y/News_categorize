@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Not Every Woman In A Position Of Power Is A Feminist Hero', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/gina-haspel-women-power_us_5aabf693e4b0337adf837a81', 'short_description': 'Gina Haspel’s dark past makes her a complicated figure for feminists to support.', 'date': '2018-03-17'}

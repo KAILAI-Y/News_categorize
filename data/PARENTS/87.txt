@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '27 Food Names Parents Are Giving Their Babies', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/food-baby-names_us_5a09d851e4b00a6eece33079', 'short_description': 'Apple and Kale are just the tip of the iceberg.', 'date': '2017-11-29'}

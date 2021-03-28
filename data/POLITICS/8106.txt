@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Cheer Up, Democrats', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/cheer-up-democrats_us_59506758e4b05c37bb773cb4', 'short_description': 'Progressives should be encouraged by recent special election results, not looking for a scapegoat.', 'date': '2017-06-26'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Man Gets $117 Traffic Ticket After Singing '90s Dance Hit In Car", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/taoufik-moalla-traffic-ticket-singing-in-car_us_59ee1106e4b00f0861a05dd3', 'short_description': 'Police reportedly ticketed Taofik Moalla for screaming.', 'date': '2017-10-23'}

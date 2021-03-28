@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Margot Kidder, Actress Who Played Lois Lane In 'Superman,' Dead At 69", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/margot-kidder-lois-lane-dead-dies_us_5af9bd81e4b0200bcab7a375', 'short_description': 'The cause of death has not been made public.', 'date': '2018-05-14'}

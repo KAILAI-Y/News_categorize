@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': '3 Big Environmental Stories To Watch In 2018', 'authors': 'Tess Riley', 'link': 'https://www.huffingtonpost.com/entry/3-big-environmental-stories-to-look-for-in-2018_us_5a4397e2e4b025f99e18eda4', 'short_description': 'Lawsuits focused on climate change and another Canada-U.S. pipeline will be in the news.', 'date': '2017-12-29'}

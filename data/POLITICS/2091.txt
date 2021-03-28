@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'House Oversight Panel Investigating Alleged Abuser Rob Porter', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/house-oversight-committee-investigating-rob-porter_us_5a8449eae4b0cf0675208780', 'short_description': '“How in the hell was he still employed?” chairman Trey Gowdy asked.', 'date': '2018-02-14'}

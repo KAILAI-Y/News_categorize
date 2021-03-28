@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Trump Celebrates Xi Jinping's 'Extraordinary Elevation.' But Does He Know What It Means?", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-xi-jinping-elevation_us_59f0eadde4b0af27f5893f3d', 'short_description': 'The Chinese president now boasts near-absolute authority.', 'date': '2017-10-25'}

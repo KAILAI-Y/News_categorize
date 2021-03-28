@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Invokes John Kelly's Late Son In Continuing To Swipe At Obama", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-kelly-attack-obama_us_59e612e1e4b0ca9f483b07fa', 'short_description': 'An Obama administration official blasts Trump for "inane cruelty."', 'date': '2017-10-17'}

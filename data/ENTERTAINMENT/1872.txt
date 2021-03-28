@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Somebody Please Make Daniel Dae Kim The Next Superman. PLEASE.', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/daniel-dae-kim-superman_us_5a300a6ae4b07895028417ad', 'short_description': 'Seriously, though. Who more perfect than DDK?', 'date': '2017-12-12'}

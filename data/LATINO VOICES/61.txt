@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Jennifer Lopez Is Returning To 'Will & Grace' In 2 Roles", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/jennifer-lopez-is-returning-to-will-grace_us_5a577bf4e4b0330eab08a9ff', 'short_description': 'JenPez guest-starred on the show back in 2004.', 'date': '2018-01-11'}

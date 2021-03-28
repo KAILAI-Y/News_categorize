@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How DACA Could Outlast Trump', 'authors': 'Roque Planas', 'link': 'https://www.huffingtonpost.com/entry/how-daca-could-outlast-trump_us_5a59237de4b0fcbc3a100bda', 'short_description': 'A federal judge’s ruling raises the possibility the program may survive this administration ― even if the White House wins in court.', 'date': '2018-01-13'}

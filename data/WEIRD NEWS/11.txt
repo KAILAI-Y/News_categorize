@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Power Outage Triggers 'Extreme Zombie Activity' Alert In Florida City", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/florida-extreme-zombie-activity_us_5b03b07ae4b0463cdba56768', 'short_description': 'They have a warning prepped for this?', 'date': '2018-05-22'}

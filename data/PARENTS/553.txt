@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Reminder That A Lot Of Nursery Rhymes Are Super Creepy', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/reminder-that-a-lot-of-nursery-rhymes-are-super-creepy_us_596fc04be4b0110cb3cb6981', 'short_description': '"Can you believe we sing this to our kids?"', 'date': '2017-07-20'}

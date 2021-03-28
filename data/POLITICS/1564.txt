@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Marco Rubio Still Wants 18-Year-Olds To Be Able To Buy Guns', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/marco-rubio-gun-control-teens-guns_us_5aa31ff8e4b01b9b0a3b77d6', 'short_description': 'The senator from Florida previously said he supported raising the legal age to 21.', 'date': '2018-03-10'}

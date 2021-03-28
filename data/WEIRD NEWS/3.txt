@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Fish Market Buys Freedom For Fred The 70-Pound Octopus', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/fred-octopus-fish-market-saved-freed_us_5b084751e4b0802d69cb1589', 'short_description': "The market owner won't sell octopus products after playing hide-and-seek with a friendly cephalopod.", 'date': '2018-05-25'}

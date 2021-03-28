@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Turbulence Injures At Least 26 On China Eastern Flight', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/turbulence-injures-china-eastern-flight_us_59468fe8e4b06bb7d273d5d2', 'short_description': 'Four people are in serious condition, according to Chinese media reports.', 'date': '2017-06-18'}

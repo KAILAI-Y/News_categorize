@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Culture Mag To Writers: Money? It's Pretty Obscure. You Probably Haven't Heard Of It.", 'authors': 'Eoin Higgins', 'link': 'https://www.huffingtonpost.com/entry/paste-magazine_us_5ab5362ee4b054d118e294fe', 'short_description': 'Paste Magazine is too indie to pay its contributors properly.', 'date': '2018-03-23'}

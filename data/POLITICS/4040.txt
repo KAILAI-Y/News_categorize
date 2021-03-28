@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Makes World's Dumbest Feud Even Dumber", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-lavar-ball_us_5a1550dee4b03dec824920c2', 'short_description': 'He called a UCLA basketball player\'s father, “a poor man’s version of Don King, but without the hair."', 'date': '2017-11-22'}

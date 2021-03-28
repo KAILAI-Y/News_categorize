@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Is Still Pushing His Travel Ban, Potentially Harming His Legal Case', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-travel-ban-lawsuit_us_5935413ce4b075bff0f4ef18', 'short_description': 'Guess it\'s definitely a "ban."', 'date': '2017-06-05'}

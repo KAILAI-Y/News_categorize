@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'John Conyers Steps Down From Powerful House Committee Amid Sexual Harassment Allegations', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/john-conyers-house-judiciary-committee_us_5a1af98ae4b0d4906caf7e05', 'short_description': 'The House Democrat continues to deny the multiple allegations.', 'date': '2017-11-26'}

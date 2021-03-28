@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Jr.'s Thanksgiving Conversation Starter Tips Spectacularly Backfire", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-thanksgiving-convo-starters_us_5a1680bae4b064948072f260', 'short_description': '"Thanks Obama!"', 'date': '2017-11-23'}

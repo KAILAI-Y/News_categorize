@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jeff Flake's Retirement Adds To Pile Of Problems For Senate Republicans", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/jeff-flake-retire-gop-problems_us_59efac30e4b04917c593ff0e', 'short_description': 'The GOP agenda could be threatened without another reliable vote.', 'date': '2017-10-24'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Breaks Down Everything That Was Wrong With Donald Trump’s SOTU', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-state-of-the-union_us_5a717ebbe4b0be822ba19c56', 'short_description': 'Point by point.', 'date': '2018-01-31'}

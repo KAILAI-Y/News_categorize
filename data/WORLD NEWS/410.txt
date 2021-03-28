@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Police Question Prominent Scholar Tariq Ramadan Following Rape Allegations', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/tariq-ramadan-police-custody_us_5a7207a9e4b03699143ed0fb', 'short_description': 'Two women have accused the Oxford professor of rape and assault.', 'date': '2018-01-31'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Judge Agrees To Delay Stormy Daniels' Lawsuit Against Michael Cohen", 'authors': 'Lisa Lambert, Reuters', 'link': 'https://www.huffingtonpost.com/entry/stormy-daniels-lawsuit-michael-cohen_us_5ae3976ae4b055fd7fcbe602', 'short_description': 'The case will be put on hold for 90 days.', 'date': '2018-04-27'}

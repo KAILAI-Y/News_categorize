@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "3rd-Grader Gives Donald Trump A Lesson In Fake News: 'It's Not What You Think'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/3rd-grader-gives-donald-trump-a-lesson-in-fake-news-its-not-what-you-think_us_5ad85b4ee4b029ebe02137d7', 'short_description': 'Using words the president may understand.', 'date': '2018-04-19'}

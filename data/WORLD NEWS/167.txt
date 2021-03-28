@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Malaysia Outlaws So-Called 'Fake News' With Jail Of Up To Six Years", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/malaysia-outlaws-so-called-fake-news-with-jail-of-up-to-six-years_us_5ac3870fe4b04646b6465ebe', 'short_description': 'Critics say the move is aimed at curbing dissent and free speech.', 'date': '2018-04-03'}

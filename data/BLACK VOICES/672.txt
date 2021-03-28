@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Missouri GOP Lawmaker Urges Lynching For Vandals of Confederate Statue', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/warren-love-missouri_us_59a83c11e4b0a8d14573f1f4', 'short_description': 'The lawmaker later said his comment was just "an exaggerated statement."', 'date': '2017-08-31'}

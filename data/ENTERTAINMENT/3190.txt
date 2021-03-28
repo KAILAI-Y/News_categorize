@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Disney Has Finally Found Its Aladdin And Jasmine', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/disney-aladdin-jasmine-casting_us_596a69e1e4b0d6341fe949c7', 'short_description': "It's a whole new cast.", 'date': '2017-07-15'}

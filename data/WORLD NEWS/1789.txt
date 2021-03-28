@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Justin Trudeau's Pride Socks Have A Not-So-Hidden Message", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/justin-trudeaus-pride-socks-have-a-not-so-hidden-message_us_5951d153e4b05c37bb78f406', 'short_description': "Canada's Prime Minister said the event was all about inclusivity.", 'date': '2017-06-27'}

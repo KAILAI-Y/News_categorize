@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Fox News Host: Trump Fulfilled Biblical Prophecy By Moving U.S. Embassy To Jerusalem', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jeanine-pirro-trump-biblical-jerusalem_us_5af92283e4b032b10bfbf607', 'short_description': 'Jeanine Pirro also compared Trump to King Cyrus.', 'date': '2018-05-14'}

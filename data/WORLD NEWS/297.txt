@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Syrian Forces Launch Ground Assault On Ghouta Despite Russian Truce', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/syria-ghouta-truce-broken-ground-assault_us_5a96d1c0e4b09c872bb07b05', 'short_description': 'The onslaught has been one of the fiercest of the civil war, now entering its eighth year.', 'date': '2018-02-28'}

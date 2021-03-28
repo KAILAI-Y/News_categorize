@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'This Wisconsin Bill Would Let Toddlers Hunt With Guns', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/wisconsin-toddlers-hunting-guns_us_59fe10e3e4b0baea26320a48', 'short_description': "But the legislation actually isn't that unusual, as 34 other states have no minimum hunting age.", 'date': '2017-11-04'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'The Best Liar You Know Is Not The Best Liar You Know'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/shower-thoughts-reddit-january-2018-part-2_us_5a576a5ae4b03bc4d03e8d5f', 'short_description': 'The 25 most profound "Shower Thoughts" on Reddit this week.', 'date': '2018-01-12'}

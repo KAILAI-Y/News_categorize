@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Tronc Is Keeping Ross Levinsohn Aboard After Probe Into 'Frat House' Behavior", 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/tronc-ross-levinsohn-la-times_us_5a7b1fe8e4b06505b4ea36da', 'short_description': 'An independent investigation found "no wrongdoing," the company said.', 'date': '2018-02-07'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Fake Melania Trump Dreams Of Day She’ll Retire Role As Donald's Wife On 'Colbert'", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/fake-melania-trump-stephen-colbert-laura-benanti_us_595404bde4b05c37bb7ba73b', 'short_description': 'The "Late Show" star just wants this to end.', 'date': '2017-06-29'}

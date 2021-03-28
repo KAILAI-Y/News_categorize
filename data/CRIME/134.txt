@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Report: 2 Baylor Football Players Investigated After Sexual Assault Accusations', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/baylor-football-sex-assault-complaint_us_5a8670eee4b05c2bcac953df', 'short_description': 'The school has been hit with sexual assault scandals in the past.', 'date': '2018-02-18'}

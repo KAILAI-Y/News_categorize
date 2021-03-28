@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tarantino-Style 'Star Trek' Trailer Shows Us The Wonderful Potential", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/tarantino-style-star-trek-trailer_us_5a66165fe4b002283005285d', 'short_description': '"Green blood. Green women. And Nazis."', 'date': '2018-01-22'}

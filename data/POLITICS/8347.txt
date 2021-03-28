@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Senators Still Frustrated With Obamacare Repeal Bill, Still Doing Nothing About It', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/republican-health-care-bill-mcconnell-rubio_us_5946a114e4b01eab7a2e71f3', 'short_description': 'It would take just three to make their leadership listen.', 'date': '2017-06-18'}

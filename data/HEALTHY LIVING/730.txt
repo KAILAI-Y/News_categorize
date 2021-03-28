@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Here's Evidence Obamacare Saved People's Lives", 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/how-aca-saved-my-life-hashtag_us_59540a3ce4b0da2c7320d6e3', 'short_description': '"She would be dead without it."', 'date': '2017-06-28'}

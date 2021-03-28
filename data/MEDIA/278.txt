@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Bid To Save Gawker.com Falls Short', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/gawker-kickstarter-fails_us_5a54cf6ee4b01e1a4b19beea', 'short_description': 'A Kickstarter campaign led by former staffers raised less than $90,000 of its $500,000 goal.', 'date': '2018-01-09'}

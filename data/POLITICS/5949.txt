@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Target One Of Their Own For Remaining On Trump Voter Fraud Panel', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/bill-gardner-new-hampshire-voter-fraud-commission_us_59b2fea1e4b0354e4411f55d', 'short_description': 'They said he risks "tarnishing" his legacy.', 'date': '2017-09-08'}

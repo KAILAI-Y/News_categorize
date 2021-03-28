@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Texans Teammates Argue About Existence Of Dinosaurs Over Twitter', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/texans-teammates-argue-over-existence-of-dinosaurs-over-twitter_us_597cf145e4b02a8434b6d1d5', 'short_description': 'A natural history museum employee even chimed in with support.', 'date': '2017-07-29'}

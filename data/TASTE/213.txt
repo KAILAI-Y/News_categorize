@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Millennials' Love For Wine And Weed Is Hurting The Beer Industry", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/millennials-like-wine-and-weed-better-than-beer_us_5980a5a6e4b00bb8ff39f1b8', 'short_description': 'Too much avocado toast, not enough beer.', 'date': '2017-08-01'}

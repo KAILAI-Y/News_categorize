@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Fails To Publicly Acknowledge Massive School Walkouts', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/trump-no-personal-statement-school-walkouts_us_5aa971cce4b0004c0406bb7a', 'short_description': "He did tweet once about a school safety bill that doesn't restrict guns.", 'date': '2018-03-15'}

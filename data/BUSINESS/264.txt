@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Everyone Should Sell Their Fossil Fuel Stocks', 'authors': 'Tom Steyer, ContributorFounder, NextGen America', 'link': 'https://www.huffingtonpost.com/entry/sell-your-fossil-fuel-stocks_us_5960f371e4b0cf3c8e8d58fc', 'short_description': 'Clean energy is the future, and it’s the only smart bet for business.', 'date': '2017-07-08'}

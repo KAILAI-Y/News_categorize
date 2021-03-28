@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ted Cruz Made A Painfully Awkward 'Curb Your Enthusiasm' Joke Last Night", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ted-cruz-bernie-sanders-curb-your-enthusiasm_us_59e824ebe4b08f9f9edcd00e', 'short_description': 'The crack came during a CNN debate between the two senators.', 'date': '2017-10-19'}

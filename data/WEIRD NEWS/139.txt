@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'An Old Photo Of Barack Obama And Justin Trudeau Is Breaking The Internet', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/barack-obama-justin-trudeau-meme-restaurant_us_5a7ada35e4b06505b4e9be60', 'short_description': 'President Donald Trump also makes a cameo.', 'date': '2018-02-07'}

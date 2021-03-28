@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "George R.R. Martin Clarifies Reports He Doesn't Watch 'Game Of Thrones' (UPDATE)", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/george-rr-martin-says-he-doesnt-watch-game-of-thrones_us_599d7d02e4b0a296083b49ad', 'short_description': "The author does watch after all, he's just behind.", 'date': '2017-08-23'}

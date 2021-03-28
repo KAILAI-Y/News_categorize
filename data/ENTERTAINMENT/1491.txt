@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Sarah Jessica Parker Says Ellen Can Play Samantha In 'Sex And The City 3'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/sarah-jessica-parker-ellen-satc-3_us_5a600f3be4b054e3517724f7', 'short_description': '"I am a sexual beast," the talk-show host quipped.', 'date': '2018-01-18'}

@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Elon Musk Says He's Sold 10,000 Flamethrowers Through His Boring Co. Website", 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/elon-musk-flamethrower-boring-company_us_5a6fc298e4b0a52682fedb84', 'short_description': '“World’s safest flamethrower!”', 'date': '2018-01-30'}

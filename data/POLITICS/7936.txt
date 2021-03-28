@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Administration Accused Of Using Immigrant Kids As 'Bait' To Catch Parents", 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/trump-immigrant-kids-smuggling_us_5956cd8ce4b05c37bb7e767b', 'short_description': 'Officials insist the goal is to better protect the undocumented children.', 'date': '2017-06-30'}

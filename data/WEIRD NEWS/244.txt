@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "This Student Knows What She'll Be Wearing All Semester. Thanks, Twitter.", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/christmas-tree-costume-kelsey-hall_us_5a276e26e4b044d16725c06e', 'short_description': "She thinks that she shall never see a day she's not dressed as a tree.", 'date': '2017-12-06'}

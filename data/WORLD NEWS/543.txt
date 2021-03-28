@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Suicide Bomber Kills At Least 11 In Afghan Capital', 'authors': 'Mirwais Harooni, Reuters', 'link': 'https://www.huffingtonpost.com/entry/kabul-suicide-attack_us_5a4e7471e4b089e14db966e8', 'short_description': 'Twenty five people were injured.', 'date': '2018-01-04'}

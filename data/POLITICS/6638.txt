@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democratic Senator Says Donald Trump Is 'Not My President'", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-brian-schatz_us_5993605be4b0e789a94775cd', 'short_description': '“As a Jew, as an American, as a human, words cannot express my disgust and disappointment."', 'date': '2017-08-15'}

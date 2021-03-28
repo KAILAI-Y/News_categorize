@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Israeli And Palestinian Teens Have Advice For Divided Americans', 'authors': 'Sarah Ruiz-Grossman', 'link': 'https://www.huffingtonpost.com/entry/jerusalem-youth-chorus-israeli-palestinians-divided-america_us_59540ebce4b02734df2fb42f', 'short_description': '"Dialogue enables people to be just that -- people."', 'date': '2017-06-29'}

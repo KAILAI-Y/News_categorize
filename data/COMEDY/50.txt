@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Skewers The Idea Of Donald Trump Winning The Nobel Peace Prize', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-nobel-peace-prize_us_5af536d5e4b0e57cd9f7fc92', 'short_description': '"But this is still the same guy who wanted to ban Muslims."', 'date': '2018-05-11'}

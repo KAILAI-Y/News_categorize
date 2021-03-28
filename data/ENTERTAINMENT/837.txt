@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Robert De Niro Again Tears Into 'Idiot' Donald Trump, And Vows Not To Stop", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/robert-de-niro-donald-trump-charity-speech_us_5aaa22fee4b0600b83002848', 'short_description': '“To be silent in the face of such villainy is to be complicit."', 'date': '2018-03-15'}

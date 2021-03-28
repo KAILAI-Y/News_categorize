@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Bernie Sanders Rips Trump Nominee Who Said Muslims 'Stand Condemned'", 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-trump-nominee-muslims_us_59386779e4b0c5a35c9b9eb0', 'short_description': 'Feel the Bern, budget office nominee Russell Vought!', 'date': '2017-06-07'}

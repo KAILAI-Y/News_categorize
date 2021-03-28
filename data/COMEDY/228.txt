@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Ivanka Trump Called Out For ‘Cosplaying’ As A Scientist In Latest Weird Photo Op', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-scientist-meme_us_5ab09c3ce4b0e862383abad5', 'short_description': "The first daughter's lab pic is already a new meme.", 'date': '2018-03-20'}

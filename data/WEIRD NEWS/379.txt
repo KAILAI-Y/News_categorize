@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Little Leaguer Hits A Ruthian Blast That You Must See To Believe', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/little-leaguer-hits-a-ruthian-blast-that-you-must-see-to-believe_us_59885c38e4b041356ec0ee4d', 'short_description': '"It\'s in the trees."', 'date': '2017-08-07'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Supporters Have Lots Of Excuses For His 'Shithole' Remark. They're All Bad.", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/trump-shithole-defense_us_5a58e30be4b04df054f874d5', 'short_description': '"The president is just talking like a drunk racist" is not a defense.', 'date': '2018-01-12'}

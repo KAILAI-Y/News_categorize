@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Area Of Plastic In The Great Pacific Garbage Patch Is Three Times The Size Of France', 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/great-pacific-garbage-patch-plastic_us_5ab3bba5e4b008c9e5f4e5b7', 'short_description': "And there's up to 16 times more trash than scientists had thought.", 'date': '2018-03-22'}

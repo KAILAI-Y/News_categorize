@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Alabama Sues To Exclude Undocumented Immigrants From Census Count', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/alabama-census-undocumented-immigrants_us_5b07028ee4b05f0fc84629a7', 'short_description': 'Legal experts say the suit has some big flaws.', 'date': '2018-05-24'}

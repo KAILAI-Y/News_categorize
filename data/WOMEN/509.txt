@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Brock Turner’s Mugshot Is Featured In A Criminal Justice Textbook', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/brock-turners-mugshot-is-featured-in-a-criminal-justice-textbook_us_59b9485ee4b02da0e13e4e65', 'short_description': 'His story appears under the definition of “rape."', 'date': '2017-09-13'}

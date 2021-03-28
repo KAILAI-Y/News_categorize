@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congress Has A Sexual Harassment Problem', 'authors': 'Matt Fuller and Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/congress-sexual-harassment_us_5a1487fae4b03dec8248bc55', 'short_description': "And Congress isn't adequately dealing with it.", 'date': '2017-11-22'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Simpsons' Creator Matt Groening Leads Comic-Con Crowd In Anti-Trump Cheer", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/matt-groening-anti-trump-cheer_us_59740be0e4b00e4363dfefb6', 'short_description': '"Lock him up! Lock him up!"', 'date': '2017-07-23'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The Full Scope of "Me Too"', 'authors': 'Gail McGowan Mellor, ContributorContributor', 'link': 'https://www.huffingtonpost.com/entry/me-too_us_59e438e6e4b003f928d5e82c', 'short_description': 'Back in the 1980s, I tried to write about being raped. I wrote it for a Louisville magazine editor for whom as a careful', 'date': '2017-10-16'}

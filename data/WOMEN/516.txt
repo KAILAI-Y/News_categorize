@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Planned Parenthood Kansas City Gets Its Abortion License Back', 'authors': 'Jenavieve Hatch', 'link': 'https://www.huffingtonpost.com/entry/planned-parenthood-kansas-city-gets-its-abortion-license-back_us_59b6b90be4b04bcfa78ba2c0', 'short_description': 'After 5 years, Missouri women will have more access to abortion care.', 'date': '2017-09-11'}

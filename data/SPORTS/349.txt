@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Simone Biles, 5-Time Olympic Medalist, Says Larry Nassar Sexually Abused Her, Too', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/simone-biles-larry-nassar_us_5a5d1fe8e4b0fcbc3a12b5dd', 'short_description': '“We need to make sure something like this never happens again.”', 'date': '2018-01-15'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Ireland Could Soon Make History By Electing Its First Gay Premier', 'authors': 'Padraic Halpin, Reuters', 'link': 'https://www.huffingtonpost.com/entry/ireland-gay-premier-election_us_592c1620e4b053f2d2ad5bee', 'short_description': "Leo Varadkar's victory would show another face of the Catholic country.", 'date': '2017-05-29'}

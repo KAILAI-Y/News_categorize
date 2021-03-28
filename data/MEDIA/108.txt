@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Political Cartoonist Lampoons Evangelical Support For Trump In Easter Takedown', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-evangelical-cartoon_us_5ac19c9ae4b0f112dc9d47a2', 'short_description': '"So devout!"', 'date': '2018-04-02'}

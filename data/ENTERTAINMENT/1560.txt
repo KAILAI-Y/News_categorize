@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Liam Neeson Says Pay Gap Is ‘Disgraceful’ But Won't Take A Pay Cut", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/liam-neeson-says-pay-gap-is-disgraceful-but-wont-take-a-pay-cut_us_5a57d33fe4b0365947f18aed', 'short_description': 'Ooof.', 'date': '2018-01-12'}

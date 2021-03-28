@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': "Neil deGrasse Tyson Destroys Climate Change Deniers' Favorite Argument In 1 Tweet", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/neil-degrasse-tyson-climate-deniers_us_59b5f5d4e4b0dfaafcf8c165', 'short_description': 'BOOM!', 'date': '2017-09-11'}

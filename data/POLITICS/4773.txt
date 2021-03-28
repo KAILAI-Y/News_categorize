@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Are Trying To Put The Public Option Back On The Table', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/brian-schatz-health-care-public-option_us_59f0852ae4b0e064db7df702', 'short_description': "They can't pass anything now. But they can start a conversation.", 'date': '2017-10-25'}

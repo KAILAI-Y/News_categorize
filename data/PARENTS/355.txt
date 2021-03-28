@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Mom Asks Two Simple Questions To Determine If You're Doing OK As A Parent", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/mom-asks-two-simple-questions-to-determine-if-youre-doing-ok-as-a-parent_us_59b03a31e4b0354e440edc83', 'short_description': "It's really quite easy.", 'date': '2017-09-06'}

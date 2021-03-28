@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Could There BE A Better Way For K-Pop Band BTS To Learn English?', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/bts-ellen-show_us_5a1d6280e4b04e8b2a844bc4', 'short_description': 'The boys of BTS stopped by "The Ellen Show" to spill some secrets and also perform some of their music.', 'date': '2017-11-28'}

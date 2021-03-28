@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Russian Submarines Reportedly Fire Missiles At Militant Targets In Syria', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/russia-syria-attacks_us_59c4eb0ce4b0cdc773307989', 'short_description': 'The submarines reportedly launched the missiles from the Mediterranean Sea.', 'date': '2017-09-22'}

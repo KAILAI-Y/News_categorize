@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: North, South Korea To Hold Nuclear Talks", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-north-south-korea-to-hold-nuclear-talks_us_5a9e3068e4b0a0ba4ad73fb9', 'short_description': "North Korea says it's also open to negotiations with the U.S.", 'date': '2018-03-06'}

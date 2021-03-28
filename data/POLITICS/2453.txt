@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Fails To Pass 20-Week Abortion Ban', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/senate-20-week-abortion-ban_us_5a6f59d3e4b0ddb658c93c61', 'short_description': 'The GOP tried to pressure vulnerable Democrats into supporting it.', 'date': '2018-01-29'}

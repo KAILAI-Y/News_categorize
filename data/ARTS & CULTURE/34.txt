@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "This Guy's Digital Art Looks So Real, People Want To Travel To It", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/chad-knight-digital-realistic-art-instagram_us_5a1c4439e4b0e771d6b7d1f1', 'short_description': 'We want to go to there.', 'date': '2017-11-30'}

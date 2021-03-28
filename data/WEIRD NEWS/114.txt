@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Stormy Daniels Has Some Amazing Comebacks For Angry People On Twitter', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/stormy-daniels-twitter_us_5aa2b4a6e4b07047bec60145', 'short_description': 'The porn star asks that if you call her a skank, at least spell it correctly.', 'date': '2018-03-09'}

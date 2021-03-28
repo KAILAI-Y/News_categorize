@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Will Reportedly Replace Travel Ban With New Restrictions', 'authors': 'Yeganeh Torbati and Susan Heavey, Reuters', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-travel-ban_us_59c5282ce4b01cc57ff1b47e', 'short_description': 'The ban is about to expire.', 'date': '2017-09-22'}

@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Steve Wynn Out As CEO And Chairman Of Wynn Resorts', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/steve-wynn-resigns-wynn-resort_us_5a7a67cfe4b07af4e81ef6ae', 'short_description': 'The Las Vegas mogul has been accused of abusing and sexually harassing casino workers for decades.', 'date': '2018-02-07'}

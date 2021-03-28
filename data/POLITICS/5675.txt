@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report: Manafort Offered To Brief Russian Billionaire During 2016 Campaign', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/manafort-russian-billionaire-campaign_us_59c2e286e4b063b25317baf5', 'short_description': 'Aluminum magnate Oleg Deripaska has close ties to the Kremlin.', 'date': '2017-09-20'}

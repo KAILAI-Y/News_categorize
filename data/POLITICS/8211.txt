@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Super Predators', 'authors': 'Melissa Jeltsen and Dana Liebelson', 'link': 'https://www.huffingtonpost.com/entry/the-super-predators_us_594bea9fe4b01cdedf01772f', 'short_description': 'When The Man Who Abuses You Is Also A Cop', 'date': '2017-06-22'}

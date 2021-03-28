@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Canadian Police Say Attack On Child Wearing Hijab Did Not Happen', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/toronto-hijab-attack_us_5a5d0b81e4b0fcbc3a12b02b', 'short_description': 'Police had been investigating the incident as a hate crime.', 'date': '2018-01-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Susan Collins Is Not Running For Governor Of Maine In 2018', 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/susan-collins-maine-governor_us_59e025dde4b04d1d5180a14d', 'short_description': "The moderate Republican just can't quit the Senate after 21 years.", 'date': '2017-10-13'}

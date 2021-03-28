@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Erykah Badu Under Fire For Seeing 'Something Good' In Hitler", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/erykah-badu-hitler-good-painter_us_5a68bd36e4b002283008b642', 'short_description': 'The singer says the Führer "was a wonderful painter."', 'date': '2018-01-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Refuses To Blame Himself For GOP 'Not Getting The Job Done'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/trump-blame-senate-republicans_us_59e4e142e4b0a52aca19b31b', 'short_description': 'The president fingered Senate Republicans for the Obamacare repeal flop.', 'date': '2017-10-16'}

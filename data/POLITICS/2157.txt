@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'We Stand With Women,' RNC Spokeswoman Says", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/rnc-rob-porter-trump_us_5a805ddde4b08dfc93051ce8', 'short_description': 'Ok, then.', 'date': '2018-02-11'}

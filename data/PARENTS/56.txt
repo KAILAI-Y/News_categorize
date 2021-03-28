@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '25-Year-Old Mom Gives Birth To Baby From Embryo Frozen In 1992', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/tina-gibson-frozen-embryo_us_5a39a151e4b06d1621b04a90', 'short_description': '"Do you realize I\'m only 25? This embryo and I could have been best friends," the mother says.', 'date': '2017-12-20'}

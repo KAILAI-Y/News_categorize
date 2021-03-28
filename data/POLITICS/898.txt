@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Fed Watchdog Calls Banks His 'Customers,' Gushes: 'I Like Banks'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/joseph-otting-i-like-banks_us_5acbfb3fe4b07a3485e796e6', 'short_description': 'Bankers find the head of the Office of the Comptroller of the Currency "refreshing."', 'date': '2018-04-10'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Lecturer Dons ‘Iron Man’ Mask And Becomes His Students' Superhero", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/iron-man-mask-grade-papers-malaysia_us_599ec11de4b05710aa5a2730', 'short_description': 'He\'s an "awesome lecturer for considering our feelings," said one student.', 'date': '2017-08-24'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Two Grooms-To-Be Wanted The 'Gayest Cake Ever,' And This Is What They Got", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/canada-gayest-cake-ever_us_5a36b878e4b01d429cc9db77', 'short_description': 'Taste the rainbow, indeed! 🌈', 'date': '2017-12-17'}

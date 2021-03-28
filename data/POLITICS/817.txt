@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Lawyer Arranged Payoff To Playboy Playmate For Republican Fundraiser', 'authors': 'Karen Freifeld, Reuters', 'link': 'https://www.huffingtonpost.com/entry/elliott-broidy-playmate_us_5ad0ed7de4b0edca2cb980b6', 'short_description': 'Michael Cohen handled the matter on behalf of Elliott Broidy.', 'date': '2018-04-13'}

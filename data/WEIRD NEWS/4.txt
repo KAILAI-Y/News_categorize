@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Amazon Admits Alexa Device Eavesdropped On Portland Family', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/alexa-eavesdropping-portland-familiy_us_5b0727cae4b0fdb2aa51b23e', 'short_description': '“Unplug your Alexa devices right now. You’re being hacked.”', 'date': '2018-05-24'}

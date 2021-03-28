@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Fake Wolf Blitzer Accepts A Trump Fake News Award From Real Jimmy Kimmel', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/fake-wolf-blitzer-jimmy-kimmel_us_5a60500ee4b054e3517737ec', 'short_description': '#FakeWolf!', 'date': '2018-01-18'}

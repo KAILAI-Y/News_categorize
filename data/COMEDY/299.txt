@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Desus & Mero Help Jimmy Fallon Rename Winter Olympic Sports', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/desus-mero-jimmy-fallon-olympics-sports_us_5a8d396ce4b0273053a617f6', 'short_description': 'One sport is "just aggressive janitoring."', 'date': '2018-02-21'}

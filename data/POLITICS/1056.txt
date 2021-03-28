@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Tells Baltic Presidents Not To Call On U.S. Reporters: 'Real News, Not Fake News'", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-fake-news-press-attacks_us_5ac3c789e4b00fa46f873540', 'short_description': '"You can pick a reporter ― a Baltic reporter, ideally."', 'date': '2018-04-03'}

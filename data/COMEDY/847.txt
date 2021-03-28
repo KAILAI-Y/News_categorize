@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Has Beef With Lara Trump's 'Real News' Broadcast", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-lara-trump-real-news-facebook_us_59857e68e4b08b75dcc71656', 'short_description': '"Wait a second."', 'date': '2017-08-05'}

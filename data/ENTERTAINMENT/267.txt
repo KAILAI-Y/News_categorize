@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Céline Dion And Deadpool Have Strong Creative Disagreements In Their New Music Video', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/celine-dion-and-deadpool-battle-in-new-music-video-ashes_us_5aeb570ae4b0c4f1932041c5', 'short_description': 'Deadpool in high heels. That is all.', 'date': '2018-05-03'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Chuck Schumer Has VERY Strong Feelings About Snortable Chocolate', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/chuck-schumer-snortable-chocolate_us_5964d68ae4b03f144e2dcdea', 'short_description': 'Who knew this would catch his attention?', 'date': '2017-07-11'}

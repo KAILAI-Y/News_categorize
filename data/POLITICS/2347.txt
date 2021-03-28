@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Says He 'Really Didn't Care' About Drilling Arctic Refuge. Then A Friend Called.", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/trump-arctic-drilling-anwr_us_5a735a04e4b06ee97af09f89', 'short_description': '“After that I said, \'Oh, make sure that’s in the [tax] bill,\'" he said.', 'date': '2018-02-01'}

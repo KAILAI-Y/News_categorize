@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "California Boy's Body Found After His Dad Is Extradited To Face Murder Charges", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/aramazd-andressian-body-found_us_59598e7ae4b05c37bb7f2a20', 'short_description': 'Aramazd Andressian\'s lawyer cautions against "rush to judgement."', 'date': '2017-07-03'}

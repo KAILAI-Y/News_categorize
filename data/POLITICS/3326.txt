@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '63 Percent Of Americans Believe Donald Trump Tried To Obstruct Russia Probe', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-obstructed-russia-probes-poll_us_5a35ccb8e4b040881beb27f0', 'short_description': 'And 40 percent believe he did something "illegal" with Russia.', 'date': '2017-12-17'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Harvey Weinstein Reportedly Called Rebecca Traister A 'C**t'", 'authors': 'Jenavieve Hatch', 'link': 'https://www.huffingtonpost.com/entry/harvey-weinstein-rebecca-traister_us_59d77df8e4b046f5ad97a472', 'short_description': 'He also physically assaulted her then-boyfriend and fellow journalist Andrew Goldman.', 'date': '2017-10-06'}

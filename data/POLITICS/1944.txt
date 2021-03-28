@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Cops And Educators Agree: Arming Teachers Is A Terrible Idea', 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/arming-teachers_us_5a8f0d48e4b0664343555886', 'short_description': "President Trump says more teachers should carry weapons. It's a proposal that could have disastrous consequences.", 'date': '2018-02-22'}

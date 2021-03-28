@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Anthony Scaramucci Vows To Fire Leakers', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/anthony-scaramucci-leakers_us_5974ba63e4b0e79ec199de8d', 'short_description': '“If you’re going to keep leaking, I’m going to fire everybody," he threatens.', 'date': '2017-07-23'}

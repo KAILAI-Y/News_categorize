@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Florida Couple Says They Found Dead Frog In Waffle House Water Glass', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/dead-frog-waffle-house-water-glass_us_5a0df245e4b0b9cb3322749f', 'short_description': '"What the hell?" is how the waitress reacted.', 'date': '2017-11-17'}

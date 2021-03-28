@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'The Puppy In This Comedy Sketch Might Be Just The Cutest Widdle Killer', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-puppy-in-this-comedy-sketch-might-be-just-the-cutest-widdle-killer_us_59e8dc08e4b06b440e447c17', 'short_description': 'Even its motives are probably adorable.', 'date': '2017-10-19'}

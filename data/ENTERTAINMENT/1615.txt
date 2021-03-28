@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Barbra Streisand Slams Golden Globes For Lack Of Female Best Director Winners', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/barbra-streisand-slams-golden-globes-for-lack-of-female-best-director-winners_us_5a5383cde4b01e1a4b17bd37', 'short_description': '"Folks, time\'s up!"', 'date': '2018-01-08'}

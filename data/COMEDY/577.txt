@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Arrested Development' Star's Old Drawings Of Donald Trump Are Scary Good", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/alia-shawkat-donald-trump-drawings_us_5a0d5657e4b0c0b2f2f7d547', 'short_description': '"I was obsessed with him and just kept drawing his face," said Alia Shawkat.', 'date': '2017-11-16'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Tyson Recalls More Than 2 Million Pounds Of Chicken Products', 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/tyson-recall-chicken-products_us_59402015e4b0b13f2c6e47af', 'short_description': 'Some of the tainted breaded chicken was supplied to schools.', 'date': '2017-06-13'}

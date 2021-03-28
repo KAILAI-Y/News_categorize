@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Alec Baldwin Calls Out Hypocrisy Of Fox News Attacking Harvey Weinstein', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwin-fox-news-harvey-weinstein_us_59e22a92e4b04d1d51822272', 'short_description': '"Ailes is dead," Baldwin said. "But O’Reilly’s alive. So ...?"', 'date': '2017-10-14'}

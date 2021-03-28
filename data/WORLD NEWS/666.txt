@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Daredevil 'Rooftopper' Plunges To His Death From Chinese High Rise", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/wu-yongning-62story-death-plunge_us_5a2f4b45e4b01598ac477b94', 'short_description': "Wu Yongning's own video of tragedy goes viral.", 'date': '2017-12-12'}

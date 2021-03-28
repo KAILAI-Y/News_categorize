@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': '6 Bilingual Crossover Songs That Prove Latin Music Was King In 2017', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/latin-music-bilingual-crossover-songs-2017_us_5a454113e4b0b0e5a7a56bb7', 'short_description': "Here's hoping 2018 brings us more collaborations! 🥂", 'date': '2017-12-29'}

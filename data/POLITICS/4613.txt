@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Clams Up When Asked If He'll Pardon Paul Manafort", 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-paul-manafort_us_59f8a37ce4b046017faf10ab', 'short_description': 'He refused to answer the question and indicated he was done talking to the press.', 'date': '2017-10-31'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'FIFA Whistleblower Chuck Blazer Dead At 72', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/chuck-blazer-dead-fifa-whistleblower_us_5967099be4b0a8d46d121042', 'short_description': 'He was also banned by FIFA from all football activities for life.', 'date': '2017-07-13'}

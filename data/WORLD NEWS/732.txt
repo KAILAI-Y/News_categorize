@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "The Far Right Might Become Germany's Main Opposition Party", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/germany-far-right-afd-merkel_us_5a1c1efee4b064948075b386', 'short_description': 'As Chancellor Angela Merkel looks to form a government, the anti-Islam AfD stands to gain.', 'date': '2017-11-28'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Amazon Pulls Racist 'Slavery Gets S**t Done' Products From Website", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/amazon-pro-slavery-products-pulled_us_5a6860d9e4b002283007fce9', 'short_description': '"What in the hell is this?"', 'date': '2018-01-24'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Maisie Williams Zings Donald Trump While Teasing 'Game Of Thrones' Ending", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/maisie-williams-donald-trump-game-of-thrones-the-end_us_5a8d6d25e4b00a30a25126bf', 'short_description': 'Arya Stark went there.', 'date': '2018-02-21'}

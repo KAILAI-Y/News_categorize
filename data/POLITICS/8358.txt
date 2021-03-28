@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Someone Trolled A GOP Senator By Signing Him Up To Nickelback Emails', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/gop-ben-sasse-nickelback-emails_us_59450143e4b01eab7a2df10f', 'short_description': '"It\'s. Not. Funny."', 'date': '2017-06-17'}

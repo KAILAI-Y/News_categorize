@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': '#IBelieveFrederica', 'authors': 'W. Island, ContributorAnalyst, social justice advocate, and blogger at What We Know', 'link': 'https://www.huffingtonpost.com/entry/ibelievefrederica_us_59f0879ee4b02ace788ca8df', 'short_description': 'Why is it so hard to believe black women?', 'date': '2017-10-25'}

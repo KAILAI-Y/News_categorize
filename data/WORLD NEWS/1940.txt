@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Japan Moves Toward Passing Bill That Would Expand Definition Of Rape', 'authors': 'Linda Sieg and Ami Miyazaki, Reuters', 'link': 'https://www.huffingtonpost.com/entry/japan-rape-law_us_593fffdee4b02402687cf64f', 'short_description': 'Many victims stay silent from shame or fear of criticism.', 'date': '2017-06-13'}

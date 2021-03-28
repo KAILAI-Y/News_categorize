@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'If The Earth Was Flat, Why Haven't The Cats Pushed Everything Off By Now?'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reddit-shower-thoughts-february-second_us_5a7da163e4b0c6726e126a14', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-02-09'}

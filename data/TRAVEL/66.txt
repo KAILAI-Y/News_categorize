@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "Finnish Chain Builds 'Game Of Thrones'-Themed Hotel Fit For Wildlings", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-hotel_us_5a57d3d3e4b02cebbfda35ac', 'short_description': "It's the closest thing to sleeping north of the Wall.", 'date': '2018-01-11'}

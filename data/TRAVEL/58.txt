@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '6 Breathtaking Destinations With No Cell Service For Your Next Vacation', 'authors': 'PureWow, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/6-breathtaking-destinations-with-no-cell-service_us_5a7a00f5e4b01109985cd8d1', 'short_description': '1. Hacienda AltaGracia (Pérez Zeledón, Costa Rica)', 'date': '2018-02-07'}

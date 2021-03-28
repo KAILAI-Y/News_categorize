@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'James McAvoy Got Buff And People On Twitter Really Like It', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/james-mcavoy-buff-twitter_us_5a27fb7ce4b044d167265346', 'short_description': 'Just call him Professor XXL.', 'date': '2017-12-06'}

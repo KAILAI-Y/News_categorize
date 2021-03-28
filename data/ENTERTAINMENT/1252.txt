@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Sarah Silverman And Actor Michael Sheen Split After 4 Years', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/sarah-silverman-michael-sheen-split_us_5a78cf80e4b0164659c72da3', 'short_description': 'They "consciously uncoupled," the comedian joked.', 'date': '2018-02-05'}

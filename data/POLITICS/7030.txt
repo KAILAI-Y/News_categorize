@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sarah Huckabee Sanders Suggests Trump 'Weighed In On' Son’s Response To Russia Meeting", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-russia-meeting_us_5980c9bee4b00bb8ff3a27a2', 'short_description': 'She claimed "any father would."', 'date': '2017-08-01'}

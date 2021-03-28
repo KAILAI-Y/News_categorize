@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rihanna's Grammy Trench Coat Was 'Chocolate Patent Leather' Greatness", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/rihannas-grammy-trench-coat_us_5a6e75c2e4b0ddb658c798c9', 'short_description': 'Long live Rih in a shiny coat-as-a-dress.', 'date': '2018-01-29'}

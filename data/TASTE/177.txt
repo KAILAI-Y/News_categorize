@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Breakfast For Dinner Recipes: If McDonald's Can Serve Breakfast All Day, So Can You", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/breakfast-for-dinner_us_5995c0f3e4b0acc593e6024a', 'short_description': 'Pancakes, bacon and syrup, oh my.', 'date': '2017-08-22'}

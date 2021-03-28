@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Can Yoga Help Treat PTSD?', 'authors': 'Armin Rosen, ContributorWriter', 'link': 'https://www.huffingtonpost.com/entry/can-yoga-help-treat-ptsd_us_596681e2e4b051f16255e589', 'short_description': 'The U.S. military is beginning to embrace yoga as a means of treating Post-Traumatic Stress Disorder, Stephanie Lopez, a', 'date': '2017-07-12'}

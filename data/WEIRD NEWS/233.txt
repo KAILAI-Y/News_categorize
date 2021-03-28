@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Mutter Museum To Put Woven Hair Art On Display Next Month', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/mutter-musum-hair-art_us_5a38264de4b0c65287ab8be3', 'short_description': 'Hair art was a popular way of mourning the dead in the 19th century.', 'date': '2017-12-18'}

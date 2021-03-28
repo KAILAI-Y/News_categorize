@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Most Americans Think Legal Immigrants Are Good For The Country', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/poll-most-think-legal-immigrants-benefit-nation_us_598b7a73e4b0a66b8bb0dd45', 'short_description': 'Just 35% want the level of legal immigration to decrease.', 'date': '2017-08-09'}

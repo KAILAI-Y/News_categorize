@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ben Affleck Finally Addresses His 'Garish' Back Tattoo", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/ben-affleck-finally-addresses-his-garish-back-tattoo_us_5abd042ee4b03e2a5c7a3cc3', 'short_description': 'Our long national nightmare is over.', 'date': '2018-03-29'}

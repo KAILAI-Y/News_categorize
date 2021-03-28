@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Most Americans View Trump -- But Not The GOP -- As Too Extreme', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/americans-trump-gop-extreme_us_59a9c88ce4b0dfaafcf0748b', 'short_description': 'And more of the latest polling news.', 'date': '2017-09-01'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Fox News Is Launching An 'Over-The-Top' Opinion Streaming Service", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/fox-news-streaming-service_us_5a8c4ba2e4b03414379ab28e', 'short_description': 'The platform is set to launch later this year.', 'date': '2018-02-20'}

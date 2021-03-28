@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'NHL Names Kid Rock As All-Star Game Act; Twitter Says What The Puck?', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/nhl-kid-rock-all-star-game_us_5a5f7fefe4b096ecfca9bf21', 'short_description': '"Why don\'t any women, minorities, or people under 40 watch our sport?"', 'date': '2018-01-17'}

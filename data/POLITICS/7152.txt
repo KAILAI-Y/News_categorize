@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "John McCain Lives Up To His 'Maverick' Reputation", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/john-mccain-health-care-vote_us_597a585ee4b02a4ebb74429d', 'short_description': 'He acted on his words when it truly mattered.', 'date': '2017-07-28'}

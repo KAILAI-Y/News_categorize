@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Brings Down The House With Some Advice For Donald Trump Jr.', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-donald-trump-jr-advice_us_59dc4d5ae4b0b34afa5bbe4b', 'short_description': 'The feud keeps escalating.', 'date': '2017-10-10'}

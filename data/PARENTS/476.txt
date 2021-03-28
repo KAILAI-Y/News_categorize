@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '17 Fantastically Fun Shirts For Girls Who Love STEM', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/stem-science-shirts-for-girls_us_5988b05ee4b0d7937388f9dc', 'short_description': 'Just in time to head back to school.', 'date': '2017-08-07'}

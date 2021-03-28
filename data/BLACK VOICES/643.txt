@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Chicago Teen Found Dead In Hotel Freezer Sparks Outrage, Confusion', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/kenneka-jenkins-chicago-teen-freezer-petitions_us_59b81eefe4b02da0e13cc085', 'short_description': 'Numerous petitions are demanding justice for 19-year-old Kenneka Jenkins.', 'date': '2017-09-12'}

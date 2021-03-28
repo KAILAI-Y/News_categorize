@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'As Russia Probe Heats Up, Conservatives Call For Special Counsel Mueller To Quit', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/mueller-calls-to-resign-gop_us_59f49c1fe4b07fdc5fbe77a7', 'short_description': 'The effort to discredit Mueller’s probe is underway.', 'date': '2017-10-28'}

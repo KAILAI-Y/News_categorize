@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Funny Video Sums Up Parents At The Beginning vs. The End Of Summer', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/funny-video-sums-up-parents-at-the-beginning-vs-the-end-of-summer_us_5970d26fe4b062ea5f905ebb', 'short_description': 'Hang in there, moms and dads.', 'date': '2017-07-20'}

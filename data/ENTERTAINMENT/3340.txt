@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Spider-Man' Producer Uses Perfect Word To Explain Why The Cast Is So Diverse", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/spider-man-homecoming-producer-uses-perfect-word-to-explain-why-the-cast-is-so-diverse_us_594fd785e4b02734df2b0e71', 'short_description': 'Mic drop.', 'date': '2017-06-25'}

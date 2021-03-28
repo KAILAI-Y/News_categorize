@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "New 'Doctor Who' Star Jodie Whittaker Just Won A Major Battle For Pay Equality", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/doctor-who-jodie-whittaker-pay-equality_us_5a682f85e4b0dc592a0dd054', 'short_description': 'Equality comes to the TARDIS.', 'date': '2018-01-24'}

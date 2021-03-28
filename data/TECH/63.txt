@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Woman In China Says Colleague’s Face Was Able To Unlock Her iPhone X', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/iphone-face-recognition-double_us_5a332cbce4b0ff955ad17d50', 'short_description': 'It could also be cheeky passcode training, an Apple spokesman says.', 'date': '2017-12-15'}

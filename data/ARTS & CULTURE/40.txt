@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Street Art Mural Of Kevin Spacey Will Soon Be Erased', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kevin-spacey-street-art-mural-manchester_us_5a0ec540e4b0e97dffecbc03', 'short_description': 'Street artist Akse will paint over his 2015 piece "as a result of the recent allegations."', 'date': '2017-11-17'}

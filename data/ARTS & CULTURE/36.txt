@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "'Mudbound' Has More To Say About Whiteness In America Than Any Other Trump-Era Movie", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/dee-rees-mudbound_us_59fd18d4e4b0baea2631d8fc', 'short_description': "A person doesn't have to be hateful in order to be racist.", 'date': '2017-11-27'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Merkel Condemns 'Repulsive' Far-Right Violence In Charlottesville", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/merkel-charlottesville-far-right-germany_us_5991be19e4b09071f69b5867', 'short_description': 'She pledges to stand with anyone who peacefully opposes hateful ideology.', 'date': '2017-08-14'}

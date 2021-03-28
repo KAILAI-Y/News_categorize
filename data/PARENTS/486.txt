@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'This Breastfeeding Mom Pumped During An Ironman', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/this-breastfeeding-mom-pumped-during-an-ironman_us_59836dcee4b0cb15b1bd4f0f', 'short_description': 'Katrina Bolduc was determined to make motherhood work with her athletic dreams.', 'date': '2017-08-04'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mitch McConnell Walks Back Roy Moore Criticism', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/mitch-mcconnell-roy-moore-alabama_us_5a2435fae4b03c44072e3b81', 'short_description': '"The voters of Alabama will make their choice," the Senate Republican leader says.', 'date': '2017-12-03'}

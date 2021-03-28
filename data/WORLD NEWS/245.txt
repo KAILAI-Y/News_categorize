@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'At Least 50 Dead After Plane Crashes While Landing At Kathmandu Airport In Nepal', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/nepal-plane-crash_us_5aa6473ae4b086698a9f56fd', 'short_description': 'The aircraft hit an airport fence and burst into flames.', 'date': '2018-03-12'}

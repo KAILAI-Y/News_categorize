@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Watch O.J. Simpson's Parole Hearing Live Here", 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/oj-simpson-hearing-live-watch_us_5970bbe7e4b0110cb3cc9c83', 'short_description': 'The state of Nevada could decide Thursday to release Simpson in October.', 'date': '2017-07-20'}

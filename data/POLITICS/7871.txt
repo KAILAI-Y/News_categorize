@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chris Christie Bashes The Press Over Beach Outing Coverage', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/chris-christie-beach_us_595a448be4b02734df3377c0', 'short_description': '"I am sure they will get a Pulitzer for this one," the New Jersey governor said Monday.', 'date': '2017-07-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Judge Blocks Texas Immigration Crackdown', 'authors': 'Roque Planas and Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/texas-immigration-crackdown-injunction_us_59a7037de4b084581a151b1d', 'short_description': 'An injunction prevents a state law banning so-called sanctuary cities from taking effect.', 'date': '2017-08-31'}

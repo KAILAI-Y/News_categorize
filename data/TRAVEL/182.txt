@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Everything It Will Take To Get Faster Wi-Fi On Planes', 'authors': 'The Atlantic, ContributorExploring the American idea since 1857', 'link': 'https://www.huffingtonpost.com/entry/everything-it-will-take-to-get-faster-wi-fi-on-planes_us_59678cf7e4b051f16255e669', 'short_description': 'Yes, it will get better.', 'date': '2017-07-13'}

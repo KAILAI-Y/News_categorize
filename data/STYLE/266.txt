@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Please Welcome Britney Spears Into The 'No Makeup Monday' Club", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/britney-spears-no-makeup_us_59a55f95e4b0446b3b8660e2', 'short_description': 'Get it, girl.', 'date': '2017-08-29'}

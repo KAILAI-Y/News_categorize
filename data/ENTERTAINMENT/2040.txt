@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Miley Cyrus Shuts Down Pregnancy Rumors With Funny Thanksgiving Tweet', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/miley-cyrus-pregnancy-rumors-shuts-down_us_5a17d516e4b0cee6c04eed71', 'short_description': '"RUDE!!!"', 'date': '2017-11-24'}

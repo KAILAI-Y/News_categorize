@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Willing To Testify Under Oath About Russia And Comey', 'authors': 'Elise Foley and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/trump-comey-testify_us_593aee98e4b0c5a35c9f2858', 'short_description': 'The former FBI director called Trump a liar.', 'date': '2017-06-09'}

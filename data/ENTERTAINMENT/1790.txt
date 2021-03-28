@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Dustin Hoffman Accusers Speak Out About Alleged Abuse In Joint NBC Interview', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/dustin-hoffman-accusers-nbc-interview_us_5a3924b1e4b0fc99878eceb1', 'short_description': '"As hard as it is, I think that I wanted to choose truth over shame."', 'date': '2017-12-19'}

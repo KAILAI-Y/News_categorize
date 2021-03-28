@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration Tells 200,000 Salvadorans To Leave Or Get Deported', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/trump-el-salvador-deported_us_5a538b07e4b01e1a4b17c991', 'short_description': 'The move hurts U.S. interests to further an anti-immigration ideology, advocates say.', 'date': '2018-01-08'}

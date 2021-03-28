@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Rep. Joe Kennedy Picked To Give Democratic Response To Trump's State Of The Union", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/joe-kennedy-democrats-sotu-response_us_5a6aa227e4b0ddb658c512b0', 'short_description': "He's expected to speak in defense of working Americans.", 'date': '2018-01-26'}

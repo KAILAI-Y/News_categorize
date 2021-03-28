@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Garbine Muguruza Blows Away Venus Williams To Take First Wimbledon Crown', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/wimbledon-muguruza-win-venus-williams_us_596a2e4ae4b0d6341fe93aa8', 'short_description': 'The Venezuela-born 23-year-old sealed her second grand slam victory.', 'date': '2017-07-15'}

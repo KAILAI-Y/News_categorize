@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'In New York State, A Glimmer Of Good News About The Opioid Crisis', 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/new-york-opioid-crisis_us_59a94fb6e4b0dfaafcef8c26', 'short_description': 'More evidence that naloxone access helps prevent deaths.', 'date': '2017-09-01'}

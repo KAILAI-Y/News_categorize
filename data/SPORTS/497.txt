@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Twitter Doesn't Tire Of Knocking Conor McGregor's Stamina", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/twitter-doesnt-tire-of-knocking-conor-mcgregors-stamina-in-loss_us_59a250b0e4b05710aa5cbe55', 'short_description': '"Endurance wins. Score one for boxing."', 'date': '2017-08-27'}

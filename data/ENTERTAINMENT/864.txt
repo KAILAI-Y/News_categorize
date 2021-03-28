@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift Dances When No One Can See Her In New 'Delicate' Video", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-delicate-music-video_us_5aa6480ee4b086698a9f57f2', 'short_description': 'The pop star busted her moves after winning an iHeartRadio Music Award.', 'date': '2018-03-12'}

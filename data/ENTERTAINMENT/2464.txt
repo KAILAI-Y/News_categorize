@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Carrie Fisher’s Dog Watching The New ‘Star Wars’ Trailer Will Destroy You', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/carrie-fishers-dog-watching-mom-in-new-star-wars-trailer-will-destroy-you_us_59dcd924e4b0208970cff50e', 'short_description': 'Get the tissues.', 'date': '2017-10-10'}

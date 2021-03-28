@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Child Sexual Predator Roman Polanski Calls Me Too Movement 'Total Hypocrisy'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/roman-polanski-me-too_us_5af2ed3ce4b00a3224ef4a6c', 'short_description': 'The director argued that people are embracing Me Too "chiefly out of fear."', 'date': '2018-05-09'}

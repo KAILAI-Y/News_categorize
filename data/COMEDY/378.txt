@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Overheated 'Doc' Gushes About Trump's Rockin' Bod On 'Saturday Night Live'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snldoc-gushes-about-trump-rockinbod_us_5a641a37e4b0e56300705d05', 'short_description': 'He\'s a "very svelte 239 pounds with a gorgeous Coke-bottle waist."', 'date': '2018-01-21'}

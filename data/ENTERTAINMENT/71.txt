@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chrissy Teigen Somehow Gets Even More Real About Life After Childbirth', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-somehow-got-even-more-real-about-life-after-childbirth_us_5b02d154e4b0463cdba48003', 'short_description': 'This is postpartum life unfiltered.', 'date': '2018-05-21'}

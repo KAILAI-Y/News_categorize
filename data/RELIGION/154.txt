@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Joel Osteen Tells Harvey Survivors Not To Have A ‘Victim Mentality’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/joel-osteen-harvey-victim-mentality_us_59acaa9ae4b0b5e530ff6e8b', 'short_description': 'The controversial pastor vowed God will "pay back what belongs to us."', 'date': '2017-09-04'}

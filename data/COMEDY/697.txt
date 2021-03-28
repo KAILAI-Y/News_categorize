@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Shuts Down Donald Trump's IQ Boasts", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-donald-trump-iq_us_59dda19be4b01df09b773a3e', 'short_description': 'The late-night host says the president should take an intelligence test on pay-per-view.', 'date': '2017-10-11'}

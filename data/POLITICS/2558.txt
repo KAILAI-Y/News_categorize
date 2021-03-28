@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Solar Industry Braces For Job Losses As Trump Puts Fees On Imported Panels', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/trump-solar-tariff_us_5a66328de4b0022830057908', 'short_description': 'The solar industry created 1 in every 50 new American jobs in 2016.', 'date': '2018-01-22'}

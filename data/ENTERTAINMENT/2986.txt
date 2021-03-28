@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Daniel Dae Kim Teaches Everyone A Lesson In Integrity', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/daniel-dae-kim-teaches-lesson-in-integrity_us_5989ce41e4b0a66b8baec3e7', 'short_description': 'The actor made a powerful statement about self-worth and his exit from “Hawaii Five-0.”', 'date': '2017-08-08'}

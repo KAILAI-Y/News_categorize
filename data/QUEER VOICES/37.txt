@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Kevin McHale: 'I Think There Was Zero Surprise' When I Came Out", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/kevin-mchale-confirms-he-is-gay_us_5af5a77ce4b00d7e4c1a0c56', 'short_description': 'The “Glee” star said “people knew” he was gay before his viral Ariana Grande tweet.', 'date': '2018-05-11'}

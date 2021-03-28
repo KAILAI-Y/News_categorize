@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Coldplay Performs Tribute Song For Houston, Vows Never To Play It Again', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/coldplay-writes-new-song-for-houston-performs-it-one-time-only_us_59a53397e4b041393a205731', 'short_description': '"I\'m dreamin\' of that very special place."', 'date': '2017-08-29'}

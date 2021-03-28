@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Michael and Richard: Gym Daddies... Literally', 'authors': 'Gays With Kids, ContributorHelping gay dads navigate fatherhood.', 'link': 'https://www.huffingtonpost.com/entry/michael-and-richard-gym-daddies_us_58fe45c1e4b0f420ad99caa6', 'short_description': '“We’re trying to keep up with our much younger child."', 'date': '2017-07-06'}

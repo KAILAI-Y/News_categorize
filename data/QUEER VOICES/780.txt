@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Ellen Responds To Las Vegas Massacre In Most Beautiful (And Most Ellen) Way Possible', 'authors': 'Noah Michelson', 'link': 'https://www.huffingtonpost.com/entry/ellen-las-vegas-massacre_us_59d3bc02e4b04b9f92055448', 'short_description': 'This is exactly what we needed.', 'date': '2017-10-03'}

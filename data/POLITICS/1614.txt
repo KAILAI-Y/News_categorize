@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Thursday's Morning Email: GOP Planning Do-Nothing 2018 Agenda", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/thursdays-morning-email-gop-planning-do-nothing-2018-agenda_us_5aa11c83e4b002df2c6130ea', 'short_description': 'There will be a lot of show votes and required funding bills.', 'date': '2018-03-08'}

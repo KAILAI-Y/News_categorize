@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here Are All The Winners Of Donald Trump’s Paris Agreement Decision', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/trump-paris-winners-losers_us_59313c3ae4b02478cb9a56aa', 'short_description': 'There are hardly any, but there is one major loser -- our planet.', 'date': '2017-06-02'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert's '9 To 5' Parody Mocks Donald Trump's '11 To 2' Workday", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-9-to-5_us_5ae9e5b3e4b06748dc8ecff0', 'short_description': '"Just three things to do, then it\'s basically a vacation."', 'date': '2018-05-02'}

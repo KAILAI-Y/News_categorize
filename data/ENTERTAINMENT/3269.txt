@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "CBS Says It Offered 'Large' Pay Raises To Departed 'Hawaii Five-0' Stars", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/cbs-says-it-offered-large-pay-raises-to-departed-hawaii-five-0-stars_us_595e294fe4b02e9bdb0a8c1c', 'short_description': '"We part ways with tremendous respect."', 'date': '2017-07-06'}

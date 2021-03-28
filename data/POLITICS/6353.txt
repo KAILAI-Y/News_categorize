@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Suggests He'll Pardon Joe Arpaio, Self-Proclaimed 'Toughest Sheriff' In America", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-joe-arpaio_us_5991ff89e4b0909642992a67', 'short_description': 'Trump and Arpaio were major players in the Obama birther movement.', 'date': '2017-08-23'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Olympian Gus Kenworthy Calls Mike Pence A 'Bad Fit' As Delegation Leader", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/gus-kenworthy-ellen-degeneres-mike-pence_us_5a78db3ee4b0164659c73d50', 'short_description': '"The Olympics is all about inclusion," the freeskier said.', 'date': '2018-02-06'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The 'SNL' Season 43 Premiere After-Party Was As Star-Studded As They Come", 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/the-snl-season-43-premiere-after-party-was-as-star-studded-as-they-come_us_59d1092fe4b05f005d34d5ab', 'short_description': 'Gosling. Mendes. Jay-Z. Bey.', 'date': '2017-10-01'}

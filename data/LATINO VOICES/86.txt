@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Shakira Postpones World Tour Again After Vocal Cord Hemorrhage', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/shakira-postpones-world-tour-again-after-vocal-cord-hemorrhage_us_5a43b9e5e4b06d1621b64e7a', 'short_description': 'The Colombian singer suffered the injury in October.', 'date': '2017-12-27'}

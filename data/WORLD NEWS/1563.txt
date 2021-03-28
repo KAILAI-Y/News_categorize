@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Suspected ISIS Fighter Identified As Runaway German Teen', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/isis-german-teen_us_5974dbefe4b00e4363e025f3', 'short_description': 'She had been missing since last July.', 'date': '2017-07-23'}

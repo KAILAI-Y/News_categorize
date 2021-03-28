@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '2016 Mock Front Page Eerily Foretells Trump World', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/mock-front-page-foretells-trump-world_us_5ac84296e4b07a3485e4d7e1', 'short_description': 'The Boston Globe gets head-spinning deportations, unfunded wall and trade war right.', 'date': '2018-04-07'}

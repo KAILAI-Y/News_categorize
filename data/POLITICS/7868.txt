@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '15,000 People Become New U.S. Citizens To Celebrate Fourth of July', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/fourth-of-july-citizenship_us_595b99f3e4b02734df342ea7', 'short_description': 'At one ceremony, a Democratic senator aims a not-so-veiled jab at Donald Trump.', 'date': '2017-07-04'}

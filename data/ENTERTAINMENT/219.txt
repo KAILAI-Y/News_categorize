@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Pauley Perrette's Abby Has Heart-Wrenching Farewell On 'NCIS'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/pauley-perrette-abby-farewell-ncis_us_5af2fd13e4b0a0d601e8d626', 'short_description': 'Goodbye, goth genius.', 'date': '2018-05-09'}

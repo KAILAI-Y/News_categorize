@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Sorry, But Marvel and 'Star Wars' Films Are Leaving Netflix", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/netflix-is-now-losing-marvel-and-star-wars-movies-sorry_us_59b1790ae4b0354e44102207', 'short_description': 'Get your "Zootopia" watching in before 2019.', 'date': '2017-09-07'}

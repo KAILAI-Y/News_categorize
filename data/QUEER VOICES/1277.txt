@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': '11 Of The Most Powerful Blogs Written In The Wake Of The Pulse Massacre', 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/pulse-massacre-blogs_us_59398d59e4b0b13f2c684bc8', 'short_description': 'Grief, anger and solidarity can be powerful tools for building community.', 'date': '2017-06-11'}

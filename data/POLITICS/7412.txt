@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kris Kobach Has No Regrets About His Controversial Request For Voter Data', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/kris-kobach-social-security-numbers_us_596fcf05e4b062ea5f8ef948', 'short_description': 'He said the backlash was due in part to "poor" and "lazy" reporting.', 'date': '2017-07-19'}

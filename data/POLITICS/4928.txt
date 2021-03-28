@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Steve Mnuchin Says It's 'Very Hard' Not To Cut Rich People's Taxes", 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/mnuchin-tax-cuts-rich_us_59e78e4fe4b00905bdae315b', 'short_description': "Here's a suggestion: Specify higher tax rates for higher earners, like you said you would.", 'date': '2017-10-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Team Met Lawyer Close To Kremlin, Report Says', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/trump-team-met-lawyer-close-to-kremlin-report-says_us_59615a97e4b0d5b458eae13a', 'short_description': 'Donald Trump Jr. said the meeting was to discuss an adoption program.', 'date': '2017-07-08'}

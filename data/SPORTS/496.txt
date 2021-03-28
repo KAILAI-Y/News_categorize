@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Twitter Really Couldn't Handle Mayweather's Fight Night Ski Mask", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/twitter-mayweather-fight-mcgregor-ski-mask_us_59a2479ae4b06d67e33819cc', 'short_description': 'Even "Grey\'s Anatomy" star Jesse Williams couldn\'t resist a good jab.', 'date': '2017-08-27'}

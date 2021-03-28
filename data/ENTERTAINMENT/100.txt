@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Break Out The Book Of Shadows, The 'Charmed' Reboot Trailer Is Here", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/break-out-the-book-of-shadows-the-charmed-reboot-trailer-is-here_us_5afeece4e4b0a046186b14b5', 'short_description': "2018's cast is much more diverse.", 'date': '2018-05-18'}

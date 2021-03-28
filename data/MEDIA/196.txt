@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'GOP Lawmaker Devin Nunes Reportedly Made His Own Fake News Website', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/devin-nunes-news-website-california-republican_us_5a810a33e4b0c6726e14bcda', 'short_description': '"News, sports and analysis" website is paid for by the Nunes campaign.', 'date': '2018-02-12'}

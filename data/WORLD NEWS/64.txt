@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'UN Chief Warns Trump Not To Ditch Iran Nuclear Deal', 'authors': 'Estelle Shirbon, Reuters', 'link': 'https://www.huffingtonpost.com/entry/un-trump-iran-nuclear-deal_us_5aeabcc9e4b06748dc8fab54', 'short_description': '"We should not scrap it unless we have a good alternative."', 'date': '2018-05-03'}

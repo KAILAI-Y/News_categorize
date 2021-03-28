@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'As Health Care Repeal Bill Heads Into Ditch, Trump Complains About Amazon', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-healthcare-tweets_us_59541a6be4b02734df2fcac3', 'short_description': 'The White House continues to say his tweeting is a terrific benefit to him. Polls say otherwise.', 'date': '2017-06-28'}

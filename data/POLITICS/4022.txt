@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Roy Moore Follows Donald Trump Playbook On Allegations Of Sexual Misconduct', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-trump-sexual-allegations_us_5a143f17e4b0c335e9976886', 'short_description': 'Deny, obfuscate, and distract at all costs.', 'date': '2017-11-22'}

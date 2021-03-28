@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "How Brazil's 'Lord Of Guns' Armed Rio's Drug War With U.S. Weapons", 'authors': 'Travis Waldron', 'link': 'https://www.huffingtonpost.com/entry/weapon-smuggling-us-brazil_us_5aa053d8e4b0d4f5b66d14e8', 'short_description': 'Weak U.S. laws mean it’s not just our guns being trafficked; it’s our gun violence, too.', 'date': '2018-03-08'}

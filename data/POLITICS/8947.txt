@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Officials In Obama's Drug Czar Office Wanted To Decriminalize Marijuana", 'authors': 'Jason Cherkis', 'link': 'https://www.huffingtonpost.com/entry/marijuana-decriminalize-obama-drug-czar-office_us_592dd301e4b0c0608e8c2564', 'short_description': 'But they never made their case publicly.', 'date': '2017-05-30'}

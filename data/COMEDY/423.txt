@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Has The Best Response To Trump Reportedly Starting His Day At 11 A.M.', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-trump-starts-day-11-am_us_5a559e73e4b0b117f880794b', 'short_description': "A recent report says Trump's daily schedule is getting shorter.", 'date': '2018-01-10'}

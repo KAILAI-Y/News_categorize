@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Google Now Shows Wait Times For Restaurants And Grocery Stores', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/google-is-going-to-start-showing-wait-times-for-restaurants_us_5a00a5b3e4b0baea2633c1cb', 'short_description': 'Now you just have to figure out what to eat.', 'date': '2017-11-07'}

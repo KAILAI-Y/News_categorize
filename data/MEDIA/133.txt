@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "That Tweet About An 'Intimate' Trump Pic Is Horrifying, And It's Thankfully Fake", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-pics-fake-news_us_5ab076d6e4b00549ac7e77e1', 'short_description': 'Phew.', 'date': '2018-03-20'}

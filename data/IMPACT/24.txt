@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': '8 Stats That Prove Social Anxiety Needs To Be Taken Seriously', 'authors': 'Lauren Rearick', 'link': 'https://www.huffingtonpost.com/entry/social-anxiety-by-the-numbers_us_5acb5934e4b09d0a1195aa91', 'short_description': 'The disorder is often misunderstood.', 'date': '2018-04-17'}

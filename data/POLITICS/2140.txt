@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Deficit Is Fine. His Budget Is Terrible.", 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/trump-deficit-budget_us_5a81e2dfe4b044b38220043a', 'short_description': 'But nobody in Washington is really worried about the deficit fairy.', 'date': '2018-02-12'}

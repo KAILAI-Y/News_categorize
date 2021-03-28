@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trump Has Somehow Managed To Make The Eclipse All About Himself', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-retweet-barack-obama-eclipse_us_599ee119e4b06d67e335c5bd', 'short_description': 'And it only took one retweet.', 'date': '2017-08-24'}

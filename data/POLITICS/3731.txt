@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Spokeswoman Defends Roy Moore By Touting 'Non-Accusers'", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-alabama-senate-race_us_5a26a5cbe4b086e4e5047704', 'short_description': 'At least nine women have accused the Alabama Republican Senate candidate of sexual misconduct.', 'date': '2017-12-05'}

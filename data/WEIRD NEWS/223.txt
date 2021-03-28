@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Beds Are Just Wireless Chargers For Humans'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reddit-shower-thoughts-december-2017-part-3_us_5a3d0ab1e4b06d1621b3e229', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2017-12-22'}

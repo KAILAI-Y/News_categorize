@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Bill O'Reilly Accuser Says She's Still 'Terrified' Of Fox News", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/juliet-huddy-bill-oreilly_us_59edca60e4b00f08619fd94d', 'short_description': '"You’re just this one person that’s about to go up against literally a machine," said Juliet Huddy.', 'date': '2017-10-23'}

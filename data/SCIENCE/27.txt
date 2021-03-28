@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'Neil deGrasse Tyson Weighs The Scientific Data For Prayers vs. Guns', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/neil-degrassse-tyson-thoughts-and-prayers_us_5a8a341de4b00bc49f457aa5', 'short_description': 'The famed astrophysicist looks at the evidence.', 'date': '2018-02-19'}

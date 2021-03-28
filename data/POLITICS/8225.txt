@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Says He Doesn't Want Poor People In Charge Of The Economy", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-poor-people-economy_us_594b19bce4b0a3a837bce8c9', 'short_description': '"If you insist, I\'ll do it, but I like it better this way."', 'date': '2017-06-22'}

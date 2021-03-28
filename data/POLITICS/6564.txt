@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Both Bush Presidents Say America Must 'Always Reject Racial Bigotry'", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/bush-presidents-charlottesville_us_599464fce4b0e789a94895d4', 'short_description': 'They said America must stand up to "hatred in all forms."', 'date': '2017-08-16'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Sean Spicer Wants A Slice Of Melissa McCarthy's 'SNL' Emmy", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-melissa-mccarthy-emmy-snl_us_59b8db8fe4b086432b028ca6', 'short_description': '"I think we should share," joked the former White House press secretary.', 'date': '2017-09-13'}

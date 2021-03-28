@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New TV Ad Demands Trump Drop His Ban On Transgender Troops', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/tv-ad-trump-transgender-troop-ban_us_5a98a235e4b089ec3538a576', 'short_description': 'The president might see it on Fox News.', 'date': '2018-03-02'}

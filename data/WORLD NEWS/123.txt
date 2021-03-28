@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Russian Reporter Maxim Borodin Dies After Mysterious Balcony Fall', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/maxim-borodin-russia-reporter-death-fall-balcony_us_5ad4f819e4b0edca2cbcc536', 'short_description': "Friends say he'd been attacked in the past for his reporting.", 'date': '2018-04-17'}

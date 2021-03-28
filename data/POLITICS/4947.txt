@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congress At Standstill Over Reauthorizing Health Insurance For 9 Million Kids', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/chip-children-health-insurance_us_59e794eae4b00905bdae398b', 'short_description': 'It’s been 3 weeks since it expired, and several states will run out of money soon.', 'date': '2017-10-18'}

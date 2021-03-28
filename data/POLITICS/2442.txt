@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Brits Plan Massive Protest For Donald Trump's Visit To London", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/brits-plan-incredible-protest-to-greet-trump_us_5a6e75a4e4b01fbbefb2ef6a', 'short_description': 'Tens of thousands have already signed up for the demonstrations on Facebook.', 'date': '2018-01-29'}

@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "Sikhs Save City's Fourth Of July Fireworks Show With $10,000 Donation", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/sikhs-fund-citys-4th-of-july-fireworks_us_595e797ce4b02e9bdb0b321a', 'short_description': '“American values are Sikh values."', 'date': '2017-07-06'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The President Show' Takes Donald Trump To A Charm School For Manners", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-president-show-takes-donald-trump-to-a-charm-school-for-manners_us_59a9843fe4b0354e4409f11f', 'short_description': 'No school can hold this man.', 'date': '2017-09-01'}

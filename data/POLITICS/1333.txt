@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Stormy Daniels Says She 'Technically' Didn't Sleep With Trump", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/stormy-daniels-sleeping-with-trump_us_5ab195a2e4b008c9e5f26600', 'short_description': '"There was no sleeping (hehe)," she tweeted.', 'date': '2018-03-21'}

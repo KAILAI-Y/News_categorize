@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Why Hillary Clinton Is Into 'Alternate Nostril Breathing'", 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-alternate-nostril-breathing_us_59b93f6de4b02da0e13e3cfd', 'short_description': 'The technique is easy AND effective.', 'date': '2017-09-13'}

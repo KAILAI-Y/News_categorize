@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Anderson Cooper Burns 'Moronic' Michael Cohen Over Russia Cash Claims", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/anderson-cooper-michael-cohen-russsia-money_us_5af254a7e4b0a0d601e79a6f', 'short_description': "CNN host says it doesn't look good for Trump's personal attorney.", 'date': '2018-05-09'}

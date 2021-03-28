@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kellyanne Conway Morphed Into Pennywise On 'SNL'  And It's Terrifying", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/saturday-night-live-kellyanne-conway-it-pennywise_us_59e2d373e4b04d1d51823605', 'short_description': "It's your every fear come to life.", 'date': '2017-10-15'}

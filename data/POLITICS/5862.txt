@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Flip State House Seats In 2 Districts That Trump Won By Double Digits', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/democrats-flip-seats-oklahoma-new-hampshire_us_59b93e62e4b086432b035ea2', 'short_description': 'New signs a wave may be building.', 'date': '2017-09-13'}

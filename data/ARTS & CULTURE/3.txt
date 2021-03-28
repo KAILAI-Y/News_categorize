@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'J. K. Rowling Trolls Trump For Canceled UK Visit With Clucking Great Emoji', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jk-rowling-trump-uk-visit-chicken_us_5a58a66fe4b02cebbfdaf435', 'short_description': 'Not a scaredy-cat.', 'date': '2018-01-12'}

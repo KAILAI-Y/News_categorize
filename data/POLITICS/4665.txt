@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '2 Navy SEALs Under Investigation In Death Of Army Green Beret In Mali', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/green-beret-death-mali_us_59f7061be4b07fdc5fbf5009', 'short_description': 'Staff Sergeant Logan Melgar may have died from strangulation.', 'date': '2017-10-30'}

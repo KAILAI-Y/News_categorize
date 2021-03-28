@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Florida Shooting Survivor Suggests Calling AR-15 Rifles 'Marco Rubios'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ar-15-marco-rubio-florida-shooting_us_5a90478ae4b03b55731bd4d3', 'short_description': 'They\'re both "so easy to buy," she said.', 'date': '2018-02-23'}

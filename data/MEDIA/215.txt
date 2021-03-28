@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Van Jones Tears Apart Trump's Speech: 'Sweet-Tasting Candy With Poison In It'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/van-jones-state-of-the-union_us_5a7145dfe4b0a6aa48746e9a', 'short_description': "The CNN commentator calls out the president's rhetoric.", 'date': '2018-01-31'}

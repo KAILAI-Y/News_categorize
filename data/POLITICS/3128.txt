@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Saudi Arabia Pressured Lebanese Prime Minister To Resign: Report', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/saudi-arabia-pressured-lebanese-prime-minister-to-resign-report_us_5a41184ce4b06d1621b537cf', 'short_description': 'The high-stakes gambit backfired amid international uproar.', 'date': '2017-12-25'}

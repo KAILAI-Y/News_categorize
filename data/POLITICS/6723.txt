@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Black Leaders Speak Out Against Charlottesville Rally's 'Faces Of Hate'", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/black-leaders-condemn-charlottesville-violence_us_598f37a8e4b09071f699f6d9', 'short_description': "Many blamed President Donald Trump's rhetoric.", 'date': '2017-08-12'}

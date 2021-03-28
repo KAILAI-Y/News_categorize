@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "1 Typo Makes Sean Spicer's Rex Tillerson Tweet Unintentionally Truthful", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-rex-tillerson-tweet_us_5aa7eadee4b0a09afeae5391', 'short_description': 'He came to praise the former secretary of state, but ...', 'date': '2018-03-13'}

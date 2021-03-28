@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "It Isn't Even That Difficult To Hack Voting Equipment", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/us-voting-machine-hacking_us_59de6f61e4b00abf3645f0e3', 'short_description': 'A new report shows just how easy it is to get access to voting machines.', 'date': '2017-10-11'}

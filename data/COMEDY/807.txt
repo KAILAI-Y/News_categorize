@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Swipe Alt-Right On Conan O'Brien's Spoof White Supremacist Dating App", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/conan-white-supremacist-dating-app_us_599eaecae4b0821444c10c67', 'short_description': '"There’s way more women than I’ve met at our rallies."', 'date': '2017-08-24'}

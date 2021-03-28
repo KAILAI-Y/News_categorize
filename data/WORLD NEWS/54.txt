@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Netanyahu's Chef Blasted For Serving Japan's Prime Minister Dessert In A Shoe", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/japan-shinzo-abe-shoe-dessert_us_5af19eece4b041fd2d2b0384', 'short_description': 'The unconventional serving dish was criticized as offensive and in poor taste.', 'date': '2018-05-08'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "How To Get Rachel Lindsay's 30-Pound 'Bachelorette' Finale Gown For Less", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/how-to-get-rachel-lindsays-bachelorette-finale-look-for-less_us_5989c356e4b0449ed5058012', 'short_description': 'Options for everyone.', 'date': '2017-08-08'}

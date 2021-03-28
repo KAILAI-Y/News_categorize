@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Laura Ingraham Accidentally Delivered The Best Self-Own Of 2018', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/laura-ingraham-self-own-commercial-break_us_5ad0084ce4b016a07e9abf47', 'short_description': 'Fox News host has now lost more than two dozen sponsors.', 'date': '2018-04-13'}

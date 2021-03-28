@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Hillary Clinton Details Everything She Ate On The 2016 Campaign Trail', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-food_us_59bbdad4e4b0edff971b724d', 'short_description': '“One hot night in Omaha, Nebraska, I was consumed with the desire for an ice cream bar."', 'date': '2017-09-22'}

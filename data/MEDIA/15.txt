@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Fox Business Guest Defends Torture: It Worked On John McCain', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/fox-business-network-john-mccain_us_5af48276e4b0e57cd9f763cd', 'short_description': '"That\'s why they call him \'Songbird John.\'"', 'date': '2018-05-10'}

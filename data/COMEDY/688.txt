@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Samantha Bee Rips NRA-Beholden Senators With Spoof Halloween Costumes', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-nra-halloween-costumes_us_59e5bbd3e4b02a215b329e9b', 'short_description': '"We can’t think of anything scarier!"', 'date': '2017-10-17'}

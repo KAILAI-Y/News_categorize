@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Bless Cher And Her Instantly Iconic Clapback About DACA Repeal', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/bless-cher-and-her-instantly-iconic-clapback-about-daca_us_59aef895e4b0354e440d3f8b', 'short_description': 'We truly do not deserve her.', 'date': '2017-09-05'}

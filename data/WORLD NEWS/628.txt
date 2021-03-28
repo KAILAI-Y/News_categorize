@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'France To Ban Domestic Production Of Oil And Gas By 2040', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/france-oil-gas-ban_us_5a3a608be4b025f99e138aaf', 'short_description': "It's a historic move, though largely symbolic since 99 percent of the country's consumed oil is imported.", 'date': '2017-12-20'}

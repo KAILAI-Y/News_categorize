@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Theresa May Says She Regrets Britain's Legacy Of Anti-LGBTQ Laws", 'authors': 'William James, Reuters', 'link': 'https://www.huffingtonpost.com/entry/theresa-may-lgbtq-laws_us_5ad6270ee4b077c89ced3454', 'short_description': '"They were wrong then and they are wrong now," she said.', 'date': '2018-04-17'}

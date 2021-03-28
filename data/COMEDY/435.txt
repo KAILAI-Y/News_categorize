@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Funny Or Die's Reboot Of 'The Very Hungry Caterpillar' Will Eat You Alive", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/funny-or-die-very-hungry-caterpillar_us_5a4fa6dae4b089e14dba7cff', 'short_description': 'From the producers of "Air Bud: Extinction."', 'date': '2018-01-05'}

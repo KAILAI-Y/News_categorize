@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'U.S. News & World Report Uses Apparent Image Of Sikh Man For Terrorism Story', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/us-news-world-report-used-photo-of-sikh-man-for-piece-about-terrorism_us_5a6f577ae4b01fbbefb48d25', 'short_description': 'The outlet has since replaced the image.', 'date': '2018-01-30'}

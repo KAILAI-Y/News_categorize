@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Inside The Book Fairs That Allow Kids To Pay With Exercise', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/inside-the-book-fairs-that-allow-kids-to-pay-with-exercise_us_59d2b754e4b0f96298896694', 'short_description': 'Get Focused is on a mission to ensure no child goes home empty-handed.', 'date': '2017-10-03'}

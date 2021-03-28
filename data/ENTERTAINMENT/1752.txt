@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jonah Hill's Brother Jordan Feldstein Dies Suddenly At The Age Of 40", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/jonahhill-bro-jordan-feldstein-dies_us_5a3f3228e4b06d1621b4d77e', 'short_description': 'The Maroon 5 manager suffered an apparent heart attack, his family said.', 'date': '2017-12-24'}

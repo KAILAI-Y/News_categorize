@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Thirsty Trump's Desperate Dash For Water Has Everyone Crying With Laughter", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/thirsty-trump-water-jokes_us_5a0d20a6e4b0b37054f4684f', 'short_description': 'The president needs a drink. Badly.', 'date': '2017-11-16'}

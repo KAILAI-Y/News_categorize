@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Campaign Adviser Lied To FBI About Russian 'Dirt'", 'authors': 'Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/george-papadopolous-trump-russia-probe_us_59f7354be4b07fdc5fbfa210', 'short_description': 'George Papadopoulos has been cooperating with the probe of Russian meddling in the election.', 'date': '2017-10-30'}

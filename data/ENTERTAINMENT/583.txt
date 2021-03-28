@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Snoop Dogg Reveals The One Guy Who Ever Out-Smoked Him', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/snoop-dogg-reveals-the-one-guy-who-ever-out-smoked-him_us_5acca061e4b09d0a1197572e', 'short_description': '"I had to hit the timeout button."', 'date': '2018-04-10'}

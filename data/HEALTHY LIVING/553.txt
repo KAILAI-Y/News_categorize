@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Sam Shepard's Death Is A Reminder There's Still No Cure For ALS", 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/sam-shepard-als-lou-gherig_us_597f56f5e4b0da64e87ad121', 'short_description': 'Most people only live three to five years following an ALS diagnosis.', 'date': '2017-07-31'}

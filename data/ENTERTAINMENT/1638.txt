@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'People Want Oprah To Run For President After Her Powerful Golden Globes Speech', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/oprah-president-golden-globes_us_5a52e56ae4b003133ec96683', 'short_description': '"If that speech doesn\'t make you want to change the world, nothing will."', 'date': '2018-01-08'}

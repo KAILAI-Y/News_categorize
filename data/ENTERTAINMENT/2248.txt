@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kim Kardashian Defends Aaliyah Costume: 'We Don’t See Color'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-gives-non-apology-for-aaliyah-costume-we-dont-see-color_us_59fcccdee4b0baea2631b650', 'short_description': 'SMDH.', 'date': '2017-11-03'}

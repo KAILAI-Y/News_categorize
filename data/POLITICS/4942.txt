@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Declares War On Halloween With Another Weird Christmas Rant', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-war-on-halloween_us_59e6c5e4e4b00905bdad6662', 'short_description': 'The president veers off on a Yuletide tangent... again.', 'date': '2017-10-18'}

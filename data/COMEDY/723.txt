@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'This Is The Perfect Depiction Of A Fist Bump Handshake Gone Horribly Wrong', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/this-is-the-perfect-depiction-of-a-fist-bump-handshake-gone-horribly-wrong_us_59cbd7cfe4b05063fe0e7b7b', 'short_description': 'The nightmare scenario.', 'date': '2017-09-27'}

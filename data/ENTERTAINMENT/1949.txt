@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Britney Spears Surprises Fans With Impromptu Birthday Performance', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/britney-spears-elvis-birthday-cover_us_5a25735fe4b03c44072f2925', 'short_description': 'The superstar covers Elvis... with special thanks to Madonna.', 'date': '2017-12-04'}

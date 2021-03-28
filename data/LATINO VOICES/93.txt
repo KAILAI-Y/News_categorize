@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'J.Lo Is More Than Her Booty, And This Poet Wants To Set The Record Straight', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/jlo-jennifer-lopez-poem-nina-mariah-donovan_us_5a37e8a2e4b0ff955ad50e59', 'short_description': 'Jennifer Lopez herself shared the ode on social media.', 'date': '2017-12-18'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': '2017 Saw A Record High Of Insurance Claims Due To Natural Disasters', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/2017-insurance-record-natural-disasters_us_5a4e01d7e4b025f99e2015d0', 'short_description': 'They amount to about $135 billion.', 'date': '2018-01-04'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ariana Grande Returns To The Stage For Charlottesville Unity Concert', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/ariana-grande-charlottesville_us_59c8f970e4b01cc57ff38b2b', 'short_description': 'In front of a crowd of students, she praised the "generation that refuses to be silent."', 'date': '2017-09-25'}

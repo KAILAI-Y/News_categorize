@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Billie Lourd's Tribute To Mother Carrie Fisher Is Simply Magical", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/billie-lourd-tribute-northern-lights_us_5a44f96de4b0b0e5a7a4ee83', 'short_description': 'Fisher died in December 2016 after suffering a heart attack.', 'date': '2017-12-28'}

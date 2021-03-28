@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Chelsea Bomber Ahmad Rahimi Found Guilty', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/chelsea-bomber-ahmad-rahimi-found-guilty_us_59e4d21de4b03a7be582426f', 'short_description': 'Thirty people were wounded in the 2016 attack.', 'date': '2017-10-16'}

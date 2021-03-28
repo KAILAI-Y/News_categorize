@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Amy Schumer’s Twisted Response To Jennifer Lawrence Breakup Is Perfect', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/amy-schumer-jennifer-lawrence-breakup_us_5a99483de4b089ec35394b8f', 'short_description': 'Brutally funny.', 'date': '2018-03-02'}

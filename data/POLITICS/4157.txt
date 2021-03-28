@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Thursday's Morning Email: The Republican Tax Plan's Last-Minute Hurdles", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/thursdays-morning-email-the-republican-tax-plans-last-minute-hurdles_us_5a0d7db8e4b0b17e5e1434d0', 'short_description': 'And the latest whip count.', 'date': '2017-11-16'}

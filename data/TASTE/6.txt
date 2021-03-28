@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'KFC Trolls Trump With Spoof Ronald McDonald Threat', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kfc-trolls-donald-trump-mcdonalds_us_5a4df5d9e4b0b0e5a7ab045d', 'short_description': '"Mine is a box meal which is bigger and more powerful than his, and mine has gravy!"', 'date': '2018-01-04'}

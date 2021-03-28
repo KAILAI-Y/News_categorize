@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Mom Defends Decision To Dye Toddler's Hair Pink", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/mom-defends-decision-to-dye-toddlers-hair-pink_us_595f92f6e4b0615b9e90e665', 'short_description': '"Some people were appalled, and some absolutely loved it."', 'date': '2017-07-11'}

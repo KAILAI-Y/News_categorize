@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kristi Noem Says Her Story Shows How The Estate Tax Hurts Families. Not Quite.', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/kristi-noem-estate-tax_us_5a28638de4b0b185e5392b78', 'short_description': "The South Dakota Republican's 1994 story does not apply today.", 'date': '2017-12-07'}

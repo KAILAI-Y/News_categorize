@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tweeters Furious Over Trump Calling Mar-a-Lago The 'Southern White House'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-southern-white-house-mar-a-lago_us_5adbff41e4b009869bfa002a', 'short_description': "He used Barbara Bush's funeral as an opportunity to plug his golf resort.", 'date': '2018-04-22'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Queen Elizabeth Says Wearing A Crown Has One Significant Downside', 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/queen-elizabeth-crown-coronation-interview_us_5a58f1ebe4b03c4189654bac', 'short_description': 'If you look down while wearing it, she said, "your neck would break."', 'date': '2018-01-12'}

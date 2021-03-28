@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "There's A Sad Callback Coming On 'The Walking Dead'", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/carl-grimes-walking-dead_us_5a8c6c03e4b00a30a2500fe4', 'short_description': "The show's chief content officer, Scott Gimple, confirms this episode is gonna be hella sad.", 'date': '2018-02-21'}

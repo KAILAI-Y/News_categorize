@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Twitter Protests Trump's Travel Ban With #GrandparentsNotTerrorists", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/travel-ban-grandparents_us_59556d8ae4b05c37bb7d1790', 'short_description': "Banning grandparents won't make the U.S. safer.", 'date': '2017-06-29'}

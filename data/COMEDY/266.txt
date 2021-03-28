@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Oprah Asked God For A Clear Sign. She Just Received One On National TV.', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/oprah-winfrey-god-stephen-colbert_us_5a9f8069e4b0d4f5b66b85b2', 'short_description': "Turns out, God's an Oprah fan.", 'date': '2018-03-07'}

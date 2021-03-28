@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Meghan McCain Rips Liz Cheney For Explaining Torture To Her Father', 'authors': 'Sarah Ruiz-Grossman', 'link': 'https://www.huffingtonpost.com/entry/meghan-mccain-liz-cheney-torture-dick-cheney_us_5aaac524e4b073bd82930689', 'short_description': 'Sen. John McCain was tortured as a prisoner of war.', 'date': '2018-03-15'}

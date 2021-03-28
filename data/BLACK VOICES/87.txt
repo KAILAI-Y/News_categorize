@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Woman Delivers Her Own Baby Alone In A Hotel Using Just YouTube Videos', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/woman-delivers-baby-with-youtube-videos_us_5ae1d703e4b055fd7fc902d6', 'short_description': 'Oh, and did we mention this all happened in a foreign country?', 'date': '2018-04-26'}

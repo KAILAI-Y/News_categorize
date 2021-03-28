@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'The Oscars Are Happy To Recognize Latino Stories, But Not Latino Actors', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/oscars-latino-actors_us_5a67509fe4b002283006d877', 'short_description': 'The Academy is just part of the problem.', 'date': '2018-01-23'}

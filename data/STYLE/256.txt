@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Rihanna Doesn't Care About Dark Circles, And Neither Should You", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/rihanna-makeup-line_us_59b28d6de4b0b5e531059158', 'short_description': '"I\'m not like, lying to myself, and I\'m not feeling bad about that either."', 'date': '2017-09-08'}

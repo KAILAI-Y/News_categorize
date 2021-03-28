@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Just Had The Weirdest Phone Call With Ireland's New Leader", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-irish-phone-call_us_595309cce4b0da2c731f80bc', 'short_description': 'Trump was put on hold for at least 90 seconds, then he pulled a reporter into the chat.', 'date': '2017-06-28'}

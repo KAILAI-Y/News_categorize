@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'People Hope Ann Curry Is Basking In The Glow Of Matt Lauer Being Fired', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/somewhere-ann-curry-matt-lauer_us_5a1ec48de4b0cb0e917d1312', 'short_description': 'They are calling it karma.', 'date': '2017-11-29'}

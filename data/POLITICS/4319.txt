@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Health Care Looks Like A Winning Issue For Democrats Again', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/health-care-democrats-polls_us_5a05fecae4b0e37d2f375d36', 'short_description': 'In 2010, the passage of the ACA helped crush them in the midterms. Now the party is embracing it.', 'date': '2017-11-10'}

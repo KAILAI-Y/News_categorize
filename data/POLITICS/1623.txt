@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sam Nunberg Says He Complied With Subpoena After All, Wanted To ‘Do Something Memorable’', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/sam-nunberg-complied-with-subpoena_us_5aa09972e4b002df2c6098b8', 'short_description': '"I wasn\'t drunk," the former Trump campaign aide insisted.', 'date': '2018-03-08'}

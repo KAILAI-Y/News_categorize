@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Shaquille O’Neal Asks Parents To Fake Steal Their Kids Candy This Halloween', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/shaquille-oneal-jimmy-kimmel-steal-kids-candy-halloween_us_59f84c9ce4b0aec1467a93ce', 'short_description': '“I’m sorry, but that’s hilarious."', 'date': '2017-10-31'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Thursday's Morning Email: Inside Matt Lauer's Downfall", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/thursdays-morning-email-inside-matt-lauers-downfall_us_5a1ff66ae4b0a8581e684bf5', 'short_description': 'Multiple reports detail the "Today" show star\'s history of sexual misconduct.', 'date': '2017-11-30'}

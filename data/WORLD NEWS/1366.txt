@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Photos Show The World Mourning In Solidarity With Spain', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/world-solidarity-barcelona-spain-attack-photos_us_5996f363e4b0a2608a6bd62b', 'short_description': "From New York City to Moscow, communities pay tribute to Spain's attack victims.", 'date': '2017-08-18'}

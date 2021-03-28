@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Photo Editing War Breaks Out Over Kim Jong Un Missile Test Picture', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kim-jong-un-monitor-edited-photographs_us_5a210624e4b03c44072c76de', 'short_description': 'President Donald Trump unsurprisingly made a cameo.', 'date': '2017-12-01'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Daily Show' Translates Standard GOP Responses To Mass Shootings", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/the-daily-show-gop-mass-shooting-response-translator_us_5a8686fbe4b00bc49f429205', 'short_description': "Here's what they really mean.", 'date': '2018-02-16'}

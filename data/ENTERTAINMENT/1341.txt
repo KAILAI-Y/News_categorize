@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kesha's Powerful Performance Is The One The Grammys Needed", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/keshas-powerful-grammys-performance-will-bring-you-to-tears_us_5a6e8b65e4b01fbbefb30784', 'short_description': 'The singer-songwriter performed her emotional ballad "Praying."', 'date': '2018-01-29'}

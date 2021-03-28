@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Uber Investor Ashton Kutcher On CEO Scandal: 'People Make Mistakes'", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/uber-investor-ashton-kutcher-on-ceo-travis-kalanick_us_594adffae4b0a3a837bcc1cf', 'short_description': 'The actor defended his buddy Travis Kalanick in a radio interview.', 'date': '2017-06-21'}

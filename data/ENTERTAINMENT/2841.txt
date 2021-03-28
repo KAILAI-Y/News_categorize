@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Now That The Old Taylor Swift Is Dead, The New One Is Slapping Her Face On UPS Trucks', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-ups-reputation_us_59a1cf77e4b06d67e337fdf4', 'short_description': 'What the truck?', 'date': '2017-08-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "FBI Insists A Politically Motivated Attack On Members Of Congress Isn't Terrorism", 'authors': 'Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/congressional-baseball-shooter_us_59498311e4b0db570d375052', 'short_description': 'The agency said the shooting may have been spontaneous.', 'date': '2017-06-21'}

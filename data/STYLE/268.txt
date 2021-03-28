@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Someone Named Chanel West Coast Looked Just Like Fergie At The VMAs', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/chanel-west-coast-fergie-vmas_us_59a41cb3e4b0821444c49e9e', 'short_description': 'G-L-A-M-O-R-O-U-S.', 'date': '2017-08-28'}

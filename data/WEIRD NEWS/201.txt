@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Woman Agrees To Pay For Wrong Lottery Ticket, Then Wins $5 Million', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/woman-agrees-to-pay-for-wrong-lottery-ticket-wins-5-million_us_5a4cc0b0e4b06d1621bc1529', 'short_description': '"I never win anything," Oksana Zaharov said.', 'date': '2018-01-03'}

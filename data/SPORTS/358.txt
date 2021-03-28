@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Alabama Rallies To Win Fifth NCAA Football Title In 9 Years', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/alabama-georgia-ncaa-football-title_us_5a5452c4e4b01e1a4b18d772', 'short_description': 'The Crimson Tide defeated the Georgia Bulldogs, 26-23, in overtime.', 'date': '2018-01-09'}

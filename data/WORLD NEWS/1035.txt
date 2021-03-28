@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Storm Surge Warnings Issued For Gulf Coast As Tropical Storm Nate Strengthens', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/tropical-storm-nate-central-america_us_59d72a2fe4b0f6eed34f70a4', 'short_description': 'The storm has already killed 22 people in Central America.', 'date': '2017-10-06'}

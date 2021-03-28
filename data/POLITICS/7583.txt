@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Dying GOP Health Care Bill Wishing It Took That Trip To Italy', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/dying-gop-health-care-bill-wishing-it-took-that-trip-to-italy_us_5967e88de4b01741862657cd', 'short_description': 'Death comes for us all', 'date': '2017-07-13'}

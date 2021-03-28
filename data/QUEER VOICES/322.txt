@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Laverne Cox: 'Trans People Are Under Attack Right Now In This Country'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/laverne-cox-katie-couric_us_5a7cad6ae4b0c6726e10e541', 'short_description': 'The star opens up to Katie Couric about her journey to an authentic life.', 'date': '2018-02-08'}

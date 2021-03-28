@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "What To Do When Someone Gives You A Gift And You Didn't Get Them One", 'authors': 'Brittany Wong', 'link': 'https://www.huffingtonpost.com/entry/etiquette-unexpected-gift-giving_us_5a32ba32e4b0bb42ac174696', 'short_description': 'Well, this is awkward. 😬', 'date': '2017-12-15'}

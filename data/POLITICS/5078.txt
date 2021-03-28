@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Signs Order To Undermine Obamacare Insurance Rules', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/trump-executive-order-obamacare_us_59de1dbde4b01df09b77ad19', 'short_description': 'It could create a parallel insurance system for healthy people.', 'date': '2017-10-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House: Jared And Ivanka Are Sacrificing Their Personal Lives For America', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/jared-ivanka-sacrificing-personal-lives_us_5a54ae99e4b01e1a4b1963e7', 'short_description': '"It’s ridiculous for anyone to try and attack what they do for this nation.”', 'date': '2018-01-09'}

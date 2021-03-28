@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Terror Attacks Won't Stop This London Muslim Group From Feeding The Hungry", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/ramadan-open-iftar-charity_us_5936b0a4e4b0099e7faf277d', 'short_description': '"We shan’t be deterred."', 'date': '2017-06-06'}

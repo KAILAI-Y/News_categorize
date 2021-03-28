@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'States Accuse DHS Of Giving Them Bad Information About Russian Hacking', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/dhs-russia-hacking_us_59cd0da3e4b0e005cc57235d', 'short_description': 'DHS is standing by its initial assessment that 21 states were targeted.', 'date': '2017-09-28'}

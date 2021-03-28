@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "34 Perfect Tweets About 'Bachelor In Paradise' Season 4, Episodes 7 & 8", 'authors': 'Emma Gray, Claire Fallon, and Nick Offenberg', 'link': 'https://www.huffingtonpost.com/entry/tweets-about-bachelor-in-paradise-season-4-episodes-7-8_us_59ade0dbe4b0b5e53100456f', 'short_description': '"Kristina for Bachelor"', 'date': '2017-09-06'}

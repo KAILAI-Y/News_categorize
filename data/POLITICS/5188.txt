@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump On Health Care: 'Who Knows!'", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-on-health-care-who-knows_us_59d8f30de4b0f6eed350a589', 'short_description': 'How reassuring.', 'date': '2017-10-07'}

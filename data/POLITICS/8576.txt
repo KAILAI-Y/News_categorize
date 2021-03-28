@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tim Cook 'Reveals' Who Is Really Behind Donald Trump’s Late Night Tweets", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tim-cook-donald-trump-mit-commencement-speech_us_593b942de4b0b13f2c6aca1c', 'short_description': 'The Apple CEO trolled the president during his commencement speech at MIT.', 'date': '2017-06-10'}

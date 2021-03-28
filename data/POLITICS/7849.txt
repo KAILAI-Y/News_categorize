@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Civil Rights Group Files Legal Complaint Against Kris Kobach', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/legal-complaint-kris-kobach_us_595b8763e4b05c37bb801b04', 'short_description': 'The Kansas secretary of state violated the Hatch Act, they say.', 'date': '2017-07-04'}

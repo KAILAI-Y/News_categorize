@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tim Allen's 'Last Man Standing' Is Coming Back Just One Year After Being Canceled", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/tim-allen-last-man-standing-revived_us_5af5f6e9e4b0e57cd9f97047', 'short_description': 'Some say he has the success of "Roseanne" to thank.', 'date': '2018-05-11'}

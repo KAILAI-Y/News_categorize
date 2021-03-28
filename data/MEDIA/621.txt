@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Conservative Activist: Raising Taxes On The Wealthy Is ‘A Cruel Thing To Do’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/grover-norquist-cruel-taxes_us_595b04fbe4b05c37bb7fde6f', 'short_description': 'Grover Norquist blasts reports the White House is considering raising the top rate.', 'date': '2017-07-04'}

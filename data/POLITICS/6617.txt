@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Lets Loose On Twitter, But Finds No Venom For White Supremacists', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/trump-twitter-white-supremacists-charlottesville_us_59922440e4b09071f69c028a', 'short_description': 'The media, however, are "truly bad people."', 'date': '2017-08-15'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Exorcist' Director Films 'Terrifying' Real-Life Exorcism For His Newest Movie", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/the-devil-and-father-amorth_us_5add74d3e4b089e33c898746', 'short_description': '"I was scared, seriously scared," says filmmaker William Friedkin.', 'date': '2018-04-23'}

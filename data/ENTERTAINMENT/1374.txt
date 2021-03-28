@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chrissy Teigen Slams Commenter Who Said She Looked Better 10 Years Ago', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-slams-commenter-who-said-she-looked-better-10-years-ago_us_5a6b8e5ce4b01fbbefb1aea9', 'short_description': '"Bye, b."', 'date': '2018-01-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'FEMA’s Hurricane Response Is Making Trump Look Good. Thanks, Obama.', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-fema-obama_us_59b9b160e4b02da0e13f04f7', 'short_description': 'Trump can thank his predecessor, his predecessor’s pick to run the disaster agency, and the "deep state."', 'date': '2017-09-13'}

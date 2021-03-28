@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The Life-Changing Magic Of Being Believed About Rape', 'authors': 'Emily McCombs', 'link': 'https://www.huffingtonpost.com/entry/being-believed-rape-lying_us_5a0c855fe4b0bc648a0f8444', 'short_description': "Because we can't all be lying, can we?", 'date': '2017-11-16'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Lawmaker Skipping State Of The Union: Trump Is 'Hateful Towards Black People'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/frederica-wilson-state-union_us_5a70db0ee4b0ae29f08bc18b', 'short_description': 'Rep. Frederica Wilson (D-Fla.) says Trump will not "be honored with my presence."', 'date': '2018-01-30'}

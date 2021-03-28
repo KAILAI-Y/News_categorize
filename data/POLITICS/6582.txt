@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Women In Federal Prisons Are Now Guaranteed Free Tampons And Pads', 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/federal-prisons-pads-tampons_us_59930a82e4b09096429a16e0', 'short_description': 'Menstruating behind bars can be a humiliating and stressful experience.', 'date': '2017-08-16'}

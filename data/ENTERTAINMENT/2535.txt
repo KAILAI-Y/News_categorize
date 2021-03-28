@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Netflix Is Raising Prices On All But Its Most Basic Plan', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/netflix-is-raising-prices-on-all-but-its-most-basic-plan_us_59d661cfe4b0380b6c9ae16a', 'short_description': 'Its most popular, "standard" plan is getting a 10 percent hike.', 'date': '2017-10-05'}

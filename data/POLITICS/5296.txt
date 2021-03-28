@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Trump Presidency', 'authors': "Noam Chomsky, ContributorAuthor, 'Global Discontents: Conversations on the Rising Threa...", 'link': 'https://www.huffingtonpost.com/entry/the-trump-presidency_us_59d39460e4b0655781558497', 'short_description': 'Or how to further enrich "the masters of the universe."', 'date': '2017-10-03'}

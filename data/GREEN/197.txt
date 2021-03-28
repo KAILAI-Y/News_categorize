@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Storms Brewing In The Atlantic Prompt Another Hurricane Warning', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/hurricane-storm-maria-jose-otis_us_59be9bc9e4b086432b07da3f', 'short_description': "Just days after Hurricane Irma's devastation, several storms are gaining strength.", 'date': '2017-09-17'}

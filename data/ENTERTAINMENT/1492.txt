@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Salma Hayek Shares Beautiful Tribute After Beloved Rescue Dog Lupe Dies', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/salma-hayek-dog-lupe-dies_us_5a60753ce4b01b82649cc317', 'short_description': '"I have no words or tears to describe how much she meant to me."', 'date': '2018-01-18'}

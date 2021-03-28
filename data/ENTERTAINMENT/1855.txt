@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Saturday Night Live' Now Has Its First Black Head Writer Since ... EVER", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/saturday-night-live-now-has-its-first-black-head-writer-since-ever_us_5a31047be4b091ca26841ba0', 'short_description': 'And it took just 43 seasons.', 'date': '2017-12-13'}

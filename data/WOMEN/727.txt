@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Feminism Is Cool!', 'authors': 'Jan Molino, ContributorPresident & CEO', 'link': 'https://www.huffingtonpost.com/entry/feminism-is-cool_us_5930224ee4b017b267ee0094', 'short_description': 'Whether or not you choose to call yourself a feminist, if you believe in the concept, what really matters is how you act.', 'date': '2017-06-01'}

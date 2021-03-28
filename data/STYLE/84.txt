@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'The Best Beauty Trends And Fads Of 2017', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/best-beauty-trends-2017_us_5a134a2fe4b0c335e996afb6', 'short_description': 'Cher hair and jade rollers and buzz cuts, oh my!', 'date': '2017-11-29'}

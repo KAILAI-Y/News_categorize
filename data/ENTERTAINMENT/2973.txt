@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ava DuVernay Producing TV Series Based On Octavia Butler's 'Dawn'", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/ava-duvernay-octavia-butler-dawn_us_598b5f2ee4b0449ed5078015', 'short_description': 'Legends unite!', 'date': '2017-08-09'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Lin-Manuel Miranda Sings 'Magic School Bus' Theme In Netflix Trailer", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/magic-school-bus-netflix_us_59aebca3e4b0dfaafcf2c244', 'short_description': "Kate McKinnon's Ms. Frizzle is just a bit different than the original.", 'date': '2017-09-05'}

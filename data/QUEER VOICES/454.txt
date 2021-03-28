@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Neighbors Greet Vacationing Mike Pence With 'Make America Gay Again' Banner", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/mike-pence-make-america-gay-again-banner_us_5a47d23ee4b0b0e5a7a6e208', 'short_description': 'Welcome to Colorful Colorado!', 'date': '2017-12-30'}

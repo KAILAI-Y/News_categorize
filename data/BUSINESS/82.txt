@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Insurance Giant Aflac Reportedly Sued For Worker Exploitation', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/aflac-lawsuit-employees_us_5a57d79be4b04df054f7561f', 'short_description': 'The company calls the allegations "baseless."', 'date': '2018-01-12'}

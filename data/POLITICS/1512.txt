@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "American Muslim Groups Troubled By Trump's Secretary Of State Pick", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/mike-pompeo-islamophobe_us_5aa7f459e4b04042d27ea574', 'short_description': 'Mike Pompeo has ties to one of America’s largest anti-Muslim organizations.', 'date': '2018-03-13'}

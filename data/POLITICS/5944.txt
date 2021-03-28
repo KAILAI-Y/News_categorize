@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Making An America Worthy Of The Dreamers' Dreams", 'authors': 'The American Prospect, ContributorLiberal Intelligence', 'link': 'https://www.huffingtonpost.com/entry/making-an-america-worthy-of-the-dreamers-dreams_us_59b31379e4b0bef3378ce018', 'short_description': 'Being "great" means honoring our national promises.', 'date': '2017-09-08'}

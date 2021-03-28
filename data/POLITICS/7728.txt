@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Iowa Woman Pleads Guilty To Voting Twice For Donald Trump', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/iowa-woman-donald-trump-voter-fraud_us_5961183ee4b0d5b458eacb54', 'short_description': 'She was reportedly concerned her first ballot would be changed to a vote for Hillary Clinton.', 'date': '2017-07-08'}

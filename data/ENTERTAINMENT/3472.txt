@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'A Photo That Tom Hanks Posted To Twitter Is Freaking Everyone Out', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tom-hanks-tweet-building-freaks_us_5932592ae4b0c242ca2450f4', 'short_description': '"That is where nightmares are made."', 'date': '2017-06-03'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Mindy Kaling Will Take On Mom-Shaming On Her Show', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/mindy-kaling-will-take-on-mom-shaming-on-her-show_us_597f3679e4b0da64e87a9482', 'short_description': 'Apparently, Julie Bowen is going to play a judgmental rival mother.', 'date': '2017-07-31'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Anti-Muslim Hate Marches Across U.S. Draw Violence, Arrests', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/anti-muslim-hate-marches-across-us-draw-violence-arrests_us_593c5971e4b0c5a35ca01d01', 'short_description': 'Hate groups rallied in 28 cities across 21 states.', 'date': '2017-06-10'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chris Hemsworth Isn't Happy When A TV Host Spoils 'Thor: Ragnarok'", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/chris-hemsworth-is-not-happy-when-interviewer-spoils-thor-ragnarok-live_us_59e76a61e4b00905bdae0221', 'short_description': 'Prepare for the wrath of Thor.', 'date': '2017-10-18'}

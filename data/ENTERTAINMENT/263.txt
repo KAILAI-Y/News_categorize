@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Cheryl Burke And Matthew Lawrence Are Engaged', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/cheryl-burke-matthew-lawrence-engaged_us_5aec6960e4b0c4f19321d5a2', 'short_description': 'The actor proposed to the “Dancing With the Stars” pro on her birthday. 💕', 'date': '2018-05-04'}

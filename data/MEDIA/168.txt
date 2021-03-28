@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Even Pat Robertson Is Calling For Stricter Gun Control Laws', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/pat-robertson-gun-control_us_5a8d0682e4b03414379b751c', 'short_description': 'Televangelist also wants expanded background checks.', 'date': '2018-02-21'}

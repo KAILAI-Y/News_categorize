@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Dave Chappelle Reveals The 1 Way Donald Trump Has Been Good For America', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/dave-chappelle-trump_us_5982b59be4b00f0084adfd8b', 'short_description': 'Turns out, there might be a bright spot of sorts.', 'date': '2017-08-03'}

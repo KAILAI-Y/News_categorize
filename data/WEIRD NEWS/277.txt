@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Ivanka Trump's Company Shared Thanksgiving Advice On Twitter. It Did Not Go Over Well.", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-thanksgiving-advice-backfires_us_5a101ab2e4b0e97dffeda535', 'short_description': '"Wow, even the pumpkins are white."', 'date': '2017-11-18'}

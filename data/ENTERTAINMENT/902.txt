@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Comedy Sketch Gives A Look At The First Russian Troll Farm In The U.S.', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/comedy-sketch-gives-a-look-at-the-first-russian-troll-farm-in-the-us_us_5aa19740e4b04c33cb6cef1b', 'short_description': '"The truth can be very dangerous."', 'date': '2018-03-08'}

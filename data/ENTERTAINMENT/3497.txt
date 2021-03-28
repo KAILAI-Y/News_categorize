@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'CNN Cuts Ties With Kathy Griffin', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/cnn-kathy-griifin_us_592c5a8be4b053f2d2ad7685', 'short_description': "The comedian began co-hosting New Year's Eve coverage on the network in 2007.", 'date': '2017-05-31'}

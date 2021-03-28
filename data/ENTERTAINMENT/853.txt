@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Once-Paralyzed Singer Makes Katy Perry Weep On 'American Idol'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/once-paralyzed-singer-makes-katy-perry-weep-on-american-idol_us_5aa7b62ae4b009b705d60d2d', 'short_description': '"I\'m losing it," she said.', 'date': '2018-03-13'}

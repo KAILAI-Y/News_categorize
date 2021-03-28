@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'This Professional Marathoner Outran 2 Bears, But You Should Not Try This', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/moninda-marube-outruns-bears_us_5961314ae4b02e9bdb0d11dd', 'short_description': 'The runner says he panicked, but he luckily made it.', 'date': '2017-07-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Comedian Michelle Wolf Will Headline The White House Correspondents' Dinner", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/michelle-wolf-white-house-correspondents-dinner_us_5a8eeb83e4b0746ba2acef5d', 'short_description': 'Will the president show up, too?', 'date': '2018-02-22'}

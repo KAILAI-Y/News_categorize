@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Shirtless Goofball In Flag Underwear Invades Field At World Series', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/flag-underwear-world-series_us_59f75619e4b0c0c8e67b2c7f', 'short_description': "Who says these colors don't run?", 'date': '2017-10-30'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Suggests The Naked Reason Why Donald Trump Is Promoting His Doctor', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-doctor_us_5abc99f9e4b03e2a5c79502c', 'short_description': '"Sort of makes sense."', 'date': '2018-03-29'}

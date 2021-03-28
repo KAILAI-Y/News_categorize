@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "U.S. Slaps Putin's Inner Circle With Aggressive New Sanctions", 'authors': 'Lesley Wroughton and Patricia Zengerle, Reuters', 'link': 'https://www.huffingtonpost.com/entry/russia-sanctions_us_5ac7677ae4b07a3485e3a189', 'short_description': '24 people and 14 groups were targeted.', 'date': '2018-04-06'}

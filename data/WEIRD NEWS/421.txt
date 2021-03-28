@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Irish Nun Shows Off Silky Soccer Skills In Heavenly Kickabout With Cop', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/nun-cop-play-soccer-ireland_us_5932806ae4b02478cb9bd91c', 'short_description': 'Watch out Cristiano Ronaldo!', 'date': '2017-06-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Longest Shortest Time: 365 Days Of Trump', 'authors': 'Alissa Scheller and Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/trump-one-year-365-days_us_59a971d4e4b0354e4409d094', 'short_description': 'And only 1,091 days to go until the 2020 election!', 'date': '2017-11-08'}

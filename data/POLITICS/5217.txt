@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Dreamers Plead With Lawmakers To Follow Through On Promises To Help Them', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/dreamers-congress_us_59d5711ee4b0becae802497b', 'short_description': 'They want action, and soon.', 'date': '2017-10-05'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Conspiracy Theory Believers Are The Most Skeptical And The Most Gullible People', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reddit-shower-thoughts-april-22-2018_us_5ad9da1de4b029ebe023495b', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-04-20'}

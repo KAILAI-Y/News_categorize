@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "PETA Ad Calls For Deporting 'Undesirable' Trophy Hunter Donald Trump Jr.", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/peta-ad-undesirable-donald-trum-jr_us_5ac85a01e4b07a3485e4e04d', 'short_description': 'He\'s a "bad hombre," says animal rights organization.', 'date': '2018-04-07'}

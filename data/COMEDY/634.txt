@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Fallon Is Caught In The Scariest Halloween Horror Of All', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-is-caught-in-the-scariest-halloween-horror-of-all_us_59f87b96e4b0c0c8e67cbd47', 'short_description': 'Meet the monster of the news cycle.', 'date': '2017-10-31'}

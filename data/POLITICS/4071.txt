@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Trump Doctrine', 'authors': 'Michael T. Klare, ContributorAuthor and Professor of Peace and World-Security Studies, Hamp...', 'link': 'https://www.huffingtonpost.com/entry/the-trump-doctrine-nuclear-weapons_us_5a124416e4b0dd63b1ab3787', 'short_description': 'Making nuclear weapons usable again.', 'date': '2017-11-20'}

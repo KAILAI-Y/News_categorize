@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "You Can't Unsee Jim Carrey's Naked Trump 'Urine Sample' Artwork", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jim-carrey-donald-trump-doctor-portrait_us_5aeab6aae4b022f71a052937', 'short_description': 'It\'s titled "Hippocratic oaf."', 'date': '2018-05-03'}

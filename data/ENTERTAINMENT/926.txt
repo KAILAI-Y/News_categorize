@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "These 'Jessica Jones' Pulp-Style Covers Offer Spoiler Hints Galore", 'authors': 'David Moye and Damon Dahlen', 'link': 'https://www.huffingtonpost.com/entry/jessica-jones-pulp-covers_us_5a9ebb3ee4b0479c02571ccf', 'short_description': 'Netflix will release Season 2 later this week.', 'date': '2018-03-06'}

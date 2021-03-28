@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Tongan Flag Bearer Sets Himself Inspirationally Low Bar For Olympic Success', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tonga-pita-taufatofua-olympic-success_us_5a859038e4b0ab6daf4684dc', 'short_description': '“The first step, finish before they turn the lights off."', 'date': '2018-02-15'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Colton Haynes And Jeff Leatham Reportedly Split After 6 Months Of Marriage', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/colton-haynes-jeff-leatham-split_us_5aeca6d8e4b041fd2d2689bc', 'short_description': 'Haynes posted a cryptic music video that seemed to hint at a breakup.', 'date': '2018-05-04'}

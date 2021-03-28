@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'These Are The Reasons You Might Quit Meat In 2018', 'authors': 'Tom Levitt, On Assignment For HuffPost', 'link': 'https://www.huffingtonpost.com/entry/plant-based-protein-burger_us_5a392ed6e4b0860bf4ab477a', 'short_description': "And it's not just because Leonardo DiCaprio's on board.", 'date': '2017-12-23'}

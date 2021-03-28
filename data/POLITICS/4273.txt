@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jurors In Bob Menendez Federal Bribery Trial Say They Are Deadlocked', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/bob-menendez-trial-deadlocked_us_5a00c4f9e4b0baea263414b6', 'short_description': 'The New Jersey Senate Democrat is charged with public corruption.', 'date': '2017-11-13'}

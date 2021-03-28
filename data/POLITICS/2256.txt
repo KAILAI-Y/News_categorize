@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Some On Trump's Legal Team Want Him To Refuse An Interview With Mueller: Report", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/white-house-lawyers-trump-mueller_us_5a7901d0e4b0164659c75439', 'short_description': "Some of the president's attorneys are afraid he'd make a misstep.", 'date': '2018-02-06'}

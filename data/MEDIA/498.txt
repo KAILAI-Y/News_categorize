@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'April Ryan Is Not Letting Sean Spicer Off The Hook After His Emmy Moment', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/april-ryan-sean-spicer-emmy-joke_us_59c088c9e4b0186c220543ca', 'short_description': '"He needs to apologize for a lot of things," the Washington correspondent says.', 'date': '2017-09-19'}

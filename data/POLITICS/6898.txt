@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "What You Need To Know About The Grand Jury's Part In The Russia Probe", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/grand-jury-trump-russia-investigation_us_598494c1e4b041356ebf7a9f', 'short_description': "Grand jurors investigate in secret, while their targets try to spin what's happening.", 'date': '2017-08-05'}

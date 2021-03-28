@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Get Ready: Whole Foods Prices Are Dropping Next Week', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/whole-foods-amazon_us_599f2ccae4b06d67e3364f7c', 'short_description': 'Read which foods will be cheaper.', 'date': '2017-08-24'}

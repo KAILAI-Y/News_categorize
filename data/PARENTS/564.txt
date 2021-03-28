@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '23 Spot-On Parenting Quotes From Kristen Bell', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/kristen-bell-parenting-quotes_us_59664b42e4b03f144e2fe059', 'short_description': 'Happy birthday to this "Bad Moms" star!', 'date': '2017-07-18'}

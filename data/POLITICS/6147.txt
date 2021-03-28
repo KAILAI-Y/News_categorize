@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Thursday's Morning Email: Explosions, Rising Death Toll In Harvey's Wake", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/thursdays-morning-email-explosions-rising-death-toll-in-harveys-wake_us_59a7e8ece4b0a8d145735b0a', 'short_description': 'Plus an aerial look at the devastation.', 'date': '2017-08-31'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "I Worked In Corporate Accountability For A Decade. Here's The Truth About Corporations Getting 'Woke' On Guns.", 'authors': 'Michael Hobbes', 'link': 'https://www.huffingtonpost.com/entry/woke-companies-gun-control_us_5a9dc03ae4b0479c025628f1', 'short_description': 'What can consumer pressure campaigns really achieve?', 'date': '2018-03-10'}

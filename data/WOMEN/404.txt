@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Me, Too -- And I Let It Happen', 'authors': 'Jamie Bernstein, ContributorWriter, concert narrator, filmmaker', 'link': 'https://www.huffingtonpost.com/entry/me-too-and-i-let-it-happen_us_59ed526be4b0a484d06402f3', 'short_description': 'This is what women my age used to do back then...', 'date': '2017-10-23'}

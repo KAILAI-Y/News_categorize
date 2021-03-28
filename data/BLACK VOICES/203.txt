@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "O.J. Simpson Dismisses Colin Kaepernick: 'I Would Always Stand Up For The Flag'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/oj-simpson-flag-protests-donald-trump_us_5aac1216e4b0337adf83a37e', 'short_description': '"I thought he made a bad choice in attacking the flag," Simpson said.', 'date': '2018-03-16'}

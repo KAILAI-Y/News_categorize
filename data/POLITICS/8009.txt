@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Appeals Court Ruling Brings Ohio Closer To Resuming Executions', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/ohio-executions_us_59541199e4b02734df2fbc53', 'short_description': 'The case centered around the use of the drug Midazolam during executions.', 'date': '2017-06-28'}

@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Lin-Manuel Miranda To Trump: 'You're Going Straight To Hell' For Blasting San Juan Mayor", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/lin-manuel-miranda-donald-trump-puerto-rico_us_59cf8f0ee4b09538b508752e', 'short_description': '"No long lines for you," he said. "They\'ll clear a path."', 'date': '2017-09-30'}

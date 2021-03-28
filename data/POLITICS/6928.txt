@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "ACLU Sounds Alarm Over Trump Administration's 'Threat' To Free Speech", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/aclu-sessions-media_us_5984a431e4b08b75dcc6b6d4', 'short_description': '"Every American should be concerned."', 'date': '2017-08-04'}

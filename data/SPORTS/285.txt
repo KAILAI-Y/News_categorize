@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Philadelphia Schools To Close So Kids Can 'Witness History' At Super Bowl Parade", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/philadelphia-schools-super-bowl-parade_us_5a78d53de4b018ad894ef885', 'short_description': 'School officials called it "a once in a lifetime event."', 'date': '2018-02-06'}

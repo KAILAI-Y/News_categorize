@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Has A Brutal Response To Trump's Latest Corker Insult", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-corker_us_59ddd437e4b04fc4e1e9fda7', 'short_description': 'Ouch.', 'date': '2017-10-11'}

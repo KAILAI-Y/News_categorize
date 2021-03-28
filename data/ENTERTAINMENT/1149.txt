@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Lena Dunham Undergoes Total Hysterectomy In Ongoing Endometriosis Battle', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/lena-dunham-hysterectomy-endometriosis_us_5a83c6a4e4b02b66c5132fe1', 'short_description': '“I may have felt choiceless before, but I know I have choices now."', 'date': '2018-02-14'}

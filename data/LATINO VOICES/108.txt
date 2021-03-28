@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Cardi B Responds To Backlash For Calling Herself The 'Trap Selena'", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/cardi-b-backlash-the-trap-selena_us_5a283b57e4b044d16726fe78', 'short_description': '“I’m the trap Selena, dame más gasolina," the artist raps in "MotorSport."', 'date': '2017-12-06'}

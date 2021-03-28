@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Yuhua Hamasaki From ‘Drag Race’ Both Subverts And Embraces Geisha Stereotype', 'authors': 'Jessica Prois', 'link': 'https://www.huffingtonpost.com/entry/yuhua-hamasaki-drag-race_us_5ac519eee4b09ef3b2430595', 'short_description': '"As an Asian male, I can never get a date. As a female, it is so easy," she says.', 'date': '2018-04-05'}

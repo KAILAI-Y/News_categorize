@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paddles, New Zealand's Famous First Cat, Has Died", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/paddles-new-zealand-first-cat-dead_us_5a02d118e4b092053058f9d6', 'short_description': 'Rest in peace, Paddles.', 'date': '2017-11-08'}

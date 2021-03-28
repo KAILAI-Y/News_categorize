@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "James Comey Basks In The Glow Of Michael Flynn's Downfall", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/james-comey-michael-flynn_us_5a219197e4b0a02abe90ee9d', 'short_description': 'The former FBI director tweeted a Bible verse just after Flynn pleaded guilty.', 'date': '2017-12-01'}

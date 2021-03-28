@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Connie Chung Appears In Groundbreaking Mandarin 'Fresh Off The Boat' Episode", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/fresh-off-the-boat-mandarin_us_5a7afbcfe4b0d0ef3c0b4b24', 'short_description': 'This episode was Asian AF.', 'date': '2018-02-07'}

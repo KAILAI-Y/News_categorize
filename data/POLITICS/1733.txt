@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Beer Companies Say Trump’s Aluminum Tariff Will Raise Prices And Hurt The Industry', 'authors': "Lydia O'Connor and Sebastian Murdock", 'link': 'https://www.huffingtonpost.com/entry/trump-aluminum-tax-beer_us_5a987d52e4b089ec35387a5f', 'short_description': 'Bad news for beer lovers.', 'date': '2018-03-02'}

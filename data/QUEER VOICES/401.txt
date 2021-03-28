@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'YouTube Continues To Restrict LGBTQ Content', 'authors': 'Sal Bardo, ContributorFilmmaker', 'link': 'https://www.huffingtonpost.com/entry/youtube-continues-to-restrict-lgbtq-content_us_5a5e6628e4b03ed177016e90', 'short_description': 'Fix it, Google.', 'date': '2018-01-16'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "'Ghost Ship' Found With Skeletal Remains Eyed As North Korean Vessel", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/japan-finds-ghost-ship-with-skeletons_us_5a1d7bf3e4b071403b293989', 'short_description': 'The grim discovery off the coast of Japan is similar to others made this month.', 'date': '2017-11-28'}

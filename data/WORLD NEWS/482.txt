@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'A Wallaby Hopped Across Sydney Harbour Bridge Through Traffic', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/sydney-harbour-bridge-wallaby_us_5a5d4651e4b03c4189684791', 'short_description': 'The most Australian thing ever?', 'date': '2018-01-16'}

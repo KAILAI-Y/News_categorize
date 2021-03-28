@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Brie Larson Directed Her First Movie. Next Stop? A Marvel Joint, She Hopes.', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/brie-larson-unicorn-store_us_59c16d38e4b087fdf508b829', 'short_description': '"Unicorn Store" premiered at the Toronto Film Festival.', 'date': '2017-09-20'}

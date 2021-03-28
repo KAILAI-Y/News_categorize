@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "People Think The New World Chess Championship Logo Is 'Pawnographic '", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/world-chess-championship-logo_us_5a3a37c9e4b06d1621b09720', 'short_description': '"Putting the \'mate\' into checkmate."', 'date': '2017-12-20'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "This Is What 'Oppressed' White Men Look Like", 'authors': 'Samantha Tomaszewski', 'link': 'https://www.huffingtonpost.com/entry/what-oppressed-white-men-look-like-charlottesville_us_598f2ff4e4b09071f699f123', 'short_description': '"Put THAT in your Tiki torches and light it, you sorry Nazi bitches."', 'date': '2017-08-12'}

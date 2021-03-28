@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Emily Ratajkowski Writhes Around In Spaghetti In The Name Of Feminism', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/emily-ratajkowski-spaghetti-feminism_us_5a258c1be4b03350e0b89880', 'short_description': 'Because of course.', 'date': '2017-12-04'}

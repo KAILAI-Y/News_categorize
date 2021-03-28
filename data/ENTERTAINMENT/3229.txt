@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Green Day Singer Explains Why They Performed After Acrobat's Death", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/green-day-singer-explains-why-they-performed-after-acrobats-death_us_59636fd3e4b0615b9e92de5d', 'short_description': '"We are not heartless people."', 'date': '2017-07-10'}

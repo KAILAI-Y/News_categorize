@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Mark Hamill Expertly Mocks The Fake News Of His Own Death', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-fake-news-died-mocks_us_5944d892e4b0f15cd5bb8e37', 'short_description': '"Truly a legend in his own mind."', 'date': '2017-06-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's The Simplest Reason Lisa Murkowski Likely Won't Support This ACA Repeal Bill", 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/lisa-murkowski-obamacare-repeal_us_59c27eafe4b0186c220748a4', 'short_description': "It's just math.", 'date': '2017-09-22'}

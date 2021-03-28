@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Child's Casket Containing Human Organs Found On Pennsylvania Sidewalk", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/child-casket-human-organs-pennsyvania_us_595d220ce4b02734df359896', 'short_description': '"It looked like something straight out of \'Thriller,\'" a witness said.', 'date': '2017-07-05'}

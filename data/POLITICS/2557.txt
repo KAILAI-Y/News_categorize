@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Case For The Democratic 'Cave'", 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/democrat-cave-shutdown-immigration_us_5a665efbe4b002283005c4ca', 'short_description': "It's not really a cave if you're just continuing the fight.", 'date': '2018-01-22'}

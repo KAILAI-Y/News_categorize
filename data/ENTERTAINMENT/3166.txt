@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "A Drama Series Based On Mariah Carey's Life Is Currently In The Works", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/mariah-carey-tv-drama-series-starz_us_596e3767e4b0e983c0594b02', 'short_description': 'Our sweet, sweet fantasy (baby) is coming true.', 'date': '2017-07-18'}

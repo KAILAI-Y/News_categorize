@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "People Have Strong Reactions To Barack And Michelle Obama's Portraits", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/barack-michelle-obama-portraits-reaction_us_5a81c18ee4b0c6726e15cff9', 'short_description': 'Chrissy Teigen, Common and Chris Rock even chimed in.', 'date': '2018-02-12'}

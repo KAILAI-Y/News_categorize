@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Young, Rich and Fighting The System That Made Them Wealthy', 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/resource-generation-wealthy-millennials_us_5a71a6b6e4b0a6aa4874e144', 'short_description': 'These millennials want to change society.', 'date': '2018-02-03'}

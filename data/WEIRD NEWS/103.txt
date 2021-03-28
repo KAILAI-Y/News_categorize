@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'A Guy Crashes Through A Table In Snow To Celebrate NCAA Tournament Upset', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/a-guy-crashes-through-a-table-in-snow-to-celebrate-tourney-upset_us_5aabde10e4b0c33361affe26', 'short_description': "Well, that's one way to show support for your team.", 'date': '2018-03-16'}

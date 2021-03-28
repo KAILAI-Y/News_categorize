@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Singer Stops Festival Show To Call Out Sexual Assault In The Crowd', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/architects-sam-carter-sexual-assault-speech_us_59985ba6e4b0a2608a6ca4d8', 'short_description': '"It is not your f**king body and you do not f**king grab at someone."', 'date': '2017-08-19'}

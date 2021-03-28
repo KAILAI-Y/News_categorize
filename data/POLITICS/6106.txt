@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: 11 Staggering Numbers That Put Harvey Into Perspective", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-11-staggering-numbers-that-put-harvey-into-perspective_us_59a93bfce4b0354e440973ca', 'short_description': 'And a look at the rising death toll.', 'date': '2017-09-01'}

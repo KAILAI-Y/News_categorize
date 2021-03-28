@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Netanyahu's Son Under Fire Over Salacious Strip Club Audio Recording", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/netanyahu-son-strip-club-recording_us_5a55dd57e4b0b117f880a2b9', 'short_description': '“Bro, you have to be nice to me. Bro, my dad got your dad a sweet deal."', 'date': '2018-01-10'}

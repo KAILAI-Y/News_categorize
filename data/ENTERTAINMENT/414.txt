@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Actress Allison Mack Is Released To Her Parents On $5 Million Bail In Sex Trafficking Case', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/allison-mack-5-million-bail_us_5adfa8e9e4b07be4d4c59adb', 'short_description': 'Mack is not allowed any contact with members of the alleged Nxivm cult.', 'date': '2018-04-24'}

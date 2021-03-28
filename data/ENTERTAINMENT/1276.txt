@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "A 'Fifty Shades Of DeVito' Film Would Make The World A Better Place", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/fifty-shades-of-devito-film_us_5a75fb2fe4b0905433b4a386', 'short_description': 'Like a sweet rum ham for your soul.', 'date': '2018-02-03'}

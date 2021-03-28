@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Committee To Hold Hearing On Bump Stocks, Background Checks', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/bump-stocks-checks-shooting_us_5a024a58e4b092053058c609', 'short_description': 'It comes after deadly mass shootings in Nevada and Texas.', 'date': '2017-11-08'}

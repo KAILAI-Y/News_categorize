@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Has A Theory About Gary Cohn's Sudden Departure From The White House", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-gary-cohn_us_5a9f8012e4b0d4f5b66b8548', 'short_description': '“Damn! I had Jared in my Trump resignation fantasy league.”', 'date': '2018-03-07'}

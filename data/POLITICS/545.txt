@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump: Mueller Should Never Have Been Appointed', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-tweets-mueller-should-never-have-been-appointed_us_5ae3f4e4e4b02baed1ba6495', 'short_description': 'The president was gloating over a controversial House committee report.', 'date': '2018-04-28'}

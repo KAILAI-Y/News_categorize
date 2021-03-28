@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Hits Trump With The Perfect 'Shithole' Comeback", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-shithole_us_5a58435be4b04df054f794be', 'short_description': '"Late Show" host has a correction for the president.', 'date': '2018-01-12'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Here Are 22 Valentine's Day Gifts For The Weirdo In Your Life", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/weird-valentines-day-gifts-2018_us_5a73524ee4b06ee97af08cef', 'short_description': "Love is strange so shouldn't your Valentine's gifts be as well?", 'date': '2018-02-03'}

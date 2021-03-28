@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'China Refuses Overseas Treatment For Critically Ill Nobel Peace Prize Winner', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/china-overseas-treatment-liu-xiaobo_us_595d339fe4b02e9bdb09d705', 'short_description': 'Authorities will only allow doctors to see Liu Xiaobo in China.', 'date': '2017-07-05'}

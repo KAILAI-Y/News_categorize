@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Suspect Dies After Car Carrying Explosives Rams Police Van In Paris', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/paris-car-attack_us_5948146ce4b07499199db847', 'short_description': 'France has been on high security alert following a series of attacks.', 'date': '2017-06-19'}

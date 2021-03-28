@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Lou Dobbs Flips Out On Live TV, Urges Trump To 'Fire The SOB' Robert Mueller", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/lou-dobbs-fire-robert-mueller_us_5acc2f69e4b07a3485e7af64', 'short_description': '“This is now a man that has to be brought under control."', 'date': '2018-04-10'}

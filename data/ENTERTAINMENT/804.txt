@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Katy Perry Disses Taylor Swift On 'American Idol' Because Feuds Die Hard", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/katy-perry-taylor-swift-feud-amercan-idol_us_5aaf79e3e4b0337adf855008', 'short_description': 'The "Roar" singer said a lot to a contestant with very little.', 'date': '2018-03-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Oregon GOP Official Wants Private Militias To Protect Republicans', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/oregan-rebublican-militia_us_592cf421e4b0065b20b7d9d4', 'short_description': 'Some of the militias under consideration are recognized as "extreme antigovernment groups."', 'date': '2017-05-30'}

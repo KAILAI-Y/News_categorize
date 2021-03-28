@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Adam Rippon Turns Down NBC Contributor Gig', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/adam-rippon-turns-down-nbc-contributor-gig_us_5a8a1e92e4b004fc31937f96', 'short_description': 'The athlete said he was clearing up some news during an interview Monday morning.', 'date': '2018-02-19'}

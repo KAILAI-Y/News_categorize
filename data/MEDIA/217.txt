@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Trump's State Of The Union Gets Brutal Review From New York Daily News", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trump-state-of-the-union-new-york-daily-news_us_5a7183c4e4b0be822ba1a04a', 'short_description': "Trump won't like his hometown newspaper's take on the speech.", 'date': '2018-01-31'}

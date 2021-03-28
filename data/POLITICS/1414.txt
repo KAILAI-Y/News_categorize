@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Read Andrew McCabe's Response To Being Fired Two Days Before His Retirement", 'authors': 'Eline Gordts', 'link': 'https://www.huffingtonpost.com/entry/andrew-mccabe-firing-response_us_5aac79dae4b0337adf83e00a', 'short_description': 'Attorney General Jeff Sessions fired the former deputy director of the FBI on Friday.', 'date': '2018-03-17'}

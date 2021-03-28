@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'This Cat Named D-O-G Helps Train Pups To Be Service Dogs', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/cat-named-dog-service-assistance-disablities_us_5a329365e4b091ca2685f462', 'short_description': "He's the notorious D-O-G.", 'date': '2017-12-16'}

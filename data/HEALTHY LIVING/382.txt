@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "With Trump's Plan To Rescind DACA, Immigrant Health Gains May Be Lost", 'authors': 'Anna Almendrala', 'link': 'https://www.huffingtonpost.com/entry/daca-immigrant-health-gains-at-risk_us_59af2257e4b0354e440d7aa3', 'short_description': 'If Dreamers are deported, it could create a new kind of refugee.', 'date': '2017-09-06'}

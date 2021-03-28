@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Almost Nobody Wants To Loosen Regulations On Gun Silencers. Not Even Gun Owners.', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/gun-silencer-regulation-poll_us_59d6a9dbe4b0f6eed34f3ab7', 'short_description': "The bill doesn't have much support among Trump voters and NRA fans either.", 'date': '2017-10-06'}

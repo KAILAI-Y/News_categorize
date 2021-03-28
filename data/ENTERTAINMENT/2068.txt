@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '5 Family Movies Still Worth Streaming On Netflix This Holiday', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/netflix-family-movies_us_5a0e158ae4b0e97dffec5a6d', 'short_description': 'Watch these with your kids in good conscience.', 'date': '2017-11-20'}

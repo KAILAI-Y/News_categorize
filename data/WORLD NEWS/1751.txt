@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Fire Rips Through Syrian Refugee Camp', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/fire-syrian-refugee-camp_us_5959539fe4b05c37bb7f15d6', 'short_description': 'The camp had been home to 102 families.', 'date': '2017-07-02'}

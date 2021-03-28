@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Rita Moreno Wore Her Same Oscar Dress From 1962', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/rita-moreno-wore-her-same-oscar-dress-from-1962_us_5a9c80f1e4b0a0ba4ad48f90', 'short_description': 'The gown was made in the Philippines with an obi sash.', 'date': '2018-03-05'}

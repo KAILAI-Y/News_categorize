@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "LeBron James Hits Back At Laura Ingraham Over 'Shut Up And Dribble' Comment", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/lebron-james-laura-ingraham-donald-trump_us_5a882ceee4b00bc49f44824e', 'short_description': 'The NBA star is not backing down.', 'date': '2018-02-17'}

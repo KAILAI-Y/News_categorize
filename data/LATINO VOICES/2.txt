@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Latino Man Insulted When Starbucks Barista Writes Slur On Cup', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/starbucks-racial-slur-coffee-cup_us_5afd9fa1e4b0a59b4e018b8a', 'short_description': 'The coffee giant tried to apologize with a $50 gift card -- which was refused.', 'date': '2018-05-17'}

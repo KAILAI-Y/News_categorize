@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "White Cop Shouts At Black Suspect: 'Pretend Like We're Going To Shoot You'", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/houston-cop-pretend-shoot-you_us_5b044c21e4b0c0b8b23ecb6f', 'short_description': '"There is no excuse for such threatening statements," an ACLU attorney said.', 'date': '2018-05-22'}

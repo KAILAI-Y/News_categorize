@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chance The Rapper Shoots 'Hyperbolic Racist' Twitter Troll Down In Flames", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/chance-the-rapper-racist-twitter-troll_us_5a29020fe4b0fa7986121eac', 'short_description': '"Stop trying to make people hug you Joey."', 'date': '2017-12-07'}

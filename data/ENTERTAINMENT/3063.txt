@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Game Of Thrones' Is Bringing Back A Dagger That May Serve A Dark Purpose", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-is-bringing-back-a-dagger-that-may-serve-a-dark-purpose_us_597f2f26e4b02a4ebb76db24', 'short_description': 'Episode 4 is looking pretty tense.', 'date': '2017-07-31'}

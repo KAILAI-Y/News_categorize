@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Take Florida District That Went Narrowly For Trump', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/democrats-florida-state-house-win_us_5a838997e4b0cf06751f92f4', 'short_description': 'A backlash to the president is helping the party pick up seats in state legislatures.', 'date': '2018-02-14'}

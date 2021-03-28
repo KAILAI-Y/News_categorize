@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rocker Josh Homme Apologizes For Kicking Photographer: 'I Was A Total Dick'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-homme-kick-photographer_us_5a2e2bcee4b069ec48ae8d43', 'short_description': "Queens of the Stone Age frontman's kick sent a photographer to the ER.", 'date': '2017-12-11'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kristen Bell Opens SAG Awards By Dragging Melania Trump', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kristen-bell-sag-awards-melania-trump_us_5a653854e4b0dc592a0a037c', 'short_description': 'How IS that anti-cyberbullying thing coming along?', 'date': '2018-01-22'}

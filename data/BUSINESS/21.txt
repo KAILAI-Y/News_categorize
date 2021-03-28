@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "International Health Group Drops Partnership With Heineken Over 'Beer Girls'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/global-fund-heineken-beer-girls_us_5abed42de4b055e50acdb239', 'short_description': 'Heineken needs to "take appropriate action," said the group\'s director.', 'date': '2018-03-31'}

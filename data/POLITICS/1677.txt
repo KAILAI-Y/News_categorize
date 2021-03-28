@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '400 Moms Take Over Colorado Capitol Building, Press Legislators On Gun Control', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/moms-demand-action-colorado-capitol_us_5a9da297e4b0a0ba4ad6d88f', 'short_description': '“It matters to show up. [Our legislators] need to see us.”', 'date': '2018-03-06'}

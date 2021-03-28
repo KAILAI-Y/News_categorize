@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.N. Says 300 Civilians Killed In U.S.-Led Strikes On Raqqa Since March', 'authors': 'Stephanie Nebehay, Reuters', 'link': 'https://www.huffingtonpost.com/entry/us-raqqa-civilian-strikes_us_594161dbe4b0d3185486934d', 'short_description': 'Civilians are getting caught up in the fight to retake the city from ISIS.', 'date': '2017-06-14'}

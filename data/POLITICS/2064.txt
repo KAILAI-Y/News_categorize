@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sweepstakes To Be Donald Trump's  'Special Guest' At An Event Gets A Frosty Reception", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rnc-sweepstake-donald-trump-special-guest_us_5a8538a5e4b0058d5565e9fc', 'short_description': '"I\'d rather be on the ICE short list."', 'date': '2018-02-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mashup Video Proves Donald Trump Really Is A Clean Freak', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/trump-video-clean-clean_us_5acfa683e4b016a07e9a7045', 'short_description': "They say cleanliness is next to godliness, but we're talking about Trump here.", 'date': '2018-04-12'}

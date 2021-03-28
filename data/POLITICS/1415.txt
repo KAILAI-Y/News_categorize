@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ex-CIA Boss John Brennan Tears Into Donald Trump Over Andrew McCabe Firing', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/john-brennan-donald-trump-andrew-mccabe_us_5aad0cf7e4b05b2217ff0e53', 'short_description': '"America will triumph over you."', 'date': '2018-03-17'}

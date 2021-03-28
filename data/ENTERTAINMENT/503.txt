@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Beyoncé's Mom Was Afraid White People Wouldn't 'Get' Coachella Performance", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/beyonce-mom-coachella_us_5ad5ebfbe4b016a07ea09641', 'short_description': 'The "Lemonade" singer made history with her deeply referential show.', 'date': '2018-04-17'}

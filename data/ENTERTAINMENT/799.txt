@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Watch Blue Ivy Bid $19,000 On Art Like It's No Big Deal", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/watch-blue-ivy-bid-19000-on-art-like-its-no-big-deal_us_5aaf9052e4b0c33361b21c2c', 'short_description': "She showed Jay-Z and Beyoncé who's the boss at an LA auction.", 'date': '2018-03-19'}

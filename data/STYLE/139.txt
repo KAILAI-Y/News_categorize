@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Here's Why Kim Kardashian Didn't Realize Her Makeup Brushes Look Like Dildos", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-makeup-brushes_us_5a00d0f8e4b07eb5118186bd', 'short_description': '"See I usually see, like, darker colors."', 'date': '2017-11-06'}

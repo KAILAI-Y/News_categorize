@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Celebs, Rights Groups Appalled By Trump's Reported Quip That Pence Wants To Hang Gays", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-pence-hang-gays-joke-twitter_us_59e5564de4b0ca9f483a2e6c', 'short_description': '"This is not normal, this is not normal, this is not normal."', 'date': '2017-10-17'}

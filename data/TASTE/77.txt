@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': '16 Sinful Sweets For Your Boo Bash', 'authors': 'Jennifer Segal, ContributorChef, Cookbook Author, Busy Mom', 'link': 'https://www.huffingtonpost.com/entry/16-sinful-sweets-for-your-boo-bash_us_59efc53ce4b057084e532c8a', 'short_description': 'Halloween and caramel go hand-in-hand.', 'date': '2017-10-29'}

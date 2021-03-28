@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Georgia's Special Election Couldn't Look Much Closer", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/georgias-special-election-couldnt-look-much-closer_us_59491e14e4b07499199e88df', 'short_description': 'And more of the latest polling news.', 'date': '2017-06-20'}

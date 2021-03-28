@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Brett Ratner Is Determined To Save The Movie Industry From Rotten Tomatoes', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/brett-ratner-rotten-tomatoes_us_59cbc3a0e4b053a9c2f5a20e', 'short_description': '“I think there’s a way to fix it," the filmmaker told HuffPost.', 'date': '2017-09-27'}

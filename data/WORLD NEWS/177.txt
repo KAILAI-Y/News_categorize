@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Israeli Troops Wound 13 On Gaza Border, Day After Deadly Protest', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/israeli-troops-wound-youths-gaza_us_5abfa865e4b0a47437ab5867', 'short_description': 'Palestinian President Mahmoud Abbas declared Saturday a national day of mourning.', 'date': '2018-03-31'}

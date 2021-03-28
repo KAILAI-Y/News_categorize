@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Chicago Sees Spike In Black Women Obtaining Concealed Carry Permits', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/chicago-black-women-concealed-carry-permits_us_59ba879ae4b02da0e13fa3b1', 'short_description': '“We need to learn how to defend ourselves.”', 'date': '2017-09-14'}

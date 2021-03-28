@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Dogs Are Dying After Being Left Out In The Cold. Here's How To Keep Them Safe.", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/dogs-are-dying-from-the-cold_us_5a538039e4b003133eca6ec7', 'short_description': 'Hint: If it’s too cold for you, it’s probably too cold for your dog.', 'date': '2018-01-09'}

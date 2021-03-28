@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'AC/DC Co-Founder Malcolm Young Dead At 64', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/malcolm-young-ac-dc-death_us_5a0c94fbe4b00a6eece60d41', 'short_description': '"As a guitarist, songwriter and visionary he was a perfectionist and a unique man," his brother said.', 'date': '2017-11-18'}

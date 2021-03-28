@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Liquid Nitrogen Experiment Almost Goes Horribly Wrong On Live TV', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/liquid-nitrogen-tv-experiment_us_5a1f8fd0e4b0392a4ebb2335', 'short_description': 'That almost ended badly.', 'date': '2017-11-30'}

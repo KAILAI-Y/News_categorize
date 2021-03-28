@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hamburg Police And Protesters Clash Violently As Trump Arrives For G-20 Summit', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/g20-protest-hamburg_us_595e3c31e4b0615b9e8f8490', 'short_description': 'German authorities are preparing for 100,000 demonstrators to hit the city.', 'date': '2017-07-06'}

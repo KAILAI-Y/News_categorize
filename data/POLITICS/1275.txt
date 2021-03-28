@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "John Bolton Appointed As Trump's National Security Adviser", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/john-bolton-national-security-adviser_us_5aa9816ee4b0004c0406d44c', 'short_description': "He's one of the most controversial figures in foreign policy.", 'date': '2018-03-22'}

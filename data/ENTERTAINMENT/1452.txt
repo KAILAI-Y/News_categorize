@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Dawson's Creek' Creator Says He Wouldn't Let Pacey Date Teacher Today", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/pacey-dawsons-creek-teacher-sex_us_5a6637f8e4b0dc592a0b82e8', 'short_description': "Kevin Williamson based Pacey's affair on storyline from his own childhood.", 'date': '2018-01-22'}

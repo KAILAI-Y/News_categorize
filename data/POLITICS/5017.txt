@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Dianne Feinstein Officially Has A Primary Challenger', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/kevin-de-leon-feinstein_us_59e39689e4b03a7be581612f', 'short_description': 'California Democratic state Senate President Kevin de León is running to unseat the Democratic incumbent.', 'date': '2017-10-15'}

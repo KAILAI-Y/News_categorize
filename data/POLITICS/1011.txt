@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Everyone Got The Pulse Massacre Story Completely Wrong', 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/noor-salman-pulse-massacre-wrong_us_5ac29ebae4b04646b6454dc2', 'short_description': 'And another, smaller injustice was obscured: the sadistic prosecution of Noor Salman.', 'date': '2018-04-05'}

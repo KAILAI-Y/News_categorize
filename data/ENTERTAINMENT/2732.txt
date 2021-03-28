@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'South Park' Game Gets Harder Based On Your Character's Skin Color", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/south-park-game-gets-harder-based-on-your-characters-skin-color_us_59b291d0e4b0b5e5310595d8', 'short_description': 'The darker your skin, the more difficult it gets.', 'date': '2017-09-08'}

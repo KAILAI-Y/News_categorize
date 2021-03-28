@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "William And Kate's Christmas Card Is All About Prince George And Princess Charlotte", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/william-kate-christmas-card_us_5a37bb1be4b040881bec5793', 'short_description': 'So cute!', 'date': '2017-12-18'}

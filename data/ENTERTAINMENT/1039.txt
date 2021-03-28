@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Barbra Streisand Had Her Dog, Samantha, Cloned Twice', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/barbra-streisand-dog-cloned-samantha_us_5a958acbe4b03a8f3a2306d3', 'short_description': 'Apparently the diva just couldn’t let her beloved pooch go.', 'date': '2018-02-27'}

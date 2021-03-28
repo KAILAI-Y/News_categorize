@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Here's Why It's So Difficult To Control California's Wildfires", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/control-california-wildfires_us_5a3120a0e4b07ff75aff27ed', 'short_description': '"A lot of people want to live in the country … without understanding the risk."', 'date': '2017-12-13'}

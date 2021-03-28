@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Has Beauregard For The Truth', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/senate-has-beauregard-for-the-truth_us_593f07fee4b0b13f2c6d6520', 'short_description': 'Ah do declare...', 'date': '2017-06-12'}

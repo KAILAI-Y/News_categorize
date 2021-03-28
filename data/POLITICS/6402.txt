@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s Vague New Afghanistan Strategy Continues An Endless War', 'authors': 'Jessica Schulberg', 'link': 'https://www.huffingtonpost.com/entry/trump-afghanistan-strategy-obama_us_599b79d6e4b0771ecb06b421', 'short_description': 'The president says he will no longer disclose how many troops will be deployed.', 'date': '2017-08-22'}

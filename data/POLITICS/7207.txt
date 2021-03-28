@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'John McCain Fails To Act On His Words On Health Care Again', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/john-mccain-health-care_us_5978cfc9e4b0c95f3760fe00', 'short_description': "The senator demanded a better process, but he doesn't vote like it.", 'date': '2017-07-26'}

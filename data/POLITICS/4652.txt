@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Ryan On Former Trump Campaign Officials Getting Indicted: I Love Tax Reform', 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-manafort-trump-indicted-tax-reform_us_59f7472ce4b077d8dfcb3800', 'short_description': 'Huh?', 'date': '2017-10-30'}

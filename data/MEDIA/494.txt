@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Lawrence O'Donnell Lost His Mind Over A Malfunctioning Earpiece", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/lawrence-odonnell-broken-earpiece-video-msnbc_us_59c2d536e4b06f93538c3ab6', 'short_description': "And oh, yes, there's video.", 'date': '2017-09-20'}

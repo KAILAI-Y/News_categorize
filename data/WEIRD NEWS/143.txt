@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': '45-Minute Farm Standoff Ends When Cops Realize Tiger Is Stuffed', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/stuffed-tiger-standoff_us_5a7a0ddce4b06505b4e8d017', 'short_description': 'Officers in Scotland had a roaring shift on Saturday night.', 'date': '2018-02-06'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: Inside Trump's Order For A Grand Military Parade", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-inside-trumps-order-for-a-grand-military-parade_us_5a7ae9ece4b06505b4e9e0f7', 'short_description': 'After seeing one in France.', 'date': '2018-02-07'}

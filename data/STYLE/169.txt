@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "11 Things We're Obsessed With This Week, Besides Finding The Perfect Halloween Costume", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/things-were-obsessed-with-14_us_59e76cf7e4b00905bdae071a', 'short_description': "Trick or treat yo'self.", 'date': '2017-10-18'}

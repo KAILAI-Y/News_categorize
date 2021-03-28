@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jennifer Lawrence Reveals The Best Bit Of Advice She's Ever Received", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jennifer-lawrence-advice-oprah-winfrey_us_5a292328e4b0b185e5398d6e', 'short_description': 'The nugget of wisdom came from Oprah Winfrey, no less.', 'date': '2017-12-07'}

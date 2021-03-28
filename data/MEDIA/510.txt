@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'White House Social Media Director Busted For Tweeting Fake News', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/white-house-dan-scavino-irma-fake-news_us_59b5e4a3e4b0b5e531070b49', 'short_description': 'Dan Scavino Jr. was called out for sharing a bogus #HurricaneIrma video.', 'date': '2017-09-11'}

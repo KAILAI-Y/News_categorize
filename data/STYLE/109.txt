@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Seth Rogen Used His Wife's Makeup For A Movie Premiere And Looked Great", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/seth-rogen-wife-makeup_us_5a0afba5e4b00a6eece439e5', 'short_description': '"You\'re not the first man to nick his wife’s concealer."', 'date': '2017-11-14'}

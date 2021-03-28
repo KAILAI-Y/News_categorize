@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "This Heist Parody Is Unlike Any Other Heist Film You've Seen. It's Better.", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/this-heist-parody-isnt-just-like-every-heist-film-youve-seen-its-better_us_599dda79e4b0d8dde99aed7e', 'short_description': "The gang's all here. And more!", 'date': '2017-08-23'}

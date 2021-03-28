@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Barb From 'Stranger Things' Received The Best Coffee Cup Message From A Barista", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stranger-things-barista-coffee-cup-message_us_5a7c23ace4b0c6726e0fa1d4', 'short_description': 'Spoiler alert.', 'date': '2018-02-09'}

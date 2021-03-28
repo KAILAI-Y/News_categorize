@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Walking Dead' Delivers A Carol Easter Egg On Easter", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/walking-dead-delivers-scene-weve-been-waiting-for-since-season-2_us_5abe4026e4b055e50acd0c3a', 'short_description': "This is a moment we've been waiting for since Season 2.", 'date': '2018-04-02'}

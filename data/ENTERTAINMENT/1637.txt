@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Pink To Sing National Anthem At The Super Bowl', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/pink-national-anthem-super-bowl_us_5a538a13e4b0efe47ebb0176', 'short_description': 'Could this be a tryout for a 2019 halftime gig?', 'date': '2018-01-08'}

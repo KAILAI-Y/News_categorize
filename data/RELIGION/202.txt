@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Why Justin Bieber Should Start A Church', 'authors': "Josh Cobia, ContributorWriter and Pastor of Resonate - A church for people who don't ...", 'link': 'https://www.huffingtonpost.com/entry/why-justin-bieber-should-start-a-church_us_597ae722e4b09982b737638b', 'short_description': 'He just might save it.', 'date': '2017-07-28'}

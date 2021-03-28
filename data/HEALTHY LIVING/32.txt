@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'What To Do After An Abnormal Pap Smear', 'authors': 'Gemma Hartley, On Assignment For HuffPost', 'link': 'https://www.huffingtonpost.com/entry/abnormal-pap-smear-what-to-do_us_5a315f17e4b01bdd765953c4', 'short_description': 'No need to panic.', 'date': '2017-12-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sean Hannity Defends Withholding Link To Trump's Attorney: 'I Have A Right To Privacy'", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/hannity-michael-cohen-defense_us_5ad540e6e4b077c89cebdd6b', 'short_description': '"It was such a minor relationship," Hannity said.', 'date': '2018-04-17'}

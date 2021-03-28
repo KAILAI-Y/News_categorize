@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Moscow Mule Gummies Are Here', 'authors': 'Refinery29, ContributorThe #1 new-media brand for smart, creative and stylish women e...', 'link': 'https://www.huffingtonpost.com/entry/moscow-mule-gummies-are-here_us_59cbfe3ae4b02ba6621ff9f5', 'short_description': 'Move over rosé chews!', 'date': '2017-09-27'}

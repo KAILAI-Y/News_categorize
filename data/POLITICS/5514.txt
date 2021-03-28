@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s Call To Fire NFL Players Is Not Normal', 'authors': 'Dana Liebelson', 'link': 'https://www.huffingtonpost.com/entry/trump-fire-nfl-players-not-normal_us_59cac229e4b02aef6cd5e933', 'short_description': '"What does it say about our moment that the closest comparison is McCarthyism?”', 'date': '2017-09-26'}

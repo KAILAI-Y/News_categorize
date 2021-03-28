@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "New Document Shows Inner Workings Of Trump's Voter Fraud Probe", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-voter-fraud-probe_us_59d2a80ee4b0f962988957f5', 'short_description': 'A former Justice Department official says the new revelations "raise serious concerns."', 'date': '2017-10-02'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Learn How To Troll Trump So Hard That He Blocks You In This MasterClass Parody', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/troll-trump-masterclass_us_5a698527e4b0e56300764349', 'short_description': 'A "professional Twitter troll" shares his secrets.', 'date': '2018-01-25'}

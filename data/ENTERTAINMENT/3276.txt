@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Damon Wayans Jr.'s Fourth Of July 'White People' Joke Bombs", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/damon-wayans-jrs-fourth-of-july-white-people-joke-bombed_us_595cd39ae4b05c37bb80ee7f', 'short_description': 'Independence Day was no picnic for the actor after a controversial tweet.', 'date': '2017-07-05'}

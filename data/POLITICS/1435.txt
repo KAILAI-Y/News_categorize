@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Larry Kudlow Is The Perfect Embodiment Of Republican Economics', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/larry-kudlow-is-the-perfect-embodiment-of-republican-economics_us_5aabcd91e4b0337adf832bf5', 'short_description': 'Rich people are the best people, apparently.', 'date': '2018-03-16'}

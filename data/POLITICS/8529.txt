@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'John McCain Slams Trump: U.S. Leadership Was Better Under Obama', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-mccain-obama-leadership-better_us_593de9aae4b0c5a35ca0becb', 'short_description': 'Trump is telling the world "America doesn’t want to lead," McCain said.', 'date': '2017-06-12'}

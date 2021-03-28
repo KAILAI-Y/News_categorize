@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Trump Era Calls For An Honest Conversation About Drug Use', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/global-drug-survey-2017_us_5a01d139e4b066c2c03a5684', 'short_description': 'And HuffPost is partnering with the Global Drug Survey to help facilitate it.', 'date': '2017-11-08'}

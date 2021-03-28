@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Soothe Yourself In 'This Long Haul We Call Life' With Amy Sedaris' Morning Routine", 'authors': 'Jillian Capewell', 'link': 'https://www.huffingtonpost.com/entry/amy-sedaris-trutv-clip_us_59e7c07ee4b00905bdaea2fe', 'short_description': 'On "At Home with Amy Sedaris," there are only "Hers" and "Also Hers" towels.', 'date': '2017-10-19'}

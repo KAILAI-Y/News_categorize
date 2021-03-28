@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Tiger Woods Arrested In Florida On DUI Charge', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/tiger-woods-arrested-in-florida-for-dui_us_592c3f67e4b0065b20b789ec', 'short_description': 'The golfer says he had an "unexpected reaction to prescribed medications," and that alcohol was not involved.', 'date': '2017-05-29'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sarah Huckabee Sanders: NBC Gave Trump A Show For A Decade, So He's Not Racist", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/sarah-huckabee-sanders-nbc-trump-racist_us_5a5e39f2e4b04f3c55a66601', 'short_description': 'The two are not mutually exclusive, Sarah.', 'date': '2018-01-16'}

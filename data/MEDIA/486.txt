@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Trump's NFL Attacks Appear To Fuel Huge Facebook Gains For Breitbart And Fox", 'authors': 'Ethan Klapper', 'link': 'https://www.huffingtonpost.com/entry/trump-nfl-facebook-fox-breitbart_us_59c91e53e4b01cc57ff41a48', 'short_description': 'Breitbart had the top Facebook post of any major U.S. publisher this weekend.', 'date': '2017-09-25'}

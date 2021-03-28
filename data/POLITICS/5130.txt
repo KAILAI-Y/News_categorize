@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mike Ditka Has Not Been Paying Attention To History', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/mike-ditka-oppression_us_59dcd977e4b00377980c03ad', 'short_description': '“There has been no oppression in the last 100 years that I know of."', 'date': '2017-10-10'}

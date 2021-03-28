@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Unloads On Supposed 'Advocate For Women' Eric Schneiderman", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-eric-schneiderman_us_5af2b9f9e4b0a0d601e8183f', 'short_description': '"I thought I had heard it all, but this guy?"', 'date': '2018-05-09'}

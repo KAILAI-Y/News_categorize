@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '‘SNL’ Host John Mulaney Wrote Last Night’s Best Sketch In 2010', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-best-sketch-on-snl-last-night-host-john-mulaney-wrote-in-2010_us_5ad388e4e4b077c89ce9a15e', 'short_description': 'The "Les Misérables" inspired musical number is wonderful.', 'date': '2018-04-15'}

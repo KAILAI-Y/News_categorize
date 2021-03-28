@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Lena Waithe Stuns At Met Gala As A Queer Superhero', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/lena-waithe-rainbow-cape-met-gala_us_5af1a2cde4b0ab5c3d69f5e7', 'short_description': '“This is like my skin. I’m proud to be in it,” she said of her rainbow cape.', 'date': '2018-05-08'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Pokes Holes In Trump's Abstinence-Only Sex Education Agenda", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-abstinence-only-education_us_5adaef63e4b009869bf99128', 'short_description': '“How do you spend that much money on not giving away condoms?"', 'date': '2018-04-21'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Shreds GOP Hypocrisy Over Donald Trump's Attacks On Amazon", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-gop-amazon_us_5ac5c1fbe4b09ef3b24388dd', 'short_description': '"Their silence is deafening."', 'date': '2018-04-05'}

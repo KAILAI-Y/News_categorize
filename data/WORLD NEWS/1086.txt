@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Muslim Surgeon Who Treated Manchester Attack Victims Stabbed In Hate Crime', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/muslim-surgeon-manchester-stabbed_us_59ca0ca3e4b01cc57ff507ad', 'short_description': 'Dr. Nasser Kurdy said he has "totally forgiven" his assailant.', 'date': '2017-09-26'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'An Open Letter To Louis C.K.', 'authors': 'Pamela Newton, ContributorWriter and teacher', 'link': 'https://www.huffingtonpost.com/entry/an-open-letter-to-louis-ck_us_5a05b429e4b0cc46c52e69af', 'short_description': "Don't hide in the shadows any longer.", 'date': '2017-11-10'}

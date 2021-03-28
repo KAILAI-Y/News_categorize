@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Dozens Killed In Damascus Suburb, Marking The Area's Highest Death Toll In Years", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/deaths-bombing-ghouta-damascus_us_5a8bfd43e4b09fc01e033ea3', 'short_description': 'Almost 200 have died since Sunday.', 'date': '2018-02-20'}

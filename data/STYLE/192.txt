@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'The Brilliantly Easy Way To Fix Clumpy Nail Polish', 'authors': 'PureWow, ContributorWhat your girl crush reads online', 'link': 'https://www.huffingtonpost.com/entry/the-brilliantly-easy-way-to-fix-clumpy-nail-polish_us_59dcecdce4b04b26dfcecc97', 'short_description': 'Don’t toss that bottle just yet.', 'date': '2017-10-10'}

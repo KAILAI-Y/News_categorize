@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Patrick Warburton Revives 'Seinfeld' Fanatic To Rev Up Devils' Crowd", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/patrick-warburton-revives-seinfeld-fanatic-to-rev-up-devils-crowd_us_5ad9f492e4b0e4d0715fd318', 'short_description': '"We\'re the Devils!"', 'date': '2018-04-20'}

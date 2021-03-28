@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Lie Father, Lie Son', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/lie-father-lie-son_us_598101f1e4b0353fbb335614', 'short_description': 'Apples and trees and what not.', 'date': '2017-08-01'}

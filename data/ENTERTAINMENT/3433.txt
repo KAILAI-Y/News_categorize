@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Networks Will Interrupt Daytime Shows For Real-Life Soap As Comey Testifies', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/networks-will-interrupt-daytime-shows-to-air-comey-testimony_us_59383ea2e4b0c5a35c9b494c', 'short_description': 'ABC, CBS and NBC will cover the event live.', 'date': '2017-06-07'}

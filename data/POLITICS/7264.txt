@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jeff Sessions Still Has His Job, But Trump Keeps Humiliating Him Anyway', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-sessions-humiliation_us_5977b52ee4b0a8a40e836d44', 'short_description': 'The president says his attorney general should have protected him from the Russia investigation.', 'date': '2017-07-25'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Anthony Scaramucci Teases His Own News Website, Sparking Twitter Meltdown', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/anthony-scaramucci-post-twitter-reacts_us_59b8e07ee4b02da0e13d6971', 'short_description': '"Was \'The Scaramucci Picayune\' already taken?"', 'date': '2017-09-13'}

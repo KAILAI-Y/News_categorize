@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '2 People Injured In Indiana School Shooting', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/indiana-middle-school-active-shooter_us_5b0811c2e4b0802d69ca90f2', 'short_description': 'A male student, believed to be the suspect, has been detained, according to police.', 'date': '2018-05-25'}

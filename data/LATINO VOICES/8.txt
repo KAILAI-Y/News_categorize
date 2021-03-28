@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Samantha Bee Wants To 'Make America Give A Damn About Puerto Rico' Again", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-puerto-rico-special_us_5abc9f68e4b03e2a5c7959ab', 'short_description': '“If this happened in Connecticut, it would be front page news every day."', 'date': '2018-03-29'}

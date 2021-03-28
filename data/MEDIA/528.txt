@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Jesse Watters Falls For Fake Photo Of Shark Swimming In Houston', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jesse-watters-falls-for-fake-photo-of-shark-swimming-in-houston_us_59a57741e4b050afa90cbe8c', 'short_description': 'Know your internet hoaxes, Fox News.', 'date': '2017-08-29'}

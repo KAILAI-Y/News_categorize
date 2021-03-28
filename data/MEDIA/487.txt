@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Megyn Kelly's New Morning Show Debuts Monday", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/megyn-kelly-morning-show_us_59c52999e4b01cc57ff1b6f2', 'short_description': 'The former Fox News host is taking over what had been the "Today" show\'s 9 a.m. hour.', 'date': '2017-09-24'}

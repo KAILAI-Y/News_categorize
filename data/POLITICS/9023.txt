@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Travel Ban Fight Heads Toward Supreme Court Showdown', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-travel-ban-scotus_us_59287ae2e4b0065b20b68601', 'short_description': 'His appointee Neil Gorsuch could help settle the matter.', 'date': '2017-05-26'}

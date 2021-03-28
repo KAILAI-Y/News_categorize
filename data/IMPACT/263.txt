@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "New Boy Muppet On Afghanistan's 'Sesame Street' Is A Feminist", 'authors': 'Eleanor Goldberg', 'link': 'https://www.huffingtonpost.com/entry/afghan-muppet-gender-inequality_us_596cd6bae4b03389bb194298', 'short_description': "Zeerak, a 4-year-old boy muppet, fights for gender equality and girls' education.", 'date': '2017-07-18'}

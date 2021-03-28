@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'New Twitter Account Trolls Kellyanne Conway For Dishing About Insiders', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/kellyanneleaks-twitter_us_593c7ee2e4b0b13f2c6b216c', 'short_description': 'Conway was reportedly overheard talking about Trump, Reince Priebus and Marc Short to reporters.', 'date': '2017-06-11'}

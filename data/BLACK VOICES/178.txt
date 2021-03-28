@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Teenage Musician Killed In Austin Bombings Admitted Into Prestigious Conservatory', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/draylen-mason-oberlin_us_5ab9209de4b0decad04c9c3a', 'short_description': 'The school plans to hold a memorial for Draylen Mason in the future.', 'date': '2018-03-26'}

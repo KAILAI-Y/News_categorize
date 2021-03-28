@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Why Olivia Wilde Says Her Skincare Routine 'Is A Political Act'", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/olivia-wildes-natural-skincare-routine-is-super-affordable_us_5a4d1864e4b0b0e5a7aa6661', 'short_description': '"I\'m all about supporting the good amidst the shitstorm of bad."', 'date': '2018-01-04'}

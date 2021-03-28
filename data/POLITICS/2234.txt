@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nancy Pelosi Sets Record For Longest Continuous Speech In House History', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/nancy-pelosi-longest-speech-house-history_us_5a7b7620e4b044b38219006e', 'short_description': 'She persisted.', 'date': '2018-02-07'}

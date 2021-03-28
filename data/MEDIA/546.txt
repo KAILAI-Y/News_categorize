@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Here's The Strange World President Trump Sees Whenever He Looks At Twitter", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-twitter-feed_us_59964835e4b0a2608a6b67a8', 'short_description': 'New feed shows all 45 accounts Trump follows.', 'date': '2017-08-18'}

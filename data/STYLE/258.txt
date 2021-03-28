@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "'We Should All Be Mirandas' Is The Feminist 'SATC' Mantra We Deserve", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/miranda-hobbes-t-shirts-feminist_us_59afed9de4b0b5e531027de3', 'short_description': "We couldn't help but wonder how we've lived without this T-shirt for so long.", 'date': '2017-09-06'}

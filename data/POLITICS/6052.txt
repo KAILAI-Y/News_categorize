@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Why Women Journalists In Afghanistan Matter', 'authors': 'Amie Ferris-Rotman, founder, Sahar Speaks', 'link': 'https://www.huffingtonpost.com/entry/sahar-speaks-afghan-women-journalists_us_59a7527ce4b0a8d145730b13', 'short_description': 'Sahar Speaks brings new voices to world that needs to hear them.', 'date': '2017-09-05'}

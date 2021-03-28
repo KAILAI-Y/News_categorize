@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ohio Man Could Be The First Rabbi In Congress', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/robert-barr-congress_us_59e7afd2e4b0d0e4fe6cfa96', 'short_description': '“I’m doing this for the same reason that drove me to become a rabbi 37 years ago,” said Rabbi Robert Barr.', 'date': '2017-10-19'}

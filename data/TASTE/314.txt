@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Salmonella Is On The Rise Because People Won't Stop Cuddling Their Chickens", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/salmonella-chicken-cuddle_us_5937fd68e4b0ce1e740970bb', 'short_description': 'A surprising number of people affected by salmonella have admitted to it.', 'date': '2017-06-07'}

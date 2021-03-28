@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Twitter Lost Its Mind Over LeBron James' Shaved Head", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/twitter-lost-its-mind-over-lebron-james-shaved-head_us_5942e7c4e4b01eab7a2c6a94', 'short_description': "Bald LeBron is here, y'all.", 'date': '2017-06-15'}

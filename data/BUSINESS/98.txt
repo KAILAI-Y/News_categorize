@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Bubbles: Are They Back?', 'authors': 'Dean Baker, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/bubbles-are-they-back_us_5a388cb9e4b0578d1beb7259', 'short_description': 'There has been much greater concern about the danger of asset bubbles ever since the collapse of the housing bubble sank', 'date': '2017-12-19'}

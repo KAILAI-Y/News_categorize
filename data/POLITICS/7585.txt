@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Majority Thinks Trump Jr.'s Meeting Was Inappropriate, Poll Finds", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-jr-russia-poll_us_5967a821e4b0a0c6f1e6dd8a', 'short_description': "But it appears to have done little to change minds about the administration's Russia ties.", 'date': '2017-07-13'}

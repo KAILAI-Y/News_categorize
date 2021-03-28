@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Samantha Bee Uses 4 Words To Describe Devin Nunes' Secret Memo", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-devin-nunes-fan-fiction_us_5a72c64ce4b06fa61b4d72e6', 'short_description': 'One guess as to what they are.', 'date': '2018-02-01'}

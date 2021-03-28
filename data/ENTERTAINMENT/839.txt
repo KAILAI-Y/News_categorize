@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Grey's Anatomy' Short-Timer To Star In 'Cagney & Lacey' Reboot", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/sarah-drew-cagney-lacey-greys-anatomy_us_5aa9076ee4b0f7a689ce0521', 'short_description': 'Sarah Drew joins Michelle Hurd in the pilot remake of the legendary buddy-cop series.', 'date': '2018-03-14'}

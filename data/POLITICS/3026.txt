@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The White House Loves To Rewrite Resumes Of Ex-Trump Aides Who Cause Trouble For Him', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-bannon-flynn-volunteer_us_5a4d28c3e4b06d1621bcab80', 'short_description': "The president's attacks on Steve Bannon fit a pattern.", 'date': '2018-01-03'}

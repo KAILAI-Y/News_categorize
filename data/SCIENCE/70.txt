@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'Scientists Hit Breakthrough In Quest To Transplant Pig Organs Into Humans', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/pig-organ-human-transplant-virus-free_us_598b18f1e4b0d793738bde3d', 'short_description': 'These little piggies could soon save millions of lives.', 'date': '2017-08-10'}

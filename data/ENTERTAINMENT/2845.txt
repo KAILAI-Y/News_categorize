@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Bill Nye The Science Guy Is Suing Disney For Big Bucks', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bill-nye-the-science-guy-is-suing-disney-for-big-bucks_us_59a0008ce4b05710aa5b97ca', 'short_description': 'This is not an experiment.', 'date': '2017-08-25'}

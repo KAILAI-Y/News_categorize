@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Americans Split On Trump's Handling Of Terror Threats", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-terror-poll_us_59387d47e4b0b13f2c66d063', 'short_description': "Most say it was inappropriate for the president to bash London's mayor after the London Bridge attack.", 'date': '2017-06-07'}

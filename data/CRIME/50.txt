@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Cops Make Arrest In Infamous 'Golden State Killer' Case: Report", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/golden-state-killer-suspect-arrest_us_5ae087e3e4b07560f397d49c', 'short_description': "It's been nearly 50 years since the first homicide.", 'date': '2018-04-25'}

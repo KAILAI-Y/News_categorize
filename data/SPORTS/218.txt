@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Video Expertly Sums Up Why Triple Axel Figure Skating Jump Is So Huge', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/triple-axel-ice-skating-explainer_us_5a82bb1de4b00ecc923de09e', 'short_description': '“The triple axel is a physics problem."', 'date': '2018-02-13'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Samuel L. Jackson Shreds 'Mothaf***a' Donald Trump Over Armed Teachers Idea", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samuel-l-jackson-donald-trump-armed-teachers_us_5a925784e4b03b55731cd8de', 'short_description': 'The Hollywood actor did not hold back.', 'date': '2018-02-25'}

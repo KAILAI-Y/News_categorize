@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'See If You Can Watch This Powerful 1-Minute PSA Without Crying', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/blood-donation-42-hitchhikers-guide_us_5aa0c907e4b002df2c60ae36', 'short_description': '42 really is the answer to the ultimate question of life, the universe and everything.', 'date': '2018-03-08'}

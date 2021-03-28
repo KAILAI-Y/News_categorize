@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Oh, God, The Minions Are Back Again', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/why-are-the-minions-back_us_59541bb1e4b0da2c7320f51f', 'short_description': '"Despicable Me 3" will open in more U.S. theaters than any movie ever.', 'date': '2017-06-29'}

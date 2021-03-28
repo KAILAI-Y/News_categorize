@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Will Ferrell And Molly Shannon Cover The Royal Wedding As 'Cord And Tish'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/will-ferrell-and-molly-shannon-cover-the-royal-wedding-as-cord-and-tish_us_5b0066cee4b07309e058dcca', 'short_description': 'They should cover everything.', 'date': '2018-05-19'}

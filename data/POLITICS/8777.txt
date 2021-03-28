@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Shifts To Infrastructure As James Comey Prepares To Testify', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-infrastructure-comey_us_59342c95e4b075bff0f470af', 'short_description': 'An opportunity to provide some counter-programming to the drumbeat of Russia news.', 'date': '2017-06-04'}

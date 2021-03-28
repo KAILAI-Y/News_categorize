@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Gina Haspel Confirmed As CIA Director With Aid Of Democrats', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/gina-haspel-torture-confirmed_us_5afdb75fe4b0a59b4e01c1a5', 'short_description': "Democrats had the power to block her nomination, but they couldn't stick together.", 'date': '2018-05-17'}

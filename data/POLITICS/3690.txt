@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Roy Moore's Boast About His 'Alabama Values' Did Not Go Well", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-alabama-values_us_5a279bdbe4b044d16725ce14', 'short_description': 'The Republican candidate for U.S. Senate has been accused of sexual misconduct.', 'date': '2017-12-06'}

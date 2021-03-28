@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Accuser Wins Democratic Nomination For Ohio Legislature', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/rachel-crooks-trump-accuser-wins-primary_us_5af2bb37e4b0aab8a78a9bd9', 'short_description': 'Rachel Crooks says Trump forcibly kissed her in the Trump Tower lobby in 2005.', 'date': '2018-05-09'}

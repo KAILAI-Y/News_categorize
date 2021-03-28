@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Fireworks Barge Explodes In Australia, Forcing Beach Evacuation', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/terrigal-fireworks-barge-explodes_us_5a496829e4b025f99e1c74ec', 'short_description': 'Spectators first laughed and cheered, then scattered, screaming.', 'date': '2018-01-01'}

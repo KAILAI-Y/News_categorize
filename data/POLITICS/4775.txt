@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Meet Paddles, The Most Powerful Cat In New Zealand', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/new-zealand-first-cat-paddles_us_59f038a0e4b0b7e63265ce3d', 'short_description': 'She is "purrty special."', 'date': '2017-10-25'}

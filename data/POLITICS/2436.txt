@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "These 'No Promo Homo' Laws Are Hurting LGBTQ Students Across America", 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/no-promo-homo-laws-states_us_5a6f9178e4b05836a255ae94', 'short_description': 'Seven states still have laws that specifically target gay students.', 'date': '2018-01-30'}

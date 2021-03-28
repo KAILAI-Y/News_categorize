@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jay-Z, Kendrick Lamar Dominate The 2018 Grammy Nominations', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/2018-grammy-nominees-nominations_us_5a1c4fb8e4b026fe09b9ae74', 'short_description': 'Lorde, SZA and Bruno Mars also received nods.', 'date': '2017-11-28'}

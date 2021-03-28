@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Ambassador To Panama Resigns, Saying He Cannot Serve Trump', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/us-ambassador-to-panama-resigns-trump_us_5a58e139e4b02cebbfdb51c0', 'short_description': 'John Feeley says he felt "honor bound" to resign.', 'date': '2018-01-12'}

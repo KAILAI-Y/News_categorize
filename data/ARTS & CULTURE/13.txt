@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Mystery Novelist Sue Grafton Dead At 77', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/sue-grafton-dead-dies_us_5a469e50e4b0b0e5a7a66917', 'short_description': 'The author of "A is for Alibi" was "surrounded by family" at the time of her death, her daughter said.', 'date': '2017-12-29'}

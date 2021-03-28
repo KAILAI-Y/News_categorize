@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'House Of Cards' Tweet About The Comey Testimony Is Spot On", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/house-of-cards-tweet-comey_us_59396a73e4b0b13f2c67f8c0', 'short_description': 'Perhaps for the first time, Frank Underwood is all of us.', 'date': '2017-06-08'}

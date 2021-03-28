@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Cancels Plans To Attend Summit Of The Americas In Peru', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/trump-cancels-peru-summit-plans_us_5accb86de4b07a3485e86adc', 'short_description': 'Vice President Mike Pence will attend in his place, the White House said.', 'date': '2018-04-10'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Wait, Is That Taylor Swift In Selena Gomez's 'Bad Liar' Music Video?", 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/selena-gomez-taylor-swift-bad-liar_us_5942b38ce4b01eab7a2c1846', 'short_description': 'This is a pretty great possible Easter egg.', 'date': '2017-06-15'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Here's Maybe The Definitive Way To Pronounce 'Pyeongchang'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/pronounce-pyeonchang_us_5a7d738be4b044b3821c0496', 'short_description': "Now that the 2018 Winter Olympics have started, it's time you learned.", 'date': '2018-02-09'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here’s More Proof That Jon Snow And Daenerys Might End Up Together', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-jon-snow-daenerys-couple_us_597f5365e4b0da64e87acaf1', 'short_description': '🔥 + ❄️ = 💕 ?', 'date': '2017-07-31'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '$5.4 Million In Jewels Recovered From Paris Hotel Heist', 'authors': 'Emmnauel Jarry, Reuters', 'link': 'https://www.huffingtonpost.com/entry/paris-hotel-robbery-jewels-recovered_us_5a57e499e4b0720dc4c592af', 'short_description': 'French police recovered the merchandise stolen in an armed robbery on Wednesday.', 'date': '2018-01-11'}

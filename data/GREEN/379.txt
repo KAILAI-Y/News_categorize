@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'City Halls, Bridges Across America Glow Green To Show Continued Support For Paris Accord', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/green-lights-earth_us_5930fa3ce4b02478cb9a21d4', 'short_description': '"World, the Empire State stands with you," tweets NY Gov. Andrew Cuomo.', 'date': '2017-06-02'}

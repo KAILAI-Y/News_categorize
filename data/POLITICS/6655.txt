@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Tweets About Everything Except Denouncing Neo-Nazis', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-charlottesville-white-supremacists_us_5991a086e4b09071f69b196f', 'short_description': 'The silence is deafening.', 'date': '2017-08-14'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Tweets Might Be Lawyered. But Who Will Babysit Him?", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/lawyering-trumps-tweets_us_59290d5de4b0065b20b6c70d', 'short_description': '"Will a lawyer take up residence in the White House?" wonders CNN correspondent.', 'date': '2017-05-27'}

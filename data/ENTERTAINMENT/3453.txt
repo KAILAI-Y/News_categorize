@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'James Corden Making Major Changes To Show After London Attacks', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/james-corden-changes-london-attacks_us_59355cbce4b075bff0f5199c', 'short_description': 'Corden says the London edition of "The Late Late Show" needs to be "different."', 'date': '2017-06-05'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Robert De Niro's Mueller Scorches 'Focker' Michael Cohen (Ben Stiller) On 'SNL'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/deniro-stiller-snl-cold-open_us_5ad2c91fe4b016a07e9d161e', 'short_description': '"You little weasel."', 'date': '2018-04-15'}

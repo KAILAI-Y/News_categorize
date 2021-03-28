@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Steven Mnuchin Doesn't Want People To See Video Of His Heckled UCLA Talk", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/steven-mnuchin-ucla-event_us_5a99d906e4b0479c02528a40', 'short_description': 'Police arrested three people at the speech -- and, yes, it was caught on film.', 'date': '2018-03-03'}

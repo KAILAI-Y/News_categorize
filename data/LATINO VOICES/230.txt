@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Gina Rodriguez Points Out What's Still Missing From Superhero Movies", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/gina-rodriguez-points-out-whats-still-missing-from-superhero-movies_us_59764bbae4b0c95f375d9d24', 'short_description': '"Asking for a friend..."', 'date': '2017-07-24'}

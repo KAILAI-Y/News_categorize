@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kourtney Kardashian Is Over Scott Disick Being With A 'Different Hooker Every Day'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kourtney-kardashian-is-over-scott-disick-being-with-a-different-hooker-every-day_us_59d793e4e4b072637c439368', 'short_description': 'Savage.', 'date': '2017-10-06'}

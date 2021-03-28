@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Let's Make A Deal' Host Monty Hall Dies At 96", 'authors': 'Will Dunham, Reuters', 'link': 'https://www.huffingtonpost.com/entry/monty-hall-dies-lets-make-a-deal_us_59d034d5e4b09538b508a9de', 'short_description': 'Son Richard Hall said his father died at home in Beverly Hills, California, likely of heart failure.', 'date': '2017-10-01'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Marvel Head Kevin Feige Calls 'Black Panther' The Best Movie The Studio Has Ever Made", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/marvel-kevin-feige-black-panther_us_5a8b0f94e4b00bc49f474028', 'short_description': 'The numbers indicate moviegoers might agree.', 'date': '2018-02-19'}

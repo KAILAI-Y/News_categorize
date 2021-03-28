@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'How To Beat The Winter Blues, According To Top Experts', 'authors': 'Paige Smith', 'link': 'https://www.huffingtonpost.com/entry/difference-between-sad-and-winter-blues_us_5a3410b0e4b0ff955ad2a770', 'short_description': "It's normal to feel low this time of year.", 'date': '2017-12-15'}

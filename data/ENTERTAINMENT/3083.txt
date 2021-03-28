@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Can 'Wonder Woman' Win Best Picture?", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/wonder-woman-oscar-campaign_us_597b8633e4b02a8434b65a8e', 'short_description': 'Warner Bros. is reportedly eyeing a "formidable" Oscar campaign.', 'date': '2017-07-28'}

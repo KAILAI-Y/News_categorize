@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Has An Ingenious Plan To Keep Donald Trump Off Twitter', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-trump-twitter-plan_us_59e04aa8e4b03a7be57f7e0e', 'short_description': '...but he needs you to mail something to the president to help.', 'date': '2017-10-13'}

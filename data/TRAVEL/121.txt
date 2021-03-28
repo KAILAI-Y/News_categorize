@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'The 7 Most Haunted Places In The U.S. We Kinda Want To Visit', 'authors': 'PureWow, ContributorWhat your girl crush reads online', 'link': 'https://www.huffingtonpost.com/entry/the-7-most-haunted-places-in-the-us-we-kinda-want_us_59e61c8fe4b08c75593ce69f', 'short_description': '1. The Stanley Hotel', 'date': '2017-10-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Has Some New Ideas About How To Sabotage Obamacare', 'authors': 'Jeffrey Young and Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/trump-obamacare-sabotage_us_59cc0502e4b05063fe0ecacb', 'short_description': "He's not even being subtle about it.", 'date': '2017-09-27'}

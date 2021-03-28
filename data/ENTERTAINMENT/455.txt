@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Natalie Portman Backs Out Of Israel Award Over 'Recent Events'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/natalie-portman-genesis-prize_us_5ad9ad4ae4b029ebe022eace', 'short_description': '"She cannot in good conscience move forward with the ceremony."', 'date': '2018-04-20'}

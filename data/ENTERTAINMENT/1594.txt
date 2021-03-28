@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'James Franco Responds To Sexual Misconduct Allegations', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/james-franco-sexual-misconduct-allegations_us_5a55c3b8e4b0b117f8808433', 'short_description': '"The things that I heard that were on Twitter are not accurate."', 'date': '2018-01-10'}

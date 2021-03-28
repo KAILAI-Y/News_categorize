@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Conan O’Brien Zings Donald Trump In Spoof Barack Obama Netflix Trailer', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/conan-barack-obama-netflix-spoof-stand-up-special_us_5ab22b23e4b008c9e5f2ce5a', 'short_description': 'Fake Obama brings the gags.', 'date': '2018-03-21'}

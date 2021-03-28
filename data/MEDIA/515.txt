@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Keith Olbermann: America Has Spoken. Trump Is Unstable.', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/keith-olbermann-trump-media-mental-stability_us_59b0f240e4b0354e440f511c', 'short_description': "The pundit insists that the press report on the president's mental health.", 'date': '2017-09-07'}

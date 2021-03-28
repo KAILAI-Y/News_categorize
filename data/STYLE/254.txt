@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Martha Stewart Is Selling Jeans on QVC, And They Are 'So Fancy'", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/martha-stewart-jeans_us_59b2a15ee4b0354e4411688f', 'short_description': 'Well, this is something.', 'date': '2017-09-08'}

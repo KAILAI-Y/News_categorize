@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Hunky Tongan Flag-Bearer From Rio Qualifies For Winter Olympics', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tongan-flag-bearer-rio-winter-olympics_us_5a6606cbe4b0e5630071e171', 'short_description': 'Pyeongchang may soon be heating up.', 'date': '2018-01-22'}

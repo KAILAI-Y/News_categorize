@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Of Course, Serena Williams Had A Most Iconic Baby Shower Theme', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/serena-williams-baby-shower-theme_us_5987107ce4b08b75dcc77dd1', 'short_description': 'And her squad of ladies made it even better.', 'date': '2017-08-06'}

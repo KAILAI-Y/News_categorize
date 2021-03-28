@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "A Tiny, Mocking Voice Rules Donald Trump's Mind In 'Late Night' Gag", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tiny-voice-donald-trump-head-seth-meyers_us_5ae32a54e4b04aa23f229000', 'short_description': 'His head is a busier place than some critics think.', 'date': '2018-04-27'}

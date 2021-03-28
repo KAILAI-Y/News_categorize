@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Repeats False Claim That GOP Senator Was 'In The Hospital'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-senator-hospital_us_59cce4ede4b0210dfdfc58c7', 'short_description': "He can keep saying it, but that doesn't make it true.", 'date': '2017-09-28'}

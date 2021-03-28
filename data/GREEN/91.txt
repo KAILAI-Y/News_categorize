@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "The FAA Can't Stop People From Throwing Live Turkeys Out Of Planes", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/faa-turkey-drop-yellville-arkansas_us_5a10bc35e4b0e97dffedcbdb', 'short_description': 'That means it can\'t curtail the annual "turkey drop" in Yellville, Arkansas.', 'date': '2017-11-19'}

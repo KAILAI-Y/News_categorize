@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congress, America, Innocence, War, Peace, Your Cat At Stake In GA-6', 'authors': 'Eliot Nelson and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/congress-america-innocence-war-peace-your-cat-at-stake-in-ga-6_us_59498b9ee4b0db570d375e55', 'short_description': 'Life itself?', 'date': '2017-06-20'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'NYC Invalidates $26 Million Worth Of Parking Tickets Over Tiny Error', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/ticket-error-slashes-millions-in-fines_us_5a0af2a0e4b0bc648a0dba0d', 'short_description': '“It’s really important for us to be fair,” a city official said.', 'date': '2017-11-14'}

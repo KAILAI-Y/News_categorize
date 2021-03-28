@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Haitian Kids Learn Conan O'Brien Would Make One Goofy Classmate", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/haiti-kids-learn-conan-obrien-would-make-one-goofy-classmate_us_5a68aadee4b0dc592a0e997e', 'short_description': '"Finally, someone gets me."', 'date': '2018-01-24'}

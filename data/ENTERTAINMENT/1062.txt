@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Bill Cosby's Daughter Ensa Dies At Age 44", 'authors': 'Gina Cherelus, Reuters', 'link': 'https://www.huffingtonpost.com/entry/bill-cosby-daughter-ensa-dies-44_us_5a946b22e4b01f65f59937e9', 'short_description': 'Bill Cosby’s daughter, Ensa Cosby, died from a chronic kidney disease.', 'date': '2018-02-26'}

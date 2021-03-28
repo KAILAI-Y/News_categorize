@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Deadpool Won't Stop Trolling Disney-Fox Merger, Thanks To Ryan Reynolds", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/ryan-reynolds-deadpool-disney-fox_us_5a32ad64e4b0e41f9e04229b', 'short_description': 'Because not even the mouse can shut up Deadpool.', 'date': '2017-12-14'}

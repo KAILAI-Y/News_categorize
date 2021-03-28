@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Impressive Black Friday Beauty Deals On Bobbi Brown, Nars And More', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/the-best-black-friday-beauty-deals-2017_us_5a0efe4de4b0dd63b1aa0317', 'short_description': 'Black Friday 2017 will have you looking your best 💅', 'date': '2017-11-17'}

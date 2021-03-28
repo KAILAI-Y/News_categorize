@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Gets Mercilessly Mocked Over All-Caps Russia Collusion Tweet', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/twitter-donald-trump-all-caps-tweet_us_5aa77d98e4b009b705d5ab08', 'short_description': '"WHY ARE WE YELLING?"', 'date': '2018-03-13'}

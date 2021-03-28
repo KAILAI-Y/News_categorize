@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Gunman Kills 9 Outside Coptic Church In Cairo', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/cairo-coptic-church-attack_us_5a467379e4b06d1621b85ba6', 'short_description': 'ISIS claimed responsibility for the attack.', 'date': '2017-12-29'}

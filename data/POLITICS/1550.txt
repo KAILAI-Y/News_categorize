@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Touts Tariffs At Rally For Embattled Pennsylvania Republican', 'authors': 'Steve Holland, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-pennsylvania-rally_us_5aa482d0e4b086698a9e6c3f', 'short_description': 'The president also said he hoped to run against Oprah. "I know her weakness."', 'date': '2018-03-11'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Needle Phobia Keeps Many Americans From Getting A Flu Shot', 'authors': 'Anna Almendrala', 'link': 'https://www.huffingtonpost.com/entry/flu-shots-needle-phobia-tips_us_59ce90e3e4b09538b5082e8f', 'short_description': 'Readers weigh in with their tips on keeping the fear at bay.', 'date': '2017-09-29'}

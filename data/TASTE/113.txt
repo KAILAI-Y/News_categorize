@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'The Great Candy Corn Debate Rages On Twitter', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/candy-corn-debate_us_59d23eb8e4b09538b50998f0', 'short_description': "It's BAAAAACK.", 'date': '2017-10-02'}

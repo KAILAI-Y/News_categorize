@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Yale Humanists Seek To Unite New Haven Community With Holiday Obelisk', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/humanist-obelisk-new-haven_us_5a3803c9e4b01d429ccb49a1', 'short_description': 'The group hopes the "Lighthouse" will inspire people of all faiths -- and no faith.', 'date': '2017-12-19'}

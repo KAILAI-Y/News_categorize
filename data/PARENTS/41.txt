@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'A Reminder That 2 Moms Made One Of The Funniest Videos Of 2017', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/viral-swimsuit-video-i-mom-so-hard_us_5a29be36e4b0a290f04f592e', 'short_description': "And it's never a bad time to watch it.", 'date': '2017-12-27'}

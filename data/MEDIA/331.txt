@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Newspaper's Botched Front Page Goes Down In Headline History", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/cambridge-news-headline-fail_us_5a290aa5e4b0fa7986122efb', 'short_description': 'For the wrong reason.', 'date': '2017-12-07'}

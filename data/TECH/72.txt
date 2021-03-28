@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Amazon Launches 'Secret' Cloud Service For Intelligence Agencies", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/amazon-secret-cloud-intelligence_us_5a13b28ae4b0bfa88c1ca7d6', 'short_description': 'Amazon Web Services Secret Region expands after some troubling cloud security screwups.', 'date': '2017-11-21'}

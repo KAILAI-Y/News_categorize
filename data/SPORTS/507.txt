@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Spanish Swimmer Forfeits World Championship Race To Honor Barcelona Attack Victims', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/spanish-swimmer-barcelona-tribute-fernando-alvarez_us_599c0b3ee4b04c532f442eb9', 'short_description': '"I felt better than if I won all the gold in the world."', 'date': '2017-08-22'}

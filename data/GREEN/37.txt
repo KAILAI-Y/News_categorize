@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "The Thomas Fire Is Now The Biggest In California's History", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/thomas-fire-biggest-in-california-history_us_5a3fe5aae4b0b0e5a7a2c65d', 'short_description': 'Firefighters continued battling the blaze over the holidays.', 'date': '2017-12-24'}

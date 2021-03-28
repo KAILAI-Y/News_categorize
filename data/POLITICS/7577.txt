@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New Yorker Cover Mocks Naughty Kids Donald Trump Jr. And Jared Kushner', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/new-yorker-cover-trump-children-jared-donald_us_5968ae2de4b0d6341fe815cd', 'short_description': "President Donald Trump scolds the duo in Barry Blitt's illustration.", 'date': '2017-07-14'}

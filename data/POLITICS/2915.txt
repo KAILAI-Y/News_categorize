@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Today Is The Anniversary Of The Worst Federal Education Law Ever Passed', 'authors': 'Diane Ravitch, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/no-child-left-behind-anniversary_us_5a538591e4b003133eca7a05', 'short_description': 'NCLB was the Death Star of American education.', 'date': '2018-01-08'}

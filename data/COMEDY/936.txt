@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The President Show' Brews A Political Cauldron For Trump's Own Witch Hunt", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-president-show-brews-a-political-cauldron-for-trumps-witch-hunt_us_594d35bbe4b05c37bb760b20', 'short_description': '"When you\'re a witch, they just let you do it."', 'date': '2017-06-23'}

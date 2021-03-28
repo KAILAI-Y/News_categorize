@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Harrowing Videos Show The Moments An Earthquake Struck Mexico', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/video-mexico-city-building-collapse_us_59c22363e4b0f22c4a8da656', 'short_description': 'A primary school and a major university were among the buildings destroyed.', 'date': '2017-09-20'}

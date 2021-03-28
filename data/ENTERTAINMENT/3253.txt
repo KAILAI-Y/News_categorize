@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'True Blood' Star Nelsan Ellis Dead At Just 39", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/true-blood-star-nelsan-ellis-dead-dies_us_5961327fe4b0615b9e91efaa', 'short_description': 'His manager has confirmed the news.', 'date': '2017-07-08'}

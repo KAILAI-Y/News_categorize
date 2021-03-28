@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Adam Pally Escorted Offstage For Trashing Terrible Award Show While He Presented', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/adam-pally-shorty-awards_us_5ad62c9de4b077c89ced441f', 'short_description': 'The “Most Likely to Murder” star became the “villain of the Shorty Awards.”', 'date': '2018-04-17'}

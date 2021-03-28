@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Conservative Supreme Court Majority Was Built To Crush Unions', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/janus-supreme-court-unions_us_5a95d39ae4b09c872baea8c9', 'short_description': "And that's just what it'll do.", 'date': '2018-02-28'}

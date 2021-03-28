@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher Mocks Devin Nunes’ Memo As Nothing More Than 'A Facebook Post'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-devin-nunes-memo-facebook-post_us_5a75878ce4b01ce33eb2fb19', 'short_description': '"It’s not an intelligence document."', 'date': '2018-02-03'}

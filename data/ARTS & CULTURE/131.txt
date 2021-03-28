@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Every 'Simpsons' Superfan Should Follow This Surreal Instagram Account", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/scenic-simpsons-instagram_us_59491930e4b0cddbb00962ca', 'short_description': 'Do you recognize this hallucinatory scene?', 'date': '2017-06-20'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Saudi Arabia Allows Girls To Take Physical Education Classes', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/saudi-arabia-physical-education_us_596681e9e4b0a0c6f1e59876', 'short_description': 'Critics who say female participation in sports is immodest blocked the move for years.', 'date': '2017-07-12'}

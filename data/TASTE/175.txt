@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "There's One Vegetable Michelle Obama Truly Hates", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-beets_us_599ecaf4e4b06d67e3359a91', 'short_description': 'Her stance is deeply rooted.', 'date': '2017-08-24'}

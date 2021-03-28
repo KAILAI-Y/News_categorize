@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Uber Pulls A U-Turn, Decides Tipping Is OK After All', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/uber-tipping_us_5949609de4b04c5e50255ac9', 'short_description': 'Pay has been a big issue for drivers.', 'date': '2017-06-20'}

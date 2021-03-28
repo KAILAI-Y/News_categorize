@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Watch Conan O'Brien Lose His Mind After Downing Espresso In Italy", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/watch-conan-obrien-lose-his-mind-after-downing-espresso-in-italy_us_5ad3eb60e4b077c89ce9b487', 'short_description': "He drank, he danced, he stole someone's shoes.", 'date': '2018-04-16'}

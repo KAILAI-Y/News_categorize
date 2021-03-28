@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jeffrey Tambor Quits 'Transparent' In Wake Of Harassment Allegations", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/jeffrey-tambor-transparent-allegations_us_5a11f4f3e4b0dd63b1ab1f30', 'short_description': 'The actor has been accused of sexual misconduct by two different women.', 'date': '2017-11-20'}

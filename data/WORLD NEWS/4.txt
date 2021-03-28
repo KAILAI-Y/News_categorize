@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Irish Voters Set To Liberalize Abortion Laws In Landslide, Exit Poll Signals', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/ireland-abortion-vote-exit-poll_us_5b087cebe4b0802d69cb40f1', 'short_description': 'Vote counting will begin Saturday.', 'date': '2018-05-25'}

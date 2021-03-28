@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon's Viewers Dream Of Some Pretty Dope Superpowers", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-viewers-superpowers_us_5ae30d91e4b055fd7fcb0bc2', 'short_description': 'The bag of chips one actually seems pretty sensible.', 'date': '2018-04-27'}

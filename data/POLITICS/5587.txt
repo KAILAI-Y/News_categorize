@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Ranted\xa0About Kneeling NFL Players. Obama Praised 'Their Right' To Protest.", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/obama-trump-colin-kaepernick_us_59c6c267e4b0cdc77331a94f', 'short_description': "Trump's denunciation of protesting athletes contrasts with Obama's nuanced view.", 'date': '2017-09-23'}

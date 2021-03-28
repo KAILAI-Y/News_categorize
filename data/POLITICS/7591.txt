@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Vox's Ezra Klein Breaks Down Why Donald Trump Jr.'s Emails Matter", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/vox-ezra-klein-breaks-down-why-trump-jrs-emails-matter_us_596702a5e4b0a0c6f1e5e5b4', 'short_description': '"I\'ve often wondered what it felt like to live through Watergate."', 'date': '2017-07-13'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Here's What 'Fox & Friends' Covered On Manafort Indictment Day", 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/fox-and-friend-manafort-indictment_us_59f74fa0e4b09b5c25675c24', 'short_description': 'A tale of Trump tweets, Dean Cain and an emoji cheeseburger.', 'date': '2017-10-30'}

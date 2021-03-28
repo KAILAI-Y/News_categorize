@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Kate Middleton Is Rocking A New Hairdo In Time For A Summer Trip', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/kate-middleton-new-hairdo-wimbledon_us_595a87b8e4b0da2c7324f21c', 'short_description': 'The royal was spotted with a shorter, wavy style at Wimbledon.', 'date': '2017-07-03'}

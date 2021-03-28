@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Tiffany Haddish Honors Late Father’s Roots In A Stunning African Gown', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/tiffany-haddish-honors-her-late-father-in-a-stunning-eritrean-grown_us_5a9c8d2ee4b0a0ba4ad49dda', 'short_description': '“The princess of Eritrea has arrived.”', 'date': '2018-03-05'}

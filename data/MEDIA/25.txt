@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Jake Tapper Grills Kellyanne Conway: I'd Like Trump To Stop Lying", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/jake-tapper-grills-kellyanne-conway-id-like-trump-to-stop-lying_us_5aefa1aee4b041fd2d280ea0', 'short_description': '"You just want that to go viral," Conway shot back.', 'date': '2018-05-07'}

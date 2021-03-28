@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Sean Hannity Wants Roseanne On His Show So Bad He Offered To Let Her Host', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-roseanne-barr-host_us_5abd51a3e4b0a47437a99bbc', 'short_description': '"Just say yes!" the Fox News host tweets.', 'date': '2018-03-29'}

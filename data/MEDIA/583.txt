@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'MSNBC Makes Network History With Stretch Of No. 1 Cable Ratings', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/msnbc-top-ratings-stretch_us_5976a14be4b0e201d57775e2', 'short_description': 'The channel enjoyed a week as the winner.', 'date': '2017-07-25'}

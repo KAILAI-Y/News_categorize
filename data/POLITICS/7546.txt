@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: Trumpcare Is On Life Support", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-trumpcare-is-on-life-support_us_5968aabbe4b03389bb168dc9', 'short_description': "The GOP still doesn't appear to have the votes.", 'date': '2017-07-14'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Someone Sent Steve Mnuchin A Box Of Poop For Christmas', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/steve-mnuchin-horse-poop_us_5a3f5d9fe4b025f99e179bc6', 'short_description': 'Talk about a crappy Christmas present!', 'date': '2017-12-24'}

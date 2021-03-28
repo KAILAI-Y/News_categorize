@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Lois Lanes Pay Tribute To The Late Margot Kidder: 'She Led The Way'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/margot-kidder-teri-hatcher-lois-lane_us_5af9e413e4b09a94524b1d6a', 'short_description': 'Actresses Teri Hatcher and Erica Durance remembered Kidder on social media.', 'date': '2018-05-14'}

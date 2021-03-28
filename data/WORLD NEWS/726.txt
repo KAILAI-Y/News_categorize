@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Former Bosnian Croat Official On Trial For War Crimes Dies After Drinking Poison In Court', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/slobodan-praljak-dies-poison_us_5a1ebb4fe4b0cb0e917cfe4b', 'short_description': 'Slobodan Praljak stood up and drank from a small vial.', 'date': '2017-11-29'}

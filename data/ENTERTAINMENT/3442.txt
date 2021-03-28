@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'There’s Going To Be A ‘Working Girl’ Musical With Songs By Cyndi Lauper', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/working-girl-musical-cyndi-lauper_us_59371e20e4b0ce1e7408a8eb', 'short_description': 'Girls just wanna have executive jobs.', 'date': '2017-06-06'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Here's The Absolute Best NFL Catch Of The Year So Far", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/cole-beasley-catch-cowboys_us_59b68a47e4b0354e44133565', 'short_description': "Cole Beasley makes like Odell Beckham Jr. for the Cowboys' highlight reel.", 'date': '2017-09-11'}

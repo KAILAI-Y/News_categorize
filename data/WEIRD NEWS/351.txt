@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Man Tries To Facebook-Shame Police For Bad Parking. It Hilariously Backfires.', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/police-bad-parking-facebook-scotland_us_59c38acce4b0c90504fbaafc', 'short_description': 'Officers in Scotland had the last laugh.', 'date': '2017-09-21'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Suzanne Somers Says She's 'Happy' About Trump", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/suzanne-somers-donald-trump_us_5a666801e4b002283005d308', 'short_description': 'She also joked that her political stance would kill her career.', 'date': '2018-01-22'}

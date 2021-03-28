@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Mummified Dog And Other Oddities 'Shatter Your Senses' In New Ripley's Book", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ripleys-shatter-your-senses-book_us_59ad6965e4b0dfaafcf1c75c', 'short_description': "The newest Ripley's book pictures the weirdest world possible.", 'date': '2017-09-04'}

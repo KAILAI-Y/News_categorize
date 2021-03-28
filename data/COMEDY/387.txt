@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Kids Deliver Brutal Review Of Donald Trump's First Year In Office For Jimmy Kimmel", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-kids-donald-trump_us_5a61b682e4b0125fd6358aac', 'short_description': '"He’s saved the world… from harmony."', 'date': '2018-01-19'}

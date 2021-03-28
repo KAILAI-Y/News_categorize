@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mueller Charges Lawyer With False Statements In Russia Probe', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/alex-van-der-zwaan-mueller-probe_us_5a8c336de4b09fc01e03a814', 'short_description': "He's also accused of deleting or otherwise not producing emails sought by the Special Counsel’s office.", 'date': '2018-02-20'}

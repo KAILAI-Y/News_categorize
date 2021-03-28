@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Terrorists Plow Into Pedestrians In 2 Deadly Attacks In Spain', 'authors': 'Nick Robins-Early, Carla Herreria, and Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/barcelona-car-plaza_us_5995b1a9e4b0acc593e5e287', 'short_description': 'At least 14 people were killed in the attacks.', 'date': '2017-08-17'}

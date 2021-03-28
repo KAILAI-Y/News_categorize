@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'How Leaving The Paris Accord Will Hurt Our Health', 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/how-leaving-the-paris-accord-will-hurt-our-health_us_59319e37e4b075bff0f2fc86', 'short_description': "We can't underestimate the link between climate change and our well-being.", 'date': '2017-06-05'}

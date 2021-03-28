@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Matt Lauer's First Accuser Lives 'In Constant Fear' Of Being Identified", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/matt-lauer-accuser-fear-of-being-identified_us_5a340f1ae4b0ff955ad2a291', 'short_description': "Her attorney said NBC hasn't done a very good job of protecting her privacy.", 'date': '2017-12-15'}

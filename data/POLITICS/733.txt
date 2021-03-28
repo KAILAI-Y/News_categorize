@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Spending Against Obamacare Plummets In 2018 Elections', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/gop-spending-health-care-ads_us_5ad7859ee4b03c426daac0ee', 'short_description': 'Democrats are on the offense, while Republicans have largely given up on health care as a campaign issue.', 'date': '2018-04-18'}

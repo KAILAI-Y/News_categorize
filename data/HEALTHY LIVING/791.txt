@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Why Do I Sweat So Much?', 'authors': 'SELF, ContributorSELF - Conde Nast', 'link': 'https://www.huffingtonpost.com/entry/why-do-i-sweat-so-much_us_5942bab6e4b0940f84fe2c8b', 'short_description': 'For all of us who leave any workout completely drenched in sweat.', 'date': '2017-06-15'}

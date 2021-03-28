@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Flying Into Hurricane Irma's Eye Looks As Scary As You Think It Would", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/hurricane-irma-eye-flying-noaa-airplane_us_59afb01be4b0dfaafcf3b685', 'short_description': "Intense video reveals what it's like to travel through the Category 5 storm.", 'date': '2017-09-06'}

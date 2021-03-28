@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: Hackers Reportedly Target U.S. Nuclear Plants", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-hackers-reportedly-target-us-nuclear-plants_us_595e824fe4b0d5b458e90cfa', 'short_description': 'In an attempt to disrupt the power grid.', 'date': '2017-07-07'}

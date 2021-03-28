@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Guide To The Ever-Evolving Cast Of Characters In Donald Trump Jr.’s Russian Meeting', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/who-was-at-trump-jr-meeting_us_596b9cdae4b0d6341fe9a0ba', 'short_description': 'Who was at the meeting?', 'date': '2017-07-16'}

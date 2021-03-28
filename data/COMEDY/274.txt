@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon Shares Viewers' Worst 'How I Got Dumped' Stories", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-how-i-got-dumped-stories_us_5a9a6c6de4b0479c0252c428', 'short_description': 'Some people are downright cruel.', 'date': '2018-03-03'}

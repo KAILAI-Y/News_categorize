@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'The World Cannot Wait — And Neither Will We,' 61 Mayors Pledge", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/cities-states-climate-leaders-trump-paris_us_593037a9e4b0e9a77a536fa9', 'short_description': 'Cities and states are ready to tackle the climate crisis without Trump.', 'date': '2017-06-01'}

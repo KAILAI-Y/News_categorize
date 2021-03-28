@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Interior Decorator: Zinke’s Push To Redesign Flags And Accessorize With Dead Animals', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/interior-department-ryan-zinke-flags-stuffed-animals_us_5a0369d7e4b0937b510f5554', 'short_description': '“You can’t make this stuff up."', 'date': '2017-11-14'}

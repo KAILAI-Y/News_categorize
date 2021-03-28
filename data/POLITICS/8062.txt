@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Elizabeth Warren Calls For Democrats To Embrace Single-Payer Health Care', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/elizabeth-warren-single-payer_us_595256bfe4b02734df2d528f', 'short_description': "Obamacare was based on ''a conservative model,'' the Massachusetts Democrat says.", 'date': '2017-06-27'}

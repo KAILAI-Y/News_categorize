@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Luke From 'Gilmore Girls' Is Getting His Own Line Of Coffee", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/luke-gilmore-girls-coffee_us_5953ae82e4b0da2c732010be', 'short_description': "We have a feeling Lorelai would've loved this.", 'date': '2017-06-28'}

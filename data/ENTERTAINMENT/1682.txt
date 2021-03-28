@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Demi Lovato Felt Insecure, But Posted This Bathing Suit Photo Anyway', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/demi-lovato-instagram-bathing-suit_us_5a4e3a61e4b06d1621bd8c84', 'short_description': 'The pop star opened up about her ongoing eating disorder recovery.', 'date': '2018-01-04'}

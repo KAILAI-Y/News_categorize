@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Australian Woman Discovers Message In A Bottle Sent In 1886', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/oldest-message-in-bottle_us_5aa036d9e4b0e9381c14d579', 'short_description': "The handwriting and details in the note matched with the captain's log of a German ship.", 'date': '2018-03-07'}

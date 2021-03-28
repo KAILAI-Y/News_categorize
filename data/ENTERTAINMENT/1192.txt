@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'U.S. Figure Skating Team Makes History With Record Number Of Asian-Americans', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/us-figure-skating-asian-americans_us_5a7defbbe4b08dfc9303e5c4', 'short_description': 'The team is already scoring points for representation.', 'date': '2018-02-09'}

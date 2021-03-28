@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jared Kushner's Security Clearance Is Now A Step Below 'White House Calligrapher'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-security-clearance-white-house-calligrapher_us_5a98ddaae4b089ec3538bdb4', 'short_description': "...and yes, that's an actual job.", 'date': '2018-03-02'}

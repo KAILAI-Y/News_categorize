@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mitt Romney Says He's More Of A Hawk Than Trump On Immigration", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/mitt-romney-hawk-immigration-trump_us_5abb5daae4b06409775b60ee', 'short_description': 'DACA recipients need to justify their right to remain in the United States, he said.', 'date': '2018-03-28'}

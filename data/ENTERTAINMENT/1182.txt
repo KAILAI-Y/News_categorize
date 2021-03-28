@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Seth Meyers' 'Newspaper Movie' Parody Might Be Better Than 'The Post'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/seth-myers-newspaper-movie_us_5a7dbc56e4b044b3821cb267', 'short_description': 'There, we said it.', 'date': '2018-02-09'}

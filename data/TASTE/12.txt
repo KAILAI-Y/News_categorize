@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Blue Apron Now Has A Whole30 Meal Plan, But Only Through February', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/blue-apron-whole-30-meal-plan-program-new-year_us_5a466e7ee4b06d1621b855d0', 'short_description': 'The promotion ends Feb. 26 🥗', 'date': '2017-12-29'}

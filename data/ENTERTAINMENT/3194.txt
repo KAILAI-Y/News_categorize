@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Oprah Is Magical In The First Trailer For 'A Wrinkle In Time'", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/first-a-wrinkle-in-time-trailer-includes-magical-oprah-debut_us_59698661e4b03389bb178e6d', 'short_description': 'This is on our list of favorite things.', 'date': '2017-07-15'}

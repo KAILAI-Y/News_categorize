@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "President Trump's War On Children", 'authors': "Marian Wright Edelman, ContributorPresident, Children's Defense Fund", 'link': 'https://www.huffingtonpost.com/entry/president-trumps-war-on-children_us_5928c107e4b0a7b7b469ca76', 'short_description': 'This draconian budget erodes the security of our nation’s future.', 'date': '2017-05-27'}

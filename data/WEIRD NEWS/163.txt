@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "This Bar Says It Will Kick You Out If You Use The Word 'Literally'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/bar-literally-kick-you-out_us_5a6a4031e4b06e253265d6e7', 'short_description': 'Will they? Like, literally?', 'date': '2018-01-26'}

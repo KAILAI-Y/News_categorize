@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "We Tested The New 'Tearless' Onions To See If They Really Work", 'authors': 'Kristen Aiken', 'link': 'https://www.huffingtonpost.com/entry/sunions-tearless-onions_us_5a4fa3c2e4b003133ec776d5', 'short_description': 'Put away your goggles, people.', 'date': '2018-01-08'}

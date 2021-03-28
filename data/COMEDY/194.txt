@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Dana Carvey’s John Bolton Is A Shampoo-Swilling, ’Stache-Stroking Nutball', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/dana-carvey-john-bolton_us_5abc8b70e4b04a59a3146d7b', 'short_description': "You'll laugh until you start trembling in fear.", 'date': '2018-03-29'}

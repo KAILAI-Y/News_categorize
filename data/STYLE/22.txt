@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '12 Commute-Worthy Leather Backpacks Under $200', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/commuter-bag-leather-backpacks-under-200_us_5a53eb0ce4b003133ecb6951', 'short_description': 'Commute in style 💼', 'date': '2018-01-08'}

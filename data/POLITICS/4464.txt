@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Watch Unmarried Women In Virginia’s Election', 'authors': 'Page Gardner, ContributorFounder of VPC and WVWVAF', 'link': 'https://www.huffingtonpost.com/entry/watch-unmarried-women-in-virginias-election_us_5a00e3afe4b066c2c039b889', 'short_description': 'Unmarried women have the power to make or break an election.', 'date': '2017-11-06'}

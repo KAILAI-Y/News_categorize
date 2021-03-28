@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Nick Jonas Wants To Find Forever Homes For These Adorable Rescue Puppies', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/nick-jonas-late-show-puppies_us_5a325904e4b091ca26859453', 'short_description': 'Can he make their holiday dreams come true?', 'date': '2017-12-14'}

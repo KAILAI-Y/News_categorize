@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democratic Consultants Are Salivating Over GOP Votes For Tax Plan', 'authors': 'Robert Creamer, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/democratic-consultants-are-salivating-over-gop-votes_us_5a1ffe84e4b02edd56c6d709', 'short_description': 'The TV spots write themselves.', 'date': '2017-11-30'}

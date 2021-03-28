@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Even France's Far-Right Doesn't Like Trump", 'authors': 'Nick Robins-Early & Romain Herreros, HuffPost', 'link': 'https://www.huffingtonpost.com/entry/france-trump-far-right_us_59fb4c67e4b0415a420a4211', 'short_description': 'A new poll shows that French distaste for the American president keeps growing.', 'date': '2017-11-03'}

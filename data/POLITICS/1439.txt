@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Officially Names CNBC Commentator Larry Kudlow As Economic Adviser', 'authors': 'Susan Heavey, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-larry-kudlow-economic-adviser_us_5aaa592de4b0f4aaa1141c99', 'short_description': 'Kudlow initially made the announcement on-air.', 'date': '2018-03-15'}

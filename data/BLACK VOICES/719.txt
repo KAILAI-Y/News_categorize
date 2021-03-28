@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Amandla Stenberg And Janelle Monáe On Racism In Hollywood, Trump Era', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/amandla-stenberg-janelle-monae-racism-trump_us_5995ecd3e4b0e8cc855c287c', 'short_description': 'The ladies opened up about their emotions on election night.', 'date': '2017-08-18'}

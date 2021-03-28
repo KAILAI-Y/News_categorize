@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Rex Tillerson Leaves With A Shattered Reputation And A Broken Department', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/rex-tillerson-trump-state-secretary-history_us_5a205cb7e4b03350e0b53464', 'short_description': '“I’m not going anywhere,” the ousted secretary of state vowed in July.', 'date': '2018-03-13'}

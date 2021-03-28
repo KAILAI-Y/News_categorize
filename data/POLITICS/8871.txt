@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Fake U.S. Immigration Control Posters Found In Washington', 'authors': 'Ian Simpson, Reuters', 'link': 'https://www.huffingtonpost.com/entry/ice-immigration-posters-washington_us_59309045e4b075bff0f1d479', 'short_description': 'The bogus posters bear the seal of the Department of Homeland Security.', 'date': '2017-06-01'}

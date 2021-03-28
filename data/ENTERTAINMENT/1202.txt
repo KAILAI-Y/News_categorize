@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'A Phone Dying Has Never Been This Heartbreaking Or Hilarious', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/a-phone-dying-heartbreaking-sad-college-humor_us_5a7cbbb0e4b08dfc9301d0fa', 'short_description': '"Can we get a charger in here, please?!"', 'date': '2018-02-08'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Colin Kaepernick Wants To Join Diddy's Quest For NFL Ownership", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/colin-kaepernick-wants-to-join-diddys-quest-for-nfl-ownership_us_5a37e274e4b01d429ccad1a2', 'short_description': '"Let’s make it happen!” the former quarterback tweeted.', 'date': '2017-12-18'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Fake Eclipse Glasses Have Disastrously Funny Results On 'Conan'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/fake-eclipse-glasses-have-disastrously-funny-results-on-conan_us_599c0008e4b0771ecb070201', 'short_description': 'Lesson learned.', 'date': '2017-08-22'}

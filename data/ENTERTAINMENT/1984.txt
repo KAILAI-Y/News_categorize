@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Melissa Schuman Explains Why She Came Forward With Nick Carter Rape Accusation', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/melissa-schuman-nick-carter-dr-oz_us_5a206a03e4b03c44072c1be1', 'short_description': 'A good friend convinced her that the time was right.', 'date': '2017-11-30'}

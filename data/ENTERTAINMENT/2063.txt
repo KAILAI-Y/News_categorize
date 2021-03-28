@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mel Gibson Sure Hopes Weinstein Misconduct Reports Are 'Precursor To Change'", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/mel-gibson-weinstein-accusations-change_us_5a1458e6e4b0bfa88c1d77fd', 'short_description': 'Huh.', 'date': '2017-11-21'}

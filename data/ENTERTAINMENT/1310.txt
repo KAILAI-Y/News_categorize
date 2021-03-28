@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chrissy Teigen Awkwardly Bowed To Beyoncé Because, Um, Wouldn't You?", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-awkwardly-bowed-to-beyonce-because-um-wouldnt-you_us_5a71cd71e4b0be822ba231cf', 'short_description': 'Big mood.', 'date': '2018-01-31'}

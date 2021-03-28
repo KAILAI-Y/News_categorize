@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "This Mom's Fart Story Is Going Viral Because Everyone Can Relate", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/moms-fart-yoga-viral-everyone-relates_us_5974c4fae4b00e4363e01b2e', 'short_description': '"I farted at yoga. I’m a walking cliche.”', 'date': '2017-07-23'}

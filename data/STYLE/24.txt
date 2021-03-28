@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'The Fear Of Hair Is A Real Thing, Explaining Why Your Drain Is Such A Nightmare', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/fear-of-hair_us_5a4e6311e4b025f99e20b482', 'short_description': 'Try not to gag.', 'date': '2018-01-05'}

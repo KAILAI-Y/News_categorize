@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Allies Sign Landmark Trade Pact As Trump Announces Tariffs', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/tpp-signed-trump-tariffs_us_5aa24809e4b01b9b0a39f9c6', 'short_description': 'Trump pulled out of the Trans-Pacific Partnership last year.', 'date': '2018-03-09'}

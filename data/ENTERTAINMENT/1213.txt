@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Sarah Jessica Parker Sends Condolences To Kim Cattrall After Brother Dies', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/sarah-jessica-parker-offers-condolence-to-kim-cattrall-after-brother-dies_us_5a7afff1e4b06505b4e9f9ef', 'short_description': 'Maybe their rift got a little smaller.', 'date': '2018-02-07'}

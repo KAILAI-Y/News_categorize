@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Turns Donald Trump's 'Knives' Comment Into Reggae Magic", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-knives_us_5af32a52e4b0859d11cfbf6f', 'short_description': 'Hearing is believing.', 'date': '2018-05-09'}

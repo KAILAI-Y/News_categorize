@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Cambridge Analytica Founder Once Compared Trump To Hitler', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/cambridge-analytica-trump-hitler_us_5ad609fde4b077c89ced02cd', 'short_description': 'Trump vilified Muslims the same way Hitler vilified Jews, Nigel Oakes said.', 'date': '2018-04-17'}

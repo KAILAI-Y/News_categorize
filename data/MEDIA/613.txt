@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'The Wall Street Journal Admits It Has A Gender Problem, Pledges To Fix It', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/wall-street-journal-gender-diversity_us_59652005e4b09b587d62d0ff', 'short_description': 'Reporters inside the paper are skeptical about the plan.', 'date': '2017-07-11'}

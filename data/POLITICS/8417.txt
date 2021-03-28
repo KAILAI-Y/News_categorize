@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'ACLU Stalls Trump’s Plan To Deport Iraqi Christians', 'authors': 'Akbar Shahid Ahmed', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-iraqi-christians-aclu_us_59415667e4b09ad4fbe4ce41', 'short_description': '“Our immigration policy shouldn’t amount to a death sentence for anyone," the ACLU says.', 'date': '2017-06-15'}

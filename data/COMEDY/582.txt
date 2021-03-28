@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Asks People If Hillary Clinton Should Be Impeached', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-hillary-clinton-impeached_us_5a0c0f03e4b0b17ffce1480e', 'short_description': 'Most demanded her removal from office, even though...', 'date': '2017-11-15'}

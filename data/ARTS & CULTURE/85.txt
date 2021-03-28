@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Amazon Exec Suggests Publishers Could Promote Books By Slashing Prices', 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/amazon-publishers-could-promote-books-by-slashing-prices_us_59aea545e4b0dfaafcf28dc0', 'short_description': "That's probably a bad idea.", 'date': '2017-09-06'}

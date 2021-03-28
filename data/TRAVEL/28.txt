@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Personal Information Of 880,000 Orbitz Customers Likely Breached', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/personal-information-of-880000-orbitz-customers-likely-breached_us_5ab1112ee4b00549ac7f69d0', 'short_description': 'The company says payment information may have been accessed.', 'date': '2018-03-20'}

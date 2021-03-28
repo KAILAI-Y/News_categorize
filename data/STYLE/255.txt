@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "These Pics Of Cindy Crawford's Daughter, Kaia Gerber, Will Give You Déjà Vu", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kaia-gerber-calvin-klein-cindy-crawford_us_59b2c07de4b0b5e531060e77', 'short_description': 'She got it from her mama.', 'date': '2017-09-08'}

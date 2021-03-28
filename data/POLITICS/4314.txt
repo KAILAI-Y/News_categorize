@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Sides With Putin Over U.S. Intelligence On Election Meddling', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-putin-election-hacking_us_5a06de14e4b01d21c83ebdf7', 'short_description': 'He also took shots at the former heads of national intelligence, the CIA and the FBI.', 'date': '2017-11-11'}

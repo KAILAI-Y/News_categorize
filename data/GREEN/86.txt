@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Great White Shark Attacks California Spear Fisherman Off Pebble Beach', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/fisherman-sharkattack-pebble-beach_us_5a1a42dee4b0d4906caf3d5e', 'short_description': 'The 25-year-old suffered major bite wounds to right thigh in "horrifying" encounter.', 'date': '2017-11-26'}

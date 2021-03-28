@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Leah Remini Suggests Scientology Is Behind Paul Haggis Sexual Misconduct Claims', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/leah-remini-scientology-paul-haggis_us_5a5dfd38e4b03c418968f71a', 'short_description': 'The actress calls rape allegations against the director "very suspect."', 'date': '2018-01-16'}

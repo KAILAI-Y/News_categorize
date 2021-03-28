@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'To Understand The Trump-Russia Scandal, Follow The Rubles', 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/trump-russia-follow-the-rubles_us_596534a4e4b005b0fdc95140', 'short_description': 'The advice of Deep Throat -- or Глубокая глотка -- still applies, and the special counsel knows it.', 'date': '2017-07-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump On Fox Savages 'Leaker' Schiff Who Has 'Probably' Done Something 'Illegal''", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-savages-leaker-schiff-on-fox_us_5a925436e4b0ee6416a3edc7', 'short_description': 'Then president pleads that "we have to come together as a nation."', 'date': '2018-02-25'}

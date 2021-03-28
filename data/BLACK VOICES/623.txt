@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Issa Rae's Unapologetic Support Of Black Stars At The Emmys Is A Mood", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/issa-raes-emmys-rooting-for-everybody-black_us_59bfc875e4b0edff971d96a2', 'short_description': '“I’m rooting for everybody black."', 'date': '2017-09-18'}

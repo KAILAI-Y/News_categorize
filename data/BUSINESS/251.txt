@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Paid Family Leave Is Not Just A Women's Issue", 'authors': 'Mark Weinberger, ContributorGlobal Chairman and CEO, EY', 'link': 'https://www.huffingtonpost.com/entry/paid-family-leave-is-a-work-incentive_us_596dc8dae4b0376db8b65ac8', 'short_description': 'It is a business issue and an economic imperative.', 'date': '2017-07-18'}

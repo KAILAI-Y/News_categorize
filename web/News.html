@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>News Categorized</title>
+    <link rel="stylesheet" type="text/css" href="News.css">
+	</head>
+	<body>
+    <script>
+      window.onload = function() {
+        var url = "http://127.0.0.1:8080/result.json"
+        var request = new XMLHttpRequest();
+        request.open("GET", url);
+        request.send(null);
+        request.onload = function(){
+          if(request.status == 200){
+            var json = JSON.parse(request.responseText);
+            
+            function uniqueCategory(json_file, key){
+            var only_key = [], whole_json = [];
+            for(let i=0; i<json_file.length; i++){
+              if(only_key.indexOf(json_file[i][key]) == -1){
+                only_key.push(json_file[i][key]);
+                whole_json.push(json_file[i]);
+              }
+            }
+            return only_key;
+            }
+
+            var category = uniqueCategory(json, 'category');
+            var left_ul = document.querySelector(".left ul");
+            for(var i= 0; i<category.length; i++){
+              var left_li = document.createElement("li");
+              var left_a = document.createElement("a");
+              var add_left_li = left_ul.appendChild(left_li);
+              var add_left_a = add_left_li.appendChild(left_a);
+              // add_left_a.href = "#" + category[i];
+              add_left_a.innerText = category[i];
+            }
+
+
+            var right = document.querySelector(".right");
+            for(var i =0; i<category.length; i++){
+              var right_ul = document.createElement("ul");
+              var add_right_ul = right.appendChild(right_ul);
+              // console.log(add_right_ul)
+              for(var j=0; j<json.length; j++){
+                if(json[j].category == category[i]){
+                  var right_li = document.createElement("li");
+                  var right_a = document.createElement("a");
+                  var add_right_li = add_right_ul.appendChild(right_li);
+                  var add_right_a = add_right_li.appendChild(right_a);
+                // console.log(json[i].category)
+                  add_right_a.innerText = json[j].title;
+                  add_right_a.href = json[j].url;
+                }
+              }
+            }
+            
+
+            var left_li = document.querySelectorAll(".left li");
+            var right = document.getElementsByClassName("right");
+            console.log(right);
+            var right_ul = document.querySelectorAll(".right ul");
+            console.log(right_ul);
+            
+            for(var i=0; i<left_li.length; i++){
+              left_li[i].classList.remove("active");
+              if(right_ul[i]) right_ul[i].setAttribute("class", "hidden");
+            }
+            left_li[0].setAttribute("class","active");
+            if(right_ul[0]) right_ul[0].classList.remove("hidden");
+
+            for(var i=0; i<left_li.length; i++){
+              left_li[i].index = i;
+              left_li[i].onclick = function(){
+                for(var j=0; j<left_li.length; j++){
+                  left_li[j].classList.remove("active");
+                  if(right_ul[j]) right_ul[j].setAttribute("class", "hidden");
+                }
+                this.setAttribute("class", "active");
+                if(right_ul[this.index]) right_ul[this.index].classList.remove("hidden");
+              }
+            }
+            
+          }
+        }
+      }
+    </script>
+    <div class="container">
+      <h1>Google News Top Stories Classify</h1>
+      <div class="content">	
+        <div class="left">
+          <ul id="left_tab">
+          </ul>
+        </div>
+        <div class="right">
+        </div>
+      </div>
+    </div>
+	</body>
+</html>

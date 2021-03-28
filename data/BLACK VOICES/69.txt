@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Confederate Statue In New Orleans Spray-Painted With 'F**k This S**t'", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/confederate-statue-new-orleans-vandalized_us_5ae8885be4b04aa23f273d74', 'short_description': 'The monument has been vandalized at least twice before.', 'date': '2018-05-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bernie Sanders Congratulates Jeremy Corbyn On U.K. Election Gains', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-congratulates-jeremy-corbyn_us_593a98c2e4b0b13f2c699ce5', 'short_description': '"There is a real similarity between what he has done and what I did," Sanders said.', 'date': '2017-06-09'}

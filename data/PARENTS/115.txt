@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Adorable Holiday Ad Shows Friendships Can Form In The Most Surprising Ways', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/john-lewis-christmas-ad-2017-moz-monster_us_5a058383e4b0e37d2f36f20b', 'short_description': 'The holidays are coming!', 'date': '2017-11-10'}

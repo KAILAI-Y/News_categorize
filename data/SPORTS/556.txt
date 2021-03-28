@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "'How Many Reds Does It Take To Catch A Pop Fly?'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/how-many-reds-does-it-take-to-catch-a-pop-fly_us_593febf2e4b0b13f2c6de76c', 'short_description': 'Supply your own punchline.', 'date': '2017-06-13'}

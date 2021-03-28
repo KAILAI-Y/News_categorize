@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Some Guy Secretly Edited Pennywise Into His Sister's Engagement Pics", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/pennywise-engagement-photos_us_59eda102e4b0958c4682eed5', 'short_description': 'Brilliantly terrifying. Terrifyingly brilliant.', 'date': '2017-10-23'}

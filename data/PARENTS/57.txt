@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Little Sheep Goes Rogue At Nativity Scene, Sparks Tussle At The Manger', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/little-sheep-manger-tussle_us_5a33e043e4b040881be9e2fe', 'short_description': 'This sheep stole the show (and baby Jesus).', 'date': '2017-12-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Jr. Gets In A Snit Over Accurate BBC Headline About Ronny Jackson', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-bbc-tweet-ronny-jackson_us_5abd2678e4b06409775e561b', 'short_description': "He can't handle the truth.", 'date': '2018-03-29'}

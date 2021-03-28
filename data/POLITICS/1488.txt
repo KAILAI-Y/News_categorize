@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Blames 'Lackluster' Candidate And His 'Porn Stache' For Pennsylvania Setback", 'authors': 'Amanda Terkel, Daniel Marans, and Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/rick-saccone-republicans_us_5aa89295e4b0f7a689cd75ee', 'short_description': 'Ice cold.', 'date': '2018-03-14'}

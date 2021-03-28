@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'This Michael B. Jordan Story Shows How DM-ing A Celebrity Can Pay Off', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/michael-b-jordan-dms-student_us_5aeaed74e4b00f70f0efba2b', 'short_description': '“I almost passed out when I realized he messaged me back."', 'date': '2018-05-03'}

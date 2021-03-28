@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Feminist In The Kitchen', 'authors': 'Lucy Harbron, Contributor19 year old writer, editor and literature student', 'link': 'https://www.huffingtonpost.com/entry/feminist-in-the-kitchen_us_592b2789e4b07d848fdc04c6', 'short_description': 'Cooking is an exercise of choice and action.', 'date': '2017-05-28'}

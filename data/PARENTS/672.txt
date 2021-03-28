@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Thanks Dads', 'authors': 'Mary Bell, ContributorDriving Home', 'link': 'https://www.huffingtonpost.com/entry/thanks-dads_us_59415eb0e4b0d99b4c92106e', 'short_description': '“A family needs a father to anchor it.”- L. Tom Perry A few years ago I was jogging at a resort in Laguna Nigel. My feet', 'date': '2017-06-17'}

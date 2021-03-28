@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Vin Diesel Actually Dressed As Groot For 'Avengers: Infinity War' Premiere", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/vin-diesel-actually-dressed-as-groot-for-avengers-infinity-war-premiere_us_5adf3b75e4b061c0bfa22359', 'short_description': 'When will your fave?', 'date': '2018-04-24'}

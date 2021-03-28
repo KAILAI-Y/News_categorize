@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Devon Gales Was Paralyzed Playing Football. He Just Walked Again.', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/devon-gales-was-paralyzed-playing-football-he-just-walked-again_us_59283587e4b06f608053dd03', 'short_description': '"I\'m on the way!"', 'date': '2017-05-26'}

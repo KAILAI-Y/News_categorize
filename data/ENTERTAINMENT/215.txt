@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jordan Peele's 'New Nightmare' Is Coming Out Next Year", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/jordan-peele-reveals-details-of-his-next-film-us_us_5af23d9ee4b0aab8a78a0c4b', 'short_description': 'The film "Us" will hit theaters next March.', 'date': '2018-05-09'}

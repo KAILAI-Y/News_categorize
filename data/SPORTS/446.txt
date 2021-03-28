@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Looks Like O.J. Simpson Will Be A Free Man Very, Very Soon', 'authors': 'Dan Whitcomb, Reuters', 'link': 'https://www.huffingtonpost.com/entry/oj-simpson-imminent-release-from-nevada-prison_us_59cfa8c7e4b06791bb10d0d5', 'short_description': 'As soon as Sunday, even.', 'date': '2017-09-30'}

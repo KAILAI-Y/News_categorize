@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jim Carrey Taunts 'Psycho' Mike Pence With Biting New Portrait", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jim-carrey-mike-pence-portrait_us_5af68e00e4b032b10bfaed86', 'short_description': '"They\'ll see and they\'ll know..."', 'date': '2018-05-12'}

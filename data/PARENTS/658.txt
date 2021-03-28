@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "The Issue With Wishing Someone A 'Happy And Healthy' Baby", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/the-issue-with-wishing-someone-a-happy-and-healthy-baby_us_59494080e4b07d3e35d87220', 'short_description': 'A blogger opened up about the impact of the common phrase.', 'date': '2017-06-20'}

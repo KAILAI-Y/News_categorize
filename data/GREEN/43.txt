@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Stargazers Rejoice: U.S. Gets Its First International Dark Sky Reserve', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/dark-sky-reserve-idaho_us_5a3a78d2e4b06d1621b1024b', 'short_description': 'The 1,400-square-mile area in central Idaho offers brilliant views of the night sky.', 'date': '2017-12-20'}

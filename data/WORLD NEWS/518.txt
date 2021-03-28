@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'North And South Korea Begin First Formal Talks In More Than 2 Years', 'authors': 'Christine Kim, Reuters', 'link': 'https://www.huffingtonpost.com/entry/north-south-korea-talks_us_5a5419ede4b003133ecb7c8c', 'short_description': 'The upcoming Winter Olympics helped break the ice', 'date': '2018-01-09'}

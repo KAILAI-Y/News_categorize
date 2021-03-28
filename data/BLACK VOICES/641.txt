@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'This Doll Aims To Empower Kids With Albinism And Dispel Harmful Myths', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/doll-empower-kids-with-albinism_us_59b8244ce4b086432b01f3bd', 'short_description': "Alexa is the newest edition to Mala Bryan's doll collection.", 'date': '2017-09-13'}

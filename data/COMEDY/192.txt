@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Previews The 'Uncomfortable Questions' Trump May Answer Under Oath", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-brain-settings_us_5abc3d16e4b04a59a31443ba', 'short_description': '"Late Show" host said the president could be forced to dish some dirty details.', 'date': '2018-03-29'}

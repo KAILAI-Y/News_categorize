@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Michelle Wolf's Netflix Show Trailer Came Out This Weekend Too", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/michelle-wolf-netflix-show-trailer_us_5ae75e87e4b04aa23f25ea27', 'short_description': 'Netflix struck while the iron was hot.', 'date': '2018-04-30'}

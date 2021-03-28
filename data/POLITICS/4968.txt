@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Could Have Expected Drug Czar Meltdown', 'authors': 'Jason Cherkis', 'link': 'https://www.huffingtonpost.com/entry/trump-drug-czar-tom-marino_us_59e60123e4b02a215b333038', 'short_description': 'The issues that sunk Rep. Tom Marino were well known.', 'date': '2017-10-17'}

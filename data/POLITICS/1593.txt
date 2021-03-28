@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Florida Gov. Rick Scott Signs Gun Bill That Arms Some School Staff Into Law', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/rick-scott-florida-gun-bill-parkland-shooting_us_5aa2ed3ce4b07047bec674f7', 'short_description': 'The bill also contained several gun control measures.', 'date': '2018-03-09'}

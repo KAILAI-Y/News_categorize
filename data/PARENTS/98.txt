@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Girl Scouts Urges Parents To Not Force Kids To Hug Relatives During The Holidays', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/girl-scouts-hugs-consent_us_5a15b131e4b09650540ee237', 'short_description': '"She doesn\'t owe anyone a hug."', 'date': '2017-11-22'}

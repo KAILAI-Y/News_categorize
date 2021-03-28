@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Trade War Could Cost The GOP At The Ballot Box', 'authors': 'Igor Bobic and Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/trump-tariffs-china-gop_us_5ac50846e4b09ef3b242f442', 'short_description': 'It’s just another way Donald Trump is making life harder for Republicans.', 'date': '2018-04-04'}

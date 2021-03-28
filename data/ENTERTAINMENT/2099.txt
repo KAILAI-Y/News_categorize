@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Trevor Noah Asks: #YouToo, Al? Blames All Men', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-al-franken_us_5a0e7e00e4b045cf4370906a', 'short_description': 'At all levels, we "perpetuate a culture that devalues women."', 'date': '2017-11-17'}

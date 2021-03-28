@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Melania Trump's Davos Cancellation A 'Subliminal Message' To Donald: Historian", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/melania-trump-davos-message_us_5a67c901e4b0dc592a0dafad', 'short_description': 'The first lady has kept a low profile since the Stormy Daniels allegations.', 'date': '2018-01-24'}

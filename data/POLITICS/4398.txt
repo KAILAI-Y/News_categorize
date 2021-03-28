@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Politically-Incorrect Message To Trump Supporters', 'authors': 'Alejandra Zilak, ContributorWriter', 'link': 'https://www.huffingtonpost.com/entry/a-non-pc-letter-to-trump-supporters_us_5803d471e4b0f42ad3d2639f', 'short_description': 'Thank God for the electoral college.', 'date': '2017-11-08'}

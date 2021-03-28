@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Washington Players Celebrate On The Field With Simulated 'Stop And Frisk'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/washington-players-stop-and-frisk-is-one-arresting-celebration_us_59e4c7dfe4b04d1d518358ee', 'short_description': 'Protest or put-on?', 'date': '2017-10-16'}

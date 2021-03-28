@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Media, Democrats Have Created 'More Chaos' Than Russians, Says White House Spokesman", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/dems-media-more-chaos-than-russia_us_5a88fdc1e4b00bc49f44ea00', 'short_description': 'Twitter: "That\'s exactly what the Russian troll farm tweets say."', 'date': '2018-02-18'}

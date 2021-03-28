@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Kamala Harris To Co-Sponsor Bernie Sanders' Single Payer Bill", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/kamala-harris-bernie-sanders-single-payer_us_59a813c4e4b07e81d355a3ec', 'short_description': 'The revelation was a two-fold win for progressive activists.', 'date': '2017-08-31'}

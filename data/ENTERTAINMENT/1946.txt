@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jordan Peele Responding To 'Get Out' Fan Theories Is As Funny As You'd Expect", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/jordan-peele-responding-to-get-out-fan-theories-is-as-funny-as-youd-expect_us_5a257f03e4b0a02abe92de2f', 'short_description': '"Man ... the power of marijuana."', 'date': '2017-12-04'}

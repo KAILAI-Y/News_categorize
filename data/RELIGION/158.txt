@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'This Holocaust Survivor Finally Got A Bar Mitzvah', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/this-holocaust-survivor-finally-got-a-bar-mitzvah_us_59a9a815e4b0354e440a48f7', 'short_description': 'At 93, better late than never!', 'date': '2017-09-01'}

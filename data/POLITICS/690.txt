@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Twitter Users Taunt Rudy Giuliani Over New Role On Trump Legal Team', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rudy-giuliani-donald-trump-legal-reaction_us_5ad99114e4b0e4d0715ef53c', 'short_description': '"Let’s bring back an unpopular character from Season One!"', 'date': '2018-04-20'}

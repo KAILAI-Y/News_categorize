@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Just Won A Massive Victory For Voting Rights In Virginia', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/democrats-virginia-voting-rights_us_5a03582ce4b03deac08ab6d6', 'short_description': "Ralph Northam's win could have consequences for more than a decade.", 'date': '2017-11-08'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Anderson Cooper Shreds 'Incoherent' Trump: 'Like A Crazy Person On A Park Bench'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/anderson-cooper-donald-trump-park-bench_us_5ae28812e4b02baed1b88f70', 'short_description': "CNN host tries in vain to make sense of Trump's Fox News interview.", 'date': '2018-04-27'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '5 Shows On Netflix With Better Politicians Than Donald Trump', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/netflix-politicians-trump_us_5a6f64c1e4b01fbbefb4ac71', 'short_description': "Stream these if you can't bring yourself to watch the State of the Union.", 'date': '2018-01-30'}

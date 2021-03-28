@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': '1,300-Pound Great White Shark Named Hilton Spotted Near Florida Panhandle', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/great-white-shark-hilton-florida_us_5ae4ca8ee4b055fd7fcc4601', 'short_description': "It's the first time researchers have seen Hilton in the Gulf of Mexico.", 'date': '2018-04-28'}

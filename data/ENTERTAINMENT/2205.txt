@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Perfect Stranger Things' Is The '80s Mashup You Need In Your Life", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/perfect-strangers-stranger-things-jimmy-kimmel-mashup_us_5a0178eee4b066c2c039e980', 'short_description': 'Welcome back, Larry and Balki!', 'date': '2017-11-07'}

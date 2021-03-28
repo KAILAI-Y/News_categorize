@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seeing Conan Work At A Famous Soul Food Joint Will Tickle Your Ribs', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/conan-working-at-a-famous-soul-food-joint-will-tickle-your-ribs_us_5a04a4fae4b03deac08c0831', 'short_description': '"I\'m not a white girl. I\'m a dude."', 'date': '2017-11-09'}

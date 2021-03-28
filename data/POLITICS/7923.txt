@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Food Stamps Are Holding Up The Republican Agenda', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/republicans-food-stamps-budget_us_5956a35ee4b02734df32408a', 'short_description': 'The GOP is having a nasty family feud over the Supplemental Nutrition Assistance Program.', 'date': '2017-07-01'}

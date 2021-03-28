@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Meryl Streep Joins HBO's 'Big Little Lies' For Season 2", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/meryl-streep-big-little-lies_us_5a68fc66e4b0022830092631', 'short_description': 'The actress joins the smash HBO series on the heels of her 21st Oscar nod.', 'date': '2018-01-24'}

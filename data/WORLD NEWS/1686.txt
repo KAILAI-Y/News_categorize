@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'The End Of The Battle For Mosul Brings The Start Of A Huge Task To Rebuild', 'authors': 'Eline Gordts', 'link': 'https://www.huffingtonpost.com/entry/mosul-reconstruction_us_59627854e4b0d5b458eb3b9a', 'short_description': 'The destruction caused by nine months of fierce fighting comes into plain sight.', 'date': '2017-07-09'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Harrison Ford Helps Rescue Woman After She Crashes Off The Highway', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/harrison-ford-rescue-car-crash_us_5a12ecede4b0e97dffeee43f', 'short_description': 'Our hero again. Sigh.', 'date': '2017-11-20'}

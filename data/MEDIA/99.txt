@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Your New Most-Watched Cable News Host Is ... Rachel Maddow', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/rachel-maddow-most-watched-news-sean-hannity_us_5ac63180e4b09ef3b2445458', 'short_description': 'Sean Hannity has been dethroned.', 'date': '2018-04-05'}

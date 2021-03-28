@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "9 Times International McDonald's Schooled Us With Their Superior Menu Items", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/mcdonalds-menu_us_5952789de4b0da2c731ec2c0', 'short_description': 'YUM.', 'date': '2017-06-28'}

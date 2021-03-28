@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Jessica Alba Reveals What It Would Take For Her To Act Again', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/the-only-way-jessica-alba-would-consider-acting-again_us_5a2975cae4b0fa798612d4c1', 'short_description': 'The actress says it would "feel weird" without it.', 'date': '2017-12-07'}

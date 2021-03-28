@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Yes, San Juan Mayor Carmen Yulín Cruz's 'Nasty' Shirt Was Aimed At Trump", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/carmen-yulin-cruz-nasty-shirt-univision_us_59d46461e4b0218923e62c85', 'short_description': 'The mayor wore the defiant shirt during an interview with Univision.', 'date': '2017-10-05'}

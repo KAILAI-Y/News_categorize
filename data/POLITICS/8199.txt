@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democratic Support For Single-Payer Health Care Is Rising', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/democratic-support-for-single-payer-health-care-is-rising_us_594d8acde4b05c37bb768420', 'short_description': 'And more of the latest polling news.', 'date': '2017-06-23'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trump's Call For A 'Space Force' Makes Him The Laughingstock Of The Galaxy", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-space-force_us_5aa87feae4b0f7a689cd5c29', 'short_description': 'The sci-fi proposal is being treated like a comedy.', 'date': '2018-03-14'}

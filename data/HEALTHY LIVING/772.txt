@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'What We Know About The Link Between Fever During Pregnancy And Autism', 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/fever-pregnancy-autism_us_5940221ae4b02402687d2939', 'short_description': 'New research provides intriguing clues about how inflammation affects pregnancy.', 'date': '2017-06-19'}

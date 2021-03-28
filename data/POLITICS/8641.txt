@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here Are The Latest Photos From James Comey's Appearance On Capitol Hill", 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/james-comey-testimony-photos_us_59394c64e4b0061054801922', 'short_description': 'The time has come.', 'date': '2017-06-08'}

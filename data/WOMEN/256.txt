@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 50 Funniest Tweets From Women In 2017', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-50-funniest-tweets-from-women-in-2017_us_5a381471e4b0860bf4aa339e', 'short_description': 'Finish off the year with a laugh.', 'date': '2017-12-21'}

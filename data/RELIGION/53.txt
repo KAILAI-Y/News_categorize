@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Pope Accuses Clergy Sex Abuse Victims Of Slander', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/pope-accuses-sexvictims-slander_us_5a6183d8e4b0125fd6356578', 'short_description': 'The victims claim Bishop Juan Barros protected a pedophile priest.', 'date': '2018-01-19'}

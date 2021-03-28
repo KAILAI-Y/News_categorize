@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Twitter Went Nuts Over This Sea Creature That Looks Like A Penis', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/twitter-penis-shaped-sea-creature_us_5946ad46e4b0f15cd5bc23ef', 'short_description': 'Anyone up for a deep sea expedition?', 'date': '2017-06-18'}

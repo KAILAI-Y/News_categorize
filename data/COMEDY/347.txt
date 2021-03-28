@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Fake Melania Trump Puts The President On Notice In New ‘Colbert’ Appearance', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-fake-melania_us_5a72c832e4b0bf6e6e21b81b', 'short_description': 'Watch the bogus FLOTUS dish on the state of her marriage.', 'date': '2018-02-01'}

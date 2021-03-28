@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Late Show' Got A Sneak Peek Into Donald Jr.'s Spam Folder", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-late-show-got-a-sneak-peek-into-donald-jrs-spam-folder_us_5965320ae4b005b0fdc94dda', 'short_description': "But would you even WANT to see what's inside?", 'date': '2017-07-12'}

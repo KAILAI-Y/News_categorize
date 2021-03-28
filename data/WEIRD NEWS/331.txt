@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Brooklyn Superhero Store Offers Only The Best Superhero Supplies', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/brooklyn-superhero-supply-store_us_59dfa86ee4b00abf36473233', 'short_description': "There's a wind machine so aspiring Avengers can test their capes before purchase.", 'date': '2017-10-12'}

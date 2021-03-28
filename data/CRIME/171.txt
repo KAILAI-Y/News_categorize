@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Missing Daughters Of Slain Texas Woman Found Safe (UPDATE)', 'authors': 'Mary Papenfuss and Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/amber-alert-for-texas-daughters_us_5a4b1312e4b06d1621ba43bd', 'short_description': 'Police have a suspect in custody.', 'date': '2018-01-02'}

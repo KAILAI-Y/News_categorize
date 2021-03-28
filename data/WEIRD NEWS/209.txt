@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Snoop Dogg Teams Up With Jack In The Box For $4.20 Stoner Combo', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/snoop-dogg-jack-in-the-box-munchie-meal_us_5a467d80e4b025f99e1b32a7', 'short_description': 'Sadly, the munchie meal will only be available in California for a short time.', 'date': '2017-12-29'}

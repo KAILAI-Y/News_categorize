@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Woman Captures What We All Would Look Like If We Saw Beyoncé In Person', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/women-beyonce-picture_us_5a6f3d1ae4b0ddb658c8e2e7', 'short_description': 'The backstage Grammys moment is too relatable.', 'date': '2018-01-29'}

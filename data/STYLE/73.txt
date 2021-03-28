@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Sorry, You Can't Just Blame Your Mother's Father For Your Thinning Hair", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/hair-thinning-genetics_us_5a26c959e4b069df71fa12f1', 'short_description': 'Experts explain the truth about a common hair myth.', 'date': '2017-12-06'}

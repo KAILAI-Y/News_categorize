@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How Do Americans Feel About Their Finances? It Depends On Whether You Mention Trump.', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/how-americans-feel-finances-trump_us_5980c71be4b00bb8ff3a2266', 'short_description': "The president's name has a polarizing effect in polls.", 'date': '2017-08-01'}

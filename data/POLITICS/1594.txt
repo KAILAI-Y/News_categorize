@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'NRA Sues To Block Brand-New Gun Law In Florida', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/nra-sues-florida-gun-law_us_5aa316cae4b07047bec69568', 'short_description': 'Group moves to protect the gun-buying "constitutional rights" of 18 to 20 year olds.', 'date': '2018-03-09'}

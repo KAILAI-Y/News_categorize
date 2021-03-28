@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'These Photos Show The Strength Of Students As They Protest Gun Violence', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/photos-show-the-strength-of-students-as-they-protest-gun-violence_us_5aa9226be4b0f7a689ce404a', 'short_description': 'Images from school walkouts across the country.', 'date': '2018-03-14'}

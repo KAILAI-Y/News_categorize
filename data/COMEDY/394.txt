@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Imagines What A Donald Trump Porn Video Would Look Like', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-donald-trump-porn-video-would-look-like_us_5a606454e4b0ccf9f121965f', 'short_description': '"That was far and away the greatest sex you’ve ever had."', 'date': '2018-01-18'}

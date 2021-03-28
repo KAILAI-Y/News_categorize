@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Russia-Linked Facebook Ads Specifically Targeted Michigan & Wisconsin', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/russia-facebook-michigan-wisconsin_us_59d4c904e4b0218923e69311', 'short_description': 'They promoted anti-Muslim sentiment, CNN reported.', 'date': '2017-10-04'}

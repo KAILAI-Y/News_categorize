@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "John Cena Reveals His Daily Manscaping Routine, And It's A LOT To Handle", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/john-cena-manscaping_us_596cbd53e4b03389bb18e657', 'short_description': "We don't envy him.", 'date': '2017-07-17'}

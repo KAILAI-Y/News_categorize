@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'This Veteran Is Helping Others Fight PTSD -- With Horses', 'authors': 'Catharine Smith', 'link': 'https://www.huffingtonpost.com/entry/warrior-outreach-horse-riding-ptsd_us_5978b5dfe4b0a8a40e848c64', 'short_description': 'Twenty veterans die by suicide every day.', 'date': '2017-09-22'}

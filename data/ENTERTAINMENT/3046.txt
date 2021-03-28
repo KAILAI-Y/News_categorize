@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Beyoncé Reportedly Looking To Buy Ownership Stake In Houston Rockets', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/beyonce-report-own-houston-rockets-nba_us_5981d08de4b0353fbb33d1e1', 'short_description': 'This family is all about their hometown teams.', 'date': '2017-08-02'}

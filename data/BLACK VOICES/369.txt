@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Dear White People' Cast, Crew Honor Jordan Edwards With Scholarship Fund", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/dear-white-people-jordan-edwards-scholarship_us_5a5e47c6e4b03bb8f5a119c2', 'short_description': 'A Texas cop gunned down the 15-year-old as he was leaving a party.', 'date': '2018-01-16'}

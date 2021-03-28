@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Gloria Steinem Just Went To Her First Fashion Week Show', 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/gloria-steinem-first-fashion-week-prabal-gurung_us_59b69cb2e4b036fd85cc9234', 'short_description': 'And she sat front row with Huma Abedin, obvs.', 'date': '2017-09-11'}

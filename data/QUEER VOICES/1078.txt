@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Outfest 2017 Highlights', 'authors': 'Rachel Leyco', 'link': 'https://www.huffingtonpost.com/entry/outfest-2017-highlights_us_597670e3e4b0e201d5775e52', 'short_description': 'Eleven days of films. Eleven days of events. Eleven days of creating change. One story at a time. Outfest is the leading', 'date': '2017-07-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Senators Believe Roy Moore's Accusers But Not Donald Trump's", 'authors': 'Jennifer Bendery and Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-trump-accusers_us_5a0b63d0e4b0bc648a0e8541', 'short_description': "They have no idea why and don't want to talk about it.", 'date': '2017-11-14'}

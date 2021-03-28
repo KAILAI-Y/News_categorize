@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Beware Of The Average White Man', 'authors': 'P.L. Thomas, ContributorP.L. Thomas , professor of education (Furman University, Green...', 'link': 'https://www.huffingtonpost.com/entry/beware-the-average-white-man_us_5a23f56ee4b0545e64bf942e', 'short_description': 'I am afraid of the truth about being male.', 'date': '2017-12-03'}

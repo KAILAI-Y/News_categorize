@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Coming War With Iran?', 'authors': "John Feffer, ContributorDirector, Foreign Policy In Focus; Author, 'Aftershock: A Jour...", 'link': 'https://www.huffingtonpost.com/entry/the-coming-war-with-iran_us_594ec1fce4b0f078efd9821c', 'short_description': 'Iran has loomed as the primary bogeyman of the Trump crowd.', 'date': '2017-06-24'}

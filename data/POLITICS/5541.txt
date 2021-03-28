@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Sweetens Healthcare Bill For Conservatives By Dropping Birth Control Coverage Rule', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/gop-health-care-bill-birth-control_us_59c94c08e4b06ddf45fa4446', 'short_description': '55 million women stand to lose contraception coverage.', 'date': '2017-09-25'}

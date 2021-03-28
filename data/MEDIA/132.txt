@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Stormy Daniels' Attorney Gets Into It With Michael Cohen's Lawyer In Live TV Duel", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stormy-daniels-lawyer-cnn-michael-cohen_us_5ab1daabe4b008c9e5f28b40', 'short_description': '“You’re gonna go down in flames!"', 'date': '2018-03-21'}

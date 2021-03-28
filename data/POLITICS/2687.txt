@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Steve Bannon Refused To Answer Congress's Questions In Russia Probe, Says Top Democrat", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-russia-executive-privilege_us_5a5ebf11e4b0ee2ff32b849e', 'short_description': 'Bannon invoked executive privilege, Rep. Adam Schiff said.', 'date': '2018-01-17'}

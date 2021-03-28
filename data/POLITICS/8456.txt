@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Suspect In Shooting Of GOP Congressmen Identified As James Hodgkinson', 'authors': 'Nick Baumann, Sam Levine, and Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/congressman-baseball-shooter_us_594127cbe4b0d3185486289d', 'short_description': 'Donald Trump announced that Hodgkinson has died.', 'date': '2017-06-14'}

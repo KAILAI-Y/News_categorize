@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Read Jared Kushner's Statement On His Meetings With Russians", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-statement_us_5975d54ce4b09e5f6cd090e8', 'short_description': '“I did not collude," he tells congressional committees.', 'date': '2017-07-24'}

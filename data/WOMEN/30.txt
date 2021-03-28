@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Jessica Chastain Sums Up The Problem With The Phrase 'Be A Man' In 1 Tweet", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/jessica-chastain-be-a-man-tweet_us_5ae71325e4b02baed1bc69e4', 'short_description': '"The old fashioned stereotype doesn\'t work," the actress tweeted.', 'date': '2018-04-30'}

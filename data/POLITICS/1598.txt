@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Accuser Jessica Drake Named In Stormy Daniels' Nondisclosure Agreement", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/jessica-drake-stormy-daniels-trump_us_5aa1c7f2e4b01b9b0a39a37d', 'short_description': 'She was at the same Lake Tahoe event where Trump allegedly chatted up Stormy.', 'date': '2018-03-09'}

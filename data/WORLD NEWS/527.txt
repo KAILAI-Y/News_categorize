@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Moments After Midnight, Same Sex Couples Marry In Australia', 'authors': 'Eoin Blackwell', 'link': 'https://www.huffingtonpost.com/entry/same-sex-marriage-australia_us_5a544ca0e4b0efe47ebc117a', 'short_description': 'Tuesday marked the first day that gay couples could wed without a waiver.', 'date': '2018-01-09'}

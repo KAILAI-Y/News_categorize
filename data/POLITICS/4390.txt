@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Folks Are Sharing How Much They’ve Changed In The Year Since The Presidential Election', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/meme-election-day-changed-donald-trump_us_5a02b571e4b092053058e07e', 'short_description': "It ain't pretty.", 'date': '2017-11-08'}

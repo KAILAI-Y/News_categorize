@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Celebrities Remember Dick Gregory, A 'Comedic Master' And ‘Hero For Civil Rights’", 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/dick-gregory-twitter-celebrity-reaction_us_5999456fe4b0e8cc855e1f83', 'short_description': 'Gregory died on Saturday at age 84.', 'date': '2017-08-20'}

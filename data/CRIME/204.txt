@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Teen Suspect Sought In Disturbing Cat-Throwing Video', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/teen-suspect-sought-in-disturbing-cat-throwing-video_us_5a2538b1e4b0a02abe92599f', 'short_description': 'Ontario, California, police say they have identified the suspect but have not yet found him.', 'date': '2017-12-04'}

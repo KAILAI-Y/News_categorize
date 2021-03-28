@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Watch This Magician's Friend Ruin Every Single Trick He Attempts", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/a-gan-pokerface-man-bad-magic-tricks_us_5a04a0cbe4b0f76b05c43362', 'short_description': 'With friends like this, who needs enemies?', 'date': '2017-11-09'}

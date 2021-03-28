@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Former Trump Adviser Says He'd Rather See Doug Jones In Office Than 'Disaster' Roy Moore", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-advisor-roy-moore-loser_us_5a1be2dbe4b0649480755e15', 'short_description': '"I would break with the president on this," David Urban said.', 'date': '2017-11-27'}

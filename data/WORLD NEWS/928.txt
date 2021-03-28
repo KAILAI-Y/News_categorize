@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Catalan Leader Backs Off Calling Regional Election', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/catalan-snap-election_us_59f1e8dee4b043885915b440', 'short_description': 'Carles Puigdemont said he had not received enough guarantees that the move would stop Spain imposing direct rule.', 'date': '2017-10-26'}

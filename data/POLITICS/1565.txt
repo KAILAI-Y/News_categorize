@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Departing U.S. Ambassador To Panama Slams Trump's 'Jingoistic Chest-Beating'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/john-feeley-jingoistic-chest-beating_us_5aa3310ae4b086698a9de360', 'short_description': 'John Feeley let loose on the White House after leaving his post this week.', 'date': '2018-03-10'}

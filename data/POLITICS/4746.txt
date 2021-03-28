@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Nuclear Dreams", 'authors': "Rebecca Gordon, ContributorAuthor, 'American Nuremberg: The U.S. Officials Who Should Sta...", 'link': 'https://www.huffingtonpost.com/entry/trumps-nuclear-dreams_us_59f21596e4b03cd20b80370c', 'short_description': 'Nightmares past and present.', 'date': '2017-10-26'}

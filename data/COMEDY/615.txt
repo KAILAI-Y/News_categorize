@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Oliver Exposes Tax Breaks Wasted On Weird Ideas Like A 'Floating F**k Zoo'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-tax-incentives_us_5a001958e4b04cdbeb345e4d', 'short_description': 'The "Last Week Tonight" host takes down poorly regulated economic incentives.', 'date': '2017-11-06'}

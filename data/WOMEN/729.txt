@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "'The Bachelorette' Nonchalantly Praised Therapy And It Was Great", 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/the-bachelorette-peter-rachel-therapy-talk-ftw_us_592d96b8e4b053f2d2ae618d', 'short_description': "Here's why it matters.", 'date': '2017-05-30'}

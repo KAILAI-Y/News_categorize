@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Eyeing the Midterms, Some Republican Women Are Taking On The 'Aging, White' GOP", 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/republican-women-midterm-election_us_5a7e098ce4b044b3821d5888', 'short_description': 'Republican women candidates are fighting for a voice.', 'date': '2018-02-12'}

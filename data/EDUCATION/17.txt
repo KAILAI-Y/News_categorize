@@ -1,0 +1,1 @@
+{'category': 'EDUCATION', 'headline': 'How American High Schools Teach The Iraq War', 'authors': 'Nick Robins-Early and Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/iraq-high-school-us-curriculum_us_5aa2fc8be4b086698a9dd08b', 'short_description': "It's hard to teach history that isn't quite history yet.", 'date': '2018-03-17'}

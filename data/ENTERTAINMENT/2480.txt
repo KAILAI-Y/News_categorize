@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Harry Potter Fans Will Siriusly Love This New Line Of Eco-Conscious Jewelry', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/harry-potter-jewelry_us_59db83f8e4b0f6eed351bed3', 'short_description': 'Find your magic ✨', 'date': '2017-10-09'}

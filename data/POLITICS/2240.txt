@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Saw A Military Parade In France And Now He Wants One Of His Very Own', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/trump-military-parade_us_5a7a3d9ae4b0d0ef3c0a716c', 'short_description': "And it looks like he's going to get it.", 'date': '2018-02-07'}

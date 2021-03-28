@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Pita Taufatofua Goes Shirtless One Last Time For Closing Ceremony', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/pita-tufatofua-olympics-closing-ceremony_us_5a9218c0e4b0ee6416a3e353', 'short_description': 'The Tongan flag bearer and cross-country skier stole the show once more.', 'date': '2018-02-25'}

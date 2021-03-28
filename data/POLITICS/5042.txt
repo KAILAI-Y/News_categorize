@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Americans Really Don't Want Trump To Sabotage Obamacare, Poll Finds", 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/trump-obamacare-sabotage-poll_us_59e0e5f1e4b04d1d51816774', 'short_description': "More than 7 in 10 think it's his job to make the program work, not to drive it to fail.", 'date': '2017-10-13'}

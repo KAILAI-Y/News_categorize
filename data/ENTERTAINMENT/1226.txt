@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Will Smith Expertly Trolls Son Jaden, Recreates His 'Icon' Music Video", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/will-smith-trolls-jaden-smith-icon_us_5a7ac278e4b06505b4e98788', 'short_description': 'Spot the difference...', 'date': '2018-02-07'}

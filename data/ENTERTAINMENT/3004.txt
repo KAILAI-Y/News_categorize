@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jason Momoa's Reaction To That 'Game Of Thrones' Battle Is So Khal Drogo", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/jason-momoas-reaction-to-that-game-of-thrones-battle-is-so-khal-drogo_us_5988ca4fe4b0449ed5047839', 'short_description': 'The Moon of our Life is back!', 'date': '2017-08-07'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Actor Richard Dreyfuss Denies Exposing Himself To Writer', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/dreyfuss-denies-exposing-himself_us_5a092685e4b0e37d2f386134', 'short_description': 'But concedes he was an "asshole" and a horrible "flirt."', 'date': '2017-11-13'}

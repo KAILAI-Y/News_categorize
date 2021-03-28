@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Ryan Coogler Speaks Out Against Harvey Weinstein', 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/ryan-coogler-speaks-out-against-harvey-weinstein_us_59dd05b4e4b01df09b767d6b', 'short_description': 'The "Black Panther" director said he is "disturbed and saddened" by the Weinstein news.', 'date': '2017-10-12'}

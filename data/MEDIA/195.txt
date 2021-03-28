@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Local News Station Runs Graphic Confusing ‘Pyeongchang 2018’ With ‘P.F. Chang 2018’', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/olympics-pf-chang-pyeongchang_us_5a82309ce4b00ecc923d5071', 'short_description': 'A spokesperson apologized for the "mix-up."', 'date': '2018-02-13'}

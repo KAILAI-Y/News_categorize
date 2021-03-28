@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Expected To Rescind DACA, Senior Official Says', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-expected-to-rescind-daca-senior-official-says_us_59a86531e4b0dfaafceee44b', 'short_description': 'Approximately 600, 000 people are covered by the Obama-era rule.', 'date': '2017-08-31'}

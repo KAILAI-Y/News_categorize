@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Just When 2018 Couldn’t Get Weirder, Duchess Kate’s Fingers Became A Story', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/kate-middleton-finger-length_us_5aa639e7e4b07047bec7f833', 'short_description': 'Her fingers even became a Twitter Moment.', 'date': '2018-03-12'}

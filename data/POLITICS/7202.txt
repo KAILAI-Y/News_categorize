@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Be All You Can Be*', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/be-all-you-can-be_us_597912e3e4b02a8434b39545', 'short_description': 'The president discovers a sure cure for economic anxiety', 'date': '2017-07-26'}

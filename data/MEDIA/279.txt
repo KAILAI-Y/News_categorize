@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Fitness Chain Bans Cable News For Not Being Part Of A Healthy Lifestyle', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/life-time-fitness-cable-news-gym_us_5a550468e4b0efe47ebd7c47', 'short_description': 'Some members think the decision smacks of censorship.', 'date': '2018-01-09'}

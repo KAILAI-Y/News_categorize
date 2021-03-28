@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Trump Tweeted Support For The Women's Marches. It Backfired.", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/trump-tweeted-support-womens-march_us_5a63add0e4b0dc592a095932', 'short_description': '"Who wants to tell him?"', 'date': '2018-01-20'}

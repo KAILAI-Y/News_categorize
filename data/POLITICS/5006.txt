@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Says There's 'No Such Thing As Obamacare Anymore' One Month Before Enrollment Starts", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-obamacare-dead_us_59e4de47e4b0a52aca19aefb', 'short_description': "It's still the law of the land.", 'date': '2017-10-16'}

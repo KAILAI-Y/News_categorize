@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Maisie Williams To Be Sophie Turner’s Bridesmaid Because Duh', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/maisie-williams-sophie-turner-bridesmaid_us_5a673d48e4b0022830069677', 'short_description': 'Starks stick together.', 'date': '2018-01-23'}

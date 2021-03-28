@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Tweets Against His Own Administration On FISA, Backpedals Hours Later', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-fisa-tweets_us_5a578237e4b0616638289a68', 'short_description': 'The mind of a "very stable genius" works in mysterious ways, apparently.', 'date': '2018-01-11'}

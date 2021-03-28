@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Donald Trump Gets Brutally Honest With Himself In New 'The Simpsons' Short", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/the-simpsons-donald-trump-nightmare_us_5ab5ffefe4b054d118e2dccc', 'short_description': "The president takes a hard look in the mirror, but there's a twist in the tale.", 'date': '2018-03-24'}

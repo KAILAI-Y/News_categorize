@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'How Not To Hide Your Pregnancy In An Underwear Ad, A Kylie Jenner Story', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kylie-jenner-underwear-ad_us_5a662098e4b0dc592a0b4a81', 'short_description': 'Girl, just tell us already.', 'date': '2018-01-22'}

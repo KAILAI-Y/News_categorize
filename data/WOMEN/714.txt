@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Women Can Go Topless At This Maryland Beach... For Now', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/ocean-city-topless_us_593b6519e4b0b13f2c6ac170', 'short_description': "But Ocean City's mayor is vowing to fight back.", 'date': '2017-06-10'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "James Corden Sends 297 Copies Of 'Philadelphia' To Donald Trump", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/james-corden-sends-297-copies-of-philadelphia-to-donald-trump_us_594a315ce4b00cdb99cb4bff', 'short_description': 'He hopes to enlighten the president on AIDS.', 'date': '2017-06-21'}

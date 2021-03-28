@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "LGBTQ Groups Slam DOJ Directive As A 'License To Discriminate'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/jeff-sessions-religious-freedom-guidance_us_59d7dc20e4b072637c43f6b6', 'short_description': 'The "impact will be devastating," one queer rights advocate wrote.', 'date': '2017-10-06'}

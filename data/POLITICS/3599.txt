@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: Inside The Voucher Schools Championed By Betsy DeVos", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-inside-the-voucher-schools-championed-by-betsy-devos_us_5a2a81e8e4b0a290f04ff594', 'short_description': 'And bankrolled by taxpayer money.', 'date': '2017-12-08'}

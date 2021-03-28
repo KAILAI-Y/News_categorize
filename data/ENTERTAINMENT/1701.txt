@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Women Make History In Dominating 2017 Movie Box Office', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/women-make-history-in-dominating-2017-movie-box-office_us_5a4b7d12e4b06d1621bac0c0', 'short_description': 'This shift is long overdue.', 'date': '2018-01-02'}

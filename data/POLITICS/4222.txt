@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Republicans Grapple With How To Answer The Roy Moore Question', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/senate-republicans-roy-moore_us_5a0a5a89e4b00a6eece3c489', 'short_description': "It's more complicated than just saying you don't support the Alabama nominee.", 'date': '2017-11-14'}

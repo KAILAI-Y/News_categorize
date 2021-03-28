@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Louis C.K.'s Manager Admits Wrongdoing In Quieting The Comedian's Accusers", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/louis-ck-dave-becky-apology_us_5a0a0a0fe4b00a6eece39d98', 'short_description': '"This is not an excuse. What I did was wrong."', 'date': '2017-11-13'}

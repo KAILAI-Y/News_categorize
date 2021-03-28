@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bad Policy Threatens Promise Of Expanded Use Of Police Body Cameras', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/police-body-camera-policy_us_5a0a22bfe4b0bc648a0d5419', 'short_description': 'Many departments have rules that limit accountability and transparency, according to a new report.', 'date': '2017-11-14'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Taylor Swift's Lawyers Set To Make Opening Statement In Groping Trial", 'authors': 'Keith Coffman, Reuters', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-lawyers_us_5989a92de4b0a66b8bae930b', 'short_description': 'She made it into the courtroom without being spotted by the media on Monday.', 'date': '2017-08-08'}

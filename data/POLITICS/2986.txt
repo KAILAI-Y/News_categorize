@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mapping A World From Hell', 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/mapping-a-world-from-hell_us_5a4e5c98e4b06d1621bdde93', 'short_description': "76 countries are now involved in Washington's war on terror.", 'date': '2018-01-04'}

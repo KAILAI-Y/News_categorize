@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Giant Penis Mural To Be Painted Over After Stiff Resistance From Locals [NSFW]', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/penis-mural-stockholm_us_5ad10f7ae4b077c89ce888b3', 'short_description': 'One could argue the artist got shafted.', 'date': '2018-04-14'}

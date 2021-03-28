@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chris Harrison Is Sorry And Also Not Sorry About 'Bachelor In Paradise'", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/chris-harrison-bachelor-in-paradise_us_5978e6fbe4b02a4ebb72502e', 'short_description': "Mistakes were made, but also mistakes weren't really made.", 'date': '2017-07-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "McConnell Says Republicans Got More Out Of Trump's Fiscal Deal Than People Think", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/mcconnell-fiscal-deal-trump_us_59b7eee6e4b09be416583d12', 'short_description': "But despite the Senate majority leader's spin, the GOP hand appears weak.", 'date': '2017-09-12'}

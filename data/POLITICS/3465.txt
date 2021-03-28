@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Roy Moore Rode In To Vote On A Horse Named 'Sassy'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-horse_us_5a300c7ae4b01598ac488372', 'short_description': 'Yes, this is real.', 'date': '2017-12-12'}

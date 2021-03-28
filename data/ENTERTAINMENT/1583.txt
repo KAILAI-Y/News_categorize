@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Greta Gerwig Says She Regrets Working With Woody Allen', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/greta-gerwig-regrets-woody-allen_us_5a55d376e4b0d614e48add90', 'short_description': '"I increased another woman’s pain, and I was heartbroken by that realization."', 'date': '2018-01-10'}

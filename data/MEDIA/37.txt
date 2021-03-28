@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Fox News Reporter: Sarah Huckabee Sanders Deserves Apology After Press Dinner', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/fox-news-ed-henry-sarah-huckabee-sanders-apology_us_5ae61aeee4b04aa23f242818', 'short_description': 'Comedian Michelle Wolf is "mean, hateful and vile," Ed Henry said.', 'date': '2018-04-29'}

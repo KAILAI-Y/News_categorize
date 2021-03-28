@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'RIP, MS Paint', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/rip-ms-paint_us_59762480e4b0e201d576c7c9', 'short_description': 'Microsoft declared its beloved graphics program "deprecated" and said updates will cease this year.', 'date': '2017-07-24'}

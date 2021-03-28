@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "School Homework Asks Kids To Give 3 'Good' Reasons For Slavery", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/school-homework-good-reasons-slavery_us_5a566d6be4b08a1f624af02f', 'short_description': '“I feel there is no good reason for slavery," one fourth-grader wrote.', 'date': '2018-01-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Religious Leaders Decry The Basic Immorality Of GOP Health Care Bill', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/religious-leaders-decry-the-immorality-of-gop-health-care-bill_us_595534a5e4b05c37bb7cc9f4', 'short_description': '“When our democracy is sick, we must be the healers,”', 'date': '2017-06-30'}

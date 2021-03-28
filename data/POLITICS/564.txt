@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump And The Next Crash', 'authors': 'TomDispatch, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/the-return-of-the-great-meltdown_us_5ae33439e4b0d538c22dfc14', 'short_description': 'Making the fed an instrument for disaster', 'date': '2018-04-27'}

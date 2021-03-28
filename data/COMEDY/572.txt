@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "This Is What Happens When An 'SNL' Writer Explores History's Power Couples", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/this-is-what-happens-when-an-snl-writer-explores-historys-power-couples_us_5a0db0d6e4b0b17e5e148730', 'short_description': 'Before we had Brangelina or Kimye.', 'date': '2017-11-16'}

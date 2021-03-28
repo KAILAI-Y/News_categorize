@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Steam, Your Kids' Favorite Video Game App, Has A Big Nazi Problem", 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/steam-video-games-nazis_us_5aa006cae4b0e9381c146438', 'short_description': "It's not the games you should worry about. It's the social platform that allows hate to thrive.", 'date': '2018-03-08'}

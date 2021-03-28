@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'These Black Friday Deals On Fitbits Will Get You Moving', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/black-friday-deals-on-fitbits_us_5a0dd08be4b0b17e5e14e3fd', 'short_description': 'Deals worth jumping on 🏃', 'date': '2017-11-16'}

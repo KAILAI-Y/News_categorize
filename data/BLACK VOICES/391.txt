@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "LeBron James Has The Best Response To H&M's Racist Online Ad", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/lebron-james-hm_us_5a54b3f9e4b01e1a4b196c54', 'short_description': '“U got us all wrong! And we ain’t going for it! Straight up!"', 'date': '2018-01-09'}

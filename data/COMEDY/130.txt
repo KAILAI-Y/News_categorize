@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Just Sincerely Praised Donald Trump For Something', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-compliment_us_5ad83df5e4b0e4d0715d510f', 'short_description': '“I know our first instinct is to hate, but..."', 'date': '2018-04-19'}

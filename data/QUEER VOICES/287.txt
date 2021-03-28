@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Russell Tovey Announces His Engagement To Boyfriend Steve Brockman', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/russell-tovey-engaged_us_5a8b5154e4b09fc01e0289b1', 'short_description': 'The "Quantico" and "Looking" star is said to be "very, very happy."', 'date': '2018-02-20'}

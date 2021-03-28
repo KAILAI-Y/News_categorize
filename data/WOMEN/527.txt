@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "No, I'm Not Good, But I'm Okay", 'authors': 'Lindsay Detwiler, ContributorContemporary romance author, high school English teacher, anim...', 'link': 'https://www.huffingtonpost.com/entry/no-im-not-good-but-im-okay_us_59ab3bc7e4b0bef3378cd92d', 'short_description': 'Stop perpetuating the lie that life is perfect.', 'date': '2017-09-02'}

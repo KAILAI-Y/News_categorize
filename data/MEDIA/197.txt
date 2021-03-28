@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Katie Couric Is Skating On Thin Ice With Dutch Olympics Fans', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/katie-couric-dutch-skating_us_5a8134fbe4b08dfc930585f5', 'short_description': "Her comments about speed skating aren't going over well.", 'date': '2018-02-12'}

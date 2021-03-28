@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Family's Fabulous Pet Chicken Gets Own Obituary In Local Newspaper", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/big-mama-chicken_us_5a68ce35e4b002283008dbcf', 'short_description': 'RIP, Big Mama.', 'date': '2018-01-27'}

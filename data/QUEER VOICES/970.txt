@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'What Happens When Your Chronically Single Gay Pal Starts Dating?', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/indoor-boys-laura-episode-5_us_598e1f41e4b08a2472747edb', 'short_description': 'Find out on this week\'s "Indoor Boys." 👬', 'date': '2017-08-13'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Burger King Trolls McDonald's By Expertly Hijacking 'It' Screening", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/burger-king-mcdonalds-trolls-it-clown_us_59d75c9ee4b072637c435bab', 'short_description': "Ronald will not be lovin' this.", 'date': '2017-10-06'}

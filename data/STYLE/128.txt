@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "11 Things We're Obsessed With This Week, Besides Finding The Perfect Winter Coat", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/things-were-obsessed-with-17_us_5a037055e4b03deac08af30b', 'short_description': 'No. 6 = 😍', 'date': '2017-11-08'}

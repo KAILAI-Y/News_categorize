@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Kellyanne Conway Is Back On The Sunday Shows, But Nothing's Changed", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-return_us_59512d5fe4b05c37bb7818fc', 'short_description': 'The once ubiquitous Trump surrogate returns with more "alternative facts."', 'date': '2017-06-26'}

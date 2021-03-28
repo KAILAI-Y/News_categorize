@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'FDA Approves Gilead Cancer Gene Therapy', 'authors': 'Toni Clarke, Bill Berkrot, Reuters', 'link': 'https://www.huffingtonpost.com/entry/fda-approves-gilead-cancer-gene-therapy_us_59e8d0f0e4b0aa3f77dc54bd', 'short_description': 'The list price will be $373,000.', 'date': '2017-10-19'}

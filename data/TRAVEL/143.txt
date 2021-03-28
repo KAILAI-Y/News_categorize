@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Last-Minute Labor Day Weekend Trips That Won’t Break The Bank', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/last-minute-labor-day-weekend-trips_us_599f46efe4b06d67e3368427', 'short_description': 'Group trip, anyone?', 'date': '2017-08-25'}

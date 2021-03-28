@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Donald Trump Will Not Be Mentioned By Name On 'Roseanne'", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-will-not-be-mentioned-by-name-on-roseanne_us_5abfd674e4b0a47437ab6a32', 'short_description': "At least in the revival's first season.", 'date': '2018-03-31'}

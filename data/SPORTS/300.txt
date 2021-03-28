@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Larry Nassar Sentenced To 40 To 125 Years On 3 Additional Child Sexual Abuse Charges', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/larry-nassar-sentenced_us_5a70bc66e4b0be822ba0fb26', 'short_description': "He's already been sentenced to 40 to 175 years on other abuse charges.", 'date': '2018-02-05'}

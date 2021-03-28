@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Protesters Trash South African H&M Stores Over Racist Ad', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/south-africa-hm-protests-racist-ad_us_5a5b9d47e4b0fcbc3a1122e9', 'short_description': 'The Swedish clothing company temporarily closed stores in the Johannesburg area.', 'date': '2018-01-14'}

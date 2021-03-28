@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Eric Trump Says Shutdown Is 'A Good Thing For Us'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/eric-trump-shutdown-good_us_5a63fd7ae4b0dc592a096c6c', 'short_description': 'Democrats just want to sabotage his dad, Eric Trump told Fox News.', 'date': '2018-01-21'}

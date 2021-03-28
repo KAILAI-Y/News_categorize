@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "First-Grader Answers Teacher's Lighthearted Riddle In Super Philosophical Way", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/riddle-existential-response_us_5a4df49be4b06d1621bd3423', 'short_description': '"Existentialism grade 101."', 'date': '2018-01-04'}

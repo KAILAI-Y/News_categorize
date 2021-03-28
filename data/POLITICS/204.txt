@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Rex Tillerson Warns Grads Of Living In ‘Alternative Realities’', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/rex-tillerson-fact-truth-vmi-commencement-speech_us_5afc7303e4b0779345d548f5', 'short_description': "Gee, wonder who he's talking about.", 'date': '2018-05-16'}

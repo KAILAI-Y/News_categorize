@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Watch U.S. Women's Soccer Pull Off Jaw-Dropping Comeback Over Brazil", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/watch-us-womens-jaw-dropping-soccer-comeback-over-brazil_us_597f44c7e4b02a4ebb76fadb', 'short_description': 'It all happened in 9 minutes.', 'date': '2017-07-31'}

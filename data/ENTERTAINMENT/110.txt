@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Please Enjoy This Animated History Of Tina Fey For Her 'SNL' Return", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tina-fey-animated-history-snl_us_5afd80bde4b06a3fb50e490b', 'short_description': "And it's narrated by the comedian, too.", 'date': '2018-05-17'}

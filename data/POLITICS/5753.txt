@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The GOP Congress Is Rushing Wildly Ahead With A Huge Health Care Bill. Again.', 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/gop-health-care-bill-again_us_59c022f6e4b0186c2205092f', 'short_description': "We've seen this movie before -- but it might end differently this time.", 'date': '2017-09-18'}

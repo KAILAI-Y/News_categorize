@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Pop Star Lorde Drops Planned Israeli Concert After Criticism', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/lorde-drops-israeli-concert_us_5a41b6e0e4b06d1621b54f0c', 'short_description': '"I didn\'t make the right call on this one," New Zealand singer said.', 'date': '2017-12-26'}

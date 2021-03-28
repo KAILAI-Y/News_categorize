@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Salty Dogs Hang Ten In Gnarly Annual Surfing Championship', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/world-dog-surfing-competition_us_598768b4e4b08b75dcc7ac2a', 'short_description': 'Surfs up, bitches! 🐾', 'date': '2017-08-06'}

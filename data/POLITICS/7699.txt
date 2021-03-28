@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Allies Defend Russia Meeting, Saying Every Campaign Does This', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-russia-meeting_us_59637b59e4b0d5b458ebdd34', 'short_description': '"Campaigns of all stripes collect dirt on opponents," said CNN commentator Jeffrey Lord.', 'date': '2017-07-10'}

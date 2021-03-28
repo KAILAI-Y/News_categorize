@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'MSU Sued For Allegedly Discouraging Student From Reporting Rape', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/msu-student-raped_us_5acca6dce4b0337ad1ebb44a', 'short_description': 'The lawsuit claims that the woman was raped by three MSU basketball players.', 'date': '2018-04-10'}

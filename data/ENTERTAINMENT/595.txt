@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Timothée Chalamet's Youth And Charm Make John Mulaney Very Insecure", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/john-mulaney-timothee-chalamet_us_5acbc543e4b09d0a11967d5f', 'short_description': "The comedian has joked about his wife's crush on the 22-year-old.", 'date': '2018-04-09'}

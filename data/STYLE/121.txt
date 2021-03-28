@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "A Magazine Edited Lupita Nyong'o's Hair And She Is Not Pleased", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/lupita-nyongo-hair_us_5a05c3cae4b05673aa58f715', 'short_description': '"My dark skin and kinky, coily hair are beautiful, too."', 'date': '2017-11-10'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Model From Tone-Deaf Dove Ad Speaks Out: 'I Am Not A Victim'", 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/model-racist-dove-ad-defends_us_59dcd000e4b0208970cfcdf6', 'short_description': '"I am strong, I am beautiful, and I will not be erased.”', 'date': '2017-10-10'}

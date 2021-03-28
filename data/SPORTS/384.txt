@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Nike Just Came Out With Its First Sports Hijab', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/nike-just-came-out-with-its-first-sports-hijab_us_5a269d05e4b086e4e504645f', 'short_description': '“It’s a reminder to us Muslim women that we can achieve anything in the world."', 'date': '2017-12-05'}

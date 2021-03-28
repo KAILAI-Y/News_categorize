@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "CoverGirl's Newest Face Is 69-Year-Old Maye Musk", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/maye-musk-covergirl_us_59ccf305e4b0210dfdfc6ae0', 'short_description': 'YES.', 'date': '2017-09-28'}

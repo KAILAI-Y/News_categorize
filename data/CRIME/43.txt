@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Patton Oswalt Celebrates Michelle McNamara's Legacy After Arrest In 'Golden State Killer' Case", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/patton-oswalt-michelle-mcnamara-golden-state-killer-arrested_us_5ae0ec52e4b055fd7fc79205', 'short_description': '“I think you got him, Michelle."', 'date': '2018-04-26'}

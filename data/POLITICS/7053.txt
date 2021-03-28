@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mooch Carefully Studying Local Cinnabon Manager's Hand Gestures", 'authors': 'Eliot Nelson and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/mooch-carefully-studying-local-cinnabon-managers-hand-gestures_us_597fa088e4b00bb8ff38d082', 'short_description': "He'll land on his feet.", 'date': '2017-07-31'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'John McCain Rips Donald Trump For Pardoning Joe Arpaio', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/john-mccain-trump-arpaio_us_59a17023e4b05710aa5c7fdc', 'short_description': 'McCain said the pardon undermined the president\'s "claim for the respect of rule of law."', 'date': '2017-08-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Weather Channel Is Not Holding Back When It Comes To Climate Change', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/weather-channel-climate-change-trump_us_593073c1e4b010df62cc7950', 'short_description': "And if you don't care about it, they'll convince you otherwise.", 'date': '2017-06-01'}

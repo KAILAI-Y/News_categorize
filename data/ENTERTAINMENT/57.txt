@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Katy Perry Says She's 'Not Single' On 'American Idol'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/katy-perry-not-single-american-idol_us_5b040527e4b0a046186fb552', 'short_description': 'So that means she and Orlando Bloom are definitely on again -- right?', 'date': '2018-05-22'}

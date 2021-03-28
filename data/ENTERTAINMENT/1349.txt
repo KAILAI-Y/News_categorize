@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Katie Holmes And Jamie Foxx Look Adorably Happy At Pre-Grammy Gala', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/katie-holmes-jamie-foxx-pre-grammy-gala_us_5a6e4176e4b0ddb658c774f2', 'short_description': 'Aww!', 'date': '2018-01-29'}

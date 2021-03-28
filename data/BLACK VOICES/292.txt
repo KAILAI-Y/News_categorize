@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Activists Launch Voter Registration Drive At 'Black Panther' Screenings", 'authors': 'Philip Lewis', 'link': 'https://www.huffingtonpost.com/entry/voter-registration-black-panther_us_5a88616ae4b05c2bcacb7088', 'short_description': '#WakandaTheVote 2018!', 'date': '2018-02-17'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Driving While White: Reflections On Bias And Rights', 'authors': 'Kimberly G. Jackson, ContributorPoet & nonfiction writer', 'link': 'https://www.huffingtonpost.com/entry/driving-while-white-reflections-on-bias-and-rights_us_59d2a482e4b03905538d17ae', 'short_description': 'If I were a black man, I’d be dead.', 'date': '2017-10-02'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Ivanka Trump's Women's Day Tribute Went Exactly As You'd Expect", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/trump-womens-day-backlash_us_5aa1339de4b002df2c615e6e', 'short_description': '"I stand amazed and stunned at how you try to keep up this act."', 'date': '2018-03-08'}

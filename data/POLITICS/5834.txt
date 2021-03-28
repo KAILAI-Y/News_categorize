@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Struggling Gun Industry Looks To Congress To Make Silencers The Next Big Thing', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/congress-gun-silencers-bill_us_59b95c08e4b0edff97188620', 'short_description': 'Amid a "Trump slump," the firearms industry seeks laxer rules on suppressor sales.', 'date': '2017-09-14'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'James Corden: This Donald Trump Speech Contains Our 3 Worst Nightmares', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-donald-trump-nightmare_us_5a28fbd7e4b0b185e539593e', 'short_description': '"Thank God he wasn\'t naked."', 'date': '2017-12-07'}

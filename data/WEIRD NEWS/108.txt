@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'This Puppy With A Strangely Human Face Is Freaking Out The Internet', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/yogi-dog-human-face_us_5aa843aee4b001c8bf14b331', 'short_description': 'People think Yogi looks like Zach Galifianakis or maybe Paul Rudd or closer to Jake Gyllenhaal.', 'date': '2018-03-13'}

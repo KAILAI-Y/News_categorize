@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '32 Missing As Tanker Collides With Cargo Ship In Fireball Off China', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/32million-tanker-cargo-ship-collision_us_5a51a32ee4b003133ec861f1', 'short_description': 'Most of the missing are Iranians, all from the tanker.', 'date': '2018-01-07'}

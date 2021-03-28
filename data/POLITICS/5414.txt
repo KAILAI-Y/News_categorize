@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Pittsburgh's Back, Thanks To People Who Pulled Their City Up", 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/pittsburgh-comeback-kevin-sousa_us_59cc1228e4b05063fe0eddb6', 'short_description': 'City leaders are now pushing to make sure the revival reaches everybody.', 'date': '2017-09-29'}

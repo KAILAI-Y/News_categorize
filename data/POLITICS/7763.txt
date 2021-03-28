@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Putin On The Ditz', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/putin-on-the-ditz_us_595ff770e4b0d5b458ea8a9e', 'short_description': 'Get it?', 'date': '2017-07-07'}

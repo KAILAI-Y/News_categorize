@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Users Just Say No To Kellyanne Conway's Drug Abuse Cure", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-ice-cream-twitter_us_5ab4170ee4b054d118e1085e', 'short_description': 'Her advice: "Eat the ice cream, have the French fry, don’t buy the street drug."', 'date': '2018-03-22'}

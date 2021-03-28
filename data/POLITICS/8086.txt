@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bill Clinton Zings Trump Administration At Alec Baldwin Roast', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bill-clinton-zings-trump-administration-at-alec-baldwin-roast_us_5950d1dce4b0da2c731c9ca7', 'short_description': '"I wouldn\'t know an alternative fact if it hit me in the face."', 'date': '2017-06-26'}

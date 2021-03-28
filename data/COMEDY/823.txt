@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Says The U.S. Nuclear Nightmare Has Already Happened', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-says-our-nuclear-nightmare-has-already-struck_us_599b0aa9e4b0e8cc855f236a', 'short_description': 'And it includes radioactive alligators.', 'date': '2017-08-21'}

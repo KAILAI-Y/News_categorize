@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "KB Home Cuts CEO's Annual Incentive Payment In Response To Vulgar Rant (UPDATE)", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/kb-home-jeff-mezger-bonus-kathy-griffin_us_59c3cdc2e4b06f93538cfa72', 'short_description': "CEO Jeffrey Mezger's mouth is going to cost him money.", 'date': '2017-09-21'}

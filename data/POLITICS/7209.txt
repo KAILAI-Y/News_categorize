@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '‘Maverick’ John McCain Is Really Not Going To Like His New Nicknames', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-mccain-maverick-nickname_us_5977ed0fe4b0c95f375fd50e', 'short_description': 'The Arizona senator returned to Washington to vote with his party.', 'date': '2017-07-26'}

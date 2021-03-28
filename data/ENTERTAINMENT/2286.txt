@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kristen Bell's Daughter Forced Her To Dress Up As Elsa For Halloween", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kristen-bells-daughter-forced-her-to-dress-up-as-elsa-for-halloween_us_59f71c25e4b03cd20b82e347', 'short_description': 'JUSTICE FOR PRINCESS ANNA.', 'date': '2017-10-30'}

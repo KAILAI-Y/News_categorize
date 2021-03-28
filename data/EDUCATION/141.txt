@@ -1,0 +1,1 @@
+{'category': 'EDUCATION', 'headline': 'Zero Tolerance Is Intolerance', 'authors': 'Larry Strauss, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/zero-tolerance-school-discipline_us_5971140de4b00e4363de67e5', 'short_description': 'Two of my former students demonstrate the consequences of zero-tolerance discipline policies.', 'date': '2017-07-21'}

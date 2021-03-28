@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Toddler Pays Tribute To Her Cancer Survivor Grandma In Awesome Photos', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/toddler-pays-tribute-to-her-cancer-survivor-grandma-in-awesome-photos_us_59276dd7e4b06f60805343a9', 'short_description': '“She’s the toughest lady I know!”', 'date': '2017-05-26'}

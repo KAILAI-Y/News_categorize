@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Comey Memo: Trump Floated Idea Of Jailing Journalists To Make Them 'Talk'", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-jail-journalists-james-comey-memos_us_5ad96befe4b029ebe0229019', 'short_description': 'The president wanted to stop leaks pouring from the White House.', 'date': '2018-04-20'}

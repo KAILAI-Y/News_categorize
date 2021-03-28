@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'These Photos From The North And South Korea Summit Show History In The Making', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/north-south-korea-history-photos_us_5ae32d53e4b055fd7fcb5229', 'short_description': 'Some hope for peace.', 'date': '2018-04-27'}

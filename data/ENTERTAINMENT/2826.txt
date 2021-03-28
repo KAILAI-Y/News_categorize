@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'People Are Pissed That Sam Took Credit For Gilly’s Discovery On ‘Game Of Thrones’', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/upset-sam-credit-gilly-discovery-jon-snow-parents-annulment-game-of-thrones_us_59a443b7e4b0821444c4db58', 'short_description': 'We all see you, Sam!', 'date': '2017-08-28'}

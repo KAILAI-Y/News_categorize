@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Alabama’s Biggest Newspaper Calls On GOP To Withdraw Support For Roy Moore', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/alabama-birmingham-news-roy-moore-senate_us_5a0a67fee4b0bc648a0d5d61', 'short_description': 'The editorial board says the "unseemly" judge simply cannot be senator.', 'date': '2017-11-14'}

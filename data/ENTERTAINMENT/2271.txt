@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Grey's Anatomy' Star Caterina Scorsone Accuses James Toback Of Sexual Harassment", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/caterina-scorsone-james-toback_us_59f97f20e4b0d1cf6e916789', 'short_description': 'The actress is among 300 women who have alleged misconduct.', 'date': '2017-11-01'}

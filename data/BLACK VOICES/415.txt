@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Kobe Bryant Aims To Inspire Youth With Animated Film 'Dear Basketball'", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/kobe-bryant-aims-to-inspire-youth-with-animated-film-dear-basketball_us_5a3bd2c2e4b025f99e1540eb', 'short_description': 'The film is currently shortlisted for an Oscar.', 'date': '2017-12-21'}

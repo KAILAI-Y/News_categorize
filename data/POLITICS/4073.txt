@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Woman Says Al Franken Groped Her During 2010 Photo Op', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/woman-says-al-franken-groped-her-in-2010_us_5a12e220e4b0e97dffeec570', 'short_description': 'This is the second assault allegation made against the senator.', 'date': '2017-11-20'}

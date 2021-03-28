@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'The First Year Of The Iraq War, As Told Through Late Night TV Jokes', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/iraq-war-late-night-jokes-letterman-leno-conan_us_5aaec00ce4b05b221800021c', 'short_description': 'The monologues show a lot has changed since the U.S. invaded Iraq.', 'date': '2018-03-20'}

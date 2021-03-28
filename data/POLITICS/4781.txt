@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sarah Huckabee Sanders' Attack On The\xa0Washington Post Will Make Your Head Spin", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sarah-huckabee-sanders-washington-post_us_59efe818e4b04917c594133a', 'short_description': 'White House press secretary gets called out for "hypocrisy."', 'date': '2017-10-25'}

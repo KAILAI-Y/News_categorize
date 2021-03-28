@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Trans Athlete Harrison Browne Unretires, Returns To Professional Hockey', 'authors': 'Cyd Zeigler, Outsports', 'link': 'https://www.huffingtonpost.com/entry/harrison-brown-retires-hockey_us_598c9b36e4b0909642959238', 'short_description': 'The trans athlete puts transition on hold for another year of hockey.', 'date': '2017-08-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Public Narrowly Agrees With Court's Decision Not To Reinstate Travel Ban", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-travel-ban-polling_us_592db25ce4b055a197cd6fdb', 'short_description': 'Most think the executive order is intended to target Muslims.', 'date': '2017-05-30'}

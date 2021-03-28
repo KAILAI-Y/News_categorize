@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Debuts Hilarious Impression Of Anthony Scaramucci', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-anthony-scaramucci-impression_us_597711aee4b0e201d577b5dc', 'short_description': 'Uncanny.', 'date': '2017-07-25'}

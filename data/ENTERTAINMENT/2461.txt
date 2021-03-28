@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Austin Rogers Explains The Real Secrets To His 'Jeopardy!' Success", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/austin-rogers-jeopardy_us_59dcd961e4b0b34afa5c74c2', 'short_description': 'Spending a night in Brooklyn watching "Jeopardy!" with the current champion.', 'date': '2017-10-10'}

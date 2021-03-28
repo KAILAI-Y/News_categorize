@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '19 Emma Thompson Hairstyles, Ranked', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/emma-thompson-hairstyles-ranked_us_59e624b7e4b0ca9f483b39e0', 'short_description': 'Netflix\'s new "The Meyerowitz Stories" features a hippie-lite \'do that\'s one of Thompson\'s best.', 'date': '2017-10-17'}

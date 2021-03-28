@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '11 Things To Know About Catalonia’s Confusing Vote On Independence', 'authors': 'Guillermo Rodríguez, HuffPost Spain', 'link': 'https://www.huffingtonpost.com/entry/catalonia-independence-referendum-things-to-know_us_59cd4b15e4b0300a59ac149d', 'short_description': "All of Spain is baffled by what's going on.", 'date': '2017-09-29'}

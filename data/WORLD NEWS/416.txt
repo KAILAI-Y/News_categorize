@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '100,000 Rohingya Refugees In Grave Danger From Monsoon Rains, UN Says', 'authors': 'Tom Miles, Reuters', 'link': 'https://www.huffingtonpost.com/entry/rohingya-refugees-monsoons_us_5a6f00ece4b06e25326972f3', 'short_description': 'Aid workers say the camps sheltering the new arrivals are completely inadequate.', 'date': '2018-01-29'}

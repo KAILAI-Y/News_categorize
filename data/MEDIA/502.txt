@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Whitesplaining Ta-Nehisi Coates', 'authors': 'Ralf Michaels, ContributorArthur Larson Professor of Law', 'link': 'https://www.huffingtonpost.com/entry/whitesplaining-ta-nehisi-coates_us_59bd669be4b0390a1564de21', 'short_description': 'With help from a few of my fellow commentators.', 'date': '2017-09-16'}

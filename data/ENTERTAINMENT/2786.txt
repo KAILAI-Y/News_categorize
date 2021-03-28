@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kendall Jenner Breaks Silence On Pepsi Ad: 'It Feels Like My Life Is Over'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kendall-jenner-pepsi-ad_us_59aac54de4b0dfaafcf0bb94', 'short_description': 'Jenner has let family members do the talking since the ad’s disastrous reception.', 'date': '2017-09-02'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Much Of America Will Kick Off 2018 With Record Low Temperatures', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/america-2018-record-temperatures_us_5a466262e4b06d1621b84188', 'short_description': 'Meanwhile, most of the rest of the world will be abnormally warm.', 'date': '2017-12-29'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jennifer Hudson Gets Protective Order In Split From David Otunga', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jennifer-hudson-protective-order-david-otunga_us_5a0eafe7e4b0e97dffeca183', 'short_description': 'The two have an 8-year-old son.', 'date': '2017-11-17'}

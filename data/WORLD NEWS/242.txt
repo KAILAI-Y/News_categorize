@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Chinese Reporter Rolled Her Eyes On State Television, And Social Media Users Can't Deal", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/chinese-reporter-rolls-eyes_us_5aa81e52e4b0a09afeaeadc4', 'short_description': 'People even recreated the moment on film.', 'date': '2018-03-13'}

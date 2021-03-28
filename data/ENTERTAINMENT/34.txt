@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Moses Farrow Defends Woody Allen And Accuses Mia Farrow Of Abuse', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/moses-farrow-mia-farrow-abuse_us_5b0681ace4b07c4ea10510c2', 'short_description': 'Dylan Farrow called her brother\'s essay "beyond hurtful" and "easily disproven."', 'date': '2018-05-24'}

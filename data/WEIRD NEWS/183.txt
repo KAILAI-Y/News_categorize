@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "The World's Deadliest Cat Is Absolutely Adorable", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/worlds-deadliest-cat_us_5a5ece74e4b00a7f171b9893', 'short_description': "Don't mess with this little kitty.", 'date': '2018-01-17'}

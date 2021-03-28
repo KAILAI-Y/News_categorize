@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Julia Stiles Marries Preston J. Cook In Intimate Seattle Beach Wedding', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/julia-stiles-married-preston-j-cook_us_59cab923e4b02aef6cd5d966', 'short_description': '"Who doesn\'t love a shotgun wedding?"', 'date': '2017-09-26'}

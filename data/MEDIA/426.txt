@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Keith Olbermann Breaks Down Just How Donald Trump Manipulates Americans Via Twitter', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/keith-olbermann-donald-trump-twitter-manipulates_us_59f43559e4b07fdc5fbe5f17', 'short_description': '"He has perfected the fireside tweet."', 'date': '2017-10-28'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "France Trolls Trump With 'Corrected' Video On Paris Climate Accord", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/macron-trolling-video_us_59323b72e4b02478cb9bc152', 'short_description': "It adds further shade after the French president's message to “make our planet great again.”", 'date': '2017-06-03'}

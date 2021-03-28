@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Bar With Homemade 'Lynch Kaepernick' Doormat Can't Figure Out Why Everyone Is Calling It Racist", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/snafu-bar-nfl-jersey-doormat-kaepernick_us_59cd0d5fe4b03b0879cfd913', 'short_description': '“It’s not a race thing,” the bar owner said.', 'date': '2017-09-28'}

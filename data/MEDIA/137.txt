@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Watch Fox News Personalities Slam Obama And Praise Trump Over The Same Thing', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/fox-news-trump-obama_us_5aab5c5ee4b05b2217fd9ee3', 'short_description': "Now that's a double standard.", 'date': '2018-03-16'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jennifer Garner Hilariously Responds To That Oscars Meme', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/jennifer-garner-oscars-meme_us_5a9ed88de4b002df2c5e49d7', 'short_description': "The actress was a good sport about the night's most viral moment.", 'date': '2018-03-06'}

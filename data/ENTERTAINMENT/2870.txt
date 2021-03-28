@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Yvette Nicole Brown Reveals She Once Faced An Enraging Pay Gap', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/yvette-nicole-brown-hollywood-pay-gap_us_599c5ab6e4b06a788a2c164e', 'short_description': '“I speak up because others who are coming up cannot speak up."', 'date': '2017-08-22'}

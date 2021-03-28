@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Many Conservative Christian Activists Are Still OK With Donald Trump', 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/many-conservative-christian-activists-are-ok-with-donald-trump_us_593ed07ce4b0b13f2c6ce3b5', 'short_description': "They're happily turning the other cheek.", 'date': '2017-06-12'}

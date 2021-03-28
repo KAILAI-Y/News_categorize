@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's Which States Are Pushing Back Against Trump's Voter Fraud Commission", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/voter-fraud-kobach-states_us_595babf4e4b05c37bb805080', 'short_description': 'Bipartisan furor has stalled a controversial election initiative.', 'date': '2017-07-04'}

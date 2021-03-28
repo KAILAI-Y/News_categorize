@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Teen Hero Used Body As A Shield During Florida School Shooting', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/teen-hero-body-shield-florida-school-shooting_us_5a8ac240e4b004fc31946d11', 'short_description': 'Anthony Borges, 15, was shot several times protecting his classmates.', 'date': '2018-02-19'}

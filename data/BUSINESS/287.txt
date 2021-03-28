@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Uber Founder Travis Kalanick Resigns As CEO', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/travis-kalanick-resigns-uber-ceo_us_594a07c9e4b0177d0b8a5aac', 'short_description': 'Kalanick’s exit came after a shareholder revolt reportedly made it untenable for him to stay.', 'date': '2017-06-21'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "White House Press Secretary Dodges Questions On Russia's Election Meddling", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/sarah-sanders-russia-questions_us_5a8c8b25e4b03414379b1460', 'short_description': 'She gives reporters a series of non-answers to questions about sanctions.', 'date': '2018-02-20'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hundreds Of Thousands Take To The Streets To Protest Crackdown In Turkey', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/turkey-crackdown-march_us_59623f12e4b0615b9e922612', 'short_description': "The march is the biggest protest yet against the crackdown that followed last year's failed military coup.", 'date': '2017-07-09'}

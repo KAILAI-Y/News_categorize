@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Netanyahu's Bombastic Iran Claims Found A Perfect Audience In Trump", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/netanyahu-trump-iran_us_5af1f26ae4b0c4f19327b5c7', 'short_description': 'Last month\'s "Iran lied" presentation went over better than the "Bibi Bomb."', 'date': '2018-05-08'}

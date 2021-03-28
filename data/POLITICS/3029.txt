@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Suddenly Ends Voter Fraud Panel', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-voter-fraud-panel_us_5a4d6ca1e4b0b0e5a7aad716', 'short_description': 'The panel, convened in May, was widely criticized by voting rights advocates.', 'date': '2018-01-03'}

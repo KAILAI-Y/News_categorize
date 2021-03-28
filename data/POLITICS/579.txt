@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Racism Seen As Factor In Differing Sentences For Election Crimes In One Texas County', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/tarrant-county-voter-fraud_us_5ae20582e4b02baed1b7fcc2', 'short_description': 'Two minority women got sent to prison for years. A white official got probation.', 'date': '2018-04-26'}

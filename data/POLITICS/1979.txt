@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Dallas Politician Tells NRA To Get Lost Unless It's Ready To Talk Reform", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/dallas-nra-florida-shooting_us_5a8be471e4b0117adf717b9e', 'short_description': 'The gun group is set to hold its annual convention in Dallas later this year.', 'date': '2018-02-20'}

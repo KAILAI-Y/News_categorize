@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Issa Rae Is Working On A Show About The Love Life Of A Bisexual Black Man', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/issa-rae-new-shows_us_5a3979aae4b025f99e12e47b', 'short_description': 'And we are here for it. 😍', 'date': '2017-12-19'}

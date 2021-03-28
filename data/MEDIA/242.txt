@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Former RNC Chair Michael Steele: Trump’s Evangelical Backers Need To ‘Shut The Hell Up’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/michael-steele-evangelicals-trump_us_5a67f37be4b0e5630074aa39', 'short_description': '"Don’t ever preach to me about anything ever again."', 'date': '2018-01-24'}

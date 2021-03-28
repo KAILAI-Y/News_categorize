@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Suspect In Custody After Shooting At California High School, 1 Injured', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/shots-reported-at-california-high-school_us_5af5a68fe4b0e57cd9f8e95e', 'short_description': 'The victim is in stable condition after being shot in the arm.', 'date': '2018-05-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Eric Garner's Daughter, An Advocate Against Police Brutality, Is In A Coma", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/eric-garner-daughter-coma_us_5a413cfae4b025f99e17ff15', 'short_description': 'Erica Garner was hospitalized after a heart attack.', 'date': '2017-12-25'}

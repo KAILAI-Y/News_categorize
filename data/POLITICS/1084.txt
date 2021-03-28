@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Basketball 'Diplomat' Dennis Rodman Posts Pic Of Kim Jong Un In A MAGA Hat", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/dennis-rodman-kim-jong-un-maga-hat_us_5abeb3e2e4b055e50acdac8b', 'short_description': '#Peace #Love #NotWar', 'date': '2018-03-31'}

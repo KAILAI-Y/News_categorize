@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Shreds Al Franken With A Humiliating Blast From The Past', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-al-franken_us_5a0e6034e4b0dd63b1a981a0', 'short_description': '"Late Show" host slams the senator over his groping excuse.', 'date': '2017-11-17'}

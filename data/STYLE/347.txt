@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Study Says Plus-Size Models Are Good For Our Mental Health', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/plus-size-models-mental-health_us_593ee246e4b02402687c0329', 'short_description': 'Science!', 'date': '2017-06-12'}

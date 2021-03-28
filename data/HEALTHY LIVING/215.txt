@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Mandy Moore's Outlook On Therapy Should Be More Common", 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/mandy-moore-therapy_us_59e4d8d2e4b0a52aca19a3c0', 'short_description': "The actress sees a therapist even when she isn't stressed.", 'date': '2017-10-16'}

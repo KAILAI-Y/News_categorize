@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Susan Collins Never Had An Actual Deal On Taxes', 'authors': 'Arthur Delaney and Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/collins-tax-vote_us_5a2ac0d1e4b0a290f050378a', 'short_description': "The Maine senator said she'd support the tax bill on certain conditions that nobody promised to meet.", 'date': '2017-12-08'}

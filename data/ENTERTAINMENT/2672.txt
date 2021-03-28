@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Girls' Producers Lena Dunham And Jenni Konner Have A New Show In The Works", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/lena-dunham-jenni-konner-new-tv-show-in-the-works_us_59bd5821e4b086432b07975b', 'short_description': 'The creative duo are at work on yet another TV project.', 'date': '2017-09-16'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Tom Cruise Shares Frightening Slow Motion Video Of Ankle-Breaking Stunt', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tom-cruise-ankle-break-slow-motion-mission-impossible_us_5a6c469ae4b0ddb658c6bb1f', 'short_description': 'This is not for the squeamish.', 'date': '2018-01-27'}

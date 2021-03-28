@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Tearjerker Holiday Ad Reminds Us Pets Aren’t Just For Christmas', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rspca-holiday-ad-dog-rescue_us_5a22902ee4b03350e0b707a5', 'short_description': 'Not crying. Just allergies.', 'date': '2017-12-02'}

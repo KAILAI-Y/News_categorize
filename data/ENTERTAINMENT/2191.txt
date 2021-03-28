@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Doctor Who' Releases First Photo Of Jodie Whittaker As New Doctor", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/doctor-who-releases-first-photo-of-jodie-whittaker-as-the-new-doctor_us_5a047a9de4b0f76b05c3f727', 'short_description': "And look, the world didn't end!", 'date': '2017-11-09'}

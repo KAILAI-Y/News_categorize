@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Tied To Putin's Leash On Sassy California Billboard", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-nunes-putin-leash-ad_us_5a0e4c86e4b0e97dffec7670', 'short_description': "Trump's having a tantrum, Nunes gets an ice cream cone in campaign ad.", 'date': '2017-11-17'}

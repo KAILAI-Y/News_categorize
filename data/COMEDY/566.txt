@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'James Corden Reveals The New Twitter-Inspired Euphemism For White Supremacists', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-white-supremacists-code-word_us_5a0e9132e4b045cf43709a2a', 'short_description': '"I think this is great."', 'date': '2017-11-17'}

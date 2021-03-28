@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Immigrants Are More Than What They Bring To The Economy', 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/dreamers-are-more-than-theyre-economic-value_us_59b01892e4b0b5e53102df3a', 'short_description': "To discuss Dreamers' value in relation to the labor they provide is to dehumanize them.", 'date': '2017-09-06'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Ultimate Charleston, West Virginia, Road Trip Playlist', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-ultimate-charleston-south-carolina-road-trip-playlist_us_59c54e51e4b01cc57ff2118a', 'short_description': 'According to Spotify data, folk and country (and Nickleback) rule.', 'date': '2017-09-26'}

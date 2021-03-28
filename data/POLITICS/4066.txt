@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Key California Lawmaker Steps Down Amid Harassment Claims', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/raul-bocanegra_us_5a14593ee4b0bfa88c1d79f1', 'short_description': "The state assemblyman announced Monday he'll resign immediately.", 'date': '2017-11-21'}

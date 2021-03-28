@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'South Korea Explores Possible Military Option After North Korea Missile', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/south-korea-military-north-korea-missile-japan_us_59a4c4d2e4b041393a2024f6', 'short_description': 'Military officers agreed with top U.S officials to make a strong response.', 'date': '2017-08-29'}

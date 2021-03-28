@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Uses Single-Payer Health Care Amendment To 'Trick' Vulnerable Dems", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/democrats-single-payer-amendment_us_597a19e1e4b02a4ebb73d2f6', 'short_description': "The strategy didn't work.", 'date': '2017-07-27'}

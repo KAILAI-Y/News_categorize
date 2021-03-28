@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Younger' Star Sutton Foster Returns To Her Broadway Roots For New Album", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/sutton-foster-new-broadway-album-preview_us_5afa2c28e4b09a94524b59f9', 'short_description': '"Take Me to the World" showcases Foster\'s latest role as a new mom.', 'date': '2018-05-16'}

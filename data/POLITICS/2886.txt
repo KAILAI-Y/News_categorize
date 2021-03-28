@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Downplay Bonuses Employees Are Getting In Wake Of GOP Tax Law', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/bonuses-gop-taxes_us_5a553a50e4b0d614e48a8f52', 'short_description': 'They say corporations must make more long-term investments in their workers.', 'date': '2018-01-09'}

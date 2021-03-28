@@ -1,0 +1,1 @@
+{'category': 'COLLEGE', 'headline': "Forget Cheat ‘Sheet’ — Student Outwits Professor With Enormous 'Cheat Poster'", 'authors': 'Dominique Mosbergen and Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/cheat-sheet-college-student-outsmarts-professor_us_59c795a7e4b06ddf45f878a2', 'short_description': '“Well played and lesson learned for me.”', 'date': '2017-09-24'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "The Internet Couldn't Get Enough Of Gucci Mane And Keyshia Ka'oir's Luxurious Wedding", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/gucci-mane-keyshia-kaoir-wedding_us_59e75f61e4b08f9f9edc0603', 'short_description': 'Congrats to the Wopsters! ❤️', 'date': '2017-10-18'}

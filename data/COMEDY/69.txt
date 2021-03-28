@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Has Perfect Line To Confront Donald Trump's Lies", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-has-perfect-line-to-confront-donald-trump-on-lies_us_5af18e3be4b041fd2d2af0fa', 'short_description': 'Call it a memory refresher.', 'date': '2018-05-08'}

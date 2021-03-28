@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Shreds Don Jr. Over Election Flub: 'Turns Out Eric Is The Smart One'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-eric-trump_us_5a02acf3e4b04e96f0c654cc', 'short_description': '"Late Show" host takes on the president\'s son.', 'date': '2017-11-08'}

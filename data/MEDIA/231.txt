@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Watch As Sean Hannity Gets A Brutal Reality Check On Live TV', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-reality-check-live-tv_us_5a6aad11e4b01fbbefb06a85', 'short_description': 'Life comes at you fast.', 'date': '2018-01-26'}

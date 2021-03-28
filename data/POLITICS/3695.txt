@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Billy Bush Slams Trump Over Tape Denials, Says 'Enough's Enough'", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/billy-bush-colbert-donald-trump_us_5a2614ebe4b086e4e503ffbe', 'short_description': '“That is your voice, I was there, you were there, that’s your voice on the tape."', 'date': '2017-12-05'}

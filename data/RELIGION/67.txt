@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'This Christmas, Have A Nice Day', 'authors': 'Thrity Umrigar, ContributorAuthor', 'link': 'https://www.huffingtonpost.com/entry/this-christmas-have-a-nice-day_us_5a3e6268e4b06d1621b4a325', 'short_description': 'In search of the correct holiday greeting.', 'date': '2017-12-23'}

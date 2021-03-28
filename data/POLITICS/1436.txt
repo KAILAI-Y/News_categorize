@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans Got Greedy With Gerrymandering. Now It's Coming Back To Haunt Them.", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/gop-gerrymandering-greedy_us_5aabc708e4b0c33361afccc7', 'short_description': '"It just was so nakedly partisan."', 'date': '2018-03-16'}

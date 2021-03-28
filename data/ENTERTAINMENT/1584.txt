@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Last Jedi' Editor Has Some Second Thoughts About That Off-Screen Death", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/second-thoughts-off-screen-last-jedi-death_us_5a4e9279e4b089e14db988a2', 'short_description': 'Well, this is Ack-ward.', 'date': '2018-01-10'}

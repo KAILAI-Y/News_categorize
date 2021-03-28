@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Facing Farm Bill Vote Problems, GOP Leaders May Have To Make A Deal', 'authors': 'Matt Fuller and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/farm-bill-immigration-deal_us_5afcb075e4b06a3fb50d62da', 'short_description': 'Somehow, the farm bill may hinge on immigration.', 'date': '2018-05-17'}

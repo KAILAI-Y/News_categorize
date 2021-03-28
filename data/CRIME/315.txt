@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Teen Who Streamed Sister's Death Says She Wanted To Pay For Funeral", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/teen-streamed-sisters-death-to-pay-for-funeral_us_599fa3f0e4b06d67e336c90e', 'short_description': '"It was the only way my sister would get a decent burial."', 'date': '2017-08-25'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sessions Launches Team Trump's Russia Counteroffensive", 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/jeff-sessions-russia-counteroffensive_us_59406e7ae4b09ad4fbe3fd3c', 'short_description': 'Hard-liners are now in control of a scorched-earth White House war against the Russia probes.', 'date': '2017-06-14'}

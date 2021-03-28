@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Late Show' Updates 'Groundhog Day' For The Donald Trump Era", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-groundhog-day-donald-trump_us_5a756c4be4b06ee97af2bf56', 'short_description': 'It\'s a real "repetitive nightmare."', 'date': '2018-02-03'}

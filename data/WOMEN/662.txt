@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "The Insecure Masculinity Behind Rob Kardashian's 'Revenge' Posts", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/the-insecure-masculinity-behind-rob-kardashians-revenge-posts_us_595d1680e4b05c37bb818b52', 'short_description': 'Kardashian used social media to demean and slut-shame Blac Chyna.', 'date': '2017-07-05'}

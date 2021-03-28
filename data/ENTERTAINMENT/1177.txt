@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'SNL's Cecily Strong Says Melania Likes Alec Baldwin's Donald Trump", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/snls-cecily-strong-says-melania-likes-alec-baldwins-donald-trump_us_5a80223ae4b08dfc9304fb9c', 'short_description': 'The source of her info remains unknown.', 'date': '2018-02-11'}

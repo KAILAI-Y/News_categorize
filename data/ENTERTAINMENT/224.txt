@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'R. Kelly Accusers Say They Had To Ask Permission To Use The Bathroom', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/r-kelly-accusers-bathroom-permission_us_5af1e468e4b0c4f19327a1f3', 'short_description': 'And when they did, the women said he demanded they call him "Daddy."', 'date': '2018-05-08'}

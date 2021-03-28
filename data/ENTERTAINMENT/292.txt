@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Ant-Man And The Wasp' Trailer Brings The Fun After 'Avengers: Infinity War'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/ant-man-and-the-wasp-trailer_us_5ae877bfe4b02baed1be36eb', 'short_description': "We're still stressed out.", 'date': '2018-05-01'}

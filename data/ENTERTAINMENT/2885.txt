@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Comedian Jerry Lewis Dead At 91', 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/jerry-lewis-dead-dies_us_56689bc9e4b0f290e521d4af', 'short_description': 'The beloved comic enjoyed a decades-long career.', 'date': '2017-08-20'}

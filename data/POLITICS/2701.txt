@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Score Special Election Upset In Wisconsin GOP Stronghold', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/patty-schactner-wins_us_5a5ec4e2e4b096ecfca88c03', 'short_description': 'Donald Trump won the 10th Senate District in Wisconsin handily in 2016.', 'date': '2018-01-17'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'The White House Says This Photo Shows Trump Working. People Aren’t Buying It.', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-phone-desk-working-photo_us_5a65942ee4b0e5630071168e', 'short_description': 'Oval Office snapshot gets a meme-worthy makeover.', 'date': '2018-01-22'}

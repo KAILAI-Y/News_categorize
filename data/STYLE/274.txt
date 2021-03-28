@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "You've Never Seen Amal Clooney Like This Before", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/amal-clooney-gym-george-clooney_us_599adba1e4b0a2608a6d691e', 'short_description': 'Game, set, match.', 'date': '2017-08-21'}

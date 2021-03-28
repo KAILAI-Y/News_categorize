@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'We Stand With DACA', 'authors': 'Michelle Lujan Grisham, Linda T. Sánchez, and Joe Crowley, Contributors', 'link': 'https://www.huffingtonpost.com/entry/we-stand-with-daca_us_59ad6943e4b0b5e531000fbf', 'short_description': 'Ending this program would be not just a seriously misguided decision, but an immoral one.', 'date': '2017-09-04'}

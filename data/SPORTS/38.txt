@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "The Legendary Cristiano Ronaldo Scores A Legendary 'Bicycle Kick' Goal", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/ronaldo-bicycle-kick-goal_us_5ac4a923e4b0ac473edbab03', 'short_description': 'So utterly ridiculous.', 'date': '2018-04-04'}

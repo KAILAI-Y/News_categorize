@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Lady Gaga And Boyfriend Christian Carino Make Things Official With Romantic Photo', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/lady-gaga-make-things-official-with-boyfriend-christian-carino_us_59edfb86e4b00f0861a0232a', 'short_description': 'YAAAS, GAGA. YAAAS.', 'date': '2017-10-23'}

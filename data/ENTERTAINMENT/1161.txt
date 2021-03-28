@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "So Taylor Swift's BFF Karlie Kloss Went To Dinner With Katy Perry", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/so-taylor-swifts-bff-karli-kloss-went-to-dinner-with-katy-perry_us_5a830797e4b00ecc923ec311', 'short_description': 'We all know how this ends.', 'date': '2018-02-13'}

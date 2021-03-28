@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Unleashes New Batch Of Alter Egos For Donald Trump's White House", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-white-house-alter-egos-donald-trump_us_5a868c9fe4b004fc3190a8d7', 'short_description': '"Robot greeter at Japanese airport."', 'date': '2018-02-16'}

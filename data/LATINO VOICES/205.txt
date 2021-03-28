@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Demi Lovato Sings 'Bodak Yellow' Like A True Cardi B Fan", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/demi-lovato-sings-bodak-yellow-like-a-true-cardi-b-fan_us_599b358ae4b04c532f438acc', 'short_description': '"You don’t understand, I love Cardi B."', 'date': '2017-08-21'}

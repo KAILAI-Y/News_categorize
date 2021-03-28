@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "There's More Good News For One Of The Country's Biggest Voting Reforms", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/oregon-automatic-voter-registration_us_59c405cee4b0c90504fc55da', 'short_description': 'In Oregon, voters are steadily being added to the rolls because of a pioneering process.', 'date': '2017-09-21'}

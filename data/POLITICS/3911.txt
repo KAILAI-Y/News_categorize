@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Speaks Out On North Korea Missile Launch', 'authors': 'Paige Lavender and Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-north-korea_us_5a1dbd87e4b003f9c7fb14e1', 'short_description': '“It is a situation that we will handle.”', 'date': '2017-11-28'}

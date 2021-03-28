@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Hong Kong Makes Massive Ivory Seizure', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/hong-kong-ivory-bust_us_595e6883e4b0615b9e8ff36a', 'short_description': 'The bust shines a light on the need for a stricter ivory ban, anti-poaching activists say.', 'date': '2017-07-06'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'From Russia With Love…And Also Adoptions', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/from-russia-with-loveand-also-adoptions_us_59640379e4b03f144e2d31ff', 'short_description': 'Sure, DJ, sure.', 'date': '2017-07-10'}

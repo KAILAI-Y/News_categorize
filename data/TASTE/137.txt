@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Mario Batali Thinks It's A Bad Idea To Increase The Minimum Wage", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/mario-batali-wage-increase_us_59bfc61be4b0edff971d9345', 'short_description': "And in the restaurant industry, he's not alone in that sentiment.", 'date': '2017-09-18'}

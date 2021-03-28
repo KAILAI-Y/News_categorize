@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Progressive Group Ousts Cenk Uygur Over Past Sexist Writing', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/justice-democrats-ousts-cenk-uygur_us_5a3eb4d1e4b025f99e178181', 'short_description': 'The founder of The Young Turks will no longer work with the Justice Democrats.', 'date': '2017-12-23'}

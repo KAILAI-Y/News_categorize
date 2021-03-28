@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Explosive Report Says USA Swimming Covered Up Hundreds Of Sexual Abuse Cases', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/usa-swimming-sexual-abuse_us_5a8ad81fe4b004fc3194c4b2', 'short_description': 'The report paints a picture reminiscent of the USA Gymnastics sexual abuse scandal.', 'date': '2018-02-19'}

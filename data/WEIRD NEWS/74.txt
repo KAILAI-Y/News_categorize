@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "KO'd Martial Artist Is Epitome Of Show-Must-Go-On In 'Got Talent'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/martial-artist-sri-lankas-got-talent_us_5ac635cfe4b056a8f5991bc3', 'short_description': 'This is painful to watch.', 'date': '2018-04-05'}

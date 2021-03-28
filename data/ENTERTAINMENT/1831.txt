@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Carrie Fisher's Dog Saw 'The Last Jedi' And 'Perked Up' When She Was On Screen", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/carrie-fishers-dog-saw-the-last-jedi-and-perked-up-when-she-was-on-screen_us_5a33e9c5e4b040881be9ffaf', 'short_description': 'We love you, Gary!', 'date': '2017-12-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ironworker Randy Bryce Challenges Paul Ryan In Powerful New Ad: 'Let's Trade Places'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ironworker-randy-bryce-paul-ryan-challenge_us_59489afee4b0edb84c150899', 'short_description': '"Paul Ryan, you can come work the iron and I’ll go to D.C."', 'date': '2017-06-20'}

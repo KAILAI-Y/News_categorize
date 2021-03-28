@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '8 Years, 2 Presidents, And A Whole Different World', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-obama-italy_us_5957029ce4b02734df3285bc', 'short_description': 'Goodbye, hope and change. Hello, God help us all.', 'date': '2017-07-04'}

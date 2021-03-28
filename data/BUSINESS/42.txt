@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "'Pharma Bro' Martin Shkreli Gets 7 Years For Defrauding Investors", 'authors': 'Brendan Pierson, Reuters', 'link': 'https://www.huffingtonpost.com/entry/martin-shkreli-sentenced_us_5aa2d9b2e4b086698a9d9a82', 'short_description': 'He made headlines by jacking up the price of a lifesaving drug.', 'date': '2018-03-09'}

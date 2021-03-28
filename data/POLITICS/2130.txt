@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "What You Should Know About Trump's Nihilist Budget", 'authors': 'Zach Carter, Arthur Delaney, and Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-budget-fine-print_us_5a820d8ae4b01467fcf06af8', 'short_description': "He just doesn't care.", 'date': '2018-02-12'}

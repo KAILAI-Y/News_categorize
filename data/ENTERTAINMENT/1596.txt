@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Roseanne Barr Says She’d Be A Better President Than Oprah', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/roseanne-barr-oprah-president_us_5a54da93e4b0efe47ebd2094', 'short_description': 'And Susan Sarandon. And Trump.', 'date': '2018-01-09'}

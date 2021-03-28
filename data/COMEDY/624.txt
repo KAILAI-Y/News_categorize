@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Conan's 'Stranger Things 2' Intro Is A Little Too Into The '80s", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/conans-stranger-things-2-intro-is-a-little-too-into-the-80s_us_59fb6a1ee4b0415a420a7ee4', 'short_description': "They say the Rubik's Cube is a real diva to work with.", 'date': '2017-11-02'}

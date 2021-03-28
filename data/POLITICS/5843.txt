@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Voter Fraud Commissioner Was Alarmed Democrats Would Have A Say On Panel', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/hans-von-spakovsky-voter-fraud_us_59b95efce4b0edff97188a34', 'short_description': 'He was also concerned the White House would pick "mainstream Republicans."', 'date': '2017-09-13'}

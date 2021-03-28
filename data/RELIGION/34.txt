@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': '27 Colorful Photos That Show The Joy Of Holi In India', 'authors': 'Carol Kuruvilla and Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/27-photos-that-show-the-joy-of-holi-in-india_us_5a9597d4e4b036ab0142f591', 'short_description': 'The Hindu religious festival is filled with meaning.', 'date': '2018-02-27'}

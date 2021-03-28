@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'North Korea Launches Short Range Ballistic Missiles Into Sea', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/north-korea-missile-test_us_599c7c01e4b06a788a2c7df2', 'short_description': 'The launch comes as the U.S. and South Korea engage in a joint military exercise despised by Pyongyang.', 'date': '2017-08-25'}

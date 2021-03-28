@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'People Want Bill Maher Fired After He Uses A Racial Slur As A Joke', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/people-want-bill-maher-fired_us_5932b1efe4b0c242ca246bf5', 'short_description': 'Will his apology be enough?', 'date': '2017-06-03'}

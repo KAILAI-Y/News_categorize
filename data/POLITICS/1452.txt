@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Military Family's Legally Adopted Daughter Could Be Deported", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/military-family-adopted-daughter-deportation_us_5aaa7985e4b0004c0407fab5', 'short_description': '“I belong here. I have family here. That’s where I should be. This is my home.”', 'date': '2018-03-15'}

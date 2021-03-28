@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'The Best Comeback Story At Westminster Dog Show Sadly Ends On Day One', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/best-comeback-westminster-dog-show-ends_us_5a81b676e4b044b3821fb3cd', 'short_description': 'Fanucci the German shepherd recovered from a shattered leg.', 'date': '2018-02-12'}

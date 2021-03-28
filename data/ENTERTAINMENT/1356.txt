@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Alec Baldwin Uses 'To Kill A Mockingbird' Defense For Woody Allen", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/baldwin-uses-mochingbird-defense-forwoody-allen_us_5a6eaaa7e4b01fbbefb33c7c', 'short_description': '"If my defense of Woody Allen offends you, it\'s real simple. Unfollow."', 'date': '2018-01-29'}

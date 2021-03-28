@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Gothamist Sites And DNAinfo Shut Down After Staffers Unionize', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/dnainfo-gothamist-shut-down_us_59fb891be4b0b0c7fa39122e', 'short_description': 'Their CEO cited financial reasons for the closure.', 'date': '2017-11-02'}

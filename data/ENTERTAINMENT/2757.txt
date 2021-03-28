@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Peter Dinklage Was One Serious Punk Rocker Back In The Day', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/peter-dinklage-was-one-serious-punk-rocker-back-in-the-day-photos_us_59afd101e4b0dfaafcf3f7d4', 'short_description': '"I was like Sid Vicious," the "Game of Thrones" actor said.', 'date': '2017-09-06'}

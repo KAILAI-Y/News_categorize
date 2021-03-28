@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Glenn Close On Weinstein Effect: 'To Condemn All Men Is Stupid And Counterproductive'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/glenn-close-weinstein_us_5a37d54fe4b01d429ccaae10', 'short_description': 'The actress partially blamed "male DNA" for predatory behavior.', 'date': '2017-12-18'}

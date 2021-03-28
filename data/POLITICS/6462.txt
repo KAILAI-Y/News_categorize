@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Praises Steve Bannon's Return to Breitbart", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-steve-bannon-breitbart_us_59987c18e4b01f6e801ef2d9', 'short_description': 'Bannon has said he may be able to fight better for Trump at Breitbart than in the White House.', 'date': '2017-08-19'}

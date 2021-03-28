@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'The 2017 VMAs Red Carpet Was As Outrageous As Ever', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/mtv-vma-red-carpet_us_59a34902e4b0821444c41681', 'short_description': 'Check out all the looks from the red (er, blue) carpet.', 'date': '2017-08-27'}

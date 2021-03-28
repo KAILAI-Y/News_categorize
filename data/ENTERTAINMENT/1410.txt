@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jimmy Kimmel Zings 'Monster' Harvey Weinstein In Oscar Nominations Recap", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-on-the-2018-oscar-nominations_us_5a684e20e4b0dc592a0de3a1', 'short_description': 'He went there.', 'date': '2018-01-24'}

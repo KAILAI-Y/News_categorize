@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Sade To Release First Song Since 2010 For Ava DuVernay's 'A Wrinkle In Time'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/sade-wrinkle-in-time_us_5a8c7963e4b03414379aff3f', 'short_description': "Let's all praise Ava for being a smooth operator.", 'date': '2018-02-20'}

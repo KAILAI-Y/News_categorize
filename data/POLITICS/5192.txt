@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Marks Hispanic Heritage Month By Mocking The Puerto Rican Accent', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-puerto-rico-spanish-accent_us_59d881dee4b072637c443a6e', 'short_description': '"Ugh. Just build the wall already... permanently around him."', 'date': '2017-10-07'}

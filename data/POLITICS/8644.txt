@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Dogs At Polling Stations Are Getting The UK Through Election Day', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/dogs-at-polling-stations-uk-election-2017_us_5938ea22e4b0c5a35c9bf4c0', 'short_description': 'Democracy can be doggone wonderful!', 'date': '2017-06-08'}

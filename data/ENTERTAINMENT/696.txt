@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Trump Personally Phoned Roseanne Barr About Her Ratings', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-roseanne-barr-ratings_us_5abcadb8e4b06409775d565c', 'short_description': 'The Trump-supporting actress plays a Trump supporter on the "Roseanne" reboot.', 'date': '2018-03-29'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "The Algonquin Hotel's Cat Fashion Show Is Paw-sitively Purrfect", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/cat-fashion-show_us_598499afe4b0cb15b1be29aa', 'short_description': 'MEOW!', 'date': '2017-08-04'}

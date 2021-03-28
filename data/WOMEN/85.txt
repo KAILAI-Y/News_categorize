@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "You Can Now Buy Your Very Own 'Fearless Girl' Statue", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/you-can-now-buy-your-very-own-fearless-girl-statue_us_5ab51dbce4b008c9e5f6d7e0', 'short_description': "It'll cost you though. 😬", 'date': '2018-03-23'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "John McCain Says He's Facing 'Very Virulent Form Of Cancer'", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/john-mccain-cancer_us_59b55fd1e4b0354e44127523', 'short_description': '“I’m facing a challenge, but I’ve faced other challenges, and I’m very confident about getting through this one as well."', 'date': '2017-09-10'}

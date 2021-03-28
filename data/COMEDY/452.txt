@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Dave Chappelle Teases Upcoming Netflix Gig With Trump Voters Gag', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/dave-chappelle-netflix-special-donald-trump_us_5a3b7263e4b025f99e148d04', 'short_description': "It's timely.", 'date': '2017-12-21'}

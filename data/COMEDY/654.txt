@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Samantha Bee’s Hell House Scares A Climate Change Denier Into Believing', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-climate-change_us_59f19425e4b0af27f589aac8', 'short_description': 'Terrifying.', 'date': '2017-10-26'}

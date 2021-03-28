@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Gives Donald Trump Some Very Unexpected Advice About North Korea', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-advice_us_5afd1d05e4b06a3fb50d8f74', 'short_description': '"I never thought I’d say this."', 'date': '2018-05-17'}

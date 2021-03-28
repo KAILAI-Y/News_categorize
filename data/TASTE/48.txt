@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Papa John's Apologizes For 'Divisive' NFL Protests Comments, Flips Bird At Neo-Nazis", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/papa-johns-apology-nfl-neo-nazis_us_5a0c2e17e4b0b17ffce173ed', 'short_description': '"We sincerely apologize to anyone that thought they were divisive."', 'date': '2017-11-15'}

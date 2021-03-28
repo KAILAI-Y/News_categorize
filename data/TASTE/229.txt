@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "A European Company Made 'Beer For Her.' It's Not Going Over Well.", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/beer-for-women_us_5971f8f3e4b0e79ec198a5df', 'short_description': "Okay ladies, now let's get in formation.", 'date': '2017-07-21'}

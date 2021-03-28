@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Star Wars' Fan Finds Poignant Connection Between 'A New Hope' And 'The Last Jedi'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/star-wars-connection-luke-leia_us_5acf6c91e4b0d4931c8aebc1', 'short_description': "We're not crying at ALL.", 'date': '2018-04-12'}

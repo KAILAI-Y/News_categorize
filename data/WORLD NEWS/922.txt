@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'UN Report: Syrian Government To Blame For April Chemical Attack', 'authors': 'Rodrigo Campos, Reuters', 'link': 'https://www.huffingtonpost.com/entry/syria-to-blame-khan-sheikhoun-chemical-attack_us_59f2543be4b03cd20b808472', 'short_description': 'The attack killed dozens of people, including children.', 'date': '2017-10-26'}

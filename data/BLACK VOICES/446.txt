@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Former Police Officer Sentenced To 20 Years In Prison For Death Of Walter Scott', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/walter-scott-police-shooting_us_5a296288e4b03ece0300a697', 'short_description': 'Michael Slager fatally shot Scott in 2015 while Scott ran away from him.', 'date': '2017-12-07'}

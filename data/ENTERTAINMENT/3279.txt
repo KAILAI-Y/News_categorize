@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ed Sheeran Says He's Quitting Twitter For One Heavy Reason", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/ed-sheeran-has-quit-twitter_us_595b8dc5e4b0da2c7325491c', 'short_description': 'The platform features "nothing but people saying mean things," he said.', 'date': '2017-07-04'}

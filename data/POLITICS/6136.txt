@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "It's Time To Care About Unions", 'authors': 'Ellen Bravo and Carol Joyner, Contributors', 'link': 'https://www.huffingtonpost.com/entry/its-time-to-care-about-unions_us_59a6f85fe4b063ae34daa94e', 'short_description': 'Real freedom is about more than making a living.', 'date': '2017-09-01'}

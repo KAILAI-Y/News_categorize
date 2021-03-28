@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '39 Santa Photos That Did NOT Go As Planned', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/santa-photo-fails_us_5a2e9e0ce4b073789f6b7d67', 'short_description': 'These kids were not having it.', 'date': '2017-12-13'}

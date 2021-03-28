@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's What Is Coming To Amazon In April 2018", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/amazon-coming-arriving-april_us_5abbbddbe4b04a59a313a3c0', 'short_description': '"Philadelphia" and "The Florida Project" will be streaming soon.', 'date': '2018-03-29'}

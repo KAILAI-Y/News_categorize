@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bernie Sanders Has A Plan To Revive Labor Unions', 'authors': 'Dave Jamieson', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-revive-labor-unions_us_5af3556de4b0859d11d00d39', 'short_description': "The senator tells HuffPost it's time to ban right-to-work laws and make it easier to unionize.", 'date': '2018-05-09'}

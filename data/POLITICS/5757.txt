@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How The Trump Nightmare Ends', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/how-the-trump-nightmare-ends_us_59bf135fe4b086432b081689', 'short_description': 'A scenario that becomes more likely by the day.', 'date': '2017-09-18'}

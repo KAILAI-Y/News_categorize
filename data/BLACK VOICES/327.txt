@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Kendrick Lamar, SZA Highlight The Stunning Beauty Of Africa In 'All The Stars' Video", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/kendrick-lamar-sza-all-the-stars-video_us_5a79f09fe4b06505b4e89b3a', 'short_description': 'It\'s the first single off the "Black Panther" soundtrack.', 'date': '2018-02-06'}

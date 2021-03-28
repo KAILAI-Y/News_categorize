@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Maryland Beach Town Passes Emergency Law To Protect Families From Topless Sunbathers', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/emergency-topless-law_us_593cafe7e4b0c5a35ca028a5', 'short_description': '"Females baring their breasts is seen by society as unpalatable," says city attorney.', 'date': '2017-06-11'}

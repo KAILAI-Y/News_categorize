@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Muellerman' Is Trump's Worst Nightmare On 'The President Show'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-muellerman-is-trumps-worst-nightmare-on-the-president-show_us_59f36038e4b07fdc5fbde206', 'short_description': 'Just whisper "collusion" three times to summon the Muellerman.', 'date': '2017-10-27'}

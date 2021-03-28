@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Woman Suing Her Gym For Being Trans Inclusive Takes Her Case To State Supreme Court', 'authors': 'James Michael Nichols', 'link': 'https://www.huffingtonpost.com/entry/woman0sui_us_596cd20ce4b0174186295aa5', 'short_description': '"This is about me and how I felt unsafe," says Yvette Cormier.', 'date': '2017-07-17'}

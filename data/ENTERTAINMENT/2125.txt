@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Anna Faris Is Living Her Best Life On A Boat In Italy With Rumored Boyfriend', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/anna-faris-italy-boat-new-boyfriend_us_5a0c5cc6e4b0b17ffce1b994', 'short_description': "Even we're jealous TBH.", 'date': '2017-11-15'}

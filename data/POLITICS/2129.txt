@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Top Democratic Consultant Resigns Amid Sexual Misconduct Allegations', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/jim-walsh-resigns_us_5a835d71e4b0cf06751f7985', 'short_description': 'A Democratic campaign committee has launched an investigation into the charges.', 'date': '2018-02-13'}

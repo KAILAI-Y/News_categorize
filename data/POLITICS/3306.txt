@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Are Hustling To Pass A Tax Bill That No One Really Likes', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/republicans-unpopular-tax-bill_us_5a38218ae4b0860bf4aa5558', 'short_description': "And views don't seem to be improving.", 'date': '2017-12-18'}

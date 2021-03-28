@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Roy Moore Files Complaint Claiming He Was Targeted By Political Conspiracy', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-files-lawsuit_us_5ae778efe4b04aa23f2614b6', 'short_description': 'He says his accusers planned to undermine his campaign.', 'date': '2018-04-30'}

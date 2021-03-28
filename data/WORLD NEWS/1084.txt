@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Rockets Hit Kabul Airport Shortly After James Mattis Arrives In Afghanistan', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/james-mattis-kabul-airport-attack_us_59cb7981e4b05063fe0dde8c', 'short_description': 'ISIS claimed responsibility for the incident.', 'date': '2017-09-27'}

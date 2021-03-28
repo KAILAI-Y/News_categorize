@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: What's Next For Uber Following CEO's Resignation", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-whats-next-for-uber-following-ceos-resignation_us_594a4cfae4b0db570d37d869', 'short_description': 'Including tipping in the app.', 'date': '2017-06-21'}

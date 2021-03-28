@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'John Mayer Reportedly In Hospital For Emergency Appendectomy', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/john-mayer-appendectomy_us_5a26d523e4b069df71fa1d1b', 'short_description': 'He was supposed to perform in New Orleans with Dead & Company on Tuesday night.', 'date': '2017-12-05'}

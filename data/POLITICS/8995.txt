@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Madness And Science Behind The Donald Trump Handshake', 'authors': 'Sam Stein', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-handshake_us_592adb83e4b0df57cbfc23fd', 'short_description': 'The definitive breakdown of the most insane greeting in all of politics.', 'date': '2017-05-28'}

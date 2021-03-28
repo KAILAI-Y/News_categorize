@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Cheap Weekend Getaways Where You Can See Peak Foliage In Action', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/weekend-fall-foliage-getaways_us_59dbd412e4b0208970cefb21', 'short_description': 'Autumn is in the air 🍁🍃🍂', 'date': '2017-10-09'}

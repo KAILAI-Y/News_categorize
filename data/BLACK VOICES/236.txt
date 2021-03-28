@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Will And Jaden Smith's Company To Donate Water To Flint Until Lead Levels Drop", 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/will-jaden-smith-flint-michigan-water_us_5a9ea76ce4b0a0ba4ad7dac5', 'short_description': 'Flint, Michigan, has been without clean water since 2014.', 'date': '2018-03-06'}

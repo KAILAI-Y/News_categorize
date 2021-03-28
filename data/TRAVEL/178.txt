@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Flight Attendant Spotted Pouring Champagne Back Into A Bottle', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/flight-attendant-champagne_us_5968e0c6e4b03389bb16e08a', 'short_description': 'No, no, no, no, no. No.', 'date': '2017-07-14'}

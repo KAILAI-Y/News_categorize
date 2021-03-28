@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '82 Rabbis, Activists Arrested On Capitol Hill Over DACA Protest', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/rabbis-arrested-daca-protest_us_5a5f8b13e4b046f0811c6213', 'short_description': '“This is no time for business as usual,” said one rabbi who was among those arrested Wednesday.', 'date': '2018-01-17'}

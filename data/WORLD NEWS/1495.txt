@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Harrowing Images From Venezuela's Deadly Protests", 'authors': 'Chris McGonigal and Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/venezuela-protest-photos_us_597f3e54e4b0da64e87a9ecb', 'short_description': "The country's political and economic crisis has caused thousands to take to the streets.", 'date': '2017-07-31'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Rachel Lindsay Responds Perfectly To ‘Bachelor’ Contestant’s Racist Tweet', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/bachelorette-rachel-lindsay-leah-block-racist-tweet-lee-garrett_us_59494b50e4b07d3e35d88e93', 'short_description': '#IHaveTimeToday', 'date': '2017-06-20'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Mocks Trump For Doing Exactly What 'The Crooked Clintons' Did", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-lawyer_us_5aea680ae4b022f71a04e4ba', 'short_description': '"Late Show" host tears into Trump over latest White House hire.', 'date': '2018-05-03'}

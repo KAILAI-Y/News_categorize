@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': '29 Things To Give A S**t About In 2018', 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/29-things-care-about-2018_us_5a3bdf03e4b025f99e156569', 'short_description': 'Care more, even when it’s overwhelming.', 'date': '2018-01-01'}

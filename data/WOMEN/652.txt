@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Scotland To Give Low-Income Women Free Menstrual Products In New Pilot Initiative', 'authors': 'Jenavieve Hatch', 'link': 'https://www.huffingtonpost.com/entry/scotland-to-give-low-income-women-free-menstrual-products-in-new-pilot-initiative_us_59662343e4b005b0fdca0697', 'short_description': 'Hell yes.', 'date': '2017-07-12'}

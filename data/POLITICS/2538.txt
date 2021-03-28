@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Minnesota Democrat Turns Frustration Over Shutdowns Into A Run For Congress', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/leah-phifer-congress-minnesota_us_5a6645aae4b0e56300728161', 'short_description': 'Leah Phifer was furloughed in 2013, and now she wants to help stop the dysfunction.', 'date': '2018-01-23'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Puppies Gamely Predict Winner Of Super Bowl On 'Tonight Show'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/puppies-predict-super-bowl-winner_us_5a733577e4b0bf6e6e227ce6', 'short_description': "If you care which team they pick, you're missing the point.", 'date': '2018-02-01'}

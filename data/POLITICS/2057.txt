@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Obama Calls For 'Common-Sense' Gun Laws After Florida School Shooting", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/obama-florida-school-shooting_us_5a85c16ae4b0774f31d33175', 'short_description': '"We are not powerless," the former president said.', 'date': '2018-02-15'}

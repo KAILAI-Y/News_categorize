@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Abortion Goes Front And Center In Alabama Senate Race', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/alabama-senate-race-abortion_us_59e8f5fbe4b0f9d35bc940ca', 'short_description': 'A pro-Trump super PAC released an ad attacking Democrat Doug Jones on the issue.', 'date': '2017-10-19'}

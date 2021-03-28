@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'JetBlue Is Offering $49 Flights In An Awesome, 2-Day Flash Sale', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/jetblues-49-flights-are-the-gift-that-keeps-on-giving_us_59f9eeeae4b046017fb06d73', 'short_description': 'So many tropical destinations!', 'date': '2017-11-01'}

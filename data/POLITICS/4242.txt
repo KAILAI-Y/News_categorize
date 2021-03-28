@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Whistleblower Sues Interior Department For Information On Staff Shuffle', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/joel-clement-lawsuit-interior-department_us_5a0b242fe4b00a6eece4a0a3', 'short_description': '"They are bringing this on themselves," Joel Clement said.', 'date': '2017-11-14'}

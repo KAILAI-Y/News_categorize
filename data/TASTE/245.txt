@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'This Bathing Suit With Guy Fieri’s Face On It Isn’t Exactly Appetizing', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/guy-fieri-bathing-suit_us_5967cbd7e4b03389bb1616ec', 'short_description': 'But it probably pairs perfectly with a pair of wrap-around sunglasses.', 'date': '2017-07-13'}

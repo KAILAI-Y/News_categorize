@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Debra Messing Reacts To Megyn Kelly's Cringe-Worthy Gay Comment", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/debra-messing-reacts-to-megyn-kellys-cringe-worthy-gay-comment_us_59cbb2dae4b053a9c2f577d2', 'short_description': 'Kelly asked a “Will & Grace” fan if the show made him gay.', 'date': '2017-09-27'}

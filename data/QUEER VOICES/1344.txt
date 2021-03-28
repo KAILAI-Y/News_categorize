@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Gus Kenworthy And Other Queer Stars Strip Down For A Powerful Reason', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/gus-kenworthy-los-angeles-underwear-campaign_us_59245a4ce4b094cdba57f78a', 'short_description': 'The new "Celebrate Yourself" campaign benefits LGBTQ youth.', 'date': '2017-05-29'}

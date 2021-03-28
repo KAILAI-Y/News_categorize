@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Will, Harry And Kate Rededicate Princess Diana's Gravesite", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/princess-diana-grave_us_59564ccbe4b0da2c7322e919', 'short_description': 'The service took place on what would have been her 56th birthday.', 'date': '2017-07-01'}

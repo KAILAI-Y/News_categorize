@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Celebrates Earth Day By Praising Rollback Of Environmental Protections', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/trump-earth-day-2018_us_5adcac66e4b009869bfa472d', 'short_description': "The president's dubious logic on conservation is being called out on Twitter.", 'date': '2018-04-22'}

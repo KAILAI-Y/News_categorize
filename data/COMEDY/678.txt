@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "This Is What It's Like Talking To Spirits On A Modernized Ouija Board", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/this-is-what-its-like-talking-to-spirits-on-a-modernized-ouija-board_us_59ea17eae4b0df10767caaac', 'short_description': 'Spirits have needs, too.', 'date': '2017-10-20'}

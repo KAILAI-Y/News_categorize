@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Russian Ambassador To Sudan Found Dead In Swimming Pool', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/russian-ambassador-dead_us_599df045e4b05710aa5994ba', 'short_description': 'It remains unclear what caused him to drown.', 'date': '2017-08-23'}

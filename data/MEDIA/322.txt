@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Former Gawker Employees Launch Kickstarter Campaign To Save The News Site', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/former-employees-gawker-kickstarter_us_5a2f090ce4b01598ac475ebc', 'short_description': 'The fundraising campaign is a last-ditch effort to revive Gawker.com.', 'date': '2017-12-12'}

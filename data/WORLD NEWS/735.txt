@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'More Than 3,000 Migrants Have Died Crossing The Mediterranean This Year', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/mediterranean-3000-migrants-dead_us_5a1d7d88e4b0e2ddcbb2d99c', 'short_description': 'The number of migrant crossings is decreasing, but the fatality rate is rising.', 'date': '2017-11-28'}

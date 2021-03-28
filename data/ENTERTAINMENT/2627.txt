@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'It' Keeps Scaring Up Crazy Good Profits", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/it-box-office-highest-grossing-horror-movie_us_59c54130e4b06ddf45f7b380', 'short_description': "By some metrics, it's now the highest-grossing R-rated horror movie in history.", 'date': '2017-09-22'}

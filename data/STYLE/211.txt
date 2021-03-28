@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Beyoncé Was Red-Hot Retro At The Bruno Mars Concert In New York City', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/beyonc%C3%A9-is-red-hot-at-the-bruno-mars-concert-in-new-york-city_us_59ccfcfde4b02aef6cd7dcf4', 'short_description': '🔥 🔥 🔥', 'date': '2017-09-28'}

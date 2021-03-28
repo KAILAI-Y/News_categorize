@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Trump Administration Abruptly Halts Offshore Drilling Safety Study', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-offshore-drilling-safety-study_us_5a3c937ae4b025f99e16162b', 'short_description': 'Findings were supposed to help prevent another Deepwater Horizon disaster.', 'date': '2017-12-22'}

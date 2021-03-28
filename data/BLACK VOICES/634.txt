@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Firefighter Says Saving One Dog Is ‘More Important’ Than A Million Black People', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/tyler-roysdon-firefighter-racist-facebook_us_59bc2a97e4b0edff971c0fbc', 'short_description': 'Tyler Roysdon has been suspended for his racist Facebook post.', 'date': '2017-09-15'}

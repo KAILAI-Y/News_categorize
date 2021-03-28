@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Manafort Reportedly Wiretapped By Feds', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/paul-manafort-wiretap_us_59c05148e4b0f22c4a8c0527', 'short_description': "The FBI is investigating Trump's former campaign manager.", 'date': '2017-09-18'}

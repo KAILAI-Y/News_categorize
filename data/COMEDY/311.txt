@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel 'Reveals' The Trump White House's Valentine's Day Cards", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-trump-white-house-valentines-day-cards_us_5a83e568e4b0cf06751fcf4f', 'short_description': '"I love you like daddy loves Jared."', 'date': '2018-02-14'}

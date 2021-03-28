@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kelly And The Kool-Aid', 'authors': 'Lance Simmens, ContributorAuthor, Political Activist, Commentator, Website: www.lsimmens...', 'link': 'https://www.huffingtonpost.com/entry/kelly-and-the-kool-aid_us_59ea1c06e4b032f98fa30d28', 'short_description': 'I am saddened by the disservice he has rendered.', 'date': '2017-10-20'}

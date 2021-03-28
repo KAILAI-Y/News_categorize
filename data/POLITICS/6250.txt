@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Still Insists Mexico Will Pay For The Wall -- Eventually', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-mexico-will-pay-for-wall_us_59a2cdd1e4b0821444c3c8c8', 'short_description': "As usual, he's vague on how that would happen.", 'date': '2017-08-27'}

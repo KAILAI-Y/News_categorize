@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'How Christmas Lights Became Such An Inescapable Thing', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/meaning-christmas-lights_us_5a2ae061e4b0a290f0506c6b', 'short_description': "Their joyful glow is much safer than the lights' origin.", 'date': '2017-12-12'}

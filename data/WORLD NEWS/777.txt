@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "October Was Mexico's Deadliest Month On Record", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/mexico-october-deadliest-month_us_5a158a7ee4b09650540e9189', 'short_description': 'There has been an average of 69 killings per day in the crisis-torn country this year.', 'date': '2017-11-22'}

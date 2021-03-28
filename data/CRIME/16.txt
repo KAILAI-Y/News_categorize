@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Police Search Suspected Serial Killer's Dumping Ground", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/police-search-suspected-serial-killer-dumping-ground_us_5af4ded3e4b0e57cd9f7c2e5', 'short_description': 'Michigan cops say Arthur Ream bragged "about murdering four to six people."', 'date': '2018-05-11'}

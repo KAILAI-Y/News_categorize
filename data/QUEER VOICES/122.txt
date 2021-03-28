@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'How Calum Scott Turned His Painful Coming Out Into A Compelling Debut Album', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/calum-scott-only-human_us_5abe4959e4b0f112dc9bb52c', 'short_description': 'With "Only Human," the "Britain\'s Got Talent" veteran makes an impressive splash.', 'date': '2018-04-11'}

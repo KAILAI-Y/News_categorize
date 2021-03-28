@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'People Are Shading Jay-Z After Chrissy Teigen Joked About His Album', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/shade-jay-z-chrissy-teigen-joked-album_us_59580a02e4b05c37bb7eca4f', 'short_description': 'The wit is 24/7 on his "4:44."', 'date': '2017-07-01'}

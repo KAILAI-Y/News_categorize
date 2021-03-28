@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kim Cattrall's Missing Brother Found Dead At His Home", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/kim-cattralls-missing-brother-found-dead-at-his-home_us_5a77df61e4b06ee97af43117', 'short_description': 'Foul play is not suspected.', 'date': '2018-02-05'}

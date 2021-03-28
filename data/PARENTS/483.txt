@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "People Are Obsessed With This Real-Life Baymax From 'Big Hero 6'", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/people-are-obsessed-with-this-real-life-baymax-from-big-hero-6_us_59848997e4b041356ebf6763', 'short_description': 'Disney brought the character to life!', 'date': '2017-08-04'}

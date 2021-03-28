@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Miley Cyrus Explains 'F**k You' Tweet About Nude Pic On 'Jimmy Kimmel'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/miley-cyrus-ashamed-jimmy-kimmel_us_5ae986f9e4b00f70f0ed870b', 'short_description': '"I shouldn\'t be ashamed," the singer said.', 'date': '2018-05-02'}

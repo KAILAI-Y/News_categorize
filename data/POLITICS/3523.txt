@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Celebrities Urge Alabamians To Stay On #RightSideOfHistory As Election Looms', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/rightsideofhistory-alabama-election_us_5a2e41aae4b073789f6b0903', 'short_description': '"Dear Alabama, don\'t vote for a pedophile. It’s that simple.”', 'date': '2017-12-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Lawmaker In South Dakota Says 'We Can All Support' Running Over Protesters", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/lynne-disanto-facebook-splatter_us_59c20340e4b087fdf50907f6', 'short_description': 'Lynne DiSanto is a Republican whip in the South Dakota House of Representatives.', 'date': '2017-09-20'}

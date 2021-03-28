@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "One Of The DEA's Most Wanted Drug Traffickers Pleads To Be Left In Peace", 'authors': 'Anabel Hernández', 'link': 'https://www.huffingtonpost.com/entry/rafael-caro-quintero-mexico_us_5abe70b0e4b0a47437aaaf07', 'short_description': 'Rafael Caro Quintero is on the run in a mountainous part of Mexico.', 'date': '2018-04-04'}

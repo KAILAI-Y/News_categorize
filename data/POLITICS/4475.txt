@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Says Deadly Texas Shooting Isn't A Guns Issue, It's A Mental Health Problem", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/trump-texas-shooting-mental-health-problem_us_5a0004c8e4b0c96530006f16', 'short_description': '"This is a mental health problem at the highest level."', 'date': '2017-11-06'}

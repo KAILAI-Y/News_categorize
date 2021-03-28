@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Baltimore Rededicates Former Confederate Memorial Site To Harriet Tubman', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/baltimore-harriet-tubman_us_5aa57e46e4b086698a9eef58', 'short_description': "The ceremony was held on the 105th anniversary of the famed abolitionist's death.", 'date': '2018-03-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Ryan Suggests Steve Scalise Supports Kevin McCarthy For Speaker', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-scalise-backs-mccarthy-speaker_us_5acf7ad7e4b0edca2cb737c9', 'short_description': 'This is already getting weird.', 'date': '2018-04-12'}

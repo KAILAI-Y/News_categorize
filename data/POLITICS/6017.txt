@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Victory At Last!', 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/victory-at-last_us_59af54eae4b0354e440d8753', 'short_description': 'In America’s wars, failure is the new success.', 'date': '2017-09-06'}

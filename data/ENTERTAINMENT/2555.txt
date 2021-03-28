@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Mariah Carey Interviewed On Vegas Shooting While Lounging By A Christmas Tree', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/mariah-carey-good-morning-britain-interview_us_59d22f5ae4b09538b509815e', 'short_description': 'Some "Good Morning Britain" viewers were not happy.', 'date': '2017-10-02'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "The Philippines' Most Active Volcano Is On The Verge Of Eruption", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/philippines-volcano-verge-eruption_us_5a65c1f0e4b0dc592a0a654a', 'short_description': "It's been spewing ash, lava, and pyroclastic material for more than a week.", 'date': '2018-01-22'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Gigi Hadid Calls Out Islamophobic Twitter User After NYC Attack', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/gigi-hadid-islamaphobic-twitter-nyc-attack_us_59fa055fe4b01b474047b526', 'short_description': 'The 22-year-old made a point to directly address the bigotry.', 'date': '2017-11-01'}

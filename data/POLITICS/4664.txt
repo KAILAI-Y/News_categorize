@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Unleashed Trump Could Now Create Legal Trouble For Himself, Warns Preet Bharara', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/unleashed-trump-legal-trouble_us_59f6753be4b03cd20b827294', 'short_description': 'Special counsel Robert Mueller will be watching.', 'date': '2017-10-30'}

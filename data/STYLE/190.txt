@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Here's How Rihanna Dresses For A Casual Tuesday", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/rihanna-gown_us_59de2492e4b01df09b77c026', 'short_description': 'Wild, wild, wild.', 'date': '2017-10-11'}

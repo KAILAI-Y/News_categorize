@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Watch Larry David Terrorize The Staff Of 'Late Night'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/larry-david-late-night_us_59cb3cb2e4b053a9c2f50263', 'short_description': 'Pretty, pretty terrible.', 'date': '2017-09-27'}

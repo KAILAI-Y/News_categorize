@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'These Were The Hottest Baby Names Of 2017', 'authors': 'Pamela Redmond Satran, Nameberry', 'link': 'https://www.huffingtonpost.com/entry/these-were-the-hottest-baby-names-of-2017_us_5a1e4773e4b0dc52b02a329b', 'short_description': "Nameberry's annual list is here!", 'date': '2017-12-01'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Quarterback Josh Rosen Leads UCLA To Epic Comeback From 34 Down', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/quarterback-josh-rosen-leads-ucla-to-epic-comeback-from-34-down_us_59ad122ce4b0354e440b45d4', 'short_description': '"It got real bleak at a certain point," he said.', 'date': '2017-09-04'}

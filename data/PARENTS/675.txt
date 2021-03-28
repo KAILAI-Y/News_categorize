@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '35 Hilarious Tweets That Sum Up #DadLife', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/hilarious-tweets-that-sum-up-dadlife_us_5941643ae4b09ad4fbe4e333', 'short_description': "Happy Father's Day!", 'date': '2017-06-16'}

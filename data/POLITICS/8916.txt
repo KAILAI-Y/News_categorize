@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "While You Obsessed Over Trump's Scandals, He's Fundamentally Changed The Country", 'authors': 'Sam Stein', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-scandals-policy_us_592f1effe4b0540ffc841a46', 'short_description': 'The president has immense power and, despite the Russia saga, he is using it.', 'date': '2017-05-31'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jaime Lannister Is The 'Game Of Thrones' Elf On The Shelf Of Your Nightmares", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/lannister-on-the-bannister-game-of-thrones-elf-on-the-shelf_us_5a30f91ae4b091ca2684032f', 'short_description': 'Introducing... the Lannister on the Bannister.', 'date': '2017-12-13'}

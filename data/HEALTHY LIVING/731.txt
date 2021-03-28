@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Stripping Americans Of Health Insurance Could Be Deadly', 'authors': 'Ronnie Cohen, Reuters', 'link': 'https://www.huffingtonpost.com/entry/stripping-americans-of-health-insurance-could-be-deadly_us_5952b062e4b05c37bb7a0e42', 'short_description': 'Health insurance saves lives.', 'date': '2017-06-27'}

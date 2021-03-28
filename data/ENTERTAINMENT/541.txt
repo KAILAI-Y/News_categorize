@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Lady Gaga Crushes On Cardi B's 'Bad Romance' Cover In High School", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/lady-gaga-cardi-b-bad-romance_us_5ad09fd2e4b077c89ce7c3e2', 'short_description': 'The rapper was a show-stealing Little Monster back in the day.', 'date': '2018-04-13'}

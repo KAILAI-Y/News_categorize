@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': '16 Girls Who Changed The World', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/16-girls-who-changed-the-world_us_5a8f4f09e4b01e9e56b9e26c', 'short_description': "Proof you're never too young to make an impact.", 'date': '2018-03-08'}

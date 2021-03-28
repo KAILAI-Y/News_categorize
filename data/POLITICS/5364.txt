@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Health Insurance For 9 Million Kids On The Line As Congress Fails To Meet Deadline', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/chip-health-insurance-deadline_us_59d0f456e4b09538b508ca23', 'short_description': 'Lawmakers are playing with fire.', 'date': '2017-10-01'}

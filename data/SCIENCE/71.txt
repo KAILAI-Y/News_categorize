@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': "Everything You Need To Know To Get Ready For The 'Great American Eclipse'", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/great-american-solar-eclipse-2017-what-know_us_598a0b30e4b0449ed506065b', 'short_description': "Don't get caught in the dark --\n unless you mean to.", 'date': '2017-08-09'}

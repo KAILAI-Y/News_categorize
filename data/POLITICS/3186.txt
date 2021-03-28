@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'There Is Now Weed Named After Monica Lewinsky', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/weed-named-after-monica-lewinsky-exists_us_5a3d3f52e4b025f99e16ec5e', 'short_description': 'This is dope.', 'date': '2017-12-22'}

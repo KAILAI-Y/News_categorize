@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Breitbart Fires Reporter Over Her Islamophobic Tweets Post-London Attack', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/brietbart-reporter-fired_us_59359173e4b0cfcda9167023', 'short_description': '"Breitbart News fired me for telling the truth about Islam and Muslim immigration," she claims.', 'date': '2017-06-05'}

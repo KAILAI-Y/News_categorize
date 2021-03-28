@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Deutsche Bank Stonewalls Dems On Trump Loans And Russia', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/deutsche-bank-trump-loans_us_593ccaf5e4b0b13f2c6b326a', 'short_description': 'House Financial Services Committee members seek possible money links.', 'date': '2017-06-11'}

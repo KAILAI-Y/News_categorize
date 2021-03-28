@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': '12 Simple Things You Can Do To Make Thanksgiving More Meaningful', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/how-to-make-thanksgiving-meaningful_us_5a146e8ce4b025f8e93205ba', 'short_description': 'Make this year about more than just eating with these expert tips.', 'date': '2017-11-22'}

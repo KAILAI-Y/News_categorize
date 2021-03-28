@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'DHS Secretary Says She Doesn’t Remember Trump Saying THAT Curse Word', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/dhs-secretary-trump-comments_us_5a5e18ede4b0fcbc3a13b9f0', 'short_description': 'The president reportedly said last week that he didn’t want immigrants from certain nations.', 'date': '2018-01-16'}

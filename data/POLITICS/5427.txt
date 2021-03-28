@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senator: Russian Trolls Stoked NFL Debate', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/russia-trolls-nfl_us_59cc45eee4b02aef6cd76665', 'short_description': 'WASHINGTON, Sept 27 (Reuters) - A U.S.\xa0senator on Wednesday said Russian internet trolls, seeking to polarize Americans, helped', 'date': '2017-09-28'}

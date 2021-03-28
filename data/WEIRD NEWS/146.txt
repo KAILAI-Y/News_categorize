@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Goose Hunter Knocked Unconscious By Dead Bird Falling From Sky', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/goose-hunter-knocked-outdead-bird_us_5a761ad9e4b06ee97af31d4e', 'short_description': 'The hunter is in stable condition.', 'date': '2018-02-03'}

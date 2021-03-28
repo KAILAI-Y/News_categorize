@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Villanova Fans Jump Fire To Celebrate NCAA Basketball Title', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/villanova-fans-jump-fire-to-celebrate-ncaa-basketball-title_us_5ac346b8e4b04646b645d03f', 'short_description': 'Students climbed trees to break off branches for the flames.', 'date': '2018-04-03'}

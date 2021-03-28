@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Announces Details Of Meeting With Kim Jong Un', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-details-meeting-kim-jong-un_us_5af459dee4b09bb419e5a6a3', 'short_description': 'Trump will meet with Kim Jong Un on June 12 in Singapore.', 'date': '2018-05-10'}

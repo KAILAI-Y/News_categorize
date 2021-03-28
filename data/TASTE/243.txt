@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "IHOP Brings The Heat In Twitter Feud With Denny's", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/ihop-dennys-twitter-feud-war_us_5968fab1e4b0d6341fe8900f', 'short_description': '"Spoken like 2nd place."', 'date': '2017-07-14'}

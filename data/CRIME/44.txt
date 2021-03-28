@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Missing Teen Found Safe After Ominous 'Call Police' Phone Message", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/missing-kentucky-teen-messaged-friend-call-police_us_5ae23404e4b055fd7fc9e8e5', 'short_description': 'Amber Wagers was last seen getting into a white car on Wednesday.', 'date': '2018-04-26'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Tiffany Haddish Jumped A Barrier To Meet Meryl Streep At The Oscars', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/tiffany-haddish-jumped-a-barrier-to-meet-meryl-streep-at-the-oscars_us_5a9d44a2e4b089ec353ce945', 'short_description': 'As one does.', 'date': '2018-03-05'}

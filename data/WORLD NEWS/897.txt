@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Ousted Catalan Leader Accepts New Election', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/catalan-leader-elections_us_59f87ae6e4b0aec1467ac16e', 'short_description': 'Puigdemont also said he was not seeking asylum in Belgium.', 'date': '2017-10-31'}

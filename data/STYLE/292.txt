@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Misty Copeland Is Estée Lauder's New Modern Muse", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/misty-copeland-estee-lauder_us_597f74c5e4b0d6e28a0f6f00', 'short_description': 'This casting is on pointe.', 'date': '2017-07-31'}

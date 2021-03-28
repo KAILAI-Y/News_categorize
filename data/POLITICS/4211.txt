@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '16 Women And Donald Trump', 'authors': 'Robert Greenwald, ContributorFounder and President, Brave New Films', 'link': 'https://www.huffingtonpost.com/entry/16-women-and-donald-trump_us_5a0c9e82e4b006a16baf1ec9', 'short_description': 'We owe it to these women, and to all women, to hold President Trump to account.', 'date': '2017-11-15'}

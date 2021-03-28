@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Oprah’s Bathtub Is So Extra, It Even Shocked Reese Witherspoon', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/oprahs-bathtub-is-so-extra-it-even-shocked-reese-witherspoon_us_5aa81a4fe4b0a09afeaea3bd', 'short_description': "Peak Oprah, y'all.", 'date': '2018-03-13'}

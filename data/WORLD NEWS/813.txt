@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Pope Francis Blasts 'Perverse Attitudes' Of Climate Change Deniers", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/pope-francis-climate-change_us_5a0f5525e4b0e97dffed3e0d', 'short_description': 'The U.S. remains the only country in the world to reject the Paris climate agreement.', 'date': '2017-11-17'}

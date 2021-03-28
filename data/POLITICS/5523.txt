@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Hits Puerto Rico For 'Broken Infrastructure & Massive Debt'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-puerto-rico-tweet_us_59c9a731e4b0cdc77333f6f0', 'short_description': 'President claims the island is "doing well" with food, water and medical needs.', 'date': '2017-09-26'}

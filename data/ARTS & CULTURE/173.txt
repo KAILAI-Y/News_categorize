@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'People Across Manchester Are Getting Bee Tattoos To Honor Bombing Victims', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/manchester-bee-tattoos-fundraiser_us_592d954ae4b053f2d2ae5d35', 'short_description': 'Hundreds of people got inked across the U.K.', 'date': '2017-05-30'}

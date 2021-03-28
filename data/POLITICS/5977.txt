@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Reassures Dreamers They're Safe After Nancy Pelosi Asks Him To", 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/trump-daca-dreamers_us_59b157a7e4b0b5e531043651', 'short_description': 'He tweeted that they "have nothing to worry about" for the next six months.', 'date': '2017-09-07'}

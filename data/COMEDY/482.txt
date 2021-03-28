@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Sends Roy Moore Off Into The Sunset With Hilarious Farewell Song', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-roy-moore-song_us_5a31eee4e4b01bdd7659e44b', 'short_description': 'The failed Senate candidate gets the musical tribute he deserves.', 'date': '2017-12-14'}

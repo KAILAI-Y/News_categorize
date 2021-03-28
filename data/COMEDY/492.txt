@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Al Franken Makes Santa's Naughty List On 'SNL,' But Roy Moore Makes The 'Registry'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snl-franken-moore-santa_us_5a2cba7ce4b069ec48adf595', 'short_description': "Kid nearly schools Claus on Matt Lauer's sex toys.", 'date': '2017-12-10'}

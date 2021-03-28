@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jason Chaffetz Still Crusading Against Poor People With Smartphones', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/jason-chaffetz-instagram-homeless-guy_us_5979fba2e4b02a8434b4817d', 'short_description': 'The ex-lawmaker claims he wants to "help those in need help themselves."', 'date': '2017-07-27'}

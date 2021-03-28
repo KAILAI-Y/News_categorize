@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ben Affleck Really Wants You To Believe He's Not Leaving Batman", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/ben-affleck-finally-addresses-rumors-hes-leaving-batman_us_5972e30de4b09e5f6ccf8178', 'short_description': 'Does he convince you?', 'date': '2017-07-22'}

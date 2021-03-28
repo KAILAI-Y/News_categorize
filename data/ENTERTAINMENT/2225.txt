@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Patton Oswalt Marries Meredith Salenger In Hollywood Ceremony', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/patton-oswalt-marries-meredith-salenger_us_59ff4e57e4b04cdbeb33e3cf', 'short_description': "The comedian's 8-year-old daughter served as flower girl.", 'date': '2017-11-05'}

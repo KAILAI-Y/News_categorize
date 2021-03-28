@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Rep. Introduces Bill That Would Demand White House Apologize To McCain', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/gop-rep-bill-apology-mccain_us_5afe8c74e4b07309e056a09d', 'short_description': 'Many in Congress are furious over a White House aide joking that McCain is "dying anyway."', 'date': '2018-05-18'}

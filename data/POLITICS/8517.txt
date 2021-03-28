@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Touts Warmed-Over Obama Initiatives In Attempt To Change The Subject', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-obama-russia_us_593f0860e4b02402687c435b', 'short_description': 'The president kicked off his "workforce development week” amid the ongoing Russia probe.', 'date': '2017-06-12'}

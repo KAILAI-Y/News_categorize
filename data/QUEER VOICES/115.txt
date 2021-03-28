@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "With 'Daughter,' Singer Ryan Cassata Has A Thing Or Two To Say About Trans Lives", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/ryan-cassata-daughter-video_us_5acfa5b5e4b077c89ce69557', 'short_description': "The music video is inspired by Cassata's own journey toward an authentic life.", 'date': '2018-04-13'}

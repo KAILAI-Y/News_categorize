@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Congressman Looks Down On Protesters From Roof, Becomes Instant Meme', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/darrell-issa-rooftop-meme_us_592e6f8ce4b055a197ce3046', 'short_description': '"I can\'t stop seeing Darell Issa as Michael Scott."', 'date': '2017-05-31'}

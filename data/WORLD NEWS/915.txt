@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Deadly Car Bomb Explosions Rock Somali Capital', 'authors': 'Abdi Sheikh, Reuters', 'link': 'https://www.huffingtonpost.com/entry/deadly-car-bomb-explosions-rock-somali-capital_us_59f4a3d4e4b03cd20b81e88a', 'short_description': 'A bomb attack in Mogadishu killed at least 358 people this month.', 'date': '2017-10-28'}

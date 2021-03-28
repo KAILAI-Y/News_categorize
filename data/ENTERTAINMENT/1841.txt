@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Cody Simpson Strips Down In Exclusive ‘Waiting For The Tide’ Video', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/cody-simpson-waiting-for-the-tide-premiere_us_5a31a2dce4b091ca2685318b', 'short_description': 'The singer brings a blend of psychedelia and surf pop with this new song.', 'date': '2017-12-14'}

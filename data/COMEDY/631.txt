@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Ridicules John Kelly's Take On The Civil War", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-john-kelly-civil-war-comments_us_59f98fb5e4b0d1cf6e9170a4', 'short_description': '"You’re a general and you don\'t know why the Civil War happened?"', 'date': '2017-11-01'}

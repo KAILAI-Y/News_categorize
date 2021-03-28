@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Bali Issues Red Alert, Orders Evacuations As Mount Agung Volcano Erupts', 'authors': "Mary Papenfuss and Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/mountagung-bali-eruption_us_5a1b424ae4b0cee6c0508a0a', 'short_description': 'Some 24,000 people were evacuated to temporary shelters over the weekend.', 'date': '2017-11-27'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Quietly Pumped Resources Into Alabama To Boost Doug Jones', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/doug-jones-democrats_us_5a30937ee4b091ca2683b970', 'short_description': 'They stayed behind the scenes, but they were involved in the Alabama Senate race for months.', 'date': '2017-12-13'}

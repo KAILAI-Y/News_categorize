@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Meryl Streep Breaks Her Own Oscar Record, Because Of Course She Did', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/meryl-streep-21st-oscar-nomination-record_us_5a6744bde4b0e5630073a34f', 'short_description': 'The actress scored her 21st career nomination for "The Post."', 'date': '2018-01-23'}

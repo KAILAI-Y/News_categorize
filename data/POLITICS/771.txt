@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Users Hilariously Slam Kellyanne Conway's Comey Comments", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-swung-comments-twitter_us_5ad4c2e8e4b077c89ceb37a1', 'short_description': '"She just freaken admitted that Trump should not have won!" one Twitter user said.', 'date': '2018-04-16'}

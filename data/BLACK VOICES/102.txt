@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Paper Boi Faces His Ghost In The Latest Episode Of ‘Atlanta’', 'authors': 'Taryn Finley and Julia Craven', 'link': 'https://www.huffingtonpost.com/entry/atlanta-season-2-episode-8_us_5ada3647e4b04090e551f9bf', 'short_description': 'This is what happens when keeping it real goes incredibly wrong incredibly fast.', 'date': '2018-04-20'}

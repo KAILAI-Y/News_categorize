@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Nuclear Power Stations Targeted By Hackers, Government Report Says', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/nuclear-power-hacking-cyberattacks_us_595eeef0e4b02e9bdb0b9b79', 'short_description': 'The FBI and DHS have said there is "no indication of a threat to public safety."', 'date': '2017-07-07'}

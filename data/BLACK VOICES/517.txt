@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Former Jackson Mayor Paddled Man Who Tried Breaking Into His Car', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/former-mayor-whoops-burglar_us_59fb1fd5e4b01b474048a76f', 'short_description': '"When you break in people\'s stuff, it\'s because somebody ain\'t whooped your tail!"', 'date': '2017-11-02'}

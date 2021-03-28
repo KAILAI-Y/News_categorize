@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Divided Country Is Exactly What Trump Wants', 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/trump-strategy-charlottesville_us_5994b068e4b06ef724d61291', 'short_description': 'He thinks it will save him. It explains his combative remarks about Charlottesville.', 'date': '2017-08-17'}

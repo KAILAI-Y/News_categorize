@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Sinclair News Show Axed After Host Threatens Sexual Assault On Parkland Survivor', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jamie-allman-canceled_us_5acc21c5e4b07a3485e7a557', 'short_description': 'Conservative commentator resigns and show is canceled after Twitter rant is exposed.', 'date': '2018-04-10'}

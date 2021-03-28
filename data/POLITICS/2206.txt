@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Fox News Predictably Quiet On Former White House Aide's Abuse Allegations", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/fox-news-rob-porter_us_5a7c6b91e4b0c6726e103d54', 'short_description': 'White House adviser Kellyanne Conway appeared on "Fox & Friends" to talk about the Super Bowl.', 'date': '2018-02-08'}

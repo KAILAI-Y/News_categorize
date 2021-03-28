@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mean Buffoon Is Unpopular: Poll', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/mean-buffoon-is-unpopular-poll_us_596d33eee4b010d7767338cf', 'short_description': 'Go figure.', 'date': '2017-07-17'}

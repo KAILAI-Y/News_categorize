@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'An Undocumented Teen Gains Asylum With The Help Of His Undocumented Lawyer', 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/cesar-vargas-undocumented-lawyer-client_us_59727244e4b09e5f6ccf6cf6', 'short_description': 'The real American dream at work.', 'date': '2017-07-22'}

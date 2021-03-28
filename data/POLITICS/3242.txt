@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'NRA TV Host Chides Mark Hamill: What If Galactic Republic Outlawed Lightsabers?', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-galactic-republic-nra-tv_us_5a3a8a96e4b0b0e5a79ee28a', 'short_description': 'For the record, the "Star Wars" universe is fictional.', 'date': '2017-12-20'}

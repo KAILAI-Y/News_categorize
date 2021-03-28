@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Steve King Tried To Troll Teens Who Support Gun Control. It Didn't Go Well.", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/steve-king-gun-age-tweet_us_5abb2c35e4b03e2a5c7742e8', 'short_description': 'Conservative lawmaker gets called out on Twitter.', 'date': '2018-03-28'}

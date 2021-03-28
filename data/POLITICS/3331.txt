@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Top Republicans Say Trump Isn't About To Fire Mueller. But They Can’t Stop Attacking Him.", 'authors': 'Nick Baumann', 'link': 'https://www.huffingtonpost.com/entry/trump-wont-fire-mueller-promise_us_5a369a04e4b01d429cc9bf44', 'short_description': 'But will all that change later this week?', 'date': '2017-12-17'}

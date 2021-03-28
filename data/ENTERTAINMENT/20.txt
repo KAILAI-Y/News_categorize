@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Emilia Clarke Dishes On Her Final 'Game Of Thrones' Scene", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/emilia-clarke-game-of-thrones-final-scne_us_5b08137fe4b0568a880ac1af', 'short_description': "Now we're really curious about the farewell season.", 'date': '2018-05-25'}

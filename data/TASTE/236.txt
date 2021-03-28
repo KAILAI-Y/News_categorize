@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Krispy Kreme And Jelly Belly Just Created Donut-Flavored Jelly Beans', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/krispy-kreme-jelly-beans_us_596e506fe4b0000eb1965dab', 'short_description': "You'll love some, you'll hate some.", 'date': '2017-07-18'}

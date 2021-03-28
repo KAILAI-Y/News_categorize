@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rick Ross Says Cardi B Has 'Inspired Millions Of Little Girls Around The World'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/rick-ross-cardi-b_us_5a6e6fa1e4b06e253268add5', 'short_description': 'The rapper gave credit where credit is due. 🙏', 'date': '2018-01-29'}

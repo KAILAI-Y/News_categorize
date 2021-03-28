@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Ikea Wants Pregnant Women To Pee On This Ad To See A Discount On A Crib', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/ikea-wants-pregnant-women-to-pee-on-this-ad-for-a-discount-on-a-crib_us_5a561c10e4b0b117f881206a', 'short_description': 'The ad that may or may not completely piss you off.', 'date': '2018-01-10'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democratic Senator Dianne Feinstein 'All In' On Re-Election", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/dianne-feinstein-reelection_us_59db99cfe4b00377980aa585', 'short_description': 'She said she has "lots more to do."', 'date': '2017-10-09'}

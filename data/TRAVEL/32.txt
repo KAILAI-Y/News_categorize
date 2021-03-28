@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '12 Travel Sites That Accept PayPal', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/travel-sites-that-accept-paypal_us_5aaa8b10e4b0d28151d29e40', 'short_description': 'Forget plugging in all of your credit card details', 'date': '2018-03-16'}

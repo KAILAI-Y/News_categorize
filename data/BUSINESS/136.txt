@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Verizon, Comcast Approach 21st Century Fox About Acquiring Assets', 'authors': 'Anjali Athavaley, Reuters', 'link': 'https://www.huffingtonpost.com/entry/verizon-twenty-first-century-fox_us_5a0e17bbe4b0e97dffec5e7f', 'short_description': 'The assets were the subject of recent talks between Fox and Walt Disney Co.', 'date': '2017-11-16'}

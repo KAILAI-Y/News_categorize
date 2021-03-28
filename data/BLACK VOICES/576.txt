@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Cop Who Tackled James Blake Is Now Suing Him For Defamation', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/cop-suing-james-blake-for-defamation_us_59d4e2f3e4b0218923e6ba85', 'short_description': 'The officer is seeking $75,000 in damages for emotional distress and slander.', 'date': '2017-10-04'}

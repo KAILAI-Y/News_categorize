@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Finance Worker Allegedly Said He Fatally Stabbed His Small Pet Dog In Self-Defense', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/man-stabs-small-dog-self-defense-nyc_us_59331158e4b02478cb9c15f4', 'short_description': 'Cops say they found only two small scratches on his arms.', 'date': '2017-06-04'}

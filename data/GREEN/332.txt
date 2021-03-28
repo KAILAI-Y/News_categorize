@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Injured Bald Eagle Found In D.C. On Independence Day Weekend', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/injured-eagle-rescued_us_5959dab1e4b05c37bb7f329f', 'short_description': "Rescuers are unsure what caused the bird's problems.", 'date': '2017-07-03'}

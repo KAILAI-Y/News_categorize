@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'South African Court More Than Doubles Oscar Pistorius Sentence', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/oscar-pistorius-sentence_us_5a17dd01e4b0cee6c04eee9e', 'short_description': 'The athlete was originally convicted of manslaughter and sentenced to five years in jail.', 'date': '2017-11-24'}

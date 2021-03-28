@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': '#JanetJacksonAppreciationDay Takes Over Twitter Ahead Of Super Bowl', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/janet-jackson-twitter-super-bowl_us_5a774f4ce4b01ce33eb3f3f6', 'short_description': '"A Queen. An Icon. Black History. Black Present. Black Future."', 'date': '2018-02-04'}

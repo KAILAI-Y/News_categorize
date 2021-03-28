@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Deported Man's Wife Will Be State Of The Union Guest", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/jorge-garcia-state-of-the-union_us_5a61c190e4b0125fd63593f4', 'short_description': 'Jorge Garcia was forced to return to Mexico this week after living in the U.S. for 30 years.', 'date': '2018-01-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '3 Paths For Congress To Replace DACA', 'authors': 'Philip Rotner, Contributor@PhilipRotner, Attorney and Columnist', 'link': 'https://www.huffingtonpost.com/entry/3-paths-for-congress-to-replace-daca_us_59b05acae4b0bef3378cdd64', 'short_description': 'Don’t put your money on a stand-alone Dreamer bill.', 'date': '2017-09-07'}

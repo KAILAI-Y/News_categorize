@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'FDA Delays Rolling Out New Nutrition Facts Label', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/fda-delays-rolling-out-new-nutrition-facts-label_us_594298eae4b01eab7a2bdf24', 'short_description': 'The agency did not say how much additional time companies would be given.', 'date': '2017-06-15'}

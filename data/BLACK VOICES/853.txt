@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Philando Castile's Family Reaches $3 Million Settlement", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/philando-castile-family-settlement_us_59510944e4b0da2c731cdf44', 'short_description': 'The black motorist was shot and killed during a routine traffic stop last year.', 'date': '2017-06-26'}

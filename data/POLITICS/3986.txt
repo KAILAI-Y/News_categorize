@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Is Quietly Making It Even Harder To Report Sexual Harassment And Discrimination', 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/trump-sexual-harassment-discrimination_us_5a15b385e4b03dec8249b7e5', 'short_description': 'The White House has been trying to shut women up this whole time.', 'date': '2017-11-25'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'Law & Order: SVU' Tackles Trans Military Debate With Powerful Storyline", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/law-order-svu-transgender-military-episode_us_5ace8618e4b0701783ab15e9', 'short_description': 'And they cast a trans actor of color to depict it, too.', 'date': '2018-04-12'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Fox News Revenues Nosedive Despite Trump's Constant Viewing", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/foxnews-revenues-down-17_us_59f2ab68e4b03cd20b80aa61', 'short_description': 'MSNBC is up 2 percent and CNN is down just 1 percent.', 'date': '2017-10-27'}

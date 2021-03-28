@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Stormy Daniels, Flouting NDA, Details Trump Affair To ‘60 Minutes’', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/stormy-daniels-flouting-nda-details-trump-affair-to-60-minutes_us_5ab811cbe4b054d118e4311d', 'short_description': 'Trump "knows I\'m telling the truth," Daniels said.', 'date': '2018-03-25'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Please, BBC, Let A Woman Finally Shatter The 'Doctor Who' Glass Ceiling", 'authors': 'Katherine Brooks', 'link': 'https://www.huffingtonpost.com/entry/doctor-who-glass-ceiling_us_595cf04ae4b05c37bb81260d', 'short_description': "Now's the time to demand more from a franchise addicted to dudes.", 'date': '2017-07-05'}

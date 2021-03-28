@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pentagon Reportedly To Send Nearly 4,000 More Troops To Afghanistan', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/pentagon-troops-afghanistan_us_59434f22e4b0f15cd5ba5784', 'short_description': '“We are not winning in Afghanistan right now,” Defense Secretary Jim Mattis had said.', 'date': '2017-06-16'}

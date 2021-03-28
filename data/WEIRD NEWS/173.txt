@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Donald Trump's 'Screaming' Face On A Newspaper Stack Gets The Funniest Reworking", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-photo-editing-reddit-german-newspapers_us_5a62fdf7e4b002283002f323', 'short_description': 'Let the Photoshop Battle commence.', 'date': '2018-01-20'}

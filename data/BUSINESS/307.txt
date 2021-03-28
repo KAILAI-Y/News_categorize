@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Uber Fires 20 After Harassment Probe', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/uber-sexual-harassment_us_5936e831e4b0cfcda9182efd', 'short_description': 'The firings come after an investigation into 215 HR claims.', 'date': '2017-06-06'}

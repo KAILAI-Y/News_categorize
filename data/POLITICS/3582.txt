@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Watches Up To 8 Hours Of TV Per Day', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/trump-television-eight-hours_us_5a2c273fe4b069ec48add6d7', 'short_description': '"I do not watch much television,” the president said last month.', 'date': '2017-12-09'}

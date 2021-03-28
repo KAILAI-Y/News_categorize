@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Every Red Carpet Should Look Like The InStyle Awards Red Carpet', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/instyle-awards-red-carpet_us_59ef68a1e4b0b7e632652ee6', 'short_description': 'So much color! So much sparkle! So much style!', 'date': '2017-10-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "RNC Plea To Thank Trump's ‘Commitment To Religious Freedom' Backfires", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-religious-freedom-rnc-twitter_us_5aec0586e4b0c4f19320c60f', 'short_description': '"Unless you happen to be Muslim."', 'date': '2018-05-04'}

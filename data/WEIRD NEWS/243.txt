@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Christmas Eyebrows' Are Replacing Ugly Sweaters As The Worst Holiday Trend", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/christmas-eyebrows_us_5a2b0261e4b0a290f050b41d', 'short_description': 'Tackiness is in the eye of the beholder.', 'date': '2017-12-08'}

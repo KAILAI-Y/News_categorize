@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Building 'Breaks' Into Your Diet Could Help You Lose More Weight", 'authors': 'Anna Almendrala', 'link': 'https://www.huffingtonpost.com/entry/breaks-diet-lose-weight_us_59c0702de4b0f22c4a8c0bb7', 'short_description': "There's a case for letting your body rest between weight-loss periods.", 'date': '2017-09-19'}

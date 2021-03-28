@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "North Korea Renews 'Dotard' Insult For Donald Trump Over Jerusalem Move", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-north-korea-dotard-jerusalem_us_5a2bf291e4b069ec48adbaa8', 'short_description': 'North Korean officials called Trump\'s decision "reckless" and "wicked."', 'date': '2017-12-09'}

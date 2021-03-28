@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Bad News For Bigfoot? Biologist Says Yetis Are Really Just Bears', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/yetis-just-bears-science_us_5a1f0135e4b0d52b8dc242db', 'short_description': '"You can never for sure prove that there is nothing out there."', 'date': '2017-11-29'}

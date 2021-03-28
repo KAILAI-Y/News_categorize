@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Key Obamacare Architect Who Shunned Single-Payer Now Backs It', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/max-baucus-single-payer_us_59b2f8f7e4b0354e4411f129', 'short_description': "Max Baucus' comments show how far the debate has shifted.", 'date': '2017-09-08'}

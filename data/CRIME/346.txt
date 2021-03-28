@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': '9-Year-Old And Anti-Violence Activist Fatally Shot During Deadly Weekend In Chicago', 'authors': 'Bernie Woodall, Reuters', 'link': 'https://www.huffingtonpost.com/entry/chicago-gun-violence_us_596bce53e4b017418628756e', 'short_description': 'More than 40 people were shot in the city from Friday to Sunday morning.', 'date': '2017-07-16'}

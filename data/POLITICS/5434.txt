@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Thursday's Morning Email: Tributes Pour In For Hugh Hefner, Founder Of Playboy", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/thursdays-morning-email-tributes-pour-in-for-hugh-hefner_us_59ccc26ee4b02aef6cd79c52', 'short_description': 'Take a look at his legacy.', 'date': '2017-09-28'}

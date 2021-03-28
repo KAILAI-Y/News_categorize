@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Gusher Economics?', 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/gusher-economics_us_5a1dc6f2e4b05699502313b5', 'short_description': 'Isn’t it time to stop talking about “trickle down economics” and come up with some new phrase?', 'date': '2017-11-28'}

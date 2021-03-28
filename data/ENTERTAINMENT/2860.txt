@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's Your First Look *Sob* At 'This Is Us' Season 2", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/heres-your-first-look-sob-at-this-is-us-season-2_us_599dde5ee4b0821444c07e57', 'short_description': 'Old Mandy! Young Milo! Middle-aged Sterling!', 'date': '2017-08-23'}

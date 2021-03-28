@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Aquaman Is A Big Fan Of Trump Pulling Out Of The Paris Agreement', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/aquaman-is-a-big-fan-of-trump-pulling-out-of-the-paris-agreement_us_5936d5a0e4b013c4816b7575', 'short_description': 'Could be a big real estate increase for him.', 'date': '2017-06-06'}

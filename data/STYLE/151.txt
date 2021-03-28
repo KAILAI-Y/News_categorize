@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Kate Middleton Wears Nikes And Sweatpants For Tennis Outing', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kate-middleton-wears-sweatpants_us_59f87ddae4b0c0c8e67cc37d', 'short_description': 'The duchess gets down to earth.', 'date': '2017-10-31'}

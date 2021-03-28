@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Cate Blanchett Slams Steve Bannon To Make An Excellent Point About Feminism', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/cate-blanchett-steve-bannon-trash-women-wear-sexy_us_59ef6598e4b0d14acdccc0f7', 'short_description': 'And she did it while encouraging women to wear whatever they want.', 'date': '2017-10-24'}

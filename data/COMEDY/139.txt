@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Scary Guy With A Bat Works Way Better Than A Fitbit On 'Conan'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/fatbat-conan-obrien-andy-richte_us_5ad5f72ce4b077c89cece1dd', 'short_description': 'The FatBat frightens you into achieving tough fitness goals.', 'date': '2018-04-17'}

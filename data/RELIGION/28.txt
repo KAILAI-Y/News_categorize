@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "Pope Francis Denounces 'Fear' Politics Amid Global Anti-Immigrant Sentiments", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/pope-francis-fear-politics_us_5aa5873fe4b086698a9ef192', 'short_description': 'His comments come a week after anti-immigration candidates won big in Italy.', 'date': '2018-03-11'}

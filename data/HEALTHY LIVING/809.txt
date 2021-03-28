@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'AI Predicts Autism Based On Infant Brain Scans', 'authors': 'Tracy Staedter, Live Science', 'link': 'https://www.huffingtonpost.com/entry/ai-predicts-autism-based-on-infant-brain-scans_us_593ec766e4b0c5a35ca1d007', 'short_description': '“It was extremely accurate."', 'date': '2017-06-12'}

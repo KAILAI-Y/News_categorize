@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Conservative Pundit S.E. Cupp Hits Trump White House Right In The Balls', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/se-cupp-nikki-haley-balls_us_5ad7e885e4b03c426dab1a2f', 'short_description': 'The HLN host says Nikki Haley "makes her male counterparts look like scared schoolboys."', 'date': '2018-04-19'}

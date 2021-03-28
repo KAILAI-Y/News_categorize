@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'The Journalist And The Fixer', 'authors': 'Nick Turse, ContributorManaging Editor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/the-journalist-and-the-fixer_us_59d64ddde4b0becae802e5b1', 'short_description': 'Who makes the story possible?', 'date': '2017-10-05'}

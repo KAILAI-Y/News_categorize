@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "These Pups Rescued From Puerto Rico Are Part Of This Year's Puppy Bowl", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/puppy-bowl-puerto-rico_us_5a7374eee4b0905433b256a7', 'short_description': 'The two dogs are among those flown off the island in the wake of Hurricane Maria.', 'date': '2018-02-03'}

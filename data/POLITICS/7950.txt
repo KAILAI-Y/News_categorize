@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Dear Children Of America: We Apologize For Donald Trump', 'authors': 'Lorraine Devon Wilke, ContributorSass & Sensibility', 'link': 'https://www.huffingtonpost.com/entry/dear-children-of-america-we-apologize-for-donald-trump_us_59558dd6e4b0c85b96c6606d', 'short_description': 'We let you down. Bigly.', 'date': '2017-06-30'}

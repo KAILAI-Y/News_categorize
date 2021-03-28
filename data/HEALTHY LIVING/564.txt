@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'FDA Proposes Reducing Nicotine In Cigarettes, Moving Smokers To E-Cigarettes', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/fda-cigarettes-nicotine_us_597b6ecce4b0da64e878fc65', 'short_description': 'The announcement sent cigarette company stocks tumbling.', 'date': '2017-07-28'}

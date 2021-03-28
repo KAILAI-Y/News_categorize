@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'James Corden Recruits Celebrity Reporters To Investigate Who Bit Beyoncé', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-who-bit-beyonc%C3%A9_us_5abf2a59e4b0a47437ab1ef2', 'short_description': 'But did they come any closer to finding out?', 'date': '2018-03-31'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "5 Reasons Trump's Mika Tweets Are Even Worse Than You Think", 'authors': 'Nell Minow, Contributorshareholder advocate, movie critic', 'link': 'https://www.huffingtonpost.com/entry/trumps-mika-tweets-are-even-worse-than-you-think-five_us_59559ccde4b0c85b96c66079', 'short_description': 'Insult is not argument.', 'date': '2017-06-30'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Bill O'Reilly Returning To Fox News To Appear As A Guest On Sean Hannity's Show", 'authors': 'Yashar Ali', 'link': 'https://www.huffingtonpost.com/entry/bill-oreilly-hannity_us_59c98dd7e4b06ddf45fa931d', 'short_description': 'The former Fox anchor was forced out at the network amid numerous sexual harassment allegations.', 'date': '2017-09-25'}

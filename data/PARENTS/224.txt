@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Savannah Guthrie's Daughter Is Getting Creative With Her Halloween Costume", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/savannah-guthries-daughter-is-getting-creative-with-her-halloween-costume_us_59dce46de4b0a8e1367f0807', 'short_description': '"You don’t have to be pigeonholed.”', 'date': '2017-10-10'}

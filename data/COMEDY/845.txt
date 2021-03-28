@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Four-Year '@Midnight' Hashtag War Ends With Epic Final Battle", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-four-year-midnight-hashtag-war-ends-with-epic-final-battle_us_5984c131e4b041356ebfa5a6', 'short_description': 'Puns at the ready!', 'date': '2017-08-07'}

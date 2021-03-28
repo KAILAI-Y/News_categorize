@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Mad Men' Creator Accused Of Sexual Harassment By Former Assistant", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/matthew-weiner-sexual-harassment-mad-men_us_5a04dc48e4b01d21c83d8e4c', 'short_description': 'Matthew Weiner denied the allegations.', 'date': '2017-11-10'}

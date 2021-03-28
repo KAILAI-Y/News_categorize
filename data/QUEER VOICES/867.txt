@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Queer Groups Condemn Study Claiming Computers Can Tell If You're Gay From Photos", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/stanford-study-sexuality_us_59b2b8e1e4b0dfaafcf7b4a5', 'short_description': 'They\'re not here for the "dangerously bad" research.', 'date': '2017-09-08'}

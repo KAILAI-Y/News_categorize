@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Stranger Things' Star Supports That 'Insane' Fan Theory", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/stranger-things-star-supports-that-insane-fan-theory_us_59ed6190e4b0958c4682db8a', 'short_description': 'Joe Keery is taking it to the next level.', 'date': '2017-10-23'}

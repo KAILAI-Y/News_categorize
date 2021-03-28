@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Virginia GOP Rep. Bob Goodlatte Announces He Is Retiring', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/bob-goodlatte-retiring_us_5a047c3ee4b0937b5110313c', 'short_description': 'His announcement comes days after several big Democratic wins in the state.', 'date': '2017-11-09'}

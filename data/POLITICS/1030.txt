@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Trade Rhetoric Is Unhinged. His Tariffs Aren't.", 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/trump-trade-tariffs-twitter_us_5ac51b86e4b09ef3b2430789', 'short_description': 'Trump is a bad messenger for a reasonable idea.', 'date': '2018-04-04'}

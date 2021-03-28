@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Bryan A. McCoy: I Live In Milwaukee, And This Is My Style', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/milwaukee-style_us_59ca8266e4b06ddf45fbd0c4', 'short_description': 'No corny T-shirts, please.', 'date': '2017-09-29'}

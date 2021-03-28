@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Kelis Says Nas Physically Abused Her During Their Marriage', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/kelis-nas-physical-abuse_us_5ae1fec0e4b02baed1b7f189', 'short_description': '“I didn’t say anything [then] because I wanted things to work," she said.', 'date': '2018-04-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Fog Of War In America', 'authors': 'TomDispatch, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/the-fog-of-war-in-america_us_5aabe9e0e4b03cc9629c66cc', 'short_description': 'This article originally appeared at TomDispatch.com. To receive TomDispatch in your inbox three times a week, click here', 'date': '2018-03-16'}

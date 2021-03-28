@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here Are Michelle Wolf’s Boldest Moments At The White House Correspondents' Dinner", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/michelle-wolf-roast-whcd_us_5ae535a3e4b02baed1bac776', 'short_description': 'Kellyanne Conway was not pleased.', 'date': '2018-04-29'}

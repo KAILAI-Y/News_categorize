@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ryan Reynolds Trolling Blake Lively On Her Birthday Is A Present To Everyone', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/ryan-reynolds-trolling-blake-lively-on-her-birthday-is-a-present-to-everyone_us_59a168cbe4b0821444c37542', 'short_description': 'The gift that keeps on giving.', 'date': '2017-08-26'}

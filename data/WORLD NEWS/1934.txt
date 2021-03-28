@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Muslims Waking Up Early For Ramadan Were Among First To Respond To London Fire', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/muslims-waking-up-early-for-ramadan-were-among-first-to-respond-to-london-fire_us_59415b0ae4b09ad4fbe4d64c', 'short_description': '"Thank God for Ramadan.”', 'date': '2017-06-14'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Laura Ingraham Slams Advertisers Who Fled Her Show: 'They All Gave In To The Mob'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/laura-ingraham-slams-advertisers_us_5adeb3b6e4b0b2e81132a08c', 'short_description': 'The Fox News host tells the left to "keep demonizing me."', 'date': '2018-04-24'}

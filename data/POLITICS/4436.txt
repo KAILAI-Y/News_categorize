@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Kellyanne Conway Says Debating Gun Control Now 'Disrespects The Dead'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/conway-gun-debate-disrepect-dead_us_5a00eae3e4b0368a4e868d17', 'short_description': 'Ted Cruz echoes her message: "We don\'t need politics right now. ... Evil is evil."', 'date': '2017-11-07'}

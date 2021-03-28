@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Laverne Cox Ruled The 2017 Emmys After-Party Looks', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/laverne-cox-ruled-the-2017-emmys-after-party-looks_us_59bfcd8fe4b0edff971da584', 'short_description': 'She wowed in a long lace gown.', 'date': '2017-09-18'}

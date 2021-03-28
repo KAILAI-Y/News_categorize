@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democrats Don't Appear To Yearn For An Outsider Candidate", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/democrats-outsider-candidate-poll_us_5a57d31ee4b0d5c0dd0a666e', 'short_description': 'In case you were wondering for some reason.', 'date': '2018-01-11'}

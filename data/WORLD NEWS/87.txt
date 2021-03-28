@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "What's For Dinner When Kim Jong Un Meets South Korean President Moon Jae-in", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/dinner-south-korea-kim-jong-un_us_5ae02059e4b07be4d4c5edfa', 'short_description': 'Bibimbap made with greens from the DMZ, anyone?', 'date': '2018-04-25'}

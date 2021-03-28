@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Twitter Erupts After Obama Makes Melania Trump Smile At Barbara Bush's Funeral", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/barack-obama-melania-trump_us_5add41e4e4b089e33c896020', 'short_description': 'What did the former president say to the first lady?', 'date': '2018-04-23'}

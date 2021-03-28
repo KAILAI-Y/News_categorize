@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Bill Maher Shreds Donald Trump, Likens Him To A Mob Boss', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-donald-trump-mob_us_5af6898be4b00d7e4c1ad35b', 'short_description': '“People call this presidency a ‘reality show.\' It\'s more like a Scorsese movie."', 'date': '2018-05-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "A Guide To Unscrambling Trump's Bonkers ‘Fox & Friends’ Interview", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-fox-and-friends_us_5ae1d1fee4b055fd7fc8f474', 'short_description': 'Buckle up.', 'date': '2018-04-26'}

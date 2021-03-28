@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Only One President Had The Guts To Say The State Of The Union Is 'Not Good'", 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/state-of-the-union-not-good-gerald-ford_us_5a70d62ae4b0be822ba12644', 'short_description': 'He, of course, lost the next election.', 'date': '2018-01-30'}

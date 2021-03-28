@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': '#BlackGirlSquad Celebrates The Empowering Beauty Of Black Sisterhood', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/black-girl-squad-sisterhood_us_59723844e4b00e4363df38cb', 'short_description': 'Grab your BFFs and celebrate the love! ❤️', 'date': '2017-07-21'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "No, A Monkey Can't Copyright His Selfies, Federal Appeals Court Rules", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/monkey-naruto-no-copyright-court_us_5ade8786e4b0b2e811328d58', 'short_description': 'Who knows if animals want to collect royalties, a judge wrote.', 'date': '2018-04-24'}

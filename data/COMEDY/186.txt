@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Taunts Facebook And Its CEO Mark 'Suckerberg'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-facebook_us_5abf2f96e4b0a47437ab209d', 'short_description': '“You know nothing about me."', 'date': '2018-03-31'}

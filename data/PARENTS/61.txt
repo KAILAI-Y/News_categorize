@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'This Site Lets Parents Easily Show Their Kids How To Give Back', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/this-site-lets-parents-easily-show-their-kids-how-to-give-back_us_5a313efee4b07ff75aff76e8', 'short_description': 'Think of Daymaker as a GoFundMe geared toward kids.', 'date': '2017-12-13'}

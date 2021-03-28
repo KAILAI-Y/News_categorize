@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Incredible Hulk' Star Lou Ferrigno Comes To The Rescue When Fan Has Seizure", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/lou-ferrigno-seizure-fan_us_59506838e4b02734df2b38ce', 'short_description': 'Hero on the screen is also one in real life.', 'date': '2017-06-26'}

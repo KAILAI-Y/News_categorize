@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Veronica Mars' Star Brad Bufanda Dead At 34", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/brad-bufanda-dead-dies_us_59fc9f59e4b0baea26318230', 'short_description': "The actor's death was ruled a suicide.", 'date': '2017-11-03'}

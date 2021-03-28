@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Oregon Gov. Kate Brown Announces Reelection Bid', 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/oregon-governor-kate-brown_us_59c92860e4b06ddf45f9f879', 'short_description': "She's one of the nation's most progressive governors -- and she's taking aim at Donald Trump.", 'date': '2017-09-25'}

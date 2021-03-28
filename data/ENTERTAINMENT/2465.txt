@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Walking Dead' Producer Responds To Possible Eye-Opening Error", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/walking-dead-producer-responds-to-possible-eye-opening-error_us_59d8d397e4b046f5ad987817', 'short_description': "Fans couldn't get over it.", 'date': '2017-10-10'}

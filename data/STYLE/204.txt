@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "This Self-Tanner Fail Has 'Adidas' Written All Over It", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/adidas-self-tanner-fail_us_59d38727e4b065578155685f', 'short_description': "Don't let it happen to you.", 'date': '2017-10-03'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "People Are Mistaking Justin Trudeau's Waxwork For A Hollywood Star", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/justin-trudeau-waxwork-hollywood-actor_us_5a193d09e4b0d4906caefa14', 'short_description': "Introducing Trudeau's famous doppelgänger...", 'date': '2017-11-25'}

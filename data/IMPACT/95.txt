@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'The Ultimate Fashion Fail: One Garbage Truck Of Textiles Is Thrown Away Every Second', 'authors': 'Tess Riley', 'link': 'https://www.huffingtonpost.com/entry/fashion-industry-waste-circular-economy_us_5a1c66cde4b0e9bc3368d08e', 'short_description': 'Is a world beyond "fast fashion" possible?', 'date': '2017-11-28'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ignore Trump's Tweets? The World Wonders How That Works, Exactly.", 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-tweets-john-kelly_us_5a0cc04be4b0c0b2f2f78fb5', 'short_description': 'Critics call the White House chief of staff’s strategy unreasonable.', 'date': '2017-11-16'}

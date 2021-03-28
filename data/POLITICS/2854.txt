@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Congressman Trolls Trump With Introduction Of 'Stable Genius Act'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/congress-stable-genius-act_us_5a55e8d7e4b0b117f880c497', 'short_description': '"The president believes he is a ‘stable genius.’ I do not."', 'date': '2018-01-10'}

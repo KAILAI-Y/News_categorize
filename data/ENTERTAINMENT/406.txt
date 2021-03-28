@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Warning: You Can't Unsee Anthony Hopkins' Strange Selfie Video", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/anthony-hopkins-selfie-video_us_5adef965e4b0df502a4f1a8f', 'short_description': 'And the Academy Award for wildest selfie video goes to...', 'date': '2018-04-24'}

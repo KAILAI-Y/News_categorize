@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "How The ACORN Scandal Seeded Today's Nightmare Politics", 'authors': 'Zach Carter and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/2009-acorn-scandal_us_5ae23fa6e4b02baed1b86696', 'short_description': 'Breitbart led the charge, but Democrats delivered the killing blow. Has anyone really learned?', 'date': '2018-05-05'}

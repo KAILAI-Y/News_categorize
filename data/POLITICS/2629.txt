@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'With A Shutdown Looming, Government Agencies Are Unprepared And In The Dark', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/government-shutdown-unprepared_us_5a61fd6ae4b074ce7a079a5f', 'short_description': "Federal workers say they've received little to no guidance on what to do.", 'date': '2018-01-19'}

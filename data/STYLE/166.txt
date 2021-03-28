@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Everything You Ever Wanted To Know About Getting Rid Of Stretch Marks', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/can-you-get-rid-of-stretch-marks_us_59e8b338e4b0d0e4fe6da551', 'short_description': 'Doctors weigh in.', 'date': '2017-10-20'}

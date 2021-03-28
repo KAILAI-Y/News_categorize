@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Two Queer Vultures Become Parents After Hatching Abandoned Egg', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/homosexual-vultures-become-parents_us_59300dc6e4b0e09b11edec28', 'short_description': 'The lovebirds, residing in Amsterdam, have been a couple for several years.', 'date': '2017-06-01'}

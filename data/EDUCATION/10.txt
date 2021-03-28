@@ -1,0 +1,1 @@
+{'category': 'EDUCATION', 'headline': 'Hey, Laura Ingraham, David Hogg Actually Did Get Into UC Irvine', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/david-hogg-laura-ingraham_us_5acb480ee4b09d0a11959a4b', 'short_description': 'The Fox News host mocked the teen survivor of the Parkland school shooting for college rejections.', 'date': '2018-04-09'}

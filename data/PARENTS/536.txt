@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'This Little Girl Just Learned An Awesome New Word', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/baby-first-word-batman_us_59758884e4b00e4363e0856f', 'short_description': 'Millie seems to have declared herself a DC fan.', 'date': '2017-07-24'}

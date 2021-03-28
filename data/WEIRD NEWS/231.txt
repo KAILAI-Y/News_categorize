@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Pentagon Admits Once Running UFO Program, But Not If Truth Is Still Out There', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/pentagon-ufo-program_us_5a3817e8e4b0860bf4aa3952', 'short_description': "Officials won't confirm if the skies are still being watched.", 'date': '2017-12-18'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Uber Has A New Service And It Isn't Helping In 'Jimmy Kimmel' Spoof", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/uber-has-a-new-service-and-it-isnt-helping-in-jimmy-kimmel-spoof_us_594ba7dce4b01cdedf00a702', 'short_description': 'Look familiar?', 'date': '2017-06-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Users Troll Donald Trump's Lawyer Over Comical Font Choice", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trump-lawyer-choice-of-font-mocked_us_5a2262cfe4b03c44072dbebb', 'short_description': '"Wanted to avoid using Failing Times New Roman..."', 'date': '2017-12-02'}

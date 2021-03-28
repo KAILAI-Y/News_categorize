@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Quiet Struggle Between Chuck Schumer And The Left', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/quiet-struggle-chuck-schumer-leftists_us_5af45fb7e4b04d3b2c9152f3', 'short_description': 'A pending appointment marks a truce in an ongoing saga.', 'date': '2018-05-10'}

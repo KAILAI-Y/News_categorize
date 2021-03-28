@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ron Swanson Tells FCC Chair Ajit Pai He Has No Honor For Trying To Kill Net Neutrality', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/ron-swanson-net-neutrality_us_5a2b097ae4b073789f69d799', 'short_description': 'Swanson 2020.', 'date': '2017-12-08'}

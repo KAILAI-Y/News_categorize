@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Uber, Lyft Ban Far-Right Journalist Following Islamophobic Tweets', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/uber-lyft-laura-loomer_us_59fb60fce4b01b47404914b8', 'short_description': 'Commentator Laura Loomer promised legal action against the ride-sharing companies.', 'date': '2017-11-02'}

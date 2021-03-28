@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'The Story Of How Pumpkin Spice Lattes Almost Never Happened', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/psl-history_us_59b7ec20e4b027c149e27ee8', 'short_description': 'From humble beginnings to total saturation.', 'date': '2017-09-13'}

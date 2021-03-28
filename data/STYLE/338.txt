@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Hillary Clinton's Date Night Involved Applause And A Statement Necklace", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-broadway_us_59491a07e4b0edb84c157504', 'short_description': 'And of course, a whole lot of girl power.', 'date': '2017-06-20'}

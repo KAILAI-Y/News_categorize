@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "No One Was Prepared For Jay-Z To Drop His '4:44' Tour Dates", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/jay-z-to-dropped-his-444-tour_us_5963bc38e4b03f144e2c9f74', 'short_description': '"When the #444Tour pre-sale happens right after you just paid all of your bills."', 'date': '2017-07-10'}

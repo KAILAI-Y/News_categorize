@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Will Smith’s 'Date' With Sophia The AI Robot Ends Firmly In The Friend Zone", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/will-smith-sophia-robot-youtube_us_5abf383ee4b0f112dc9c6d21', 'short_description': '“I’ve heard your songs. Not for me.”', 'date': '2018-03-31'}

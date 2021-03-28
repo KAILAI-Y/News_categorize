@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'How To Cook Your Own Shake Shack Burger This Labor Day', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/shake-shack-burger-recipe_us_59a81b1be4b0a8d14573a8bb', 'short_description': 'A must-read tutorial.', 'date': '2017-09-01'}

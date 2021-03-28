@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Interior Department Aims to Slice Section From Endangered Species Act', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-rolling-back-species-protections_us_5ac6fdaae4b0337ad1e63c96', 'short_description': 'A new proposal appears to cut protections for threatened animals.', 'date': '2018-04-06'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Might Actually Defund Planned Parenthood This Time', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/republicans-planned-parenthood_us_594bf7d9e4b0a3a837be4263', 'short_description': 'This is not a drill.', 'date': '2017-06-22'}

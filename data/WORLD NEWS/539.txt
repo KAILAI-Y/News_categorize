@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Trump Talks About War With North Korea. Here's How Horrific That Would Really Be.", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/us-war-north-korea-trump_us_5a4ced7fe4b025f99e1f2516', 'short_description': 'Millions could die, for starters.', 'date': '2018-01-05'}

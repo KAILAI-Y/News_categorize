@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Responds To Allegations In James Comey's Book, Calls Him 'Untruthful Slime Ball'", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-james-comey-tweet_us_5ad09d19e4b077c89ce7bf62', 'short_description': '"It was my great honor to fire James Comey!" the president tweeted Friday.', 'date': '2018-04-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sean Hannity Was Apoplectic Over The FBI Raid Of Michael Cohen. Now We Know Why.', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-michael-cohen_us_5ad4fbbee4b0edca2cbcc927', 'short_description': 'The Fox News host never disclosed his conflict of interest when covering the raid.', 'date': '2018-04-16'}

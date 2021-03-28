@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'House Votes Down Trump Impeachment Resolution', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/house-impeachment-donald-trump_us_5a28616be4b03ece02ffedd1', 'short_description': 'But 58 Democrats voted for impeachment.', 'date': '2017-12-06'}

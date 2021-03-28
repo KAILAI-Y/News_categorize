@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'New York Times Sex Harassment TV Ad Evokes Strong Reaction', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ny-times-he-said-she-said-she-said_us_5a52c9e8e4b003133ec9332a', 'short_description': 'The ad moved some people to tears.', 'date': '2018-01-08'}

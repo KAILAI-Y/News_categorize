@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Gus Kenworthy Has 'No Patience' For Trump, Pence And Other Anti-LGBTQ Lawmakers", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/gus-kenworthy-trump-pence_us_5a85cf89e4b00bc49f4202a6', 'short_description': 'He does, however, want to be "a beacon of light for young kids in sports."', 'date': '2018-02-15'}

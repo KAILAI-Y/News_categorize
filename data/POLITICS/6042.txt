@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Immigration Hard-Liners Also Mad At Trump’s DACA Decision – For Being Too Soft', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-daca-immigration-opponents_us_59af0d87e4b0b5e53101bf9d', 'short_description': 'Some are already calling it “Trump’s amnesty.”', 'date': '2017-09-05'}

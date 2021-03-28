@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Tiffany Haddish Wants To Work With Bill Cosby: 'I'll Drink The Juice'", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/tiffany-haddish-wants-to-work-with-bill-cosby-ill-drink-the-juice_us_5979f9a6e4b02a8434b47a85', 'short_description': 'Welp.', 'date': '2017-07-27'}

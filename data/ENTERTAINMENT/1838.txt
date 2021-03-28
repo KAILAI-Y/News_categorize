@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Why Being Killed By A Lightsaber Would Be So Much Worse In Real Life', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/lightsaber-real-life_us_5a32c765e4b0ff955ad1261f', 'short_description': 'Not so elegant, huh?', 'date': '2017-12-14'}

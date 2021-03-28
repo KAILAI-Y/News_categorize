@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Bradley Cooper Pumps Up Fellow Eagles Fans In Super Bowl Video', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bradley-cooper-eagles-super-bowl_us_5a74509ce4b0905433b32cd7', 'short_description': 'This will whet your appetite for Sunday.', 'date': '2018-02-02'}

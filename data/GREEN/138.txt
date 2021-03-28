@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Scientists Press For Marine Sanctuary After Massive Penguin Chick Die-Off', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/antarctica-penguin-chick-die-off_us_59e52549e4b0a2324d1d0e9a', 'short_description': 'Only two Adelie chicks survived of those born to 36,000 adults in Antarctica.', 'date': '2017-10-17'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'The Trump Cabinet Guide To Complimenting People In Your Life', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-trump-cabinet-guide-to-complimenting-people-in-your-life_us_59401abbe4b0b13f2c6e4145', 'short_description': 'Compliment your friends and family like a Trump underling.', 'date': '2017-06-13'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Claire’s Pulls Makeup After Mom Finds Asbestos In 6-Year-Old’s Kit', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/claires-recalls-makeup-after-it-tested-positive-for-asbestos_us_5a44039fe4b025f99e197754', 'short_description': "“You just assume that a children's product would be safe.”", 'date': '2017-12-28'}

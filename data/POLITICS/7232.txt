@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sen. John McCain To Return For Critical Health Care Vote', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/john-mccain-senate-healthcare-vote_us_59769bb6e4b0e201d57774de', 'short_description': 'His vote could prove decisive.', 'date': '2017-07-25'}

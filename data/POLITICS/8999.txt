@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Delays Final Decision On Paris Agreement Until Next Week', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/trump-paris-g7_us_59297a30e4b0065b20b6d756', 'short_description': 'The White House could make the U.S. one of only three countries to reject the historic climate deal.', 'date': '2017-05-27'}

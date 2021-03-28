@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Attorney General Jeff Sessions Reportedly Said He Could Resign', 'authors': 'Christina Wilkie', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-trump-confidence-jeff-sessions_us_5936fd63e4b0aba888b95201', 'short_description': 'Sean Spicer refused to say whether Trump still has confidence in Sessions.', 'date': '2017-06-06'}

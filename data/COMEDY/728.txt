@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trump Fatigue Syndrome Will Leave You Feeling Blue', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/trump-fatigue-syndrome-will-leave-you-feeling-blue_us_59c90dd8e4b01cc57ff3cd07', 'short_description': 'How low can you go?', 'date': '2017-09-25'}

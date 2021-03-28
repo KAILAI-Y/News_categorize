@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ryan Zinke Spent $6,250 On A Helicopter So He Could Ride Horses With Mike Pence', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/ryan-zinke-helicopters_us_5a2a2337e4b069ec48ac3272', 'short_description': 'Get to the chopper.', 'date': '2017-12-08'}

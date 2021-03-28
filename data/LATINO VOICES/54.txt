@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Camila Cabello's Vote For Standout 'Havana' Cover Goes To A Rubber Chicken", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/camila-cabello-havana-rubber-chicken-cover_us_5a5f9df0e4b054e35176c113', 'short_description': 'Yes, a rubber chicken version of the song exists.', 'date': '2018-01-17'}

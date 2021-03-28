@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Aidy Bryant Of ‘SNL’ Got Married, Surprises Fans With Announcement', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/aidy-bryant-of-snl-got-married-and-surprises-fans-with-announcement_us_5ae77606e4b055fd7fcebdac', 'short_description': '💕', 'date': '2018-04-30'}

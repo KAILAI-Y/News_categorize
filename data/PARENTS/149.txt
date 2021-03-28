@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '13 Baby Names Inspired By Witches', 'authors': 'Linda Rosenkrantz, Nameberry', 'link': 'https://www.huffingtonpost.com/entry/13-baby-names-inspired-by-witches_us_59f8a936e4b00c6145e1e8e2', 'short_description': 'Beyond the expected Sabrina and Samantha.', 'date': '2017-10-31'}

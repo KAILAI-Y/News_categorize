@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Lethal Weapon' Fires Clayne Crawford And His Character Gets Shot", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/lethal-weapon-fires-clayne-crawford_us_5af2ca47e4b0a0d601e8463a', 'short_description': '"You can\'t fire me on my day off!" the actor cried on Twitter.', 'date': '2018-05-09'}

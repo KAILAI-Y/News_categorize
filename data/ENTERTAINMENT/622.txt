@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jimmy Kimmel Unloads On Sean Hannity: ‘You, Sean, Are The Whole Ass Circus’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-sean-hannity_us_5ac6f561e4b0337ad1e63a6b', 'short_description': '"Why is Sean Hannity openly fantasizing about clowns in the ass?”', 'date': '2018-04-06'}

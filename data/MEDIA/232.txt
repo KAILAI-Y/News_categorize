@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Watch 'Fox & Friends' Struggle With News That Trump Tried To Fire Mueller", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/fox-and-friends-trump-fire-mueller_us_5a6b36f1e4b0ddb658c5ba3a', 'short_description': '"Do ya even care?"', 'date': '2018-01-26'}

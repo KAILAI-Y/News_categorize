@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Macklemore Sings 'Same Love' To Aussie Rugby Fans Amidst Marriage Vote", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/macklemore-same-love-australia-performance_us_59d24b24e4b06791bb11fbd4', 'short_description': "He donated proceeds to the nation's equality campaign, too.", 'date': '2017-10-02'}

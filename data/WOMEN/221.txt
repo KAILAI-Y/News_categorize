@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Floyd Mayweather Confuses #MeToo Movement In The Most Ignorant Way', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/floyd-mayweather-metoo-movement-confuses-interview_us_5a574e19e4b08a1f624bbeb8', 'short_description': '"When somebody be like, \'I got a Rolls Royce,\' I be like \'me too.’"', 'date': '2018-01-11'}

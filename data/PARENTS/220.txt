@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "People Are Not Happy About This Sexy 'Stranger Things' Costume", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/people-are-not-happy-about-this-sexy-stranger-things-costume_us_59df72efe4b0fdad73b27819', 'short_description': 'The costume has been criticized for sexualizing a child character.', 'date': '2017-10-12'}

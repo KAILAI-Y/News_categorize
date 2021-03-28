@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Turkey Alternatives To Serve This Thanksgiving', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/no-turkey-thanksgiving_us_59fa3ca4e4b0415a42096356', 'short_description': 'Imagine the possibilities! 🙅 🐔', 'date': '2017-11-02'}

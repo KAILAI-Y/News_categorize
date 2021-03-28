@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's How To Stop The Next Nikolas Cruz", 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/parkland-school-shooter-red-flag-law_us_5a8d9d2de4b00a30a251a979', 'short_description': '"Red flag" laws empower families to take action when they spot signs of trouble.', 'date': '2018-02-21'}

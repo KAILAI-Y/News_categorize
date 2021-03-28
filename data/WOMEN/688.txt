@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The Path To Power Led By Women', 'authors': 'Alex Slater, ContributorManaging Director of Clyde Group', 'link': 'https://www.huffingtonpost.com/entry/path-to-power-led-by-women_us_594942b8e4b0b90e99aa0af5', 'short_description': 'A future that is rumbling with promise, just over the horizon.', 'date': '2017-06-20'}

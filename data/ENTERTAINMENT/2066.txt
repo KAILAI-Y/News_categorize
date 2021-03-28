@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Demi Lovato Walks AMAs Red Carpet With Trans Lawmaker Danica Roem', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/demi-lovato-danica-roem_us_5a121e99e4b0dd63b1ab2de7', 'short_description': 'The pop superstar said she was "completely inspired" by Roem\'s victory.', 'date': '2017-11-20'}

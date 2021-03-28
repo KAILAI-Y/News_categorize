@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Shreds Trump Over Broken Promises: 'What Are You Talking About?'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/colbert-trump-iran-deal_us_5af24424e4b0a0d601e7925b', 'short_description': '“You literally just backed out of an American promise."', 'date': '2018-05-09'}

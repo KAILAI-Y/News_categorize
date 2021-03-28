@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Papua New Guinea Rattled By Strong Aftershocks', 'authors': 'Tom Westbrook, Reuters', 'link': 'https://www.huffingtonpost.com/entry/papa-new-guinea-aftershocks_us_5a9c65bfe4b089ec353b6a00', 'short_description': 'The death toll climbed to 55 and is expected to rise further.', 'date': '2018-03-04'}

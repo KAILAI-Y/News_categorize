@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Uber, Deliveroo Food Couriers Want Better Pay, Working Conditions', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/uber-deliveroo-pay_us_5a715328e4b0a6aa48747a81', 'short_description': '"Poverty is not an innovation," an Australian union official says.', 'date': '2018-01-31'}

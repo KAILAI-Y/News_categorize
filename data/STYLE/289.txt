@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '6 Things That Always Go On Sale In August', 'authors': 'PureWow, ContributorWhat your girl crush reads online', 'link': 'https://www.huffingtonpost.com/entry/6-things-that-always-go-on-sale-in-august_us_59837f68e4b00833d1de2693', 'short_description': 'All the best summer merch is officially on sale.', 'date': '2017-08-03'}

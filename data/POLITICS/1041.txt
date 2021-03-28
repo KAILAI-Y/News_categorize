@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Offers Support To EPA Chief Scott Pruitt Amid Ethics Scandal', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/white-house-scott-pruitt-epa_us_5ac39be3e4b00fa46f86a99a', 'short_description': '"We\'ve got your back," Trump reportedly said.', 'date': '2018-04-03'}

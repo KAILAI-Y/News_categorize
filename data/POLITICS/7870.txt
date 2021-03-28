@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Most Americans Think Washington Is Less Civil Under Trump', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/civility-trump-washington-poll_us_595a592de4b02734df339a3e', 'short_description': "Can't argue with that poll finding.", 'date': '2017-07-03'}

@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Merriam-Webster Steps In After Trump Tells America To 'Heel'", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/merrian-webster-trump-heel-heal_us_5998aeeee4b01f6e801ef6f9', 'short_description': '"Heal" can be a difficult word when you\'ve been defending white supremacists all week.', 'date': '2017-08-19'}

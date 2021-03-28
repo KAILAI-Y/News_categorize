@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'James Corden Highlights A Disturbing Trend In The Wake Of The Texas Church Shooting', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-sutherland-springs-texas-mass-shooting_us_5a016370e4b0368a4e86ac87', 'short_description': '“What can we say? Nothing."', 'date': '2017-11-07'}

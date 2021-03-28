@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'South Korean President Shakes Hands With North Korean Leaders During Winter Olympics Opening Ceremony', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/south-korea-north-korea-handshake_us_5a7d8a27e4b08dfc9302ec23', 'short_description': 'It was a historic moment for the two warring nations.', 'date': '2018-02-09'}

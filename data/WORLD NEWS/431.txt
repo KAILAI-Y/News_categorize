@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': '‘Doomsday Clock’ Swings To 2-Minute Countdown Due To Nuclear Threat', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/doomsday-clock-2-minute-nuclear-threat_us_5a6a032fe4b06e253265713a', 'short_description': 'Tick, tick, tick...', 'date': '2018-01-25'}

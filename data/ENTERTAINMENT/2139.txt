@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Double Tap! Jordin Sparks Expecting First Child After Secret Wedding', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/double-tap-jordin-sparks-expecting-first-child-after-secret-wedding_us_5a0b04fae4b00a6eece4586e', 'short_description': 'Taking one step at a time is overrated.', 'date': '2017-11-14'}

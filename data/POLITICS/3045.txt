@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Joker Is Editing Animatronic Donald Trump Into Real POTUS Photos', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-animatronic-edited-into-pictures_us_5a4b4a1ae4b0b0e5a7a8352d', 'short_description': 'Too. Funny.', 'date': '2018-01-02'}

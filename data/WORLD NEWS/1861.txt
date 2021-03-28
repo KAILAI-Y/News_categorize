@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Marine Le Pen's Father Suggests She's 'Outlived' Her 'Usefulness'", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/marine-le-pen-resign_us_5948e972e4b0cddbb0091bab', 'short_description': 'He said she should give up party leadership.', 'date': '2017-06-20'}

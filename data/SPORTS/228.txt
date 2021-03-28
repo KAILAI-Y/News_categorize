@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'U.S. Luger Emily Sweeney Wipes Out In Dramatic Olympics Crash', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/luge-emily-sweeney-crash_us_5a82df99e4b01467fcf17f22', 'short_description': 'The athlete was reportedly taken to a hospital for evaluation.', 'date': '2018-02-13'}

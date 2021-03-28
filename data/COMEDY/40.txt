@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Twitter Users Hilariously Skewered These Terrible Stock Photos Of Their Jobs', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/twitter-users-skewered-stock-photos_us_5afb365de4b0200bcab97552', 'short_description': '"According to my latest science, there is space."', 'date': '2018-05-15'}

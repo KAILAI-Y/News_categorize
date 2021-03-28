@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "It's Been Yet Another Day Of Handshake Fails And Awkwardness For Donald Trump", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/trump-handshakes-poland-germany_us_595e63dce4b02e9bdb0b0dd1', 'short_description': '😬😬😬', 'date': '2017-07-06'}

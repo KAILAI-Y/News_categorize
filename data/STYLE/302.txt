@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'This Gorgeous Rainbow Body Art Is Further Proof That Stretch Marks Are Beautiful', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/stretch-marks-art_us_5975fc26e4b0e79ec19ab556', 'short_description': 'WOW.', 'date': '2017-07-24'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Officer Charged With Murder In Shooting Death Of Justine Damond', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/justine-damond-shooting-decision_us_5a3189a9e4b091ca26850118', 'short_description': 'Minneapolis police officer Mohamed Noor killed Damond in July after she called 911.', 'date': '2018-03-20'}

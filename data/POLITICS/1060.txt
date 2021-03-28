@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Obama's Photographer Just Went On A Donald Trump-Trolling Spree", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/pete-souza-donald-trump-trolling-weekend_us_5ac32599e4b00fa46f85a6ac', 'short_description': "Pete Souza can't stop throwing shade at Trump on Instagram.", 'date': '2018-04-03'}

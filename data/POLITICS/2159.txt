@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Complains About 'Very Political And Long' Democratic Memo", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-very-political-memo_us_5a7fc736e4b08dfc9304d43c', 'short_description': 'Trump said the memo must be "heavily redacted" before it could be released.', 'date': '2018-02-11'}

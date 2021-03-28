@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Viral Onion Story On Mass Shootings Hits Too Close To Home', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/onion-mass-shootings-story_us_5a851f4be4b0058d5565dba0', 'short_description': '‘No Way To Prevent This,’ Says Only Nation Where This Regularly Happens', 'date': '2018-02-15'}

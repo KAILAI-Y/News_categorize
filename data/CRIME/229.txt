@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Mexico Deports American Polygamist Suspected In 3 Killings', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/polygamist-orson-willam-black-deported_us_5a090359e4b05673aa5a27a2', 'short_description': 'Orson William Black, who fled sex charges in Arizona 15 years ago, was turned over to police.', 'date': '2017-11-13'}

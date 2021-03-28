@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'Prince & Knight' Puts A Gay-Inclusive Twist On Traditional Fairy Tales", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/prince-and-knight-gay-kids-book_us_5afd932fe4b0779345d6be89', 'short_description': "Daniel Haack's picture book is the first release in a major GLAAD effort for kids.", 'date': '2018-05-17'}

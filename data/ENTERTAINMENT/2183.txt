@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '5 Netflix Documentaries To Help You Understand This Political Mess', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/netflix-political-documentaries_us_5a01d406e4b07eb511823f12', 'short_description': 'Know your enemies.', 'date': '2017-11-10'}

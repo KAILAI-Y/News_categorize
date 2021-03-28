@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Pauli Murray's Song Of Hope", 'authors': "Marian Wright Edelman, ContributorPresident, Children's Defense Fund", 'link': 'https://www.huffingtonpost.com/entry/pauli-murrays-song-of-hope_us_5a0622f3e4b0ee8ec3694164', 'short_description': "Lessons learned from one of Yale Law's brightest.", 'date': '2017-11-10'}

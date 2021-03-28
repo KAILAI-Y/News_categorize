@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Fiery Bus Crash Leaves Multiple People Dead In Germany', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/bus-crash-germany_us_595a203ee4b05c37bb7f6723', 'short_description': 'The bus was carrying a group of tourists.', 'date': '2017-07-03'}

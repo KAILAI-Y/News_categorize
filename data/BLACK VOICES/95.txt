@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'No Prom Or Graduation Ceremony For Teen Who Made Racist Promposal Sign', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/no-prom-noah-crowley_us_5adfb25ae4b07560f396664e', 'short_description': "Noah Crowley's parents and school decided he won't be attending any more school functions.", 'date': '2018-04-24'}

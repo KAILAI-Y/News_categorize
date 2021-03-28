@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. To Evacuate Diplomatic Staff From Cuba Following Mystery Ailments', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/state-department-cuba_us_59ce53dfe4b05f005d33e311', 'short_description': "It's still unclear whether embassy personnel are being targeted for injury.", 'date': '2017-09-29'}

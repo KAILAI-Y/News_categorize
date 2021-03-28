@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'The Last Known Dancing Bears Of Nepal Have Been Rescued', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/the-last-known-dancing-bears-of-nepal-have-been-rescued_us_5a3c1030e4b06d1621b2f312', 'short_description': 'The two sloth bears are traumatized, but rescuers are hopeful about their future.', 'date': '2017-12-23'}

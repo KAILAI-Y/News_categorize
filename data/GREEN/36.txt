@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Deer At 'Santa's Journey' Exhibit in Ireland Picked Off By Cruel Poachers", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/sikadeer-killed-at-santa-display_us_5a3f1a21e4b025f99e179491', 'short_description': '"Like shooting fish in a barrel," said the display\'s manager.', 'date': '2017-12-24'}

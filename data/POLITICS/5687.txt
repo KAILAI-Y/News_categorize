@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'John McCain Can Stop This Health Care Bill', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/john-mccain-health-care-graham-cassidy_us_59c2d7ebe4b06f93538c3e5b', 'short_description': 'But will he?', 'date': '2017-09-20'}

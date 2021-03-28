@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Samantha Bee Uses Sean Hannity's Own Tactics Against Him In Brutal Takedown", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-sean-hannity-criticism_us_5ad83871e4b03c426dab5338', 'short_description': '“His whole show is just an hour-long list of lies and conspiracy theories."', 'date': '2018-04-19'}

@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '12 Multipurpose Travel Essentials You Need For Your Next Adventure', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/multi-purpose-travel-essentials-you-need-for-your-next-vacation_us_5aba4d1ce4b054d118e720de', 'short_description': 'Pack with purpose.', 'date': '2018-03-27'}

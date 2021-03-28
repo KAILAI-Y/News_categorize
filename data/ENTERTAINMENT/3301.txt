@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '10 Artists Who Retired From Music And Made A Comeback', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/10-artists-who-retired-from-music-and-made-a-comeback_us_59569b67e4b0da2c7323580c', 'short_description': "These stars couldn't stay gone for long.", 'date': '2017-07-01'}

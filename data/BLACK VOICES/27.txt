@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Terry Crews: Me Too Movement 'Is The Emancipation Proclamation'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/terry-crews-safe-horizon-award_us_5afc4745e4b0a59b4dff8f9c', 'short_description': 'The "Brooklyn Nine-Nine" star recalled his childhood terrors in an emotional speech.', 'date': '2018-05-16'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'This Is What Pink Spit Out Before The Super Bowl National Anthem', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/pink-spit-super-bowl-national-anthem_us_5a787391e4b01ce33eb55b82', 'short_description': 'It wasn’t gum.', 'date': '2018-02-05'}

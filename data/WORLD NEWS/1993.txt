@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'What To Know When ISIS Claims Responsibility For An Attack', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/isis-responsibility-claims-amaq_us_5936b731e4b013c4816b118c', 'short_description': "There's a familiar pattern in how the militant group takes credit for its terror.", 'date': '2017-06-07'}

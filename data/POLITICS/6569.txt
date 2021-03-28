@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '5 Missing After Army Helicopter Downed Near Hawaii', 'authors': 'Willa Frej and Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/black-hawk-crash-hawaii_us_599451a9e4b0e789a9486b6f', 'short_description': 'A Marine collision last year in the same area killed 12.', 'date': '2017-08-16'}

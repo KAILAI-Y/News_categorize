@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '24 Feminist School Supplies For Empowered Girls', 'authors': 'Emily McCombs', 'link': 'https://www.huffingtonpost.com/entry/24-feminist-school-supplies-for-empowered-girls_us_59946d00e4b04b1933624aeb', 'short_description': 'So cute mom will want to steal them.', 'date': '2017-08-16'}

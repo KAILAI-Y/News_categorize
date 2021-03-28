@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Florida Woman Crashes Wedding, And It Doesn't End Well", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/florida-wedding-crasher-brawl_us_59f0eb66e4b07d838d31c102', 'short_description': 'No, crashing a wedding to throw a drink on a guy and allegedly punch his dance partner is not proper etiquette.', 'date': '2017-10-25'}

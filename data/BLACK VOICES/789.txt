@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'I Live Here Too: A Message To The Republican Party', 'authors': 'Michael Starr Hopkins , ContributorAttorney', 'link': 'https://www.huffingtonpost.com/entry/i-live-here-too-a-message-to-the-republican-party_us_59713f95e4b0f1feb89b4263', 'short_description': "Aren't I enough?", 'date': '2017-07-20'}

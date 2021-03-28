@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Kate McKinnon Channels Bobble-Head Betsy DeVos On 'Saturday Night Live'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/mckinnon-betsy-devos-snl_us_5aadfe54e4b0c33361b1033b', 'short_description': 'She wants to make certain "all schools are safe learning environments for guns."', 'date': '2018-03-18'}

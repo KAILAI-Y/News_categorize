@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Right-Wing Conspiracy Theory About Alabama Election Gets A Brutal Reality Check', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/alabama-election-conspiracy-theory_us_5a321692e4b01bdd7659f2ce', 'short_description': 'Watch how quickly it all falls apart.', 'date': '2017-12-14'}

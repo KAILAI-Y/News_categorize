@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Explain Why They Want Permanent Tax Cuts For Corporations But Not People', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/permanent-tax-cuts-corporations_us_5a0cbbcce4b0c0b2f2f78bea', 'short_description': 'Corporations are people, my friends!', 'date': '2017-11-15'}

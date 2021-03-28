@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jessica Chastain Responds To Criticism Over All-White Magazine Cover', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/jessica-chastain-all-white-magazine-photo_us_5a40c79be4b0b0e5a7a2e4f0', 'short_description': '"The industry needs to become more inclusive in its storytelling."', 'date': '2017-12-25'}

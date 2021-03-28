@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Ice Cube Claps Back At Lara Trump's ‘Real News' Facebook Broadcasts", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ice-cube-lara-trump-real-news-jimmy-fallon_us_5984474be4b08b75dcc64ff1', 'short_description': "He ain't riding along with them.", 'date': '2017-08-04'}

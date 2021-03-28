@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "After Day Of American Gushing, 'SNL' Goes Smart Aleck On The Royal Wedding", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snl-goes-smart-aleck-on-royal-wedding_us_5b01106be4b07309e0591ae7', 'short_description': "Kate's tipsy.", 'date': '2018-05-20'}

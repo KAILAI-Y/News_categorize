@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Sophia Amoruso On Regrets And Her Canceled 'Girlboss' Netflix Series", 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/sophia-amoruso-netflix-girlboss_us_5a04a335e4b0937b51106c3d', 'short_description': 'The former Nasty Gal entrepreneur is back with a new business.', 'date': '2017-11-10'}

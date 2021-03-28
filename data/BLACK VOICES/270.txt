@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Tiffany Haddish Will Be The First Black Woman To Host MTV Movie & TV Awards', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/tiffany-haddish-will-be-the-first-black-woman-to-host-mtv-movie-awards_us_5a901b24e4b0ee6416a26f23', 'short_description': 'The award show will air on June 18.', 'date': '2018-02-23'}

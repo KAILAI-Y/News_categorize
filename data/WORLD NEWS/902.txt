@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'From America With Love', 'authors': 'Nick Turse, ContributorManaging Editor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/from-america-with-love_us_59f684a6e4b07fdc5fbf08e8', 'short_description': 'U.S. commandos are a "persistent presence” on Russia’s doorstep.', 'date': '2017-10-30'}

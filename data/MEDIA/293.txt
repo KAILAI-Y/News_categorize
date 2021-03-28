@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': '14 Bombshell Reports That Showed The Power Of Great Journalism In 2017', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/great-journalism-2017_us_5a43e09be4b06d1621b691c0', 'short_description': 'Praise be to The New York Times.', 'date': '2017-12-30'}

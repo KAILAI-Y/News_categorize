@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration Orders Russia To Close Several Diplomatic Facilities In U.S.', 'authors': 'Jessica Schulberg', 'link': 'https://www.huffingtonpost.com/entry/trump-russia-diplomatic-facilities_us_59a83fb0e4b07e81d3560b76', 'short_description': 'The move escalates a diplomatic tit-for-tat between the two countries.', 'date': '2017-08-31'}

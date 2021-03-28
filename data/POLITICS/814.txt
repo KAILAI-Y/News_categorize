@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Is Furious About Media Propping Up, Giving Coverage To Guy Wanting Attention', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/white-house-comey-trump_us_5ad1130fe4b016a07e9c6658', 'short_description': 'Sarah Huckabee Sanders was not talking about Trump.', 'date': '2018-04-13'}

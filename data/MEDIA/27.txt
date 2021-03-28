@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Fox News Host Neil Cavuto Taunts Trolls Who Came For Him After Trump Takedown', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/fox-news-neil-cavuto-donald-trump-trolls_us_5aed5a69e4b041fd2d26e81b', 'short_description': '“No, you shut up!"', 'date': '2018-05-05'}

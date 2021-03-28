@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Spooky White House Christmas Chamber Is Creeping Everyone The Heck Out', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/white-house-christmas-nightmare_us_5a1d1259e4b04e8b2a83f8dd', 'short_description': 'It\'s getting compared to everything from "The Shining" to "The Blair Witch Project."', 'date': '2017-11-28'}

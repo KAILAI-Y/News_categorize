@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Gun Proposal Probably Won't Include Universal Background Checks", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/trump-universal-background-checks_us_5aa59af2e4b086698a9ef64d', 'short_description': 'The president seemed to endorse the idea less than two weeks ago', 'date': '2018-03-11'}

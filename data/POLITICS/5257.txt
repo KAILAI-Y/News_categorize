@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The GOP Tax Plan Is Not As Simple As They Say', 'authors': 'Arthur Delaney and S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/gop-tax-plan-not-as-simple-as-they-say_us_59d52a33e4b0cde458728dd9', 'short_description': 'A business tax cut could open a big loophole for wealthy filers to use.', 'date': '2017-10-04'}

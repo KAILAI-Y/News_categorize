@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Angelina Jolie Confesses That She Does Not ‘Enjoy Being Single’', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/angelina-jolie-does-not-enjoy-being-single_us_59ac56fee4b0dfaafcf1154d', 'short_description': '“It’s not something I wanted."', 'date': '2017-09-03'}

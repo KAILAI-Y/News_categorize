@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "'Art Of The Deal' Co-Author: Trump's Not Crazy Like A Fox, 'He's Just Crazy'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/tony-schwartz-trump-crazy_us_59cdb233e4b09538b5074c0c', 'short_description': 'Tony Schwartz says that the president is "delusional."', 'date': '2017-09-29'}

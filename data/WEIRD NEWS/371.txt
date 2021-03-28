@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Psychic Helps Sniff Out Missing Pet Skunk', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/psychic-pet-skunk_us_599e08ace4b0821444c0a921', 'short_description': "If our skunk went missing, we'd raise a stink too.", 'date': '2017-08-23'}

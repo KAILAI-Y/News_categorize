@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ryan Reynolds Totally Delivered When Asked Which Famous Chris Is Hottest', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/ryan-reynolds-which-chris-is-hottest_us_5a4ba642e4b0b0e5a7a8c7ce', 'short_description': 'Hemsworth, Pratt or Evans?', 'date': '2018-01-02'}

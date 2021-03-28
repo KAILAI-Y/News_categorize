@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Travel Ban Is A Minor Win For Trump And A Major Loss For Human Rights', 'authors': 'Douglas W. Kmiec, ContributorAmbassador', 'link': 'https://www.huffingtonpost.com/entry/travel-ban-sct-gives-trump-a-minor-win-human_us_59554d85e4b0c85b96c6601f', 'short_description': 'Why would the Supreme Court give this ruling?', 'date': '2017-06-29'}

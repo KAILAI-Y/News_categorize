@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Measuring 2017 In Hugs', 'authors': 'Kathryn Poe, ContributorStudent at Capital University', 'link': 'https://www.huffingtonpost.com/entry/measuring-2017-in-hugs_us_5a481312e4b06cd2bd03e05f', 'short_description': 'Big moments make headlines. Small moments propel us forward.', 'date': '2017-12-30'}

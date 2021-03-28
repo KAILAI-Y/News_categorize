@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "A '9 To 5' Remake With Jane Fonda, Lily Tomlin And Dolly Parton Might Happen", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/9-to-5-reboot_us_5a970b26e4b0e6a523045433', 'short_description': 'And Rashida Jones is reportedly being sought to co-write the script.', 'date': '2018-02-28'}

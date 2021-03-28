@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Missouri Gov. Eric Greitens Indicted On Invasion Of Privacy Charge', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/eric-greitens-indicted_us_5a8f423ce4b0ee6416a15103', 'short_description': 'The governor had earlier been accused of trying to blackmail a woman with nude photos.', 'date': '2018-02-22'}

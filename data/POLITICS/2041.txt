@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan's 3 Years Of Arguing Against 'Knee-Jerk' Reactions To Shootings", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-knee-jerk-shootings_us_5a864263e4b05c2bcac94502', 'short_description': 'His biggest fear: taking away gun rights.', 'date': '2018-02-16'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "How To Actually Get A Bartender's Attention", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/how-to-get-a-bartenders-attention_us_5a55372ce4b0b117f88041e3', 'short_description': 'Plus other things they wish you knew.', 'date': '2018-01-11'}

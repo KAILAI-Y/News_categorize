@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Art Student Has Killer Comeback To Teacher's 'Dial Down The Feminism' Tip", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/art-student-response-to-dial-down-feminism_us_5a7c3bede4b0c6726e0fdcd9', 'short_description': '"THIS IS INCREDIBLE."', 'date': '2018-02-08'}

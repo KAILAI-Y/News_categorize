@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ivanka And Jared's Jerusalem Visit Slammed On Twitter", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-jared-kushner-jerusalem_us_5afa5530e4b09a94524b7432', 'short_description': '"Daddy\'s Little Diplomat" gets called out over Israel trip.', 'date': '2018-05-15'}

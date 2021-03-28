@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Science Explains Why Fake News Goes Viral', 'authors': 'Agata Blaszczak-Boxe, Live Science', 'link': 'https://www.huffingtonpost.com/entry/science-explains-why-fake-news-goes-viral_us_59551bcee4b0da2c7321bfd1', 'short_description': "We're battling a sheer overload of information on social media.", 'date': '2017-06-29'}

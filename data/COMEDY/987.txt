@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Simpsons' Trolls Donald Trump With A Visit From Richard Nixon’s Ghost", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/the-simpsons-donald-trump-nixon-ghost_us_592919c1e4b0065b20b6c82c', 'short_description': '"Thanks to you, I\'m now the 44th best president."', 'date': '2017-05-27'}

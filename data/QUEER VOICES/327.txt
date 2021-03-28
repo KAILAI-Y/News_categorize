@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'Hypocrite' Mike Pence Slammed For Tweet Supporting Gay Olympic Athlete", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-called-out_us_5a7c012de4b08dfc93000bc1', 'short_description': 'Vice President Pence was called out for his hostility toward LGBTQ issues.', 'date': '2018-02-08'}

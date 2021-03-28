@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'High Schooler Lands James Mattis Scoop After Finding His Private Number Online', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/high-school-james-mattis_us_5963a3e5e4b0615b9e9364dd', 'short_description': 'School newspaper reporter Teddy Fischer interviewed the defense secretary for 45 minutes.', 'date': '2017-07-10'}

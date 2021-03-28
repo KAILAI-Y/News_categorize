@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "U.S. Reaches Trump's Desired Refugee Cap As Revised Travel Ban Goes Into Effect", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-travel-ban-refugee-cap_us_595cf6e4e4b05c37bb81318d', 'short_description': 'About 50,000 refugees have been resettled. Not many more are likely to make it in.', 'date': '2017-07-12'}

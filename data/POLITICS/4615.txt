@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Hillary Clinton Jokes About What She'll Be For Halloween This Year", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-halloween_us_59f80540e4b09b5c2568a4b6', 'short_description': '"I have to start thinking about it, don’t I?"', 'date': '2017-10-31'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Victoria Beckham And Shaq Spoof 'Sharknado' In The Weirdest Reboot Yet", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/sharknado-spoof-shaq-victoria-beckham-james-corden_us_5ad8656be4b029ebe0214785', 'short_description': 'Shaq attacks from the sky in the parody trailer.', 'date': '2018-04-19'}

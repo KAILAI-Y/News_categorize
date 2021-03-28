@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The World Has Officially Lost Confidence In U.S. Leadership Under Trump', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/global-leadership-us-trump_us_5a607778e4b062a7df0b25da', 'short_description': 'Even George W. Bush was more popular.', 'date': '2018-01-18'}

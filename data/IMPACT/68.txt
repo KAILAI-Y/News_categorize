@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'The Billionaire Bonanza: 5 Things You Need To Know About The Inequality Gap', 'authors': 'Tess Riley', 'link': 'https://www.huffingtonpost.com/entry/billionaire-global-wage-inequality_us_5a653d08e4b002283004016f', 'short_description': 'Spoiler alert: contains photos of rich white men.', 'date': '2018-01-22'}

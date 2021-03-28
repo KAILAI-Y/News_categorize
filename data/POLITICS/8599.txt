@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Cop Fired After Fatal Shooting Gets His Job Back, Plus $140,000', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/albuquerque-police-shooting-dominique-perez_us_5939a27be4b0b13f2c68720b', 'short_description': 'He was charged with second-degree murder, but his case ended in a mistrial.', 'date': '2017-06-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Campaign Alumni Start Group Focused On Voter Registration And Fraud', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-voter-fraud_us_5995a07ee4b06ef724d6d885', 'short_description': 'Part of their goal is to give people recording equipment to “document illegal voting.”', 'date': '2017-08-17'}

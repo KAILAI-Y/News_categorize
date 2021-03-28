@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jeff Sessions, James Comey Questioned In Robert Mueller's Russia Probe", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/jeff-sessions-mueller-probe_us_5a6750ede4b0dc592a0cd71d', 'short_description': 'Sessions is the first known member of Trump’s Cabinet to have been interviewed.', 'date': '2018-01-23'}

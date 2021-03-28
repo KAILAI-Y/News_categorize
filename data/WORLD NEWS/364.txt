@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Everything You Never Knew You Needed To Know About South Korea's Finger Heart Trend", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/finger-heart-south-korea-pyeongchang-olympics_us_5a7dc3a7e4b08dfc93037b3b', 'short_description': 'The Winter Olympics in Pyeongchang are just getting started.', 'date': '2018-02-09'}

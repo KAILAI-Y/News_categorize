@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Eye Making Bank Bill Even Weaker For Consumers', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/republicans-bank-bill_us_5aa17972e4b0d4f5b66eb71f', 'short_description': 'A provision benefiting veterans has gotten less beneficial, according to a Democratic senator.', 'date': '2018-03-08'}

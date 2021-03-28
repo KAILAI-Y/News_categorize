@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'As Ramadan Draws To An End, Mosques Worry About Security', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/ramadan-mosques-security_us_594ad397e4b0a3a837bcac1e', 'short_description': 'Rising hate crimes mean cameras and armed guards at what should be a time of joyous celebration.', 'date': '2017-06-23'}

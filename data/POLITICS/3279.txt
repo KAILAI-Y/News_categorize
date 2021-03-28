@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "London Borough Votes To Ban 'Bigoted' Donald Trump", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-ban-greenwich-london_us_5a3844ace4b0c65287abb4c8', 'short_description': '"We have no time for people who want to build walls."', 'date': '2017-12-19'}

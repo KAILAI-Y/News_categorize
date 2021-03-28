@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'The Dangers Of Climate Change Are Real In This New Comic Anthology', 'authors': 'Maddie Crum', 'link': 'https://www.huffingtonpost.com/entry/the-dangers-of-climate-change-are-real-in-this-new-comic-anthology_us_594820bae4b0cddbb008ad9f', 'short_description': 'Five artists weigh in on their art and their activism.', 'date': '2017-06-19'}

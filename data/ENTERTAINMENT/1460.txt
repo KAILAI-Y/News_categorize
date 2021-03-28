@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Judi Dench Was Up For 'Leading Roll' SAG Award, And Twitter Rolled With It", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/judi-dench-sag-award-twitter_us_5a65f8fde4b0e5630071b99b', 'short_description': '"We always hoped she\'d be a breadwinner."', 'date': '2018-01-22'}

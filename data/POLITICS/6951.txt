@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump’s Foreign Policy Is A Disaster', 'authors': 'Philip Rotner, Contributor@PhilipRotner, Attorney and Columnist', 'link': 'https://www.huffingtonpost.com/entry/trumps-disastrous-foreign-policy_us_5981e471e4b0b35d274c5f02', 'short_description': 'He’s squandering our global leadership and dragging us toward war.', 'date': '2017-08-03'}

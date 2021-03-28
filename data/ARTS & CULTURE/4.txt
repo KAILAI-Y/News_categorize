@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Man Surprises Girlfriend By Drawing Them In Different Animation Styles', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/man-girlfriend-drawing-animation-styles_us_5a565fe5e4b08a1f624ad6ce', 'short_description': 'What a colorful Christmas gift.', 'date': '2018-01-10'}

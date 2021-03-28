@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Scott Walker Gives Up Fight To Not Call Wisconsin Special Elections', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/scott-walker-special-electoins_us_5abcfa9be4b04a59a3155081', 'short_description': "Three different judges rejected Walker's appeal to hold off on the votes until November.", 'date': '2018-03-29'}

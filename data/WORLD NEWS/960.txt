@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Chad Added To Trump's Travel Ban Partly Because It Ran Out Of Passport Paper", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/chad-travel-ban-passport-paper_us_59e8c9eae4b061a7badad9ed', 'short_description': 'That is not a joke.', 'date': '2017-10-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'John Lewis Overcome With Emotion At A Civil Rights Movement Exhibit', 'authors': 'Ashley Alman', 'link': 'https://www.huffingtonpost.com/entry/john-lewis-civil-rights-movement_us_596a877ee4b03389bb17c9f6', 'short_description': '"Surreal. It is real, exactly what happened."', 'date': '2017-07-15'}

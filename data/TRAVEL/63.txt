@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Yelp Users Are Dragging Trump Hotels By Leaving ‘S**thole’ Reviews', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/trump-hotels-yelp-review_us_5a5e8b5ee4b096ecfca87d6e', 'short_description': '“Perhaps the Trump brand could take some lessons from Norway, where they have the BEST hotels."', 'date': '2018-01-18'}

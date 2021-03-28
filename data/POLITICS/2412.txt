@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'ICE Deports Palestinian Man Living In The U.S. For Almost 40 Years Despite Outcry', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/ice-deports-palestinian-man_us_5a70259de4b05836a255fe36', 'short_description': 'The agency defied a request from the House Judiciary Commitee to review his case.', 'date': '2018-01-30'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "FCC Chair Ajit Pai Jokes In Video About Being A 'Verizon Puppet'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/ajit-pai-fcc-verizon-joke_us_5a2b0f09e4b073789f69e22b', 'short_description': 'Pai stars in a skit saying he was "brainwash[ed] and groom[ed]" to be FCC chairman.', 'date': '2017-12-09'}

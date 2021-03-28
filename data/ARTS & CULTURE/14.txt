@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "'Dick Van Dyke' Cast Member Rose Marie Dead At 94", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/rose-marie-dead-94_us_5a4590e3e4b06d1621b7e670', 'short_description': 'The actress spent 91 years in show business.', 'date': '2017-12-29'}

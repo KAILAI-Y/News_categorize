@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Crack-Up', 'authors': "John Feffer, ContributorDirector, Foreign Policy In Focus; Author, 'Aftershock: A Jour...", 'link': 'https://www.huffingtonpost.com/entry/the-crack-up_us_59ef5d01e4b07cf8380ca25e', 'short_description': 'Donald Trump and the Fourth Great Shattering.', 'date': '2017-10-24'}

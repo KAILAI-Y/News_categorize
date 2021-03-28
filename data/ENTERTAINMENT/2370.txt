@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Public Enemy's Chuck D: Donald Trump Is 'The Epitome Of A White Supremacist'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/chuck-d-donald-trump-white-nationalist_us_59e9a709e4b0df10767c15f5', 'short_description': '"He’s not about sharing the world; he’s about taking."', 'date': '2017-10-20'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ariel Winter Shuts Down Body-Shamers Saying She's 'Squeezing' Into Shorts", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/ariel-winter-shuts-down-body-shamers-saying-shes-squeezing-into-shorts_us_596a3418e4b0d6341fe93e04', 'short_description': '"Please leave young women alone."', 'date': '2017-07-15'}

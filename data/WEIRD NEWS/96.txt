@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Strange 'Alien Skeleton' Mystery Finally Solved", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/alien-skeleton-mystery-solved_us_5ab47395e4b0decad0488838', 'short_description': 'The mummified remains are just 6 inches long, yet have the bone structure of a 6-year-old.', 'date': '2018-03-23'}

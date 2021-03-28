@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Best (Literal) Reactions To Trump's State Of The Union", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/state-of-the-union-reactions_us_5a71e2aee4b0a6aa48756a33', 'short_description': 'We mean their faces.', 'date': '2018-01-31'}

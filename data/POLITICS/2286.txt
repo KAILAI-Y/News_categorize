@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Accuser Rachel Crooks Is Running For Office', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/rachel-crooks-trump-ohio-legislature_us_5a78845de4b006e74aeecae6', 'short_description': 'She says the future president kissed her without consent at work in 2005.', 'date': '2018-02-05'}

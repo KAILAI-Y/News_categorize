@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Sarah Huckabee Sanders Actually Has An A+ Trolling Game On Twitter', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sarah-huckabee-sanders-pie_us_5a320065e4b07ff75b003465', 'short_description': "She's making her critics eat some humble pie.", 'date': '2017-12-14'}

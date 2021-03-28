@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jim Carrey Pens New Pledge Of Allegiance For Students In Bullet-Riddled Schools', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-fox-news-hosts_us_5b039bf1e4b07309e05b89b2', 'short_description': '"...with butchery and injustice for the most innocent of all."', 'date': '2018-05-22'}

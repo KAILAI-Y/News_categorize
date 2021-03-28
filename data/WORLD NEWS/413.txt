@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Putin: U.S. Release Of Oligarch List Is A Hostile Act', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/putin-oligarch-list-hostile_us_5a7061fae4b0a52682ff68b4', 'short_description': 'The document names dozens of Russians with close ties to the Kremlin.', 'date': '2018-01-30'}

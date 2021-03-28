@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Unveils Terrifying Donald Trump-Themed Anti-Drugs PSA', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-donald-trump-anti-drugs-psa_us_5ab2129ce4b054d118de3752', 'short_description': 'Trump may be "the right man for the job" to tackle the opioid crisis, said Noah.', 'date': '2018-03-21'}

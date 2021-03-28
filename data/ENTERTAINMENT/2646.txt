@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Here’s What’s Leaving And Arriving On Netflix In October 2017', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/whats-leaving-and-arriving-on-netflix-in-october-2017_us_59c28869e4b0f22c4a8e1a18', 'short_description': 'October is getting turned upside down.', 'date': '2017-09-20'}

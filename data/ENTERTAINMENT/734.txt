@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Christina Aguilera Is Barely Recognizable On Paper Magazine Cover', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/christina-aguilera-paper-magazine_us_5ab945cde4b0decad04ce5f4', 'short_description': 'The "Dirrty" diva kicks off a new era with a fresh-faced makeover.', 'date': '2018-03-26'}

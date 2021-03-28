@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Amy Schumer's Wedding Vows Were About As Raunchy As You'd Expect", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/amy-schumer-raunchy-wedding-vows-oral-sex_us_5a955cc6e4b01f65f59a60ab', 'short_description': '"It was all like, awful sh*t."', 'date': '2018-02-27'}

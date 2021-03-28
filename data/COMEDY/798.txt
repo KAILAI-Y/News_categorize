@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "James Corden Gets James Blunt To Be Blunt With His 'Late Late Show' Staff", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-james-blunt-late-late-show_us_599fcf30e4b06d67e336d198', 'short_description': 'But it ends up backfiring on the host.', 'date': '2017-08-25'}

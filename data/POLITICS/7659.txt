@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Offers Low-Energy Defense Of His 'High-Quality' Son", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-high-quality_us_59652304e4b09b587d62d8bf', 'short_description': 'After days of silence, the president mustered only a few words of tepid praise for Donald Trump Jr.', 'date': '2017-07-11'}

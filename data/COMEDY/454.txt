@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'These Tweets Will Guarantee You Start Off 2018 On The Perfect Note', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/these-tweets-will-guarantee-you-start-2018-on-the-perfect-note_us_5a3bfbb2e4b025f99e159560', 'short_description': 'What song will you choose to start your new year off right?', 'date': '2017-12-21'}

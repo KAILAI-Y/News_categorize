@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'A Celebrity Nutritionist Gets Real About Drastic Weight Gain In Hollywood', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/celebrity-weight-gain_us_5a0dfc2fe4b04df7381abc27', 'short_description': 'You might want to rethink your strategy, Christian Bale.', 'date': '2017-11-17'}

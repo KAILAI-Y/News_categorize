@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Eric Schneiderman Has Always Been A Con Man', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/eric-schneiderman-liberal-myth_us_5af1eba1e4b0ab5c3d6aaefb', 'short_description': 'The man liberals loved was a myth.', 'date': '2018-05-08'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': '‘Game Of Thrones’ Creators To Make New ‘Star Wars’ Film Series', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-star-wars_us_5a7a040ce4b0d0ef3c0a1b38', 'short_description': 'The response on Twitter is pretty epic.', 'date': '2018-02-06'}

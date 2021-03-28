@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kellyanne Conway Says People Who Doubted Trump Interfered In The Election', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-russia_us_594d187ce4b05c37bb75e329', 'short_description': 'Hang on -- what?', 'date': '2017-06-23'}

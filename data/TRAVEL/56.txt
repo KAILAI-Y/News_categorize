@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'A Disney Vacation Just Got Way More Expensive', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/disneyland-disney-world-price-2018-increase_us_5a8125dee4b08dfc93057fe1', 'short_description': 'Admission alone for a family of four will now top $500 on peak days.', 'date': '2018-02-12'}

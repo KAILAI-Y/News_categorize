@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'J. K. Rowling Wrongly Blamed Donald Trump For Snubbing A Boy In A Wheelchair', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jk-rowling-donald-trump-boy-disability-tweet_us_59802c2be4b00bb8ff392544', 'short_description': 'And for that, the Harry Potter author apologizes “unreservedly.”', 'date': '2017-08-01'}

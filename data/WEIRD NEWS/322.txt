@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Donald Trump Jr. Just Shared The Weirdest Picture Of His Dad', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-weird-picture-donald-trump_us_59eb2ccfe4b0a484d0638624', 'short_description': '"Alt-right porn is so weird."', 'date': '2017-10-21'}

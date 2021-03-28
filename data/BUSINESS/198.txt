@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Tim Cook Not Backing Down From Protecting Dreamers', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/tim-cook-dreamers_us_59ad0756e4b0dfaafcf14897', 'short_description': 'The Apple CEO said he stood with his young undocumented colleagues.', 'date': '2017-09-04'}

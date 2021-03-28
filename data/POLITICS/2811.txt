@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Top Advisors Urge Trump To Waive Iran Sanctions', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-iran-sanctions_us_5a578266e4b05b7a92eea197', 'short_description': 'The move would effectively end a 2015 deal to limit Tehran’s nuclear ambitions.', 'date': '2018-01-11'}

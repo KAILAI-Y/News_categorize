@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Fox Sports Host Desperate For Controversy Goes On CNN, Praises 'Boobs'", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/clay-travis-brooke-baldwin-boobs-cnn_us_59bc2dc6e4b086432b071be7', 'short_description': 'CNN is giving us all a lesson in how morons become right-wing media stars.', 'date': '2017-09-15'}

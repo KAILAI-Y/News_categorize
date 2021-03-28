@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Aziz Ansari Reminds Us That We Don’t Want Your Faux\xa0Feminism', 'authors': 'Barbara DiGangi, ContributorSocial Impact Strategist', 'link': 'https://www.huffingtonpost.com/entry/aziz-ansari-reminds-us-that-we-dont-want-your-faux_us_5a5b8005e4b0a233482e0c6c', 'short_description': '#TimesUp for feminist knock-offs.', 'date': '2018-01-14'}

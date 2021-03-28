@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': '6 Things Willie Dynamite Taught Us About Business', 'authors': 'Troy Harris II, ContributorChief Contributor at Grits & Gospel', 'link': 'https://www.huffingtonpost.com/entry/6-things-willie-dynamite-taught-us-about-business_us_5a0494e0e4b0204d0c171528', 'short_description': 'You got to have VISION!', 'date': '2017-11-09'}

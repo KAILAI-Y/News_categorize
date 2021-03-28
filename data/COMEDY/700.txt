@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jon Stewart’s Attempt To Defend Trump To Stephen Colbert Fails Spectacularly', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jon-stewart-donald-trump-equal-time_us_59dc624be4b0208970cf4421', 'short_description': 'An effort to give the president "equal time" quickly flies off the rails.', 'date': '2017-10-10'}

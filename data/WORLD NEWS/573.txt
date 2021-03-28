@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'South Korea Seizes Ship Suspected Of Transferring Oil To North Korea', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/south-korea-ship-seizure_us_5a461acae4b025f99e1adf35', 'short_description': 'Shipping oil to Pyongyang is in direct defiance of international sanctions.', 'date': '2017-12-29'}

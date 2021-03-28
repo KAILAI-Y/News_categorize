@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Senator Slams EPA Administrator Scott Pruitt For 'Juvenile' Behavior", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-john-kennedy_us_5aca30e8e4b07a3485e5c0d3', 'short_description': '“Stop acting like a chucklehead," Sen. John Kennedy (R-La.) said.', 'date': '2018-04-08'}

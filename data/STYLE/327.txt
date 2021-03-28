@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Activists Free On Bail After Being Arrested Investigating Ivanka Trump's Chinese Factories", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-chinese-activists_us_5954e76fe4b0da2c732176ee', 'short_description': '"She has set a bad example."', 'date': '2017-06-29'}

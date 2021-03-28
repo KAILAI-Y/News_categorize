@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Goes Pun-Crazy Over Tom Price's Resignation", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/tom-price-twitter-ridicules_us_59cf3cdce4b09538b5086a97', 'short_description': '"Price had too much baggage, overhead."', 'date': '2017-09-30'}

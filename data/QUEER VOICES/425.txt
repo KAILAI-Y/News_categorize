@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Singer Ria Mae Turns Personal Heartbreak Into A Haunting New Video', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/ria-mae-red-light-video_us_5a501096e4b01e1a4b151fc9', 'short_description': '"Red Light" finds two lovers at a personal crossroads.', 'date': '2018-01-08'}

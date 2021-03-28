@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Says He’s ‘Looking Forward’ To Speaking With Special Counsel Under Oath', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-mueller-testify-under-oath_us_5a691125e4b0022830093b87', 'short_description': '“I would do it under oath, absolutely.”', 'date': '2018-01-24'}

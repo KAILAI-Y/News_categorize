@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': '17-Year-Old Snowboarder Wins United States’ First Gold Medal In Pyeongchang', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/red-gerard-gold-olympics_us_5a7fac94e4b0c6726e141850', 'short_description': '“I haven’t had time for it to sink in yet," Redmond Gerard said following his victory.', 'date': '2018-02-11'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Over 67,000 Londoners Showed Up For A Halal Food Festival This Weekend', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/street-eats-halal-food-festival-london_us_59836577e4b08b75dcc5b991', 'short_description': 'Organizer Zohra Khaku is on a mission to find the best halal food out there.', 'date': '2017-08-03'}

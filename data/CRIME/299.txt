@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Neighbor Opens Fire As Father In Clown Mask Chases Child', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/father-clown-mask-chases-child_us_59bffc72e4b06f9bf04865ee', 'short_description': "The dad said he wanted to scare his daughter into behaving, but she ran screaming into a stranger's home.", 'date': '2017-09-19'}

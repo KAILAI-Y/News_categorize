@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Former WWF Wrestler Severely Beaten Outside California Home', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/former-wwf-wrestler-severely-beaten-outside-california-home_us_5aff14c9e4b0a046186b5ce6', 'short_description': '"He\'s really lucky to be alive," a neighbor said.', 'date': '2018-05-18'}

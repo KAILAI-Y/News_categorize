@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'YouTube’s Neighbors Send Stirring Message Of Support After Shooting', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/youtube-shooting-walmart-windows_us_5ac45f97e4b063ce2e57116b', 'short_description': 'Walmart employees in the next building used their windows to show some love.', 'date': '2018-04-04'}

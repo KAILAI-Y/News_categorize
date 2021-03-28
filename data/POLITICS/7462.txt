@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan's Attempt At Being A Relatable 'Emoji Guy' Backfires", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-emoji-backfires_us_596dad1de4b0e983c05882e9', 'short_description': '"A lot of people will 💀 because of your 💊💉 plan 👻"', 'date': '2017-07-18'}

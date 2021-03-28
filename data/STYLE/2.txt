@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'More Models Come Forward To Accuse Bruce Weber of Sexual Misconduct', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/photographer-bruce-weber-sexual-misconduct_us_5a5f4cf8e4b096ecfca92d9d', 'short_description': 'Some of the alleged incidents occurred more than three decades ago.', 'date': '2018-01-17'}

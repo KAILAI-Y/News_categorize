@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Seth Meyers Has A Scathing Message For Matt Lauer', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-matt-lauer_us_5a20e691e4b03350e0b59f9f', 'short_description': 'The "Late Night" host did not hold back.', 'date': '2017-12-01'}

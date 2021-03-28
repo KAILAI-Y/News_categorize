@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "George R.R. Martin Drops Major Clue About New 'Game Of Thrones' Show", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/george-rr-martin-drops-major-clue-about-game-of-thrones-spinoff_us_59c40031e4b06f93538d3acf', 'short_description': 'Speculation is coming ...', 'date': '2017-09-21'}

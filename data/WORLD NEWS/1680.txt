@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'UNESCO Designates New World Heritage Sites', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/unesco-world-heritage-sites_us_59628923e4b02e9bdb0d8088', 'short_description': 'They include ancient cities, sacred islands and historic cave art.', 'date': '2017-07-09'}

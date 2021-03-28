@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "New Fitness Trend 'Plogging' Keeps Both Humans And Mother Earth Healthy", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/plogging-fitness-trend_us_5a9065bde4b0ee6416a30941', 'short_description': "What's grosser? Not picking up trash or not taking responsiblity for it?", 'date': '2018-02-23'}

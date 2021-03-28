@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "This Fitness Trainer Wrote A Letter To Her Butt Dimple And It's Perfect", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/fitness-trainer-butt-dimple_us_5938274ae4b00610547e5af7', 'short_description': '"I will no longer hide you."', 'date': '2017-06-07'}

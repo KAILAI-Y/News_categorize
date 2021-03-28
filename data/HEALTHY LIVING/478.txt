@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "Alex Rodriguez Reveals He Practices Yoga, And He's Gone To Class With JLo", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/alex-rodriguez-yoga_us_5991bd30e4b090964298a34e', 'short_description': 'And he does pilates, too.', 'date': '2017-08-14'}

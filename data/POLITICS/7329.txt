@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Curious Tale Of Sean Spicer And The Mini-Fridge In The Night', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-and-the-mini-fridge_us_59735686e4b00e4363dfcf5d', 'short_description': '"You can\'t make this s**t up."', 'date': '2017-07-22'}

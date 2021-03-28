@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What Net Neutrality Really Means For You (And For Us)', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/net-neutrality-good-bad_us_5a396d07e4b0860bf4ab9e6f', 'short_description': "We'd like to apologize in advance to HuffPost readers who don't get their internet from Verizon.", 'date': '2017-12-25'}

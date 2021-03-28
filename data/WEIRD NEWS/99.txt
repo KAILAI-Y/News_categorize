@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Feminists Demand Paris Sex Doll Brothel Be Shut For Fueling Rape Fantasies', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/debate-over-paris-sex-doll-brothel_us_5ab078b2e4b0697dfe19c4f4', 'short_description': '"Westworld" prequel?', 'date': '2018-03-20'}

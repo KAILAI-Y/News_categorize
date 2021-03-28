@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tormund And The Hound Singing Could Melt The Night King's Icy Heart", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/tormund-and-the-hound-singing-could-melt-the-night-kings-icy-heart_us_59a01406e4b0821444c29c98', 'short_description': 'Talk about a song of ice and fire.', 'date': '2017-08-25'}

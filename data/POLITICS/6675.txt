@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New Trump Video Names Journalists -- Not Nazis -- As ‘Enemies’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-journalist-enemies_us_599153f8e4b09071f69ab126', 'short_description': 'The ad was released during a weekend of alt-right violence in Charlottesville, Virginia.', 'date': '2017-08-14'}

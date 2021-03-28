@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Democrats Help Advance Bill That Could Increase Risk Of Financial Crisis', 'authors': 'Igor Bobic and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/banks-financial-crisis-democrats_us_5a9ee620e4b002df2c5e594c', 'short_description': 'But only slightly. Nothing to worry about!', 'date': '2018-03-06'}

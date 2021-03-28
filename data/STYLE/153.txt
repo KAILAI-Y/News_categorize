@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Yes, This Is Alexander Skarsgård's Actual New Haircut", 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/alexander-skarsgard-hair-bald_us_59f34ba5e4b07fdc5fbdc5ad', 'short_description': "Haters will say it's Photoshop.", 'date': '2017-10-27'}

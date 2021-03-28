@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'An Italian Stylist Builds A Hair-Raising Automobile', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/hairy-automobile-italy_us_5a0f6265e4b045cf4371584a', 'short_description': '“We shampoo it, we brush it, we trim it," she says of her car\'s locks.', 'date': '2017-11-18'}

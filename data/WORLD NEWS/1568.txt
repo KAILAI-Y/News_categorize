@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Poland Passes Law That EU Says Threatens Country's Democracy", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/poland-controversial-judicial-bill_us_5970bad2e4b0aa14ea7805be', 'short_description': 'The new bill gives the ruling nationalist party extensive powers over the courts.', 'date': '2017-07-22'}

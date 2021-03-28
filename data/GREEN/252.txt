@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Dramatic Photos Show Texas Under Water, With Flooding Expected To Worsen', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/photos-show-texas-under-water_us_59a2da9ce4b06d67e3383e02', 'short_description': 'The muddy floodwaters have taken out highways, buildings and numerous cars.', 'date': '2017-08-27'}

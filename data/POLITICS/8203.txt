@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nancy Pelosi To Critics: Bring It On', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/nancy-pelosi-democratic-leader_us_594bc880e4b0a3a837bd7478', 'short_description': '“My decision about how long I stay is not up to them."', 'date': '2017-06-22'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Roger Federer Wins Record Eighth Wimbledon Title', 'authors': 'Martyn Herman, Reuters', 'link': 'https://www.huffingtonpost.com/entry/roger-federer-wins-wimbledon_us_596b7e5ae4b0174186282b0f', 'short_description': 'Federer claimed victory in less than two hours.', 'date': '2017-07-16'}

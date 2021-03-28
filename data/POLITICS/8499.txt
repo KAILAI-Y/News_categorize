@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Judge Requires Drunk Drivers To Download Uber Or Lyft', 'authors': 'Andy Campbell', 'link': 'https://www.huffingtonpost.com/entry/judge-drunk-drivers-uber-lyft_us_59405c0be4b0d3185485a370', 'short_description': 'Judge Michael Cicconetti is known for his unusual sentencing methods -- and he says they work.', 'date': '2017-06-13'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Yvonne Orji On Her Faith, Hustle And 'Insecure' Season 3", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/yvonne-orji-interview_us_5ab28406e4b054d118df0b0c', 'short_description': '“I let [my faith] guide me, because if I try to take the wheel, it’s about to be a mess," she said.', 'date': '2018-03-23'}

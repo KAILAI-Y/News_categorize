@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Bob Dylan Finally Gave His Required Nobel Prize Lecture. Here It Is.', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/bob-dylan-nobel-prize-lecture_us_59356ad4e4b02478cb9d5b24', 'short_description': '"I hope what I say will be worthwhile and purposeful," Dylan started his lecture.', 'date': '2017-06-05'}

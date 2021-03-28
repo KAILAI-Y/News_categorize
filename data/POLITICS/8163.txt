@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Steve Scalise Moves Out Of Intensive Care Unit', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/steve-scalise-intensive-care-unit_us_594d51dce4b02734df2a22b3', 'short_description': 'The GOP whip remains in "fair" condition after being shot in the hip last week.', 'date': '2017-06-23'}

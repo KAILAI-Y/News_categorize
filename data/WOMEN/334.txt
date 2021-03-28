@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Megyn Kelly And Suzanne Somers Joked About Marital Rape On Morning Show', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/megyn-kelly-suzanne-somers-joke-about-marital-rape_us_5a0d9744e4b0c0b2f2f81644', 'short_description': 'Somers has since issued an apology for her comments.', 'date': '2017-11-16'}

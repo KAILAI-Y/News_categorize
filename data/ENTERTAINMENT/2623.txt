@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Will & Grace' Stars Perform Show's Theme Tune With Lyrics For First Time", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/will-grace-theme-song-tonight-show-jimmy-fallon_us_59c624fee4b06ddf45f82fda', 'short_description': "🎤 Get down! 'Will & Grace' is coming to town 🎤", 'date': '2017-09-23'}

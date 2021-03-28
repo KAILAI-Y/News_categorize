@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Apple Rejects New Game App Featuring 'Objectionable' Pepe The Frog", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/apple-rejects-pepe_us_593dfd52e4b0c5a35ca0c958', 'short_description': "Alt-right mascot doesn't make the cut for the Apple store.", 'date': '2017-06-12'}

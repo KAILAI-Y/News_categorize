@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Begrudgingly Swallow Fiscal Deal They Clearly Don’t Like', 'authors': 'Matt Fuller and Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-deal-congress-debt_us_59b071a7e4b0dfaafcf53507', 'short_description': 'The president caved to Democrats. Republicans are going along with it anyway.', 'date': '2017-09-06'}

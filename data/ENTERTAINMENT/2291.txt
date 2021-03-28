@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kim Kardashian's Resemblance To Cher For Halloween Is Truly Uncanny", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-goes-as-cher_us_59f5fa3be4b03cd20b822e0d', 'short_description': 'The costume earned her a nod from Cher herself. 🙌', 'date': '2017-10-29'}

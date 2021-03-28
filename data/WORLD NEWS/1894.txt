@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Bodies Of Missing USS Fitzgerald Sailors Found In Flooded Compartments', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/uss-fitzgerald-sailors-found_us_5945def4e4b06bb7d273a0db', 'short_description': 'Seven sailors were reported missing after USS Fitzgerald collided with a container ship.', 'date': '2017-06-18'}

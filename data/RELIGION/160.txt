@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Twitter Burns Joe Walsh For Claiming Charlie Hebdo Never Attacks Muslims', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/joe-walsh-twitter-charlie-hebdo_us_59a8363de4b07e81d355f3d5', 'short_description': '"You know you can Google this s**t, right?" one person asked.', 'date': '2017-08-31'}

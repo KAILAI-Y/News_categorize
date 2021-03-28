@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "British Actress Reveals 'Humiliating' Encounter With Harvey Weinstein", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/romola-garai-harvey-weinstein_us_59dc8e09e4b00377980b677d', 'short_description': '"I felt violated by it, it has stayed very clearly in my memory."', 'date': '2017-10-10'}

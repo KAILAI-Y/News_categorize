@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Donates 'Ass To Awareness,' Gets Colonoscopy With Katie Couric", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-colonoscopy-katie-couric_us_5ab2330fe4b054d118de6dac', 'short_description': '"You\'re about to watch a camera go where no camera has ever gone before."', 'date': '2018-03-21'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Denounces Amazon More Strongly Than Neo-Nazis', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-neo-nazis_us_59942e47e4b04b193361e7d6', 'short_description': 'The president has made his priorities pretty clear.', 'date': '2017-08-16'}

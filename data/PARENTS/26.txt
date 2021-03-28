@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "'Disgruntled' Boy Trolls Teacher With Genius Holiday Assignment Answers", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/boy-trolls-teacher-homework-holidays_us_5a50ad11e4b089e14dbb15c1', 'short_description': '"Can you name two kids that like homework?"', 'date': '2018-01-06'}

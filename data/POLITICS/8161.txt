@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Judge Temporarily Halts Deportation Of Detained Iraqis', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/judge-iraqi-michigan-deportation_us_594c64ace4b0da2c731a9a7e', 'short_description': 'The ACLU said the move “may very well have saved numerous people from abuse and possible death."', 'date': '2017-06-23'}

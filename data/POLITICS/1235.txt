@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Abandons His Anti-Iraq Campaign Stance And Hires A Key Warmonger', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/trump-hires-john-bolton-iraq_us_5ab46528e4b008c9e5f5cfa5', 'short_description': 'Former U.N. Ambassador John Bolton was a loud cheerleader for the 2003 invasion.', 'date': '2018-03-23'}

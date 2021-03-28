@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Johnny Weir Explains Why He Waited To Publicly Come Out As Gay', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/johnny-weir-lgbt-athletes-olympics_us_5a60e826e4b05085db607b01', 'short_description': '"I didn’t imagine it as a great secret," the two-time Olympian wrote.', 'date': '2018-01-18'}

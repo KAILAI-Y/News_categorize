@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Restaurateur David Chang Is Launching A New Culture-Focused Media Company', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/david-chang-majordomo-media-company_us_5aa7d089e4b009b705d641e6', 'short_description': 'Podcasts and TV shows and editorial, oh my!', 'date': '2018-03-13'}

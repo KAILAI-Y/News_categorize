@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Plans To Sell Taiwan $1.42 Billion In Arms', 'authors': 'David Brunnstrom and Arshad Mohammed, Reuters', 'link': 'https://www.huffingtonpost.com/entry/us-taiwan-arms-deal_us_59557f01e4b02734df31271a', 'short_description': 'The move is sure to anger China.', 'date': '2017-06-29'}

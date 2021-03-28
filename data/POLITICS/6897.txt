@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Bill Maher: Donald Trump Is 'Capable' Of Ordering Assassinations", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-donald-trump-political-murders_us_59856c1fe4b0cb15b1be97c1', 'short_description': '"I think he loves dictators, loves the way they behave, compliments them all the time."', 'date': '2017-08-05'}

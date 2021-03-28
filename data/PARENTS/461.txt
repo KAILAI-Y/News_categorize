@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Talented Kiddos Recreate Iconic 'Dirty Dancing' Scene On 'America's Got Talent'", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/talented-kiddos-recreate-iconic-dirty-dancing-scene-on-americas-got-talent_us_598b5cc3e4b0a66b8bb0afee', 'short_description': 'OMG THE LIFT.', 'date': '2017-08-09'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Far-Right Mob Attacks 75-Year-Old Liberal Greek Mayor', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/greek-far-right-mayor-thessaloniki_us_5b02dffce4b0463cdba4a856', 'short_description': '"It was organized fascists who attacked me as a person and as a mayor," Yannis Boutaris said.', 'date': '2018-05-21'}

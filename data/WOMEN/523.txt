@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Time Unveiled 12 Stunning Covers Celebrating Game-Changing Women', 'authors': 'Jenavieve Hatch', 'link': 'https://www.huffingtonpost.com/entry/time-unveiled-12-stunning-covers-celebrating-game-changing-women_us_59b1a825e4b0354e441081f7', 'short_description': 'From Hillary Clinton to Ava DuVernay.', 'date': '2017-09-07'}

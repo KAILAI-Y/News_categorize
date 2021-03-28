@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Foreign Carmakers Invoke Reagan To Sway Trump On Trade', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/foreign-carmakers-invoke-reagan-to-sway-trump-on-trade_us_59445768e4b01eab7a2dcca2', 'short_description': '“It’s morning again -- for auto manufacturing in America,” a new ad says.', 'date': '2017-06-16'}

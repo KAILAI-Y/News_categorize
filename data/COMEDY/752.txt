@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Tom Hanks Hints That David S. Pumpkins May Be Coming Back', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/david-s-pumpkins-come-back-tom-hanks_us_59bb456be4b0edff971ac395', 'short_description': 'Any questions?', 'date': '2017-09-15'}

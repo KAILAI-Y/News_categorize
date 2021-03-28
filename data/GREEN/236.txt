@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Live Updates On Hurricane Harvey's Aftermath", 'authors': 'Eline Gordts', 'link': 'https://www.huffingtonpost.com/entry/hurricane-harvey-live-updates_us_59a60034e4b063ae34d9ce8f', 'short_description': 'The storm has brought unprecedented damage to the Houston area.', 'date': '2017-08-30'}

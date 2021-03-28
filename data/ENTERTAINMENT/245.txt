@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "A Sick Robin Williams Confessed On Set: 'I Don't Know How To Be Funny'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/robin-williams-struggle-with-dementia_us_5af04f34e4b041fd2d28c1b1', 'short_description': 'New biography offers a glimpse into the comedian’s struggle with dementia.', 'date': '2018-05-07'}

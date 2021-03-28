@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Immigration Authorities Detain Woman On A Greyhound Bus After Asking Everyone For ID', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/immigration-woman-greyhound-bus_us_5a6708bfe4b0dc592a0c1af7', 'short_description': 'She was reportedly visiting family in Florida.', 'date': '2018-01-23'}

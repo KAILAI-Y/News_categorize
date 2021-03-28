@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Speaks At FBI Graduation After Trashing Bureau's 'Worst In History' Reputation", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-fbi_us_5a33ce24e4b040881be9ba94', 'short_description': 'He promoted anti-immigration and tough-on-crime policies.', 'date': '2017-12-15'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Strong Earthquake In Papua New Guinea Damages Buildings And Sparks Landslides', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/earthquake-strikes-papua-new-guinea_us_5a9308b0e4b01e9e56bce62d', 'short_description': 'There were no reports of injuries or deaths.', 'date': '2018-02-25'}

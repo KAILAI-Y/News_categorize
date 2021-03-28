@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Reveals The Secret To Negotiating With Trump, And It's Super Gross", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-negotiating_us_5a66e267e4b002283005f6fe', 'short_description': 'Ewww!', 'date': '2018-01-23'}

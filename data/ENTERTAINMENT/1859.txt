@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Haim Gives Hanukkah A Long-Overdue New Anthem', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/haim-hanukkah-song_us_5a30ea18e4b07ff75afecf30', 'short_description': '"Sandler, we’re coming for you."', 'date': '2017-12-13'}

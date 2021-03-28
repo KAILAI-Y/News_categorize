@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Pharma Execs Made A Rap Video In Which They Danced With A Giant Bottle Of Fentanyl Spray', 'authors': 'Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/insys-fentanyl-spray-rap-video-john-kapoor_us_59f36fa9e4b077d8dfc96724', 'short_description': 'Do you have a copy of this video? Please get in touch.', 'date': '2017-10-27'}

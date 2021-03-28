@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Tuesdays Morning Email: Obamacare Repeal Dead...For Now', 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-obamacare-repeal-deadfor-now_us_596df0ace4b0e983c058dbb5', 'short_description': 'Mitch McConnell is not pleased.', 'date': '2017-07-18'}

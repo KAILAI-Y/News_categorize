@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Taylor Swift Is A Goth Gatsby Fantasy On British Vogue Cover', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-is-a-goth-gatsby-fantasy-on-british-vogue-cover_us_5a259808e4b03c44072f854f', 'short_description': 'She did something good.', 'date': '2017-12-04'}

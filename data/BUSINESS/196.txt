@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Elon Musk Predicts The Cause Of World War III (And It's Not Donald Trump)", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/elon-musk-world-war-iii_us_59ae3d24e4b0354e440c02a6', 'short_description': 'Tesla CEO issues a dire warning.', 'date': '2017-09-05'}

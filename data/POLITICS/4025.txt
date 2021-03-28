@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's Childish 'IT WAS ME' Plea For Credit Sets Twitter On Fire", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-twitter-it-was-me_us_5a156be5e4b03dec82494253', 'short_description': '"The President tweets with tears streaming down his face and snot coming out his nose."', 'date': '2017-11-22'}

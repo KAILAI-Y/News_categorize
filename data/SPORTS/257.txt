@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'And The First Gold Medal Of The Winter Olympics Goes To ...', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/first-gold-medal-winter-olympics-goes-to_us_5a7ec68fe4b044b3821dadb4', 'short_description': 'Skiathlon victor took silver at the previous Games.', 'date': '2018-02-10'}

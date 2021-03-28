@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'A Refrigerator Started The London Fire, Police Say', 'authors': 'Michael Holden, Reuters', 'link': 'https://www.huffingtonpost.com/entry/refrigerator-started-london-fire_us_594d11c3e4b0da2c731afa97', 'short_description': "The tragedy wasn't deliberate.", 'date': '2017-06-23'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Adele Dresses Up As Dolly Parton, To Make Her Feel Her Love', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/adele-dolly-parton-dresses-up_us_5a70666ae4b05836a2567280', 'short_description': '"We wish we could possess an ounce of your ability."', 'date': '2018-01-30'}

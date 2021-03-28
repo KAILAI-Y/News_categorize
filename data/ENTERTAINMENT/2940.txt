@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'To Stay Grounded In Hollywood, Tony Hale Talks To Himself', 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/hail-tony-hale_us_598db5f1e4b0909642965a83', 'short_description': "The actor is currently up for another Emmy and revisiting a beloved character. How's he feeling?", 'date': '2017-08-11'}

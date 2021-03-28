@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Kate McKinnon Kills As Laura Ingraham On 'Saturday Night Live'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/mckinnon-as-laura-ingraman-on-snl_us_5ad2ddc0e4b077c89ce93f0c', 'short_description': 'Fighting for her "right to bully people without being bullied in return.”', 'date': '2018-04-15'}

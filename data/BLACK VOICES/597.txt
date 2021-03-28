@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "How The NFL Gentrified A Black Man's Protest", 'authors': 'Percell Dugger, Contributor@MrGOODWRK', 'link': 'https://www.huffingtonpost.com/entry/how-the-nfl-gentrified-a-black-mans-protest_us_59c90a70e4b08d661550444b', 'short_description': 'The league has mobilized to blunt the power of its protesting players', 'date': '2017-09-26'}

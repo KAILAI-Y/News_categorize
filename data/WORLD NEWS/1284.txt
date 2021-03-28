@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Despite The Backlash, Women Take The Wheel In Afghanistan', 'authors': 'Nargis Ehsan, Sahar Speaks', 'link': 'https://www.huffingtonpost.com/entry/women-drivers-afghanistan_us_5980c3f5e4b0d6e28a1112a0', 'short_description': '"At first, my husband refused to let me drive, and I had to fight to convince him."', 'date': '2017-08-31'}

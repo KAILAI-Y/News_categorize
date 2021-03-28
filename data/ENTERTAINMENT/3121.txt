@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Doug The Pug Scores An Eleven Out Of Ten From 'Stranger Things' Kids", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/doug-the-pug-eleven-stranger-things-kids_us_5974e9f8e4b0e79ec19a0a24', 'short_description': "They've met and it's ICONIC.", 'date': '2017-07-23'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Grilled Salad Is So Much Better Than It Sounds. Here's How To Nail It.", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/grilled-salad-recipes_us_59493895e4b07499199eccc0', 'short_description': 'The first step on your way to grill mastery is romaine.', 'date': '2017-06-21'}

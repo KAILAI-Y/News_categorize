@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Theresa May's Number 2 Sacked Amid Pornography Scandal", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/damian-green-sacked-porn_us_5a3b8c00e4b0b0e5a79fbbe4', 'short_description': "He's also been accused of making unwanted sexual advances.", 'date': '2017-12-21'}

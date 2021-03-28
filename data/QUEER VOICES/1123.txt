@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "How This Year's Pride Gave Me Hope", 'authors': 'Amelia, ContributorMother and breadwinner', 'link': 'https://www.huffingtonpost.com/entry/how-this-years-pride-gave-me-hope_us_59666cf8e4b0524d8fa7fa64', 'short_description': 'As I watched my family at Pride, it started to flicker, the tiniest little ember of hope.', 'date': '2017-07-12'}

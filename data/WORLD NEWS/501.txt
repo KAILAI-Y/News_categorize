@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S. Embassy In London, Stiffed By Real Trump, Gets Visit From Stiff Trump', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/wax-trump-embassy-london_us_5a58d6eae4b02cebbfdb4349', 'short_description': 'Well played, Madame Tussauds.', 'date': '2018-01-12'}

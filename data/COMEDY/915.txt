@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'This Is What Happens When You Try To Pass Off The Bahamas As Myrtle Beach', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/myrtle-beach-bahamas-lie_us_595c08aee4b0da2c7325aaf7', 'short_description': 'The real loser here is "Dirty Myrtle."', 'date': '2017-07-04'}

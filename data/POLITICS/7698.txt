@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Why A Bipartisan Health Care Bill Might Make Sense -- For Republicans', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/bipartisan-health-care-bill-republicans_us_5963b245e4b005b0fdc70e3c', 'short_description': 'Politically, it could be their least-bad option.', 'date': '2017-07-10'}

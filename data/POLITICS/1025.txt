@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'All The Ways Trump Amped Up His Immigration Crackdown This Week', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-immigration-crackdown_us_5ac486f3e4b063ce2e5730d4', 'short_description': 'He threatened to kill DACA and wants to send the military to the border.', 'date': '2018-04-04'}

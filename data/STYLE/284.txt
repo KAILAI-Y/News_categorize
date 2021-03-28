@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Serena Williams Bares Her Baby Bump For Stunning Cover Of Stellar Magazine', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/serena-williams-bares-her-baby-bump-for-stunning-stellar-cover-shoot_us_5988703ce4b041356ec11770', 'short_description': 'She opened up about becoming a mother.', 'date': '2017-08-07'}

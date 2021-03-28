@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Google Grants $1 Million To Non-Profit To Bring More Black Boys To Tech', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/google-grant-black-boys-tech_us_59fc7342e4b0415a420b269c', 'short_description': 'The funds will help The Hidden Genius Project reach more youth.', 'date': '2017-11-03'}

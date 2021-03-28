@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Read The Text Of The Senate's 'Skinny' Obamacare Repeal Bill", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/skinny-repeal-bill-full-text_us_597a9a0ce4b02a4ebb745967', 'short_description': 'The bill, called the Health Care Freedom Act, could strip health care from millions of Americans.', 'date': '2017-07-28'}

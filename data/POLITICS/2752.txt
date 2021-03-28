@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's What To Know About The 2018 Women's March", 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/2018-womens-march_us_5a5d14e6e4b03c4189683949', 'short_description': 'Women are dusting off their pussy hats for round two.', 'date': '2018-01-15'}

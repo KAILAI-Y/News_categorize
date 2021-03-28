@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "11 Things We're Obsessed With This Week, Besides Dodging Pennywise Look-Alikes", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/things-were-obsessed-with-15_us_59f1fb2ee4b07fdc5fbc6aca', 'short_description': 'Witch better have my candy.', 'date': '2017-10-26'}

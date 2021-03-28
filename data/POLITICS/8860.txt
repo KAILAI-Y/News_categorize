@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Former Astronaut Laments 'Irresponsible' Withdrawal From Paris Agreement", 'authors': 'Kim Bellware', 'link': 'https://www.huffingtonpost.com/entry/mark-kelly-paris-climate-deal_us_59307290e4b07572bdbffd70', 'short_description': '"I saw our planet change in one decade. This is nuts."', 'date': '2017-06-01'}

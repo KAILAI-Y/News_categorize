@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "MAD Magazine Rolls Out '20 Dumbest People, Events And Things' Of 2017", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/mad-magazine-rolls-out-20-dumbest-people-events-and-things-of-2017_us_5a201767e4b0a8581e6887d5', 'short_description': "It's a miracle they were able to limit themselves to 20.", 'date': '2017-11-30'}

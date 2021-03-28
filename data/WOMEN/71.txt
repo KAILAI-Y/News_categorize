@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': '20 Alternative Mother’s Day Cards For The Supportive Women In Your Life', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/alternative-mothers-day-cards-for-the-supportive-women-in-your-life_us_5ac5417ce4b0aacd15b81498', 'short_description': "Who aren't your mom.", 'date': '2018-04-05'}

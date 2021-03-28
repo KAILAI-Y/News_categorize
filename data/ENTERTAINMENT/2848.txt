@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Twitter’s Response To Taylor Swift’s New Single Is So Funny We’re DEAD', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/twitters-response-to-taylor-swifts-new-single_us_59a029cde4b0821444c2bcfc', 'short_description': "Look what Swift's song made Twitter do.", 'date': '2017-08-25'}

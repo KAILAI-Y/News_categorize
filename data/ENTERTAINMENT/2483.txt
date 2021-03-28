@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Gal Gadot Gets Help From Leslie Jones In Her First 'SNL' Monologue", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/leslie-jones-gal-gadot-snl-opener_us_59d9953ae4b072637c4486a0', 'short_description': '"We\'re an inspiration to women everywhere."', 'date': '2017-10-08'}

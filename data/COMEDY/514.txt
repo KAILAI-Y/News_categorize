@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'James Corden Asks What Everyone Wants To Know About Omarosa', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-omarosa-white-house_us_5a27b7bee4b044d16725e41f', 'short_description': '“I understand that on the list of things to tackle about the White House, this is very far down."', 'date': '2017-12-06'}

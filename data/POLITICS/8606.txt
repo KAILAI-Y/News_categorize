@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democrats Look For Lessons After Labour's Unexpected Success In Britain", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/democrats-uk-elections-lessons_us_593ae2fbe4b0c5a35c9f0e15', 'short_description': 'Progressive and anti-authoritarian policies seem to have worked.', 'date': '2017-06-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Vermont Secretary Of State Tells Trump Voter Fraud Panel It Can Best Help Voters By Folding', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/jim-condos-voter-fraud-panel_us_5970c321e4b0aa14ea781915', 'short_description': 'He said information the committee was seeking would be "useless."', 'date': '2017-07-20'}

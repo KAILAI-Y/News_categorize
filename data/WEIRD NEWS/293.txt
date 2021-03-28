@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Wingsuit Pilot Rips Through A Giant Sheet Of Paper At 155 MPH', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/anton-andersson-wingsuit-target_us_5a04614de4b0f76b05c3ceba', 'short_description': 'You have to see it to believe it.', 'date': '2017-11-10'}

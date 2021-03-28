@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Redditors Splendidly Spoof Snap Of Bill Clinton Hiding Between The Bushes', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-clinton-bushes-photoshop-battle_us_5969bb6fe4b03389bb17924c', 'short_description': 'Donald Trump between two Vladimir Putins? Check.', 'date': '2017-07-15'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Chrissy Teigen's Hot Take On Ice Cream Trends Could Divide A Nation", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-ice-cream_us_5966174ce4b03f144e2f5b26', 'short_description': 'Which side of the cone do you land on?', 'date': '2017-07-12'}

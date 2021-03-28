@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Constituents Take On Trump's Messy Voter Fraud Probe Since Their States Won't", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-voter-fraud-probe-lawsuits_us_59663ca4e4b03f144e2fbf29', 'short_description': 'They say state law bars officials from releasing even limited public information.', 'date': '2017-07-12'}

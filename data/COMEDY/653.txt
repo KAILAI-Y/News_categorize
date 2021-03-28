@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon's Halloween Dogs Round-Up Is Too Cute For Words", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/halloween-dog-costumes-jimmy-fallon_us_59f2d29ce4b03cd20b80aee7', 'short_description': 'Pawnald Trump takes a starring role.', 'date': '2017-10-27'}

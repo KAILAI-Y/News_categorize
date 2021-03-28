@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Activists Demand NRA Pull Recruitment Ad In Their Own Powerful Video', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/black-lives-matter-nra-commercial_us_59602c67e4b0d5b458ea9e60', 'short_description': 'The Black Lives Matter LA chapter recast the NRA\'s "dangerous propaganda videos."', 'date': '2017-07-08'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Grapple With Calling On Trump To Resign', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/democrats-trump-resign_us_5a3062e9e4b07ff75afe93ec', 'short_description': '"Let’s not play games," one senator said. "There’s nothing you can do to shame him into resigning."', 'date': '2017-12-13'}

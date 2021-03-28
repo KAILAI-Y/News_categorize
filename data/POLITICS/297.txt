@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Here Are Those Facebook Ads That House Dems Say Russia Ran During The 2016 Election', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/russian-facebook-ads-divide-americans_us_5af46067e4b0859d11d121f4', 'short_description': 'The House released all 3,000 of the ads on Thursday.', 'date': '2018-05-10'}

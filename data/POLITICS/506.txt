@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What Robert Mueller Reportedly Wants To Ask Donald Trump', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/robert-mueller-questions-for-trump_us_5ae7bc27e4b04aa23f264b21', 'short_description': 'The New York Times obtained a list of possible questions for the president.', 'date': '2018-05-01'}

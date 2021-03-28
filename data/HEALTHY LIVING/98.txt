@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "7 Odd Things That Happen To Your Body When It's Cold Outside", 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/body-in-cold-weather_us_5a0b0256e4b00a6eece44d3d', 'short_description': 'Who knew?', 'date': '2017-11-15'}

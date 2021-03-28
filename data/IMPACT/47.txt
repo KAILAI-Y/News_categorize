@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'The Dirty Secret Of Bicycles', 'authors': 'Tom Levitt, On assignment for HuffPost', 'link': 'https://www.huffingtonpost.com/entry/bamboo-bicycles-sustainable-transport_us_5a9dbe75e4b0a0ba4ad70124', 'short_description': 'And why bamboo may be an answer.', 'date': '2018-03-06'}

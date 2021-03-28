@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "California Authority Says State's New Homes Must Be Solar Powered", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/california-solar-panel-requirement_us_5af3464ae4b09bb419e47ccd', 'short_description': 'This will be the first state mandate of its kind.', 'date': '2018-05-09'}

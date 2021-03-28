@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democrats Offer Up 'A Better Deal'", 'authors': 'Chris Weigant, ContributorChris Weigant is a political commentator.', 'link': 'https://www.huffingtonpost.com/entry/democrats-offer-up-a-better-deal_us_5976906ce4b0c6616f7ce4ae', 'short_description': 'Consider today’s Democratic Party agenda rollout to be a good start.', 'date': '2017-07-25'}

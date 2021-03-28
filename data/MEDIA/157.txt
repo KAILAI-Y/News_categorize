@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Tucker Carlson Turns On Trump: 'Imagine If Barack Obama Had Said That'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/tucker-carlson-trump-guns_us_5a990a7de4b0a0ba4ad203e2', 'short_description': '"Congress would be talking impeachment right now."', 'date': '2018-03-02'}

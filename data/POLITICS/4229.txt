@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Headed Toward Including Obamacare Mandate Repeal In Tax Bill', 'authors': 'Matt Fuller and Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/senate-republicans-obamacare-repeal-tax-reform_us_5a0b4c88e4b0bc648a0e6dcd', 'short_description': 'Are Republicans shooting themselves in the foot again?', 'date': '2017-11-14'}

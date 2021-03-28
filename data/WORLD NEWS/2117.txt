@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S.-Led Airstrikes Kill More Than 100 Civilians In Syria', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/us-airstrikes-kill-100-syria_us_59283c62e4b0df34c35b90c3', 'short_description': 'That includes more than 40 children.', 'date': '2017-05-26'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "People Can't Get Over Hugh Jackman's Shocked Face After His Golden Globes Loss", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/hugh-jackman-face-golden-globes_us_5a53b674e4b0efe47ebb856c', 'short_description': 'So real it hurts.', 'date': '2018-01-08'}

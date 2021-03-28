@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Chef Mario Batali Takes Leave After 4 Women Accuse Him Of Sexual Misconduct', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/mario-batali-sexual-misconduct-allegations_us_5a2e88b6e4b069ec48aee423', 'short_description': 'He reportedly groped the women over the period of 20 years.', 'date': '2017-12-11'}

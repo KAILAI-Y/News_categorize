@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Failed White House Communications Director Now Ready To Try Journalism', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/anthony-scaramucci-journalism_us_59cbcb11e4b02aef6cd6bd4c', 'short_description': 'Anthony Scaramucci is desperate for a comeback.', 'date': '2017-09-27'}

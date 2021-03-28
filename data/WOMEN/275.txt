@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Roy Moore Accuser Says Alabama Is 'About To Make Some Changes'", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-accuser-beverly-nelson_us_5a315a95e4b01bdd76594cb6', 'short_description': '"I\'m super excited."', 'date': '2017-12-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nashville Mayor Megan Barry Under Investigation For Affair With Former Bodyguard', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/nashville-mayor-megan-barry-affair-investigation_us_5a7ddcc6e4b08dfc9303b0ac', 'short_description': '"I just want to make it right," Barry said.', 'date': '2018-02-09'}

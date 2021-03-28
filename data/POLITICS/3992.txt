@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Republican Tax Agenda Has A 'Not Quite' Problem", 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/gop-tax-plan-not-quite_us_5a1592c6e4b03dec82496f6c', 'short_description': 'About that "doubled" standard deduction...', 'date': '2017-11-24'}

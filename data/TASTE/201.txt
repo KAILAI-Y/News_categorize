@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Another Craft Beer Goes Big, As Anchor Brewing Is Bought By Beer Giant Sapporo', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/san-franciscos-anchor-brewing_us_59887056e4b041356ec11784', 'short_description': 'Another one bites the dust.', 'date': '2017-08-07'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Former 'Doctor Who' Star Colin Baker Hints The 14th Doctor Will Be Black", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/doctor-who-colin-baker-black-bbc_us_5971d856e4b0e79ec1988f28', 'short_description': '"All I can say is, watch the next regeneration."', 'date': '2017-07-21'}

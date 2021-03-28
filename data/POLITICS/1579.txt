@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Equifax Wins In Latest Version Of Senate Bank Bill', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/senate-bank-bill-equifax_us_5aa2c99de4b086698a9d8573', 'short_description': 'The legislation would give credit monitoring companies an edge in the mortgage business.', 'date': '2018-03-09'}

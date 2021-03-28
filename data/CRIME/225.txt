@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Texas State University Halts Greek Life After Fraternity Pledge Dies', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/fraternity-pledge-dies-texas-state-university_us_5a0b6f64e4b0b17ffce10641', 'short_description': 'Alcohol is suspected in the death of the 20-year-old Phi Kappa Psi pledge.', 'date': '2017-11-15'}

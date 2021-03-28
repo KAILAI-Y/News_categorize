@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "In This Charming 'Menashe' Clip, An Orthodox Father Bonds With His Doting Son", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/menashe-clip_us_597b5b52e4b02a8434b623a4', 'short_description': 'The acclaimed indie opens this weekend.', 'date': '2017-07-28'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Chelsea Manning Responds To Donald Trump's Tweets About Banning Transgender Service Members", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/chelsea-manning-donald-trump-military-transgender_us_5978959fe4b0a8a40e84234d', 'short_description': '"Sounds like cowardice."', 'date': '2017-07-26'}

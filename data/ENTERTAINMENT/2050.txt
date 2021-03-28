@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'How ‘Mudbound’ Director Dee Rees Convinced Mary J. Blige To Join Her Cast', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/dee-rees-mudbound_us_5a146b8ae4b09650540dc78b', 'short_description': '”For me, it was a long shot. It was a Hail Mary. But she said yes.”', 'date': '2017-11-22'}

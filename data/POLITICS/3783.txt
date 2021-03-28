@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Hillary Clinton Calls Senate Tax Bill 'Insulting Attack' On Americans", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-calls-senate-tax-bill-insulting-attack-on-americans_us_5a230e3ae4b0a02abe918e56', 'short_description': "The bill was passed in Saturday's early morning hours.", 'date': '2017-12-02'}

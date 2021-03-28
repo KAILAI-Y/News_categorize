@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Serena Williams Gets Personal In New HBO Documentary Series', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/serena-williams-hbo-documentary-series_us_5ab56841e4b054d118e2c8ae', 'short_description': '“I put so much pressure on myself. I want to make sure that I’m the best."', 'date': '2018-03-26'}

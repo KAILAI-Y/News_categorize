@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'The Tacro Is Born, A Flaky Mashup Of A Taco And A Croissant', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/tacro-taco-croissant-vive-la-tarte_us_5a74ba2ee4b01ce33eb29534', 'short_description': 'Foodies of Instagram rejoice!', 'date': '2018-02-02'}

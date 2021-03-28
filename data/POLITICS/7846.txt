@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nikki Haley Picked The Wrong Day To Complain About Her Job', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/nikki-haley-picked-the-wrong-day-to-complain-about-her-job_us_595c4bb7e4b05c37bb808bf0', 'short_description': "That didn't go the way she probably thought it would.", 'date': '2017-07-05'}

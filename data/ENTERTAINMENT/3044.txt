@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Sir Mix-A-Lot's 'Baby Got Back' Gets A Stomping Country Twang", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/baby-got-back-country-cover-sir-mix-a-lot_us_598171f3e4b0353fbb3372b2', 'short_description': "You'll like this version, and you cannot lie.", 'date': '2017-08-02'}

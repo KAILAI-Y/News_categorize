@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The RNC Asked For Birthday Wishes For Eric Trump, And It Didn't Go As Planned", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/eric-trump-birthday-wishes-rnc-tweet_us_5a507cc0e4b01e1a4b15338a', 'short_description': 'A lot of people called out the GOP for asking them to honor a private citizen.', 'date': '2018-01-06'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Redditors Revive Old Image Of Conan O'Brien As A Superhero", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/conan-obrien-superhero-photo-editing-battle_us_5ab4dc53e4b008c9e5f6420a', 'short_description': 'Rival late-night TV hosts make a comic appearance.', 'date': '2018-03-23'}

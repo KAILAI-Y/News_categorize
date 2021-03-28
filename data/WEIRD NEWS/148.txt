@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Dreams Are The Ultimate Fake News'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/reddit-shower-thoughts-february-2018-part-one_us_5a731925e4b0146e5944bf43', 'short_description': 'The 25 most profound “Shower Thoughts” on Reddit from the last week.', 'date': '2018-02-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Loses Out To Barack Obama, Yet Again', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-barack-obama-state-of-the-union-viewers_us_5a72e5a5e4b06fa61b4da9bc', 'short_description': "This time, it's all about State of the Union viewing figures.", 'date': '2018-02-01'}

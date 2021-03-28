@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Deputies Fatally Shoot 6-Year-Old In His Home While Firing At Suspect', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/kameron-prescott-deputy-shooting_us_5a3eadfce4b06d1621b4c08b', 'short_description': 'Kameron Prescott, 6, was struck by a stray bullet.', 'date': '2017-12-23'}

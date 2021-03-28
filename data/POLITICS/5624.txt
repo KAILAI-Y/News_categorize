@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Senate Candidate Gets Trolled Over A Very Unfortunate Typo', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-bus-typo_us_59c4b48ce4b01cc57ff11f27', 'short_description': 'Someone get this man a spellcheck.', 'date': '2017-09-22'}

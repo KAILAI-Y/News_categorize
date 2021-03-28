@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Vatican Says Communion Bread Must Contain Gluten', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/vatican-communion-bread-gluten_us_5963f580e4b005b0fdc7b2b0', 'short_description': 'A directive from the Roman Catholic Church clarifies its rules on the Eucharist host.', 'date': '2017-07-10'}

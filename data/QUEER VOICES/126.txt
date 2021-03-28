@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Kesha Helps A Real-Life Same-Sex Couple Marry In Her New Video', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/kesha-i-need-a-woman-video_us_5acb8863e4b07a3485e6f042', 'short_description': "This is the singer's third time as a same-sex wedding officiant.", 'date': '2018-04-09'}

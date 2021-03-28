@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Steely Dan Guitarist Walter Becker Dies At 67', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/walter-becker-dies_us_59ac22dee4b0354e440af6c4', 'short_description': "The musician's death was announced on his website.", 'date': '2017-09-03'}

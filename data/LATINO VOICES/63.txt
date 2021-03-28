@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Don't Celebrate Trump's DACA Court Loss Too Early, Advocates Warn", 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/trump-daca-court_us_5a564644e4b03bc4d03d4166', 'short_description': 'A legal expert advised Dreamers not to send in applications to renew their two-year protections just yet.', 'date': '2018-01-10'}

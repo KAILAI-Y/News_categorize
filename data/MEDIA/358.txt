@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "MSNBC Trolls Trump With An Obama 'Merry Christmas' Supercut", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-obama-merry-christmas_us_5a1fab04e4b037b8ea1f9958', 'short_description': 'Merry Christmas.', 'date': '2017-11-30'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chrissy Teigen Hilariously Explains Why She Didn't Take John Legend's Last Name", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-explains-why-she-didnt-take-john-legends-last-name_us_5ab3a529e4b0decad04760c2', 'short_description': 'That settles that.', 'date': '2018-03-22'}

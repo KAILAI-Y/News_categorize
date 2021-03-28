@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '6-Year-Old Applies For Lego Job With Heartfelt Letter, Boasts ‘Lots Of Experience’', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/six-year-old-legoland-windsor-job-stanley-bolland_us_59ad0fa2e4b0354e440b4355', 'short_description': '"I am the man [for] the job," he wrote.', 'date': '2017-09-04'}

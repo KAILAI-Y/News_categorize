@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Deadpool 2' Stunt Driver Dies On Set In Motorcycle Accident, Police Confirm", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/deadpool-2-stunt-driver-dies-on-set_us_5991e009e4b09071f69b96f5', 'short_description': 'The incident is under investigation.', 'date': '2017-08-14'}

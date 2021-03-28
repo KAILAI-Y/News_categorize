@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump's Comey 'Tapes' Flop Is Just His Latest Self-Inflicted Controversy", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-comey-tapes_us_594c09aee4b01cdedf01cfec', 'short_description': 'The president keeps making things worse for himself.', 'date': '2017-06-22'}

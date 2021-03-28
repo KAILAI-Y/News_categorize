@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Exercises You Can Do Even If You Lack Fitness Skills', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/exercises-low-fitness-skill_us_59e75a8ae4b0d0e4fe6c6495', 'short_description': "Because we can't all be gym gurus.", 'date': '2017-10-20'}

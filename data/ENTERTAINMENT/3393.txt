@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Bachelor In Paradise' Star Corinne Olympios Hires Top Lawyer Following Scandal", 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/bachelor-in-paradise-star-corinne-olympios-hires-top-lawyer-following-scandal_us_594190c6e4b0d3185486c951', 'short_description': '"I am a victim."', 'date': '2017-06-14'}

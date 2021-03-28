@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Robbin' Season's True Criminal Is Revealed In The Latest Episode Of 'Atlanta'", 'authors': 'Julia Craven and Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/atlanta-season-2-episode-9_us_5ae35a94e4b04aa23f22f60d', 'short_description': 'The rise of Paper Boi and the fall of Earn was inevitable.', 'date': '2018-04-27'}

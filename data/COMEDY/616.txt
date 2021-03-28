@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Begs Us Not To Allow Trump To Plead Incompetence', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-begs-us-not-to-allow-trump-to-plead-incompetence_us_5a00794be4b0c96530011507', 'short_description': 'Especially if he has one of the greatest memories of all time!', 'date': '2017-11-06'}

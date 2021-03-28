@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "A Priest's Confession: I Am Racist", 'authors': 'The Rev. Richard Mosson Weinberg, ContributorEpiscopal Priest in Washington, DC', 'link': 'https://www.huffingtonpost.com/entry/a-priests-confession-i-am-racist_us_59908b33e4b063e2ae058099', 'short_description': 'You are racist, too.', 'date': '2017-08-13'}

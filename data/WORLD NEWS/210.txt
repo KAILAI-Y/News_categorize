@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Syria Aid Worker: 'A Motionless World' Is Watching 'Wholesale Slaughter'", 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/eastern-ghouta-aid-worker_us_5ab05c04e4b0697dfe19b6ab', 'short_description': "'Help is getting fainter' in besieged Syrian region.", 'date': '2018-03-20'}

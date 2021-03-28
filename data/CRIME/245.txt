@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Police Catch 'Nonchalant' Gunman Who Killed 3 At Colorado Walmart", 'authors': 'Keith Coffman, Reuters', 'link': 'https://www.huffingtonpost.com/entry/shooting-colorad-walmart_us_59fa8bb3e4b01b47404824d5', 'short_description': 'The suspect entered the store  calmly and opened fire, then walked out, police said.', 'date': '2017-11-02'}

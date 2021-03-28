@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'London Police Shut Down A Rave In An Abandoned Toys R Us', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/london-police-shut-down-a-rave-in-an-abandoned-toys-r-us_us_5ad0e648e4b016a07e9c2010', 'short_description': 'The police later tweeted out a fun graphic about the incident.', 'date': '2018-04-13'}

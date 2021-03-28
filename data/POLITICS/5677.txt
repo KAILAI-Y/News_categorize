@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Hillary Clinton Tears Into Trump's 'Dark And Dangerous' UN Speech", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-trump-un-speech_us_59c1c9abe4b087fdf508fe61', 'short_description': 'The former secretary of state then explained what Trump should have said.', 'date': '2017-09-20'}

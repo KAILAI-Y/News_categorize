@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Original Godzilla Actor Haruo Nakajima Dead At 88', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/haruo-nakajima-godzilla-dead_us_5988eb76e4b0d79373899f7b', 'short_description': 'The 1954 version of the monster costume outweighed  the actor because of wartime shortages.', 'date': '2017-08-07'}

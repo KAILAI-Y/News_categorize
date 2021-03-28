@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Equifax Scandal Could Complicate GOP Efforts To Gut A New Consumer Protection', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/equifax-cfpb-arbitration-rule_us_59b70196e4b09be4165765d8', 'short_description': 'And some conservatives are telling Republicans to back off.', 'date': '2017-09-11'}

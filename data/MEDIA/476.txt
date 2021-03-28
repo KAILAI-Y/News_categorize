@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Bill O'Reilly On Las Vegas Massacre: 'This Is The Price Of Freedom'", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/bill-oreilly-las-vegas-shooting_us_59d29fa5e4b048a4432481eb', 'short_description': '"Americans have a right to arm themselves for protection," he wrote. "Even the loons.”', 'date': '2017-10-02'}

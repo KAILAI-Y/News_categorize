@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'The Christmas Dogs Of Instagram Are Pawsitively Adorable', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/christmas-dogs-of-instagram-2017_us_5a3e1136e4b025f99e1740c5', 'short_description': 'Too cute!', 'date': '2017-12-23'}

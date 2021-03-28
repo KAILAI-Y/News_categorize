@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Again Threatens Status Of DACA, Demands Border Wall', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/trump-daca-border-wall_us_5a465e2be4b0b0e5a7a601f6', 'short_description': 'Hundreds of thousands of undocumented young people, many of them children, are in limbo.', 'date': '2017-12-29'}

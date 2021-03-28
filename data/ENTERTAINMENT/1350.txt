@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kendall Jenner Shades Scott Disick Back To The Dark Ages With Sofia Richie Dig', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kendall-jenner-scott-disick-sofia-richie_us_5a6f349be4b0ddb658c8bb2b', 'short_description': 'Who knew she had it in her?', 'date': '2018-01-29'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Missed Black Friday? These 25 Sales Are Still A Good Deal', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/black-friday-sales-still-happening_us_5a1d8e79e4b06a14100a56a9', 'short_description': 'These sales are still going strong.', 'date': '2017-11-28'}

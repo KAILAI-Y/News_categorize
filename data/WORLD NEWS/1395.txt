@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hundreds Feared Dead In Sierra Leone Mudslide', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/sierra-leone-mudslide_us_5991a152e4b08a247275d639', 'short_description': "“The disaster is so serious that I myself feel broken,” said the country's vice president.", 'date': '2017-08-14'}

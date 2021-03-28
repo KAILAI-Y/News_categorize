@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Afghanistan Bombings Result in Country's Deadliest Day For Journalists", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/afghanistan-bombings-journalists-killed_us_5ae72ab4e4b055fd7fce3c40', 'short_description': 'Ten journalists were killed in a series of attacks on Monday.', 'date': '2018-04-30'}

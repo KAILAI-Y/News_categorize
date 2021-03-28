@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Racists Charged In Terror Plot Against Somali Refugees Get A Nearly All White Jury', 'authors': 'Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/white-kansas-militiamen-terrorism-trial-jury_us_5ab1230fe4b05825ccb12be6', 'short_description': 'The sole African-American on the final jury panel was struck.', 'date': '2018-03-23'}

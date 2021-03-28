@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Frank Ocean's Interview With Timothée Chalamet Is Pretty Darn Charming", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/timothee-chalamet-frank-ocean-joaquin-phoenix_us_5a79f7b1e4b07af4e81e7216', 'short_description': 'They even bonded over a love of Joaquin Phoenix.', 'date': '2018-02-06'}

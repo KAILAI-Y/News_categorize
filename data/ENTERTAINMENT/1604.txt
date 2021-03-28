@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Pizza Hut Plan To Bring 'Black Mirror' Prediction To Life Freaks Folks Out", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/pizza-hut-black-mirror_us_5a549a78e4b01e1a4b192bdb', 'short_description': 'Spoiler alert.', 'date': '2018-01-09'}

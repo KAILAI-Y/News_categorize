@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Former Employee Sues Vice Media For Allegedly Underpaying Female Staffers', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/vice-media-equal-pay-lawsuit_us_5a83555ee4b0cf06751f6dce', 'short_description': 'The plaintiff says she was paid $25,000 less than a male subordinate she hired.', 'date': '2018-02-14'}

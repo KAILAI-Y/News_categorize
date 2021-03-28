@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'New York Police Wrangle Bull Wandering In Brooklyn Park', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/wandering-cow-brooklyn-park_us_59e67bade4b08f9f9edb6c06', 'short_description': 'Un-bull-lievable!', 'date': '2017-10-17'}

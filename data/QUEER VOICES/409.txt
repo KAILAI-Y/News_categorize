@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Lindsay Lohan Says Past Relationships With Women Were Part Of 'Living In L.A.'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/lindsay-lohan-wendy-williams_us_5a5b834de4b03c4189669445', 'short_description': 'The "Mean Girls" star told Wendy Williams, "I like men."', 'date': '2018-01-14'}

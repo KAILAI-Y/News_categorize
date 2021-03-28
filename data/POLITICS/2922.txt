@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "It's Not Genius For Trump To Point To Reagan When Defending His Mental Stability", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-ronald-reagan-mental-stability_us_5a517af5e4b003133ec85973', 'short_description': "Legitimate concerns existed about Reagan's forgetfulness.", 'date': '2018-01-07'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Hope Hicks' Resignation Sends Tweeters Into Joke Overdrive", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/hope-hicks-resignation-twitter-reaction_us_5a97aa26e4b07dffeb6fb0d4', 'short_description': '"Hope Hicks lasted approximately 19.6 Scaramuccis as communications director."', 'date': '2018-03-01'}

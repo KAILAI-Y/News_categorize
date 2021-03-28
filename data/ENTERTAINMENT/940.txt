@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Netflix Renews 'Black Mirror' For 5th Season", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/black-mirror-fifth-season-netflix_us_5a9d70f1e4b089ec353d7542', 'short_description': "The streaming service hasn't yet announced when fans can expect new episodes.", 'date': '2018-03-05'}

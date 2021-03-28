@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Anna Kendrick Shuts Down The Idea Of 'Sexier' 'Pitch Perfect' Costumes", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/anna-kendrick-pitch-perfect-costumes_us_5a32902ae4b07ff75b00d3c9', 'short_description': "Tell 'em!", 'date': '2017-12-14'}

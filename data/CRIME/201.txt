@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Former Priest Convicted In Decades-Old Beauty Queen Slaying', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/john-feit-murder-beauty-queen-texas_us_5a2af935e4b073789f69b431', 'short_description': 'He "was a wolf in priest\'s clothing," the prosecutor said.', 'date': '2017-12-08'}

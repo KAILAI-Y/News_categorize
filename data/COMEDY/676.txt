@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Run, Alec, Run', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwin-for-president_us_59ebfe20e4b0958c46828b31', 'short_description': 'If Alec Baldwin ran for president, "think of how entertaining debates would be."', 'date': '2017-10-22'}

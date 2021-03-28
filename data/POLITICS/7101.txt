@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Was Reportedly Upset Reince Priebus Didn't Fight Back Against Anthony Scaramucci", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/reince-priebus-anthony-scaramucci_us_597ca1c6e4b02a8434b6b8a6', 'short_description': 'Scaramucci humiliated Priebus in a series of interviews.', 'date': '2017-07-29'}

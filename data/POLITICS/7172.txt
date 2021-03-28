@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans' Risky New Idea: Vote For Awful Repeal Bill And Hope Others Fix It", 'authors': 'Jennifer Bendery and Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/republicans-obamacare-repeal-skinny-bill_us_597a6d5ee4b0da64e8780029', 'short_description': '“Seriously, this is weapons grade bonkers."', 'date': '2017-07-27'}

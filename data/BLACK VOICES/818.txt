@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Blue Ivy's '4:44' Freestyle Has The Internet In Shambles", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/blue-ivy-freestyle_us_595f8ab6e4b0615b9e90de69', 'short_description': 'The princess of hip-hop is here!', 'date': '2017-07-07'}

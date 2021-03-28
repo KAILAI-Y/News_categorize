@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Black Panther' Is Breaking An Insane Number Of Box Office Records", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/black-panther-box-office-records_us_5a8dc461e4b0273053a73325', 'short_description': 'It’s truly epic.', 'date': '2018-02-21'}

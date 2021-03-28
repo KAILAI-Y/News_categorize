@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Rupert Murdoch Bashes As 'Nonsense' Concerns About Sexual Harassment At Fox", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/murdoch-sexual-harassment-nonsense_us_5a3305c3e4b0ff955ad17196', 'short_description': 'But there was "sort of" a problem with Roger Ailes, he acknowledged.', 'date': '2017-12-15'}

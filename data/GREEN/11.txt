@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Climate Change Has Quadrupled Ocean 'Dead Zones,' Researchers Warn", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/climate-change-ocean-dead-zones_us_5a4ff489e4b003133ec7cc3f', 'short_description': 'Suffocating oceans could lead to ecosystem collapse, the study says.', 'date': '2018-01-06'}

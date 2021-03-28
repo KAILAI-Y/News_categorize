@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Katy Perry Wore Photos Of Manchester Bombing Victims On Her Dress', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/katy-perry-manchester_us_59354e3ae4b02478cb9d17a1', 'short_description': 'She delivered a powerful message of love to the roughly 50,000 attendees.', 'date': '2017-06-05'}

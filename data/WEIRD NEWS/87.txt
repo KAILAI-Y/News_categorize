@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Some Guy Just Learned The Hard Way Why You Should Never Taunt A Goose', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/tennessee-goose-attack_us_5abb2f6de4b06409775b2a0f', 'short_description': 'See this goose? Do NOT mess with this goose.', 'date': '2018-03-28'}

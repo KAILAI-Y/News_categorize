@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Colorful Book Will Give Kids A Glimpse At Harvey Milk's Life And Legacy", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/harvey-milk-childrens-book_us_59790315e4b0da64e8763b05', 'short_description': "... and we've got a sneak peek!", 'date': '2017-07-27'}

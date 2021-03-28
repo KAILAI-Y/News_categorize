@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Avalanche Engulfs Skiers At Japanese Resort, Killing 1', 'authors': 'By Elaine Lies, Reuters', 'link': 'https://www.huffingtonpost.com/entry/avalanche-volcano-japan_us_5a66e0b8e4b0e5630072e6cc', 'short_description': 'The avalanche was sparked by an erupting volcano.', 'date': '2018-01-23'}

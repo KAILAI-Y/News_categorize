@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Hurricane Irma Barrels Through Caribbean, Leaving Behind 'Total Carnage'", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/hurricane-irma-barbuda_us_59b08f6ce4b0dfaafcf544c9', 'short_description': 'The storm killed eight people on Saint Martin and one person on Barbuda.', 'date': '2017-09-07'}

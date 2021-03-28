@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Kidnapped U.S.-Canadian Couple Rescued From Extremists In Pakistan', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/pakistan-coleman-boyle-rescued_us_59df6bede4b00abf3646c08a', 'short_description': 'The Pakistani military rescued the backpackers, who had three children while in captivity.', 'date': '2017-10-12'}

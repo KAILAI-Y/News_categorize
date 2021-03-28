@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Trump Touts Putting 'Minors' Back To Work, Twitter Goes Giddy", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-minors-work_us_594d99bee4b02734df2a81b4', 'short_description': '“Hopefully the miners get work also.”', 'date': '2017-06-24'}

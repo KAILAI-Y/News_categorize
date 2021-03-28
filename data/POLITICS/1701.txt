@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Florida Billboard Slams NRA As 'Terrorist Organization'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/billboard-slams-terrorist-organization-nra_us_5a9c7f6ee4b089ec353b7b3f', 'short_description': 'Critics of the gun lobby are going big.', 'date': '2018-03-05'}

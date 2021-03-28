@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Team Claims Pardons Aren't A Topic At The White House", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/trump-pardons_us_5974a9bce4b0e79ec199d7ce', 'short_description': '"The president is talking about pardoning nobody," said new White House communications director Anthony Scaramucci.', 'date': '2017-07-23'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '40 Tweets That Sum Up Life With 4-Year-Olds', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/40-tweets-life-with-4-year-olds_us_5a45ba46e4b025f99e1ab986', 'short_description': '"Hell hath no fury like a 4yo whose apple slices are on the wrong side of the plate."', 'date': '2018-02-06'}

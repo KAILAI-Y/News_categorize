@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Facebook Reportedly Turns Over Election Ad Data To Special Counsel Mueller', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/facebook-ad-data-mueller_us_59b0b71fe4b0dfaafcf55562', 'short_description': 'The company believes the election ads were bought by Russians.', 'date': '2017-09-07'}

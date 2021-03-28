@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': '‘The Big Dark’: Series Of Storms Stretching From China To U.S. Batters Northwest', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/atmospheric-river-china-washington_us_59e80ea3e4b00905bdaeb9c9', 'short_description': 'NOAA has described the phenomenon as a "river in the sky."', 'date': '2017-10-19'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Pauley Perrette Reveals 'Multiple Physical Assaults' After 'NCIS' Exit", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/pauley-perrette-ncis-multiple-physical-assaults_us_5afaa2efe4b09a94524bd125', 'short_description': 'CBS confirmed that Perrette "came to us with a workplace concern."', 'date': '2018-05-15'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Arizona Department Of Corrections Changes Menstrual Pad Policy Following Backlash', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/arizona-menstrual-products-female-inmates_us_5a8375cae4b0adbaf3d8857f', 'short_description': "But activists say it's not enough.", 'date': '2018-02-14'}

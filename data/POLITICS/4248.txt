@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mental Health And Nuclear Weapons', 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/mental-health-nuclear-weapon_us_5a0b0f3ae4b0b17ffce07f3b', 'short_description': 'Donald Trump has shoved the president’s role as arms-purveyor-in-chief in everybody’s face.', 'date': '2017-11-14'}

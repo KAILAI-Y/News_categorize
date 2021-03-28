@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Anne Hathaway Has A Message For Her 'Corny' Oscars 'Haters' From 2013", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/anne-hathaway-has-a-message-for-her-corny-haters-on-oscars-night_us_5a9ca178e4b0a0ba4ad4be9b', 'short_description': 'She was pretty "Misérables" that night.', 'date': '2018-03-05'}

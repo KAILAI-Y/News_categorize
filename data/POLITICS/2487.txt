@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Open To Gas Tax Hike To Pay For Infrastructure Upgrades', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-infrastructure-plan_us_5a6a5e4ee4b0ddb658c4f420', 'short_description': 'But only if Congress agrees.', 'date': '2018-01-26'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel May Have Just Pulled Off His Greatest Prank Ever', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-scandal-prank_us_5ad97b8fe4b0e4d0715edd3e', 'short_description': 'The "Jimmy Kimmel Live" host pranked actor Joshua Malina with an absolutely scandalous stunt.', 'date': '2018-04-20'}

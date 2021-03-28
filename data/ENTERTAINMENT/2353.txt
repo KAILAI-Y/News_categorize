@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Carrie Fisher's Daughter And Dog Made Beautiful Tributes On Her Birthday", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/carrie-fisher-billie-lourd-instagram-tribute_us_59ed0652e4b0a484d063f261', 'short_description': '"Happy birthday mom, I sure do miss you and the cozy days."', 'date': '2017-10-22'}

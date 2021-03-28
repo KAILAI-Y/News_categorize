@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'This Twitter Account Imagines A World Where Trump Is Just Really, Really Nice', 'authors': 'Samantha Tomaszewski', 'link': 'https://www.huffingtonpost.com/entry/nice-trump-parody-account_us_5957c68ee4b05c37bb7eaf4e', 'short_description': '"Immature name calling belongs in kindergarten, not online.”', 'date': '2017-07-01'}

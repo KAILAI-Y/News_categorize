@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': '27 Catholic Problems That Are Hilariously Relatable', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/lent-catholic-problems_us_5994ba80e4b06ef724d6259b', 'short_description': '"You know you\'re Catholic when you genuflect before you go into a row at a movie theater."', 'date': '2018-02-27'}

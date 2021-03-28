@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mindy Cohn Of 'Facts Of Life' Details Harrowing Breast Cancer Fight", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/mindy-cohn-of-facts-of-life-details-harrowing-breast-cancer-fight_us_59e73680e4b0d0e4fe6c3330', 'short_description': '"I couldn\'t control any of this," the actress said.', 'date': '2017-10-18'}

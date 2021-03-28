@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Joe Biden Says He Wishes He Had 'Been Able To Do More For Anita Hill'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/joe-biden-anita-hill-interview_us_5a327d26e4b01bdd765a6df1', 'short_description': '“I owe her an apology," Biden said in a recent interview with Teen Vogue.', 'date': '2017-12-14'}

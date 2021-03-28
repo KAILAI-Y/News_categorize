@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Says Republicans Should Go 'Nuclear' On Federal Budget", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-nuclear-budget_us_5a649c2fe4b0dc592a09aba7', 'short_description': 'Trump suggested GOP senators use their majority to override their Democratic colleagues.', 'date': '2018-01-21'}

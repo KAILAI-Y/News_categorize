@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Paul Ryan's Slip About 'Preventing' Trump Was Best Part Of The SOTU", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-preventing-trump-sotu_us_5a71f564e4b0ae29f08d58d1', 'short_description': 'Freudian slip, perhaps?', 'date': '2018-01-31'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Tommy Wiseau's Joker Is Ready For His Close-Up In Your Nightmares", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/tommy-wiseau-joker-audition_us_5aa6d535e4b03c9edfae971a', 'short_description': '"Jingle bells, Batman smells!"', 'date': '2018-03-12'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "O'Reilly's Plan To Smear His Accusers Appears To Be Backfiring", 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/bill-oreilly-sexual-harassment-lawsuit_us_5a25a0bfe4b0a02abe933382', 'short_description': 'One of them is fighting back. "He is the liar," says a former Fox producer in a new lawsuit.', 'date': '2017-12-04'}

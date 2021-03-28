@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Of Course Jesus Is Black: ‘That S**t Doesn’t Happen To White People’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/bbc-black-jesus-famalam_us_5ad6c5fae4b03c426da9496f', 'short_description': 'Christ has some choice words in new BBC comedy sketch.', 'date': '2018-04-18'}

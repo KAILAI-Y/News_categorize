@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'On Holiest Day In Islamic Calendar, Houston Muslims Lend A Helping Hand', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/houston-muslim-youth-harvey_us_59a9e3d3e4b0dfaafcf07ee4', 'short_description': '"This is going to be an Eid we’re never going to forget."', 'date': '2017-09-02'}

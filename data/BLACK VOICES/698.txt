@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'These Celebs Slayed The Red Carpet At Black Girls Rock! 2017', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/red-carpet-black-girls-rock-2017_us_599c9b4ce4b0d97c3fffb3db', 'short_description': 'They did that.', 'date': '2017-08-22'}

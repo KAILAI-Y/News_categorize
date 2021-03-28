@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Spanx 'Arm Tights' Are The Newest Way Women Can Feel Bad About Their Bodies", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/arm-spanx_us_59c2c305e4b06f93538c11b9', 'short_description': 'What. Is. Happening.', 'date': '2017-09-25'}

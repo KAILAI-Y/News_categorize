@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mueller Subpoenas The Trump Organization: Report', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/mueller-subpoena-trump-organization_us_5aaab9e3e4b04221740d4a0a', 'short_description': 'The president has said he would consider investigation of his finances "a violation."', 'date': '2018-03-15'}

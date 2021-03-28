@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Drag Queen's Dream Of Reading Stories To Kids Sparks Outrage In North Carolina", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/drag-queen-library-outrage_us_5982110ce4b0353fbb346154', 'short_description': 'Brandon James says he wanted to open minds to "tolerance and acceptance."', 'date': '2017-08-03'}

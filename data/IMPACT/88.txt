@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Urban Air Pollution Negates Health Benefits Of A Long Walk On City Streets', 'authors': 'Tess Riley', 'link': 'https://www.huffingtonpost.com/entry/air-pollution-cities-cars-exercise-over-60s_us_5a26ffabe4b08220bd78872f', 'short_description': 'A new study focused on the impact of dirty air on those at least 60 years old.', 'date': '2017-12-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's New Infrastructure Plan Is Kind Of Underwhelming", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-infrastructure-plan_us_5a81190ee4b08dfc930576fa', 'short_description': 'The “big league” president goes small on infrastructure.', 'date': '2018-02-12'}

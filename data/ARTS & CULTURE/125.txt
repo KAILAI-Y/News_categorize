@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Early Wedding Photos Had No Touching, No Smiles, No Hashtags', 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/vintage-wedding-photos_us_594d55c2e4b02734df2a2cd2', 'short_description': 'Late 19th-century brides and grooms were participating in a different kind of fad.', 'date': '2017-06-27'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jimmy Fallon Enlists Ridiculously Cute Puppies To Predict The Kentucky Derby', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kentucky-derby-2018-puppies-fallon_us_5aed6e23e4b0c4f19322d252', 'short_description': 'Awww.', 'date': '2018-05-05'}

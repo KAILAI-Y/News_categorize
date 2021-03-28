@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Santa Claus Gets The Boot From Britain's National Trust Because He's Too American", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/santa-claus-father-christmas-britain_us_5a12768ce4b0e97dffee36c7', 'short_description': "Don't say the 'S' word!", 'date': '2017-11-20'}

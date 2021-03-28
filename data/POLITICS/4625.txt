@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Roy Moore Now Says There Shouldn't Be A Religious Test For Public Office", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-muslim-test_us_59f8a953e4b046017faf1dd3', 'short_description': "The Alabama Senate GOP candidate previously said Muslims shouldn't serve.", 'date': '2017-10-31'}

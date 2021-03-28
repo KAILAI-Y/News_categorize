@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Treasury Secretary Is OK With Donald Trump Calling Maxine Waters A 'Low-IQ Individual'", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/mnuchin-trump-insult-maxine-waters-iq_us_5aa52df9e4b01b9b0a3c53df', 'short_description': 'The president likes making "funny names," Steven Mnuchin says.', 'date': '2018-03-11'}

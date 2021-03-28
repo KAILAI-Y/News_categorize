@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Nominated For Nobel Peace Prize With Forged Recommendation — Twice', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-forged-nobel-nomination_us_5a988410e4b0a0ba4ad18d44', 'short_description': 'Oslo police have reached out to the FBI.', 'date': '2018-03-02'}

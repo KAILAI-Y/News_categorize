@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Who Support Combating Climate Change Urge Trump To Stay In Paris Deal', 'authors': 'Laura Barrón-López', 'link': 'https://www.huffingtonpost.com/entry/republicans-climate-change_us_592f1825e4b09ec37c314856', 'short_description': 'But a majority remained silent.', 'date': '2017-05-31'}

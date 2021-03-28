@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Gary Oldman Totally Nails His Robert De Niro And Christopher Walken Impressions', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/gary-oldman-robert-de-niro-christopher-walken-impressions_us_5a0d7661e4b0c0b2f2f7ea50', 'short_description': 'Strikingly similar.', 'date': '2017-11-16'}

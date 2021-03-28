@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Rep. Charlie Dent Calls Out Evangelicals For Being ‘Pretty Damn Silent’ On Trump', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/charlie-dent-evangelicals_us_5abb11dfe4b06409775b18e2', 'short_description': 'Retiring lawmaker has some harsh words for the "character counts" crowd.', 'date': '2018-03-28'}

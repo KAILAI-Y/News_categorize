@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Politics Of Tax Reform Are Driving Republicans, Not The Policy', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/tax-reform-lose-the-house_us_59fb11f2e4b01b4740488b60', 'short_description': 'Just how badly does Corporate America need a tax cut right now?', 'date': '2017-11-02'}

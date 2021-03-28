@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Laura Kepner-Adney: I Live In Tucson, Arizona, And This Is My Style', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/tucson-arizona-style_us_59e5f447e4b02a215b331ad2', 'short_description': 'T-shirts and pencil skirts reign supreme for this Tucsonan.', 'date': '2017-10-17'}

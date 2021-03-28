@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Seann William Scott Replaces Clayne Crawford On Renewed 'Lethal Weapon'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/seann-william-scott-replaces-clayne-crawford-on-renewed-lethal-weapon_us_5af951e7e4b0e57cd9fb07b3', 'short_description': 'Stifler to the rescue.', 'date': '2018-05-14'}

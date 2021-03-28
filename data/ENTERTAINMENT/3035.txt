@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Randy Newman Sings Mocking 'Tribute' To Vladimir Putin On The 'Late Show'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/randy-newman-putin-tribute-late-show_us_5982e640e4b0fa1575fc0abe', 'short_description': '🎤 He can power a nuclear reactor, with the left side of his brain... 🎤', 'date': '2017-08-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Dutch Olympics Fans Troll Donald Trump With Genius Flag Message', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/netherlands-olympics-troll-donald-trump_us_5a7fe1f8e4b08dfc9304d86e', 'short_description': 'America First? Not so much.', 'date': '2018-02-11'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "More Than 2,000 People Celebrated Pride In Mike Pence's Hometown", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-hometown-lgbtq-pride_us_5ad4c9a9e4b077c89ceb4a71', 'short_description': "Columbus, Indiana's inaugural Pride event showed how love can trump hate.", 'date': '2018-04-16'}

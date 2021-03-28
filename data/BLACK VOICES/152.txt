@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Dorian Harris Stole Beer From A Corner Store, So The Clerk Shot Him Dead: Police', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/dorian-harris-shooting-tennessee_us_5ac27212e4b00fa46f85328f', 'short_description': 'Anwar Ghazali has been charged with first-degree murder of the black teen.', 'date': '2018-04-02'}

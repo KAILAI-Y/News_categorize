@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "McDonald's Flipped Arches Totally Miss The Point Of Empowering Women", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/mcdonalds-flipped-arches-women_us_5aa0fee7e4b0d4f5b66d982a', 'short_description': "It's corporate feminism at its worst.", 'date': '2018-03-08'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher Reveals '25 Things You Don't Know' About Melania Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-melania-trump-25-things-you-dont-know_us_59bcc1c4e4b0edff971c5314', 'short_description': '"I once caught Mike Pence trying on my stilettos."', 'date': '2017-09-16'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Terry Crews Files Police Report After Sexual Assault Claim', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/terry-crews-files-police-report_us_5a0463aee4b0f76b05c3d134', 'short_description': '“People need to be held accountable,” the actor said outside of a Los Angeles police station.', 'date': '2017-11-09'}

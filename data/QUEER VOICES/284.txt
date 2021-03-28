@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Lawyer Heads To Court To Challenge Bermuda's Same-Sex Marriage Reversal", 'authors': 'Emma Farge, Reuters', 'link': 'https://www.huffingtonpost.com/entry/bermuda-same-sex-marriage-reversal_us_5a8c6187e4b00a30a2500101', 'short_description': "The island's Domestic Partnership Act, he says, is unconstitutional.", 'date': '2018-02-20'}

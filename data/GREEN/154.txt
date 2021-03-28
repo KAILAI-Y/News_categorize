@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Horror Of California Wildfires Captured In Satellite And Aerial Photos', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/california-wildfires-satellite-aerial-photos_us_59dfa35de4b0eb18af07063c', 'short_description': '“We are at the worst conditions you could have right now.”', 'date': '2017-10-12'}

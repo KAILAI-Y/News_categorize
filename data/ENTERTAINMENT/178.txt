@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Marvel Introduces Their First Official Chinese Superheroes', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/marvel-introduces-their-first-official-chinese-superheroes_us_5af70cd7e4b0e57cd9f9fa07', 'short_description': 'The collaboration leaned heavily on artists and writers from China.', 'date': '2018-05-12'}

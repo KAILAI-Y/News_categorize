@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Anthony Weiner Gets Prison Time For Sexting A Minor', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/anthony-weiner-sentenced_us_59c91704e4b0cdc77333078f', 'short_description': 'He pleaded guilty in May to sending obscene messages to a 15-year-old girl.', 'date': '2017-09-25'}

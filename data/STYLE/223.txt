@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '18 Halloween Costume Ideas For People Who Wear Glasses', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/halloween-costumes-for-people-with-glasses_us_59c41b9de4b01cc57ff0e69a', 'short_description': 'Make a spectacle of yourself this Halloween 👓', 'date': '2017-09-21'}

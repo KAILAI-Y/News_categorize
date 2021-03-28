@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Stop Criticizing Donald Trump. Vladimir Putin Says So.', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/vladmir-putin-donald-trump-russia_us_59ea6d9ae4b0958c46821e03', 'short_description': 'Well, that changes everything!', 'date': '2017-10-21'}

@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Students Rejoice After Brigham Young University Begins Selling Caffeinated Soda', 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/byu-selling-caffeinated-drinks_us_59c3edcae4b06f93538d2463', 'short_description': '“BYU is about to get lit!”', 'date': '2017-09-21'}

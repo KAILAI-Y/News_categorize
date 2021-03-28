@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Sarah Paulson Takes Impressions To Next Level On 'Tonight Show'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/sarah-paulson-impressions-tonight-show_us_5b057294e4b07c4ea103d62f', 'short_description': 'The "Ocean\'s 8" star delivered in imitating Drew Barrymore and a dolphin.', 'date': '2018-05-23'}

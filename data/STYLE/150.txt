@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Dior Chooses 25-Year-Old Cara Delevingne As The Face Of Its Anti-Aging Products', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/dior-cara-delevingne-anti-aging_us_59f87478e4b09b5c2568f906', 'short_description': 'Excuse us?', 'date': '2017-10-31'}

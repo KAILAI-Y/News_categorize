@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The RNC Is Selling 'Sickening' Donald Trump-Themed Merch Ahead Of Mother's Day", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rnc-donald-trump-mothers-day_us_5af2a383e4b0aab8a78a5999', 'short_description': '"Does the back say \'Turning back a century on women\'s rights!\'?"', 'date': '2018-05-09'}

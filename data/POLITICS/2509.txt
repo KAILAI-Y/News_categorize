@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Janet Yellen Was A Great Fed Chair. So Why Is The Economy Still Broken?', 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/janet-yellen-federal-chair-economy_us_5a6a19c2e4b0ddb658c4716a', 'short_description': 'Inequality remains at or near record highs.', 'date': '2018-01-25'}

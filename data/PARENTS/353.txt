@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Controversy Erupts After UK Retailer Removes Gender Labels From Kids' Clothes", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/controversy-erupts-after-uk-retailer-removes-gender-labels-from-kids-clothes_us_59aebad4e4b0dfaafcf2bdd7', 'short_description': 'Reactions were mixed on Twitter.', 'date': '2017-09-06'}

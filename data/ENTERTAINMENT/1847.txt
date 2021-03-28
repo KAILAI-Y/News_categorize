@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Judd Apatow: 'You Shouldn't Have To Have Daughters' To Condemn Harassment", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/judd-apatow-have-daughters-sexual-harassment_us_5a32a91ce4b00dbbcb5ba7e6', 'short_description': 'Shout it from the rooftops.', 'date': '2017-12-14'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Justin Bieber Brought Selena Gomez To Jamaica For His Dad’s Wedding', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/selena-gomez-justin-bieber-dads-wedding_us_5a8d9fd7e4b00a30a251b3e1', 'short_description': "The maybe-couple attended the intimate ceremony with Bieber's family.", 'date': '2018-02-21'}

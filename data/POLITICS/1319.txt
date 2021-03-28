@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Rep's Office Got A Student Suspended For Cursing While Asking For Gun Control", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/mark-amodei-student-suspended_us_5ab1df82e4b054d118de17f1', 'short_description': '“Welcome to the world where words have impact."', 'date': '2018-03-21'}

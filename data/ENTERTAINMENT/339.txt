@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kanye West And John Legend Talk Trump At Chrissy Teigen's Baby Shower", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kanye-west-john-legend-donald-trump-baby-shower_us_5ae43409e4b04aa23f2355b9', 'short_description': '"Agree to disagree."', 'date': '2018-04-28'}

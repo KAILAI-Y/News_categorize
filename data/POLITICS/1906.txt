@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Laura Ingraham Says 'Liberals Are Kind Of Like Herpes' At CPAC", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/laura-ingraham-cpac-liberals-herpes_us_5a903271e4b0ee6416a2a396', 'short_description': 'The Fox News host was riffing off a Tim Allen quote about the Clintons.', 'date': '2018-02-23'}

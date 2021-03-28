@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Thousands Plan To Mark Donald Trump’s Election Anniversary In A Cathartic Way', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trump-election-anniversary-november_us_59eedf28e4b07cf8380c1714', 'short_description': '😱😱😱', 'date': '2017-10-24'}

@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '12 Things Flight Attendants Always Have With Them When They Fly', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/what-flight-attendants-always-have-on-them-when-they-fly_us_5aa04e92e4b0d4f5b66d0d2e', 'short_description': 'From lip balm to a bullet journal to a selfie stick.', 'date': '2018-03-12'}

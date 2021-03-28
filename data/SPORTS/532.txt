@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Tim Tebow Smacks Walk-Off Home Run, Plays Like He Belongs In Baseball', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tim-tebow-hits-walk-off-homer-to-run-hitting-streak-to-11-games_us_5968c64be4b03389bb16c2c8', 'short_description': 'He has an 11-game hitting streak.', 'date': '2017-07-14'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Why Trump’s Russia Sanctions Won’t Work', 'authors': 'Kiley McCormick-McGeady, ContributorStudent', 'link': 'https://www.huffingtonpost.com/entry/why-trumps-russian-sanctions-wont-work-what-the_us_5980bf31e4b07c5ef3dc189b', 'short_description': 'What the European Union’s 2014 Crimean sanctions can teach us today.', 'date': '2017-08-01'}

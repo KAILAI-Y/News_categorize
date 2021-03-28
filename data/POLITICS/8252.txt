@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Uses Georgia Victory To Taunt Democrats', 'authors': 'Andy Sullivan, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-uses-georgia-victory-to-taunt-democrats_us_594a7690e4b0177d0b8ad9c3', 'short_description': '“All the Fake News, all the money spent = 0,” Trump tweeted.', 'date': '2017-06-21'}

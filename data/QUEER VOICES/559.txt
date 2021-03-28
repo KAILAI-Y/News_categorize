@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Why 'Terrorized' Members Of Central America's LGBTQ Community Are Fleeing", 'authors': 'Anastasia Moloney, Reuters', 'link': 'https://www.huffingtonpost.com/entry/central-america-lgbtq-community_us_5a1ef3c9e4b0d52b8dc22e9a', 'short_description': '"They are now some of the most vulnerable refugees," advocates say.', 'date': '2017-11-29'}

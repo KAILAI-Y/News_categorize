@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Melania Trump Called Out For Anti-Bullying Campaign That Ignores Her Husband's Actions", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/melania-trump-be-best-reaction_us_5af11447e4b0ab5c3d6907e0', 'short_description': "The first lady's new initiative seems to be missing something.", 'date': '2018-05-08'}

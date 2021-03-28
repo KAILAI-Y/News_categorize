@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'NFL Players Protest Trump And Racism In Games Across The Country', 'authors': 'Samantha Tomaszewski and Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/nfl-protests-response-trump_us_59c68305e4b06ddf45f8447b', 'short_description': 'Football players have been galvanized by criticism from the president.', 'date': '2017-09-24'}

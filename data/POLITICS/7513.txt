@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tom Price Says Insurers Should 'Dust Off How They Did Business Before Obamacare'", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/tom-price-insurers-obamacare_us_596b76fae4b01741862825c6', 'short_description': 'Worked before, right?', 'date': '2017-07-16'}

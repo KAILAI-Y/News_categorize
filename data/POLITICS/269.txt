@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hackers Tried To Breach A Tennessee County Server On Election Night: Report', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/knox-county-election-cyberattack_us_5af5ca21e4b032b10bfa56ee', 'short_description': 'Investigators traced IP addresses linked to the attack to foreign countries.', 'date': '2018-05-11'}

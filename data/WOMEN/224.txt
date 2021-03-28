@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Women Of The Internet Band Together To Protect 'S**tty Media Men' Author", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/twitter-protects-media-men-harpers_us_5a56a2f5e4b08a1f624b382b', 'short_description': 'They\'re taking to Twitter with an "I am Spartacus" movement.', 'date': '2018-01-11'}

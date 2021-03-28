@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Asian-Americans Win School Board Election Despite 'Deport' Fliers", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/jerry-shi-falguni-patel_us_5a033e48e4b092053059ba83', 'short_description': '"See, racism does not win."', 'date': '2017-11-08'}

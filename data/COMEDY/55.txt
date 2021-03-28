@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Can't Get Enough Of Don Blankenship's Nutty Concession Speech", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-don-blankenship-trump_us_5af3ea85e4b09bb419e4f67e', 'short_description': '"Even in defeat, this man was TV gold."', 'date': '2018-05-10'}

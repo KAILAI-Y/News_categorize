@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': '21st Century Fox Reportedly Looking To Sell Majority Of Company To Disney', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/21st-century-fox-disney_us_5a00acb4e4b04cdbeb354d5a', 'short_description': 'The deal would leave behind a much smaller Fox focused on news and sports.', 'date': '2017-11-06'}

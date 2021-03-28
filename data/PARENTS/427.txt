@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'New #LikeAGirl Ad Tells Girls To Say Goodbye To The Fear Of Failure', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/new-like-a-girl-ad-tells-girls-to-say-goodbye-to-the-fear-of-failure_us_59971153e4b0a2608a6c02e4', 'short_description': "It's racked up more than 3 million views in two days.", 'date': '2017-08-18'}

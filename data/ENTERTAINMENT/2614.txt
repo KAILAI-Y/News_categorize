@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Ultimate Charlottesville, Virginia, Road Trip Playlist', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-ultimate-charlottesville-virginia-road-trip-playlist_us_59c52fe6e4b06ddf45f77ffc', 'short_description': 'Spotify analyzed some data and found quite a few Sonny and Cher fans.', 'date': '2017-09-25'}

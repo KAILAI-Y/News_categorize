@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "This Kid's Letter To His Teacher For 'Lying' About Christopher Columbus Needs To Be Framed", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/journal-entry-lying-christopher-columbus_us_5a675a1fe4b0dc592a0cf121', 'short_description': '"I want you to not teach me lies. That is all."', 'date': '2018-01-24'}

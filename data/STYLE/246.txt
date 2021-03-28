@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Watch Gigi Hadid Walk The Runway In Just One Shoe', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/gigi-hadid-one-shoe_us_59b7d36de4b031cc65cc9e6e', 'short_description': 'She got by with a little help from her sister.', 'date': '2017-09-12'}

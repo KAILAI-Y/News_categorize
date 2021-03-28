@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Robert E. Lee Statue Pleads 'Take Me Down' In Funny Or Die Sketch", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/robert-e-lee-statue-pleads-take-me-down-in-funny-or-die-video_us_599da58ce4b0d8dde99a82e7', 'short_description': "If Confederate statues could talk, apparently they'd rhyme in song.", 'date': '2017-08-23'}

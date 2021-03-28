@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "J.Lo Has The Best Response For Anyone Who Thinks She Can't Do It All", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/jlo-has-the-best-response-for-anyone-who-doubts-she-can-do-it-all_us_599c5d36e4b06a788a2c1a21', 'short_description': 'Just watch her prove you wrong.', 'date': '2017-08-22'}

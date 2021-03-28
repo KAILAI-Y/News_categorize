@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Funny Story Behind How The Beatles’ ‘Sgt. Pepper’ Album Got Its Name', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/sgt-pepper-album-name-revealed_us_59329859e4b0c242ca246880', 'short_description': 'It all emanated from a simple misunderstanding.', 'date': '2017-06-03'}

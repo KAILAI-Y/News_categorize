@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Why So Many Journalists Are Disappearing And Dying In Mexico', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/mexico-journalists-killings_us_5953b13ce4b02734df2eec11', 'short_description': 'Seven reporters have been killed in Mexico so far this year.', 'date': '2017-06-30'}

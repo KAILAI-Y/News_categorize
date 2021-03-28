@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Indiana Officer Fatally Shot By Man In Overturned Car He Was Trying To Save', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/indiana-officer-aaron-allan-fatally-shot_us_597cb86fe4b02a8434b6c262', 'short_description': 'In 2015, Lt. Aaron Allan was recognized as officer of the year.', 'date': '2017-07-29'}

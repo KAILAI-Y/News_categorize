@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': "Monstrously 'Nasty' Ancient Crocodile Gets Named After Lemmy From Motorhead", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/lemmy-motorhead-crocodile_us_598bec92e4b0449ed507d8a3', 'short_description': 'The croc was "one of the biggest coastal predators of its time."', 'date': '2017-08-10'}

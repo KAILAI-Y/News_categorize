@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': '10 Must-Have Cookbooks For Fall 2017', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/best-fall-2017-cookbooks_us_59a42e75e4b06d67e3392477', 'short_description': 'There are a lot of feelings wrapped in the end of summer, but the one we like to focus on the most is the excitement for', 'date': '2017-08-29'}

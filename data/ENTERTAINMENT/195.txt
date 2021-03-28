@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ryan Reynolds Warns Deadpool Fans: 'Don't Say A F**king Word'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ryan-reynolds-deadpool-warning_us_5af39c2de4b09bb419e4c01f', 'short_description': "Wade Wilson isn't playing.", 'date': '2018-05-10'}

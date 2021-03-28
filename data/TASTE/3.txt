@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Diet Coke's Millennial-Inspired Makeover Leaves People Befuddled", 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/diet-coke-makeover-twitter_us_5a5676a9e4b08a1f624afc32', 'short_description': "It's not like a regular soda, it's a cool soda.", 'date': '2018-01-10'}

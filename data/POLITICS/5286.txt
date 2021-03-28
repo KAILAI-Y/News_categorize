@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Trump Who? I Still Don't Have Any Water'", 'authors': 'Hermes Ayala', 'link': 'https://www.huffingtonpost.com/entry/trump-visit-puerto-rico-reactions_us_59d3ea0ae4b0218923e5e0ed', 'short_description': "Puerto Ricans in San Juan, struggling after Hurricane Maria, have mixed feelings about the president's visit.", 'date': '2017-10-03'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '‘They Cannot Hide From Him’: Democrats See Big Gains In Gubernatorial Races Under Trump', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/dga-jay-inslee-trump_us_5a25f819e4b07324e8402204', 'short_description': 'The stakes are high with redistricting battles on the horizon.', 'date': '2017-12-05'}

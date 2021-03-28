@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Transparent' Gives Fans A Window Into The Musical It Could Have Been", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/transparent-gives-fans-a-window-into-the-musical-it-could-have-been_us_59481e4ee4b0edb84c14bae8', 'short_description': 'Yes, you read that correctly.', 'date': '2017-06-20'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Declassified Military Video Shows Fast-Moving UFO Tracked By Navy Fighter Pilots', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/declassified-ufo-video_us_5aa775a5e4b087e5aaed4be5', 'short_description': '“Wow! What is that, man?”', 'date': '2018-03-13'}

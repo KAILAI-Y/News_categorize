@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Where Were All Those 'Phenomenal Men' At The Golden Globes Anyway?", 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/phenomenal-men-golden-globes_us_5a53aa6de4b003133ecae9a5', 'short_description': 'They wore black, but said little.', 'date': '2018-01-08'}

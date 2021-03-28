@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'WHOOPS! Mark Hamill Just Spilled The Beans On A Major Cameo In Han Solo Movie', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-solo-cameo_us_5af12cf8e4b0c4f1932611d3', 'short_description': "He probably wasn't supposed to say that.", 'date': '2018-05-08'}

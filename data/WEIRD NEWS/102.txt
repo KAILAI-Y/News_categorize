@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Truck Dumps Its Enormous Milk Load All Over The Road', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/milk-spillage-truck-road-gloucester_us_5aabbec4e4b0c33361afc309', 'short_description': 'And Twitter users brought the jokes.', 'date': '2018-03-16'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Walking Dead' Actor Defends Show Over Apparent Plot Hole", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/walking-dead-actor-defends-show-over-apparent-plot-hole_us_5ab32540e4b054d118df952b', 'short_description': 'Jason Douglas explains the reason for that confusing turn of events.', 'date': '2018-03-26'}

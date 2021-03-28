@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Crazed Furry Cookie Thief Goes Squirrelly On Cops', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/furry-cookiethief-goes-nuts_us_5a49aa6ee4b0b0e5a7a79b27', 'short_description': 'This body cam video is nuts.', 'date': '2018-01-01'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Channels Kellyanne Conway, Has His Own 'Fun With Words'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-kellyanne-conway-fun-with-words_us_59686b87e4b01741862675ab', 'short_description': 'The "Late Show" host put his spin on the spin.', 'date': '2017-07-14'}

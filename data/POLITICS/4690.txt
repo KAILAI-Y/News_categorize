@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Meet The Young People Trying To Make Sure Detroit's Rebirth Works For Everybody", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/detroit-innovation-challenge-journi-our-town_us_59ef2d37e4b03535fa93ccfd', 'short_description': 'It all started with an online contest.', 'date': '2017-10-28'}

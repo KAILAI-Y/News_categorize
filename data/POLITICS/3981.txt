@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Says He Rejected 'Probably' Being Time's 'Person Of The Year'", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/trump-time-magazine_us_5a18a35ae4b0cee6c04fc818', 'short_description': 'Time later tweeted that the president was "incorrect" about how the magazine chooses a finalist.', 'date': '2017-11-25'}

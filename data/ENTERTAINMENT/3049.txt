@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'California Artist Honors Chester Bennington With Stunning Mural', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/chester-bennington-mural-jonas-never_us_5981df3ae4b0353fbb33ed2c', 'short_description': 'Jonas Never painted the work bordering the 101 Freeway in Los Angeles.', 'date': '2017-08-02'}

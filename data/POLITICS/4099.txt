@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Lobbyists Swarm Congress To Protect Interests In GOP Tax Bill', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/lobbysts-gop-tax-bill_us_5a11c630e4b045cf43721852', 'short_description': 'No legislation sweeps across American interests quite like a tax bill.', 'date': '2017-11-19'}

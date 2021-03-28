@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Subway Worker Remains Totally Chill, Tells Robber To 'Get A Job'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/subway-get-a-job-video-ohio_us_593bd48ee4b0c5a35c9fe86f', 'short_description': '"I don’t know what took over me."', 'date': '2017-06-10'}

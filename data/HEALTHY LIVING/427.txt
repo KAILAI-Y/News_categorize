@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': '14 Quote Cards For People Who Hate Inspirational Quotes', 'authors': 'Brittany Wong', 'link': 'https://www.huffingtonpost.com/entry/uninspirational-quote-cards_us_59a05085e4b0821444c2e76c', 'short_description': '“Eat like nobody is going to see you naked.”', 'date': '2017-08-25'}

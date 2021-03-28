@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "We Tried To Get A 'Game Of Thrones' vs. 'Handmaid's Tale' Rivalry Going. It Didn't Work.", 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/peter-dinklage-reed-morano-sundance_us_5a661358e4b0dc592a0b20d8', 'short_description': 'Peter Dinklage did not take the bait.', 'date': '2018-01-23'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Celebrities Bid Sean Spicer Farewell With Glee', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/celebrities-bid-sean-spicer-farewell-with-glee_us_59722794e4b00e4363df240a', 'short_description': 'Back to the bush.', 'date': '2017-07-21'}

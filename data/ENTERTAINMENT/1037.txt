@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Stacey Dash Of 'Clueless' Files To Run For Congress", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/stacey-dash-clueless-congress_us_5a9522a0e4b01f65f599f1b1', 'short_description': 'The former Fox News commentator is taking aim at a Southern California district with a Democratic incumbent.', 'date': '2018-02-27'}

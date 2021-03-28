@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Bill Nye Slams ‘Dingbats,’ Says Climate Deniers Are Old And Will Soon Be Dead', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/bill-nye-climate-deniers-die_us_5971556ce4b09e5f6cce59c7', 'short_description': '"It’ll happen, I guarantee you ― that’ll happen."', 'date': '2017-07-21'}

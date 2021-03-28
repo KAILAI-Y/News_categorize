@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Issa Rae And Solange Hosted An Event To Help Struggling Black Business Owner', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/issa-rae-solange-fundraiser_us_59934b08e4b0091416409781', 'short_description': 'The duo used their star power to help Los Angeles-based chef Alisa Reynolds.', 'date': '2017-08-15'}

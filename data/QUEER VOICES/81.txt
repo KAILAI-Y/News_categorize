@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Disney Unveils Rainbow Mickey Mouse Ears Just In Time For Pride', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/disney-rainbow-mickey-ears_us_5adf987fe4b061c0bfa285db', 'short_description': 'The "happiest place on Earth" just got a little more inclusive.', 'date': '2018-04-25'}

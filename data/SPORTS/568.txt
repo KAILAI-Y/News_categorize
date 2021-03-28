@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Mr. Met Loses It, Flips Off Fans After Game', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/mr-met-finger_us_592f976ce4b0540ffc84704a', 'short_description': "Don't tick off the mascot.", 'date': '2017-06-01'}

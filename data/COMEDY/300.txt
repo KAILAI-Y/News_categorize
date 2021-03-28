@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel's Fake Olympics Takes Another Turn For The Worse", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-fake-olympics_us_5a8d3cd7e4b0273053a61f35', 'short_description': 'Ouch!', 'date': '2018-02-21'}

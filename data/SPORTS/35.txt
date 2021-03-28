@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'New England Patriots Player And Assistant Help Thwart School Shooting Threat', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/new-england-patriots-player-and-assistant-help-thwart-school-shooting-threat_us_5ac5703ce4b056a8f598171b', 'short_description': 'See something, say something.', 'date': '2018-04-05'}

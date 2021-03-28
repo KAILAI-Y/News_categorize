@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "White House Misspells 'Inaccurately' While Hitting CBO For Inaccuracy", 'authors': 'Nick Wing and Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/white-house-cbo-typo_us_59666617e4b0a8d46d11706e', 'short_description': 'The White House needs a copyeditor -- and a better argument.', 'date': '2017-07-12'}

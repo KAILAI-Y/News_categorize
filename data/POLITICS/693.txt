@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Big New Idea For Reducing Health Care Costs Is Actually Really Old', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/california-health-care-price-control_us_5ad66dcde4b0e4d0715b21d8', 'short_description': 'Price controls are getting a serious look in California.', 'date': '2018-04-20'}

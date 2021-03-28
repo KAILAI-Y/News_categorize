@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Favorite Supreme Court Justice Said 'Tyrants' Try To Suppress Flag Protests", 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/antonin-scalia-flag-burning_us_59c9159be4b01cc57ff3eabf', 'short_description': 'Remember the First Amendment?', 'date': '2017-09-25'}

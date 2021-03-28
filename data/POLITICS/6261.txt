@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Has Essentially Abdicated The Basic Responsibilities Of A President', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-presidential-harvey-charlottesville-tillerson_us_59a2e889e4b06d67e33846e1', 'short_description': 'And people within his own administration are starting to notice.', 'date': '2017-08-27'}

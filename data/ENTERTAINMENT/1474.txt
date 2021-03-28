@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kim Cattrall Says Ellen Would Make A 'Fabulous' Samantha In 'Sex And The City 3'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/kim-cattrall-ellen-degeneres-satc-3_us_5a625573e4b0dc592a089966', 'short_description': 'She had a few more casting choices for Sam Jones, too.', 'date': '2018-01-20'}

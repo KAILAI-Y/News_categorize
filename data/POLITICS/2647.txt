@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Lawmaker Claims ISIS Masterminded Las Vegas Shooting', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/rep-scott-perry-isis-las-vegas-shooting_us_5a620b1ee4b0125fd6361768', 'short_description': 'Rep. Scott Perry (R-Pa.) said he has "credible evidence" of a terrorist link.', 'date': '2018-01-19'}

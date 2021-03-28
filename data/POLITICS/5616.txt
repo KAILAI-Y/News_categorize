@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Few Americans Are Cheering On The GOP's Latest Attempts To Repeal Obamacare", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/obamacare-repeal-poll_us_59c5654ee4b0cdc773313edb', 'short_description': 'But most Republicans still want to see the law dismantled.', 'date': '2017-09-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Doug Jones Calls For Action To Curb Gun Violence In First Senate Speech', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/doug-jones-gun-violence_us_5ab2995ae4b008c9e5f3990b', 'short_description': '“I believe we’ve finally reached a tipping point on gun violence."', 'date': '2018-03-21'}

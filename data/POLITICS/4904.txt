@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Is Not The First President To Send Someone A Check', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-check-father_us_59e8cf2be4b06b440e4469c8', 'short_description': 'Obama and Reagan also sent their own money to private citizens.', 'date': '2017-10-19'}

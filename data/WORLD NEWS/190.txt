@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Kim Jong Un Met With Xi Jinping, China Confirms', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/kim-jong-un-china-xi-jinping_us_5abad6e8e4b04a59a3125cc4', 'short_description': "It is Kim's first trip abroad since he assumed power in 2011.", 'date': '2018-03-27'}

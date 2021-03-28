@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Gunmen Disguised As Police Storm TV Station In Afghan Capital', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/kabul-tv-station-attack_us_5a015e97e4b066c2c039db37', 'short_description': 'The militant group Islamic State claimed responsibility for the attack.', 'date': '2017-11-07'}

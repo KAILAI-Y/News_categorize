@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mother Of Vegas Survivor Pleads With Lawmaker To Change Gun Laws', 'authors': 'Matt Ferner', 'link': 'https://www.huffingtonpost.com/entry/las-vegas-massacre-survivor-mother-gun-laws_us_5a163031e4b064948072ec50', 'short_description': '“Our schools, hospitals, concert venues and churches are now all battlefields."', 'date': '2017-11-26'}

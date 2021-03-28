@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Fox News Anchor Fumbles With Facts During Segment On 'Fake News'", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/fox-news-leland-vittert-fake-news_us_5a2db11be4b069ec48ae4fb9', 'short_description': 'Oh, the irony.', 'date': '2017-12-11'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Canadian Police Probing Stabbing And Car Attacks As Terrorism', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/canada-police-terror-edmonton_us_59d0f773e4b09538b508cb36', 'short_description': 'The attacks took place in the city of Edmonton on Saturday night.', 'date': '2017-10-01'}

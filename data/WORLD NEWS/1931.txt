@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Fasting Is One Of The Five Pillars Of Islam. But There Are Exceptions To The Rule', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/ramadan-fasting-exceptions_us_594043fbe4b0d31854857be6', 'short_description': 'Not all Muslims are expected to fast during Ramadan.', 'date': '2017-06-14'}

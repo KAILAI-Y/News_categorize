@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Americans Are Hopeful About The Economy, But Not About The President', 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/economy-trump-polling_us_596d298ce4b0b95f893d75b9', 'short_description': 'Donald Trump gets low marks from the public for his temperament.', 'date': '2017-07-17'}

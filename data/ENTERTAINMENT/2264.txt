@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'See The Celebrities Who Went All Out For Halloween This Year', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/see-the-celebrities-who-went-all-out-for-halloween-this-year_us_59f9bfcbe4b046017fb013a5', 'short_description': 'This is what unfettered access to hair and makeup gets you.', 'date': '2017-11-01'}

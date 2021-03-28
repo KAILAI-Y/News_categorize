@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Lena Dunham Defends 'Girls' Writer Accused Of Raping 17-Year-Old", 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/lena-dunham-defends-girls-writer-accused-of-rape_us_5a106d1de4b0dd63b1aac66d', 'short_description': 'Dunham had previously said rape is something "women don\'t lie about."', 'date': '2017-11-18'}

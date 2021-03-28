@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "President Trump's Judicial Nominees Drive Samantha Bee To Drink", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/president-trumps-judicial-nominees-drive-samantha-bee-to-drink_us_598c8340e4b0449ed5087128', 'short_description': '"Lady Justice, such a nasty woman!"', 'date': '2017-08-10'}

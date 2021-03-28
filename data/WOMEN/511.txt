@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Nasty Women Get Sh*t Done', 'authors': 'Tracy Darchini, ContributorAuthor of Forward Thinking Advantage', 'link': 'https://www.huffingtonpost.com/entry/nasty-women-get-sht-done_us_59b881e5e4b02c642e4a126a', 'short_description': '"This is the part of America that we want to see more of."', 'date': '2017-09-13'}

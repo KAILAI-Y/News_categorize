@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'EU Countries Fall Way Short Of Meeting Refugee Relocation Goals', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/eu-refugee-resettlement_us_599eccf8e4b05710aa5a34fd', 'short_description': 'Meanwhile, hundreds of thousands of people remain in limbo.', 'date': '2017-09-01'}

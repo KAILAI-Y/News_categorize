@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Religious Leaders Fiercely Criticize Senate Health Care Bill', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/religious-leaders-senate-health-care-bill_us_594c006be4b0a3a837be537e', 'short_description': '"This wanton disregard for human life must be stopped."', 'date': '2017-06-22'}

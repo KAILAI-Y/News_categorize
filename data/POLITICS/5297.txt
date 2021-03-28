@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "That 'Historic' Middle-Class Tax Cut Trump Promised? Still Just A Promise.", 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-tax-increase_us_59d3d237e4b04b9f92057a71', 'short_description': "Right now, the president's tax plan is actually a tax increase for a family with even one child.", 'date': '2017-10-03'}

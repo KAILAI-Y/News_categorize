@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Alabama Chief Election Official's Voter Fraud Suspicions Were Really Far Off", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/voter-fraud-alabama_us_5a00b712e4b04cdbeb357ad7', 'short_description': "At least half of the cases the secretary of state cited aren't voter fraud.", 'date': '2017-11-06'}

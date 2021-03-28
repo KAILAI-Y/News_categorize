@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Floor Collapses At Indonesia Stock Exchange', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/indonesian-stock-exchange-floor-collapse_us_5a5c47d7e4b04f3c55a3f161', 'short_description': 'At least 77 people were injured.', 'date': '2018-01-15'}

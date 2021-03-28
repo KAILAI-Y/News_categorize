@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Here's Your 10-Piece Winter Capsule Wardrobe Checklist", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/heres-your-10-piece-winter-capsule-wardrobe-checklist_us_5a5f6aade4b0ee2ff32c8935', 'short_description': "It's all about those layers.", 'date': '2018-01-17'}

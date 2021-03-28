@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Simpsons' Predicted The Downfall Of Toys 'R' Us", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/the-simpsons-toys-r-us_us_5ab4e87be4b008c9e5f65bec', 'short_description': 'Sorta!', 'date': '2018-03-23'}

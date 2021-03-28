@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Prost! German Beats His Own World Record For Carrying Beer Steins', 'authors': 'Himani Sarkar, Reuters', 'link': 'https://www.huffingtonpost.com/entry/oliver-struempfel-beer-stein_us_59ad7c54e4b0354e440bc4dd', 'short_description': 'Oliver Struempfuel said he has spent 200 hours training for 40 seconds of walking.', 'date': '2017-09-04'}

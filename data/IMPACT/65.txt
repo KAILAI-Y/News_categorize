@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Air Pollution Exposed: Why You Might Be Breathing In Tire Waste', 'authors': 'Tess Riley', 'link': 'https://www.huffingtonpost.com/entry/air-pollution-cars-tire-waste_us_5a6896e3e4b0dc592a0e6f8e', 'short_description': "It's a little-discussed type of pollution but could be affecting your health.", 'date': '2018-01-25'}

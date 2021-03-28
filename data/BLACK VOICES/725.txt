@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Yara Shahidi Writes Compelling Essay On The Power Of Activism And Art', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/yara-shahidi-activism-acting_us_5995abb4e4b06ef724d702c2', 'short_description': "Yara Shahidi believes actors can start important conversations about today's issues.", 'date': '2017-08-17'}

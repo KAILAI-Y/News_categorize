@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'This Video Shows Exactly How Much Sugar Could Kill You', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/this-much-will-kill-you-video_us_5987221be4b0cb15b1bf0b8d', 'short_description': 'Plus other deadly tidbits.', 'date': '2017-08-06'}

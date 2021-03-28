@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'How To Pitch Healthy Living', 'authors': 'Meredith Melnick', 'link': 'https://www.huffingtonpost.com/entry/how-to-pitch-healthy-living_us_595d3917e4b0d5b458e7abe7', 'short_description': 'Write for us!', 'date': '2017-07-05'}

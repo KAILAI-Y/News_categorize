@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "George Clooney Calls Harvey Weinstein's Alleged Misconduct 'Indefensible'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/george-clooney-harvey-weinstein_us_59dc8b3ee4b0b34afa5bd911', 'short_description': '"It\'s disturbing on a whole lot of levels."', 'date': '2017-10-10'}

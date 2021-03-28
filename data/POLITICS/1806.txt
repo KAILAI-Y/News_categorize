@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans And White People Want To Arm Teachers. Everyone Else? Not As Much.', 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/yougov-poll-arming-teachers_us_5a95acb5e4b09c872bae71f3', 'short_description': "Yet they're also more likely to say that U.S. schools are safe.", 'date': '2018-02-28'}

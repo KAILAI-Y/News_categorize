@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Dictionary Takes Donald Trump To Task Over His Latest Boast', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/dictionary-donald-trump-boasts_us_5a79654ee4b0164659c79c90', 'short_description': '"Irony is dead."', 'date': '2018-02-06'}

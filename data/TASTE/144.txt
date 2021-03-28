@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Here's How Nutritious Your Favorite Fall Produce Really Is", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/fall-produce-nutrition_us_59b82a75e4b02da0e13cdbcd', 'short_description': "It's all good for you, but some of it is better than others.", 'date': '2017-09-13'}

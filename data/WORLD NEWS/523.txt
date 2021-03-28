@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'North, South Korea Agree To Resolve Issues Through Dialogue', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/north-south-korea-dialogue_us_5a54d059e4b003133ecc7a5e', 'short_description': "It's the first time the two countries held talks since 2015.", 'date': '2018-01-09'}

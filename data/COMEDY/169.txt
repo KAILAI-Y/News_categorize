@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Justin Bieber's Canadian Superman Is One Funny Kiss-Ass In Viral Sketch", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/justin-bieber-canadian-superman-racist-superman_us_5ac77ea8e4b09d0a1192f40b', 'short_description': 'His really polite superhero is ready for hockey and making nice.', 'date': '2018-04-06'}

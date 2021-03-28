@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Can't Get Enough Of Trump Freaking Out Over The Rex Tillerson Story", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-trump-rex-tillerson_us_59d734b9e4b072637c432e9a', 'short_description': '“I guess he’s moved on from Puerto Rico and Las Vegas.”', 'date': '2017-10-06'}

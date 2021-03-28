@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '14 Times Kids Hilariously Interrupted The News', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/times-kids-hilariously-interrupted-the-news_us_5980ddbfe4b02b36343e8df7', 'short_description': 'Kids know how to really spice up an interview.', 'date': '2017-09-21'}

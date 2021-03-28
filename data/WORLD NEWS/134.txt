@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Striking Photos Show Israelis Standing Still For Holocaust Remembrance Day', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/israelis-holocaust-remembrance_us_5acfaf2ee4b077c89ce6a87f', 'short_description': 'Traffic stopped for two minutes.', 'date': '2018-04-12'}

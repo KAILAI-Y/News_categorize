@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Caitlyn Jenner: Trump Is The 'Worst President We Have Ever Had' On LGBTQ Rights", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/caitlyn-jenner-trump-worst-president-lgbtq-rights_us_5b046929e4b0784cd2af1ea8', 'short_description': 'She and Mike Pence had a "great conversation," however.', 'date': '2018-05-22'}

@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "These Towns Are Trying Out A Basic-Income Scheme And It's Already Changing Lives", 'authors': 'Emma Paling and Daniel Tencer', 'link': 'https://www.huffingtonpost.com/entry/ontario-basic-income_us_5aeac0e0e4b06748dc8fb7a5', 'short_description': '"We\'re not struggling."', 'date': '2018-05-06'}

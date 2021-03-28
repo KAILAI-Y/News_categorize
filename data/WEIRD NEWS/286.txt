@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "CFL Players Do Limbo To Celebrate A Touchdown And The Party's On", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/cfl-players-do-limbo-to-celebrate-a-touchdown-and-the-partys-on_us_5a09ad74e4b0e37d2f3909f7', 'short_description': 'We mean this in the best way: How low can you go?', 'date': '2017-11-13'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "All These Newscasters Just Can't Believe It's June Already", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-june_us_59311ae3e4b0c242ca22be35', 'short_description': 'But seriously, who can believe it?', 'date': '2017-06-02'}

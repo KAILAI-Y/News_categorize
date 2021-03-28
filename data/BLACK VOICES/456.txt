@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'DMX’s Cover Of ‘Rudolph The Red-Nosed Reindeer’ Is A Gift To The World', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/dmx-cover-rudolph-the-red-nosed-reindeer-spotify_us_5a1ee6d6e4b017a311ebc48d', 'short_description': 'Christmas came early.', 'date': '2017-11-29'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "London Mayor: UK Shouldn't Host Donald Trump On A State Visit", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/london-mayor-donald-trump-british-state-visit_us_59360eb1e4b013c4816a821f', 'short_description': '"I don’t think we should be rolling out the red carpet."', 'date': '2017-06-06'}

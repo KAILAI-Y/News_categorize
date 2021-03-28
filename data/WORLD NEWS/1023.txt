@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hundreds Of Thousands Protest Against Catalan Independence In Barcelona', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/catalan-protests-barcelona_us_59da26fbe4b0f6eed350e48e', 'short_description': 'The region is divided over a movement to breakaway from Spain.', 'date': '2017-10-08'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'This Frosty The Snowman Wears A Donald Trump Hat And Hates Snowflakes', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/frosty-snowman-donald-trump-hat_us_5a2a5c53e4b0a290f04fb17f', 'short_description': '"The Late Show" version is not a jolly, happy soul.', 'date': '2017-12-08'}

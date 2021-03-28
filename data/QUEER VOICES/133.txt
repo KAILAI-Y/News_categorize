@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Adam Rippon Says He Received Death Threats For Being Gay Olympian', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/adam-rippon-death-threats_us_5ac5e657e4b0aacd15b88c86', 'short_description': 'The bronze-winning skater told a radio host his haters "don\'t matter."', 'date': '2018-04-05'}

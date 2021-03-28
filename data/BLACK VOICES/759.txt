@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Little Miss Flint' Helps 1,000 Local Students Get New School Supplies", 'authors': 'Philip Lewis', 'link': 'https://www.huffingtonpost.com/entry/little-miss-flint-school-supply-drive_us_5987b2b3e4b0cb15b1bf3aab', 'short_description': '“I’m a Flint kid that wants to help all the other Flint kids.”', 'date': '2017-08-07'}

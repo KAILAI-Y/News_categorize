@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Blake Sheldon: Sexiest Man Alive?', 'authors': 'W. Island, ContributorAnalyst, social justice advocate, and blogger at What We Know', 'link': 'https://www.huffingtonpost.com/entry/blake-sheldon-sexist-man-alive_us_5a0c40cfe4b060fb7e59d4f6', 'short_description': '2017 needs to just end already.', 'date': '2017-11-15'}

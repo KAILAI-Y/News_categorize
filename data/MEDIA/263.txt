@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Don Lemon's Had It With Trump Supporters: 'You Know What You Can Go Do?'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/don-lemon-vs-trump-supporters_us_5a584696e4b02cebbfda7613', 'short_description': 'CNN anchor calls out those who defend Trump "no matter what."', 'date': '2018-01-12'}

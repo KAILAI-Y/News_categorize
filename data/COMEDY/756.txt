@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bad Lip Reading Gives 'Narcos' A Hilariously Alternative Storyline", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/narcos-bad-lip-reading-spoof_us_59ba3728e4b0edff97195b49', 'short_description': '"Look I\'m an actor, so let\'s act."', 'date': '2017-09-14'}

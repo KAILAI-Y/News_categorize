@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': '6 Genius Ways To Save Money At Sephora', 'authors': 'PureWow, ContributorWhat your girl crush reads online', 'link': 'https://www.huffingtonpost.com/entry/6-genius-ways-to-save-money-at-sephora_us_59e62187e4b08c75593ce6a9', 'short_description': '6. Never ever forget about the free samples', 'date': '2017-10-17'}

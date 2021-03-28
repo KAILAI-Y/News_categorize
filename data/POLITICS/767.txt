@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "EPA Spending On Scott Pruitt's Soundproof Phone Booth Broke Federal Law, Government Watchdog Finds", 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/epa-gao-report_us_5ad4c289e4b077c89ceb3656', 'short_description': 'The agency spent $43,000 on the phone booth.', 'date': '2018-04-16'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Shepard Smith Hits Trump With A Brutal Fact Check On Russia Investigation', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/shepard-smith-trump-fact-check_us_5a56c42ee4b03bc4d03dee3c', 'short_description': 'The Fox News host has a news flash for the president.', 'date': '2018-01-11'}

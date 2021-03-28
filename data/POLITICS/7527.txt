@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Think Obamacare Repeal Won't Affect Kids? Think Again.", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/obamacare-repeal-kids_us_595ffad6e4b0615b9e91a4b2', 'short_description': "Flint and its water crisis offer a case study in the program's value to children.", 'date': '2017-07-15'}

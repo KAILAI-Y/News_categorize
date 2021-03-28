@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "LGBTQ Community Faces An 'Invisible' Hollywood Summer Movie Season", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/lgbtq-movie-season_us_592baf51e4b053f2d2ad4bc7', 'short_description': 'Studios are still lagging way behind.', 'date': '2017-05-29'}

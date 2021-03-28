@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chrissy Teigen And John Legend's Lovey Duet Wins Valentine's Day", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-and-john-legends-lovey-duet-wins-valentines-day_us_5a84846ce4b0ab6daf454f05', 'short_description': 'Yes, she SINGS.', 'date': '2018-02-14'}

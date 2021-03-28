@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'The Catalan Independence Movement Just Scored A Huge Victory', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/catalonia-election-win_us_5a3cefbae4b06d1621b3b4c3', 'short_description': "Separatists declared victory in Thursday's regional election.", 'date': '2017-12-22'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Spokespuppet' Kellyanne Conway Can't Stop Leaking On 'Jimmy Kimmel Live!'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-puppet-jimmy-kimmel_us_5ac33276e4b04646b645a672', 'short_description': 'Eww.', 'date': '2018-04-03'}

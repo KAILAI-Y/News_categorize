@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Selena Gomez Made 6 Outfit Changes In One Day And We're Exhausted Just Looking At Her", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/selena-gomez-outfit-changes_us_5936b343e4b013c4816b0486', 'short_description': 'So impressive. So stylish.', 'date': '2017-06-06'}

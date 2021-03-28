@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "It's The Great Trump Pumpkins, Charlie Brown", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-pumpkin-halloween_us_59e96476e4b0df10767c07ef', 'short_description': 'Creative Americans (and even Scots) are scaring up their Halloween Donalds.', 'date': '2017-10-20'}

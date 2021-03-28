@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ava DuVernay Says She Regrets Giving Up On 'Selma' Writing Credit", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/ava-duvernay-regrets-selma-writing-credit_us_59d99427e4b072637c44869e', 'short_description': '"It’s the only time in the industry I feel I really betrayed myself."', 'date': '2017-10-08'}

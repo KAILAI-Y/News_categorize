@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kate Hudson Responds To Anthony Scaramucci's Resignation With Perfect Meme", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/kate-hudson-scaramucci-instagram_us_597f909ae4b00bb8ff38bdb0', 'short_description': 'How to Lose a Communications Director in 10 Days.', 'date': '2017-07-31'}

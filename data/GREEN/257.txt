@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Photos Show Devastation Left Behind From Hurricane Harvey', 'authors': 'Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/hurricane-harvey-damage-photos_us_59a17a1be4b05710aa5c86ad', 'short_description': 'The Texas Gulf Coast suffered significant damage.', 'date': '2017-08-26'}

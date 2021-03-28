@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Five Park Rangers Killed In Congo During Rescue Of U.S. Journalist', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/congo-journalist-rescue_us_596bc476e4b0d6341fe9cc8e', 'short_description': 'Gunmen kidnapped the journalist and several others on Friday.', 'date': '2017-07-16'}

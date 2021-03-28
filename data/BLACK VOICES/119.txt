@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Death Of Alton Sterling's Cousin A 'Homicide': Coroner", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/death-of-alton-sterlings-cousin-a-homicide-coroner_us_5ad0d68de4b016a07e9c0957', 'short_description': '"We\'re afraid of revenge," a Baton Rouge resident said.', 'date': '2018-04-13'}

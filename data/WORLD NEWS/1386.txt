@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hundreds Killed As Mudslide Sweeps Away Homes In Sierra Leone', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/sierra-leone-mudslide_us_5992c9bce4b08a24727723b3', 'short_description': 'A mass burial today will free up space for more bodies in the central morgue, which is overloaded.', 'date': '2017-08-15'}

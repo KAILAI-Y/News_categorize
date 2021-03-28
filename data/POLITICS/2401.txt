@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Pits Dreamers Against American Citizens In State Of The Union', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-state-of-union-immigration_us_5a71069ce4b0a6aa487453a1', 'short_description': 'The president framed immigration as a violent threat.', 'date': '2018-01-31'}

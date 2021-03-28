@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "It's So Cold That A Canadian Zoo Took Extra Precautions To Protect Its Penguins", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/calgary-zoo-penguins-cold-weather_us_5a4cf729e4b0b0e5a7aa3643', 'short_description': 'Even penguins aren’t immune to Mother Nature’s chilly moods.', 'date': '2018-01-03'}

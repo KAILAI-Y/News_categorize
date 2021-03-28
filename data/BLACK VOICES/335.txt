@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Father Of Black History' Celebrated In Google Doodle", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/father-of-black-history-google-doodle_us_5a732ad5e4b0bf6e6e225f89', 'short_description': 'Historian Carter G. Woodson created what eventually became Black History Month.', 'date': '2018-02-01'}

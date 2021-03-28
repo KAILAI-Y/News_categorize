@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Foreign Policy, One Year In", 'authors': 'Sahar Khan, ContributorVisiting Research Fellow, Cato Institute', 'link': 'https://www.huffingtonpost.com/entry/trumps-foreign-policy-one-year-in_us_5a12ea01e4b045cf4372ef7f', 'short_description': 'Ideology, nepotism and, above all, unpredictability.', 'date': '2017-11-20'}

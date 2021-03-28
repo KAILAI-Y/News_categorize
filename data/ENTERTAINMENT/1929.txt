@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Gal Gadot Surprises College Student With First Wonder Woman Scholarship', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/gal-gadot-wonder-woman-scholarship_us_5a28776ae4b0fa798611f89c', 'short_description': 'She said all the young women being honored there were "the real superheroes."', 'date': '2017-12-06'}

@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Toys R Us Founder Charles Lazarus, 94, Dies As His Empire Comes To A Close', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/toys-r-us-founder-charles-lazarus-94-dies-as-his-empire-comes-to-a-close_us_5ab4043be4b054d118e0ef44', 'short_description': 'Lazarus was 94 years old.', 'date': '2018-03-22'}

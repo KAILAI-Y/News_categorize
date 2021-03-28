@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "George And Amal Clooney Pass Out Headphones On Flight To Block Twins' Crying", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/george-amal-clooney-headphones-flight-twins_us_5a30f948e4b01bdd7658960b', 'short_description': 'Even fellow passenger Quentin Tarantino got a pair.', 'date': '2017-12-13'}

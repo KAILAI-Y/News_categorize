@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Reveals The Questions Donald Trump Has For Robert Mueller', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-questions-mueller_us_5ae95afee4b00f70f0ed32c5', 'short_description': '"Does impeachment have anything to do with peaches?"', 'date': '2018-05-02'}

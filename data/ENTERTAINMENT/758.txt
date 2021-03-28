@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Roseanne Barr Tells Jimmy Kimmel To 'Zip That F**king Lip' About Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/roseanne-barr-donald-trump-kimmel_us_5ab4ef49e4b008c9e5f6684c', 'short_description': '"You want Pence for the frickin\' president?"', 'date': '2018-03-23'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Khloe Kardashian Responds To Blogger Who Said She Isn't 'Embracing' Her Pregnancy", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/khloe-kardashian-responds-to-blogger-embracing-pregnancy_us_5a6b6416e4b0ddb658c61103', 'short_description': 'Reminder: do not come for Khloe.', 'date': '2018-01-26'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "'Kaep'tain America: This Is What A Patriot Looks Like", 'authors': 'Francis Maxwell, ContributorHost/Writer/Actor', 'link': 'https://www.huffingtonpost.com/entry/kaeptain-america-this-is-what-a-patriot-looks-like_us_5a0a1cd7e4b006523921834e', 'short_description': 'He gave up his dream of playing football for the people.', 'date': '2017-11-14'}

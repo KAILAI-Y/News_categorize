@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Senators Recommend Criminal Investigation Of Trump Dossier Author', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/senate-christopher-steele_us_5a4fccb4e4b003133ec7aa4a', 'short_description': "It's the Judiciary Committee's first public criminal referral in the Russia investigation.", 'date': '2018-01-05'}

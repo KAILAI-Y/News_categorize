@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Uber, Waymo Reach Settlement In Bitter Legal Dispute', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/uber-waymo-settlement_us_5a7dc809e4b044b3821ccbc7', 'short_description': 'Uber had been accused of stealing trade secrets from Waymo.', 'date': '2018-02-09'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Former Gymnastics Coach Tells Larry Nassar To 'Go To Hell' During Sentencing", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/larry-nassar-court-hearing_us_5a5fb4eae4b0ccf9f1210ede', 'short_description': 'Thomas Brennan sent more than 100 girls to Nassar for treatment over the years.', 'date': '2018-01-17'}

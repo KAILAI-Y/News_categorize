@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'London Airport Shuts Down After World War Two Bomb Found In Thames River', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/london-airport-world-war-two-bomb_us_5a8178b5e4b0c6726e152eae', 'short_description': 'It weighs more than 1,000 lbs.', 'date': '2018-02-12'}

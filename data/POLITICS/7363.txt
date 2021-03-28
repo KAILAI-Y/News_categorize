@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Will Ban Citizens From Traveling To North Korea', 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/us-north-korea-ban_us_5971b467e4b09e5f6cce79a7', 'short_description': 'The news comes just hours after Pyongyang blew off diplomatic talks with South Korea.', 'date': '2017-07-21'}

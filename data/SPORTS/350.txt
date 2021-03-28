@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Vikings Pulled Off A Last-Second Win Over Saints, And Fans Went Ballistic', 'authors': 'Nick Visser and Philip Lewis', 'link': 'https://www.huffingtonpost.com/entry/vikings-saints-game-winning-touchdown_us_5a5c1ce4e4b04f3c55a3dea7', 'short_description': '"Unbelievable!"', 'date': '2018-01-15'}

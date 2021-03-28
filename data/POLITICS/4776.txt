@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Joe Biden On Beau: 'He Said It Was My Obligation To Run, My Duty'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/joe-biden-on-beau-obligation-to-run_us_59f0b83ae4b03c73bf3460b7', 'short_description': "And, no, he still hasn't said whether he will run for president.", 'date': '2017-10-25'}

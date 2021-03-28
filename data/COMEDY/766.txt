@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Gwyneth Paltrow Creeps Up On James Corden While He's Mocking Goop", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/gwyneth-paltrow-james-corden-goop-rant_us_59b7819fe4b09be416578826', 'short_description': 'Awkward!', 'date': '2017-09-12'}

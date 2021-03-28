@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Ryan To Face Debt Ceiling Dilemma', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-debt-ceiling-speakership_us_59893fb2e4b0449ed504f52a', 'short_description': "Some in the GOP are suggesting Ryan's job could be on the line.", 'date': '2017-08-08'}

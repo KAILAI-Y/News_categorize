@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'New Study Says Fear of Crime, Danger Drives American Handgun Ownership', 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/why-americans-own-guns_us_59384694e4b00610547ead73', 'short_description': 'Handgun owners are more fearful of crime, even when it is unlikely.', 'date': '2017-06-09'}

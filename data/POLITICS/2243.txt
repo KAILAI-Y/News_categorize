@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Win Special Election In Missouri District That Went Big For Trump', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/missouri-special-election_us_5a7a6df2e4b0d0ef3c0a8594', 'short_description': "Democrats have dominated at the ballot box during Trump's time in office.", 'date': '2018-02-07'}

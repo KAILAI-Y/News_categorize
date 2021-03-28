@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "See All The Cool Stuff Trump Got Overseas On This Week's 'President Show'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/see-all-the-cool-stuff-trump-got-overseas-on-this-weeks-president-show_us_59285713e4b053f2d2ac2d6e', 'short_description': 'Souvenirs galore!', 'date': '2017-05-26'}

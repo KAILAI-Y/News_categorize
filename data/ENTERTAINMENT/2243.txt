@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rosie O'Donnell Is Crushing Hard On Donald Trump's Nemesis", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rosie-odonnell-feud-donald-trump_us_59fc36b9e4b0b0c7fa3962ae', 'short_description': 'They say that the enemy of my enemy is my friend.', 'date': '2017-11-03'}

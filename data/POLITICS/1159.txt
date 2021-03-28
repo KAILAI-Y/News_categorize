@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Leaked Memo: EPA Shows Workers How To Downplay Climate Change', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/epa-climate-adaptation_us_5abbb5e3e4b04a59a31387d7', 'short_description': 'Point 5: Suggest that humans are only responsible "in some manner."', 'date': '2018-03-28'}

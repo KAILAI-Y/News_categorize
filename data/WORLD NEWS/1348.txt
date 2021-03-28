@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Marseille Van Ramming Kills 1 And Injures Another', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/van-ramming-kills-1-in-marseille_us_599acea5e4b01f6e801f9da8', 'short_description': 'Police are not treating the incident as terrorism.', 'date': '2017-08-21'}

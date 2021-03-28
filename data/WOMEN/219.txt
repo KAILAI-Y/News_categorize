@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'San Francisco Takes A Stand To Protect Sex Workers Who Come Forward About Abuse', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/san-francisco-sex-workers-policy_us_5a58fa29e4b03c4189655459', 'short_description': 'Advocates applauded the new policy as the first of its kind in the country.', 'date': '2018-01-12'}

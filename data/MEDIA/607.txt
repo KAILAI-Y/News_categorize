@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Shep Smith Teases Trump For Saying He Doesn't Have Time To Watch TV", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/shep-smith-teases-trump-for-saying-he-doesnt-have-time-to-watch-tv_us_5967347be4b0d51cda6023c5', 'short_description': '"Come on!"', 'date': '2017-07-13'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Essence Is Once Again A 100 Percent Black-Owned Company', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/essence-is-once-again-a-100-percent-black-owned-company_us_5a4d31f4e4b0b0e5a7aa86a1', 'short_description': "The black women's magazine is no longer under Time Inc.", 'date': '2018-01-03'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Why The 'Mike Pence Rule' Is Particularly Dangerous In Korea", 'authors': 'Jessica Prois', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-korea-metoo_us_5aaadd57e4b0337adf8252b1', 'short_description': 'Avoiding one-on-one time with women in a country with a huge gender wage gap is not progress.', 'date': '2018-03-16'}

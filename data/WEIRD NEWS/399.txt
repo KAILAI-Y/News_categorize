@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Love Was Literally In The Air For This Kissing Skydiving Couple', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/wind-tunnel-skydiving-kissing-video_us_5968bc7fe4b03389bb16ae7a', 'short_description': 'They locked lips for over half an hour while flying inside a wind tunnel.', 'date': '2017-07-15'}

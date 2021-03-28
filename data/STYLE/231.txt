@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Everything About Britney Spears' At-Home Fashion Week Is Perfect", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/britney-spears-fashion-show_us_59c01d1ee4b0c4c31f81e34e', 'short_description': 'Including the Tracy Chapman soundtrack.', 'date': '2017-09-18'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Tom Colicchio Explains Why Waiters Won't Spit In Your Food If You Send Back A Dish", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/tom-colicchio-explains-why-waiters-wont-spit-in-your-food-if-you-send-a-dish-back_us_59c91a00e4b0cdc773331c91', 'short_description': '"That\'s crazy."', 'date': '2017-09-25'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Tom And Abby From ‘Queer Eye’ Remarried Each Other', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/tom-and-abby-from-queer-eye-got-remarried_us_5af4974be4b00d7e4c18ab9b', 'short_description': 'Redneck Margaritas all around! 💕', 'date': '2018-05-10'}

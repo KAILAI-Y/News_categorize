@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Peter Dinklage Reacts To Fans Saying Doritos Ad Confirms Tyrion Is Targaryen', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/peter-dinklage-reacts-to-fan-theory-doritos-ad-tyrion-targaryen_us_5a78a888e4b01fe513a62c3b', 'short_description': 'A song of fire and ice.', 'date': '2018-02-05'}

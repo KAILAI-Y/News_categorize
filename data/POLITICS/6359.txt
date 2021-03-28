@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Loses It Over Donald Trump's 'Off The Rails' Arizona Rally", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-speech-phoenix-arizona-twitter_us_599c05e2e4b0771ecb070be2', 'short_description': '"It\'s a s**tshow of the highest order."', 'date': '2017-08-23'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Border Patrol Agents Discover Baby Tiger Inside Duffel Bag', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/tiger-duffel-bag-texas_us_5ae8d52ee4b00f70f0ecd5cb', 'short_description': 'Smugglers left the animal behind after spotting the agents.', 'date': '2018-05-01'}

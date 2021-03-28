@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Hey Teens, These Tide Pod Conchas Are Actually Edible', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/tide-pod-conchas-edible_us_5a74a1dde4b0905433b3e736', 'short_description': 'Now, please stop eating detergent.', 'date': '2018-02-02'}

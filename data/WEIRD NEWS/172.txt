@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Running Eagles Fan Slams Into Subway Pole', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/running-eagles-fan-subway-pole_us_5a65ba95e4b00228300446e4', 'short_description': 'This may have been the hardest hit of the day.', 'date': '2018-01-22'}

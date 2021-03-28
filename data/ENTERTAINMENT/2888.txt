@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Judge Refuses To Dismiss Rape Case Against Fugitive Roman Polanski', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/roman-polanski-still-cant-get-that-pesky-rape-case-dismissed_us_59986734e4b0e8cc855e06ff', 'short_description': 'The director is still required to appear in court.', 'date': '2017-08-19'}

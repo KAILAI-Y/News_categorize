@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chris Evans Shreds Right-Wing 'Pile Of Trash' Who Mocked School Shooting Survivors", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/chris-evans-dinesh-dsouza_us_5a8e5b8de4b0161d43187a7c', 'short_description': "Captain America isn't having it.", 'date': '2018-02-22'}

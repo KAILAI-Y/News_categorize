@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Gang Used Drone Swarm To Thwart FBI Hostage Raid', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/drone-swarm-thwarts-fbi-gang-raid_us_5aec995de4b0ab5c3d655cfe', 'short_description': 'An official said the drones livestreamed video while they buzzed over the agents.', 'date': '2018-05-04'}

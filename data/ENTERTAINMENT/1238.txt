@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rejoice: The Trailer For Andie MacDowell And Chris O'Dowd's Mother-Son Movie Is Here", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/love-after-love-trailer-andie-macdowell_us_5a79c881e4b00f94fe959820', 'short_description': '"Love After Love" opens March 30.', 'date': '2018-02-06'}

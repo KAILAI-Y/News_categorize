@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mitch McConnell Tells Roy Moore To Leave Senate Race, Says 'I Believe The Women'", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/mitch-mcconnell-roy-moore_us_5a09c540e4b0bc648a0caa60', 'short_description': 'A growing number of Republican senators have said Moore should drop out of the race.', 'date': '2017-11-13'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Typical Adults Eat Enough Salt To Damage Heart', 'authors': 'Lisa Rapaport, Reuters', 'link': 'https://www.huffingtonpost.com/entry/typical-adults-eat-enough-salt-to-damage-heart_us_59834f30e4b0fa1575fc7808', 'short_description': 'Cardiovascular diseases are the leading cause of death worldwide.', 'date': '2017-08-03'}

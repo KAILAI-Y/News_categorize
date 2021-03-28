@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': '35 Thoughtful Questions To Ask At Thanksgiving Dinner', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/thanksgiving-35-questions_us_5a0e0f97e4b0dd63b1a95a2f', 'short_description': 'Beyond the traditional, "What are you most thankful for?"', 'date': '2017-11-21'}

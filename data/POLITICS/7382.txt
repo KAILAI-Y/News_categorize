@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Why Donald Trump Can’t Quit 'The Failing' New York Times", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/trump-new-york-times-relationship_us_5970d1b1e4b062ea5f905d5b', 'short_description': 'Even as he constantly discredits the newspaper, he seems to seek its approval.', 'date': '2017-07-20'}

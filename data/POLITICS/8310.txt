@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Georgia GOP Leader: Scalise Shooting Will Win Us Tuesday's House Election", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/brad-carver-georgia_us_5947c697e4b06bb7d2747b45', 'short_description': 'Democratic hopes ride on 30-year-old Jon Ossoff.', 'date': '2017-06-19'}

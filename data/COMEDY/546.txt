@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Watch This Rubber Chicken Sing 'Despacito' And Rethink Your Own Achievements", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/watch-this-rubber-chicken-sing-despacito-and-rethink-your-own-achievements_us_5a1b0beee4b0cee6c0506f75', 'short_description': 'This rubber chicken is no joke.', 'date': '2017-11-26'}

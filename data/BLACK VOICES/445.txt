@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Gabrielle Union On The #MeToo Movement: 'The Floodgates Have Opened For White Women'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/gabrielle-union-metoo-white-women_us_5a29946ae4b03ece0300fd61', 'short_description': '"It\'s no coincidence whose pain is being heard," the actress said.', 'date': '2017-12-07'}

@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Facebook Is The Enemy Now', 'authors': 'Stratford Sherman, ContributorLeadership advisor and coach', 'link': 'https://www.huffingtonpost.com/entry/facebook-is-the-enemy-now_us_5a396166e4b0860bf4ab9586', 'short_description': 'The tech giant has proven time and again that it doesn’t deserve our trust.', 'date': '2017-12-20'}

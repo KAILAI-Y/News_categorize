@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Former Talent Agency Assistant Posts Grossly Sexist Messages Allegedly Sent By Boss', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/hollywood-talent-agency-employee-sexist-messages_us_598b7648e4b0449ed507a452', 'short_description': '"I’m never hiring [a] girl ever again."', 'date': '2017-08-09'}

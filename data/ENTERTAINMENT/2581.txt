@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Stephen Colbert Rips Steven Seagal By Becoming Steven Seagal', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-rips-steven-seagal-by-becoming-steven-seagal_us_59ce7f32e4b06791bb1071ba', 'short_description': 'Stephen is the GOAT-ee.', 'date': '2017-09-29'}

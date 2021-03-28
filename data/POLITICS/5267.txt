@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Manhattan DA Dropped Criminal Probe Of Trump Kids After Campaign Donation: Report', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/manhattan-da-trump-kids_us_59d4e4bce4b04b9f92069229', 'short_description': 'The donation was returned, but questions remain.', 'date': '2017-10-04'}

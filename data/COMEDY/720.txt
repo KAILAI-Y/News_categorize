@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Clever Student Hilariously Outwits Professor By Finding Exam Loophole', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/student-brilliantly-outwits-professor-by-finding-exam-loophole_us_59cd4c79e4b0ef0694273d2c', 'short_description': 'Well played, kid.', 'date': '2017-09-28'}

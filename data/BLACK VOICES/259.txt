@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Tennis Legend Althea Gibson To Be Honored With Statue At U.S. Open Site', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/tennis-althea-gibson-statue-us-open_us_5a95bbf0e4b07dffeb6cf968', 'short_description': 'Gibson was the first African-American to win the Grand Slam title.', 'date': '2018-02-27'}

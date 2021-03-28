@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Actually, CNN's Jeffrey Lord Has Been 'Indefensible' For A While", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/jeffrey-lord-worst-comments_us_598cd410e4b09071f6989d91', 'short_description': 'If CNN has a problem with racism, it should have ousted Lord a long time ago.', 'date': '2017-08-11'}

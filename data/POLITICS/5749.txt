@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Netanyahu Is Meeting Trump To Push For War With Iran', 'authors': 'Trita Parsi, ContributorPresident, National Iranian American Council', 'link': 'https://www.huffingtonpost.com/entry/netanyahu-trump-war-with-iran_us_59bfc6e6e4b086432b089840', 'short_description': "Let's be clear.", 'date': '2017-09-18'}

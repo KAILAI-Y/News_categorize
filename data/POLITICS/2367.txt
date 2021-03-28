@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Tried To Turn Toward Optimism. The American Public Doesn't Seem To Be Following.", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-optimism-american-public-polls_us_5a7140dbe4b0be822ba17210', 'short_description': 'People are feeling good about the economy but not much else.', 'date': '2018-01-31'}

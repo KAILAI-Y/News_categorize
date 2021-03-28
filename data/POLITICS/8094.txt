@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Climate Change Could Threaten Up To 2 Billion Refugees By 2100', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/climate-change-refugees_us_59506463e4b0da2c731c5e73', 'short_description': '"It\'s coming at us faster than we thought."', 'date': '2017-06-26'}

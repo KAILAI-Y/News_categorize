@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Dominate At The Ballot Box In The Age Of Trump', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/democrats-dominate_us_5a610995e4b074ce7a06bdbc', 'short_description': "They've flipped far more seats than Republicans have in the past year.", 'date': '2018-01-23'}

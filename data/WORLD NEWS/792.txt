@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Zimbabwe's Mugabe Clings To Power As His Resignation Deadline Passes", 'authors': 'Joe Brock and MacDonald Dzirutwe, Reuters', 'link': 'https://www.huffingtonpost.com/entry/mugabe-clings-power_us_5a12ac02e4b0e97dffee4b9c', 'short_description': 'He and his wife Grace would be granted full immunity if he steps down.', 'date': '2017-11-20'}

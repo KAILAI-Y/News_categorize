@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Kevin Spacey Competes With Gordon Ramsay At Cursing, And Surprisingly Wins', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kevin-spacey-gordon-ramsay-curse-words_us_59292a4fe4b053f2d2acad7d', 'short_description': 'Strong language alert.', 'date': '2017-05-27'}

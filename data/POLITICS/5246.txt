@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "White House Chief Of Staff John Kelly's Phone Compromised: Report", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/john-kelly-phone-compromised_us_59d6abe2e4b072637c42f521', 'short_description': "Politico first reported Kelly's personal phone may have been breached for months.", 'date': '2017-10-05'}

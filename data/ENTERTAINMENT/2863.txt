@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Drake Plays Footsie, Posts Photo Of Himself In Rihanna's Socks", 'authors': 'Priscilla Frank', 'link': 'https://www.huffingtonpost.com/entry/drake-rihanna-socks_us_599daab2e4b0d8dde99a8b90', 'short_description': 'When will Drizzy get over his cold feet and make a move?', 'date': '2017-08-23'}

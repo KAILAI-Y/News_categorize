@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Sanctions 2 North Korean Officials Over Missile Program', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/north-korea-sanctions_us_5a428ddde4b025f99e18691c', 'short_description': 'The men are known as two of the three people behind Kim’s banned rocket program.', 'date': '2017-12-26'}

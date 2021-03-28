@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'American Tourist Punched For Giving Nazi Salute In Germany', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/american-nazi-tourist-beaten-germany_us_59904f9ee4b09071f69a47a8', 'short_description': 'Police are investigating the man for giving the banned gesture.', 'date': '2017-08-13'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jimmy Kimmel Says He Won’t Address Me Too Movement At The Oscars', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-me-too-oscars_us_5a97df53e4b09c872bb18c7b', 'short_description': '“This show is not about reliving people’s sexual assaults."', 'date': '2018-03-01'}

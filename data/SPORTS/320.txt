@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Weeping Federer Hails Emotional 20th Grand Slam Title', 'authors': 'Ian Ransom, Reuters', 'link': 'https://www.huffingtonpost.com/entry/federer-20th-grand-slam-title-weeping_us_5a6ddb9ee4b0ddb658c74a47', 'short_description': 'The show of emotion triggered a standing ovation in the terraces.', 'date': '2018-01-28'}

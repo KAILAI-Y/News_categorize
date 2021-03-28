@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Idaho Police Department Thanks 'Heroic' Nurse For Standing Up To Utah Cop", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/utah-nurse-alex-wubbels-thanked-hero_us_59acf0bde4b0b5e530ff7db5', 'short_description': '“Protecting the rights of others is truly a heroic act.”', 'date': '2017-09-04'}

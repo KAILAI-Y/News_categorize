@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jennifer Garner Shares Precious 'Love Note' Written By 5-Year-Old Son", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/jennifer-garner-shares-precious-love-note-written-by-5-year-old-son_us_5a5e0cf4e4b04f3c55a610c5', 'short_description': "SO FREAKIN' CUTE.", 'date': '2018-01-16'}

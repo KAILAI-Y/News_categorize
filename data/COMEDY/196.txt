@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Rips Trump's New 'War-Horny' National Security Adviser John Bolton", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-john-bolton-donald-trump_us_5abb6020e4b06409775b65b8', 'short_description': 'He "may look like a harmless model train enthusiast..."', 'date': '2018-03-28'}

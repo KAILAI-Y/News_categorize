@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Georgia Democrat Jon Ossoff Falls Short In Bid For U.S. House Seat', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/jon-ossoff-loss-georgia-special-election_us_5949ad73e4b0177d0b8a4c46', 'short_description': 'A tough loss for Democrats.', 'date': '2017-06-21'}

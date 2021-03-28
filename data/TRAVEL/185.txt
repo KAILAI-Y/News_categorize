@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': '5 Trips Every Bookworm Should Take', 'authors': 'PureWow, ContributorWhat your girl crush reads online', 'link': 'https://www.huffingtonpost.com/entry/5-trips-every-bookworm-should-take_us_5963d07be4b0deab7c646acc', 'short_description': 'Is it nerdy? Kinda.', 'date': '2017-07-10'}

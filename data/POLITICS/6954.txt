@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Reporter Defends Publishing Trump's White House 'Dump' Quote", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/trump-white-house-dump_us_59834874e4b0fa1575fc6d33', 'short_description': 'The president called the White House a "dump" in front of at least eight people, the reporter says.', 'date': '2017-08-03'}

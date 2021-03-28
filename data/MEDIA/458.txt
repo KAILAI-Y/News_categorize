@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Trump Praises A Guy Fired For Giving A Nazi Salute As A 'Source Of Truth'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jeffrey-lord-source-of-truth_us_59ded1c6e4b00abf364645a4', 'short_description': 'The president gave a shoutout to Jeffrey Lord.', 'date': '2017-10-12'}

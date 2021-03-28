@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chrissy Teigen Got Grilled By Some Vegetarians About Her Eating Habits', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-vegetarians_us_5abe42bfe4b0a47437aa658e', 'short_description': 'It all goes back to bacon.', 'date': '2018-03-30'}

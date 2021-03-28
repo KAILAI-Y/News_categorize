@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Opioid Commission Fails To Meet Deadline, Again", 'authors': 'Jason Cherkis', 'link': 'https://www.huffingtonpost.com/entry/trumps-opioid-commission-fails-to-meet-deadline-again_us_596a1befe4b03389bb17aec7', 'short_description': "The group has yet to talk to Obama's former drug czar.", 'date': '2017-07-15'}

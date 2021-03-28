@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "Here's How To Avoid Wasting Absurd Amounts Of Food On Thanksgiving", 'authors': 'Eleanor Goldberg', 'link': 'https://www.huffingtonpost.com/entry/thanksgiving-food-waste_us_5a0dab31e4b0c0b2f2f83f31', 'short_description': 'Americans discarded the equivalent of 6 million turkeys last year.', 'date': '2017-11-19'}

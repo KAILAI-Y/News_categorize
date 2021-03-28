@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jared Kushner Speaks After Closed-Door Questioning In Russia Probe', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-senate-russia-probe_us_59761751e4b00e4363e11434', 'short_description': 'Democratic senators called on him to face public questioning.', 'date': '2017-07-24'}

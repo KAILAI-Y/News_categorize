@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Legacy Of 'Swiftboat'", 'authors': 'Steven Rosenbaum  , ContributorTechnologist / Business Leader / Author', 'link': 'https://www.huffingtonpost.com/entry/the-legacy-of-swiftboat_us_5959206ae4b0326c0a8d118a', 'short_description': 'Since the political smear campaign of 2004, the term has come into common use.', 'date': '2017-07-02'}

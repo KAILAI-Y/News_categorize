@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New Orleans To Have Its First Woman Mayor', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/new-orleans-first-woman-mayor-runoff_us_59e367c3e4b0a52aca188607', 'short_description': 'The milestone took almost 300 years.', 'date': '2017-10-15'}

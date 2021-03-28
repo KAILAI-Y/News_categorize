@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'For Seniors, Senate Health Care Bill Is Even Worse Than The House Version', 'authors': 'Ann Brenoff', 'link': 'https://www.huffingtonpost.com/entry/seniors-senate-health-care-bill_us_594bd6a5e4b01cdedf0111bd', 'short_description': 'And Trump thought the House bill was mean?', 'date': '2017-06-22'}

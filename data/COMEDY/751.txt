@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers: Trump Is The Worst Negotiator Since Daffy Duck', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-daffy-duck_us_59bb5274e4b086432b05d17c', 'short_description': 'The "Late Night" host has one conclusion after the president\'s dinner with Democratic leaders.', 'date': '2017-09-15'}

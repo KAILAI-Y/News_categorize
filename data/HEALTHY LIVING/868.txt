@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "New Map Tracks Germs' Travels Around Hospitals", 'authors': 'Tracy Staedter, Live Science', 'link': 'https://www.huffingtonpost.com/entry/new-map-tracks-germs-travels-around-hospitals_us_592dd421e4b0c0608e8c2928', 'short_description': 'The study could improve our understanding of hospital-acquired infections.', 'date': '2017-05-30'}

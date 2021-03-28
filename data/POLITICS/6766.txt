@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Former GOP Sen. Gordon Humphrey: 'Seriously Sick' Trump Must Be Replaced ASAP", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/gordon-humphrey-trump_us_598d09d3e4b09071f698bee2', 'short_description': '“He is sick of mind, impetuous, arrogant, belligerent and dangerous."', 'date': '2017-08-11'}

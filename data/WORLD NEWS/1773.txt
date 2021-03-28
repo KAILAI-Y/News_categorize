@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Australian Police Charge Vatican Treasurer Over Historical Sexual Assaults', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/australia-charge-george-pell_us_5954550de4b0da2c73210583', 'short_description': 'Cardinal George Pell faces multiple charges in connection to historic sexual assault offenses.', 'date': '2017-06-29'}

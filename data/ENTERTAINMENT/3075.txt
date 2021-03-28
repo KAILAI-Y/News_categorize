@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Game Of Thrones' Star Sues Former Manager Over Alleged Deception", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-star-sues-former-manager-over-alleged-deception_us_597ca271e4b02a4ebb75c140', 'short_description': 'Total Littlefinger move?', 'date': '2017-07-29'}

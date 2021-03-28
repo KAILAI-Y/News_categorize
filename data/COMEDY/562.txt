@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Sam Bee’s Show Explains The GOP Tax Plan 'In Terms Even A Trump Kid' Can Understand", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-donald-trump-gop-tax-plan-explainer_us_5a1013b2e4b0dd63b1aa9d39', 'short_description': 'Correspondent Mike Rubens is here to break it down.', 'date': '2017-11-18'}

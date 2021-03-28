@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Mikaela Shiffrin Wins Gold In Women's Giant Slalom", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mikaela-shiffrin-gold-giant-slalom_us_5a8523a4e4b0ab6daf45c6ec', 'short_description': 'It was her second gold medal ever after her 2014 Sochi Winter Olympics win.', 'date': '2018-02-15'}

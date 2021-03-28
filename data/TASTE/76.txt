@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "There's A Reason Everyone's So Freaked Out By This Clear Pumpkin Pie", 'authors': 'Carly Ledbetter and Kristen Aiken', 'link': 'https://www.huffingtonpost.com/entry/clear-pumpkin-pie_us_59f73ec0e4b03cd20b831c81', 'short_description': '"We instinctively recoil from food that has the \'wrong\' color."', 'date': '2017-10-30'}

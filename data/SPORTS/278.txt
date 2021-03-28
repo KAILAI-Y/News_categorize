@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Olympic Curler Matt Hamilton Has A Super Doppelgänger', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/matt-hamilton-team-usa-super-mario_us_5a7c4b27e4b044b38219ebcb', 'short_description': 'Wahoo!', 'date': '2018-02-08'}

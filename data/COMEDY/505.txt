@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Cena's Mad Lib Theater With Jimmy Fallon Produces One Foul Christmas Tale", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/john-cena-mad-lib-jimmy-fallon-christmas_us_5a295d69e4b03ece03009d9f', 'short_description': 'Turns out Rudolph had "a very, very shiny anus."', 'date': '2017-12-07'}

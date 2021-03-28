@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'United Auto Workers Lose Crucial Union Battle At Mississippi Nissan Plant', 'authors': 'Dave Jamieson', 'link': 'https://www.huffingtonpost.com/entry/uaw-nissan-vote-uaw-rejected_us_5984f53ee4b041356ebfd98d', 'short_description': 'Stakes in the hard-fought contest were much higher than a few thousand new union members.', 'date': '2017-08-05'}

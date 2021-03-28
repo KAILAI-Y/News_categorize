@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kit Harington Pulled The Cruelest April Fools' Prank On Rose Leslie", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/kit-haringtons-april-fools-prank-on-rose-leslie_us_59dba728e4b00377980abf1c', 'short_description': "Yes, there's video.", 'date': '2017-10-09'}

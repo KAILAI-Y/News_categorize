@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Claims Congresswoman Lied About His Call To Army Widow', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-congresswoman-call-army-widow_us_59e73b81e4b00905bdadb6dc', 'short_description': 'The president was said to have told the woman her husband "must have known what he signed up for."', 'date': '2017-10-18'}

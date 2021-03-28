@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Syracuse University Suspends Fraternity For Racist, Sexist Video', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/theta-tau-syracuse-suspended_us_5ada2db6e4b00a1849cf1767', 'short_description': 'A person in the video swears to always hate black people, Latinos and Jews.', 'date': '2018-04-20'}

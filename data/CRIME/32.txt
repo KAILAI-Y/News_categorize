@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Veterinarian Accused Of Smuggling Heroin Inside Puppies' Bellies", 'authors': 'Jon Herskovitz, Reuters', 'link': 'https://www.huffingtonpost.com/entry/vet-puppies-heroin_us_5ae9708ee4b06748dc8dadcc', 'short_description': 'If convicted, Andres Lopez Elorez faces up to life imprisonment.', 'date': '2018-05-02'}

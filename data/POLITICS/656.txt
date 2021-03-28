@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ivana Trump Doesn't Know Many Men Who 'Can Keep Their Zippers Up'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/ivana-trump-zippers-president-golf_us_5add0db7e4b009869bfa8bd6', 'short_description': "Ivana called the news of her son's alleged affair “distressing because I’ve been there.”", 'date': '2018-04-23'}

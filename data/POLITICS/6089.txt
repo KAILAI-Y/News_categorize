@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Read The Letter Barack Obama Left Donald Trump Upon Leaving Office', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/obama-letter-trump-office_us_59ac12b8e4b0dfaafcf0fdd7', 'short_description': '"Congratulations on a remarkable run."', 'date': '2017-09-03'}

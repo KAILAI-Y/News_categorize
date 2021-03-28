@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Cardi B Thanks Her Haters For Downloading Her Songs To 'Talk Crap': 'It Benefits Me!'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/cardi-b-haters-album-april_us_5aa5da2ce4b07047bec7c54f', 'short_description': 'The rapper also said her new album is coming in April.', 'date': '2018-03-12'}

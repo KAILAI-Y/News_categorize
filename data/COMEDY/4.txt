@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Late Night' Writer's Breathless Royal Wedding Recap Is The Only One You Need", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/royal-wedding-amber-ruffin-late-night-seth-meyers_us_5b069782e4b07c4ea105652d', 'short_description': '“Then he bites his lip, like, ‘Hmm, girl.’”', 'date': '2018-05-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The GOP's Big Lie About Tax Cuts", 'authors': 'Chris Weigant, ContributorChris Weigant is a political commentator.', 'link': 'https://www.huffingtonpost.com/entry/the-gops-big-lie-about-tax-cuts_us_59ee8793e4b08bce72fe0334', 'short_description': 'All that magical growth never actually materializes.', 'date': '2017-10-24'}

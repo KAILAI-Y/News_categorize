@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "24 Movies You'll Want To See Over The Remainder Of 2017", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/fall-movie-preview-2017_us_59a85fa4e4b07e81d3564f5d', 'short_description': 'Coming soon: a ghastly clown, new Pixar and a dancing Hugh Jackman.', 'date': '2017-09-03'}

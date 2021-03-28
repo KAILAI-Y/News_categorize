@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Mocks Jeff Flake For Quitting: 'I’m Taking My Balls And Going Home'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-jeff-flake_us_59f02b18e4b0bf1f8836ba10', 'short_description': 'The "Late Show" host wasn\'t impressed by Flake\'s headline-making speech.', 'date': '2017-10-25'}

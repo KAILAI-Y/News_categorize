@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Health Care Remains Americans' Top Concern", 'authors': 'Grace Sparks and Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/health-care-top-concern_us_59286a00e4b0df57cbfb7e1b', 'short_description': 'And more of the latest polling news.', 'date': '2017-05-26'}

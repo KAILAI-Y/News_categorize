@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Comedian Shows How Easy It Is To Get A Medical Marijuana Card In California', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/this-guy-tests-how-easy-it-is-to-get-a-medical-marijuana-card-in-california_us_59af0f9ce4b0dfaafcf37696', 'short_description': 'Purely for research.', 'date': '2017-09-05'}

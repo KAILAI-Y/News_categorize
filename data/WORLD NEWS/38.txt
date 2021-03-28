@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Der Spiegel Cover Portrays Trump As A Finger Flipping Off Europe', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/der-spiegel-trump-flipping-off-europe_us_5af65ba3e4b00d7e4c1ac5f5', 'short_description': 'Time to join the resistance, German newsmagazine says, "against America."', 'date': '2018-05-12'}

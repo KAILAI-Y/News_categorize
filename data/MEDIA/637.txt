@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Keith Olbermann: We Need To Help Donald Trump Self-Destruct', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/olbermann-trump-self-destructing_us_594853d2e4b0cddbb008e719', 'short_description': '"Better him than our country," Olbermann warns on "The Resistance."', 'date': '2017-06-20'}

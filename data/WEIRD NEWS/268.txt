@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "You'll See Santa's Butt On A Lot Of Ugly Christmas Sweaters This Year", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ugly-christmas-sweaters-santas-butt_us_5a130b5de4b0c335e99637ba', 'short_description': "Is Santa's heinie a holiday trend we really want to get behind?", 'date': '2017-11-25'}

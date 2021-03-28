@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Has A Message For People Upset By The Blackness Of ‘Black Panther’', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-the-daily-show-black-panther_us_5a8fc3a2e4b01e9e56ba2fc3', 'short_description': '“I guess some people got too hyped up the wrong way about it."', 'date': '2018-02-23'}

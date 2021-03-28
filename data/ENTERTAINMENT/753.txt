@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jim Carrey Appears To Shred Jared Kushner In Biting New Portrait', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jim-carrey-art-jared-kushner_us_5ab4c4a4e4b054d118e1aee3', 'short_description': 'Carrey titled the piece "Self-Unmade Man."', 'date': '2018-03-23'}

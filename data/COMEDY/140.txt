@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Goes Back In Time To Give Baby Donald Trump Some Much-Needed Advice', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-donald-trump-baby_us_5ad59499e4b0edca2cbd4045', 'short_description': 'For the good of the country.', 'date': '2018-04-17'}

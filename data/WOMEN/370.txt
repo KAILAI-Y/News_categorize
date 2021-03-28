@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Tim Kaine: 'Men Need To Step Up' And Combat Sexism", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/tim-kaine-men-need-to-step-up-and-combat-sexism_us_59fb288ae4b01b474048b6c9', 'short_description': 'The senator pledged to do more in the fight against sexism in an essay for Esquire.', 'date': '2017-11-02'}

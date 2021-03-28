@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Sharon Tate’s Sister Rips ‘Tacky’ Hilary Duff Film About Manson Family Murder', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/sharon-tate-sister-hilary-duff-manson-movie_us_5a7b1134e4b07af4e81fe7ea', 'short_description': '“It doesn’t matter who it is acting in it – it’s just tasteless.”', 'date': '2018-02-07'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Scarlett Johansson Slams James Franco For Support Of Time's Up At Women's March", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/scarlett-johansson-slams-james-franco_us_5a65a3d9e4b0dc592a0a3753', 'short_description': '"I want my pin back by the way," she said.', 'date': '2018-01-22'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Oregon Court Upholds Damages In Same-Sex Wedding Cake Case', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/oregon-gay-wedding-cake-case_us_5a4866c1e4b06d1621b946cd', 'short_description': 'The case "sends a strong signal" that the state "remains open to all," the labor commissioner said.', 'date': '2017-12-31'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Former Intelligence Chief James Clapper: Putin Is Handling Trump Like A Russian 'Asset'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/putin-trump-asset-james-clapper_us_5a387660e4b0fc99878e3df3', 'short_description': '“We have to remember Putin’s background. He’s a KGB officer."', 'date': '2017-12-19'}

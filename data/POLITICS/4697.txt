@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Why Nazis And White Supremacists Are Putting The Fear In Middle Tennessee This Weekend', 'authors': "Luke O'Brien", 'link': 'https://www.huffingtonpost.com/entry/nazis-white-supremacists-fear-in-middle-tennessee_us_59f3f2f5e4b07fdc5fbe585c', 'short_description': '"So... what brings you to town?"', 'date': '2017-10-28'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'A Brief History Of Donald Trump Stoking Islamophobia', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-islamophobia-history_us_5a1eeea2e4b01edb1a819c9e', 'short_description': 'With a series of casual retweets, the president has once again spread anti-Muslim sentiment.', 'date': '2017-11-29'}

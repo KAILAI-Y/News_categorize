@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Responds To Steve Bannon Bombshell: 'He Lost His Mind'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-steve-bannon_us_5a4d200ce4b0b0e5a7aa6f15', 'short_description': '"Steve is learning that winning isn’t as easy as I make it look.”', 'date': '2018-01-03'}

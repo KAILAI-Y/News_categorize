@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'German Soccer Team Kneels During Game In Solidarity With NFL Players', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/german-soccer-team-kneeling-protest_us_59e2a457e4b04d1d51822c63', 'short_description': '“For a tolerant Berlin and an open-minded world, now and forevermore!”', 'date': '2017-10-15'}

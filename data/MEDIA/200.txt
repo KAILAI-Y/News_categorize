@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Newsweek Brings Back Accused Sexual Harasser As Staffers, Advertisers Flee', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/newsweek-staffers-advertisers_us_5a7de334e4b0c6726e130eb2', 'short_description': "Staffers' terrible week somehow ended even worse than it started.", 'date': '2018-02-09'}

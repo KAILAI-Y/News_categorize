@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': 'Protesting While Muslim Comes With Its Own Set Of Judgments', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/muslim-protesters-face-patriotism-questions_us_5a4f8e12e4b003133ec7585a', 'short_description': 'A Muslim activist wonders if civil disobedience is really open to all citizens.', 'date': '2018-02-01'}

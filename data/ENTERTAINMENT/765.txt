@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Gisele Bündchen Holds Up Tom Brady Like It's No Big Deal", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/gisele-bundchen-tom-brady-yoga-pos_us_5ab3af32e4b054d118e056e8', 'short_description': 'Because every marriage needs strength and balance.', 'date': '2018-03-22'}

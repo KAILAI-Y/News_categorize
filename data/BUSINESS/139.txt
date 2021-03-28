@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Which Stores Will Be Closed On Thanksgiving Day 2017?', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/stores-that-will-be-closed-thanksgiving-2017_us_5a09b8cbe4b00a6eece301eb', 'short_description': 'Your holiday shopping can wait just one day.', 'date': '2017-11-15'}

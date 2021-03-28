@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: Trump Attacks The FBI Following Flynn Plea", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-trump-attacks-the-fbi-following-flynn-plea_us_5a253d37e4b0a02abe926136', 'short_description': 'And urged his followers to sue ABC News.', 'date': '2017-12-04'}

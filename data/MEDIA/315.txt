@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Fox News Women Furious Over Rupert Murdoch Comments On Sexual Misconduct', 'authors': 'Yashar Ali', 'link': 'https://www.huffingtonpost.com/entry/fox-news-women-rupert-murdoch_us_5a343580e4b040881bea8216', 'short_description': 'The media mogul said claims of rampant sexual harassment at the network are "nonsense."', 'date': '2017-12-15'}

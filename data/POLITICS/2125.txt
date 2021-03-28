@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Why The First Unionized Political Campaign Is A Game-Changer For The Left', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/randy-bryce-first-unionized-political-campaign_us_5a831fb9e4b02b66c51255b0', 'short_description': 'It’s not just about progressives practicing what they preach.', 'date': '2018-02-13'}

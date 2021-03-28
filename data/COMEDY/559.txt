@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Country Singer Neal McCoy’s Anti-Anthem Protest Song Backfires Hilariously', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/take-a-knee-my-ass-song-neal-mccoy_us_5a1258d3e4b045cf43724079', 'short_description': '“Take A Knee, My Ass (I Won’t Take A Knee)" is bringing out the grammar critics.', 'date': '2017-11-20'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'This Winter Olympics Walkie-Talkie Save Is Comedy Gold', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/this-winter-olympics-walkie-talkie-save-is-comedy-gold_us_5a7d6d09e4b044b3821bfcb9', 'short_description': "You're safe now, lil' gadget.", 'date': '2018-02-09'}

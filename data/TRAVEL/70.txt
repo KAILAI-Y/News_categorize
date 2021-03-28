@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Air Travelers Stuck In Long Lines After U.S. Customs Computers Go Down', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/us-customs-computers-glitch_us_5a4b1460e4b0b0e5a7a811a7', 'short_description': 'A similar computer outage occurred a year ago.', 'date': '2018-01-02'}

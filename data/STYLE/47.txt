@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Prince William Actually Galloped Like A Horse On TV And The Crowd Loved It', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/prince-william-galloped-like-a-horse_us_5a3a74cde4b025f99e13bcc1', 'short_description': 'Kate Middleton got a kick out of it, too.', 'date': '2017-12-20'}

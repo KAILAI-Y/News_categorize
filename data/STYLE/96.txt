@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Why Is It So Satisfying To Watch People Remove Peel-Off Masks?', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/peel-off-masks-satisfying_us_5a130db4e4b0c335e9963bdd', 'short_description': "Seriously, what's the deal?", 'date': '2017-11-21'}

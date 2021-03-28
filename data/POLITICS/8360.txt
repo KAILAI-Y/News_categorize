@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's Yet More Evidence That The 2016 Election In Texas Was A Mess", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/texas-2016-election_us_59457b52e4b06bb7d273947e', 'short_description': 'A new report says people waited  in line to vote for up to three hours at one polling place.', 'date': '2017-06-17'}

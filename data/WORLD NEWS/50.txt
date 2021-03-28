@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'North Korea Releases 3 American Political Prisoners In Advance Of Historic Summit', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/north-korea-releases-prisoners_us_5aeafc7fe4b00f70f0efdce9', 'short_description': 'Secretary of State Mike Pompeo departed North Korea with the three Americans.', 'date': '2018-05-09'}

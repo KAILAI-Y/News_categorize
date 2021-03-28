@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Ricky Martin Is 'Flattered' By Gus Kenworthy's Social Media Flirting", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/ricky-martin-gus-kenworthy-the-talk_us_5aa0547ce4b0d4f5b66d1574', 'short_description': 'A connection will "definitely" happen, Martin said.', 'date': '2018-03-07'}

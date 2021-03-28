@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "How Experts And One Congressman Reacted To 2 Days Of Mark Zuckerberg's Testimony", 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/mark-zuckerberg-facebook-testimony_us_5acf8472e4b0edca2cb7602a', 'short_description': '"This was the Big Bang of Silicon Valley politics."', 'date': '2018-04-12'}

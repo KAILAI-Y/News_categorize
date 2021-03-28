@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Missouri Third-Graders Selling AR-15 Raffle Tickets For Their Baseball Team', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/neosho-baseball-team-features-ar-15-raffle_us_5a8a02f2e4b00bc49f455f30', 'short_description': 'The fundraiser is going ahead despite mounting controversy.', 'date': '2018-02-19'}

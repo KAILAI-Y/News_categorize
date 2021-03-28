@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Khloe Kardashian Slams Shamers For Criticizing Her Pregnancy Workouts', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/khloe-kardashian-pregnancy-workouts_us_5a43eef8e4b025f99e195b10', 'short_description': '"Don\'t make me stop sharing s**t."', 'date': '2017-12-27'}

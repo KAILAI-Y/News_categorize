@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Thandie Newton's Cannes Dress Is A Celebration Of Black 'Star Wars' Characters", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/thandie-newton-stars-wars-dress-black-cannes_us_5afbe384e4b0779345d431a8', 'short_description': "Look closely and you'll see some stunning details.", 'date': '2018-05-16'}

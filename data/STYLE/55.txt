@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Christina Aguilera Skips A Shirt Under Her Suit For Holiday Party', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/christina-aguilera-holiday-instagram_us_5a37e4eee4b0ff955ad4fe53', 'short_description': 'Naughty > nice 🎄', 'date': '2017-12-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Plans To Nominate White House Aide Jim Carroll For Drug Czar', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-drug-czar_us_5a7e2dbbe4b08dfc930424db', 'short_description': 'Carroll, who currently serves as White House deputy chief of staff, must be confirmed by the Senate.', 'date': '2018-02-09'}

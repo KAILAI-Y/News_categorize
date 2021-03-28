@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kristen Bell Rode Out Hurricane Irma In Florida, Singing With Nursing Home Evacuees', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/kristen-bell-irma-nursing-home-evacuees_us_59b8e781e4b086432b02916c', 'short_description': 'She also called a few hours of bingo for her new friends.', 'date': '2017-09-13'}

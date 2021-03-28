@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Watch LeBron James Get Candy For His Daughter During His Game', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/ebron-james-candy-for-his-daughter-during-his-game_us_5a3d339fe4b025f99e16e04f', 'short_description': "Because a father's work is never done.", 'date': '2017-12-22'}

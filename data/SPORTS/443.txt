@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'New York Knicks Lock Arms During National Anthem After NBA Bans Kneeling', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/new-york-knicks-national-anthem_us_59d4169de4b04b9f9205eb8d', 'short_description': 'The league recently reminded teams about the rule on standing for the anthem.', 'date': '2017-10-04'}

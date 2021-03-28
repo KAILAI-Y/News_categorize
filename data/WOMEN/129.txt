@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5a972780e4b07dffeb6f693e', 'short_description': '"NEVER READ THE COMMENTS would make a great tattoo."', 'date': '2018-03-02'}

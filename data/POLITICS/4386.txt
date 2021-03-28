@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Virginia Elects Its First Openly Transgender State Lawmaker', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/danica-roem-wins-first-transgender-lawmaker_us_5a025909e4b06ff32c944693', 'short_description': 'Democrat Danica Roem defeated the Republican who  wrote the anti-trans bathroom bill.', 'date': '2017-11-08'}

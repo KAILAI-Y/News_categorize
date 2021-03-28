@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'ICE Arrests New York Teen Hours Before His Prom', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/ice-arrests-teen-prom-graduation_us_593da958e4b0b13f2c6b91c3', 'short_description': 'The high school senior was set to graduate later this month.', 'date': '2017-06-11'}

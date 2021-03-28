@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Lin-Manuel Miranda Drops A Star-Studded Benefit Single For Puerto Rico', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/lin-manuel-miranda_us_59d70176e4b0f6eed34f5fb5', 'short_description': '"Say it soft and it’s almost like praying, it’s almost like praying.”', 'date': '2017-10-06'}

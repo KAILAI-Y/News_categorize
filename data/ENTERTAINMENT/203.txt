@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jennifer Garner Has Mom Problems In Hilarious Rap Video On 'Ellen'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/jennifer-garner-gives-mom-advice-in-hilarious-music-video_us_5af449e6e4b09bb419e589e5', 'short_description': "We'll take a full album, please.", 'date': '2018-05-10'}

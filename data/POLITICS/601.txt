@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Kanye West And Donald Trump Lovefest Becomes 2018's Funniest Meme", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kanye-west-donald-trump-meme_us_5ae17bcee4b055fd7fc81cf0', 'short_description': 'Samuel L. Jackson and Jordan Peele also chimed in.', 'date': '2018-04-26'}

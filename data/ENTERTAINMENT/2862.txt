@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Joker Is Getting A Stand-Alone Movie, As If He Needs More Screen Time', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/the-joker-movie_us_599d993ee4b0d97c4000905d', 'short_description': '"The Hangover" director Todd Phillips will helm the Batman villain\'s origin story.', 'date': '2017-08-23'}

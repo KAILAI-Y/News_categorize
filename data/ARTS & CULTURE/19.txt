@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'A Very Vintage Holiday: Photos Recall Christmas Past', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/vintage-holiday-photos_us_5a3b9cb1e4b06d1621b20cb5', 'short_description': 'Get into the spirit of the season with these nostalgic photographs!', 'date': '2017-12-23'}

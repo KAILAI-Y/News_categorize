@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "11 Things We're Obsessed With This Week, Besides National Coffee Day", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/things-were-obsessed-with-11_us_59cbc17ae4b053a9c2f59d7c', 'short_description': 'Caffeine obsessives, take note.', 'date': '2017-09-27'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Cops Explain How To Pull Off A Good Halloween Prank Without Getting Arrested', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/police-practical-joke-tips_us_59e993c3e4b05b4f1c3a5e00', 'short_description': "Don't go to jail over a practical joke.", 'date': '2017-10-20'}

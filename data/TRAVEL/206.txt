@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'JetBlue Could Soon Let You Scan Your Face To Board Planes', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/jetblue-testing-face-recognition-boarding-software_us_592fcdb7e4b0540ffc848632', 'short_description': 'The airline is testing the high-tech boarding passes this month.', 'date': '2017-06-01'}

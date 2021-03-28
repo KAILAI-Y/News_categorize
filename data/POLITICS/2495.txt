@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Booed At Davos For Criticizing 'Fake' Media", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-davos-booed_us_5a6b2f2ce4b0ddb658c5abaa', 'short_description': 'The president dismissed reports that he ordered the firing of Special Counsel Robert Mueller as “fake news.”', 'date': '2018-01-26'}

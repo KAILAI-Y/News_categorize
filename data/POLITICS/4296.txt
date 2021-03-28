@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Everyone Knew Roy Moore Dated High School Girls, Says Former Colleague', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/moore-dated-highschool-girls_us_5a07944ce4b05673aa59a22f', 'short_description': 'And they thought it was "weird," according to former deputy district attorney.', 'date': '2017-11-12'}

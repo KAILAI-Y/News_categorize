@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Meet The Pro-Gun Democrat Taking On Congress’ Mini-Trump', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/anthony-brindisi-tenney-new-york_us_5aeb710fe4b0ab5c3d636cb4', 'short_description': 'Anthony Brindisi, a moderate Democrat, is hoping to oust a GOP bomb thrower in New York’s Trump country.', 'date': '2018-05-03'}

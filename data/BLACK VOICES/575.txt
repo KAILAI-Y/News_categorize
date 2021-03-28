@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'The Reporter Cam Newton Insulted Apologizes For Her Racist Tweets', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/cam-newton-jordan-rodrigque_us_59d6a9eae4b046f5ad972014', 'short_description': 'One tweet from five years ago suggested she enjoyed racist jokes.', 'date': '2017-10-05'}

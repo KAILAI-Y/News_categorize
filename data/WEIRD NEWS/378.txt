@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "2-Year-Old Adorably Mangles ‘The Star-Spangled Banner'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/star-spangled-banner-kid-video_us_598b34c5e4b0a66b8bb08410', 'short_description': "She's got us feeling patriotic.", 'date': '2017-08-09'}

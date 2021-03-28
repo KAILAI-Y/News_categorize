@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Smoking Driver Hits Crowd In Shanghai After Accidentally Igniting Van', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/shanghai-van-hits-pedestrians_us_5a73d686e4b01ce33eb149f2', 'short_description': 'The incident is believed to be an accident, according to local media reports.', 'date': '2018-02-02'}

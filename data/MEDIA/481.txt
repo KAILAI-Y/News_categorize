@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Meghan McCain Is Joining 'The View'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/meghan-mccain-view-co-host_us_59cca775e4b05063fe0f2954', 'short_description': 'McCain left her role at Fox News earlier this month.', 'date': '2017-09-28'}

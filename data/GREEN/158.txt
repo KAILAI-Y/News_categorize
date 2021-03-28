@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': '7 Numbers That Help Put The Northern California Wildfires Into Perspective', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/northern-california-fire-numbers_us_59dba7bde4b0208970ceb7b0', 'short_description': 'At least 15 people have been killed.', 'date': '2017-10-10'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: Trump Doubles Down On Criticism Of London Mayor", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-emailtrump-doubles-down-on-criticism-of-london-mayor_us_59368a45e4b013c4816ad63a', 'short_description': "And here's what Theresa May had to say.", 'date': '2017-06-06'}

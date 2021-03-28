@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'UN Rights Chief Calls For International Investigation Into Congo Massacres', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/congo-massacres-probe-request_us_593a744fe4b0240268784e43', 'short_description': 'At least 42 mass graves have already been found.', 'date': '2017-06-09'}

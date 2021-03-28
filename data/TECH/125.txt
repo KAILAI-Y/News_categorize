@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Hate Autoplay Videos? New Mac OS Will Let You Block Them On Safari.', 'authors': 'Michael McLaughlin', 'link': 'https://www.huffingtonpost.com/entry/block-autoplay-mac_us_59359afee4b0cfcda9168691', 'short_description': "Apple's announcement drew a cheer from the crowd at a conference Monday.", 'date': '2017-06-05'}

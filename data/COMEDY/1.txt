@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Has 1 Funny Regret After Trump Cancels North Korea Summit', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-north-korea_us_5b07cfb3e4b0802d69c9ea1f', 'short_description': 'There goes the one token of his appreciation.', 'date': '2018-05-25'}

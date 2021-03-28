@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mark Hamill Weds Sheldon And Amy On 'Big Bang Theory,' Fans Geek Out", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-big-bang-theory-wedding_us_5af55de3e4b00d7e4c1971d4', 'short_description': "Don't be surprised if more dogs are named Bark Hamill.", 'date': '2018-05-11'}

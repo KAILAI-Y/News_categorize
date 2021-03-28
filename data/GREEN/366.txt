@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Hawaii Becomes America's First State To Adopt The Paris Climate Accord", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/hawaii-joins-paris-accord_us_5938096de4b01fc18d3f5f64', 'short_description': '"It is time for states and governors to lead,” Gov. David Ige said.', 'date': '2017-06-07'}

@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "How To Tell If You're Too Sick To Get On A Flight", 'authors': 'Allison Fox', 'link': 'https://www.huffingtonpost.com/entry/sick-and-flying_us_59303e43e4b07572bdbfb025', 'short_description': 'Fasten your seat belts for this one.', 'date': '2017-06-07'}

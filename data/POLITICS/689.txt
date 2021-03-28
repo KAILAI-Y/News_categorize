@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chris Christie Sticks Taxpayers With Huge Bill For Official Portrait', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/chris-christie-official-portrait-cost_us_5ad9a14ce4b03c426dad1a6a', 'short_description': 'How much?!?', 'date': '2018-04-20'}

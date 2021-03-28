@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Man Accused Of Groping Taylor Swift Says He Mailed The $1 He Owes Her', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/taylor-swift-david-mueller-dollar_us_5a293cbae4b0b185e539ade9', 'short_description': "Here's why former DJ David Mueller sent the singer a Sacajawea coin.", 'date': '2017-12-07'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Michael Avenatti Warns Michael Cohen: I Still Have More Documents To Release', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/michael-avenatti-michael-cohen_us_5af50185e4b032b10bf90a16', 'short_description': '“We’ve got emails, we’ve got text messages, we’ve got other financial information."', 'date': '2018-05-11'}

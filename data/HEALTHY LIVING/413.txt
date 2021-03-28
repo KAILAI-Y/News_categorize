@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': "FDA Approves Treatment That Modifies Patient's Own Genes To Fight Cancer", 'authors': 'Bill Berkrot, Reuters', 'link': 'https://www.huffingtonpost.com/entry/fda-approves-treatment-that-modifies-patients-own-cells-to-fight-cancer_us_59a72e40e4b0a8d14572e986', 'short_description': 'The catch: It costs $475,000.', 'date': '2017-08-30'}

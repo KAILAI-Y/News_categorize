@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Twitter Earned So Many Gold Stars Playing #TrumpDayCareActivities', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitter-earned-so-many-gold-stars-playing-trumpdaycareactivities_us_59ef9048e4b0bf1f883668ff', 'short_description': '"Draft dodgeball," anyone?', 'date': '2017-10-24'}

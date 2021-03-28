@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Twitter Users Call B.S. On Donald Trump's Tweet About Mueller Indictments", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-tweet-bs_us_5a873e1ae4b05c2bcacaac07', 'short_description': "One person first thought Trump's tweet came from a parody account.", 'date': '2018-02-16'}

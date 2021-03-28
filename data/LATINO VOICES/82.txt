@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "Jennifer Lopez And Alex Rodriguez Just Kill It In New Year's Workout", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jennifer-lopez-and-alex-rodriguez-just-kill-it-in-new-years-workout_us_5a4bbec0e4b06d1621bb2ef3', 'short_description': "They'll make you regret your TV bowl game binge.", 'date': '2018-01-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Ousts Secretary Of State Rex Tillerson', 'authors': 'Eline Gordts and Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/rex-tillerson-out_us_59765701e4b0c95f375db326', 'short_description': "Tillerson reportedly learned he'd been booted from Trump's tweet.", 'date': '2018-03-13'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Report: Hackers Leak More 'Game Of Thrones' Plot Details", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/hackers-leak-more-game-of-thrones-plot-details_us_5988e1b3e4b0a66b8bae06da', 'short_description': "Along with an HBO executive's emails.", 'date': '2017-08-07'}

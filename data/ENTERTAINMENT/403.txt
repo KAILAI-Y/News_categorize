@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Donald Trump May Actually Enjoy Jim Carrey's Latest Biting Political Portrait", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jim-carrey-donald-trump-political-portrait_us_5adf075ae4b0df502a4f3693', 'short_description': '"The road to Trump\'s White House was paved with good intentions."', 'date': '2018-04-24'}

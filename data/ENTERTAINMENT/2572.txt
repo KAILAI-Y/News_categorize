@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Watch Margot Robbie Nervously Tattoo A Fan During A TV Interview', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/margot-robbie-tattoos-tv_us_59cf721fe4b06791bb10c1a9', 'short_description': '“My hands are shaking, but you don’t want to hear that.”', 'date': '2017-09-30'}

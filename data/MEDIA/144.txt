@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Pro-Trump Pastor: ‘Thou Shalt Not Have Sex With A Porn Star’ Doesn’t Apply Here', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-pastor-porn-star-sex_us_5aa1f695e4b086698a9c1e72', 'short_description': 'Robert Jeffress says it\'s about "policies and strong leadership," not sex scandals.', 'date': '2018-03-09'}

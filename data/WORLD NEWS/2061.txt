@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Gunfire Rocks Manila Gambling Resort', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/resorts-world-manila-attack_us_593053bce4b0e9a77a53968d', 'short_description': 'Philippine police deny that the incident was linked to terrorism.', 'date': '2017-06-01'}

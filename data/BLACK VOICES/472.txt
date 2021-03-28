@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': '15 Gifts From Black-Owned Businesses Your Loved Ones Deserve This Holiday Season', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/15-gifts-black-owned-businesses-holidays_us_5a145330e4b0aa32975e2598', 'short_description': '#BuyBlack', 'date': '2017-11-22'}

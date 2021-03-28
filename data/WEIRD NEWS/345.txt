@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Man Dressed As Coke Bottle Robs Kentucky Restaurant', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/coke-bottle-costume-robbery_us_59cd397be4b0ef0694271f80', 'short_description': "Hopefully, the investigation won't fizzle out.", 'date': '2017-09-28'}

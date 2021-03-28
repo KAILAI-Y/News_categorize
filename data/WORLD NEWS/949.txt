@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Knife Attacker Injures 8 In Munich, Police Detain Suspect', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/munich-knife-attack-germany_us_59eb171be4b00f08619f161a', 'short_description': 'Authorities said they had "no indication of a terrorist, political, or religious motive."', 'date': '2017-10-21'}

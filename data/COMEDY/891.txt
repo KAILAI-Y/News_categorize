@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Shreds Jeff Sessions For Meeting With Anti-LGBTQ Group', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-jeff-sessions-lgbtq-donald-trump_us_5969c4ece4b03389bb179844', 'short_description': '“A closed-door speech? Come on guys, it’s 2017, it’s OK to come out!"', 'date': '2017-07-15'}

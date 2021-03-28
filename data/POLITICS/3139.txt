@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Told Friends ‘You All Just Got a Lot Richer’ From Tax Bill: Report', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-tax-bill-richer_us_5a3fd687e4b0b0e5a7a2c345', 'short_description': 'He made the comment at his Mar-a-Lago resort, according to CBS News.', 'date': '2017-12-24'}

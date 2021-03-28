@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Deleted Some Embarrassing Tweets After Alabama Loss', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-alabama-deleted-tweets_us_59cb1a22e4b02aef6cd60faa', 'short_description': 'The president wiped his messages in support of incumbent Luther Strange.', 'date': '2017-09-27'}

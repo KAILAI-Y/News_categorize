@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: Opposition Grows To Senate Health Care Bill", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-opposition-grows-to-senate-health-care-bill_us_59524111e4b05c37bb79425c', 'short_description': 'Following the CBO score.', 'date': '2017-06-27'}

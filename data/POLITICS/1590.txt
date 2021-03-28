@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Will Meet With Kim Jong Un By May, South Korea Says', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-kim-jong-un-north-korea_us_5aa1c72ee4b01b9b0a39a2db', 'short_description': 'Kim reportedly has expressed his "eagerness to meet" with Trump as soon as possible.', 'date': '2018-03-09'}

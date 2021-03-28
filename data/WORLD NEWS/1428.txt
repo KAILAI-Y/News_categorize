@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Vehicle Crashes Into French Soldiers In Paris Suburb, Injuring 6', 'authors': 'Richard Lough and Benoit Tessier, Reuters', 'link': 'https://www.huffingtonpost.com/entry/crash-injures-french-soldiers_us_598abc0ee4b0449ed50678aa', 'short_description': 'Police shot and arrested the suspect.', 'date': '2017-08-09'}

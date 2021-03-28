@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Carson Daly Isn't Sure About This 'TRL' Reboot", 'authors': 'Leigh Blickley', 'link': 'https://www.huffingtonpost.com/entry/carson-daly-isnt-sure-about-this-trl-reboot_us_59d79b74e4b072637c43aa32', 'short_description': "Especially following MTV's decision to launch the show right after the Vegas shooting.", 'date': '2017-10-06'}

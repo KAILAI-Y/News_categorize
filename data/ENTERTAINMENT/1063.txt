@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Netflix Casts A White Guy In Another Film About Asian Culture', 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/netflix-the-outsider-jared-leto_us_5a944e43e4b02cb368c46d8d', 'short_description': 'And viewers are Not. Happy.', 'date': '2018-02-26'}

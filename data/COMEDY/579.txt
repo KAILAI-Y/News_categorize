@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "As You Can See, 'The Shrimpsons' Couch Gags Are Still Going Swimmingly", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/simpsons-couch-gag-fish_us_5a0c57cce4b0b17ffce1adca', 'short_description': '"We do not live in our own pee, we do not live in our own pee, we do not ..."', 'date': '2017-11-15'}

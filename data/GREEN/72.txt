@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Climate Change Poses Major Threat To Manufacturing, Study Finds', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/climate-change-manufacturing_us_5a280c5de4b0c21176276f00', 'short_description': 'Will President Trump take it seriously now?', 'date': '2017-12-06'}

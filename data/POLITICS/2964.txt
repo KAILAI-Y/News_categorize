@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "American The U.S. Holds 'Incommunicado' Wants ACLU To Challenge His Detention", 'authors': 'Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/american-isis-suspect-aclu_us_5a4fc175e4b003133ec79d72', 'short_description': '"John Doe," a suspected ISIS fighter, has been held overseas for months.', 'date': '2018-01-05'}

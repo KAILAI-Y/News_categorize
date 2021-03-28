@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kylie Jenner Beat Beyoncé At Breaking The Internet', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kylie-jenner-beyonce-instagram_us_5a7b479de4b08dfc92ff58b5', 'short_description': 'The reality TV star now has the most-liked photo on Instagram of all time.', 'date': '2018-02-07'}

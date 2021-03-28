@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "Many Americans Prefer A 'Higher Power' To The God Of The Bible, Study Finds", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/americans-belief-god-pew-survey_us_5ae214d4e4b055fd7fc9af65', 'short_description': "But only 10 percent say they don't believe in any spiritual force.", 'date': '2018-04-27'}

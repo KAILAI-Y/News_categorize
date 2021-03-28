@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Nordstrom Just Low-Key Dropped A Huge Fall Sale', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/the-best-of-nordstroms-fall-sale_us_59fb2a49e4b0b0c7fa3880bf', 'short_description': 'A sale this nice should be shopped twice 👯', 'date': '2017-11-02'}

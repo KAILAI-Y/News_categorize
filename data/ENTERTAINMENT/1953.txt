@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Kim Kardashian Unveils Family Christmas Card Piece By Adorable Piece', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kim-kardashian-family-christmas-card_us_5a257f03e4b0a02abe92de30', 'short_description': "'TIS THE SEASON.", 'date': '2017-12-04'}

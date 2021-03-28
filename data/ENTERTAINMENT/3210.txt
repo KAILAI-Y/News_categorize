@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Carrie Fisher Lands Posthumous Emmy Nomination For 'Catastrophe'", 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/carrie-fisher-lands-posthumous-emmy-nomination-for-catastrophe_us_59679cc8e4b0a8d46d12ea9b', 'short_description': 'The actress died in December 2016.', 'date': '2017-07-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Reince Priebus: ‘The President Absolutely Did Not Believe The Denial Of President Putin’', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/russia-trump-putin_us_596256a3e4b0615b9e922fa0', 'short_description': 'The White House chief of staff appears to be doing early damage control.', 'date': '2017-07-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Chris Christie Defends Baseball Outburst As 'A Mellow Reaction'", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/chris-christie-baseball-reaction_us_59803c65e4b0d6e28a102fba', 'short_description': 'The governor got into a very public argument with a Cubs fan this weekend.', 'date': '2017-08-01'}

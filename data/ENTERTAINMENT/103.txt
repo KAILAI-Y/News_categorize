@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ellen DeGeneres Hilariously Explains How She Saved Meghan Markle’s Life', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ellen-degeneres-meghan-markle_us_5afe4fd0e4b0463cdba03bc9', 'short_description': "...and she didn't even get invited to the royal wedding.", 'date': '2018-05-18'}

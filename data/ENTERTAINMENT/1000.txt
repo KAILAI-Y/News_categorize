@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Donald Trump Attacks Alec Baldwin In Early Morning Twitter Rant Amid Week Of Chaos', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-alec-baldwin-typo-tweet_us_5a992aebe4b0479c025159c8', 'short_description': "Trump misspelled Baldwin's name twice in the unhinged rant.", 'date': '2018-03-02'}

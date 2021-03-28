@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Florida School District Bans Homework, Says To Read Instead', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/florida-school-district-bans-homework-says-to-read-instead_us_597a2d66e4b02a8434b4e88d', 'short_description': 'The decision was based on education research.', 'date': '2017-07-27'}

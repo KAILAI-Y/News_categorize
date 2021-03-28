@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'One Brave Man Tests The Romper Look On The Streets Of New York', 'authors': 'Steven Hoffer', 'link': 'https://www.huffingtonpost.com/entry/man-romper-nyc_us_59356b65e4b02478cb9d5d36', 'short_description': 'Is the world ready?', 'date': '2017-06-05'}

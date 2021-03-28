@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "EPA Defends Scott Pruitt's Multiple Email Addresses As 'Standard Practice Since Clinton’", 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/pruitt-emails-epa_us_5ad6701be4b03c426da92c1b', 'short_description': 'But his emails.', 'date': '2018-04-17'}

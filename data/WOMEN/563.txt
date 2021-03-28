@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Malala Confirms She's Going To Oxford This Fall", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/malala-yousafzai-oxford_us_59959f58e4b06ef724d6d4fc', 'short_description': "She'll be following in former Pakistani president Benazir Bhutto's footsteps.", 'date': '2017-08-17'}

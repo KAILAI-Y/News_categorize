@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Rod Rosenstein Personally Signed Off On The Raid Of Trump's Attorney", 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/geoffrey-berman-trump_us_5acc09dce4b0337ad1eb041c', 'short_description': 'Trump has long been frustrated with Rosenstein, the No. 2 at the Department of Justice.', 'date': '2018-04-10'}

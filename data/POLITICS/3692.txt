@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report: Robert Mueller Issues Subpoena For Info On Trump Bank Accounts', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-deutsche-bank-mueller_us_5a269325e4b07324e84082dc', 'short_description': 'Deutsche Bank has loaned the Trump organization millions of dollars for real estate ventures.', 'date': '2017-12-05'}

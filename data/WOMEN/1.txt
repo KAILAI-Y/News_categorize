@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The Joy Of Watching Harvey Weinstein’s Perp Walk', 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/joy-watching-harvey-weinstein-perp-walk_us_5b0823c3e4b0fdb2aa531c7c', 'short_description': "There's a delicious schadenfreude in seeing a powerful abuser finally held accountable.", 'date': '2018-05-25'}

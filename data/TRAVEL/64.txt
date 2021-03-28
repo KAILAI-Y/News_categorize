@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'Why People Like To Stay In Places Where Celebrities Have Died', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/why-people-stay-where-celebrities-died_us_5a4bf057e4b06d1621bb5ede', 'short_description': 'Inside the world of dark tourism.', 'date': '2018-01-17'}

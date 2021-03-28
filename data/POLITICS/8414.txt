@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Vladimir Putin Trolls James Comey Over 'Strange' Memo Leak", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/vladimir-putin-trolls-james-comey_us_59427eece4b003d5948d7b79', 'short_description': '"We would be ready to offer political asylum to Comey if he’s persecuted in the U.S."', 'date': '2017-06-15'}

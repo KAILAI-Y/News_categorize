@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump, GOP Congratulate Selves For Immigration Meeting 4 Months Into DACA Crisis', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/trump-daca-republicans-meeting_us_5a4ea6a8e4b01e1a4b13e0ce', 'short_description': "A deal needs to be bipartisan, but the meeting wasn't.", 'date': '2018-01-05'}

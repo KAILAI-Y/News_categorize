@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'The Cosby Verdict Won’t Fix A Broken Legal System', 'authors': 'Angelina Chapin', 'link': 'https://www.huffingtonpost.com/entry/bill-cosby-verdict-legal-system_us_5ae3577ae4b02baed1ba198c', 'short_description': 'He was found guilty, but the system is still stacked against victims.', 'date': '2018-04-27'}

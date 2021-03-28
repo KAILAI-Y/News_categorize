@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Approval Rating Ticks Up Slightly From His Record Low", 'authors': 'Ariel Edwards-Levy', 'link': 'https://www.huffingtonpost.com/entry/trump-approval-rating-ticks-up_us_59c2a855e4b063b253175e82', 'short_description': "The president's numbers are up since August, although still in the red.", 'date': '2017-09-20'}

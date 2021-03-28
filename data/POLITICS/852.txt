@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'James Comey Mocks Trump With Hand Size Comments In His New Book', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/james-comey-donald-trump-hands_us_5acfe529e4b016a07e9aaa19', 'short_description': "Comey also has snarky comments about the president's hair.", 'date': '2018-04-12'}

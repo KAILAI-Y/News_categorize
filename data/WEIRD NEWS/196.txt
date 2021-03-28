@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Man Rams Armored Vehicle Into Shop Just For 1 Bottle Of Wine', 'authors': 'Polina Ivanova, Reuters', 'link': 'https://www.huffingtonpost.com/entry/russian-man-armored-vehicle-ram-window_us_5a565e20e4b03bc4d03d7507', 'short_description': 'He was tanked.', 'date': '2018-01-10'}

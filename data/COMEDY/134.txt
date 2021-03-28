@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Time Traveler Jimmy Kimmel Warns Baby Donald Trump About James Comey's Book", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/time-traveler-jimmy-kimmel-warns-baby-donald-trump-about-james-comeys-book_us_5ad6f8aee4b029ebe01f21ce', 'short_description': '"To potentially get him to change his ways."', 'date': '2018-04-18'}

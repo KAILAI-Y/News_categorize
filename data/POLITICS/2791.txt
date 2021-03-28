@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Statement On Canceled London Visit Is Full Of Falsehoods", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-london-statement-falsehoods_us_5a586bf6e4b04df054f7a718', 'short_description': 'He blames Obama for the move, even though it was first planned under Bush.', 'date': '2018-01-12'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Pink Has No Time For The Idea That Female Artists Need To ‘Step Up’', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/pink-responds-female-artists-step-up_us_5a709bb1e4b0be822ba0ccb1', 'short_description': '"Women have been stepping since the beginning of time.”', 'date': '2018-01-30'}

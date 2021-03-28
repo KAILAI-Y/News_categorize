@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Tom Price Resigns As Health And Human Services Secretary', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/tom-price-resigns_us_59cda7cce4b06791bb0f9848', 'short_description': 'He cost taxpayers over $1 million by using private planes for official travel.', 'date': '2017-09-29'}

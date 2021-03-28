@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'The Battle To Save Our Dying Soil', 'authors': 'Anna Leach, On Assignment For HuffPost', 'link': 'https://www.huffingtonpost.com/entry/soil-camp-climate-change-make-a-difference_us_5afad3e1e4b044dfffb5ddc9', 'short_description': 'This camp in southern Spain is finding ways to restore degraded land.', 'date': '2018-05-17'}

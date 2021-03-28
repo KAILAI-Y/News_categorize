@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'LeBron James Nails Incredible 3-Point Buzzer-Beater To Seal Game 5 For Cleveland', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/lebron-james-buzzer-beater_us_5ae14008e4b04aa23f1f258f', 'short_description': 'Game-winning shot puts Cleveland up 3-2 in playoff series against Indiana.', 'date': '2018-04-26'}

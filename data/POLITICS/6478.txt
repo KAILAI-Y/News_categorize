@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Carl Icahn Steps Down As Adviser To Trump', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/carl-icahn-trump_us_59975d10e4b0e8cc855de174', 'short_description': 'Icahn ended his role amid conflict of interest allegations, which he denied.', 'date': '2017-08-18'}

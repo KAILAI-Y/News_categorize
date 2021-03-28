@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Colbert\xa0Names Who Has The Official Job Of Unqualified White House Staffer', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-michael-cohen_us_5af4f4cae4b0e57cd9f7d28f', 'short_description': "Here's the reason Michael Cohen didn't get a gig inside 1600 Pennsylvania Ave.", 'date': '2018-05-11'}

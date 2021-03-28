@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Uber Refunds Fares After Uproar Over London Terror Price Surge', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/uber-london-fare-refund_us_5935e4fde4b0099e7fae96eb', 'short_description': 'Prices soared as people scrambled to flee the London Bridge attack.', 'date': '2017-06-06'}

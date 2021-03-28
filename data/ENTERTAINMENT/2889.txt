@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "A Porn Site Wants To Revive 'Sense8,' And Not As A Parody", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/a-porn-site-wants-to-revive-sense8_us_59984aeee4b0e8cc855dff58', 'short_description': 'It could happen?', 'date': '2017-08-19'}

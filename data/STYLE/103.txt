@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Fashion Designer Azzedine Alaia, The 'King Of Cling,' Dead At 77", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/azzedine-alaia-dead_us_5a104978e4b0e97dffedb69b', 'short_description': 'The Tunisian-born fashion designer dressed stars from Greta Garbo to Grace Jones and Lady Gaga.', 'date': '2017-11-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mike Pence To Robert Mueller On Russia Probe: 'Wrap It Up'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-robert-mueller-russia-probe_us_5af45424e4b04d3b2c913b5e', 'short_description': '"Why does Mike Pence want to kill this investigation?” asked Joe Scarborough.', 'date': '2018-05-10'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "More Than 19 Million TV Viewers Watched James Comey's Hearing", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/james-comey-hearing-coverage-viewers_us_593ae43fe4b0b13f2c6a1362', 'short_description': "Lordy, that's a lot of people.", 'date': '2017-06-09'}

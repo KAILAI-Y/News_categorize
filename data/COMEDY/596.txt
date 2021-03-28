@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Declares The Real Election Winner: 'Karma'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-mocks-republicans-karma-inspired-election-losses_us_5a0447a4e4b03deac08b80a1', 'short_description': '"Incumbents were defeated by the very things they were being dicks about."', 'date': '2017-11-09'}

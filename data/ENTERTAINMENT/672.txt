@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Beyoncé And Solange's Dad Finally Speaks About That Infamous Elevator Fight", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/mathew-knowles-beyonce-solange-elevator-fight_us_5ac2548ce4b0a47437acba49', 'short_description': '"I have to tell you -- I laughed so hard."', 'date': '2018-04-02'}

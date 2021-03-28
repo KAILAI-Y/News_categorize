@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Princess Charlene Just Wore The Ultimate Fancy Pants', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/princess-charlene-jumpsuit_us_597f2f31e4b0da64e87a8e81', 'short_description': 'Does her shiny Versace look remind you of anyone?', 'date': '2017-07-31'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Holy Matrimony! There Was A Proposal At The Met Gala.', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/holy-matrimony-there-was-a-proposal-at-the-met-gala_us_5af19e52e4b0ab5c3d69e4ca', 'short_description': '2 Chainz proposed to his lady love Kesha Ward. Again!', 'date': '2018-05-08'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Starbucks Is Bringing An Italian Bakery Chain To The U.S., And It Looks Magical', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/starbucks-bakery_us_5a0204c7e4b04e96f0c5e323', 'short_description': 'Coffee fans rejoice!', 'date': '2017-11-07'}

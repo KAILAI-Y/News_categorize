@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "USA Today Editorial Board Calls Trump Unfit To Clean Obama's Toilets In Scathing Editorial", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/usa-today-trump-obama-toilets_us_5a30cc54e4b07ff75afeb7de', 'short_description': '🔥🔥🔥', 'date': '2017-12-13'}

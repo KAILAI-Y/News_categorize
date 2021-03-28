@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Iranian State TV Claims Successful Space Rocket Launch', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/iran-rocket-launch_us_5979f2dce4b02a8434b46861', 'short_description': 'Past launches have raised tensions between the U.S. and Iran.', 'date': '2017-07-27'}

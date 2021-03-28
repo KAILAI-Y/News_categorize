@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "ACLU Challenges Trump's New Travel Ban", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/aclu-travel-ban_us_59ceab03e4b06791bb10933f', 'short_description': '"President Trump’s newest travel ban is still a Muslim ban at its core," said the group\'s executive director.', 'date': '2017-09-29'}

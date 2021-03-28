@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Why Your 'Apology' For Defending Trump's Racism Isn't Enough", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/why-your-apology-for-defending-trumps-racism-isnt-enough_us_5995ac68e4b0d0d2cc84ebbd', 'short_description': 'Listen up.', 'date': '2017-08-17'}

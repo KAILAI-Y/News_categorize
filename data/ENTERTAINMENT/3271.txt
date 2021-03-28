@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ukulele Virtuoso Nails It With Stirring Rendition Of 'America The Beautiful'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jake-shimabukuro-america-the-beautiful_us_595c8f89e4b05c37bb809eda', 'short_description': 'Jake Shimabukuro performs the American classic at Garden of the Gods.', 'date': '2017-07-05'}

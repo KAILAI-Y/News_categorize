@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bernie Sanders' Grammy-Nominated Book Gets Romantic Reworking On 'Conan'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-erotic-novel-conan-o-brien_us_5a1fe982e4b037b8ea1fd7eb', 'short_description': 'Fifty Shades of Democratic Socialism?', 'date': '2017-11-30'}

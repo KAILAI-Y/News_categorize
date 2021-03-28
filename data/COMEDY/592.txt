@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "People Talk About Flu, Recoil From Coughing Interviewer On 'Jimmy Kimmel'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/people-talk-about-flu-and-recoil-from-kimmel-guy-coughing-in-mike_us_5a058a8fe4b05673aa58c5b4', 'short_description': 'This prank is sick.', 'date': '2017-11-10'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "If You're Buying Insurance On Your Own This Year, Here's What You Need To Know", 'authors': 'Jeffrey Young and Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/huffpost-open-enrollment-guide_us_5a00c80ae4b0368a4e8662e4', 'short_description': "It's more complicated than usual.", 'date': '2017-11-07'}

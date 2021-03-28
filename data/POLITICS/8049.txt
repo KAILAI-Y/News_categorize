@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The European Union Just Showed Democrats How To Take On Monopolies', 'authors': 'Alexander C. Kaufman and Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/european-union-google-antitrust-democrats_us_59529c3fe4b02734df2dda82', 'short_description': 'U.S. Democrats have been soft on Big Tech.', 'date': '2017-06-28'}

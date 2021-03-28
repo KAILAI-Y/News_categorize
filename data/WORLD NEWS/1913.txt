@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Fire Breaks Out At Mexico's Top Refinery, 9 People Hurt", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mexico-refinery-fire_us_5941f865e4b003d5948d1684', 'short_description': 'The blaze broke out at Mexican state oil producer Pemex’s Salina Cruz refinery after a crude spill.', 'date': '2017-06-15'}

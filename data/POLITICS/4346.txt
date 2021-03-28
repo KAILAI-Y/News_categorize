@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Unveils Rival Tax Bill, Setting Up Showdown With House', 'authors': 'Arthur Delaney and Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/senate-tax-bill_us_5a0477a6e4b0937b511025bd', 'short_description': 'House and Senate Republicans both want to enrich the rich, but in different ways.', 'date': '2017-11-09'}

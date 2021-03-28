@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Kimmel Turns Ruth Bader Ginsburg Into A Badass 'Justice League' Superhero", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-ruth-bader-ginsburg-justice-league_us_5a0eb962e4b0e97dffecabc5', 'short_description': '"Justice just got supreme."', 'date': '2017-11-17'}

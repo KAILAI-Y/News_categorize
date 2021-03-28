@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Defends Melania Trump For Traveling To Texas In Stilettos', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-melania-trump-harvey-heels_us_59a665a4e4b063ae34d9e441', 'short_description': '"Like who cares?"', 'date': '2017-08-30'}

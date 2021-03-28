@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Misremembering What Makes Us Fat', 'authors': 'David L. Katz, M.D., M.P.H., ContributorFounder, True Health Initiative', 'link': 'https://www.huffingtonpost.com/entry/misremembering-what-makes-us-fat_us_592d63e1e4b0a7b7b469ccfa', 'short_description': "Time's cover story on dieting misses the forest for the trees.", 'date': '2017-05-30'}

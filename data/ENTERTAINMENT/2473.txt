@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Ultimate Kansas City, Missouri, Road Trip Playlist', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-ultimate-kansas-city-missouri-road-trip-playlist_us_59d7bcbee4b0f6eed35018c6', 'short_description': 'A Spotify analysis found no shortage of culture in this heartland city.', 'date': '2017-10-09'}

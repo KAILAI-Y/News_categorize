@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Mexico's Earthquake Triggered A Deadly Collapse At A Primary School", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/school-mexico-city-earthquake_us_59c21525e4b087fdf509138d', 'short_description': 'Rescuers have spent days searching for survivors.', 'date': '2017-09-20'}

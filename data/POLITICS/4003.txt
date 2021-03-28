@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Group Lobbying To End Trophy Hunting Ban Is Alarmingly Close With Ryan Zinke', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/ryan-zinke-safari-club_us_5a15c2dee4b025f8e93338bb', 'short_description': 'Animal advocates fear an "uncomfortably cozy and even improper" relationship.', 'date': '2017-11-23'}

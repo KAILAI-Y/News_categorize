@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Caribbean Faces Brutal Road To Recovery After Irma's Ravages", 'authors': 'Sarah Marsh, Reuters', 'link': 'https://www.huffingtonpost.com/entry/caribbean-irma-recovery_us_59b62ea2e4b0b5e5310715fa', 'short_description': 'The storm killed at least 28 people across the region.', 'date': '2017-09-11'}

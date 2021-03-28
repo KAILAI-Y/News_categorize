@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Creates News Channel For People Who Love Ignoring The News', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/colbert-creates-news-channel-for-people-who-love-ignoring-the-news_us_59f88e93e4b0aec1467af139', 'short_description': 'Nothing to see here, right, Fox News?', 'date': '2017-10-31'}

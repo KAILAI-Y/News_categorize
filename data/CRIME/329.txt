@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Man Arrested After Woman Seen Knocked In Path Of London Bus: Police', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/arrest-in-london-bus-incident_us_598c7fc5e4b0449ed5086d94', 'short_description': 'A 50-year-old man was taken into custody two days after the video was released to the public.', 'date': '2017-08-10'}

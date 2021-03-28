@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Amazing, Inspiring Statues Are Out There, And They Don’t Honor Racists', 'authors': 'Samantha Tomaszewski', 'link': 'https://www.huffingtonpost.com/entry/great-statues-confederate-removal-charlottesville_us_5995bc43e4b0acc593e5fa14', 'short_description': 'Twitter users are sharing their favorites.', 'date': '2017-08-17'}

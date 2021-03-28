@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'The Dictator Whose Hunger For Power Helped Tear Yemen Apart Is Dead', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/saleh-yemen-dead_us_5a256813e4b03c44072f03ba', 'short_description': "Ali Abdullah Saleh was killed after decades of manipulating the country's politics for his own gain.", 'date': '2017-12-05'}

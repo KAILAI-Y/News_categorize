@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. To Sue To Block AT&T Purchase Of Time Warner: Report', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/doj-att-time-warner_us_5a134386e4b0bfa88c1c4f80', 'short_description': 'Donald Trump attacked the deal on the campaign trail last year.', 'date': '2017-11-20'}

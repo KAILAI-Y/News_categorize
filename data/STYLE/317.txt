@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "The Best Back-To-School Backpacks That'll Last All Year Long", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/back-to-school-backpacks-for-everyone_us_59691b69e4b03389bb17482f', 'short_description': "School's out for summer -- but not for long! 🍎📝👩\u200d🏫", 'date': '2017-07-17'}

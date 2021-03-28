@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Willa Ford Blames 9/11 For Her Failed Pop Star Career', 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/willa-ford-911-career-flop_us_597a00c8e4b02a8434b49275', 'short_description': '"It was the perfect storm."', 'date': '2017-07-27'}

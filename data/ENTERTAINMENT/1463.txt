@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Olivia Munn Texts Anna Faris To Let Her Know She's Not Dating Chris Pratt", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/olivia-munn-anna-faris-chris-pratt_us_5a65f6f3e4b002283004c722', 'short_description': '#FriendshipGoals is the new #CoupleGoals', 'date': '2018-01-22'}

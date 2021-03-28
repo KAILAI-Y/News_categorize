@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Lawyer Made A Really Good Case Once For Sitting A New Senator Fast", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/jay-sekulow-doug-jones-senate_us_5a316d01e4b091ca2684d925', 'short_description': 'Now Republicans could drag their feet before swearing in Democrat Doug Jones.', 'date': '2017-12-13'}

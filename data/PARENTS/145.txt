@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "The New York Attack: A Father's Dread", 'authors': 'Andy Ostroy, ContributorPolitical and Pop Culture Analyst', 'link': 'https://www.huffingtonpost.com/entry/the-new-york-attack-a-fathers-dread_us_59f9d1dfe4b0b7f0915f6326', 'short_description': "It's every parent's worst nightmare.", 'date': '2017-11-01'}

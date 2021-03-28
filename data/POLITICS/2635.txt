@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chris Christie Reportedly Turned Away From Airport VIP Entrance', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/chris-christie-airport-security_us_5a616877e4b0125fd63558ef', 'short_description': 'Former New Jersey governor apparently has to wait in line now like everyone else.', 'date': '2018-01-19'}

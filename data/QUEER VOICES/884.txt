@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Record-Breaking Six Openly Gay College Football Players Hit The Field This Fall', 'authors': 'Jim Buzinski, Outsports', 'link': 'https://www.huffingtonpost.com/entry/six-out-gay-football-players_us_59a841f0e4b010ca289b1d90', 'short_description': 'Barriers are being broken as the 2017 season starts.', 'date': '2017-09-03'}

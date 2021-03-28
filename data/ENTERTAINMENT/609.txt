@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Hannity Rips Jimmy Kimmel In Off-The-Rails Feud As \'Twisted, Creepy Weirdo"', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/hannity-kimmel-feud_us_5ac82361e4b07a3485e4cc79', 'short_description': '"It\'s going to end when he apologizes to Melania Trump," vows Fox News host.', 'date': '2018-04-07'}

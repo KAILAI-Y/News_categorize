@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "As The Trumps Travel, The Secret Service Can't Even Afford To Pay Some Agents", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trumps-secret-service_us_599ae2ffe4b0e8cc855ee108', 'short_description': 'The money is running out.', 'date': '2017-08-21'}

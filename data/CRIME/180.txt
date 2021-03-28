@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Crimes That Dominated Headlines In 2017', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/crimes-that-dominated-headlines-in-2017_us_5a3acc5ee4b0b0e5a79f4b53', 'short_description': 'There were a number of high-profile tragedies this year.', 'date': '2017-12-27'}

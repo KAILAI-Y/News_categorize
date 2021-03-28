@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: Dreamers Await DACA's Fate", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-dreamers-await-dacas-fate_us_59ae8b5ee4b0dfaafcf26aec', 'short_description': 'But Trump will make someone else face the cameras.', 'date': '2017-09-05'}

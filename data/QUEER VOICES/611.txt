@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Watch 'Drag Race' Star Milk Channel Madonna In Iconic Ad For Pop Star's New Skincare Line", 'authors': 'Noah Michelson', 'link': 'https://www.huffingtonpost.com/entry/madonna-milk-mdna_us_5a0462a3e4b0f76b05c3cffd', 'short_description': 'The dairy queen becomes the queen of pop in a surprising new campaign.', 'date': '2017-11-09'}

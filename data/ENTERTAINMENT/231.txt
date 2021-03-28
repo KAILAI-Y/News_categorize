@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Katy Perry Sends Olive Branch To Taylor Swift, And The World Rejoices', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/katy-perry-taylor-swift-olive-branch_us_5af21c32e4b00a3224ee1505', 'short_description': "Now they don't have bad blood?", 'date': '2018-05-08'}

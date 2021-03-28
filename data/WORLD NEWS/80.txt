@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Alfie Evans, Gravely Ill British Toddler At Center Of Legal Battle, Has Died', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/alfie-evans-dies-liverpool_us_5ae4639ce4b02baed1ba900e', 'short_description': '“My gladiator lay down his shield and gained his wings."', 'date': '2018-04-28'}

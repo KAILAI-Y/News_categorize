@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Amy Schumer Had The Sweetest Reason For Wanting To 'Rush' Wedding", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/amy-schumer-has-the-sweetest-reason-for-wanting-to-rush-wedding_us_5a970c4ae4b07dffeb6f4921', 'short_description': 'Well, when you put it like that ...', 'date': '2018-02-28'}

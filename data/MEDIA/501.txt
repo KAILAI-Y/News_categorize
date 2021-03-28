@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Donald Trump Is Demanding An Apology. Don Lemon Has The Perfect Response.', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/don-lemon-donald-trump-espn-apology_us_59bf493de4b0edff971d2e39', 'short_description': 'CNN anchor has a reminder for the president.', 'date': '2017-09-18'}

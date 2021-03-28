@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Drag Queen Ada Vox Eliminated From 'American Idol'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/ada-vox-eliminated-american-idol_us_5ae6dda3e4b02baed1bbded1', 'short_description': '"Ada Vox had the best voice of the whole competition but conservative america ignored that."', 'date': '2018-04-30'}

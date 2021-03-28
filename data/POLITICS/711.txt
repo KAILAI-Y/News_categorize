@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senate Confirms Climate Change Denier To Lead NASA', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/jim-bridenstine-nasa-confirmation_us_5ad8aab7e4b03c426dac081c', 'short_description': 'Rep. Jim Bridenstine (R-Okla.) will take over control of the space agency after seven-month standoff.', 'date': '2018-04-19'}

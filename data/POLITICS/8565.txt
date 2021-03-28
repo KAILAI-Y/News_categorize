@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Navy Ship Named For Gun Violence Survivor Gabrielle Giffords Commissioned', 'authors': 'Ashley Alman', 'link': 'https://www.huffingtonpost.com/entry/gabrielle-giffords-navy-ship_us_593c2c38e4b024026879e6f0', 'short_description': 'The U.S.S. Gabrielle Giffords is only the third Navy ship named after a living woman.', 'date': '2017-06-10'}

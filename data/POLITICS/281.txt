@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Russian Troll Facebook Ads Barely Targeted Swing States', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/russia-facebook-ads-2016_us_5af60946e4b00d7e4c1a9a34', 'short_description': 'Fewer than 10 percent of the ads specifically targeted a state in contention.', 'date': '2018-05-11'}

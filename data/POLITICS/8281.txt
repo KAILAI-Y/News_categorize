@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Senate Republicans Don't Really Care About The Loathed AHCA Process", 'authors': 'Matt Fuller and Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/senate-republicans-ahca-process_us_5949935de4b0177d0b8a3aeb', 'short_description': 'But they might care about health care enough to vote this bill down. Or not.', 'date': '2017-06-20'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Animator Brilliantly Explains The Gun Control Debate Using Cats', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/animator-brilliantly-explains-the-gun-control-debate-using-cats_us_5aa2bc71e4b01b9b0a3afb2e', 'short_description': 'No cats were harmed in the making of this video.', 'date': '2018-03-09'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Los Angeles Dodgers Rally Against Houston Astros, Force Game 7 Of World Series', 'authors': 'By Rory Carroll, Reuters', 'link': 'https://www.huffingtonpost.com/entry/world-series-dodgers-astros-game-6_us_59f95838e4b00c6145e28919', 'short_description': "Who's psyched?", 'date': '2017-11-01'}

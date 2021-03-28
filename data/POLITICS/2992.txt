@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'California Lawmakers Aim To Improve Warning Systems Before The Next Huge Wildfire Hits', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/california-wildfire-warning-systems_us_5a4d4b9de4b0b0e5a7aab918', 'short_description': 'Because megafires could become the new normal for California.', 'date': '2018-01-04'}

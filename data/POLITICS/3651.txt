@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Jr. Gets Blasted For His Al Franken Hot Take. Mike Huckabee Too.', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-mike-huckabee-al-franken_us_5a297cd0e4b0b185e53a1c83', 'short_description': '"Democrats fire harassers. Republicans promote them. #GroperInTheWhiteHouse"', 'date': '2017-12-07'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': '4 Men Charged With Hate Crimes In Beating Of Gay Couple', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/hate-crimes-beating-gay-couple_us_5af753b2e4b032b10bfb44f3', 'short_description': 'A bystander was also beaten bloody in the attack, which was caught on camera.', 'date': '2018-05-12'}

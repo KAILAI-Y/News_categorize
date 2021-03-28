@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Will Michael B. Jordan And Lupita Nyong'o Please Just Date Already?", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/michael-b-jordan-lupita-nyonggo-please-just-date_us_5a8c2914e4b0a1d0e12d3965', 'short_description': "WE'RE ASKING NICELY.", 'date': '2018-02-20'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: Stormy Daniels Suing Trump", 'authors': 'Eliot Nelson', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-stormy-daniels-suing-trump_us_5a9fcfb5e4b0d4f5b66bf46a', 'short_description': 'A porn star is suing the president; let that sink in.', 'date': '2018-03-07'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Barber Accused Of Giving Customer Truly Terrible Haircut', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/khaled-shabani-arrested-bad-haircut_us_5a451513e4b0b0e5a7a52bc8', 'short_description': 'The botched trim made the victim look like Larry from the Three Stooges.', 'date': '2017-12-28'}

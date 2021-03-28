@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Did Trump Say 'Shithole' Or 'Shithouse'? It Really Doesn't Matter.", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/trump-shithole-shithouse_us_5a5e45ffe4b03bb8f5a116a1', 'short_description': "Let's flush this straw man down the ... whatever you wanna call it.", 'date': '2018-01-16'}

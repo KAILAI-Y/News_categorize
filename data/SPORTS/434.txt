@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Al Michaels Makes Harvey Weinstein Joke In NFL Telecast, Regrets It', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/al-michaels-makes-harvey-weinstein-joke-in-nfl-telecast-regrets-it_us_59e47320e4b03a7be581a55d', 'short_description': 'Viewers noticed.', 'date': '2017-10-16'}

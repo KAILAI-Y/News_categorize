@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Single Wolf Dad Cares For Pups Alone After Mother Shot In Zoo Escape', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/wolves-cotswold-wildlife-zoo-father-mother_us_597c9129e4b02a4ebb75bcd9', 'short_description': "Ash is helping his pups adjust after their mother's death.", 'date': '2017-07-29'}

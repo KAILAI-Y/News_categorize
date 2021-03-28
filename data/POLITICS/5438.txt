@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democratic Super PAC Steps Up Push To Fight 'Conservative Dark Money'", 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/forward-majority-outpsent-report-democrats-state-legislatures_us_59cd3932e4b0ef0694271f33', 'short_description': "And they're focusing on oft-forgotten state legislatures.", 'date': '2017-09-28'}

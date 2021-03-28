@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Apple Black Friday Deals That Are Actually Worth Your Time And Money', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/apple-black-friday-deals_us_5a12fccbe4b0bfa88c1bce8d', 'short_description': 'The wait is over.', 'date': '2017-11-20'}

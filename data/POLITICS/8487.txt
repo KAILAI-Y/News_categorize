@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Salvadoran Immigrant Dies In ICE Custody As Detainee Deaths Rise', 'authors': 'Roque Planas and Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/ice-detention-deaths_us_59403e6de4b09ad4fbe3b96f', 'short_description': "This fiscal year's deaths of ICE detainees are the most since 2011.", 'date': '2017-06-13'}

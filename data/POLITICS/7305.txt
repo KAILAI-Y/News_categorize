@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Jokes About Firing Tom Price If GOP Repeal Effort Fails', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-tom-price_us_597678ebe4b0e201d5776af2', 'short_description': "He said he wouldn't talk about politics at the Boy Scout event. (Then he did.)", 'date': '2017-07-24'}

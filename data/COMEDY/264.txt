@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Finally Found The One Thing Trump Won't Put His Name On", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-trump-name_us_5aa099a3e4b0e9381c15328f', 'short_description': '"This was the thing Trump thought was too sketchy to put his name on."', 'date': '2018-03-08'}

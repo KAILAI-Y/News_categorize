@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Police Confirm Another Freeway Shooting In Michigan', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/police-confirm-freeway-shooting-michigan_us_5a2ee816e4b078950282c91b', 'short_description': 'There is no known relationship between any of the victims.', 'date': '2017-12-11'}

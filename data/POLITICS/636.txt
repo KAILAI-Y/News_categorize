@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Maryland's GOP Governor Signs Broad Set Of Gun Bills Into Law", 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/maryland-gun-laws_us_5ada332be4b04090e551f666', 'short_description': 'The measures include a bump stock ban and at least $5 million for programs to stem gun violence.', 'date': '2018-04-24'}

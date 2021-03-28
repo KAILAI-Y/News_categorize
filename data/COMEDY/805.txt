@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Caught Donald Trump's Glaring Omission During The Arizona Rally", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-trump-arizona-rally-many-sides_us_599e6709e4b0821444c0b521', 'short_description': '"The Daily Show" host won\'t let the president get away with this one.', 'date': '2017-08-24'}

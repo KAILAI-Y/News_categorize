@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Keith Olbermann: The NRA Should Be Branded A Terrorist Organization', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/keith-olbermann-nra-las-vegas-massacre_us_59d32dfce4b048a44324b82d', 'short_description': '"It is time to end the National Rifle Association."', 'date': '2017-10-03'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Late-Night TV Hosts Skewer Trump For 'Shithole Countries' Comment", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trump-shithole-late-night-tv_us_5a588df0e4b0720dc4c61cec', 'short_description': 'Seth Meyers had to walk away for a minute to process the news.', 'date': '2018-01-12'}

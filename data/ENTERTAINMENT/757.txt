@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Bill Hader Calls Justin Bieber The Worst-Behaved 'SNL' Guest", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/bill-hader-justin-bieber-snl_us_5ab51f0ae4b054d118e269d9', 'short_description': 'So not a Belieber.', 'date': '2018-03-23'}

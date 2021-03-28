@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The GOP Tax Plan Includes One Really Good Idea', 'authors': 'Travis Waldron', 'link': 'https://www.huffingtonpost.com/entry/republican-tax-reform-stadiums_us_59fc9e2fe4b04cdbeb32fc1e', 'short_description': 'And rich sports owners will hate it.', 'date': '2017-11-03'}

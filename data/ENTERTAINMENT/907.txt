@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jon Favreau Tapped To Write And Produce Live-Action 'Star Wars' Series", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/jon-favreau-star-wars-series_us_5aa1741fe4b002df2c620689', 'short_description': "He has already been involved with the franchise's animated TV show.", 'date': '2018-03-08'}

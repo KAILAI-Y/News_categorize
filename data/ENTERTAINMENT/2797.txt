@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'The Six Million Dollar Man' Actor Richard Anderson Dead At 91", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/six-million-dollar-man-dead-richard-anderson_us_59a89623e4b0dfaafcef1cfc', 'short_description': 'Actor Richard Anderson played Oscar Goldman on the popular 1970s TV series.', 'date': '2017-09-01'}

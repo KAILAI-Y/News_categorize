@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Chicago Residents Get To Decide How City Funds Are Spent', 'authors': 'Kari Lydersen, On assignment for HuffPost', 'link': 'https://www.huffingtonpost.com/entry/chicago-participatory-budgeting_us_5a3259d1e4b07ff75b0077ad', 'short_description': 'Participatory budgeting is  democracy in action. But is it inclusive?', 'date': '2017-12-18'}

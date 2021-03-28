@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Wild Scene In Philadelphia After Eagles Win Super Bowl', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/philadelphia-eagles-fans-celebrate_us_5a77d6d4e4b01ce33eb4509c', 'short_description': 'Three people were arrested during the rowdy celebrations.', 'date': '2018-02-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Walks Back Russian Cybersecurity Pact 12 Hours After Proposing It', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-cyber-security-pact-russia_us_5962da4ae4b02e9bdb0d976e', 'short_description': 'Never mind?', 'date': '2017-07-10'}

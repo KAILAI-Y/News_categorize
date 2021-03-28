@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Jimmy Fallon Spoofs Donald Trump's 'Fake News Awards'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-donald-trump-fake-news-awards_us_5a5f03e5e4b0ee2ff32ba6c4', 'short_description': 'And the award for Most Failingest Newspaper goes to...', 'date': '2018-01-17'}

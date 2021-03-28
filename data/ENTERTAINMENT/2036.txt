@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Seth Meyers To Host 2018 Golden Globe Awards', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-golden-globes-2018_us_5a17cf1ee4b06494807392e4', 'short_description': 'He will follow Jimmy Fallon, who most recently hosted the show.', 'date': '2017-11-24'}

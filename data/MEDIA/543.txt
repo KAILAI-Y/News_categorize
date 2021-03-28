@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'The 1979 Solar Eclipse Ended With A Heartbreaking Wish For The Future', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/1979-eclipse-wish-abc-frank-reynolds_us_599a47ede4b0e8cc855e6672', 'short_description': 'Nearly 40 years ago, one TV anchor shared an optimistic hope for 2017.', 'date': '2017-08-21'}

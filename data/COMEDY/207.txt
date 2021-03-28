@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Fallon Reveals The Silliest Bets His Viewers Have Made', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-dumb-bets-viewers_us_5ab620d0e4b054d118e2fd9a', 'short_description': 'Including one that apparently ended with a “Shrimply the Best” tattoo.', 'date': '2018-03-24'}

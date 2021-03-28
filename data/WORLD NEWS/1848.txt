@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "ISIS Destroys The Mosul Mosque Where It Declared Its 'Caliphate'", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/mosul-mosque-isis-destroyed_us_594ad16ee4b0312cfb612f03', 'short_description': "The Grand al Nuri mosque, built in the 12th century, was a part of Iraq's cultural heritage.", 'date': '2017-06-21'}

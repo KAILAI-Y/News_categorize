@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Jada Pinkett Smith And Gabrielle Union End Feud After 17 Years', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jada-pinkett-smith-gabrielle-union-feud_us_5aec363be4b041fd2d257f8d', 'short_description': '"We haven\'t really been on the best of terms," Pinkett Smith said.', 'date': '2018-05-04'}

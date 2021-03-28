@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'California Health Officials Advise Caution Against Cellphone Radiation', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/california-cellphone-radiation-guidelines_us_5a377f55e4b0ff955ad4509c', 'short_description': 'New guidelines advise people to keep phones "away from the body."', 'date': '2017-12-18'}

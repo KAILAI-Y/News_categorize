@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Masterclass Parody 'How To Be A Family' Hits Hilariously Close To Home", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/masterclass-parody-how-to-be-a-family_us_5a2d6ad4e4b0a290f0518cea', 'short_description': "Funny or Die's instructional video shows awkward family dynamics in all their glory.", 'date': '2017-12-10'}

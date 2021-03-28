@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Here's Every Look Worth Seeing From The CMA Awards Red Carpet", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/cmas-red-carpet_us_5a045db2e4b0937b510ffcb0', 'short_description': 'Everyone looked great. Everyone.', 'date': '2017-11-09'}

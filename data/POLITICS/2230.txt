@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senators To Investigate USA Gymnastics And U.S. Olympic Committee Over Nassar Abuse', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/senate-usa-gymnastics-nassar-abuse_us_5a7a4e5de4b06505b4e922d7', 'short_description': 'Two senators announced bipartisan support for a select committee.', 'date': '2018-02-07'}

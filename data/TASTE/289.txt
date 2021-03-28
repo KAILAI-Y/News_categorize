@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Ikea Aims To Halve Food Waste At Its Restaurants By Mid-2020', 'authors': 'Anna Ringstrom, Reuters', 'link': 'https://www.huffingtonpost.com/entry/ikea-food-waste_us_59492176e4b07499199e906a', 'short_description': "That's a whole lot of meatballs.", 'date': '2017-06-20'}

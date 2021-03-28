@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'There Was No Audio, So We Captioned The Trump And Putin Meeting', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/there-was-no-audio-so-we-captioned-the-trump-and-putin-meeting_us_595fb2f8e4b0d5b458ea0814', 'short_description': 'Shame recognize shame.', 'date': '2017-07-07'}

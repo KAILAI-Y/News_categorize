@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'George And Amal Clooney Stun In First Post-Baby Red Carpet Appearance', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/george-and-amal-clooney-stun-in-first-post-baby-red-carpet-appearance_us_59ab04e7e4b0b5e530ff1333', 'short_description': 'The couple welcomed twins just three months ago.', 'date': '2017-09-02'}

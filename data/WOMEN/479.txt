@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'This Girl Meeting Hillary Clinton In A Pantsuit Will Melt Your Heart', 'authors': 'Samantha Tomaszewski', 'link': 'https://www.huffingtonpost.com/entry/girl-meeting-hillary-clinton-pantsuit_us_59ce4ed4e4b06791bb102305', 'short_description': 'Because what else do you wear to meet your role model?', 'date': '2017-09-29'}

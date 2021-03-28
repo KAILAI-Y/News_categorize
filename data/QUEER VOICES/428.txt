@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Adam Rippon Will Be First Openly Gay U.S. Man To Compete In The Winter Olympics', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/adam-rippon-winter-olympics_us_5a53a64ee4b003133ecadc67', 'short_description': 'Being selected "feels amazing,"  the figure skater said.', 'date': '2018-01-08'}

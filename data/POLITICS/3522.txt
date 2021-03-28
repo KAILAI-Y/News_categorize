@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sen. Susan Collins 'Disappointed' That RNC Resumed Support For Roy Moore", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/susan-collins-roy-moore-disappointed-rnc_us_5a2e0d3ae4b073789f6af635', 'short_description': '"I think that\'s a mistake."', 'date': '2017-12-11'}

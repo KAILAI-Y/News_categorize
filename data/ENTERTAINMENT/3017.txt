@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jay-Z's Black ‘Friends’ Remake Is A Powerful Comment On Hollywood's Diversity Problem", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/jay-z-remakes-friends-with-all-black-cast-for-moonlight-video_us_5986073ee4b041356ec03348', 'short_description': '(CLAP, CLAP, CLAP, CLAP)', 'date': '2017-08-05'}

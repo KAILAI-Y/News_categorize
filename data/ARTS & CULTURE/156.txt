@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "J.K Rowling Delivers Strong Message To 'Cool' Guy Who Called Theresa May A 'Whore'", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/jk-rowling-delivers-strong-message-to-cool-guy-who-called-theresa-may-a-whore_us_593addefe4b0c5a35c9f05b2', 'short_description': '🔥 🔥 🔥', 'date': '2017-06-09'}

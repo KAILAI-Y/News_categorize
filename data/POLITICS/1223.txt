@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The March For Our Lives Is Proof That Generation Z Can't Be Stopped", 'authors': 'Sebastian Murdock and Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/march-for-our-lives-2018_us_5ab69787e4b008c9e5f7cf8f', 'short_description': "These kids won't settle for anything less than change.", 'date': '2018-03-24'}

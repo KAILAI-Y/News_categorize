@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Stop Envying Michelle Obama’s Pink Summer Dress And Try One Of These', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/michelle-obama-floral-dress_us_5979e982e4b02a4ebb735a0f', 'short_description': "We're here to help.", 'date': '2017-07-27'}

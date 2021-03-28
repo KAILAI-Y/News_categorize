@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Turning Point USA Keeps Accidentally Hiring Racists', 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/turning-point-usa-racist-tweets_us_5ad65b06e4b029ebe01ed1ac', 'short_description': '“I love making racist jokes,” tweeted the woman who replaced the person who wrote, “I HATE BLACK PEOPLE.”', 'date': '2018-04-25'}

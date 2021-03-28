@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Floyd Mayweather Defeats Conor McGregor By Technical Knockout In Tenth Round', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/-mayweather-defeats-mcgregor-knockout_us_59a251a6e4b05710aa5cbf87', 'short_description': '"He was a lot better than I thought he was," Mayweather said.', 'date': '2017-08-27'}

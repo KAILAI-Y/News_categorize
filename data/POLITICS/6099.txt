@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Requests $7.8 Billion From Congress For Harvey Relief', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-requests-harvey-relief-funds_us_59aa0c8ae4b0b5e530fed229', 'short_description': 'Other fund requests are expected after damages are assessed.', 'date': '2017-09-02'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Twists In The Wind As North Korea's Nuclear Capability Grows", 'authors': 'Jessica Schulberg, Akbar Shahid Ahmed, and S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-north-korea-nuclear-policy_us_595d67eae4b02e9bdb0a1fe3', 'short_description': 'The White House is facing a series of bad options.', 'date': '2017-07-06'}

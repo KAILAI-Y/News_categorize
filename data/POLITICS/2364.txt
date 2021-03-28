@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Promise On Drug Prices Looks Pretty Empty", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-state-of-the-union-drug-prices_us_5a713418e4b0be822ba16c2a', 'short_description': "He's got no ideas, and he's shown no interest in developing any.", 'date': '2018-01-31'}

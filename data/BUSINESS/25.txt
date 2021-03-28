@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'There Are Psychological Reasons Parents Are So Obsessed With Target', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/parents-target-psychology_us_5aa7fba3e4b0e872b4bf5244', 'short_description': 'Marketing experts, therapists and parents weigh in.', 'date': '2018-03-29'}

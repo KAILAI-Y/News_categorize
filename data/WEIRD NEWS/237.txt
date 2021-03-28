@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Sean Spicer Apparently Thinks 'A Christmas Carol' Is A Songbook", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-a-christmas-carol_us_5a32ca23e4b0ff955ad12ced', 'short_description': "The book is actually a story by up-and-comer Charles Dickens. Watch the name. He's going places.", 'date': '2017-12-14'}

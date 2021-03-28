@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Watch Some Of Sean Spicer's Most Memorable Moments As Press Secretary", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-greatest-hits_us_59723cade4b00e4363df3cc1', 'short_description': 'In just six months, his White House briefings became must-see TV.', 'date': '2017-07-21'}

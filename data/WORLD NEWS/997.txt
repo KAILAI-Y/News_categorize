@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'As Trump Bashes Iran Deal, European Leaders Stand Up To Defend It', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/trump-iran-deal-european-union_us_59dfbc09e4b03a7be57f3334', 'short_description': 'The president has announced he is decertifying the landmark agreement.', 'date': '2017-10-13'}

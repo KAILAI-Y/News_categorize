@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Neil Patrick Harris On Raising Honest, Compassionate Children', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/neil-patrick-harris-parenting_us_5a173e4fe4b0d4906cadeb2e', 'short_description': 'The actor spoke to HuffPost about parenting and his new book for young readers.', 'date': '2017-11-29'}

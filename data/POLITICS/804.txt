@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Reportedly Plans To Pardon Scooter Libby', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-pardon-scooter-libby_us_5ad05dcbe4b0edca2cb859e2', 'short_description': "Libby was charged in an investigation into who leaked a covert CIA agent's identity to journalists.", 'date': '2018-04-13'}

@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'YouTube Quietly Escalates Crackdown On Firearm Videos', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/youtube-gun-videos-restrictions-policies_us_5ab36780e4b0decad046cb83', 'short_description': 'The video site is expanding restrictions following the Florida massacre.', 'date': '2018-03-22'}

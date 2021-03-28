@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Launches Infrastructure Week With Bridge Burning', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/trump-launches-infrastructure-week-with-bridge-burning_us_5935cfbde4b013c4816a5bea', 'short_description': 'Taking the express train to Jerk Town', 'date': '2017-06-05'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Harvey Weinstein And The Danger Of Performative 'Wokeness'", 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/harvey-weinstein-and-the-danger-of-performative-wokeness_us_59d6b43be4b0f6eed34f421e', 'short_description': 'Being a public progressive doesn’t preclude you from being a private creep.', 'date': '2017-10-06'}

@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Ellen DeGeneres And Sean Hayes Have A 'Battle Of The Gays'", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/ellen-degeneres-sean-hayes-gay-battle_us_5aa94f14e4b0004c04068791', 'short_description': 'The two stars exchanged (friendly) jabs over their respective LGBTQ legacies.', 'date': '2018-03-14'}

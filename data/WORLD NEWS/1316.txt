@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Service Member Missing After U.S. Black Hawk Helicopter Crashes Off Yemen', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/helicopter-crash-yemen_us_59a1696be4b05710aa5c7ccb', 'short_description': 'Five other service members aboard the aircraft had been rescued after the crash.', 'date': '2017-08-26'}

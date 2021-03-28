@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Few Republicans Acknowledged Trump's 'Shithole' Slur", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/republicans-trump-shithole_us_5a5815b4e4b02cebbfda6179', 'short_description': 'The president had reportedly been complaining about immigrants from Haiti, El Salvador and other countries.', 'date': '2018-01-12'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Guns N' Roses' Axl Rose Gets Woke Over Devin Nunes; Twitter Roars", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/axl-rose-tweet-nunes_us_5a62d008e4b0dc592a08e8d5', 'short_description': "All's fair in rock and politics.", 'date': '2018-01-20'}

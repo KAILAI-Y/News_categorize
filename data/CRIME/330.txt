@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Toronto Father Shocked By Racist Message On His SUV: 'Go Back To China'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/toronto-racist-paint-suv_us_598ca25fe4b09071f6985071', 'short_description': "The victim, a Canadian citizen originally from Hong Kong, said he's moving.", 'date': '2017-08-10'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hong Kong Bus Crash Leaves At Least 18 Dead', 'authors': 'Bobby Yip, Reuters', 'link': 'https://www.huffingtonpost.com/entry/hong-kong-bus-crash_us_5a7f1c78e4b044b3821dde7f', 'short_description': 'Dozens more were injured, with some bleeding on the highway.', 'date': '2018-02-10'}

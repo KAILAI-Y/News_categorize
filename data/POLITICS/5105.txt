@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Denies NBC Report That He Asked For Tenfold Increase In Nukes', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-denies-nbc-report-nuclear_us_59de212ae4b04fc4e1ea4c70', 'short_description': '"Pure fiction, made up to demean," he tweeted.', 'date': '2017-10-11'}

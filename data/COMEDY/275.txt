@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher Brutally Dissects The Trump Administration's Week Of Chaos", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-donald-trump-week_us_5a9a4dc4e4b0a0ba4ad38e5f', 'short_description': '"All this chaos makes it very difficult for the NRA to run the country."', 'date': '2018-03-03'}

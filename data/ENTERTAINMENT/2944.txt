@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Walking Dead' Star Jon Bernthal's New Movie Leaves One Lingering Question", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/walking-dead-star-jon-bernthals-new-movie-leaves-one-lingering-question_us_598cc22de4b08a2472734097', 'short_description': "Shane's baaaccck.", 'date': '2017-08-11'}

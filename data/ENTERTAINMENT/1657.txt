@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "What Really Happened To Luke At The End Of 'Star Wars: The Last Jedi'", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/star-wars-last-jedi-ending_us_5a4e2de6e4b06d1621bd7ebc', 'short_description': "This is the explanation you're looking for.", 'date': '2018-01-06'}

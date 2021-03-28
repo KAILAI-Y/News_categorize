@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Why Is Santa Such A Total Jerk In 'Rudolph The Red-Nosed Reindeer'?", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/santa-claus-rudolph-jerk_us_5a1e63dae4b0d724fed4acca', 'short_description': "He's really not that jolly.", 'date': '2017-11-29'}

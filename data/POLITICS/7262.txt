@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Read The Latest Updates On The Senate Health Care Vote', 'authors': 'Sara Bondioli', 'link': 'https://www.huffingtonpost.com/entry/senate-health-care-vote_us_5977708de4b0a8a40e82cdd4', 'short_description': 'Senate Majority Leader Mitch McConnell is moving ahead with the issue.', 'date': '2017-07-25'}

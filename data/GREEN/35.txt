@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Baby Elephants Fend Off Myanmar Cold Spell With Homemade Blankets', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/elephants-myanmar-homemade-blankets_us_5a4052b6e4b06d1621b5082b', 'short_description': "Yeah, it's as adorable as it sounds.", 'date': '2017-12-25'}

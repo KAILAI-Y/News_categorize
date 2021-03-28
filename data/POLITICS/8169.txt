@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: What The Senate Health Care Bill Could Mean For You", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-what-the-senate-health-care-bill-could-mean-for-you_us_594cf540e4b02734df29c42f', 'short_description': 'And your deductible.', 'date': '2017-06-23'}

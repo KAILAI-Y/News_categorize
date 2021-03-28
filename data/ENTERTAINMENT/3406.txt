@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Josh Brolin Is Getting Seriously Buff For 'Deadpool 2'", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/josh-brolin-is-getting-seriously-buff-for-deadpool-2_us_593fb827e4b0e84514ee0c2d', 'short_description': '"Discipline results in always surprising milestones."', 'date': '2017-06-13'}

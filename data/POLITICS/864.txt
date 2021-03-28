@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's A Poll Trump Won't Tweet: He Finished Behind Obama In 'Most Admired' Survey", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/trump-obama-most-admired-survey_us_5aceee73e4b08337adc96c60', 'short_description': '...but he did beat Obama in Russia.', 'date': '2018-04-12'}

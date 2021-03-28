@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Judge Denies Bill Cosby's Request For A Mistrial After Accuser Has Outburst In Court", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/bill-cosby-mistrial-denied_us_5acf71fde4b0d70f012ec8b5', 'short_description': 'He gave Chelan Lasha a warning and told jurors to disregard her comment.', 'date': '2018-04-12'}

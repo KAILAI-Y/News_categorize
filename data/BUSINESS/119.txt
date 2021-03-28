@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Hawaii Developer Under Fire For Segregated 'Poor Door' For Renters", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/poor-door-planned-for-hawaii-high-rise_us_5a234729e4b03c44072e06ee', 'short_description': 'The controversial entrance has been proposed across the country.', 'date': '2017-12-03'}

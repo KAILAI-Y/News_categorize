@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Irked Trump Reportedly Warned Putin: We'd Win The Arms Race", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-putin-arms-race_us_5abd6a40e4b0f112dc9afed1', 'short_description': '“If you want to have an arms race, we can do that," Trump told the Russian leader, according to NBC News.', 'date': '2018-03-30'}

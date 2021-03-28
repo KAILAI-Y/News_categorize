@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kendrick Lamar Wants To Play A Villain In The Next 'Black Panther'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/kendrick-lamar-villain-black-panther_us_5a93242ae4b03b55731d5808', 'short_description': 'The rapper is already conquering the music world.', 'date': '2018-02-25'}

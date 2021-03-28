@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "California Is On Fire. Here's How You Can Help.", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/how-to-help-california-fire-victims_us_59de4567e4b0eb18af057ea7', 'short_description': 'The death toll is up to 41, and around 40,000 people have been evacuated.', 'date': '2017-10-11'}

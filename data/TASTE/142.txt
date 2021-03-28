@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'This Hotel Offers The Ultimate In Sweet Dreams: A 10-Pound Doughnut', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/10-pound-donut-marriot-hotel_us_59b98e45e4b0edff9718d80a', 'short_description': 'The prodigious pastry is equivalent to 95 normal-sized doughnuts', 'date': '2017-09-13'}

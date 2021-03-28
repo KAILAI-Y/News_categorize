@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'America Wins Its Third Roller Derby World Cup In A Row', 'authors': 'David Moye and Damon Dahlen', 'link': 'https://www.huffingtonpost.com/entry/roller-derby-world-cup_us_5a78ad5ee4b0d3df1d143d90', 'short_description': 'The U.S. team rolled over the competition.', 'date': '2018-02-06'}

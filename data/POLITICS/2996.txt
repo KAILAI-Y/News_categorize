@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Feud Is Putting Steve Bannon’s Favored Primary Candidates In A Bind', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/steve-bannon-gop-primaries_us_5a4d770ee4b0b0e5a7aada5b', 'short_description': 'The difficulty of standing on the right side of the right.', 'date': '2018-01-04'}

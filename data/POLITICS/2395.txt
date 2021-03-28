@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hundreds To Protest Potential Safety Net Cuts At GOP Retreat', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/protest-safety-net-west-virginia-gop-retreat_us_5a7232eee4b09a544b562b34', 'short_description': 'Activists want to put a human face on public assistance.', 'date': '2018-01-31'}

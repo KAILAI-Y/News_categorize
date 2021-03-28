@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Stephen King Needed A Laugh. Twitter Picked Him Up In A Big Way.', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-king-twitter-joke_us_5a72b1d7e4b0bf6e6e21a84f', 'short_description': 'Some of these jokes are scary funny.', 'date': '2018-02-01'}

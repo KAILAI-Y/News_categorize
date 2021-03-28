@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Republicans Warned Secret Memo Would Be 'Worse Than Watergate.' It's Not.", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/republicans-memo-watergate_us_5a74a865e4b0905433b3edf7', 'short_description': 'Much of the memo’s contents were already public information.', 'date': '2018-02-02'}

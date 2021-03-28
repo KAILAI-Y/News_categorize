@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Catalan Leader Backs Down From Declaring Immediate Independence From Spain', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/catalonia-declares-independence_us_59d4e1e8e4b06226e3f51183', 'short_description': 'President Carles Puigdemont requested more time for negotiations.', 'date': '2017-10-10'}

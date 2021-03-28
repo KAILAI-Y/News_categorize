@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Says The Boy Scouts Called Him To Praise His Speech. The Group Says It Didn't.", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/trump-boy-scouts-speech-wsj_us_5980e465e4b02b36343e94dd', 'short_description': "The president's politically charged speech drew intense criticism.", 'date': '2017-08-01'}

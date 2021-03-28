@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'These Last-Minute Gifts On Amazon Will Satisfy Anyone On Your Shopping List', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/last-minute-gifts-on-amazon_us_5a37f1b1e4b040881bece695', 'short_description': "And they'll arrive just in time.", 'date': '2017-12-18'}

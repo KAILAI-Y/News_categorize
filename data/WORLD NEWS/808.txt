@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Satellite Images Indicate North Korea Is Working On A Ballistic Missile Submarine', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/north-korea-ballistic-missile_us_5a0e3b43e4b045cf437083f1', 'short_description': 'The images suggest Pyongyang is on an "aggressive schedule" to build the ship.', 'date': '2017-11-17'}

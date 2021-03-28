@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Moonlight' Director Still Hasn't Gotten Over Last Year's Oscars Mix-Up", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/barry-jenkins-moonlight-oscar-win_us_5a956644e4b01f65f59a7748', 'short_description': 'Barry Jenkins says the history-making gaffe "made 2017 a very long year."', 'date': '2018-02-27'}

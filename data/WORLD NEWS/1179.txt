@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Explosion Rocks London Tube Station, Sending Commuters Into Panic', 'authors': 'Willa Frej and Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/explosion-london-tube_us_59bb80f9e4b086432b05edca', 'short_description': 'Police were investigating the incident as terror.', 'date': '2017-09-15'}

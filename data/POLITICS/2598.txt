@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Shutdown Stalemate As Immigration Negotiations Break Down', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/shutdown-stalemate-immigration_us_5a638bf9e4b0e563007029cc', 'short_description': 'We could be here for a minute.', 'date': '2018-01-20'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Reportedly Uses Private Cell Phone More Often Amid Kelly's Waning Influence", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-personal-cell-phone_us_5adebcbbe4b0b2e81132a499', 'short_description': '“This is potentially a gold mine of intelligence," James Clapper said.', 'date': '2018-04-24'}

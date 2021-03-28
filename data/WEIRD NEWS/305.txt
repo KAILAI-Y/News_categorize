@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Cockatoos Chewing Up Australia's Broadband Network", 'authors': 'Paul Tait, Reuters', 'link': 'https://www.huffingtonpost.com/entry/cockatoos-cable-australia_us_59fcd371e4b04cdbeb3337ee', 'short_description': 'Polly wants a cable connection?', 'date': '2017-11-03'}

@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Meet The Man Who Temporarily Deleted Trump's Twitter Account", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/bahtiyar-duysak-donald-trump-twitter_us_5a1f467ce4b0a8581e67dc2b', 'short_description': 'The former employee who had shut down The Donald for 11 minutes says he loves Twitter and America.', 'date': '2017-11-30'}

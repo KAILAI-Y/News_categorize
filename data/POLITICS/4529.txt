@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Twitter Should Purge Trump’s Account Of Millions Of Fake Followers', 'authors': 'Robert Stribley, ContributorWriter, Brooklyn', 'link': 'https://www.huffingtonpost.com/entry/purge-trumps-bots_us_59fc653ce4b09afdf01c4204', 'short_description': 'More than 300,000 follow only Trump on Twitter.', 'date': '2017-11-03'}

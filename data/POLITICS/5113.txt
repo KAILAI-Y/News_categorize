@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'France’s Biggest Bank Becomes The First To Cut Off Funding For Natural Gas Fracking', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/bnp-paribas-fracking_us_59de7f41e4b00abf3646192f', 'short_description': 'But BNP Paribas is leaving loopholes open.', 'date': '2017-10-11'}

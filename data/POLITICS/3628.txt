@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Era Of Walls', 'authors': "Todd Miller, ContributorAuthor, 'Storming the Wall: Climate Change, Migration, and Hom...", 'link': 'https://www.huffingtonpost.com/entry/the-era-of-walls_us_5a29a6b6e4b073789f68440a', 'short_description': 'Greeting climate-change victims with a man-made dystopia.', 'date': '2017-12-07'}

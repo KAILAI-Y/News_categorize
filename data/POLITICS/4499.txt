@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report: 6 Florida Women Accuse State Senator Of Sexual Harassment', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/florida-jack-latvala-sexual-harassment_us_59fd0a33e4b0baea2631d561', 'short_description': 'Jack Latvala denies the allegations and threatens legal action against Politico.', 'date': '2017-11-04'}

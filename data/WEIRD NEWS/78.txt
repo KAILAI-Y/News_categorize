@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Possibly Tipsy Man Loves Cheap Costco Beer So Much, He Made A Commercial For It', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/randy-colpek-costco-beer_us_5ac529b7e4b09ef3b2431f59', 'short_description': 'Though he later said "all cheap beer is pretty much the same."', 'date': '2018-04-04'}

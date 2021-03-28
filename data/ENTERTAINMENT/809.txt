@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Turns Out Ben Affleck's Massive Back Tattoo Is Indeed Real", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/ben-affleck-back-tattoo-real_us_5aafcb5ae4b0e8623839af28', 'short_description': 'The actor previously claimed the colorful phoenix was "fake for a movie."', 'date': '2018-03-19'}

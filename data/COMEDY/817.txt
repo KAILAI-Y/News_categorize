@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Yes! We Have No Steve Bannon' Strikes A Funny Chord In Song Spoof", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/yes-we-have-no-steve-bannon-strikes-a-funny-chord-in-song-spoof_us_599c6baae4b04c532f44cf88', 'short_description': 'Randy Rainbow does it again.', 'date': '2017-08-22'}

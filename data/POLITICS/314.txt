@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Conservative Senate Democrat Who Backs Trump’s Agenda Defeats Progressive Challenger', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/joe-manchin-wins_us_5ad8e422e4b029ebe022348f', 'short_description': 'Sen. Joe Manchin of West Virginia has voted with Trump 61 percent of the time.', 'date': '2018-05-09'}

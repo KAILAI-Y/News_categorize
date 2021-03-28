@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Anti-Nuke Organization ICAN Wins 2017 Nobel Peace Prize', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/2017-nobel-peace-prize-ican_us_59d71ec1e4b072637c4327ba', 'short_description': 'The group was honored for its "ground-breaking efforts to achieve a treaty-based prohibition of such weapons."', 'date': '2017-10-06'}

@@ -1,0 +1,1 @@
+{'category': 'COLLEGE', 'headline': 'When ICE Comes Calling In The Ivy League', 'authors': 'Center for Community Change Action, ContributorSocial justice organization', 'link': 'https://www.huffingtonpost.com/entry/when-ice-comes-calling-in-the-ivy-league_us_59f23575e4b06ae9067ab748', 'short_description': 'We must resist.', 'date': '2017-10-26'}

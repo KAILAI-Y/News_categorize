@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '10 Things ISPs Could Do To Actually Support Net Neutrality', 'authors': 'Craig Aaron and Candace Clement, Contributors', 'link': 'https://www.huffingtonpost.com/entry/10-things-isps-could-do-to-actually-support-net-neutrality_us_5966268de4b03f144e2f89aa', 'short_description': 'For a start, stop lying.', 'date': '2017-07-12'}

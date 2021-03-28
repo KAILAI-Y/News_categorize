@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Rudy Giuliani Can't Figure Out AirPods In Priceless Picture", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/rudy-giuliani-airpods_us_5abb3552e4b03e2a5c7749a1', 'short_description': 'Former New York City mayor is struggling with his tech.', 'date': '2018-03-28'}

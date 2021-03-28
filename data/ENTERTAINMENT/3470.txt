@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Alec Baldwin Tweets Advice To Under-Fire Kathy Griffin', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwin-kathy-griffin-donald-trump_us_593287b3e4b0c242ca24637a', 'short_description': '"Ignore him. Like the leaders of all the other countries in the world. Ignore him."', 'date': '2017-06-03'}

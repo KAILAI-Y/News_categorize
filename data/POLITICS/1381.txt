@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Cynthia Nixon Announces Run For New York Governor', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/cynthia-nixon-runs-new-york-governor_us_5a9ef285e4b0d4f5b66b1987', 'short_description': 'Nixon will be running against incumbent Gov. Andrew Cuomo in the state primary.', 'date': '2018-03-19'}

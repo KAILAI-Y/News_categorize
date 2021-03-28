@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Intruder Scare In Sean Hannity's Home Leads To Arrest", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/intruder-scare-in-sean-hannitys-home-leads-to-an-arrest_us_5a97cd84e4b0e6a52304e3f2', 'short_description': "The Fox News host's wife was there at the time.", 'date': '2018-03-01'}

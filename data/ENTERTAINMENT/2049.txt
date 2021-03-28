@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Maybe Ridley Scott Should’ve Read This Memoir Before Replacing Spacey With Plummer', 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/christopher-plummer-kevin-spacey-memoir_us_5a15951fe4b03dec824975f2', 'short_description': 'Everyone is terrible, even Captain von Trapp.', 'date': '2017-11-23'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration Moves To Keep Full CIA Torture Report A Secret', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/cia-torture-report-secret_us_5931ac72e4b075bff0f31b90', 'short_description': 'A declassified executive summary of the report was made public in December 2014.', 'date': '2017-06-02'}

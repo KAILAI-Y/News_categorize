@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Last Known Person Born In The 19th Century Dies At Age 117', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/nabi-tajima-dies_us_5adcca8be4b089e33c8923b7', 'short_description': "Nabi Tajima, born roughly 14 years before World War I began, was believed to be the world's oldest person.", 'date': '2018-04-22'}

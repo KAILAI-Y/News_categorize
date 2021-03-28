@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ben Carson Cancels $31,000 Furniture Order After Ethics Questions', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/ben-carson-31000-dining-set_us_5a984029e4b0479c025059ae', 'short_description': 'The HUD secretary claimed he "was as surprised as anyone to find out" about the lavish purchase.', 'date': '2018-03-01'}

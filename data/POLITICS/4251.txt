@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Doug Jones Alludes To Roy Moore Sexual Misconduct Scandal In New Ad', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/doug-jones-ad-roy-moore_us_5a0af928e4b00a6eece43002', 'short_description': '"You read the story and it just shakes you."', 'date': '2017-11-14'}

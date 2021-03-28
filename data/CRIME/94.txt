@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Suspected Austin Bomber Dead In Confrontation With Police', 'authors': 'Andy Campbell, Roque Planas, Willa Frej, and Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/austin-bomber-arrested_us_5ab213fbe4b008c9e5f2ac16', 'short_description': 'The suspect has been identified as 23-year-old Mark Anthony Conditt.', 'date': '2018-03-21'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Nation’s Top Teachers Confront Betsy DeVos In Private Meeting', 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/betsy-devos-top-teachers_us_5ae79725e4b055fd7fcef147', 'short_description': 'Teachers say they left the meeting disappointed and frustrated.', 'date': '2018-05-01'}

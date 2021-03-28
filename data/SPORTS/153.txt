@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Fergie's National Anthem Attempt Slammed As The 'Worst Rendition Ever'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/fergie-national-anthem_us_5a8a8bede4b004fc3193dd77', 'short_description': 'She attempted to put a jazz spin on "The Star-Spangled Banner."', 'date': '2018-02-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What Went Wrong With The Police Response In Charlottesville', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/charlottesville-police-response_us_5991de97e4b090964298e5bc', 'short_description': 'Officers failed a primary duty of keeping the peace, say law enforcement experts and attendees.', 'date': '2017-08-14'}

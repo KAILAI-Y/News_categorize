@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tweeters Lose It After Sean Hannity's Account Mysteriously Goes Down", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-twitter-account-vanished_us_5a6c3f22e4b01fbbefb20b87', 'short_description': '"I can finally say happy new year again!"', 'date': '2018-01-27'}

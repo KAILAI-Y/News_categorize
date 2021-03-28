@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Violence, Protests Mar Kenya's Election Rerun", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/kenya-election-rerun_us_59f1e9aae4b07d838d32980e', 'short_description': 'Around 50 people have been killed, mostly by security forces, since the original Aug. 8 vote.', 'date': '2017-10-26'}

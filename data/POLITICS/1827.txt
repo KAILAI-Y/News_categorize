@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'West Virginia Governor Tells Striking Teachers To Get Back In The Classroom', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/jim-justice-striking-teachers_us_5a947fb7e4b01f65f59953bb', 'short_description': 'But teachers say the strike continues.', 'date': '2018-02-27'}

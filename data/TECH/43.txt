@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Facebook Reportedly Beta-Testing 'Downvote' Button", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/facebook-downvote-button_us_5a7cdd64e4b044b3821b7fe4', 'short_description': 'Selected users now have the option to flag posts to Facebook.', 'date': '2018-02-09'}

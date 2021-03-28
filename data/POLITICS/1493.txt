@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '7,000 Pairs Of Shoes On Capitol Lawn Are Powerful Nod To Gun Violence', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/shoes-capitol-gun-violence_us_5aa8de37e4b0f7a689cdc4e6', 'short_description': 'They are meant to represent the number of children killed in shootings since Sandy Hook.', 'date': '2018-03-14'}

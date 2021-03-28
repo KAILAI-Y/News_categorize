@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'UPDATE: Elon Musk To Stop Advising Trump As U.S. Departs Paris Climate Accord', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/elon-musk-leave-trump-council-paris-agreement_us_592f0501e4b0e09b11ed0722', 'short_description': 'Musk previously said he had "no choice" in the matter.', 'date': '2017-05-31'}

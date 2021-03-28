@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Is His Own Worst Spokesman, Americans Say In Poll', 'authors': 'Ariel Edwards-Levy and Grace Sparks', 'link': 'https://www.huffingtonpost.com/entry/trump-is-his-own-worst-spokesman-americans-say_us_592eecc7e4b09ec37c30eccc', 'short_description': 'And more of the latest polling news.', 'date': '2017-05-31'}

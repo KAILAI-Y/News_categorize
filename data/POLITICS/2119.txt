@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Virginia Democrats Score A Surprising Win Against Powerful Utility Monopoly', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/virginia-democrats-score-surprising-win-against-utility-monopoly_us_5a8266eae4b0892a0352426d', 'short_description': 'The GOP majority was evidently unprepared.', 'date': '2018-02-13'}

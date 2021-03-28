@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "This 159-Foot Lobster Roll Is A Seafood Lover's Dream Come True", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/this-159-foot-lobster-roll-is-a-seafood-lovers-dream-come-true_us_594bc9bde4b0a3a837bd777d', 'short_description': 'It took more than 200 pounds of lobster salad to make.', 'date': '2017-06-22'}

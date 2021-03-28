@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "McDonald's Says Its Packaging Will Be 100 Percent Green By 2025", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/mcdonalds-vows-all-green-packaging-goal_us_5a5f95bde4b054e35176b509', 'short_description': 'All of its restaurants will also feature recycling bins.', 'date': '2018-01-17'}

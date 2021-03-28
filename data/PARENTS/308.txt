@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Adorable Dad Ships Sliced Mangos To Daughter After She Forgot Them At Home', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/dad-mails-mango-to-daughters-college_us_59bc56bae4b086432b074db7', 'short_description': 'The college student received the mangoes "cut, packaged and shipped with love."', 'date': '2017-09-17'}

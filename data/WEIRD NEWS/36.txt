@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Pizza Rat Has Returned. Or Has He?', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/pizza-rat-returns_us_5ae8bd56e4b04aa23f27a36e', 'short_description': '“Pizza Iguana,” “Taco Squirrel,” and "Bagel Pigeon” were unavailable for comment.', 'date': '2018-05-01'}

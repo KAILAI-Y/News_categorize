@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Puerto Rico Plans To Have The Lights Back On By December -- At The Earliest', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/puerto-rico-electricity-hurricane_us_59e4c0cde4b03a7be582269e', 'short_description': 'As of Friday, 83 percent of the hurricane-battered island was without electricity.', 'date': '2017-10-16'}

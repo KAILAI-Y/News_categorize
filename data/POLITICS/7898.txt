@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Obama Photographer Reminds America What Presidents Should Be 'Fighting' For", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/obama-fought-for-healtcare-photog-says_us_595917fde4b02734df32fdc6', 'short_description': '👊', 'date': '2017-07-02'}

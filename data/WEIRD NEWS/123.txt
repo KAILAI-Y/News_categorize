@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'News Anchor Has To Wing It When Pink Bird Flies On Her Head', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/nichelle-medina-pink-bird-on-head_us_5a94513ae4b01f65f599075b', 'short_description': 'This is one bird-brained blooper.', 'date': '2018-02-26'}

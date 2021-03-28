@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Sheryl Sandberg: Russian Targeting On Facebook 'Should Not Have Happened'", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/sheryl-sandberg-facebook-russia_us_59df411be4b00abf3646811d', 'short_description': 'Facebook owes America an apology, she said.', 'date': '2017-10-12'}

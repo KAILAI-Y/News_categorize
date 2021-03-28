@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "How Kate Winslet And Leo DiCaprio Used 'Titanic' To Help A Cancer Patient", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/kate-winslet-leo-dicaprio-cancer-patient_us_5a79f3dae4b0d0ef3c09f71b', 'short_description': '"You saved my life," Gemma Nuttall told Winslet.', 'date': '2018-02-06'}

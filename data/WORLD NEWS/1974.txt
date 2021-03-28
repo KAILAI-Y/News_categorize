@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Theresa May Secures Deal With Northern Ireland's DUP To Prop Up Government", 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/theresa-may-northern-ireland-dup-brexit_us_593a9a80e4b0b13f2c699e88', 'short_description': "Here's what you need to know about the Democratic Unionist Party.", 'date': '2017-06-09'}

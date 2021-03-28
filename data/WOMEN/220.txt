@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'The 20 Funniest Tweets From Women This Week', 'authors': 'Hollis Miller', 'link': 'https://www.huffingtonpost.com/entry/the-20-funniest-tweets-from-women-this-week_us_5a567644e4b03bc4d03d9ebb', 'short_description': '"I just got an extra 10 minutes of resistance training trying to take off my sports bra."', 'date': '2018-01-12'}

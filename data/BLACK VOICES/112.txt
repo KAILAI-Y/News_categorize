@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Video Shows Police Tackling, Punching Naked Black Harvard Student', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/video-shows-police-tackling-punching-black-harvard-student_us_5ad606c6e4b016a07ea0d341', 'short_description': 'He was punched five times, police report.', 'date': '2018-04-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How Secretary Tillerson Can Right The State Department', 'authors': 'Jacob J. Lew and Thomas R. Nides, Contributors', 'link': 'https://www.huffingtonpost.com/entry/rex-tillerson-state-department_us_5a3dd894e4b0b0e5a7a2312e', 'short_description': 'He would do well to take a page from our former boss.', 'date': '2017-12-23'}

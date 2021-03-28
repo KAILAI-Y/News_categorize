@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Fox & Friends' Flubs Jared Kushner's Name, Calls Him 'Jared Kosher'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/fox-friends-flubs-jared-kushners-name-calls-him-jared-kosher_us_5966604ae4b0a8d46d116751', 'short_description': '"Bit of a Freudian slip over at Fox today."', 'date': '2017-07-12'}

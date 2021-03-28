@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'John McCain Slams Wealthy Draft Dodgers In Apparent Swipe At Trump', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/john-mccain-vietnam-draft_us_59ed46a6e4b0958c4682d1e8', 'short_description': '"If we\'re going to ask every American to serve, every American should serve.”', 'date': '2017-10-23'}

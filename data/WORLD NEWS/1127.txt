@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Now I Know What Fear Is', 'authors': 'Nelly Acosta Vázquez, ContributorCollaborator, science and technology journalist', 'link': 'https://www.huffingtonpost.com/entry/now-i-know-what-fear-is_us_59c3a6d3e4b063b253183b84', 'short_description': 'Everywhere I looked on my way home, someone was asking for help.', 'date': '2017-09-21'}

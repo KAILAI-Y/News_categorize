@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'This Democrat Just Became The Longest-Serving Woman In The House', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/marcy-kaptur-longest-serving_us_5aae6f6ee4b05b2217ff9be1', 'short_description': 'Rep. Marcy Kaptur (D-Ohio) was sworn into office more than 35 years ago.', 'date': '2018-03-18'}

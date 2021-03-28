@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Caitlyn Jenner Reportedly Now Detests Donald Trump, Apologizes For Wearing MAGA Hat', 'authors': 'Noah Michelson', 'link': 'https://www.huffingtonpost.com/entry/caitlyn-jenner-detests-donald-trump_us_5985affbe4b041356ebffb87', 'short_description': '"What he\'s doing to our community is absolutely f***ing awful."', 'date': '2017-08-05'}

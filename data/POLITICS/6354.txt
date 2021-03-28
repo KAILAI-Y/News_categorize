@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Sen. Bernie Sanders Slams Trump At Town Hall: 'There Are No Nice Nazis'", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-trump-no-nice-nazis_us_599d08c0e4b0a296083ae2e4', 'short_description': '"We have a president who was equivocal," he says in Detroit.', 'date': '2017-08-23'}

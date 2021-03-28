@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Kevin Durant Slam-Dunking In Super Slow Motion Is A Thing Of Real Beauty', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kevin-durant-slow-mo-guys-dunking-video_us_5a7ac9f1e4b0d0ef3c0aec31', 'short_description': "It's as if the Golden State Warriors star is walking on air.", 'date': '2018-02-07'}

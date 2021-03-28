@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Hero Firefighter Slides Onto Thin Ice To Rescue Dog Who Fell Through', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/dog-rescue-frozen-creek_us_5a25037be4b03c44072e786f', 'short_description': 'Doggone lucky!', 'date': '2017-12-04'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Lock Him Up', 'authors': "Ann Jones, ContributorAuthor, 'They Were Soldiers: How the Wounded Return From Ameri...", 'link': 'https://www.huffingtonpost.com/entry/lock-him-up_us_59d3c4eae4b0218923e598a6', 'short_description': 'For women in America, justice is in short supply.', 'date': '2017-10-03'}

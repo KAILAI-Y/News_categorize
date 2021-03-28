@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "It's Hard To Know Exactly What's Happening To Myanmar's Rohingya. So They Found Me.", 'authors': 'Wudan Yan', 'link': 'https://www.huffingtonpost.com/entry/rohingya-social-media_us_5a2989d0e4b03ece0300f73b', 'short_description': 'How social media provides a window into a human rights crisis.', 'date': '2017-12-15'}

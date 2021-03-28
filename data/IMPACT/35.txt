@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'This German Teen Is Leading A Global Plan To Plant A Trillion Trees', 'authors': 'John Vidal, On assignment for HuffPost', 'link': 'https://www.huffingtonpost.com/entry/tree-planting-felix-finkbeiner_us_5ab3b850e4b0decad0478b8c', 'short_description': 'Felix Finkbeiner, 19, has already planted 15 billion saplings.', 'date': '2018-03-27'}

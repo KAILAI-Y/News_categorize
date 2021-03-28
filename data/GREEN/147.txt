@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'California Bans Pet Shop Sales Of Non-Rescue Cats, Dogs And Rabbits', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/california-pet-store-ban-puppies-kittens-cats-dogs-rabbits_us_59e216b2e4b0a52aca183fa3', 'short_description': "It's the first U.S. state to do so.", 'date': '2017-10-14'}

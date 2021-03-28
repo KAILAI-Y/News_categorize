@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Julia Louis-Dreyfus' 'Veep' Costars Go Full 'Rocky' On Her Cancer", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/julia-louis-dreyfus-veep-costars-psyche-chemo-treatment_us_5a057034e4b0e37d2f36e3df', 'short_description': '"It worked. I\'m psyched AF."', 'date': '2017-11-10'}

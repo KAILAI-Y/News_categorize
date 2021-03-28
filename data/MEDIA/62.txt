@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Sinclair Broadcast Boss Donated To GOP Rep Who Assaulted Reporter', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/sinclair-donated-greg-gianforte_us_5ad7140ce4b029ebe01f6375', 'short_description': 'The local TV news giant is making no effort to conceal its conservative bias.', 'date': '2018-04-18'}

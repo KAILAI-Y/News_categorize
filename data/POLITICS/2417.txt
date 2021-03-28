@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Administration Signals It Is Not Imposing New Sanctions On Russia', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-admin-russia-sanctions_us_5a6fba5de4b05836a255df52', 'short_description': 'Members of Congress pushed for new sanctions to punish Moscow for interference in the election.', 'date': '2018-01-30'}

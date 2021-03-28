@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Funny Or Die Cut Trump Into 'Handmaid's Tale,' And He Fits In Perfectly", 'authors': 'Katherine Brooks', 'link': 'https://www.huffingtonpost.com/entry/trump-handmaids-tale-funny-or-die_us_5935c22be4b0099e7fae70a5', 'short_description': 'This was far too easy.', 'date': '2017-06-05'}

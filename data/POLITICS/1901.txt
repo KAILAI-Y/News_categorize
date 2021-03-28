@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The ATF Is Getting Crushed Under The Weight Of The Gun Industry', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/atf-gun-industry_us_5a8dc6ece4b0273053a737dd', 'short_description': "As American gun sales and manufacturing have exploded, the ATF's budget and capabilities have remained stagnant.", 'date': '2018-02-23'}

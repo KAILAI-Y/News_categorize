@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Alec Baldwin Takes Feud With Trump Up Another Notch', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwin-donald-trump-twitter-feud_us_5aa7b3cde4b03c9edfaf8172', 'short_description': 'Expect a reply from the president any time now.', 'date': '2018-03-13'}

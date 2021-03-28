@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Edward Snowden: There's No One Trump Loves More Than Vladimir Putin", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/edward-snowden-trump-loves-putin_us_5b08ae41e4b0568a880b7451', 'short_description': "But don't count on Robert Mueller to nail him, the NSA whistleblower warns.", 'date': '2018-05-26'}

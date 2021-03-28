@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Spoofs Alex Jones, Offers To Be Trump's Poison Tester", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-tuck-buckford-brain-fight-trump_us_5a59cb00e4b03c418965c6b0', 'short_description': '"You\'ve gotta fight fire with fire."', 'date': '2018-01-13'}

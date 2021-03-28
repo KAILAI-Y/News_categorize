@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Senators Share Their #MeToo Sex Harassment Stories', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/us-senators-sex-harassment_us_59ed7354e4b00f08619fa18f', 'short_description': 'Sen. Elizabeth Warren said she was "chased around a desk" by a former colleague.', 'date': '2017-10-23'}

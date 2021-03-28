@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ireland's Historic Vote On Legalizing Abortion Is Haunted By Trump And Brexit", 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/irelands-historic-abortion-vote-haunted-trump-brexit_us_5b06d25ae4b05f0fc845b572', 'short_description': 'American influence could tip the referendum.', 'date': '2018-05-24'}

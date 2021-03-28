@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Photographer Takes Cute Pics Of Babies As Itty-Bitty Disney Princesses', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/photographer-takes-cute-pics-of-babies-as-itty-bitty-disney-princesses_us_59762ae7e4b0e201d576d713', 'short_description': 'Sleeping Beauty has never looked more peaceful.', 'date': '2017-07-24'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Syria's Ghouta Residents 'Wait To Die' As More Bombs Fall", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/syria-ghouta-residents-bombs_us_5a8dae74e4b03414379c9f2d', 'short_description': 'More than 300 have been killed since Sunday.', 'date': '2018-02-21'}

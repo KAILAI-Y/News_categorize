@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Tina Fey's 'Mean Girls' Musical Has Its Plastics, And An Official Release Date", 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/tina-feys-mean-girls-musical-has-its-plastics-and-an-official-release-date_us_59b00a55e4b0b5e53102b6d5', 'short_description': 'So fetch.', 'date': '2017-09-06'}

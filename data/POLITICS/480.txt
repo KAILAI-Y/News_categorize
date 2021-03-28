@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republican Food Stamp Bill Would Cut Benefits, But Not The Size Of Government', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/republican-food-stamp-bill_us_5ae9f862e4b022f71a047b9c', 'short_description': 'The legislation would plow savings into a new training program, among other things.', 'date': '2018-05-02'}

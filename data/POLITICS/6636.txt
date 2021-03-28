@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Obamacare Sabotage Could Cost America Billions, CBO Says", 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/trump-obamacare-sabotage-cbo-report_us_59932d45e4b0e789a9470748', 'short_description': 'His threat to stiff insurers would lead to higher premiums and more federal spending.', 'date': '2017-08-15'}

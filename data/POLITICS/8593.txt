@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "When It Comes To Their Private Conversations, It's Trump's Word Against Comey's", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/trump-comey-testimony_us_593af54de4b02402687920f7', 'short_description': 'One of these men is lying. Which one is more credible?', 'date': '2017-06-09'}

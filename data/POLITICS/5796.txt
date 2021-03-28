@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Did The Washington Post Break A Law When It Disciplined A Reporter Over A Jeff Bezos Op-Ed?', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/union-challenges-washington-post-jeff-bezos-op-ed_us_59bc19ede4b0edff971bdf01', 'short_description': "The Post's union thinks so.", 'date': '2017-09-15'}

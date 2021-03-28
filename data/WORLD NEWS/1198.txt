@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Massive Protests In French Cities Against President's Labor Reform", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/france-labor-protests-macron_us_59b7f0f2e4b027c149e28b83', 'short_description': "Emmanuel Macron's attempts at altering labor laws is hitting a nerve.", 'date': '2017-09-12'}

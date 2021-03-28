@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Some GOP Lawmakers Really Want To Carry Guns In The Capitol', 'authors': 'Dana Liebelson and Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/gop-lawmakers-guns-capitol_us_5967d469e4b03389bb16218c', 'short_description': '“I feel like I have very good aim,” said one House Republican.', 'date': '2017-07-14'}

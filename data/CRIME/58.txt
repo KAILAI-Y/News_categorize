@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "'Smallville' Actress Allison Mack Is Charged With Sex Trafficking", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/allison-mack-sex-trafficking_us_5ada4793e4b01c279db44806', 'short_description': 'The actress is accused of recruiting women who were forced to engage in sex with a cult leader.', 'date': '2018-04-20'}

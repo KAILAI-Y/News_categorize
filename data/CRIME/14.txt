@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Accused Golden State Killer Faces Four Additional Murder Counts', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/four-additional-murder-counts-filed-in-golden-state-killer-case_us_5af5ed9de4b00d7e4c1a801c', 'short_description': 'Joseph James DeAngelo has now been charged in a dozen homicides.', 'date': '2018-05-11'}

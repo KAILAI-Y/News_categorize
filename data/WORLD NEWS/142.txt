@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Poisoned Daughter Of Russian Spy Released From Hospital', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/yulia-skripal-released-hospital_us_5acc835de4b07a3485e8048d', 'short_description': '“This is not the end of her treatment but marks a significant milestone.”', 'date': '2018-04-10'}

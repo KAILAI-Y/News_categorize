@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Keeps Pretending It's Powerless To Make Obamacare Work Better", 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/gop-fix-obamacare_us_59372352e4b01fc18d3e7d6e', 'short_description': "Republicans have tried nothing, and they're all out of ideas.", 'date': '2017-06-06'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Andrew McMahon's Daughter Gave Him The Sweetest Birthday Card", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/andrew-mcmahons-daughter-gave-him-the-sweetest-birthday-card_us_59b164a9e4b0dfaafcf606f2', 'short_description': 'Here’s to raising kids who see the value in helping others.', 'date': '2017-09-11'}

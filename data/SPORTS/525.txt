@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Draymond Green To Face California Lawsuit Over Alleged Assault', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/draymond-green-assault-allegations_us_59774ed5e4b0e201d57835c2', 'short_description': '“I still feel that man’s hand around my neck.”', 'date': '2017-07-25'}

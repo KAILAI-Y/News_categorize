@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Pennsylvania Woman Shocked By $284 Billion Electric Bill', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/mary-horomanski-284-billion-electric-bill_us_5a4270a1e4b025f99e185372', 'short_description': '"My eyes just about popped out of my head," Erie resident Mary Horomanski said.', 'date': '2017-12-26'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Listens In To The Taunting Voice Inside Donald Trump's Head", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-voice-in-head_us_5a27caa6e4b044d16725fede', 'short_description': '“Do you think he won the popular vote?"', 'date': '2017-12-06'}

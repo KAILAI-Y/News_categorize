@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Herman Cain Defends Ben Carson In Letter: 'House Negroes Stand Up!'", 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/herman-cain-defends-ben-carson-letter-house-negroes_us_59a02f4ee4b0821444c2c0a0', 'short_description': 'Cain posted the bizarre message on his website.', 'date': '2017-08-25'}

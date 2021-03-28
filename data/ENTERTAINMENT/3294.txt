@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Neil Young Releases Resistance Anthem For Fourth Of July', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/neil-young-resist-video_us_59574644e4b05c37bb7e9494', 'short_description': '"Should goodness ever lose and evil steal the day, what would you do?"', 'date': '2017-07-01'}

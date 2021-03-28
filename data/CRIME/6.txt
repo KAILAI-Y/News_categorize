@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "'This Isn’t Pakistan, Bitch': Video Captures Driver’s Racist Rant", 'authors': 'Rowaida Abdelaziz', 'link': 'https://www.huffingtonpost.com/entry/this-isnt-pakistan-video-racist_us_5b02db07e4b07309e05ac472', 'short_description': 'A case of road rage in Texas quickly escalated into a hateful and xenophobic diatribe.', 'date': '2018-05-21'}

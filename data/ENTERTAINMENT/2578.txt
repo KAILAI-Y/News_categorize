@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Lionel Richie And Luke Bryan Round Out Judging Panel On 'American Idol' Reboot", 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/lionel-richie-luke-bryan-judges-american-idol-reboot_us_59ce68cde4b06791bb104dfa', 'short_description': 'The two singers will join Katy Perry.', 'date': '2017-09-29'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Tucker Carlson's Bizarre Rant Over Lauren Duca", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/tucker-carlson-lauren-duca-angry-rant_us_593b61c5e4b0b13f2c6ac130', 'short_description': 'The Fox News host dedicated a whole segment, again, to the Teen Vogue writer. Obsessed?', 'date': '2017-06-10'}

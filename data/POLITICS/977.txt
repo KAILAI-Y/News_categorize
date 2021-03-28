@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Signs Memorandum Ending 'Catch And Release' Policy", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-ends-catch-and-release_us_5ac7fd65e4b07a3485e4bd95', 'short_description': 'Also on Friday, Defense Secretary Jim Mattis authorized the deployment of 4,000 National Guard troops to the border.', 'date': '2018-04-06'}

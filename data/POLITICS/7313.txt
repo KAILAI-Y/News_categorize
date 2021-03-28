@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Leaders Still Insisting Repeal Won't Take Health Care Away From Millions", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/republicans-health-care-obamacare-repeal_us_5974cc16e4b00e4363e01dae', 'short_description': "As usual, they're neglecting to mention a few key facts.", 'date': '2017-07-23'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kentucky Governor Trots Out That Old Lie About People Overdosing On Marijuana', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/kentucky-governor-matt-bevin-marijuana_us_59dfd6a8e4b0a52aca16aac3', 'short_description': "There's not enough weed in the world to make his claim sound smart.", 'date': '2017-10-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Budget Cuts Millions In Funds To HIV/AIDS Programs -- Again", 'authors': 'Sarah Ruiz-Grossman', 'link': 'https://www.huffingtonpost.com/entry/trump-budget-cuts-hiv-aids_us_5a84f649e4b0058d5565ce01', 'short_description': '“It’s all part of Trump’s attacks on marginalized communities,” said an LGBTQ advocate.', 'date': '2018-02-15'}

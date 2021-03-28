@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Retweets Joke About Violence Toward Hillary Clinton', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/trump-clinton-tweet_us_59be731ce4b086432b07c60c', 'short_description': 'Clinton also faced a significant number of misogynistic attacks from Trump supporters during the campaign.', 'date': '2017-09-17'}

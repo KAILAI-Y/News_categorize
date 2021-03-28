@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Truth And Lies', 'authors': "Jamie Lee Curtis, ContributorActress and children's book author", 'link': 'https://www.huffingtonpost.com/entry/jamie-lee-curtis-eliza-dushku-true-lies-abuse_us_5a5ba76de4b03c418966b2e2', 'short_description': '"All of us must take some responsibility..."', 'date': '2018-01-14'}

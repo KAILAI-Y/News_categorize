@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Keith Urban Debuts Weinstein-Inspired ‘Empowerment’ Song Titled ‘Female’', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/keith-urban-weinstein-female-cmas_us_5a03543fe4b0f76b05c2de2a', 'short_description': 'Awkwardly, that word is often used by men to put women down.', 'date': '2017-11-08'}

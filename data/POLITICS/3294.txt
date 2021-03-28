@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Decides Climate Change Is No Longer A National Security Threat', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/trump-climate-national-security_us_5a37ebf6e4b0ff955ad51e33', 'short_description': 'The move contradicts the military’s own assessments going back to 1990.', 'date': '2017-12-18'}

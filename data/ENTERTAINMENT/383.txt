@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Riverdale' Star Hart Denton On Chic's Fate After That Killer Cliffhanger", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/hart-denton-speaks-out-on-that-shocking-riverdale-twist_us_5ae0bd50e4b02baed1b5ad1e', 'short_description': '"I have so many more questions."', 'date': '2018-04-26'}

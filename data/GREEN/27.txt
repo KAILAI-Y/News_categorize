@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Deep-Freeze Forecast Threatens South With Beach Snow', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/deep-freeze-south_us_5a4bade3e4b0b0e5a7a8d60f', 'short_description': 'Icy weather grips much of the U.S., including parts of Florida unaccustomed to wintery conditions.', 'date': '2018-01-02'}

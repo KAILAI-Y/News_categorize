@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'This TV Meteorologist Has Absolutely Had It With The Flat-Earth Movement', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/tv-meteorologist-flat-earth_us_5a336e3be4b040881be9356d', 'short_description': 'Keith Carson has a simple challenge for those who think the Earth is flat.', 'date': '2017-12-15'}

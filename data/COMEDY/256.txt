@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bachelor 'Robert Mueller' Can't Commit To Trump Collusion In Heartbreaking 'SNL'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snl-bachelor-mueller-cant-commit-to-collusion_us_5aa4b2a4e4b086698a9e740f', 'short_description': 'But the "Kush is cooked," he promises.', 'date': '2018-03-11'}

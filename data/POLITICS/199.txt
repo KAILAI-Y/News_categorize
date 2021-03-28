@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democratic Lawmaker Gives Scott Pruitt Brutal Reality Check During Senate Hearing', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/patrick-leahy-scott-pruitt-epa_us_5afc81d4e4b06a3fb50d14f0', 'short_description': 'Burn.', 'date': '2018-05-16'}

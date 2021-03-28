@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Here's How J.K. Rowling Wants To Protest Donald Trump’s UK State Visit", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jk-rowling-donald-trump-state-visit_us_59366a62e4b0099e7faed180', 'short_description': '"I\'d rather he didn\'t come, but if he does..."', 'date': '2017-06-06'}

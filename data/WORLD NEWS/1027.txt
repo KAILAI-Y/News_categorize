@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'The Transformation Of Jerusalem', 'authors': 'James Zogby, ContributorPresident, Arab American Institute; Author, "Arab Voices"', 'link': 'https://www.huffingtonpost.com/entry/the-transformation-of-jerusalem_us_59d7d99ce4b0cf2548b336e2', 'short_description': 'The Israeli construct—“Greater Jerusalem”—is a misnomer.', 'date': '2017-10-07'}

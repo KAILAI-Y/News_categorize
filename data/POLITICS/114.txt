@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump: 'Real Americans' Should Get 'Tough' On Russia Probe", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-real-americans_us_5b017906e4b0463cdba34fa5', 'short_description': "The president tried to smear the credibility of special counsel Robert Mueller's investigation yet again.", 'date': '2018-05-20'}

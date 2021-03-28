@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Two Americans', 'authors': 'Madeleine Burnside, ContributorEditor, The Sanity Papers', 'link': 'https://www.huffingtonpost.com/entry/two-americans_us_593cadbbe4b014ae8c69e13d', 'short_description': 'Two Americans “testified” this week: Bob Dylan and James Comey. Two very different men: a counter-culture Lefty icon and', 'date': '2017-06-11'}

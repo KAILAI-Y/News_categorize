@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Gutsy Raccoon Gives New Meaning To 'Police Ride-Along'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/raccoon-police-windshield_us_59c6418fe4b0cdc773319823', 'short_description': 'An officer was "pawsitively surprised" when the critter hitched a patrol car ride.', 'date': '2017-09-23'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'China Sets Stage For Xi Jinping To Stay In Office Indefinitely', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/xi-jinping-china_us_5a9415e5e4b0ee6416a53b90', 'short_description': '“In theory he could serve longer than Mugabe but in reality, no one is sure exactly what will happen,” one historian said.', 'date': '2018-02-26'}

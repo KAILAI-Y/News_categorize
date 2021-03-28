@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Garrison Keillor Fired From Minnesota Public Radio Over Alleged Inappropriate Behavior', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/garrison-keillor-fired_us_5a1ee935e4b017a311ebcad2', 'short_description': 'Keillor is not apologizing for the incident.', 'date': '2017-11-29'}

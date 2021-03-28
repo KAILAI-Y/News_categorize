@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Slams Jemele Hill As The Cause Of 'Tanked' ESPN Ratings", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jemele-hill-espn_us_59dcae2ae4b0b34afa5c0454', 'short_description': 'The suspended anchor has called the president a "white supremacist."', 'date': '2017-10-10'}

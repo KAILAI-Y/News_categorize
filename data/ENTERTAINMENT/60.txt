@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Adam Rippon Wins 'Dancing With The Stars' Because It Was Destined", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/adam-rippon-wins-dancing-with-the-stars_us_5b03ef4be4b0a046186f8203', 'short_description': 'Skills and showmanship, people.', 'date': '2018-05-22'}

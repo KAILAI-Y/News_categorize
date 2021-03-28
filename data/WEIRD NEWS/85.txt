@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Hopefully We Don't Need To Tell You That Condom Snorting Is A Bad Idea", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/condom-snorting-teens-video_us_5ac26705e4b09712fec3387b', 'short_description': 'Looks like some teens need to be told not to use condoms.', 'date': '2018-04-02'}

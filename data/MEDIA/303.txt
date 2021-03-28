@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'ABC News Veteran Elizabeth Vargas To Leave Network In May', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/elizabeth-vargas-leaves-abc_us_5a3d5b40e4b0b0e5a7a20908', 'short_description': 'Vargas has been an anchor on "20/20" for 14 years.', 'date': '2017-12-22'}

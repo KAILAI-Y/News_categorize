@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How The Refugee Caravan Became A Scapegoat For Trump’s Border Crackdown', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/trump-border-caravan_us_5af312a7e4b0aab8a78ba20e', 'short_description': '"There’s no horde of invading people using fraud to game the asylum system."', 'date': '2018-05-09'}

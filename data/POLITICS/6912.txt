@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Morning Email: Mueller Impanels A Grand Jury As The Russia Probe Heats Up', 'authors': 'Kate Sheppard', 'link': 'https://www.huffingtonpost.com/entry/morning-email-mueller-probe-heats-up_us_59843ebae4b041356ebf172a', 'short_description': 'And other headlines for Friday, August 4, 2017.', 'date': '2017-08-04'}

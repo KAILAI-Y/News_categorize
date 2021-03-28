@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Russian Agents Organized 129 U.S. Election Events Via Facebook', 'authors': 'Dustin Volz, David Ingram, Reuters', 'link': 'https://www.huffingtonpost.com/entry/facebook-us-election-events-russia-agents-fake_us_5a6b4beae4b0ddb658c5da84', 'short_description': 'More than 62,000 Americans said they would attend the events.', 'date': '2018-01-26'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Samantha Bee Torches ICE: 'Let's Shut It The F**k Down'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-ice-donald-trump_us_5b065a91e4b05f0fc8448e14', 'short_description': '"I’m serious. It’s awful. And we don’t actually need it."', 'date': '2018-05-24'}

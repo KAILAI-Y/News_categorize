@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "PSA: Don't Be A Jerk. Clean The Snow Off Your Damn Car Already.", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/clean-snow-from-cars_us_5aaa0b76e4b0f4aaa1139751', 'short_description': "It's dangerous. And you could face fines.", 'date': '2018-03-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "California Extends State Worker Travel Ban To 4 'Discriminatory' States", 'authors': 'Kaeli Subberwal', 'link': 'https://www.huffingtonpost.com/entry/california-travel-ban-lgbtq_us_594d7c22e4b02734df2a71ae', 'short_description': 'Restrictions now target eight states that have passed anti-LGBTQ laws.', 'date': '2017-06-23'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Angela Merkel Wins Fourth Term As Chancellor In German Election', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/german-election-results-merkel-wins_us_59c12630e4b0186c2205cb74', 'short_description': 'But the far-right manages to make big gains.', 'date': '2017-09-24'}

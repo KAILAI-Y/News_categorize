@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Yemen’s Cholera Outbreak Reaches Grim Milestone', 'authors': 'Rowaida Abdelaziz', 'link': 'https://www.huffingtonpost.com/entry/yemen-cholera-outbreak-milestone_us_5963cf1ae4b03f144e2cd5c4', 'short_description': 'The situation is spiraling out of control, says the International Committee of the Red Cross.', 'date': '2017-07-10'}

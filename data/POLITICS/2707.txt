@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chuck Grassley’s Yearlong, One-Sided Twitter Conversation With President Trump', 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/trump-chuck-grassley-tweets-first-year_us_5a5e2e93e4b04f3c55a655e9', 'short_description': "It's the last truly pure thing online.", 'date': '2018-01-17'}

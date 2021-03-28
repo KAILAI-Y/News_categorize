@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Joe Arpaio Is Still Guilty Despite Presidential Pardon, Judge Says', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/joe-arpaio-criminal-conviction-not-erased_us_59e9d4b3e4b0df10767c4e07', 'short_description': "The former sheriff's request to wipe out his criminal conviction was denied.", 'date': '2017-10-20'}

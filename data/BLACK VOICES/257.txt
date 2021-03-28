@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Angela Bassett Teases Possible Plot For 'Black Panther' Sequel", 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/angela-bassett-black-panther-2-plot_us_5a956f23e4b02cb368c5fd56', 'short_description': 'The Queen Mother has spoken.', 'date': '2018-02-27'}

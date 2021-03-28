@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Police Find Recorded 'Confession' On Austin Bomber's Cellphone", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/austin-bomber-recording_us_5ab2e8e6e4b008c9e5f3ed17', 'short_description': '“This is an outcry by a very challenged young man.”', 'date': '2018-03-21'}

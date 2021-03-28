@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Endorses Mitt Romney After Saying He 'Choked Like A Dog' In 2012", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-endorses-mitt-romney_us_5a8b8bc6e4b0a1d0e12c4cfa', 'short_description': 'Romney says Utah “has a lot to teach the politicians in Washington.”', 'date': '2018-02-20'}

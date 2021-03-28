@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Judge Lifts Order Barring RNC From Undertaking 'Ballot Security' Measures", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/rnc-ballot-security_us_5a54fdd5e4b0efe47ebd69ff', 'short_description': 'Getting rid of the order raises concerns that Republicans may engage in voter intimidation tactics.', 'date': '2018-01-09'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Geraldo Rivera Says Women 'May Be Criminalizing Courtship' After Lauer Reports", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/geraldo-rivera-matt-lauer-defense_us_5a1f253de4b0392a4ebad412', 'short_description': 'Uh, no?', 'date': '2017-11-30'}

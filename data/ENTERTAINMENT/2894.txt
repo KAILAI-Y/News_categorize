@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jon Stewart Goes Off About Donald Trump's Response To Neo-Nazis", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/jon-stewart-donald-trump-nazis_us_5996fb65e4b0e8cc855d3d1e', 'short_description': "Stewart made a surprise appearance at Dave Chappelle's Radio City show.", 'date': '2017-08-18'}

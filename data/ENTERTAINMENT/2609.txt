@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Zaki's Review: Star Trek: Discovery", 'authors': 'Zaki Hasan, ContributorFilm Critic, Professor of Communication & Media', 'link': 'https://www.huffingtonpost.com/entry/zakis-review-istar-trek-discoveryi_us_59c91aa6e4b08d6615504466', 'short_description': 'So far, this is most definitely a Trek worth discovering.', 'date': '2017-09-25'}

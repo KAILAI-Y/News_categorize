@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Is Already Using The Nunes Memo To Undermine The Russia Investigation', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-nunes-memo-undermine-russia-investigation_us_5a75d31fe4b0905433b49439', 'short_description': 'This was the plan all along.', 'date': '2018-02-03'}

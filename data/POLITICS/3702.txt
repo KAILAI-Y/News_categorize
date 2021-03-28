@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Get Up, Stand Up', 'authors': 'Evan Handler, ContributorActor, author, screenwriter, journalist. Inspirational pessimist.', 'link': 'https://www.huffingtonpost.com/entry/get-up-stand-up_us_5a270e9ae4b0f3c1632e617d', 'short_description': 'The "resistance" so far is woefully inadequate.', 'date': '2017-12-05'}

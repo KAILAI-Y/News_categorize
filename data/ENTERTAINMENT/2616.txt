@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jennifer Lopez To Donate $1 Million To Hurricane Relief In Puerto Rico', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/jennifer-lopez-puerto-rico-hurricane_us_59c90b76e4b0cdc77332dd37', 'short_description': '"Puerto Ricans are American citizens. And today, Puerto Ricans need our help."', 'date': '2017-09-25'}

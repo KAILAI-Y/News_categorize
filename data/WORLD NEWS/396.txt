@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Ferry Workers Rescue Wallaby Swimming In Sydney Harbour', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/wallaby-sydney-harbour-swimming_us_5a73bab1e4b01ce33eb14042', 'short_description': 'The animal was lassoed and brought aboard after passengers saw it struggling far offshore.', 'date': '2018-02-02'}

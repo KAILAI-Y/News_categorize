@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Roy Moore Uses Title Of Teen Cheerleader Movie In Attempt To Defend Himself', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-bring-it-on_us_5a0cf516e4b0c0b2f2f7b64a', 'short_description': '"Bring It On" probably isn\'t the best phrase for him to use right now.', 'date': '2017-11-16'}

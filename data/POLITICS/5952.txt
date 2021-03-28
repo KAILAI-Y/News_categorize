@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'House Passes Trump Deal On Harvey, Debt Limit And Government Funding', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/house-passes-harvey-debt-limit-trump-deal_us_59b2b94ce4b0b5e5310603c2', 'short_description': 'It was a bad deal for Republicans. Most of them voted for it anyway.', 'date': '2017-09-08'}

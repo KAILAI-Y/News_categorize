@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'Spectacular Supermoon Gets 2018 Off To A Heavenly Start', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/supermoon-wolf-moon-january-2018_us_5a4b3fb1e4b025f99e1d2129', 'short_description': 'A breathtaking way to begin the year.', 'date': '2018-01-02'}

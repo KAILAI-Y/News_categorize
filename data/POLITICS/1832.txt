@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Obama Photographer Throws Epic Shade At Trump With Throwback Running Picture', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/pete-souza-obama-donald-trump-run_us_5a956019e4b01f65f59a69eb', 'short_description': '"Back in the day when our President could run."', 'date': '2018-02-27'}

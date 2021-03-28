@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Tax Reform Is Gonna Eat My Lunch!', 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/tax-reform-free-lunch_us_5a15d361e4b025f8e93344d5', 'short_description': 'Republicans are using employee achievement awards and parking benefits to pay for a corporate tax cut.', 'date': '2017-11-22'}

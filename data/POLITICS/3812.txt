@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: Republicans Scramble To Save Their Tax Plan", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-republicans-scramble-to-save-their-tax-plan_us_5a2148bae4b03350e0b5fd02', 'short_description': 'A vote is still expected today.', 'date': '2017-12-01'}

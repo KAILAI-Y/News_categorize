@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Continues To Favor Fox News Over All Other Networks', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-fox-interviews_us_59efc1e3e4b0bf1f8836a7dd', 'short_description': 'Surprise, surprise.', 'date': '2017-10-25'}

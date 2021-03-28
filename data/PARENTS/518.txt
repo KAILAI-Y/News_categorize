@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': '25 Cute And Cool School Supplies To Add To Your Shopping List', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/cute-and-cool-school-supplies-to-add-to-your-shopping-list_us_597a3331e4b0da64e877b0d1', 'short_description': 'For kindergartners, teens and students in between.', 'date': '2017-07-28'}

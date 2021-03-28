@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Here's What Donald Trump's Family Wants From Santa, Per 'The Late Show'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/late-show-trump-santa-christmas-list_us_5a2ba4f1e4b069ec48ada7ba', 'short_description': '"Bring dirt on Hillary and a live rhino to shoot."', 'date': '2017-12-09'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Singer Seal Accuses Oprah Of Knowing About Weinstein Rumors 'For Decades'", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/seal-oprah-weinstein_us_5a576fb0e4b0a300f9065f61', 'short_description': 'He claimed the media mogul is “part of the problem,” not the solution.', 'date': '2018-01-11'}

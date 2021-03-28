@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'All Of The Best Black Friday Deals, In One Exhaustive List', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/all-of-the-best-black-friday-deals-2017_us_5a0dc00ae4b0c0b2f2f88666', 'short_description': "Check back, because we'll keep updating this list as the deals roll in 💸", 'date': '2017-11-16'}

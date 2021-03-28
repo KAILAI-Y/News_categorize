@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Liam Gallagher Offers Rock Star Advice To His Kids On Sexuality, Drugs', 'authors': 'Noah Michelson', 'link': 'https://www.huffingtonpost.com/entry/liam-gallagher-kids-sexuality-drugs_us_593566d1e4b0c242ca25d482', 'short_description': "Who said bad boys can't be wise?", 'date': '2017-06-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Susan Collins Says No To Obamacare Repeal Bill, Crippling Its Chances', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/susan-collins-obamacare-repeal_us_59c97f72e4b0cdc77333eef4', 'short_description': 'Opposition from the senator from Maine leaves Republicans at least one vote short.', 'date': '2017-09-25'}

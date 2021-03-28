@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: #MeToo Takes Down NFL Owner", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-metoo-takes-down-nfl-owner_us_5a37b3f6e4b0ff955ad4a841', 'short_description': 'The Carolina Panthers are now for sale.', 'date': '2017-12-18'}

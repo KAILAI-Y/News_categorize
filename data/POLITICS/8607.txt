@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Targets Undocumented Immigrants Who Were Given Reprieves From Deportation By Obama', 'authors': 'Mica Rosenberg & Reade Levinson, Reuters', 'link': 'https://www.huffingtonpost.com/entry/trump-immigrants-obama_us_593ad1d5e4b024026878ccd4', 'short_description': '“It’s a judicial do-over.”', 'date': '2017-06-09'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Deal Reached To End West Virginia Teacher Strike', 'authors': 'Dave Jamieson', 'link': 'https://www.huffingtonpost.com/entry/west-virginia-deal-end-teacher-strike_us_5a9eb69ce4b089ec353ecf5f', 'short_description': 'Legislators passed a bill giving teachers and state employees a 5 percent raise.', 'date': '2018-03-06'}

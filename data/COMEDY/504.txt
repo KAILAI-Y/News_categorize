@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': '#XmasGiftsFromTrump Wish List Will Give Trump A Very Un-Merry Christmas', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/xmas-gifts-from-trump_us_5a28f8a8e4b03ece03001d15', 'short_description': "This won't go over well at the White House.", 'date': '2017-12-07'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Carrie Underwood Says She 'May Or May Not Have Cried' After Getting Caught Speeding", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/carrie-underwood-speeding_us_5a725b50e4b03699143f2a27', 'short_description': 'She said she was ashamed, but she only got a verbal warning.', 'date': '2018-02-01'}

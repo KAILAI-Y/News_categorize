@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "If 'Sex And The City' Was Gay", 'authors': 'Davey Wavey, ContributorDigital Storyteller', 'link': 'https://www.huffingtonpost.com/entry/if-sex-the-city-was-gay_us_599f35fce4b0a62d0987adc7', 'short_description': 'I reimagined the show as a gayer, more colorful series for my YouTube channel.', 'date': '2017-08-24'}

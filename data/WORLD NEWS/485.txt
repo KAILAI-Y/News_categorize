@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Japanese News Outlet Mistakenly Sends North Korean Missile Alert', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/japan-north-korea-missile-alert_us_5a5df804e4b03c418968edd2', 'short_description': "It's the second major North Korea false alarm in the last week.", 'date': '2018-01-16'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Motion Picture Academy Expels Bill Cosby And Roman Polanski', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/bill-cosby-roman-polanski-expelled-from-academy_us_5aeb531ae4b0ab5c3d634416', 'short_description': 'However, Polanski will keep his Oscar for the 2002 movie "The Pianist."', 'date': '2018-05-03'}

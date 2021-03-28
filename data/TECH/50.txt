@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "YouTube's 'Open Letter' About Logan Paul Isn't Very Open At All", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/twitter-open-letter-logan-paul_us_5a553cf6e4b0b117f880491f', 'short_description': "YouTube didn't address what penalties Paul might face for his controversial video showing a dead body.", 'date': '2018-01-10'}

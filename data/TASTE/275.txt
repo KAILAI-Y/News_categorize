@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Guy Fieri Gets Defensive At Accusation That He Promotes Unhealthy Food', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/guy-fieri-donkey-sauce_us_5953a5fae4b0da2c732004af', 'short_description': 'The TV chef says his show is "misbranded" as being unhealthy.', 'date': '2017-06-28'}

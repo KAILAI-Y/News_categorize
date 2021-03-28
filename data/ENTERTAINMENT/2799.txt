@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Two Men Are Writing An All-Female 'Lord Of The Flies' Reboot", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/lord-of-the-flies-all-female-reboot_us_59a8025be4b07e81d3558e06', 'short_description': 'What could go wrong?', 'date': '2017-08-31'}

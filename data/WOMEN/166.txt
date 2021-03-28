@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'California Moves Closer To Offering The Abortion Pill On Campuses', 'authors': 'Catherine Pearson', 'link': 'https://www.huffingtonpost.com/entry/california-abortion-pill-college-campuses_us_5a733dcbe4b01ce33eb09b22', 'short_description': 'SB 320 just passed the Senate, but it began with a group of UC Berkeley students.', 'date': '2018-02-01'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Josh Ritter And The 'Storm' Surrounding His New Music", 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/josh-ritter-new-album-the-gathering_us_59b97e5ae4b02da0e13ea32e', 'short_description': 'The singer-songwriter opens up about his upcoming album, "Gathering."', 'date': '2017-09-14'}

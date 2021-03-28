@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher Reveals '25 Things You Don't Know About' Michael Cohen", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-michael-cohen-25-things_us_5affbbd1e4b07309e0581e90', 'short_description': '"My kids use air quotes when they call me \'a lawyer.\'"', 'date': '2018-05-19'}

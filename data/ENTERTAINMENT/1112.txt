@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The 'Shib Sibs' Are As Obsessed With K-Pop Band BTS As Everyone Else", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/alex-maia-shibutani-bts_us_5a8b9af5e4b0a1d0e12c5be9', 'short_description': 'We can only hope they blasted "DNA" before winning bronze at the Winter Games.', 'date': '2018-02-20'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "McDonald's Giving 'Rick And Morty' Creator A Jug Of Szechuan Sauce", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/rick-morty-justin-roiland-mcdonalds-szechuan-mcnuggets_us_5971019ee4b062ea5f90b670', 'short_description': 'Hope the discontinued McNugget dip lives up to a 20-year craving.', 'date': '2017-07-22'}

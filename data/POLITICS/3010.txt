@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tina Smith Sworn In As Al Franken's Replacement In U.S. Senate", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/tina-smith-minnesota-senator_us_5a4bf956e4b025f99e1e384e', 'short_description': 'Minnesota joins just a handful of states represented by two female senators.', 'date': '2018-01-03'}

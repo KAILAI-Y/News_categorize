@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Pentagon Retweets That Donald Trump Should 'Resign From The Presidency'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/pentagon-trump-resignation-retweet_us_5a0e6805e4b045cf43708c2d', 'short_description': 'The retweet has since been taken down.', 'date': '2017-11-17'}

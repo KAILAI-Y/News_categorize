@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Was Too Busy Tweeting At Kanye West To Get Melania A Birthday Gift', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-melania-trump-birthday-gift_us_5ae1d437e4b04aa23f2046cb', 'short_description': '"You know I\'m very busy to be running out looking for presents, OK?"', 'date': '2018-04-26'}

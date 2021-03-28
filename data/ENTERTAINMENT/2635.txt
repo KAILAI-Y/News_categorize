@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Riverdale' Star KJ Apa Crashes Car After Falling Asleep At The Wheel", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/riverdale-star-kj-apa-crashes-car-after-falling-asleep-at-the-wheel_us_59c40382e4b063b25318b365', 'short_description': 'Protect Archie at all costs!', 'date': '2017-09-21'}

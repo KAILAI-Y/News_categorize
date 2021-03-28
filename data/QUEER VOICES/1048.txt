@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Mayor Invites Trans People Banned From Military To Join Police Department', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/austin-mayor-transgender-police_us_5979fa21e4b02a8434b47ba0', 'short_description': "Austin's Steve Adler said trans troops are welcome on his city's law enforcement.", 'date': '2017-07-27'}

@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'The Tech Startup Helping Millennial Workers Take On Bad Bosses', 'authors': 'George Bowden', 'link': 'https://www.huffingtonpost.com/entry/workers-rights-startup_us_5ae6df79e4b04aa23f24c2a7', 'short_description': '"We’re giving people the tools to represent themselves."', 'date': '2018-05-01'}

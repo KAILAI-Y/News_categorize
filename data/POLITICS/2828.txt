@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's New Ambassador Finally Tells Dutch He Was Wrong About Muslim 'No-Go' Zones", 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/pete-hoekstra-anti-muslim-comments-dutch-media_us_5a577124e4b03bc4d03e97bc', 'short_description': 'Peter Hoekstra says he "mixed up countries."', 'date': '2018-01-11'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Bipartisan Group Of Governors Warns Senate Not To Pass 'Skinny' Obamacare Repeal Bill", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/governors-letter-skinny-repeal-bill-obamacare_us_59791482e4b02a4ebb72a510', 'short_description': 'One key Republican senator may be paying close attention.', 'date': '2017-07-27'}

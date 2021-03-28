@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'George Takei Might Dress As Trump For Halloween For One Scary Reason', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/george-takei-trump-halloween_us_59f087d7e4b0abb85a8ee859', 'short_description': 'Oh my!', 'date': '2017-10-25'}

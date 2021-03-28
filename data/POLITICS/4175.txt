@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'House Republicans Pass Tax Bill', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/house-passes-tax-reform_us_5a0dd657e4b0c0b2f2f8afe9', 'short_description': "No one seemed to care that the bill isn't particularly popular.", 'date': '2017-11-16'}

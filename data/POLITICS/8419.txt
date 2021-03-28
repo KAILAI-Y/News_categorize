@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump: Obstruction Of Justice Allegations Part Of 'Witch Hunt'", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/trump-obstruction-of-justice_us_59426f52e4b003d5948d5a13', 'short_description': "The president is accused of interfering in the FBI's Russia investigation.", 'date': '2017-06-15'}

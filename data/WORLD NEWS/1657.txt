@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Pope Francis Announces A New Way To Become A Saint', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/pope-francis-path-to-sainthood_us_59655020e4b005b0fdc9712d', 'short_description': 'There are now four paths to sainthood in the Roman Catholic Church.', 'date': '2017-07-12'}

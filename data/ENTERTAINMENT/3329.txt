@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'A Curly-Haired Taylor Swift Resurfaces For The Most Random Reason', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/a-curly-haired-taylor-swift-resurfaces-for-the-most-random-reason_us_59524f87e4b02734df2d4b5e', 'short_description': 'SPORTS?!', 'date': '2017-06-27'}

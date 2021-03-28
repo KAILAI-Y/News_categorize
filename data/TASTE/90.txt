@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'A SoCal Brunch Spot Was Caught Using Popeyes Chicken In Its Dishes', 'authors': 'Suzy Strutner', 'link': 'https://www.huffingtonpost.com/entry/sweet-dixies-kitchen-long-beach-popeyes_us_59e8e48ce4b0aa3f77dc71d7', 'short_description': '"We saw them quickly bring in two large boxes to the kitchen."', 'date': '2017-10-19'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Time's Up Takes Aim At McDonald's, Walmart Over Sexual Harassment Complaints", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/times-up-mcdonalds-walmart_us_5b0415a4e4b0a046186fcdcf', 'short_description': 'Low-wage workers are fighting back with the help of Hollywood donors.', 'date': '2018-05-22'}

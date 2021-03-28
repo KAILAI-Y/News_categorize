@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Read The Full Text Of The Senate Health Care Bill', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/read-the-senate-health-care-bill_us_594bb3d7e4b01cdedf00afaf', 'short_description': 'The bill has been largely a secret until now.', 'date': '2017-06-22'}

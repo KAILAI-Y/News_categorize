@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Everything You Need To Know About The GOP Senate Health Care Bill', 'authors': 'Erin Schumaker', 'link': 'https://www.huffingtonpost.com/entry/health-care-bill-senate-gop_us_594d543de4b05c37bb762f04', 'short_description': 'Read this before the Senate vote, which could be as early as next week.', 'date': '2017-06-23'}

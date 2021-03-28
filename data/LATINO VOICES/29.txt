@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Lin-Manuel Miranda And Vanessa Nadal Welcome Their Second Baby Boy', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/lin-manuel-miranda-vanessa-nadal-son-francisco_us_5a74de34e4b06ee97af29114', 'short_description': 'The "Hamilton" creator even shared a photo of the couple\'s newborn.', 'date': '2018-02-02'}

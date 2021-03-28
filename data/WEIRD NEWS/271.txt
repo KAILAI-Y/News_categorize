@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Catholic School Statue Covered Up For Being Too Gross And Weird', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/catholic-school-statue-covered_us_5a1511d6e4b09650540e3140', 'short_description': 'Umm...', 'date': '2017-11-22'}

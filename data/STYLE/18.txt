@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Serena Williams Covers Vogue With Her Baby Girl, Alexis Olympia', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/serena-williams-vogue-cover_us_5a5610fee4b03417e873cb5e', 'short_description': 'Her daughter is the youngest Vogue cover star ever.', 'date': '2018-01-10'}

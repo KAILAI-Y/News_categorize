@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Repulsive Oaf' Trump Ripped For What He Said To Slain Soldier's Widow", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-knew-what-he-signed-up-for_us_59e70862e4b0d0e4fe6c0323', 'short_description': "The president's attempt to comfort a grieving widow gets panned.", 'date': '2017-10-18'}

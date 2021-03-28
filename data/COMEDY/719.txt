@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "James Corden Totally Nails His 'Magic Mike Live' Audition For Channing Tatum", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-channing-tatum-magic-mike-live_us_59ccb6cee4b02aef6cd796b1', 'short_description': 'All right, All right, All right.', 'date': '2017-09-28'}

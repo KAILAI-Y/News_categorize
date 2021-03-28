@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chrissy Teigen Wants To Catch 'S**tty Friends' Who Sell Private Details About Her", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-pregnancy-privacy_us_5a26e6f3e4b069df71fa37ba', 'short_description': 'These so-called "friends" need to go.', 'date': '2017-12-05'}

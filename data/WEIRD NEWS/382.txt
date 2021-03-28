@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Indonesia Deploys Soldiers To Protect Against Marauding Monkeys', 'authors': 'Ed Davies, Reuters', 'link': 'https://www.huffingtonpost.com/entry/indonesia-maruading-monkeys_us_5984eeb2e4b041356ebfd613', 'short_description': 'Wonder if they will use gorilla warfare.', 'date': '2017-08-04'}

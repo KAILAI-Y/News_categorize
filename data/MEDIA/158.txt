@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Trump's A 'Wuss' Who's Afraid To Challenge Russia, CNN's Paul Begala Says", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/paul-begala-trump-wuss_us_5a96240ce4b09c872baefa95', 'short_description': '"Our president is compromised and we want to know why," the commentator said.', 'date': '2018-02-28'}

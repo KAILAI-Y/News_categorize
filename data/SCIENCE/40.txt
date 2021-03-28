@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'New Year Kicks Off With Supermoon Lunapalooza', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/double-newyear-supermoon_us_5a481a15e4b0b0e5a7a7011c', 'short_description': '2018\'s biggest supermoon will be followed at the end of January by a "super blue blood moon."', 'date': '2017-12-31'}

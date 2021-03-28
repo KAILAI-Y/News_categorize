@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "As Trump Kills DACA, Bannon's Breitbart Celebrates A Major Policy Win", 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/trump-daca-bannon-breitbart_us_59af0836e4b0354e440d62a3', 'short_description': "DACA was just one battle in the website's fight for control of the Republican Party.", 'date': '2017-09-05'}

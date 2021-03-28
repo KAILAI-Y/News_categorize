@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Jr. Sticks Up For Jeff Sessions During His Senate Testimony', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-jr-jeff-sessions_us_59403a1de4b09ad4fbe3b24f', 'short_description': 'The president\'s eldest son called the hearing a "witch hunt train wreck" on Twitter.', 'date': '2017-06-13'}

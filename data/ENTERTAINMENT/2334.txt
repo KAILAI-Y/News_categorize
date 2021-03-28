@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "George Clooney Talks About Wife Amal's Experience With Sexual Harassment", 'authors': 'Cavan Sieczkowski', 'link': 'https://www.huffingtonpost.com/entry/george-clooney-amal-sexual-harassment_us_59edf088e4b00f0861a00c4d', 'short_description': '“She’s faced those exact kinds of situations in law."', 'date': '2017-10-23'}

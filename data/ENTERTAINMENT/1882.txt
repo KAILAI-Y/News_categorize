@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Leslie Jones Reveals She ‘Threw Up In My Mouth’ During Bloody ‘SNL’ Sketch', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/leslie-jones-threw-up-in-mouth-snl_us_5a2e9e75e4b0a290f05265a0', 'short_description': 'The comedian said the gross-out skit starring James Franco “traumatized” her.', 'date': '2017-12-11'}

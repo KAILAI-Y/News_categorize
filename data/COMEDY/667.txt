@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Donald Trump's Halloween Hat Has Everyone Making The Same Joke", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-halloween-hat_us_59eec4d8e4b0d14acdcc23d4', 'short_description': 'This might not have been the best idea.', 'date': '2017-10-24'}

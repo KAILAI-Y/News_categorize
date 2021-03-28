@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hope Hicks Named White House Communications Director', 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/white-house-communications-director_us_59821138e4b02b36343fbbb9', 'short_description': "She's been serving as interim director since Anthony Scaramucci was fired from the job in July.", 'date': '2017-09-12'}

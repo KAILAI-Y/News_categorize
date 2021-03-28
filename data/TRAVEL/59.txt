@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "Lonely Planet's Top U.S. Destination Of 2018 Is An Underrated Treasure", 'authors': 'Abigail Williams', 'link': 'https://www.huffingtonpost.com/entry/top-destination-2018-lonely-planet_us_5a79e3bae4b06505b4e87478', 'short_description': 'Pack your bags!', 'date': '2018-02-06'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Omarosa Manigault Newman Resigns From White House', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/omarosa-newman-resigns-from-white-house_us_5a313de9e4b01bdd765925a0', 'short_description': '"We wish her the best in future endeavors."', 'date': '2017-12-13'}

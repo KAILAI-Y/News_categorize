@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Twitter Roasts Trump Hotels Over This Photo Of Steak', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/twitter-roasts-trump-hotels-over-photo-of-steak-and-veggies_us_59cbaa9de4b02aef6cd67af0', 'short_description': '"This looks like table scraps."', 'date': '2017-09-27'}

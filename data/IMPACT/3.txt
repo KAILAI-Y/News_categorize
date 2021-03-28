@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "Machines Don't Always Steal Our Jobs. Increasingly, They Rob Our Work Of Humanity.", 'authors': 'Mark Harris, On assignment for HuffPost', 'link': 'https://www.huffingtonpost.com/entry/jobs-robot-algorithm-boss_us_5afc260ce4b0a59b4dff50d1', 'short_description': 'Your next boss could be an algorithm', 'date': '2018-05-23'}

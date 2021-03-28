@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Apple Is Devoting $1 Billion To Original Series', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/apple-1-billion-original-series_us_5994771ee4b0e789a948cd14', 'short_description': "Because, you know, there definitely isn't already too much TV to watch.", 'date': '2017-08-16'}

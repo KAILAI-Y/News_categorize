@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's How To Watch 'A Concert For Charlottesville'", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/heres-how-to-watch-a-concert-for-charlottesville_us_59c2893be4b087fdf50992ab', 'short_description': 'The event featuring the Dave Matthews Band and Ariana Grande will be live-streamed.', 'date': '2017-09-20'}

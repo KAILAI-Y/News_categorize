@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Temperature In Iranian City Reaches 129 Degrees — Among The Hottest Ever Recorded', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/ahvaz-iran-129-degrees_us_59556ebae4b05c37bb7d18f4', 'short_description': 'Yet another heat record bites the dust.', 'date': '2017-06-29'}

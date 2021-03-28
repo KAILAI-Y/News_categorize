@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Houston Quarterback Appears To Seize After Brutal Hit, Continues Playing Minutes Later', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/tomsavage-houston-seizure-concussion_us_5a2e0435e4b069ec48ae782d', 'short_description': 'Tom Savage was finally pulled from game due to a concussion.', 'date': '2017-12-11'}

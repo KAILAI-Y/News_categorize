@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Speed Skater Shani Davis: Team USA Chose Olympics Flag-Bearer ‘Dishonorably’', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/shani-davis-coin-toss-winter-olympics_us_5a7d575be4b08dfc93029310', 'short_description': 'He lost out to luge veteran Erin Hamlin in a coin toss.', 'date': '2018-02-09'}

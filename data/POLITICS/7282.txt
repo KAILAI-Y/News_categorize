@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Is Super Sad That Republicans Won't 'Protect Their President'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-republicans-protect-president_us_597547efe4b09e5f6cd03ff4', 'short_description': 'The president also claims he carried GOP lawmakers "over the line on my back."', 'date': '2017-07-24'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': '16-Year-Old Snowboarding Sensation Suffers Sickening Crash In Halfpipe Final', 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/yuto-totsuka-crash-snowboard-olympics_us_5a839aa7e4b02b66c5131ee7', 'short_description': "Japan's Yuto Totsuka had to be taken down the pipe in a stretcher.", 'date': '2018-02-14'}

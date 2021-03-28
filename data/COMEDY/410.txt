@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trump News Conference Spliced With 'Cruel Intentions' Absolutely Fits", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/trump-news-conference-spliced-with-cruel-intentions-absolutely-fits_us_5a5a4431e4b03c41896613af', 'short_description': 'This is why editing technology exists.', 'date': '2018-01-13'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Blue's Clues' Is Making A Comeback With New Episodes", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/blues-clues-makes-a-comeback-with-new-episodes_us_5aa016b0e4b0e9381c14a0f8', 'short_description': "And there's an open audition for the new host.", 'date': '2018-03-07'}

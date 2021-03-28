@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Texas Is Poised To Elect Its First Latina Congresswoman', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/texas-latina-congresswoman_us_5a9f56b5e4b0e9381c1353c9', 'short_description': 'Possibly even two.', 'date': '2018-03-07'}

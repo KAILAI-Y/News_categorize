@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jeff Flake Says A Republican Should Challenge Trump For The Nomination In 2020', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/flake-trump-2020-challenger_us_5aa52e1fe4b07047bec77379', 'short_description': "The retiring Arizona senator didn't elaborate on whether he'd be the one.", 'date': '2018-03-11'}

@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'French Biathlete Clinches Gold In One Nail-Biter Of A Finish', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/biathlete-martin-fourcade-wins-gold_us_5a8981a1e4b00bc49f451d5a', 'short_description': 'Martin Fourcade and Simon Schempp recorded the same time but only one left with the top medal.', 'date': '2018-02-18'}

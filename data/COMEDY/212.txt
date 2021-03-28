@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Finally Answers The Question: Is Trump ‘Crazy Or Just Dumb?’', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-donald-trump-typos_us_5ab335cfe4b054d118df9729', 'short_description': 'The late night host blames Trump\'s "nubby little fingers" for Twitter typos.', 'date': '2018-03-22'}

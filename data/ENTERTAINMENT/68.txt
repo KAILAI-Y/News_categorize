@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ellen Gets David Spade To Open Up About Dating Younger Women', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/david-spade-ellen-degeneres-younger-women_us_5b045462e4b0c0b8b23edfa9', 'short_description': 'The comedian had a few thoughts on the royal wedding too.', 'date': '2018-05-22'}

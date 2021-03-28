@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'If You Own Guns You Don’t Want Anymore, We Want To Talk To You', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/want-to-get-rid-of-guns_us_5acf9534e4b077c89ce66e1a', 'short_description': 'Sure, there are buyback programs, but those often put firearms back on the streets.', 'date': '2018-04-16'}

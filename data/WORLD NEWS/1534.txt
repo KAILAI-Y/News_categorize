@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Philippines' Duterte Threatens To Bomb Indigenous Schools", 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/philippines-duterte-bomb-schools_us_5978a607e4b0e201d57a2313', 'short_description': 'Rights groups are calling for the president to retract his statement.', 'date': '2017-07-26'}

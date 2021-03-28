@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "'Curb Your Enthusiasm' Over Rand Paul's Uneasy Reaction To Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/rand-paul-reaction-trump-health-care-order_us_59e07810e4b04d1d5180c971', 'short_description': 'Cue the theme tune!', 'date': '2017-10-13'}

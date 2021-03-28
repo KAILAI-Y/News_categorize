@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bill Cassidy Responds To Jimmy Kimmel By Doubling Down On The Dishonesty', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/graham-cassidy-jimmy-kimmel_us_59c2783ce4b0f22c4a8e0e8f', 'short_description': 'A new study details huge spending cuts and likely coverage losses.', 'date': '2017-09-20'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "‘Lady Bird’ Becomes Best-Reviewed Movie In Rotten Tomatoes' History", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/lady-bird-best-reviewed-rotten-tomatoes_us_5a1c6418e4b0d23f4c3b40f0', 'short_description': 'That’s hella tight.', 'date': '2017-11-27'}

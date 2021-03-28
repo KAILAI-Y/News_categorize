@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': "Boston Dynamics' 'Robot Dog' May Be Available For Sale Soon", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/boston-dynamics-robot-dog-sale_us_5af71617e4b032b10bfb2e20', 'short_description': 'Super cool, or bone chilling?', 'date': '2018-05-12'}

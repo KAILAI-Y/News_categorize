@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Reportedly Never Reimbursed Lawyer For $130,000 To Stormy Daniels', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/michael-cohen-stormy-daniels-stiffed_us_5a9da4ece4b0479c02560421', 'short_description': 'Attorney Michael Cohen claims the article is "fake news."', 'date': '2018-03-05'}

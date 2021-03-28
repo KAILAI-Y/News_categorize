@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ohio Pushes Back Against Mike Pence's 'False' Health Care Claims", 'authors': 'Ashley Alman', 'link': 'https://www.huffingtonpost.com/entry/john-kasich-mike-pence-health-care_us_596a6e19e4b03389bb17c2e9', 'short_description': '"That\'s what we call #fakenews," Gov. John Kasich\'s spokesman said.', 'date': '2017-07-15'}

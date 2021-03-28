@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'A Chef Told Gordon Ramsay He Couldn’t Cook Pad Thai And It’s So Satisfying', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/chef-told-gordon-ramsey-he-couldnt-cook-pad-thai-and-people-are-obsessed_us_5ac7ba6ee4b0337ad1e7e0f5', 'short_description': '"This is not pad thai at all."', 'date': '2018-04-06'}

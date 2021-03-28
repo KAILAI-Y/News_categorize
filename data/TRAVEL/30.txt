@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'United Airlines Temporarily Suspends Cargo Travel For Pets', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/united-suspends-pets-cargo-travel_us_5ab12b25e4b0eb3e2b30dd18', 'short_description': 'The decision follows multiple pet-related mishaps, including the death of a puppy.', 'date': '2018-03-20'}

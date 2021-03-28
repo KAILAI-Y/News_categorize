@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'As Jason Chaffetz Retires From Congress, Here Are Some Reasons Not To Miss Him', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/jason-chaffetz-retires_us_5955755ce4b05c37bb7d1e77', 'short_description': 'Thanks for the memories.', 'date': '2017-07-01'}

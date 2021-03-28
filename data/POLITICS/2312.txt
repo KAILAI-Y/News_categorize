@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Feds Arrest Arizona Man For Selling Armor-Piercing Ammo To Las Vegas Shooter', 'authors': 'Ryan J. Reilly', 'link': 'https://www.huffingtonpost.com/entry/doug-haig-las-vegas-shooting_us_5a750031e4b06ee97af2ae63', 'short_description': 'Douglas Haig allegedly met shooter Stephen Paddock multiple times.', 'date': '2018-02-03'}

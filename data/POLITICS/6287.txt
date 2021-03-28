@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Signs Memo Banning New Transgender Service Members', 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/trump-memo-transgender-military-ban_us_59a0a336e4b0821444c340d0', 'short_description': 'The move also stops the military from paying for gender reassignment surgeries.', 'date': '2017-08-25'}

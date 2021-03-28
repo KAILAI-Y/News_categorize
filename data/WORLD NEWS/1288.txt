@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'How Muslims Are Observing Eid Al-Adha, The Feast Of Sacrifice', 'authors': 'Religion Editors, HuffPost', 'link': 'https://www.huffingtonpost.com/entry/eid-al-adha_us_59a74831e4b07e81d3550d09', 'short_description': 'This year, CAIR urged U.S. Muslims to donate their Eid sacrifice equivalent to Harvey relief.', 'date': '2017-08-31'}

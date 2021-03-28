@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "John Oliver Wants Your Help Telling Mike Pence To 'Go F**k Himself'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-mike-pence-bundo-book_us_5aaf3ac3e4b0337adf8520a7', 'short_description': '"Last Week Tonight" gives the Pence family\'s new bunny book a gay makeover.', 'date': '2018-03-19'}

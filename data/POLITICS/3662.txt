@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Meet Leandra English, The GOP's Latest Boogeyman", 'authors': 'Zach Carter', 'link': 'https://www.huffingtonpost.com/entry/leandra-english-gop-boogeyman_us_5a2724dfe4b0c2117626a246', 'short_description': 'What are Republicans so afraid of?', 'date': '2017-12-06'}

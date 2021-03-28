@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Retreat On Guns Is The World’s Least-Shocking Surprise", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/trump-retreat-guns_us_5aa6ada0e4b03c9edfae655e', 'short_description': 'So much for not being afraid of the NRA.', 'date': '2018-03-12'}

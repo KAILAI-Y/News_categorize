@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Sen. Pat Toomey Calls On Roy Moore To Step Aside From Alabama Race', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/pat-toomey-roy-moore_us_5a0860a9e4b01d21c83f1169', 'short_description': 'Toomey said he didn’t find Moore’s denials of sexual misconduct “terribly credible.”', 'date': '2017-11-12'}

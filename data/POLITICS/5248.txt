@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'All 5 Living Former U.S. Presidents To Attend Hurricane Relief Concert', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/former-presidents-hurricane-relief_us_59d5a3cfe4b0380b6c9a29b1', 'short_description': '"The staggering, urgent need is simply beyond the capacity of government alone."', 'date': '2017-10-05'}

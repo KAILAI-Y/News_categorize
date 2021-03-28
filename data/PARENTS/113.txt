@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "These Were The Trendiest Baby Names In The Early '80s", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/these-were-the-most-popular-baby-names-35-years-ago_us_5a090f66e4b01d21c83f6d09', 'short_description': "Here's looking at you, Tiffanys and Brandons of the world!", 'date': '2017-11-14'}

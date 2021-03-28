@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The Next 'Jurassic World' Movie Has A Title", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/jurassic-world-fallen-kingdom_us_594be0ace4b0a3a837bde30c', 'short_description': 'Hold on to your butts.', 'date': '2017-06-22'}

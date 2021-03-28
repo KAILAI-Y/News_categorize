@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Comedy Central Imagines The Sound Engineer For 'A Quiet Place'", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/a-quiet-place-sound-engineer_us_5ad24deee4b016a07e9d0286', 'short_description': '"The most challenging sound to make? Silence."', 'date': '2018-04-14'}

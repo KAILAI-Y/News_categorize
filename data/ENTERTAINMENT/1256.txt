@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Super-Bowl-Watching Nuns Are Still The Best Part Of This Game', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/super-bowl-watching-nuns_us_5a776713e4b06ee97af3dacc', 'short_description': 'We are truly blessed.', 'date': '2018-02-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Read James Comey's Prepared Testimony On Donald Trump", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/read-james-comey-testimony_us_59385a08e4b0b13f2c6676e9', 'short_description': "It's full of interesting tidbits.", 'date': '2017-06-07'}

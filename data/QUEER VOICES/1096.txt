@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Exploring My Queer Identity In Print', 'authors': 'Ernest Macias, ContributorQueer Latinx Writer & Creative', 'link': 'https://www.huffingtonpost.com/entry/exploring-my-queer-identity-in-print_us_596f7163e4b05561da5a5c4a', 'short_description': 'It’s not an easy time to be young, queer, and brown.', 'date': '2017-07-19'}

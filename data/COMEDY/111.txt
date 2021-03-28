@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Nails Exactly Why Trump Is Sticking With His 'Candyman' White House Doc", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-ronny-jackson-donald-trump_us_5ae12533e4b02baed1b626b6', 'short_description': '"Late Show" host thinks they might have something in common.', 'date': '2018-04-26'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Sorry, Hollywood's Reboot Trend Is Taking Over Your TV", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/fall-tv-revivals-and-reboots_us_59aed813e4b0354e440cec3f', 'short_description': 'Get ready.', 'date': '2017-09-08'}

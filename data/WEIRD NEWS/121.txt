@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Pretty Much Everyone On The Plane Threw Up' On Gut-Wrenching Landing", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/dulles-plane-winds-vomit_us_5a999b28e4b0479c025232f5', 'short_description': 'Miserable. Just miserable.', 'date': '2018-03-02'}

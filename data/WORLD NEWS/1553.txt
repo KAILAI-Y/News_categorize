@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Poland's President Decides To Veto Controversial Judicial Reform Bills", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/poland-president-veto-judiciary_us_5975ea1de4b00e4363e0d09f', 'short_description': 'The decision followed warnings from the EU and days of protests across Poland.', 'date': '2017-07-24'}

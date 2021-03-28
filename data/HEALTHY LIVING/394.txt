@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Artist Creates Eye-Opening Illustrations About Her Rare Disease', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/gnem-disease-illustrations_us_59a96901e4b0b5e530fe1290', 'short_description': '"Keep telling your story and eventually someone will listen."', 'date': '2017-09-01'}

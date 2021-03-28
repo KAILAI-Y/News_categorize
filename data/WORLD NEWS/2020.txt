@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Londoners Search For New Words Of Condolence At Vigil For Year's Third Terror Attack", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/london-bridge-attack-vigil_us_59357c70e4b0fa3f6ae639be', 'short_description': "Attackers killed seven people in Saturday's incident.", 'date': '2017-06-05'}

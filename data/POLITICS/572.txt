@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Obama Photographer Pete Souza Taunts Trump For Not Buying Melania A Birthday Gift', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/pete-souza-donald-trump-melania-birthday_us_5ae2c2d3e4b055fd7fca5684', 'short_description': '“He always gave her a present too."', 'date': '2018-04-27'}

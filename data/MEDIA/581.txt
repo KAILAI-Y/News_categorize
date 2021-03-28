@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Trump’s Attacks On Jeff Sessions Test Breitbart’s Support For The President', 'authors': 'Michael Calderone', 'link': 'https://www.huffingtonpost.com/entry/breitbart-sessions-trump_us_59779572e4b0c95f375f4948', 'short_description': 'The pro-Trump site has long been closely aligned with the ‘beleaguered’ attorney general.', 'date': '2017-07-25'}

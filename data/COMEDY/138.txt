@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Trevor Noah Has A Mind Blowing Theory About Sean Hannity', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-sean-hannity-michael-cohen_us_5ad6f19ce4b029ebe01f1936', 'short_description': '"I think it’s going to bust the Hannity-Michael Cohen story wide open."', 'date': '2018-04-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Rep. Blames Obamacare For Sexual Harassment Allegations', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/pat-meehan-obamacare-sexual-harassment_us_5a6841a1e4b002283007d9bc', 'short_description': 'He told her that she was his "soul mate."', 'date': '2018-01-24'}

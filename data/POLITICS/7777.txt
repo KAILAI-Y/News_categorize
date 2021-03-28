@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Emmanuel Macron Dropped Onto A Nuclear Sub And Folks Now Think He's 007", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/emmanuel-macron-submarine-james-bond-007_us_595de42be4b0615b9e8f1c53', 'short_description': '"Now that\'s a President!"', 'date': '2017-07-06'}

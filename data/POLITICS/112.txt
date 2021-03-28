@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Texas Gov.'s Campaign Cancels Shotgun Giveaway After Santa Fe School Shooting", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/greg-abbott-texas-shotgun_us_5b01a23ee4b0463cdba37d6c', 'short_description': 'Gov. Greg Abbott was dragged on social media over the seemingly tone-deaf contest.', 'date': '2018-05-20'}

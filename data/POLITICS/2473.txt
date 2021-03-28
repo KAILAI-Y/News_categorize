@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Facebook And Google's Surveillance Capitalism Model Is In Trouble", 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/facebook-google-privacy-antitrust_us_5a625023e4b0dc592a088f6c', 'short_description': "Regulators start to pump the brakes on Big Tech's advertising dystopia.", 'date': '2018-01-27'}

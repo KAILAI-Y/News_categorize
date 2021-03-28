@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'This 1936 Firehouse Cat Is Burning Up The Internet', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/firehouse-cat-video-minneapolis_us_59f3fd79e4b077d8dfc9cf8d', 'short_description': 'Mascot Mickey shows off slick  skills as a pole cat.', 'date': '2017-10-28'}

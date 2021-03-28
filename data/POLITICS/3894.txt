@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Danish Prime Minister Gives Indonesia's President The Most Metal Diplomatic Gift Ever", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/heavy-metal-diplomatic-gift-indonesia-denmark_us_5a1eac15e4b0dc52b02a97af', 'short_description': '🎸🎸🎸', 'date': '2017-11-29'}

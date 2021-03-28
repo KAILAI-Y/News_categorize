@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Weekend Sailing Trip Leaves 3 Texas Boy Scouts Dead', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/boy-scouts-sailing-electrocuted_us_59885e74e4b0cb15b1bf9a9f', 'short_description': 'The boat may have hit a power line stretching across the lake, electrocuting the Scouts.', 'date': '2017-08-07'}

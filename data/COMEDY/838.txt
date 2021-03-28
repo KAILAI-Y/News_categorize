@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Watch Leslie Jones Lose Her Mind During That 'Game of Thrones' Scene", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/leslie-jones-game-of-thrones-lose-her-mind_us_598bf153e4b0a66b8bb10b2a', 'short_description': '"DRACARYS!!!!!!"', 'date': '2017-08-10'}

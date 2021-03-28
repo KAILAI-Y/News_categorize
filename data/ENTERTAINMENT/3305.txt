@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Sense8' Revived For A 2-Hour Farewell Episode", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/sense8-revived-for-a-two-hour-farewell-episode_us_595611cbe4b05c37bb7d789f', 'short_description': '"Your love has brought \'Sense8\' back to life," co-creator Lana Wachowski told fans.', 'date': '2017-06-30'}

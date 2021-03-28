@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Roseanne Barr Defends Supporting Donald Trump: 'I Don’t Give A F**k'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/roseanne-barr-donald-trump-jimmy-fallon_us_5ae82ae6e4b04aa23f268d70', 'short_description': '"This is America, it’s a free country."', 'date': '2018-05-01'}

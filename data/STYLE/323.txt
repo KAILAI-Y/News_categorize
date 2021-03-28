@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Athleta Vows 'Meaningful' Change After Being Called Out For Showing Plus Clothes On Straight-Size Models", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/athleta-plus-size-clothing_us_596387ece4b02e9bdb0e33c2', 'short_description': "It's a start.", 'date': '2017-07-10'}

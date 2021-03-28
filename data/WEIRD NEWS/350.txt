@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Kim Jong Un Insulted Donald Trump And Taught America A New Word At The Same Time', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/kim-jong-un-donald-trump-dotard_us_59c46bfee4b01cc57ff114e5', 'short_description': 'Here\'s what "dotard" means.', 'date': '2017-09-22'}

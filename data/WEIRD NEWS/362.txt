@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Mexico Smashes World Record With 3-Ton Guacamole', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mexico-city-3-ton-guacamole_us_59ad7f05e4b0354e440bc65c', 'short_description': "It's a dip into greatness.", 'date': '2017-09-04'}

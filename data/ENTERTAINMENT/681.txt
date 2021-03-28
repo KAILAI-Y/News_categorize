@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Anna Kendrick's Strange Suitcase Snap Sparks Perfectly Pitched 'Photoshop Battle'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/anna-kendrick-suitcase-photo-editing-competition_us_5abe1023e4b055e50acce409', 'short_description': 'This is an editing competition for the ages.', 'date': '2018-03-30'}

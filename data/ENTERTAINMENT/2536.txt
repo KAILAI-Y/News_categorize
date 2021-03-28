@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Pink Slams Dr. Luke In Interview: ‘He’s Not A Good Person’', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/pink-opinion-dr-luke-new-york-times-karma_us_59d6825de4b046f5ad96ea4a', 'short_description': 'Girlfriend did not hold back.', 'date': '2017-10-05'}

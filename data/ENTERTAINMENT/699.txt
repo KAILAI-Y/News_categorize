@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The 'Avengers' Trailer Is Somehow Even Better When Everyone Is Deadpool", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-avengers-trailer-everyone-is-deadpool_us_5abd26e9e4b06409775e56b1', 'short_description': '"Chimichangaaaaaas!"', 'date': '2018-03-29'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'John Kelly Has Repeatedly Referred To Trump As An ‘Idiot,’ NBC Reports', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/john-kelly-trump-idiot-nbc-news_us_5ae787b6e4b02baed1bd4661', 'short_description': 'The White House chief of staff has denied the allegations, calling them "total BS."', 'date': '2018-04-30'}

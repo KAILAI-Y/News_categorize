@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'ACLU Threatens Action Against Georgia Over Voter Confirmation Notices', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/georgia-voter-purge_us_5977af30e4b0e201d5793033', 'short_description': '"To be perfectly honest, I was pissed," one affected voter said.', 'date': '2017-07-26'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Los Angeles Is Set To Become The Largest U.S. City With Legal Marijuana', 'authors': 'Matt Ferner', 'link': 'https://www.huffingtonpost.com/entry/los-angeles-legal-marijuana-largest-city_us_5a286b90e4b03ece02fff5e1', 'short_description': '“We do big stuff, that’s who we are, that’s how we roll."', 'date': '2017-12-07'}

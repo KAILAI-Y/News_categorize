@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Messages Are Projected On Twitter HQ After Trump's North Korea Tweets", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/twitter-hq-protest-trump-north-korea_us_5a4d8d78e4b0b0e5a7aadc0b', 'short_description': '"A tweet starts WWIII?"', 'date': '2018-01-04'}

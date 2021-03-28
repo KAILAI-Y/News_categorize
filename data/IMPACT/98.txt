@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': "How To Make Sure Your Donation Goes The Furthest On 'Giving Tuesday'", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/giving-tuesday-online-platform-fees_us_5a1d7fdde4b0e2ddcbb2ddc3', 'short_description': 'Almost all of those online donation platforms charge administrative fees.', 'date': '2017-11-28'}

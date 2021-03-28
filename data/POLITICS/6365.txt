@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Federal Judge Blocks New Texas Voter ID Law', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/texas-voter-id-law-struck-down_us_599df4a2e4b0821444c099ec', 'short_description': 'The state argued the new law fixed intentional discrimination that a judge found in a previous statute.', 'date': '2017-08-23'}

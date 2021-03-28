@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Drew Barrymore Calls Jake Gyllenhaal Her Least-Talented Costar', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/drew-barrymore-jake-gyllenhaal_us_5ab38045e4b0decad046f2d2', 'short_description': '"I\'m sorry, Jake."', 'date': '2018-03-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'CNN Draws Sean Spicer Like One Of Your French Girls', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/cnn-draws-sean-spicer-like-one-of-your-french-girls_us_594d8740e4b05c37bb768233', 'short_description': 'He looks good, though.', 'date': '2017-06-23'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Justin Timberlake Visits Texas School Shooting Victims', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/justin-timberlake-visits-texas-school-shooting-victims_us_5b098161e4b0fdb2aa54167e', 'short_description': 'The pop star also wore a "Santa Fe Strong" shirt at his show in Houston.', 'date': '2018-05-26'}

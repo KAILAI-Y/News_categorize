@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Rumors Of KKK Rally In Durham Inspire Counterprotesters To Turn Out In Droves', 'authors': 'Elise Foley, Kate Sheppard, and Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/durham-kkk-rally-counterprotest_us_59971807e4b0e8cc855d6826', 'short_description': 'So far, white supremacists have been a no-show.', 'date': '2017-08-18'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Look To Their Successful 2006 Messaging In Bid To Retake The House', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/culture-of-corruption_us_5ad8d8dce4b029ebe0221dff', 'short_description': 'Going after a GOP "culture of corruption" worked then. Will it work now?', 'date': '2018-04-21'}

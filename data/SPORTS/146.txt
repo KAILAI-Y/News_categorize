@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Ice Dancers Tessa Virtue And Scott Moir Break Their Own World Record', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/ice-dance-tessa-virtue-scott-moir-world-record_us_5a8ae537e4b004fc3194e3dc', 'short_description': "Canada's sensuous pair are in first place at the 2018 Olympics.", 'date': '2018-02-19'}

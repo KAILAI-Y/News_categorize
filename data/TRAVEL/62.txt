@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': 'The 10 Best Hotels In The US In 2018, Revealed', 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/best-hotels-in-the-us-2018_us_5a679d2ce4b0dc592a0d7bfc', 'short_description': 'BRB, booking a trip to San Antonio immediately ✈️', 'date': '2018-01-23'}

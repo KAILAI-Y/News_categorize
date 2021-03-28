@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'This Is The Biggest Eye Makeup Trend Of Summer 2017', 'authors': 'PureWow, ContributorWhat your girl crush reads online', 'link': 'https://www.huffingtonpost.com/entry/this-is-the-biggest-eye-makeup-trend-of-summer-2017_us_593ee333e4b094fa859f1ac4', 'short_description': 'It surprisingly works on everyone.', 'date': '2017-06-12'}

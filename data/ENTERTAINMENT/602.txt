@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Cardi B Reveals Baby Bump On 'Saturday Night Live'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/cardi-b-reveals-baby-bump_us_5ac99f87e4b0337ad1e8d0dc', 'short_description': 'She’s been wearing full dresses and baggy pants to leave everyone guessing — until Saturday night.', 'date': '2018-04-08'}

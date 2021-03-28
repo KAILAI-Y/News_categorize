@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Fallon Counts Down His 5 Favorite Donald Trump Gaffes Of 2017', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-donald-trump-5-moments-of-2017_us_5a3e2dade4b0b0e5a7a25838', 'short_description': 'And the winner is...', 'date': '2017-12-23'}

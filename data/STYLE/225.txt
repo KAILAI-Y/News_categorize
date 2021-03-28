@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Hot Pink Is Extra Hot Right Now. Here's Proof.", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/hot-pink-clothing_us_59c3cafce4b063b253186929', 'short_description': "Rihanna and Hillary Clinton wouldn't steer you wrong.", 'date': '2017-09-21'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Partisan Gerrymandering Must End', 'authors': 'Josh Silver, ContributorDirector, Represent.Us', 'link': 'https://www.huffingtonpost.com/entry/partisan-gerrymandering-must-end_us_59b007e2e4b0b5e53102b1e1', 'short_description': 'The Supreme Court must side with the American people, not partisan operatives.', 'date': '2017-09-06'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Police Chief Resigns After TV Report Links Him To Neo-Nazi Websites', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/police-chief-neo-nazi_us_59a49886e4b050afa90c3d6a', 'short_description': 'The ex-Oklahoma chief claims vindictive skinheads highjacked his name.', 'date': '2017-08-29'}

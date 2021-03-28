@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "2017's Rohingya Crisis In Photos", 'authors': 'Jesselyn Cook and Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/rohingya-crisis-photos_us_5a3bc302e4b025f99e150f1d', 'short_description': 'More than half a million Rohingya refugees have fled Myanmar.', 'date': '2017-12-26'}

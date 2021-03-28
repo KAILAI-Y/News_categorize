@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Omarosa Says She Was 'Haunted By Tweets' In Trump's White House", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/omarosa-tweets-trump_us_5a7c98afe4b0c6726e10bc07', 'short_description': '"No, it’s gonna not be OK. It’s not.” she told a "Celebrity Big Brother" castmate.', 'date': '2018-02-08'}

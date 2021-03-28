@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Twitter's Funny Reactions To #ManafortMonday Are Proof It's Mueller Time", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/twitters-funny-reactions-to-manafortmonday-are-proof-its-mueller-time_us_59f72450e4b03cd20b82f0a7', 'short_description': 'Just another Manafort Monday!', 'date': '2017-10-30'}

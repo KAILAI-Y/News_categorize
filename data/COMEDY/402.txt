@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Asks People To Take Sides In Donald Trump-MLK Twitter Feud', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-trump-martin-luther-king-twitter-war_us_5a5dae99e4b03c41896868fb', 'short_description': "There's just one problem...", 'date': '2018-01-16'}

@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "10 Ways To Know You're Having A Southern Thanksgiving", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/southern-thanksgiving_us_5a0a02ece4b00a6eece39246', 'short_description': "It's dressing, not stuffing. And other unmistakable holiday traditions of the South.", 'date': '2017-11-21'}

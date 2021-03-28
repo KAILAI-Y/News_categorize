@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Omarosa Dishes On Mike Pence: 'He Thinks Jesus Tells Him To Say Things'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/omarosa-big-brother-mike-pence-donald-trump_us_5a829f71e4b01467fcf0ebd0', 'short_description': '"We would be begging for the days of Trump back if Pence became president."', 'date': '2018-02-13'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Facing Regulation, Twitter Follows Facebook's Timid Lead On Political Ads", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/twitter-political-ads-transparency_us_59ef9f5ae4b0bf1f88368475', 'short_description': 'The company announces a handful of advertising changes.', 'date': '2017-10-24'}

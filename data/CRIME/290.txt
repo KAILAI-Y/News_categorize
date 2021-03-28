@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Here's What We Know About Stephen Paddock, The Las Vegas Shooting Suspect", 'authors': 'Ron Dicker and Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/las-vegas-shooter-stephen-paddock_us_59d1fec6e4b09538b5093cbf', 'short_description': 'Police said the "sole aggressor" of the mass shooting killed himself.', 'date': '2017-10-02'}

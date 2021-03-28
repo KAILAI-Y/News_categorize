@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Delivers Rousing Call To Action In Wake Of Texas Massacre', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-texas-massacre_us_5a016850e4b066c2c039dd05', 'short_description': '"Late Show" host says ordinary Americans hold one very important power for change.', 'date': '2017-11-07'}

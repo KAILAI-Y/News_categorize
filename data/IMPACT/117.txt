@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Why You Should Think Twice Before Opting for Free 2-Day Shipping', 'authors': 'Laura Paddison', 'link': 'https://www.huffingtonpost.com/entry/2-day-shipping-environment_us_5a0e1374e4b045cf43706864', 'short_description': 'The hidden environmental cost of your online shopping.', 'date': '2017-11-17'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Stevie Wonder Calls 'Bullshit' On Bruno Mars Cultural Appropriation Claim", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/stevie-wonder-bruno-mars-cultural-appropriation_us_5aafde34e4b0e8623839fe9a', 'short_description': '"We cannot limit ourselves by people’s fears and insecurities.”', 'date': '2018-03-19'}

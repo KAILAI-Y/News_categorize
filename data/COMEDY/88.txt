@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Twitter Loses It Over Rudy Giuliani's Bonkers Fox News Interview About Trump", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/rudy-giuliani-fox-news-hannity-interview_us_5aea84bae4b00f70f0eeff1f', 'short_description': '"Rudy Giuliani never got his hush money."', 'date': '2018-05-03'}

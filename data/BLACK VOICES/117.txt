@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Beyoncé Makes History As First Black Woman To Headline Coachella', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/beyonce-coachella_us_5ad36ac5e4b0edca2cbac3dc', 'short_description': 'Fans are re-dubbing the iconic music festival as "Beychella."', 'date': '2018-04-15'}

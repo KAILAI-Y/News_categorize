@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'All The Ways Donald Trump Violated The Boy Scout Law Last Night', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-boy-scouts-values_us_5976e8c4e4b0e201d57786bb', 'short_description': '"Trump is the antithesis of Scout values."', 'date': '2017-07-25'}

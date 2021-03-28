@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'The Most Brutal Photos From The Mayweather-McGregor Fight', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/mayweather-mcgregor-fight-photos_us_59a25a36e4b0821444c3bb3a', 'short_description': 'Floyd Mayweather beat the Irishman with a technical knockout in the 10th round.', 'date': '2017-08-27'}

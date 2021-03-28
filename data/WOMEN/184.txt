@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "James Franco Accusers Ask: 'Please Just Apologize'", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/james-franco-accusers-apologize_us_5a677649e4b0e56300742d0a', 'short_description': "The actor was noticeably missing from Tuesday's list of Oscar nominees.", 'date': '2018-01-23'}

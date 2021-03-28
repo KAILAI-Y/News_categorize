@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Nantucket D.A. To Interview Teen About Alleged Assault By Kevin Spacey: Report', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/nantucket-da-kevin-spacey-assault_us_5a0773a6e4b05673aa599cce', 'short_description': 'The teen\'s former news anchor mom says the actor "should go to prison."', 'date': '2017-11-11'}

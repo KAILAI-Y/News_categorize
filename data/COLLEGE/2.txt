@@ -1,0 +1,1 @@
+{'category': 'COLLEGE', 'headline': 'Radio Mogul Under Pressure To Resign From Powerful California University Board', 'authors': 'Matt Ferner', 'link': 'https://www.huffingtonpost.com/entry/norman-pattiz-uc-regent-harassment_us_5a2ed463e4b078950282a560', 'short_description': 'Several women have accused Norman Pattiz of sexual harassment.', 'date': '2017-12-11'}

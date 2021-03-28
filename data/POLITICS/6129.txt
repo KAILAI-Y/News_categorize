@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Of Course Sean Spicer's Goodbye Email Contained A Typo", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-typo-goodbye-email-white-house_us_59a90239e4b0dfaafcef40bf', 'short_description': '"Wouldn\'t be authentic Spicer without that typo."', 'date': '2017-09-01'}

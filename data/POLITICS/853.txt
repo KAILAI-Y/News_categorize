@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Balanced Budget Amendment Fails Amid GOP Fiscal Hypocrisy', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/balanced-budget-amendment-gop-hypocrisy_us_5acfcc5fe4b077c89ce6c4c3', 'short_description': 'Look who suddenly cares about budget deficits!', 'date': '2018-04-12'}

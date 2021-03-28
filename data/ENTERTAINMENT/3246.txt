@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Ashton Kutcher Disses Tabloid For Suggesting He Was Cheating On Mila Kunis', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/ashton-kutcher-disses-tabloid_us_596265a8e4b0d5b458eb3404', 'short_description': '"These magazines lack integrity."', 'date': '2017-07-09'}

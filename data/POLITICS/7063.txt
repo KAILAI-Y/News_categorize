@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kelly In, Mooch Out', 'authors': 'Chris Weigant, ContributorChris Weigant is a political commentator.', 'link': 'https://www.huffingtonpost.com/entry/kelly-in-mooch-out_us_597fc211e4b0d187a5968fb6', 'short_description': 'This completed a week and a half of musical chairs at the White House.', 'date': '2017-07-31'}

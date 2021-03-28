@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Got In A Nice, Sick Burn On Cam Newton', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-got-in-a-nice-sick-burn-on-cam-newton_us_59d7b066e4b072637c43c2b7', 'short_description': 'Ohhhhhhh!', 'date': '2017-10-06'}

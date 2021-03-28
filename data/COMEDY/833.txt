@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "This Is How The 'Slipping On A Banana Peel' Gag Became A Thing", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/this-is-how-the-slipping-on-a-banana-peel-gag-became-a-thing_us_598df869e4b08a24727447b8', 'short_description': 'Huh!', 'date': '2017-08-11'}

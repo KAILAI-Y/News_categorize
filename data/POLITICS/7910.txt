@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Tweets A Distraction, GOP Senator Says -- As Trump Tweets Another Doozy", 'authors': 'Kate Sheppard', 'link': 'https://www.huffingtonpost.com/entry/cassidy-healthcare-trump_us_5958ff25e4b02734df32f39e', 'short_description': '"I get so frustrated when we get focused on tweets," says Sen. Bill Cassidy (R-La.).', 'date': '2017-07-02'}

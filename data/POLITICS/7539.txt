@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Taps New Lawyer To Manage His Response To The Russia Spiral', 'authors': 'Julia Edwards Ainsley, Reuters', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-ty-cobb-lawyer_us_596a57ece4b0d6341fe948aa', 'short_description': 'Ty Cobb will serve as special counsel at the White House.', 'date': '2017-07-15'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Van Jones: A Nazi Assassinated An American 'In Broad Daylight'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/van-jones-nazi-assassinated-an-american-in-broad-daylight_us_5991258fe4b08a2472755dbb', 'short_description': '"This is not a time to talk about ‘both sides.’”', 'date': '2017-08-14'}

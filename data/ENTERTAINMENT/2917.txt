@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jessica Chastain Is A Poker Queen In The Trailer For Aaron Sorkin's 'Molly's Game'", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/mollys-game-trailer_us_5992eea0e4b090964299d338', 'short_description': "Marking Sorkin's directorial debut, Chastain plays power broker Molly Bloom.", 'date': '2017-08-15'}

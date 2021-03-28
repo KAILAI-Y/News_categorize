@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'NASA’s Juno Spacecraft Sent Back Some Spectacular Shots Of Jupiter', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/nasa-juno-jupiter-photos_us_5a52fb98e4b0efe47eb9f7d1', 'short_description': '“We are rewriting our ideas of how giant planets work."', 'date': '2018-01-08'}

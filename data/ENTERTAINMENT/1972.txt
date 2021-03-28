@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Constance Wu Posts Cutest Throwback Pic, Proving Bowl Cuts Are Where It's At", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/constance-wu-throwback_us_5a219abfe4b03c44072d614e', 'short_description': 'And her emotional message to her sister is making us crumble.', 'date': '2017-12-01'}

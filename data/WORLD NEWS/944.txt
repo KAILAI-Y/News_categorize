@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Japan's Election Sets Up A New Battle Over Its Pacifist Constitution", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/japan-election-result-constitution_us_59ecaedbe4b00f08619f7a46', 'short_description': 'Prime Minister Shinzo Abe is likely to use his win to pursue a bigger role for the military.', 'date': '2017-10-22'}

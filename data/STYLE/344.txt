@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Rebel Wilson 'Crushed' Court Dress Along With Her Court Case", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/rebel-wilson-court_us_594280fde4b09ad4fbe5a80f', 'short_description': 'All. The. Yes.', 'date': '2017-06-15'}

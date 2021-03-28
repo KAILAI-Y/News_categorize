@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Suspects Charged With Theft Of Over $20,000 In Victoria's Secret Lingerie", 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/victorias-secret-panty-theft_us_5ae74b2de4b04aa23f25c99b', 'short_description': 'Police said the panty caper was pulled off in less than four months.', 'date': '2018-04-30'}

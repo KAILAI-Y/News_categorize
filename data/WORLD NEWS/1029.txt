@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Several People Injured In Car Incident Near London Museum', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/several-people-injured-in-car-incident-near-london-museum-police_us_59d8e167e4b072637c444e85', 'short_description': 'Police detained a man at the scene.', 'date': '2017-10-07'}

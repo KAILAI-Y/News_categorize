@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Lindsey Graham: Only One Person On Earth Will Call Donald Trump 'A Genius'", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/lindsey-graham-donald-trump-genius_us_5a53a931e4b003133ecae71c', 'short_description': 'This was almost a really solid, sick burn.', 'date': '2018-01-08'}

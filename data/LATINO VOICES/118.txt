@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "This Is What DACA's End Means For Dreamers Like Me", 'authors': 'J.J., ContributorMother, undocumented immigrant', 'link': 'https://www.huffingtonpost.com/entry/dreamers-are-more-than-economic-statistics_us_5a1c1b8de4b0d4906cb01a83', 'short_description': 'We stand to lose so much more than our jobs.', 'date': '2017-11-27'}

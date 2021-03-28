@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "New 'Deadpool 2' Trailer Is More Of The Same, And That's Just Fine By Us", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/new-deadpool-2-trailer_us_5ab3c421e4b0decad047a566', 'short_description': 'Deadpool is putting together a team.', 'date': '2018-03-22'}

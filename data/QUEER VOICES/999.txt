@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Ireland's First Openly Gay Prime Minister Celebrates Pride In Belfast", 'authors': 'Ian Graham, Reuters', 'link': 'https://www.huffingtonpost.com/entry/leo-varadkar-belfast-pride_us_598879f7e4b041356ec139e1', 'short_description': 'Leo Varadkar\'s first official Northern Ireland visit included a "Pride Breakfast."', 'date': '2017-08-07'}

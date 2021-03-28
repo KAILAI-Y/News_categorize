@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Maxine Waters Tears Into Donald Trump: The ‘Most Despicable Human Being'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/maxine-waters-donald-trump-despicable_us_5a59e53ee4b04f3c55a2c4fa', 'short_description': '“I don’t know when Americans are going to tire of this lying man.”', 'date': '2018-01-13'}

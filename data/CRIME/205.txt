@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Bodies Of Missing California Veteran And Dog Believed Found; Ex-Husband Under Arrest', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/vertan-dog-foundin-grave_us_5a237c8ee4b0a02abe91ab7a', 'short_description': 'Retired Army Capt. Julia Jacobson and Boogie disappeared 3 months ago.', 'date': '2017-12-03'}

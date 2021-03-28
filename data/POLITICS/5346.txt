@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Politicians Offer Thoughts And Prayers After Deadliest Mass Shooting In Modern U.S. History', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/las-vegas-mass-shooting-thoughts-and-prayers_us_59d22650e4b06791bb11c613', 'short_description': 'But will they do anything?', 'date': '2017-10-02'}

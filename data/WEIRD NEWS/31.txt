@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "White Sox Celebration Reminds Sports Fans Of Trump's Alleged Pee Tape", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/white-sox-yellow-gatorade-celebrationy_us_5aebf1c2e4b0c4f19320b145', 'short_description': '"Was this taken inside a Ritz-Carlton?"', 'date': '2018-05-04'}

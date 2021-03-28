@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Train Crash Kills Dozens In Egypt', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/egypt-train-crash_us_598e0976e4b0909642970153', 'short_description': 'More than 120 people are injured after two train collided in the city of Alexandria.', 'date': '2017-08-11'}

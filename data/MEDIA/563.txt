@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'New York Times Editorial Page Editor To Testify In Sarah Palin Defamation Case', 'authors': 'Michael Calderone', 'link': 'https://www.huffingtonpost.com/entry/new-york-times-sarah-palin-lawsuit_us_598ce97ce4b090964295fd2f', 'short_description': 'She claims the paper knowingly published false information about her.', 'date': '2017-08-11'}

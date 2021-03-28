@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Usher Tells STD Accuser: You Have No Proof', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/usher-std-accuser-no-proof_us_599f4964e4b06d67e3368e1a', 'short_description': 'The singer says the woman may have been infected by another person before or after the alleged encounter.', 'date': '2017-08-24'}

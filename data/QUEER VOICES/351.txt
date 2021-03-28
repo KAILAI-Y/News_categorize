@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "'Drag Race' Star To Make History As A Trans Leading Lady On Broadway", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/peppermint-transgender-broadway-role_us_5a70be77e4b0be822ba1002b', 'short_description': 'Peppermint is slated to star in the new musical "Head Over Heels" this summer.', 'date': '2018-01-30'}

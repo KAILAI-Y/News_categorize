@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Girls, 10 and 11, Accused Of Plotting To Kill Classmate', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/girls-10-and-11-accused-of-plotting-to-kill-classmate_us_5af47c94e4b04d3b2c9182a9', 'short_description': '"This is not something we commonly see," a cop said.', 'date': '2018-05-10'}

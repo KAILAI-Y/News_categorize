@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Is This The Man The World Wants Solving Middle East Peace?', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/jared-kushner-messed-up_us_59cd5b5fe4b05f005d332052', 'short_description': 'He accidentally listed himself as a woman on his voter registration form.', 'date': '2017-09-28'}

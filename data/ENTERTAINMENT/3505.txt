@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Even 'Doctor Who' Is Trolling Trump Now", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/doctor-who-donald-trump_us_592d0c9fe4b0df57cbfcf3be', 'short_description': 'And fans of the show are loving it.', 'date': '2017-05-30'}

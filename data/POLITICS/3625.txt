@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Fox News Host Says Lindsey Vonn Is 'Un-American' For Ripping Donald Trump", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/fox-news-lindsey-vonn_us_5a2aa57be4b069ec48acb3db', 'short_description': '"Fox & Friends" piled on the Olympic ski champ.', 'date': '2017-12-08'}

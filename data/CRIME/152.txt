@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'U.S. Schools Have Already Faced 10 Shooting Incidents This Year', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/school-shootings-2018_us_5a68586de4b002283007ef83', 'short_description': "A quarter of U.S. parents fear for their children's safety while at school, according to a Gallup survey.", 'date': '2018-01-24'}

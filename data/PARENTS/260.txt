@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Former Marine Learns Tough Life Lesson About Cursing In Front Of His Kid', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/marine-cursing-kid-viral-video_us_59cdf726e4b06791bb0fab7b', 'short_description': '"There is perhaps one word I should try to cut out of my vernacular."', 'date': '2017-09-29'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "You Might Have Missed This Harsh 'SNL' Diss of Eagles And Patriots Fans", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/snl-eagles-patriots-fans_us_5a6f1b4de4b01fbbefb3e806', 'short_description': 'You gotta hear this one.', 'date': '2018-01-29'}

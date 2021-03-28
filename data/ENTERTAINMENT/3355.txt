@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jimmy Fallon And Amy Poehler Get Schooled Playing 'Are You Smarter Than A Smart Girl?'", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/jimmy-fallon-and-amy-poehler_us_594a6515e4b0177d0b8abf62', 'short_description': 'The looks of terror are real.', 'date': '2017-06-21'}

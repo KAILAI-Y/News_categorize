@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Redditors Hilariously Reimagine Donald Trump's G-20 Meeting With Vladimir Putin", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-vladimir-putin-photoshop-battle-meeting_us_596079ace4b0615b9e91b87b', 'short_description': 'Taking afternoon tea? Check.', 'date': '2017-07-08'}

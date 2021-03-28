@@ -1,0 +1,1 @@
+{'category': 'TRAVEL', 'headline': "14 Ways To Make Family Road Trips Easier, From Parents Who've Been There", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/family-road-trips-tips-tricks_us_5b06a2bce4b0784cd2b1f50a', 'short_description': 'Having waterproof covers on the seats is kind of brilliant.', 'date': '2018-05-24'}

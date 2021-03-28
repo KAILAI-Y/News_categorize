@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Dedicates Golf Trophy To Hurricane Victims', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/trump-dedicates-golf-trophy-to-hurricane-victims_us_59d16811e4b05f005d3509cc', 'short_description': 'Pretty useless to people without power and clean water.', 'date': '2017-10-01'}

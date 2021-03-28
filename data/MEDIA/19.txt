@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Fox News Judicial Analyst Issues Dark Warning To Trump Over Michael Cohen', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/andrew-napolitano-warning-trump-michael-cohen_us_5af35258e4b0859d11d004d0', 'short_description': '"Mr. President, please be wary of all of this," Andrew Napolitano said.', 'date': '2018-05-09'}

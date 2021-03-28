@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Does Moore’s Loss Mean A Reckoning For Trump? Don’t Count On It.', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-moore-alabama-loss_us_5a30598be4b07ff75afe89b3', 'short_description': 'Trump may have lost even more stature, but not enough for the GOP Congress to turn on him.', 'date': '2017-12-13'}

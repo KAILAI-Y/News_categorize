@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Shush For A Second And Watch These Librarians Recreate A Kardashian Cover', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/shush-for-a-second-and-watch-these-librarians-recreate-a-kardashian-cover_us_59e501a9e4b02a215b321d99', 'short_description': "Dewey dare say it's better than the original?", 'date': '2017-10-16'}

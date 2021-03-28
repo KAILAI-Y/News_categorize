@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "The Internet Definitely Isn't Buying This $375 'Antifa' Jacket From Barneys", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-internet-isnt-buying-this-375-antifa-jacket-from-barneys_us_5a009034e4b0baea26339cfb', 'short_description': "Here's a jacket to fight the system! Love, the System.", 'date': '2017-11-06'}

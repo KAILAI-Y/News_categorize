@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Brit Hume Of Fox News Says He's Absolutely Not Fantasizing About Trump's Penis", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/brit-hume-trump-penis_us_5a5ee14ce4b00a7f171ba1dd', 'short_description': 'Erm...', 'date': '2018-01-17'}

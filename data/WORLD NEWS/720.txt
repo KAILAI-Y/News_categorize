@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Finland Bans Neo-Nazi Nordic Resistance Movement', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/finland-bans-neo-nazi-group_us_5a202d7ae4b037b8ea206cf7', 'short_description': 'A court ruled that the group advocates violence and spreads hatred.', 'date': '2017-11-30'}

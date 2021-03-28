@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Join The 'Indoor Boys' On Their Quest To Find Love In Los Angeles", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/indoor-boys-debut-episode_us_5968f6ffe4b0d6341fe8872a', 'short_description': 'This new web series will add sizzle to your summer.', 'date': '2017-07-16'}

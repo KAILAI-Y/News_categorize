@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Read The Latest Updates On The Senate's Health Care Voting Frenzy", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/senate-health-care-vote-o-rama_us_5979f2f4e4b02a8434b46871', 'short_description': 'Senate leaders finally unveil their legislation, and plan to vote on it within hours.', 'date': '2017-07-27'}

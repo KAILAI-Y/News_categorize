@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Read Live Updates On The Government Shutdown', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/government-shutdown-live-updates_us_5a661715e4b002283005294e', 'short_description': 'The government could be up and running again soon.', 'date': '2018-01-22'}

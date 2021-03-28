@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Katy Tur Has A 'Brutal Question' For Trump Over His Support For 'Accused Pedophile'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/katy-tur-trump-roy-moore_us_5a14df84e4b09650540e259f', 'short_description': 'The NBC host called out the president over his statements on Roy Moore.', 'date': '2017-11-22'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "The People Of Haiti Take Great Delight In Roasting Donald Trump On 'Conan'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/conan-obrien-haiti-donald-trump_us_5a66e619e4b0dc592a0bf658', 'short_description': '"We have beautiful golf courses here, Mr. President. Please come cheat on them."', 'date': '2018-01-23'}

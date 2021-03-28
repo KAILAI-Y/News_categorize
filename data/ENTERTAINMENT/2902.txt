@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Ted Nugent Insists Kid Rock 'Ain't Running For Jack Squat!'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ted-nugent-kid-rock-no-campaign_us_5995ef8de4b0a2608a6accae', 'short_description': "The rowdy guitarist says it's time for the Republican Party to get serious.", 'date': '2017-08-17'}

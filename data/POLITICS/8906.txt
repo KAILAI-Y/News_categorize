@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'President Tweets Nonsense, World Somehow Surprised', 'authors': 'Eliot Nelson and Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/president-tweets-nonsense-world-somehow-surprised_us_592f37ffe4b09ec37c3176b1', 'short_description': 'Meet our commander-in-chief, President horse_ebooks', 'date': '2017-05-31'}

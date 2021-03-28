@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Donald Trump Takes Aim At China In Response To North Korea Missile Launch', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/north-korea-missile_us_595aeea2e4b05c37bb7fdb9b', 'short_description': "The president has expressed frustration China hasn't increased pressure on the North.", 'date': '2017-07-04'}

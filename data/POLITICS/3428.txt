@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democrats Celebrate Doug Jones' Stunning Victory", 'authors': 'Eline Gordts', 'link': 'https://www.huffingtonpost.com/entry/democrats-react-alabama-senate_us_5a30a42fe4b01bdd76584f73', 'short_description': '"We elected a Democrat in deep red Alabama tonight," said Elizabeth Warren.', 'date': '2017-12-13'}

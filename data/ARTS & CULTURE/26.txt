@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "Spike Lee's 'She's Gotta Have It' Show Is Black Art That's Free To Be Mediocre", 'authors': 'Zeba Blay', 'link': 'https://www.huffingtonpost.com/entry/spike-lee-shes-gotta-have-it_us_5a1c1d5fe4b0cee6c05102e1', 'short_description': "It's OK not to love all black art.", 'date': '2017-12-07'}

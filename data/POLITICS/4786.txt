@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Imposes New Restrictions On Refugees', 'authors': 'Willa Frej and Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/trump-refugees-restrictions_us_59edb5ade4b00f08619fbf07', 'short_description': 'He says he wants stricter vetting on one of the most highly vetted populations in the world.', 'date': '2017-10-24'}

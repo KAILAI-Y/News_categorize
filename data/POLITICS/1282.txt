@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The Hollow Republican Promises To 'Read The Bill'", 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/republicans-read-the-bill_us_5ab411cfe4b0decad0481ddb', 'short_description': 'It turns out, reading is hard and bills can be really long.', 'date': '2018-03-22'}

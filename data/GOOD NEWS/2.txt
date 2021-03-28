@@ -1,0 +1,1 @@
+{'category': 'GOOD NEWS', 'headline': 'North Carolina Cops Respond To Party Complaint, Ride A Giant Waterslide Instead', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/asheville-police-ride-slip-and-slide_us_595db521e4b0615b9e8f108e', 'short_description': "These officers didn't break up the party. They joined it.", 'date': '2017-07-07'}

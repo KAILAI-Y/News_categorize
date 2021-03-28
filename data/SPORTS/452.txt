@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'NFL Players Buy Xbox For 10-Year-Old Boy Wearing Colin Kaepernick Jersey', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/nfl-players-xbox-boy-kaepernick_us_59cdf46ce4b05f005d335ad6', 'short_description': 'The players complimented his jersey before buying him a birthday gift.', 'date': '2017-09-29'}

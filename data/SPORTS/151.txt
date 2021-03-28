@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Germany And Canada Tie For Gold In Two-Man Bobsled Race', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/germany-and-canada-tie-for-gold-in-two-man-bobsled-race_us_5a8ae6c3e4b00bc49f46d984', 'short_description': "It's the first gold-medal tie in the event since 1998.", 'date': '2018-02-19'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Critics Adorn Twitter With Digs At Ivanka Trump's 'Convertible' Jewelry", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/twitter-bashes-ivanka-jewelry-line_us_5a6bb591e4b01fbbefb1e78d', 'short_description': 'Accessories for an accessory?', 'date': '2018-01-27'}

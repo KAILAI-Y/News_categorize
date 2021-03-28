@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Almost Half Of Republicans Believe Trump Really Won The Popular Vote, Poll Finds', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-popular-vote_us_5978b72ce4b0c95f3760cb4f', 'short_description': 'He lost it by nearly 3 million votes.', 'date': '2017-07-26'}

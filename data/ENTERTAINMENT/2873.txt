@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "This Is Spine-Tingling Good News For 'Stranger Things' Fans", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/stranger-things-season-three_us_599c0bbfe4b06a788a2b93e0', 'short_description': 'Things will go bump in the night for a bit longer.', 'date': '2017-08-22'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Burnt Bagel Forces St. Louis Airport Evacuation On Freezing Night', 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/burnt-bagel-shuts-down-airport_us_5a42f50ae4b06d1621b5ca2c', 'short_description': 'The evacuation was quick but quirky.', 'date': '2017-12-27'}

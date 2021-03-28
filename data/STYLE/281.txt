@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "11 Things We're Obsessed With This Week, Besides Saving Money On Skincare", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/things-were-obsessed-with-4_us_5989f964e4b0a66b8baf14cc', 'short_description': '#11 though 😍', 'date': '2017-08-08'}

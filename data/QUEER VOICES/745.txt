@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "51 Men Detained In Indonesian 'Gay Spa' Raid", 'authors': 'Agustinus Beo Da Costa, Reuters', 'link': 'https://www.huffingtonpost.com/entry/indonesia-gay-spa-raid_us_59dba0b4e4b00377980aba8a', 'short_description': 'Some could face up to six years in prison.', 'date': '2017-10-09'}

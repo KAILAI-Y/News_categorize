@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Texas Church Shooting Followed 'Domestic Situation' With Gunman", 'authors': 'Melissa Jeltsen', 'link': 'https://www.huffingtonpost.com/entry/texas-church-shooting-domestic-violence_us_5a0095f7e4b04cdbeb351cd0', 'short_description': 'The suspect had a history of domestic violence, like many mass shooters before him.', 'date': '2017-11-06'}

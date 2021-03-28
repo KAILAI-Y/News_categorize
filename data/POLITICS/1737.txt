@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "NRA's Top Lobbyist Implies Trump Is Back On Its Side", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/chris-cox-nra-trump_us_5a98cf04e4b0479c0250f0b3', 'short_description': '“POTUS & VPOTUS support the Second Amendment," the NRA\'s Chris Cox tweets.', 'date': '2018-03-02'}

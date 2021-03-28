@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Washington State To Offer Non-Binary Option On Birth Certificates', 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/washington-nonbinary-sex-gender-option_us_5a4fa70fe4b089e14dba7d48', 'short_description': 'The state will allow people to identify as "male," "female," or "X."', 'date': '2018-01-05'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump Endorsed Not 1 But 2 Losing Candidates In Alabama', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-alabama-failure_us_5a30a37ee4b01bdd76584f30', 'short_description': 'Ouch.', 'date': '2017-12-13'}

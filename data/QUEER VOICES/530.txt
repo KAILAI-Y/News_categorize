@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'Austria Legalizes Same-Sex Marriage', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/austria-same-sex-marriage_us_5a266df6e4b07324e8404ab8', 'short_description': 'Same-sex civil unions have been legal in the country since 2010.', 'date': '2017-12-05'}

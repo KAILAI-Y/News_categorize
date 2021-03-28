@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Ryan: Secretary Getting $1.50 More A Week Shows Effect Of GOP Tax Cuts', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-tax-cut-weekly-pay-bump_us_5a76151de4b06ee97af318e8', 'short_description': 'Not exactly a winning sales pitch.', 'date': '2018-02-03'}

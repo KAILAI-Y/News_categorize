@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Women Aren't Going To Just Let Bill Cosby Hold 'Town Halls' On Sexual Assault", 'authors': 'Emily Peck', 'link': 'https://www.huffingtonpost.com/entry/bill-cosby-sexual-assault-tour_us_594d5c80e4b02734df2a3c2e', 'short_description': 'Cosby should expect a massive outcry if he goes through with this.', 'date': '2017-06-23'}

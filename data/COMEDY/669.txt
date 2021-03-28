@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "This 'Stranger Things' Spoof Is A Freakin' Good Summary Of Season 1", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stranger-things-spoof-hillywood-show_us_59ef0159e4b0d14acdcc3cbe', 'short_description': 'Eggos at the ready.', 'date': '2017-10-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Podesta Is Just As Confused By Trump's Pre-Putin Meeting Tweets As The Rest Of Us", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/john-podesta-trump-putin-tweets-huh_us_595fa53ce4b0d5b458e9f4e8', 'short_description': '“Dude, get your head in the game. You’re representing the US at the G20.”', 'date': '2017-07-07'}

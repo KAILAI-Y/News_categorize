@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Jimmy Kimmel Fiendishly Shows How Pat Robertson Hates Halloween', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-fiendishly-shows-how-pat-robertson-hates-halloween_us_59f358fce4b07fdc5fbdda64', 'short_description': '"Don’t let your babies grow up to be demon worshippers."', 'date': '2017-10-27'}

@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': "'Complicit' Is The Word Of The Year, According To Dictionary.com", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/complicit-dictionarycom_us_5a1c1918e4b0cee6c050ff97', 'short_description': '2017 has been a year of speaking out about bad behavior, silence and inaction.', 'date': '2017-11-27'}

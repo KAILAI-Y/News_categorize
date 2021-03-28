@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "NFL Stars Go Full Offense On Twitter Trolls' Mean Tweets", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-mean-tweets-superbowl_us_5a7414bfe4b01ce33eb1760a', 'short_description': '"First of all, that doesn’t even make sense."', 'date': '2018-02-02'}

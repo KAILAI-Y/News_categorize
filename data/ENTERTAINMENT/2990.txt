@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Adele Takes Young Grenfell Fire Victims To The Movies', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/adele-takes-young-grenfell-fire-victims-to-the-movies_us_598838eae4b08b75dcc7ea80', 'short_description': 'The singer and "Despicable Me 3" provided welcomed relief.', 'date': '2017-08-07'}

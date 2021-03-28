@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Baseball Is Broken: Only I Know How To Fix It', 'authors': 'Joe Raiola, ContributorSenior Editor, MAD Magazine', 'link': 'https://www.huffingtonpost.com/entry/baseball-is-broken-only-i-know-how-to-fix-it_us_596ca1ece4b09e26b6d76962', 'short_description': 'Even Springsteen stops the show after three hours.', 'date': '2017-07-17'}

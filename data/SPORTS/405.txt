@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "NFL Star Announces His Baby's Death In Devastating Message After Game", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/nfl-star-baby-death_us_5a0966bce4b05673aa5a4d70', 'short_description': 'Marquise Goodwin caught a long touchdown pass in a game hours after his newborn son died.', 'date': '2017-11-13'}

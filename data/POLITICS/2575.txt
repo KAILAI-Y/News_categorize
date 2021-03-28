@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Ruth Bader Ginsburg Opens Up About Her 'Saturday Night Live' Doppelganger", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/ruth-bader-ginsburg-saturday-night-live_us_5a655b43e4b0e5630070fc29', 'short_description': "The Supreme Court justice finally says what we've all been waiting for.", 'date': '2018-01-22'}

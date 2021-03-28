@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's What Is Coming To Hulu In April 2018", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/hulu-coming-arriving-april_us_5abbbdb4e4b03e2a5c78728b', 'short_description': "You'll have many more choices soon.", 'date': '2018-03-29'}

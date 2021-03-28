@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jason Isbell Gets Ready To Serve Up That 'Nashville Sound'", 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/jason-isbell-the-nashville-sound_us_593e9292e4b0b13f2c6c32ed', 'short_description': 'With two Grammys under his belt, the singer-songwriter preps for a new album release.', 'date': '2017-06-12'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Publix Censors Teen's 'Summa Cum Laude' Graduation Cake", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/publix-censors-teens-summa-cum-laude-graduation-cake_us_5b042efbe4b003dc7e46a54a', 'short_description': '"I can’t believe I’m the first one to ever write ‘Summa Cum Laude’ on a cake.”', 'date': '2018-05-22'}

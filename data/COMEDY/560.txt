@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Trump Bros' Get The Goods From McKinnon's Assange On 'SNL'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snl-assange-trump-bros_us_5a1110a1e4b0e97dffedd178', 'short_description': 'Thank God for "Shrinky Dinks," says dopey "Eric."', 'date': '2017-11-19'}

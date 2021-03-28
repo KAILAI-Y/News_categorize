@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Big Little Lies' Season 2 Already Looks To Die For", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/big-little-lies-season-2-photos_us_5ab10861e4b0697dfe1a9b3a', 'short_description': 'Madeline, Renata, Bonnie and Jane are back.', 'date': '2018-03-20'}

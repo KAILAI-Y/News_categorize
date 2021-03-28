@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "NBC Orders Pilot For 'Bad Boys' Spinoff Starring Gabrielle Union", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/bad-boys-spinoff_us_5a6112c0e4b01d91b25420c7', 'short_description': "We're so here for this.", 'date': '2018-01-19'}

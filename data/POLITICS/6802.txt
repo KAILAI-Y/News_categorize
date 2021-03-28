@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'HuffPost Hits The Road', 'authors': 'Zach Young', 'link': 'https://www.huffingtonpost.com/entry/huffpost-hits-the-road_us_598c952fe4b0449ed5089fa8', 'short_description': 'This week, we turn the reins of So That Happened\xa0over to the New York office, and HuffPost reporters Jeff Young and Sam Levine', 'date': '2017-08-10'}

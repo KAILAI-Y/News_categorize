@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "James Corden: Donald Trump's 'Madman' Tweets Suggest 1 Thing", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/james-corden-donald-trump-tweets-prove_us_5ab0c4bae4b0697dfe19fdbb', 'short_description': '“Wildly unrestrained? Check. Semi-coherent? Check. Tweet that ends in all-caps? Check."', 'date': '2018-03-20'}

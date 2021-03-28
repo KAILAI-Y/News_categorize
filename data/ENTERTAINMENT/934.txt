@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'And The Award For Best Duo At The Oscars Goes To Tiffany Haddish And Maya Rudolph', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/tiffany-haddish-and-maya-rudolph-oscars_us_5a9cb97be4b0479c02541d91', 'short_description': 'It all started when they walked onstage, shoes in hand.', 'date': '2018-03-05'}

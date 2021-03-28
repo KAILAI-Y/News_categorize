@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Intelligence Officials Can't Say How Many Americans They Spy On", 'authors': 'Michael McAuliff', 'link': 'https://www.huffingtonpost.com/entry/intelligence-officials-cant-say-how-many-americans-they-spy-on_us_59384cade4b0b13f2c665ef5', 'short_description': 'And they say finding out would jeopardize national security.', 'date': '2017-06-07'}

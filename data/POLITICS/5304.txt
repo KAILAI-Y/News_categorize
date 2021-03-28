@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'No More Adult Conversations, Prayers Or Moments Of Silence', 'authors': 'Andy Ostroy, ContributorPolitical and Pop Culture Analyst', 'link': 'https://www.huffingtonpost.com/entry/no-more-adult-conversations-prayers-or-moments-of_us_59d38820e4b092b22a8e396b', 'short_description': "It's time to do something.", 'date': '2017-10-03'}

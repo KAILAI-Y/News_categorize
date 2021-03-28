@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Guy In Bear Costume Has No Problem Voting In Russian Election', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/russian-bear-election-voting_us_5ab01791e4b0697dfe198fec', 'short_description': 'Even though he could barely fit into the voting booth.', 'date': '2018-03-19'}

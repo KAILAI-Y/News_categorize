@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Melania Trump Responds to Charlottesville Clashes Before President Does', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/melania-trump-responds-to-charlottesville-before-president-does_us_598f2fc2e4b08a247274ac0a', 'short_description': '"No good comes from violence," the first lady says.', 'date': '2017-08-12'}

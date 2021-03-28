@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'SNL' Perfectly Captures The Unease Of Talking About Aziz Ansari", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/snl-aziz-ansari_us_5a6f2c4ce4b01fbbefb403e0', 'short_description': 'Warning: You’re going to want to smash your face into a plate of pasta.', 'date': '2018-01-29'}

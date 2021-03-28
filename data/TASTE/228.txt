@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'The 3 Best Revelations About The Supreme Court Cafeteria', 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/supreme-court-cafeteria_us_59721354e4b09e5f6cced958', 'short_description': 'Justice is served on a cafeteria tray.', 'date': '2017-07-21'}

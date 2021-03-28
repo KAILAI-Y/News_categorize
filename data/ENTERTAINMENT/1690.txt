@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Grab The Wine! 'Scandal' And 'How To Get Away With Murder' Are Crossing Over", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/scandal-htgawm-abc-crossing-over_us_5a4d18f3e4b025f99e1f6650', 'short_description': "Someone's been reading our dream journal.", 'date': '2018-01-03'}

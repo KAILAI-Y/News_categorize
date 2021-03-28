@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Will Smith Does A Bonkers Impression Of Michael Jackson', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/will-smith-michael-jackson-impression_us_5ad85d94e4b0e4d0715d7fc6', 'short_description': 'The actor recalled his bizarre meeting in a closet with the King of Pop.', 'date': '2018-04-19'}

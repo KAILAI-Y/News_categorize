@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'NRA Tweets Photo Of AR-15 On Day Of National School Walkout For No Particular Reason', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/nra-ar15-tweet-national-school-walkout_us_5aa985b0e4b0600b82ffaddd', 'short_description': 'Timing is everything.', 'date': '2018-03-14'}

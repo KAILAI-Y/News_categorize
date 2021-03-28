@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "This Latino Artist Just Made History On 'The Late Show'", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/juanes-history-the-late-show-stephen-colbert_us_5a303cb2e4b091ca26836686', 'short_description': 'Grammy-winning singer Juanes gave a groundbreaking performance on Monday.', 'date': '2017-12-12'}

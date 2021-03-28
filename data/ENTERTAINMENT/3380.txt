@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Neil Young Quits Legendary Bridge School Concert For 'Personal Reasons'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/neil-young-bridge-school_us_59432c89e4b01eab7a2cad15', 'short_description': "The annual benefit for his son's old school has featured top musicians for 30 years.", 'date': '2017-06-16'}

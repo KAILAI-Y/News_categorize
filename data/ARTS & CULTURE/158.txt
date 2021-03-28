@@ -1,0 +1,1 @@
+{'category': 'ARTS & CULTURE', 'headline': 'Cher Is Gifting Us With A Broadway Musical Based On Her Life', 'authors': 'Katherine Brooks', 'link': 'https://www.huffingtonpost.com/entry/cher-is-gifting-us-with-a-broadway-musical-based-on-her-life_us_5937f993e4b01fc18d3f3442', 'short_description': "We'd like to turn forward time to 2018, please.", 'date': '2017-06-07'}

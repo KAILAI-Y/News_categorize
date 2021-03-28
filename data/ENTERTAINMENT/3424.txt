@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'This Initiative Aims To Give Aspiring Female Filmmakers The Chance To Work', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/new-view-glamour-girlgaze_us_59386ba8e4b0b13f2c66a48d', 'short_description': 'Glamour and Girlgaze are running the #NewView competition.', 'date': '2017-06-08'}

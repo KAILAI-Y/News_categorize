@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Amy Schumer Is Convinced She's A Supermodel In 'I Feel Pretty' Trailer", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/amy-schumer-is-convinced-shes-a-supermodel-in-i-feel-pretty-trailer_us_5a7c6df2e4b044b3821a4093', 'short_description': "So you think you're really pretty?", 'date': '2018-02-08'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Saturday Night Live' Trolls The Stiff, Boring Democrats", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/snl-trolls-stiff-democrats_us_5a07e987e4b0e37d2f37de4f', 'short_description': 'So exciting.', 'date': '2017-11-12'}

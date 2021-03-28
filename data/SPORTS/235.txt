@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Jamie Anderson Of U.S. Wins Gold Medal Again In Winter Olympics Slopestyle', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/jamie-anderson-of-us-wins-gold-medal-again-in-winter-olympics-slopestyle_us_5a815e98e4b0c6726e150751', 'short_description': 'The wind proved to be the toughest competition.', 'date': '2018-02-12'}

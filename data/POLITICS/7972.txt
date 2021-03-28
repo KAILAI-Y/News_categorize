@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "President Donald Trump Set To Meet With Russia's Putin Next Week", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-putin-meeting_us_59554047e4b05c37bb7cedc4', 'short_description': 'The two leaders will meet on the sidelines of the G20 summit in Germany.', 'date': '2017-06-29'}

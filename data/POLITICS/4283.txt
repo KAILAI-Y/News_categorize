@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Supreme Court To Hear Dispute Over California Pregnancy Center Law', 'authors': 'Lawrence Hurley, Reuters', 'link': 'https://www.huffingtonpost.com/entry/supreme-court-california_us_5a09b292e4b01d21c8402baf', 'short_description': 'The “crisis pregnancy centers” counsel women not to have abortions.', 'date': '2017-11-13'}

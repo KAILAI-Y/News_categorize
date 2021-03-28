@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Nicole Kidman Joins Keith Urban For Duet After Romantic Serenade', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/nicole-kidman-joins-keith-urban-for-sweet-duet_us_5adf7d0ae4b061c0bfa27544', 'short_description': '“Take a little bit of my heart tonight."', 'date': '2018-04-24'}

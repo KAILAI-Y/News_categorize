@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "'Star Wars' Porg Inspires Most Adorable 'Photoshop Battle' Yet", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/star-wars-porg-photo-editing_us_59ddcc4ee4b04fc4e1e9ee4e', 'short_description': 'Awwwww.', 'date': '2017-10-11'}

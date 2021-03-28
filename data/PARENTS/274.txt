@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'The Awesome Way This Professor Helped Out A Single Mom In His Class', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/the-awesome-way-this-professor-helped-out-a-single-mom-in-his-class_us_59b81df5e4b0edff9716dc58', 'short_description': '"He just completely turned around my year."', 'date': '2017-09-26'}

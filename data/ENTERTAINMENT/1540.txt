@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Selena Gomez's Mom Says She's 'Not Happy' Her Daughter Is Back With Justin Bieber", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/selena-gomez-mom-justin-bieber_us_5a5cdc47e4b03c418967fce5', 'short_description': 'Mandy Teefey had a LOT to say about Jelena.', 'date': '2018-01-15'}

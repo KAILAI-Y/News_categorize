@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Surprise, Surprise: Christopher Nolan Is Not A Fan Of Netflix', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/christopher-nolan-netflix_us_5970ba92e4b062ea5f90179b', 'short_description': 'The "Dunkirk" director has railed against the streaming service\'s model.', 'date': '2017-07-20'}

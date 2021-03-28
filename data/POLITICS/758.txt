@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's Why Congressman Blake Farenthold Resigned So Abruptly", 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/blake-farenthold-resigned-sexual-harassment_us_5ad6511ae4b03c426da91449', 'short_description': 'He was about to get some bad news.', 'date': '2018-04-17'}

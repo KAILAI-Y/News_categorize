@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Botched Photo Shoot Brings Viral Glory To Missouri Family', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/zaring-family-botched-family-photo-shoots_us_5a5d3deee4b0fcbc3a12bc79', 'short_description': '“This is too funny to keep to ourselves,” Pam Zaring said.', 'date': '2018-01-16'}

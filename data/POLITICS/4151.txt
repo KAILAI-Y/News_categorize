@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Vox Media Employees Announce Plans To Unionize', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/vox-media-union-writers-guild_us_5a0ef2fbe4b0dd63b1a9f4c5', 'short_description': 'The digital firm owns several sites, including Vox.com, SB Nation and Eater.', 'date': '2017-11-17'}

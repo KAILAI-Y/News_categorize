@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Democrats Demand Kris Kobach Resign From Trump Voter Fraud Probe', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/democrats-kris-kobach-resign_us_596e2973e4b010d776740192', 'short_description': '“Mr. Kobach has repeatedly claimed, falsely, that widespread voter fraud exists."', 'date': '2017-07-18'}

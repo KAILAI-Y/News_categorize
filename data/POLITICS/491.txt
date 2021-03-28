@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Don Lemon Unloads On Kanye West Over 'His Most Shocking Claim Of All'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/don-lemon-kanye-west-slavery_us_5ae96590e4b06748dc8da3e2', 'short_description': '"I can\'t believe that I actually need to say this."', 'date': '2018-05-02'}

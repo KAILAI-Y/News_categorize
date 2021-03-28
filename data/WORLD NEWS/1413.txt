@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Trump Adds Volatility To A Long History Of North Korean Threats', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/north-korea-threats-trump_us_598b0ac1e4b0449ed506e306', 'short_description': 'Threats from Pyongyang are nothing new, but the latest U.S. reaction has some experts worried.', 'date': '2017-08-10'}

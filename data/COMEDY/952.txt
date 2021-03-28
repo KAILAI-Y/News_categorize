@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The President Show' Visits Trump's Childhood Homes, And Tantrums Ensue", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/the-president-show-visits-trumps-childhood-homes-and-tantrums-ensue_us_59443062e4b06bb7d2730cbc', 'short_description': '"Mom! Where\'s my snack?!"', 'date': '2017-06-16'}

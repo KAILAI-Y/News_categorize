@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mark Zuckerberg Doesn't See Facebook As A Monopoly, Since Its Competition Is All Human Activity", 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/mark-zuckerberg-facebook-monopoly_us_5ace81b5e4b0701783ab0ef7', 'short_description': 'Can sleep file an antitrust suit?', 'date': '2018-04-11'}

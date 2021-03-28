@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'ISIS Laid Booby-Traps All Over Mosul To Kill, Injure Returning Civilians', 'authors': 'By Angus MacSwan, Reuters', 'link': 'https://www.huffingtonpost.com/entry/isis-boobytraps-mosul_us_5978595fe4b0c95f37600ad2', 'short_description': 'Houses, schools, mosques and streets have all been booby-trapped.', 'date': '2017-07-26'}

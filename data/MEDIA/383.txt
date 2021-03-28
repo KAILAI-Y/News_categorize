@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Sean Hannity Gets Brutally Rejected By Attorney For Moore Accuser', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-roy-moore-accuser-rejection_us_5a122c44e4b0dd63b1ab32c6', 'short_description': '"Lazy" Fox News host slammed: “Not known for journalistic integrity.”', 'date': '2017-11-20'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Sean Spicer Won't Deny Trump Was Upset A Woman Played Former Press Secretary On 'SNL'", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-deny-trump-was-upset-a-woman-played-him-on-snl_us_59bbcb76e4b0edff971b4f4d', 'short_description': 'This interview keeps getting spicier.', 'date': '2017-09-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Michele Bachmann Says She's Considering Running For Al Franken's Senate Seat", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/michele-bachmann-senate-minnesota_us_5a4bc19ae4b06d1621bb329b', 'short_description': 'First, the former congresswoman needs heavenly approval.', 'date': '2018-01-02'}

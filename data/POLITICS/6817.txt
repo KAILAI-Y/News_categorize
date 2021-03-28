@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Republicans Turn Guns On Each Other In Wake Of Obamacare Repeal Fail', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/republicans-obamacare-repeal_us_598b0ad2e4b0449ed506e31a', 'short_description': 'Rock, meet hard place.', 'date': '2017-08-09'}

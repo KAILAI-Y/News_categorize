@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Bun B Recruits Jamie Foxx, Other Celebs To Host Harvey Relief Telethon', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/bun-b-jamie-foxx-harvey-telethon_us_59a989a9e4b0dfaafcf00436', 'short_description': 'The telethon will air on live TV on Sept. 12.', 'date': '2017-09-01'}

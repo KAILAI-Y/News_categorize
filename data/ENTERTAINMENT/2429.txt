@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Cheeky ‘Jeopardy’ Champ Somehow Got Alex Trebek To Utter A Naughty Word', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/austin-rogers-alex-trebek-dick-tree_us_59e0379de4b04d1d5180a3a5', 'short_description': "Austin Rogers' streak come to a hilarious end.", 'date': '2017-10-13'}

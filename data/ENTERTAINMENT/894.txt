@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Demi Lovato Says A Celebrity Nearly Drove Her To Drink At The Met Gala', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/demi-lovato-drink-met-gala_us_5aa294b4e4b01b9b0a3a9bbf', 'short_description': '"This one celebrity was a complete b***h and was miserable to be around."', 'date': '2018-03-09'}

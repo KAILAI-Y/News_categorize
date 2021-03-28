@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'This Dad Has Mastered The Art Of Tweeting About Parenting', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/this-dad-has-mastered-the-art-of-tweeting-about-parenting_us_59236169e4b034684b0f0611', 'short_description': '"Every day, my kids use 135 different cups."', 'date': '2017-05-30'}

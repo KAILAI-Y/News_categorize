@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'New York School System Holds Its First Summit For LGBTQ Students', 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/gsa-summit_us_5a6fa02de4b05836a255cb6d', 'short_description': 'The city gave students a safe place to discuss issues of gender and sexuality.', 'date': '2018-01-30'}

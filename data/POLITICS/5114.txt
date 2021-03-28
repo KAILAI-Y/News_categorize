@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Progressives Eye Primary Challenge To Sen. Dianne Feinstein', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/dianne-feinstein-primary-california_us_59dccb60e4b0b34afa5c3d1f', 'short_description': 'Toppling the longtime California Democrat would be no small task.', 'date': '2017-10-10'}

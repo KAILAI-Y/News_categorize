@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Justin Trudeau Is Romancing Emmanuel Macron And It's Too Much", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/trudeau-romance-macron-twitter_us_592848a7e4b0df57cbfb4c4b', 'short_description': 'But what about Barack?', 'date': '2017-05-26'}

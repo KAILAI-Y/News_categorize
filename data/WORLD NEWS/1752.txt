@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Tower Of Human Skulls Casts New Light On Aztecs', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/aztecs-tower-skulls_us_5959013be4b02734df32f40f', 'short_description': 'Archaeologists have found more than 650 skulls caked in lime near the site of the Templo Mayor.', 'date': '2017-07-02'}

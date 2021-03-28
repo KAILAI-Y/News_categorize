@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Watch Dogs Play In The Mud Because It's Too Darn Fun To Ignore", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/watch-dogs-play-in-the-mud-because-its-too-darn-fun-to-ignore_us_592c2bcce4b0065b20b782b3', 'short_description': 'Good bog!', 'date': '2017-05-29'}

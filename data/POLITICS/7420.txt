@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Senator Defends Democratic Opponent Hit By Anti-Muslim Attacks', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/jeff-flake-islamophobia-deedra-abboud_us_596f477de4b00db3d0f46bcf', 'short_description': '"Sorry you have to put up with this," Jeff Flake (R-Ariz.) said.', 'date': '2017-07-19'}

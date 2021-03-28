@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Hollywood Cafe Lets You Have Coffee With Ryan Gosling Every Day', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/ryan-gosling-coffee-mug_us_59b6ccf1e4b03e6197afc705', 'short_description': 'Do you want your Ryan Gosling with sugar?', 'date': '2017-09-11'}

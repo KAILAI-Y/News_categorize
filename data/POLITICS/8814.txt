@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Hillary Clinton, 'Sickened' by Portland Stabbings, Says Hatred Shouldn't Be Tolerated", 'authors': 'Claire Fallon', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-portland-stabbing_us_5930b1a8e4b02478cb9a0264', 'short_description': '"I\'m deeply troubled."', 'date': '2017-06-02'}

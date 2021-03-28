@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "CBS News Fires Political Director Over 'Inappropriate Behavior'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/cbs-news-political-director-inappropriate-behavior_us_5a4e2ce0e4b06d1621bd7ded', 'short_description': "Steve Chaggaris oversaw coverage of Donald Trump's campaign and White House.", 'date': '2018-01-04'}

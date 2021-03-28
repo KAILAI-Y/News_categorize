@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Black Panther' Sequel Officially Confirmed By Marvel Studios Head", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/black-panther-sequel-officially-confirmed-by-marvel-studio-head_us_5aa2e2d7e4b086698a9daf6d', 'short_description': "Possibly the most unsurprising news you'll hear today.", 'date': '2018-03-09'}

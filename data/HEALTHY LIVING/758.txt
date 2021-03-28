@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'U.S. Supreme Court Ruling Threatens Massive Talc Litigation Against J&J', 'authors': 'Nate Raymond, Reuters', 'link': 'https://www.huffingtonpost.com/entry/us-supreme-court-ruling-threatens-massive-talc-litigation-against-jj_us_594ae055e4b0a3a837bcc245', 'short_description': 'The battle continues.', 'date': '2017-06-21'}

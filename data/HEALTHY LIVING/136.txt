@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Self-Harm Among Teen Girls In The UK Rises Sharply', 'authors': 'Shereen Lehman, Reuters', 'link': 'https://www.huffingtonpost.com/entry/self-harm-among-teen-girls-in-the-uk-rises-sharply_us_59fc936be4b01b47404a1787', 'short_description': 'The teens who self-harmed also had high rates of depression and anxiety.', 'date': '2017-11-03'}

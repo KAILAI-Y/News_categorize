@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Senator: If Donald Trump Has Tapes Of James Comey, He Should Hand Them Over', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-comey-tapes_us_593d4775e4b0c5a35ca04eff', 'short_description': '“I don’t understand why the president just doesn’t clear up the matter once and for all."', 'date': '2017-06-11'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'Spokespuppet' Kellyanne Conway Celebrates Trumpaversary With Jimmy Kimmel", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-jimmy-kimmel-donald-trump-spokespuppet_us_5a670e68e4b0dc592a0c2a34', 'short_description': '"We’re drinking delicious Trump Vodka and getting s***holed."', 'date': '2018-01-23'}

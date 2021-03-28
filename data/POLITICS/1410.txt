@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mike Huckabee Celebrates Firing Of Former FBI Deputy Director By Making Dead Dog Joke', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/mike-huckabee-andrew-mccabe-dead-dog-joke_us_5aad6c68e4b0c33361b0e9e9', 'short_description': 'No one is laughing.', 'date': '2018-03-17'}

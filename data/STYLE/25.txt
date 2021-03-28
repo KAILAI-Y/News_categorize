@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'This Is What The Golden Globes Looked Like In 1998', 'authors': 'Julia Brucculieri', 'link': 'https://www.huffingtonpost.com/entry/golden-globes-1998_us_5a4d2126e4b025f99e1f7090', 'short_description': 'Our hearts still go on for Leonardo DiCaprio and Kate Winslet.', 'date': '2018-01-05'}

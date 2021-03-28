@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "China Is Forcing Muslim Children To Abandon 'Overly Religious' Names", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/china-muslim-names_us_5936e1a8e4b0cfcda91824d0', 'short_description': 'Banned names include Islam, Quran, Mecca, Jihad, Imam, Saddam, Hajj, Medina and Arafat.', 'date': '2017-06-06'}

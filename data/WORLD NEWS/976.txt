@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S.-Backed Syrian Militias Take Back Raqqa From ISIS', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/syrian-militias-capture-raqqa_us_59e5ecafe4b0ca9f483ac527', 'short_description': "The city was one of the terror group's last remaining strongholds.", 'date': '2017-10-17'}

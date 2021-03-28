@@ -1,0 +1,1 @@
+{'category': 'COLLEGE', 'headline': 'How To Embrace Change', 'authors': 'Stephanie Harris, ContributorUniversity of Michigan Student', 'link': 'https://www.huffingtonpost.com/entry/how-to-embrace-change_us_59655f85e4b09be68c00561c', 'short_description': 'Although it can be terrifying, I love the idea of having my whole life in front of me.', 'date': '2017-07-11'}

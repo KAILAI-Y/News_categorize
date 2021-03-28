@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Only 13 People Actually Used Delta's Discount For NRA Members", 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/delta-air-lines-nra_us_5a9ae083e4b089ec353ac174', 'short_description': 'The airline sparked massive controversy by ending the deal, but few people ever used it.', 'date': '2018-03-03'}

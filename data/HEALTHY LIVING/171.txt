@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': '10 Reads For Anyone In A Long-Distance Relationship', 'authors': 'Minou Clark', 'link': 'https://www.huffingtonpost.com/entry/long-distance-relationship_us_59e7aa6ee4b08f9f9edc8434', 'short_description': 'Distance makes the heart grow fonder.', 'date': '2017-10-25'}

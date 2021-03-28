@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "American Students Aren't Learning The Full Truth About Slavery", 'authors': 'Rebecca Klein', 'link': 'https://www.huffingtonpost.com/entry/schools-teaching-slavery_us_5a7243cbe4b03699143f144f', 'short_description': 'Students often get only a superficial view of the atrocity that built the country, a new study finds.', 'date': '2018-02-01'}

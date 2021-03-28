@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "A 'Buffy The Vampire Slayer' Reboot Will Happen Under One Condition", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/buffy-the-vampire-slayer-reboot-frequently-discussed-at-fox_us_5aa803c5e4b04042d27ec01a', 'short_description': 'Your move, Joss Whedon.', 'date': '2018-03-13'}

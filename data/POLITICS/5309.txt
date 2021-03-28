@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Ammosexual States Of America', 'authors': 'Nish Gera, ContributorWriter, Filmmaker', 'link': 'https://www.huffingtonpost.com/entry/the-ammosexual-states-of-america_us_59d39cd3e4b092b22a8e3997', 'short_description': '98 percent of all mass shooters in the U.S. have been male.', 'date': '2017-10-03'}

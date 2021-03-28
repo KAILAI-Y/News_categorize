@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sean Spicer Finally Calls It Quits After 6 Months Of Humiliations', 'authors': 'Paul Blumenthal', 'link': 'https://www.huffingtonpost.com/entry/sean-spicer-quits-scaramucci_us_59723e36e4b00e4363df3e29', 'short_description': 'Blatantly lying for the president was fine. Working for Anthony Scaramucci is not.', 'date': '2017-07-21'}

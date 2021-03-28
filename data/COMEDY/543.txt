@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Stephen Colbert Gives Donald Trump's Allies And Enemies The Funniest Alter Egos", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-alter-egos_us_5a1d19c8e4b0e2ddcbb243a8', 'short_description': 'Introducing... the "Confederate house elf."', 'date': '2017-11-28'}

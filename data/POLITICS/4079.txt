@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'What Happens When You File A Sexual Harassment Complaint On Capitol Hill', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/sexual-harassment-complaint-capitol-hill_us_5a1335f1e4b0bfa88c1c3c0a', 'short_description': 'MSNBC\'s Kasie Hunt broke down the "convoluted" process.', 'date': '2017-11-20'}

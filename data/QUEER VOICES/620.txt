@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Gay Talese Says Kevin Spacey Accusers Should Just 'Suck It Up'", 'authors': 'Jenavieve Hatch', 'link': 'https://www.huffingtonpost.com/entry/gay-talese-says-kevin-spacey-accusers-should-just-suck-it-up_us_5a0315c8e4b04e96f0c6e6f7', 'short_description': 'Whole lotta no.', 'date': '2017-11-08'}

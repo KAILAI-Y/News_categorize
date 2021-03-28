@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Samantha Bee Thinks Ivanka Trump Will Be The First Female President', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/samantha-bee-ivanka-trump-president_us_5a0404c8e4b0937b510f92e2', 'short_description': '"I\'m not joking."', 'date': '2017-11-09'}

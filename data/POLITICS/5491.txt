@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Asia In Flames?', 'authors': 'Tom Engelhardt, ContributorEditor, TomDispatch.com', 'link': 'https://www.huffingtonpost.com/entry/asia-in-flames_us_59ca8077e4b0cdc773352dba', 'short_description': 'Cross-posted with TomDispatch.com At the U.N. recently, Donald Trump followed up on his bloodcurdling threat to unleash on', 'date': '2017-09-26'}

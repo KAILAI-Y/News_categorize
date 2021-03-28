@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Black Organizers Call For Boycott Of Target, Other Major Stores In St. Louis', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/st-louis-boycott-black-leaders_us_5a0080d3e4b04cdbeb34fce7', 'short_description': "The boycott comes two months after ex-cop Jason Stockley's not guilty verdict.", 'date': '2017-11-06'}

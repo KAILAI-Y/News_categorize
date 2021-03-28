@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Why The 'Sexy Melania' Halloween Costume Is Especially Unsettling", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/sexy-melania-trump-costume_us_59db81cbe4b0f6eed351bd0b', 'short_description': "As if reality isn't bad enough already.", 'date': '2017-10-09'}

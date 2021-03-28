@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Alec Baldwin Burns Trump While Accepting Emmy For Playing Trump', 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwin-trump-impression-emmy_us_59bac212e4b0edff971a39b4', 'short_description': '"Mr. President, here is your Emmy."', 'date': '2017-09-18'}

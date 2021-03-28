@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Turkish Capital Bans LGBT Rights Events', 'authors': 'David Dolan, Reuters', 'link': 'https://www.huffingtonpost.com/entry/ankara-lgbt-events-ban_us_5a11a9bde4b0dd63b1ab051e', 'short_description': 'Ankara officials said such activities could jeopardize public safety.', 'date': '2017-11-19'}

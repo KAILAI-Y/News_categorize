@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Anti-Abortion Leader Emerges As White Nationalist', 'authors': 'Laura Bassett', 'link': 'https://www.huffingtonpost.com/entry/kristen-hatten-white-nationalist_us_5acd0d5be4b0259339de14f8', 'short_description': 'The Dallas Morning News and anti-abortion groups are distancing themselves from Kristen Hatten.', 'date': '2018-04-17'}

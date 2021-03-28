@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Is It Insensitive To Discuss Climate Change Right Now? No.', 'authors': 'William S. Becker, ContributorEnergy & Climate Policy Expert', 'link': 'https://www.huffingtonpost.com/entry/is-it-insensitive-to-discuss-climate-change-right-now_us_59b81aebe4b02c642e4a11d3', 'short_description': 'There is considerable urgency here.', 'date': '2017-09-12'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Bill Maher: Trump Is 'Plainly A Traitor Who Doesn't Defend His Own Country'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bill-maher-donald-trump-traitor_us_5a87d31fe4b00bc49f443610', 'short_description': 'The "Real Time" host also posed a question for Trump\'s supporters.', 'date': '2018-02-17'}

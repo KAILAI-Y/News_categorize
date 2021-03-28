@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'L.L. Bean Becomes Latest Company To Ban Gun Sales To People Under 21', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/ll-bean-gun-purchases-21_us_5a9912a2e4b0479c02513486', 'short_description': 'The company changed its policy in response to the Parkland shooting.', 'date': '2018-03-02'}

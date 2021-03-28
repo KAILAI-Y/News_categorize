@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Wednesday's Morning Email: The Fallout From Donald Trump Jr.'s Emails", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/wednesdays-morning-email-the-fallout-from-donald-trump-jrs-emails_us_596608ebe4b03f144e2f4e70', 'short_description': 'And what the president has to say about it.', 'date': '2017-07-12'}

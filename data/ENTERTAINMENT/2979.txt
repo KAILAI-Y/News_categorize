@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Jimmy Kimmel Premieres 'Baby Bachelor In Paradise' After 'Bachelerotte' Finale", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/jimmy-kimmel-baby-bachelor-in-paradise_us_598a0391e4b0d793738ab5b4', 'short_description': 'The most relatable "Bachelor" series yet.', 'date': '2017-08-08'}

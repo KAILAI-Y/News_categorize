@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Floats Possibility Of Firing Robert Mueller, Criticizes Jeff Sessions', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/trump-firing-mueller-we-will-see_us_5acbef3ce4b07a3485e78ede', 'short_description': '“Well, I think it’s a disgrace what’s going on," he said. "We’ll see what happens."', 'date': '2018-04-09'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Steven Spielberg Joins DC Universe For 'Blackhawk' Film", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/blackhawk-steven-spielberg_us_5ad680d8e4b029ebe01eec85', 'short_description': '"Blackhawk" is based on a 1940s comic about Nazi-fighting pilots.', 'date': '2018-04-18'}

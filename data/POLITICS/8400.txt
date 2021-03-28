@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Hillary Clinton's Old Campaign Twitter Springs Back To Life To Troll Trump", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-campaign-twitter-trump_us_59432f2ee4b01eab7a2cada8', 'short_description': 'It was the first message from @TheBriefing2016 since Nov. 7.', 'date': '2017-06-16'}

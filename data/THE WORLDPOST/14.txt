@@ -1,0 +1,1 @@
+{'category': 'THE WORLDPOST', 'headline': '8 Films That Stood Out At The Venice Film Festival', 'authors': 'Kathleen Miles and Brian Formo', 'link': 'https://www.huffingtonpost.com/entry/venice-film-festival-best-of_us_59ad73fae4b0b5e5310015e5', 'short_description': 'Here are our favorites of the fest -- some popular, others divisive or overlooked.', 'date': '2017-09-08'}

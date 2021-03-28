@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Comedy Writer Calls Out GOP In Blistering Replies To 'Prayers' After Florida Shooting", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/bess-kalb-nra-tweets_us_5a84ee69e4b0058d5565cbac', 'short_description': 'Bess Kalb has names and dollar amounts for NRA-linked lawmakers.', 'date': '2018-02-15'}

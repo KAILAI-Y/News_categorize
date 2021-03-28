@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Activist Wants To Stop Muslims From Participating In Minnesota's GOP", 'authors': 'Rowaida Abdelaziz', 'link': 'https://www.huffingtonpost.com/entry/minnesota-gop-muslims_us_5a81d2e8e4b08dfc9306adf8', 'short_description': "It's not clear whether any actually want to.", 'date': '2018-02-12'}

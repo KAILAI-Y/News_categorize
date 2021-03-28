@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'A First Look At Al Pacino As Joe Paterno Will Give You The Chills', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/al-pacino-joe-paterno_us_596c7fcce4b03389bb18a4bf', 'short_description': 'HBO film explores coach\'s role in Jerry Sandusky sex abuse scandal, "challenging his legacy."', 'date': '2017-07-17'}

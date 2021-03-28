@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Gina Haspel Now Says CIA Shouldn't Have Conducted Its Interrogation Program", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/gina-haspel-torture-warner_us_5afaf308e4b0200bcab90391', 'short_description': 'She repeatedly refused to weigh in on its morality at her confirmation hearing.', 'date': '2018-05-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How Trump Can Succeed At Signing Up People For Obamacare — If He Wants To', 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/trump-obamacare-success_us_599cb5a1e4b0a296083ac114', 'short_description': 'And how he may have set it up for failure, according to the man who used to run the program.', 'date': '2017-09-03'}

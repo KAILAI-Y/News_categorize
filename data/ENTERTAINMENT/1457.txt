@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Aziz Ansari Skips 2018 SAG Awards, Receives No Applause When Mentioned', 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/aziz-ansari-sag-awards_us_5a654f65e4b0022830040672', 'short_description': 'The comedian was recently accused of sexual misconduct.', 'date': '2018-01-22'}

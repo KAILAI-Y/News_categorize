@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Federal Trade Commission Begins Investigating Facebook', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/facebook-ftc-investigation-privacy-practices_us_5ab90b20e4b0decad04c493b', 'short_description': 'The probe was sparked by revelations that Cambridge Analytica misused Facebook user data.', 'date': '2018-03-26'}

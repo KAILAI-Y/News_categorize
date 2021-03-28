@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Twitter Reacts After Trump Retweets Photo Of Himself With Bloody CNN Logo', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/trump-bloody-cnn-tweet_us_5a402d09e4b025f99e17c37d', 'short_description': 'On Christmas Eve, no less.', 'date': '2017-12-25'}

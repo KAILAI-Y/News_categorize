@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.N. Ambassador Nikki Haley Says Donald Trump Thinks The Climate Is Changing', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/nikki-haley-trump-climate-change_us_5932fe03e4b0c242ca249455', 'short_description': '“And he believes pollutants are part of that equation," she says.', 'date': '2017-06-03'}

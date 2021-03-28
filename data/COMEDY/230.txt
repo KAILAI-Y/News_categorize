@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stewie Griffin Comes Out ... As An American', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/stewie-comes-out-on-family-guy_us_5aaf3a0de4b0c33361b1d246', 'short_description': 'The truth is finally revealed.', 'date': '2018-03-19'}

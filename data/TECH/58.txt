@@ -1,0 +1,1 @@
+{'category': 'TECH', 'headline': 'Apple Confirms It Slows Down Old iPhones As Their Batteries Age', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/apple-slows-down-old-iphones_us_5a3bfe71e4b0b0e5a7a09efd', 'short_description': 'But only in certain circumstances.', 'date': '2017-12-21'}

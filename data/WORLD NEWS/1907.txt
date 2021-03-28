@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Helmut Kohl, Architect Of A Reunified Germany, Dies At 87', 'authors': 'Noah Barkin, Reuters', 'link': 'https://www.huffingtonpost.com/entry/helmut-kohl-dead_us_5943f921e4b06bb7d272a866', 'short_description': "He was the country's longest-serving post-war chancellor.", 'date': '2017-06-16'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Boy Scouts Chief Apologizes For Donald Trump's Politically Charged Speech", 'authors': 'Mollie Reilly', 'link': 'https://www.huffingtonpost.com/entry/boy-scouts-trump-apology_us_597a28b3e4b02a4ebb73ea20', 'short_description': '"We sincerely regret that politics were inserted into the Scouting program," he wrote.', 'date': '2017-07-27'}

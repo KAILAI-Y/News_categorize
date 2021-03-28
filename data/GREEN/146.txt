@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Thousands More Flee Their Homes As California Wildfires Spread', 'authors': 'Heather Somerville, Reuters', 'link': 'https://www.huffingtonpost.com/entry/wildfires-california-saturday-evacuations_us_59e25984e4b0a52aca184cb9', 'short_description': '“It’s an unwieldy beast right now,” a fire information officer said.', 'date': '2017-10-14'}

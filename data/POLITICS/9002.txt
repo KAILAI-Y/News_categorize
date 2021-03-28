@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Melania Trump Steps Out In Floral Jacket Worth A Year's Income", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/melania-51500-jacket_us_5928b758e4b0df57cbfbd18c', 'short_description': 'Is this the fashion version of  "let them eat cake?"', 'date': '2017-05-27'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Mocks Lawmakers For Talking Porn Instead Of Guns', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-florida-porn_us_5a8e3d05e4b0617d4639db24', 'short_description': '“What do you have against teenagers?”', 'date': '2018-02-22'}

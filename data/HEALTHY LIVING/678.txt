@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Opioid Prescriptions Are Declining -- But Not Nearly Enough', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/opioid-prescriptions-cdc-report_us_595f8eb6e4b0615b9e90e309', 'short_description': "A new report shows we're nowhere near fixing this crisis.", 'date': '2017-07-07'}

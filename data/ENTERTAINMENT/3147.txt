@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's The Eerie First Teaser For 'American Horror Story: Cult'", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/american-horror-story-cult-trailer_us_5972011ee4b0e79ec198b1d4', 'short_description': 'Beware clowns.', 'date': '2017-07-21'}

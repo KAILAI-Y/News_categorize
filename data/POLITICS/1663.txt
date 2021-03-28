@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Ben Carson Removes Anti-Discrimination Language From HUD Mission Statement', 'authors': 'Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/hud-mission-statement_us_5a9f5db0e4b002df2c5ec617', 'short_description': 'It will no longer reference "inclusive" communities "free from discrimination."', 'date': '2018-03-07'}

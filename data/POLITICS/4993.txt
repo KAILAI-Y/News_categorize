@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Supreme Court To Decide Major Microsoft Email Privacy Fight', 'authors': 'Lawrence Hurley, Reuters', 'link': 'https://www.huffingtonpost.com/entry/supreme-court-microsoft_us_59e4c7c7e4b04d1d518358b6', 'short_description': 'A ruling is due by the end of June.', 'date': '2017-10-16'}

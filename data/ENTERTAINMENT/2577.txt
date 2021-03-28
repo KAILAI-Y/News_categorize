@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Stephen Colbert Finally Changes Jerry Seinfeld's Mind On Bill Cosby", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/jerry-seinfeld-stephen-colbert-bill-cosby_us_59cfce15e4b05f005d348917', 'short_description': "The two initially shared opposing viewpoints on Cosby's tattered legacy.", 'date': '2017-09-30'}

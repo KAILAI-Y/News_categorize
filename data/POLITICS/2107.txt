@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Kansas Official Puts Kibosh On Dog's Gubernatorial Campaign", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/angus-dog-kansas-governor_us_5a8335d3e4b02b66c512a4cd', 'short_description': "The dog won't even get a chance to be in the hunt.", 'date': '2018-02-13'}

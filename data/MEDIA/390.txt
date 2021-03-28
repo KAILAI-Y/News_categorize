@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Jim Bakker Claims 'Merry Christmas' Was Outlawed", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/jim-bakker-merry-christmas_us_5a0e71b9e4b0dd63b1a98455', 'short_description': 'Televangelist fires a new salvo in the "War on Christmas."', 'date': '2017-11-17'}

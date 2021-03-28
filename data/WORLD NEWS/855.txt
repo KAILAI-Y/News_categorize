@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "It Only Took Trump One Year To Trash America's Global Reputation", 'authors': 'Louise Roug', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-one-year-world-perspective_us_5a029dc4e4b06ff32c9456ac', 'short_description': '“The rest of the world is shaking its head," one expert said.', 'date': '2017-11-08'}

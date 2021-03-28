@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Stephen Colbert Puts A Sales Spin On Trump's Border Wall Prototypes", 'authors': 'Todd Van Luling', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-border-wall_us_59e212b0e4b04d1d5182190c', 'short_description': 'The late-night host hawks the designs with a dash of bitter reality.', 'date': '2017-10-14'}

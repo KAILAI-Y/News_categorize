@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Tweets U.S. 'Would Be Delighted' To Help Terminally Ill U.K. Infant", 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-charlie-gard_us_595a5b50e4b05c37bb7f9f13', 'short_description': 'Charlie Gard is set to be taken off life support after a lengthy court battle.', 'date': '2017-07-03'}

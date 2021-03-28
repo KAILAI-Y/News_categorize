@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S. To Move Its Embassy In Israel To Jerusalem In May', 'authors': 'Nick Robins-Early', 'link': 'https://www.huffingtonpost.com/entry/us-israeli-embassy-jerusalem_us_5a902dade4b0ee6416a29031', 'short_description': 'The controversial relocation will come much faster than initially expected.', 'date': '2018-02-23'}

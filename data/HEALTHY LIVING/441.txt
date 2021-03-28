@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Your High School Friendships Are Still Affecting Your Mental Health', 'authors': 'Lindsay Holmes', 'link': 'https://www.huffingtonpost.com/entry/best-friends-adult-happiness_us_599d8c60e4b0a296083b682e', 'short_description': "Popularity isn't everything.", 'date': '2017-08-23'}

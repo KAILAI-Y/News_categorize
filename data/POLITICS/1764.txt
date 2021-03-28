@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Will Trump Follow Through On Guns? He Didn't Do So On Immigration.", 'authors': 'Igor Bobic and Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/trump-guns-immigratio_us_5a973411e4b07dffeb6f772f', 'short_description': '“Why would you believe [the president]?” asked Democratic Sen. Dick Durbin.', 'date': '2018-03-01'}

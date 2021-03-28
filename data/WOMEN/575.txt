@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'I Am The Problem', 'authors': 'Sonia Halbach, ContributorWriter', 'link': 'https://www.huffingtonpost.com/entry/i-am-the-problem_us_598f7dfae4b063e2ae05802f', 'short_description': 'Even though I didn’t vote for Trump, I’m one of the people to blame. That’s not an easy thing to admit.', 'date': '2017-08-12'}

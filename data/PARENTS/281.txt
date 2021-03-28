@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "Bobby Moynihan Jokes That Being A Dad And Doing 'SNL' Are 'The Same Thing'", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/bobby-moynihan-jokes-that-being-a-dad-and-doing-snl-are-the-same-thing_us_59c8fec7e4b0cdc77332aae8', 'short_description': 'The comedian shared a funny comparison.', 'date': '2017-09-25'}

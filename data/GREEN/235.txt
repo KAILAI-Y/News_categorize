@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Arctic Warming Made Harvey A ‘Killer Storm,' Climate Researcher Says", 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/climate-change-hurricane-harvey_us_59a6f6a3e4b00795c2a35c15', 'short_description': "“What happens in the Arctic doesn't stay in the Arctic,” says Charles H. Greene.", 'date': '2017-08-30'}

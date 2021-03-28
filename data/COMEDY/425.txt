@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Meryl Streep Flubs Jimmy Kimmel's Academy Awards Quiz About Herself", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/meryl-streep-jimmy-kimmel-academy-awards_us_5a549261e4b01e1a4b192236', 'short_description': 'Oops!', 'date': '2018-01-09'}

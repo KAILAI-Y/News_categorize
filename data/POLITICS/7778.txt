@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Bad News From Hamburg: Nobody Is Leading The World', 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/trump-g-20-leader-of-the-free-world_us_595e9897e4b0615b9e904d7d', 'short_description': 'Certainly not Donald Trump.', 'date': '2017-07-06'}

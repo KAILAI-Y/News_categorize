@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Poll Shows Trump's Popularity Is Slipping In Rural America", 'authors': 'Chris Kahn & Tim Reid, Reuters', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-popularity_us_59db9763e4b0b34afa5b12b3', 'short_description': 'Trump has been losing his grip.', 'date': '2017-10-09'}

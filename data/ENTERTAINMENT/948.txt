@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Academy Awards Viewership Hit A Record Low This Year', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/academy-awards-viewership-record-low_us_5a9db291e4b0a0ba4ad6f452', 'short_description': 'The Oscars ratings dropped double digits from last year.', 'date': '2018-03-05'}

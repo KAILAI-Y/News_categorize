@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Internet Enjoys Sarah Sanders' Claim That Trump Is 'The Best Negotiator At The Table'", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/trump-best-negotiator-no-says-twitter_us_5ac7d19de4b0337ad1e80617', 'short_description': 'People were skeptical. Very skeptical.', 'date': '2018-04-06'}

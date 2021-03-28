@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "John Boyega And Oscar Isaac Read All Those Thirsty Tweets You've Been Sending", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/john-boyega-and-oscar-isaac-read-thirsty-tweets_us_5a33ec82e4b0ff955ad265e0', 'short_description': '"Star Wars: The Thirst Awakens."', 'date': '2017-12-15'}

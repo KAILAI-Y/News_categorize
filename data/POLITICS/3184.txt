@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Scott Pruitt Lands A Second Fawning Conservative Magazine Profile', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-national-review-profile_us_5a3d3cb8e4b06d1621b42a1c', 'short_description': 'Hell yeah, he’s owning the libs!', 'date': '2017-12-22'}

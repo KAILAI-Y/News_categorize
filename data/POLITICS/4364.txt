@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Listen To Former Felons Who Can Vote Again Explain The Power Of The Ballot', 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/virginia-restoration-of-voting-rights_us_5a045ea9e4b03deac08b96f9', 'short_description': '"I just feel equal to all other citizens.”', 'date': '2017-11-09'}

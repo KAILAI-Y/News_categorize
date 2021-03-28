@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "This 'Magic Mike XXS' Parody Won't Fix Your Problems, But Damn, It's Funny", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/this-magic-mike-xxs-parody-wont-fix-your-problems-but-damn-its-funny_us_5a00d780e4b0368a4e867bd2', 'short_description': 'Wee Channing still has big moves.', 'date': '2017-11-06'}

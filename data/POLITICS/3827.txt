@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Whoops! Trump Tweeted At The Wrong Theresa May', 'authors': 'Sarah Ruiz-Grossman', 'link': 'https://www.huffingtonpost.com/entry/trump-tweets-wrong-theresa-may_us_5a1f55e7e4b037b8ea1f8ae5', 'short_description': 'The mishap came amid a long day of controversial tweets from the president.', 'date': '2017-11-30'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Khloe Kardashian Gives Birth To Baby Girl', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/khloe-kardashian-birth-baby-girl_us_5aa67d31e4b086698a9fab71', 'short_description': "Kardashian's boyfriend, NBA star Tristan Thompson, was accused of cheating days before the birth.", 'date': '2018-04-12'}

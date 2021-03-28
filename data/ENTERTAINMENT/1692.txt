@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Queen Of Bops Ariana Grande Teases New Music And We're So Into It", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/ariana-grande-new-music_us_5a4cdcd3e4b0b0e5a7a9fcfe', 'short_description': 'WE CAN BARELY BREATHE.', 'date': '2018-01-03'}

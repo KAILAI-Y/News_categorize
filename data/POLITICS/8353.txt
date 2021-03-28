@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Jenner On GOP Baseball Shooting: 'Liberals Can't Even Shoot Straight'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/jenner-shooting-straight_us_5945f742e4b0f15cd5bbd74f', 'short_description': 'College Republican crowd goes wild in response.', 'date': '2017-06-18'}

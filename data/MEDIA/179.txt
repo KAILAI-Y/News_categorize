@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "The Boston Globe Has The Last Mass Shooting Story You're Likely To Need", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/boston-globe-mass-shooting-story_us_5a86f6a1e4b05c2bcaca3c69', 'short_description': "It's ready for the next massacre, and the one after that, and the one after that ...", 'date': '2018-02-16'}

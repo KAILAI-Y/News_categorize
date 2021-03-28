@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Hillary Clinton Partly Blames Voter Suppression For Her Loss, But Experts Aren't So Sure", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/hillary-clinton-voter-suppression_us_59306706e4b07572bdbfea14', 'short_description': 'They say Democrats have been talking up a flawed study.', 'date': '2017-06-01'}

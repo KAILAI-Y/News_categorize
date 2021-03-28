@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Called White Supremacists 'Very Fine People' But An Athlete Who Protests Is A 'Son Of A Bitch'", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/trump-colin-kaepernick_us_59c6846be4b0cdc77331a2f0', 'short_description': 'This is a stark contrast.', 'date': '2017-09-23'}

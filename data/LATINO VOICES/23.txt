@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': 'Watch What Happened When This Latina Tried To Learn Spanish In 60 Days', 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/learn-spanish-60-days-maya-murillo_us_5a7b5b6fe4b08dfc92ff712b', 'short_description': "BuzzFeed's Maya Murillo described the experience as an “emotional journey.”", 'date': '2018-02-07'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "American Airlines Pilot Reports UFO With 'Big Reflection' 40,000 Feet Over Arizona", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/albuquerque-ufo_us_5ab86840e4b0decad04b5bc2', 'short_description': '“Something just passed over us."', 'date': '2018-03-26'}

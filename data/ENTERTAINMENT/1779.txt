@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Report: Mindy Kaling Gives Birth To First Child', 'authors': 'Jillian Capewell and Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/mindy-kaling-gives-birth_us_5991f778e4b08a2472768a01', 'short_description': 'Now she\'ll be embarking on a whole new "project."', 'date': '2017-12-20'}

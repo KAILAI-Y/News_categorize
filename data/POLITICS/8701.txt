@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Georgia GOP Candidate For U.S. House: 'I Do Not Support A Livable Wage'", 'authors': "Chris D'Angelo", 'link': 'https://www.huffingtonpost.com/entry/karen-handle-livable-wage_us_593750cde4b0ce1e7408ce7e', 'short_description': 'Karen Handel faces Democrat Jon Ossoff in a June 20 runoff.', 'date': '2017-06-07'}

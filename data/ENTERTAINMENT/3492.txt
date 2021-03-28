@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Two 'Saturday Night Live' Writers Muse On The Show's Polarizing Political Comedy", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/saturday-night-live-political-comedy_us_593007dee4b09ec37c3203ec', 'short_description': "Including the sketch Trump didn't want to perform.", 'date': '2017-06-01'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Eric Bolling's 19-Year-Old Son Found Dead", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/eric-bolling-son-dead_us_59b42138e4b0354e44122ec3', 'short_description': "Eric Chase Bolling died hours after Fox News announced his father's departure from the network.", 'date': '2017-09-09'}

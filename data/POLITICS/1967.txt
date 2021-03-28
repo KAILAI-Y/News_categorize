@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Not Every Pennsylvania Democrat Benefited From Redistricting', 'authors': 'Daniel Marans', 'link': 'https://www.huffingtonpost.com/entry/pennsylvania-democrats-gain-from-new-congressional-map_us_5a8d9fdfe4b00a30a251b3fc', 'short_description': "Here's a rundown of the winners and losers.", 'date': '2018-02-21'}

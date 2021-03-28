@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Magnum P.I.' Trailer Has Lots Of Close Shaves And No Big Mustache", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/magnum-pi-trailer_us_5afd8e94e4b0779345d6b1a2', 'short_description': "The TV reboot's hero now lives on the razor's edge.", 'date': '2018-05-17'}

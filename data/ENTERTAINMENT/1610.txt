@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Jennifer Lawrence Was Ready To Party After The Golden Globes — And Then Emma Stone Called', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/jennifer-lawrence-emma-stone-makeup_us_5a5523ece4b01e1a4b1a8b58', 'short_description': 'THESE TWO.', 'date': '2018-01-09'}

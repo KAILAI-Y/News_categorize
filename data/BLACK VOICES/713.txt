@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Provocative ‘Free Speech’ Rally In Boston Railroaded By Counterprotesters', 'authors': 'Sebastian Murdock', 'link': 'https://www.huffingtonpost.com/entry/boston-rally_us_59963564e4b0e8cc855cbb42', 'short_description': 'The "free speech" rally ended early.', 'date': '2017-08-19'}

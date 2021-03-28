@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Olympics Officials Confirm Opening Ceremony Hit By Cyberattack', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/olympics-opening-ceremony-hacked-cyber-attack_us_5a81c599e4b044b3821fd3f7', 'short_description': 'Russia denied responsibility days before the games began.', 'date': '2018-02-12'}

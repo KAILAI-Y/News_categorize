@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Four American Tourists Attacked With Acid At Train Station In France', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/france-acid-attack-us-tourists_us_59be82dae4b02da0e142a4b1', 'short_description': 'A woman was arrested following the attack, which is not believed to be terror-related.', 'date': '2017-09-17'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "It's The Memory-Wiping Tech From 'Eternal Sunshine Of The Spotless Mind,' But For Trump", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/eternal-sunshine-trumpless-mind_us_5a2425b0e4b0a02abe91d08c', 'short_description': 'Someone get Elon Musk on the phone.', 'date': '2017-12-03'}

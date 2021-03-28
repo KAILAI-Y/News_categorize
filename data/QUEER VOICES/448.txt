@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Two People Detained In Egypt's Anti-Gay Crackdown Are Freed On Bail", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/egypt-anti-gay-crackdown_us_5a4be00ee4b0b0e5a7a920f7', 'short_description': 'They allegedly waved a rainbow flag at a concert in the fall.', 'date': '2018-01-02'}

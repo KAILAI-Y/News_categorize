@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Uma Thurman Says Harvey Weinstein Assaulted Her', 'authors': 'Hilary Hanson', 'link': 'https://www.huffingtonpost.com/entry/uma-thurman-harvey-weinstein-assault_us_5a75dc34e4b06ee97af30672', 'short_description': 'The actress detailed the alleged abuse in an interview with New York Times columnist Maureen Dowd.', 'date': '2018-02-03'}

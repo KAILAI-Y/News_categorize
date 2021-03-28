@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "It's Always 420 In These Ridiculous Marijuana Stock Photos", 'authors': 'David Moye and Chris McGonigal', 'link': 'https://www.huffingtonpost.com/entry/marijuana-stock-photos-420_us_5ad7c797e4b0e4d0715cff0a', 'short_description': 'Here are the cheesiest ones.', 'date': '2018-04-20'}

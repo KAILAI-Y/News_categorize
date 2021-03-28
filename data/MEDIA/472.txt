@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "'Fox & Friends' Extends Morning Broadcast To Five Hours", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/fox-friends-launches-new-show_us_59d533b9e4b0becae80211ad', 'short_description': 'Trump can start his morning tweet rampages even earlier now!', 'date': '2017-10-04'}

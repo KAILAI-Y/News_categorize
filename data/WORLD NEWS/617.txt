@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'The World’s Largest Lottery Has Just Drawn Its Winners', 'authors': 'Carol Kuruvilla', 'link': 'https://www.huffingtonpost.com/entry/spain-christmas-lottery_us_5a3d6b33e4b025f99e170a98', 'short_description': 'People all over Spain bought tickets in hopes of winning a share of the $2.8 billion total prize money.', 'date': '2017-12-22'}

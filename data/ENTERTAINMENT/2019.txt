@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Susan Sarandon Says 'We Would Be At War' If Hillary Clinton Had Won", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/susan-sarandon-hillary-clinton-war_us_5a1b82d7e4b06494807542c0', 'short_description': '"It wouldn’t be much smoother."', 'date': '2017-11-27'}

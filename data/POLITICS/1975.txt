@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Shepard Smith Flames Trump For Not Condemning Russia — Ever', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/shepard-smith-fox-news-trump-russia_us_5a8b56a4e4b0117adf7108bf', 'short_description': 'Instead he "defended himself," lied and "attacked others," the Fox News host says.', 'date': '2018-02-20'}

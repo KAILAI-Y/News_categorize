@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'French Open Player Refuses To Shake Hands As Bad Blood Boils Over', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/french-open-player-refuses-to-shake-hands_us_592d92d6e4b0df57cbfd8b39', 'short_description': 'Hard feelings on a clay court.', 'date': '2017-05-30'}

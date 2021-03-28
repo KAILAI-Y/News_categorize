@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Mattis Signs Order Sending More Troops To Afghanistan', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/mattis-signs-order-sending-more-troops-to-afghanistan_us_59a84d48e4b0a8d1457413d6', 'short_description': 'About 11,000 U.S. troops are already serving in Afghanistan.', 'date': '2017-08-31'}

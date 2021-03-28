@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Friday's Morning Email: The Fallout From Trump's Twitter Attack On Mika Brzezinski", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/fridays-morning-email-the-fallout-from-trumps-twitter-attack-on-mika-brzezinski_us_5956323be4b05c37bb7da790', 'short_description': "And Brzezinski's response.", 'date': '2017-06-30'}

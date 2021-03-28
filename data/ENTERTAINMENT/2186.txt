@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Second Woman Accuses Actor Ed Westwick Of Sexual Assault', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/ed-westwick-sexual-assault_us_5a04313ae4b0f76b05c38eb3', 'short_description': 'The former "Gossip Girl" star is already under police investigation for a rape allegation.', 'date': '2017-11-09'}

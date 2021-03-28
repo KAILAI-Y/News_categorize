@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "No Charges Will Be Filed Over Prince's Death By Counterfeit Vicodin", 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/no-charges-filed-prince-death-fentanyl_us_5ad8aff1e4b029ebe021cca4', 'short_description': 'The iconic singer died from an overdose of fentanyl in April 2016.', 'date': '2018-04-19'}

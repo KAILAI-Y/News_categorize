@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Here's The Complete List Of Winners At The 2017 MTV VMAs", 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/mtv-vmas-2017-winners_us_599c99ebe4b0d8dde9998a39', 'short_description': 'The Moon People are here.', 'date': '2017-08-27'}

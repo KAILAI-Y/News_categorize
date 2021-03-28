@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Mandalay Bay Security Guard To Appear On ‘Ellen’ After Ducking Other Interviews', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/mandalay-bay-guard-ellen-degeneres_us_59e6cccce4b0d0e4fe6bea25', 'short_description': 'Jesus Campos had disappeared before scheduled interview appearances.', 'date': '2017-10-18'}

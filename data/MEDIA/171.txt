@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'New York Daily News Rips Donald Trump For Visiting Golf Course During Florida Funerals', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/new-york-daily-news-donald-trump-golf-florida_us_5a8bd681e4b0117adf716396', 'short_description': '"May I play thru?"', 'date': '2018-02-20'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Cozies Up To Duterte, Ignores Human Rights Questions', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/trump-duterte-human-rights_us_5a095793e4b01d21c83f81d4', 'short_description': 'He also laughed when the Philippine leader referred to journalists as "spies."', 'date': '2017-11-13'}

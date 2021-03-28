@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'How Alternate-Nostril Breathing Works', 'authors': 'The Atlantic, ContributorExploring the American idea since 1857', 'link': 'https://www.huffingtonpost.com/entry/how-alternate-nostril-breathing-works_us_59c5191be4b0f2df5e83adb1', 'short_description': 'It helps if your eyes are closed.', 'date': '2017-09-22'}

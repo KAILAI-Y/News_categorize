@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Google Honors War Hero, Civil Rights Icon Josephine Baker On Her 111th Birthday', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/google-honors-activist-josephine-baker_us_5932eb69e4b02478cb9c0783', 'short_description': 'The singer, dancer, and activist is remembered across the internet.', 'date': '2017-06-03'}

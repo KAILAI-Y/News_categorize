@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'China Marks Another Milestone In Quest To Become Space Superpower', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/china-private-company-rocket-space-launch_us_5afd45fce4b0a59b4e00c750', 'short_description': "It's the first time a rocket designed by a Chinese private company has successfully entered orbit.", 'date': '2018-05-17'}

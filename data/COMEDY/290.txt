@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Beat A Coal Baron In Court, Then Mocked Him With A Giant Squirrel', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-coal-baron-squirrel_us_5a93c75be4b01e9e56bd4b95', 'short_description': 'Mr. Nutterbutter is back with a new message.', 'date': '2018-02-26'}

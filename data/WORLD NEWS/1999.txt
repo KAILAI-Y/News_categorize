@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Theresa May Says She'll Change Human Rights Laws To Fight Terrorism If Need Be", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/theresa-may-laws-terrorism_us_593702d9e4b0ce1e7408700b', 'short_description': 'Think longer prison sentences and less freedom of movement for suspects.', 'date': '2017-06-06'}

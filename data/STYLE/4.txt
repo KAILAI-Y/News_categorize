@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "18 Valentine's Day Gifts For Him That Aren't Ridiculously Cheesy", 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/17-valentines-day-gifts-for-him-that-arent-ridiculously-cheesy_us_5a5e0c63e4b04f3c55a60f15', 'short_description': 'You don’t have to get him something lovey-dovey.', 'date': '2018-01-16'}

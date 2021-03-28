@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Amy Schumer Nails Why Meghan Markle's Fairytale Wedding Actually 'Sucks'", 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/amy-schumer-nails-why-meghan-markles-fairytale-wedding-actually-sucks_us_5afdd8d1e4b06a3fb50ef8f8', 'short_description': '"Can you imagine having a worse wedding?"', 'date': '2018-05-17'}

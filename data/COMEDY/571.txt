@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Patton Oswalt Tries Again To Perform Mike Huckabee's Awful Twitter Jokes", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/patton-oswalt-mike-huckabee-twitter-jokes_us_5a0dce1fe4b0b17e5e14e037', 'short_description': "There's only so much even a seasoned comedian can do.", 'date': '2017-11-16'}

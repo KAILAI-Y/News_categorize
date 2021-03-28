@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Spanish Commentator Absolutely Loses It Over Country's First Olympic Medal", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/spanish-commentator-2018-winter-olympics-loses-it_us_5a86daf5e4b00bc49f43272a', 'short_description': "Spain's first medal since 1992 sparked an entertaining reaction.", 'date': '2018-02-16'}

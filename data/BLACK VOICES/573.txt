@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Terrelle Pryor Says He Flipped Off Fan After Being Called The N-Word', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/terrelle-pryor-racial-slur_us_59d60ed5e4b0380b6c9a7760', 'short_description': 'The Washington receiver said he heard the slur several times on Monday in the Kansas City game.', 'date': '2017-10-05'}

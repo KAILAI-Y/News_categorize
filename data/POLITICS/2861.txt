@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Suggests Republicans Scuttle Russia Investigations', 'authors': 'Willa Frej and Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-republicans-russia-investigations_us_5a56303de4b0b117f88153e4', 'short_description': 'The president continues to insist the probes into his campaign are "a witch hunt."', 'date': '2018-01-10'}

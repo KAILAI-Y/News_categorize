@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Sketchy Holiday Photos That Might Shatter Your Image Of Christmas', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/sketchy-holiday-photos-that-might-shatter-your-image-of-christmas_us_5a3c2361e4b0b0e5a7a0cdd4', 'short_description': "Warning: You'll never look at Santa the same way again!", 'date': '2017-12-24'}

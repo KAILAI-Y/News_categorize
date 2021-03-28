@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Instant Justice In A Traffic Jam Is\xa0The Most Satisfying Thing You’ll See Today', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/shoulder-traffic-instant-justice_us_5ad6c5bae4b03c426da94969', 'short_description': 'Karma happens.', 'date': '2018-04-18'}

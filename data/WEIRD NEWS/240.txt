@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Jaw-Dropping Video Mashup Shows How Truly Incredible Humans Can Be', 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/jaw-dropping-video-mash-up-shows-how-truly-incredible-humans-can-be_us_5a2bfa7de4b073789f6a3666', 'short_description': 'Set your faces to stun.', 'date': '2017-12-09'}

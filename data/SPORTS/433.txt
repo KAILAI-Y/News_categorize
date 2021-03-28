@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': "Skip Bayless's Tweet About Gordon Hayward's Injury Stirs Outrage", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/skip-bayless-tweet-about-gordon-haywards-injury-stirs-outrage_us_59e71ad7e4b00905bdad9557', 'short_description': 'NBA players and Twitter call out the "heartless clown."', 'date': '2017-10-18'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Swiss Couple Missing For 75 Years Found Frozen On Glacier', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/missing-couple-found-glacier_us_596e07a6e4b0b95f893e1058', 'short_description': 'Marcelin and Francine Dumoulin were 40 and 37 years old when they went missing in 1942.', 'date': '2017-07-18'}

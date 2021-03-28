@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'The Rise Of War Poetry In Afghanistan', 'authors': 'Sahar Speaks, Tamana Ayazi', 'link': 'https://www.huffingtonpost.com/entry/tamana-ayazi-war-poetry-afghanistan_us_598c7a0fe4b0449ed5086763', 'short_description': '"When people are surrounded by war, they are compelled to channel their feelings into writing."', 'date': '2017-08-31'}

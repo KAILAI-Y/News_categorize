@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'U.S. To Withhold $65 Million In Aid For Palestinians', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/us-aid-palestinians_us_5a5e4f50e4b0106b7f65c496', 'short_description': 'The U.S. will provide $60 million, but is withholding the rest "for future consideration."', 'date': '2018-01-16'}

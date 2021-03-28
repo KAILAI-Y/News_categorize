@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Changed His Burger Order To Make It A Little Healthier', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-burger-bun_us_5af90079e4b00d7e4c1bcf64', 'short_description': "Now Rudy Giuliani's spilling the beans on the president's diet efforts, too.", 'date': '2018-05-14'}

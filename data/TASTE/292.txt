@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Could Jeff Bezos Fix Our Broken Food System? Alice Waters Thinks So.', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/alice-waters-jeff-bezos_us_59481687e4b0cddbb0089caf', 'short_description': 'But the question remains, will Amazon use its power for good?', 'date': '2017-06-19'}

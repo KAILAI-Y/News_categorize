@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "What Merkel's Win Means For Germany's 1 Million Refugees", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/merkel-win-refugees_us_59c23231e4b087fdf50931d9', 'short_description': 'Integration is a long game, and it may take a while before the results of her efforts bear fruit.', 'date': '2017-09-27'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Oprah Compares Florida Shooting Survivors To Civil Rights Activists', 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/oprah-links-gun-survivors-to-civil-rights_us_5a940ef6e4b0ee6416a524ff', 'short_description': '“It’s a proud moment; it’s an evolving moment for our country,” she said.', 'date': '2018-02-26'}

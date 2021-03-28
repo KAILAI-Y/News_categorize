@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Rachel Platten Flubs National Anthem And Has To Start Over Twice', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/rachel-platten-national-anthem_us_5ad5c999e4b077c89cec82a9', 'short_description': 'The "Fight Song" singer said she was "so embarrassed" for her flop at a pro soccer match.', 'date': '2018-04-17'}

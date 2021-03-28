@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'How To Read Donald Trump', 'authors': 'Ariel Dorfman, ContributorAuthor', 'link': 'https://www.huffingtonpost.com/entry/how-to-read-donald-trump_us_59bab293e4b02da0e13ff9d1', 'short_description': 'On burning books but not ideas.', 'date': '2017-09-14'}

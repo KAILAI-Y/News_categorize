@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Parents Are Honoring Their Favorite Musicians With These Baby Names', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/musician-baby-names_us_5a090d80e4b0e37d2f38596d', 'short_description': 'From Wilco and Beyonce to Jagger and Bowie.', 'date': '2018-01-24'}

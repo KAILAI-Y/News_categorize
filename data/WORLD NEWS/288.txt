@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Report: Muslims Were Attacked At Least 950 Times In Germany In 2017', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/anti-muslim-attacks-germany-2017_us_5a99c67fe4b0a0ba4ad35597', 'short_description': 'The ministry said 33 people were injured in the attacks, of which 60 were directed against mosques.', 'date': '2018-03-02'}

@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Older Couple Caught With 60 Pounds Of Pot Said It Was For Holiday Gifts: Police', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/older-couple-nebraska-60-pounds-marijuana_us_5a3d7345e4b0b0e5a7a2121d', 'short_description': 'The street value of the Christmas haul was estimated at $336,000.', 'date': '2017-12-22'}

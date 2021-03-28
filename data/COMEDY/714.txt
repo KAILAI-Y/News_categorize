@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Donald Trump Gets Called Out: 'You Don't Give A S**t About Puerto Rico'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-puerto-rico_us_59d1b83ae4b09538b509160b', 'short_description': "The president's golf trophy presentation didn't go over well.", 'date': '2017-10-02'}

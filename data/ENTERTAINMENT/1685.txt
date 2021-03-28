@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Logan Paul Fans Attack Japanese Vlogger Who Responded To His 'Dead Body' Video", 'authors': 'Kimberly Yam', 'link': 'https://www.huffingtonpost.com/entry/logan-paul-vlog-response_us_5a4cf90ce4b06d1621bc68bf', 'short_description': '"Let the japs kill themselves," one commenter wrote.', 'date': '2018-01-03'}

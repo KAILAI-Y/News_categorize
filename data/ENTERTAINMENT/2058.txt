@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Beyoncé Reigns As The Highest Paid Woman In Music', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/beyonce-is-2017s-highest-paid-woman-in-music_us_5a142fb1e4b0aa32975dc0ee', 'short_description': 'All hail Queen B 🐝 🐝 🐝', 'date': '2017-11-21'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump May Have Wanted Him Gone, But Top Republicans Back Mueller', 'authors': 'Julia Craven', 'link': 'https://www.huffingtonpost.com/entry/top-republicans-back-mueller_us_5a6df7bbe4b01fbbefb2b072', 'short_description': 'They also expressed concerns about political bias within the Justice Department.', 'date': '2018-01-28'}

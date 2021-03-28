@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'House Passes 2,232-Page Omnibus Spending Bill That No One Read', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/house-passes-omnibus-spending-bill_us_5ab3d43ce4b0decad047c736', 'short_description': 'Lawmakers only got the full text of the massive bill a little after 8 p.m. on Wednesday.', 'date': '2018-03-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Rebuffs His Opioid Task Force, Declines To Declare State Of Emergency', 'authors': 'Nick Wing', 'link': 'https://www.huffingtonpost.com/entry/trump-opioid-emergency_us_5989f5bae4b0449ed505daa8', 'short_description': 'Instead, the president said we should arrest more people and lock them up for longer.', 'date': '2017-08-08'}

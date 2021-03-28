@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Commuter Train Crashes In Barcelona Station, Injuring At Least 54', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/barcelona-train-crash_us_597b12d8e4b02a8434b5c04a', 'short_description': 'Many of the passengers were already standing, ready to get off, when the train crashed.', 'date': '2017-07-28'}

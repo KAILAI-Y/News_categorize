@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Twitter Bans Russia Today, Sputnik From Buying Advertising', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/twitter-ban-russia-today-rt-sputnik-ads_us_59f1f036e4b077d8dfc7ccfa', 'short_description': 'U.S. intelligence regards both as part of "Russia\'s state-run propaganda machine."', 'date': '2017-10-26'}

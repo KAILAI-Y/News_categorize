@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': 'Twitter Roasts Man Who Confessed To Adding Mayo To His Coffee', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/mayo-in-coffee-no-thank-you_us_5995a1a1e4b06ef724d6dc77', 'short_description': 'This was a terrible idea on so many levels.', 'date': '2017-08-17'}

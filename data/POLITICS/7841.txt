@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Complains About Diplomacy In Asia, But Hasn't Appointed An Envoy To South Korea", 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/trump-no-ambassador-to-south-korea_us_595cd98ce4b05c37bb80f554', 'short_description': 'He has, however, named an ambassador to the Bahamas.', 'date': '2017-07-05'}

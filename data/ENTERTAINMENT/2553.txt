@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "The 'Rick And Morty' Finale Blew Off America, And It Didn't End Well", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/rick-morty-season-three-finale-twitter_us_59d1b253e4b09538b50915b2', 'short_description': '“Today we celebrate our independence ... from #RICKANDMORTY.”', 'date': '2017-10-02'}

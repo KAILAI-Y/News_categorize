@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congressional Candidate Defends AR-15 Giveaway After School Shooting', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/kansas-candidate-ar15-gun-giveaway_us_5a8b6be2e4b0117adf710d9e', 'short_description': 'Even a conservative talk radio host objects: "Come on, man. It doesn\'t make any sense."', 'date': '2018-02-20'}

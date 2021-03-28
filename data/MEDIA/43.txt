@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Rush Limbaugh Vividly Describes Alleged Trump Pee Tape, Then Says It's All Fake", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/rush-limbaugh-pee-tape_us_5ae2aa60e4b02baed1b8a6ad', 'short_description': '"Somebody is going to produce a tape of prostitutes peeing on a bed."', 'date': '2018-04-27'}

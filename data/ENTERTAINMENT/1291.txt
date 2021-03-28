@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'This New Boy Band Is Ed Sheeran And Taylor Swift-Approved', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/boy-band-why-dont-we_us_5a395d74e4b0860bf4ab934a', 'short_description': '"I don’t think we necessarily call us ourselves a boy band. We prefer ‘man band.’"', 'date': '2018-02-02'}

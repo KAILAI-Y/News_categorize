@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': 'Budweiser Touts Disaster Relief Efforts In 2018 Super Bowl Ad', 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/budweiser-super-bowl-2018_us_5a7777d8e4b0905433b578d6', 'short_description': "The minute-long commercial highlights the company's emergency response plans.", 'date': '2018-02-05'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Joel Taylor, Star Of Discovery Channel's 'Storm Chasers,' Dead At 38", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/joel-taylor-star-of-discovery-channels-storm-chasers-dead-at-38_us_5a6856e6e4b0dc592a0deb7b', 'short_description': '"We lost a legend," co-star Reed Timmer said.', 'date': '2018-01-24'}

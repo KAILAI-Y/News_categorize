@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'HBO Hack Is Reportedly 7 Times Larger Than Catastrophic Sony Attack', 'authors': 'Maxwell Strachan', 'link': 'https://www.huffingtonpost.com/entry/hbo-hack_us_5981e20ae4b02b36343f4fb7', 'short_description': 'The FBI is now apparently involved in the investigation.', 'date': '2017-08-02'}

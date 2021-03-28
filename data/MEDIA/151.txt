@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Watch A Trump Backer’s Painfully Dumb Joke Startle Everyone Into Silence On CNN', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/cnn-stephen-moore-awkward-silence_us_5a9f9e45e4b0e9381c1387bc', 'short_description': 'An awkward moment unfolds on live TV.', 'date': '2018-03-07'}

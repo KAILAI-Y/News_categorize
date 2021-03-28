@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Macaques Have Been Monkeying Around With Deer In Japan, Researchers Discover', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/japan-monkeys-sexual-activity-sika-deer_us_5a3747bde4b0ff955ad43ee8', 'short_description': 'Females may be driven by "sexual frustration," scientists say.', 'date': '2017-12-18'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': "Appeals Court Rejects Trump's Attempt To Delay Obama Oil-Drilling Rule", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/court-rejects-epa-delay-drilling_us_595a971ee4b02734df33cc9d', 'short_description': 'Oil and gas companies will have to reduce methane emissions, beginning immediately.', 'date': '2017-07-03'}

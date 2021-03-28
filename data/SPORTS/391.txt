@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'New York Giants Bench Eli Manning As Disastrous Season Continues', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/new-york-giants-bench-eli-manning_us_5a1dcb0ae4b0569950231c5d', 'short_description': 'The team announced Tuesday that Geno Smith would replace the star quarterback.', 'date': '2017-11-28'}

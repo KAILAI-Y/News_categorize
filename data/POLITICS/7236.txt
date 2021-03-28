@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Obamacare Repeal Moves Ahead With Key Senate Vote', 'authors': 'Jeffrey Young', 'link': 'https://www.huffingtonpost.com/entry/obamacare-repeal-moves-ahead-senate_us_59776899e4b0a8a40e82ba32', 'short_description': "It's still totally unclear just what bill the Senate is about to debate.", 'date': '2017-07-25'}

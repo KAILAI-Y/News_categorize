@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Rome Gets Rare Snowfall, And It's An Ancient Winter Wonderland", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/rome-italy-gets-rare-snowfall-and-its-an-ancient-winter-wonderland_us_5a9449ebe4b0699553cb00bc', 'short_description': 'Ciao bello!!', 'date': '2018-02-26'}

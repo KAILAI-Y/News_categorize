@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Bill Hader Loses It Playing 'Stefon' In His Return As 'SNL' Host", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/bill-hader-loses-it-playing-stefon-in-his-return-as-snl-host_us_5aaec60ce4b05b22180003bc', 'short_description': '"Farachauns: leprechauns that look like Farah Fawcett."', 'date': '2018-03-18'}

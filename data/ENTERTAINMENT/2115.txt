@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Sarah Silverman Breaks Silence On Longtime Friend Louis C.K.', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/sarah-silverman-louis-ck-sexual-misconduct_us_5a0df3e2e4b0011e4147751d', 'short_description': '“I love Louis. But Louis did these things.”', 'date': '2017-11-16'}

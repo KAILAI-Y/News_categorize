@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Amy Poehler Is Making A Wine Comedy And We'll Drink To That", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/amy-poehler-directing-wine-country_us_5ab23cf8e4b054d118de871d', 'short_description': '"Wine Country" spills over with "SNL" alums like Tina Fey and Maya Rudolph.', 'date': '2018-03-21'}

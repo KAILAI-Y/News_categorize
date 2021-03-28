@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "'Jane The Virgin' Officially Adds Another Latina Director To Its Ranks", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/jane-the-virgin-officially-adds-another-latina-director-to-its-ranks_us_5a566ef6e4b0a300f90563fe', 'short_description': 'More of this, please. 🙌🏽', 'date': '2018-01-10'}

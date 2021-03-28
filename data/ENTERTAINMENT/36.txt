@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Stephen King Reveals Why Donald Trump Blocked Him On Twitter', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-king-donald-trump-twitter-block_us_5b066b6ce4b07c4ea104e231', 'short_description': 'The horror master also took on "creepy" Mike Pence: "He has that look."', 'date': '2018-05-24'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Congresswoman Questions The Need For Government-Funded Research On Gun Violence', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/claudia-tenney-gun-violence_us_5aa0234ae4b0e9381c14becc', 'short_description': '"I’m not sure that’s the best use of taxpayer money,” Rep. Claudia Tenney said.', 'date': '2018-03-07'}

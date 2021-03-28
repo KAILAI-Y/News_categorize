@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Laura Ingraham Hosts Segment On 'Safe' AR-15 Hours After Florida School Shooting", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/laura-ingraham-ar-15_us_5a8520e5e4b0ab6daf45c671', 'short_description': '“Is this a problem with the gun or the shooter?"', 'date': '2018-02-15'}

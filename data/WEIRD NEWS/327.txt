@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Ivanka Trump Claims She Had A 'Punk Phase,' But Folks Online Aren't Buying It", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/ivanka-trump-punk-phase-reaction_us_59e6f67de4b0d0e4fe6bf48c', 'short_description': '"Ripped a fishnet stocking while getting out of the limo."', 'date': '2017-10-18'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "There's Finally A Museum Devoted To Telling The Story Of HBCUs", 'authors': 'Princess-India Alexander', 'link': 'https://www.huffingtonpost.com/entry/hbcu-museum-washington-dc_us_5ab143b0e4b0decad0449410', 'short_description': 'From Howard to Spelman, the museum honors the history of HBCUs.', 'date': '2018-03-22'}

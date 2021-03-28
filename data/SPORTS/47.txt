@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': '36-Year-Old Accountant Wins Ovation In Emergency NHL Debut', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/36-year-old-accountant-makes-emergency-nhl-debut_us_5abe3b94e4b055e50acd08dc', 'short_description': "Scott Foster stopped every shot as the Chicago Blackhawks' emergency fill-in goalie.", 'date': '2018-03-30'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Hurricane Harvey Is Just The Latest In Facebook’s Fake News Problem', 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/facebook-hurricane-harvey-fake-news_us_59b17900e4b0354e441021fb', 'short_description': "The social media network can't help but spread political falsehoods.", 'date': '2017-09-08'}

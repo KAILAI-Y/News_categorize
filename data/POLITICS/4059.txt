@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': '#RichPeopleNeedTaxCuts: The Republican Tax Plan', 'authors': 'Dean Baker, Guest WriterGuest Writer', 'link': 'https://www.huffingtonpost.com/entry/richpeopleneedtaxcuts-the-republican-tax-plan_us_5a139205e4b010527d677fda', 'short_description': 'It’s hard to see the rationale here.', 'date': '2017-11-21'}

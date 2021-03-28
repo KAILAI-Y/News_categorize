@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Says He Believes Cuba Responsible For Attacks That Hurt U.S. Diplomats', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-cuba-diplomats_us_59e508c9e4b0ca9f4839eadd', 'short_description': '"It’s a very unusual attack, as you know."', 'date': '2017-10-16'}

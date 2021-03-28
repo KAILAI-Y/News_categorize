@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "It's So Hot In Australia, Hundreds Of Bats Just Dropped Dead", 'authors': 'Josh Butler', 'link': 'https://www.huffingtonpost.com/entry/australia-heat-bats-dead_us_5a554bb1e4b0d614e48aa7a6', 'short_description': '“With our ever rising hot summers... this episode will surely not be the last."', 'date': '2018-01-10'}

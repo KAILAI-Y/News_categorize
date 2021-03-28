@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Mindy Kaling's Pregnancy Style Kicks Off With A Little Black Dress", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/mindy-kaling-lbd_us_597b3febe4b0da64e878a396', 'short_description': 'Those sleeves!', 'date': '2017-07-28'}

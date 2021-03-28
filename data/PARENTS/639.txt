@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "What It's Like Being A Kid Who Has The 'Opposite Of Autism'", 'authors': 'Kate Auletta', 'link': 'https://www.huffingtonpost.com/entry/what-its-like-being-a-kid-who-has-the-opposite-of-autism_us_594d38bae4b0da2c731b2ea8', 'short_description': "A new book explores a young boy's life with the rare Williams syndrome.", 'date': '2017-06-26'}

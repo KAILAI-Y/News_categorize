@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Orrin Hatch Thinks John McCain’s Wish For A Funeral Without Donald Trump Is ‘Ridiculous’', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/orrin-hatch-donald-trump-john-mccain-funeral_us_5af0b54be4b0c4f193258740', 'short_description': 'The Utah senator said he hopes McCain changes his mind.', 'date': '2018-05-07'}

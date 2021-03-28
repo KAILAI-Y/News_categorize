@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Selena Gomez Pokes Fun At Her Met Gala Spray Tan Mishap', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/selena-gomez-pokes-fun-at-her-met-gala-tanning-mishap_us_5af31235e4b0a0d601e91f18', 'short_description': 'The actress stepped out on the red carpet looking a bit ... orange.', 'date': '2018-05-09'}

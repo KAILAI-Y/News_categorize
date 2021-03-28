@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'Tom Brady Has This Wish For Radio Host Who Insulted His 5-Year-Old Daughter', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/tom-brady-radio-host-insulted-daughter_us_5a7045f5e4b00d0de2238721', 'short_description': 'The Patriots quarterback addressed the situation at a Super Bowl press conference.', 'date': '2018-01-30'}

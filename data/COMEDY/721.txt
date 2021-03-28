@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Here's The First Look At MAD Magazine's Version Of Disney World", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/mad-magazine-gives-us-the-first-look-at-their-version-of-disney-world_us_59cc0877e4b05063fe0ecfcc', 'short_description': 'Featuring the Trump Tower of Terror!', 'date': '2017-09-28'}

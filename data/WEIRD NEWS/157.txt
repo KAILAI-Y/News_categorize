@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Patriots' Joe Thuney Deftly Solves Rubik's Cube At Super Bowl Event", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/patriots-joe-thuney-rubiks-cube_us_5a707a3ae4b0a52682ff8e29', 'short_description': '"I literally just read the manual that told you what moves kinda helped."', 'date': '2018-01-30'}

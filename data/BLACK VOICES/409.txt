@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Women Rewrite The Constitution In Jay-Z's 'Family Feud,' Directed By Ava DuVernay", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/jay-z-family-fued_us_5a46c64be4b0b0e5a7a67759', 'short_description': 'People of color are the foundation of the future in this short film.', 'date': '2017-12-30'}

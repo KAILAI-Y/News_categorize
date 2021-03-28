@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "The Real Reason Why Humanitarian Aid Isn't Reaching Eastern Ghouta", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/eastern-ghouta-humanitarian-aid_us_5a941ff5e4b03b55731e49ce', 'short_description': 'The Assad regime and the rebels are using people’s hunger to advance their own interests.', 'date': '2018-02-27'}

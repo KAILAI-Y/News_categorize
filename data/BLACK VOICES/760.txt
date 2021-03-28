@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Ava DuVernay Pays Tribute To Michelle Obama's Slave Ancestor", 'authors': 'Samantha Tomaszewski', 'link': 'https://www.huffingtonpost.com/entry/ava-duvernay-tribute-michelle-obama-slave-ancestor_us_5985f7a3e4b08b75dcc7462e', 'short_description': '"Theirs is a story of hope."', 'date': '2017-08-05'}

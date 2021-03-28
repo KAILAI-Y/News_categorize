@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Hollywood Is Praying July Will Salvage Summer Blockbuster Season', 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/summer-box-office-2017_us_595e3267e4b0d5b458e8649b', 'short_description': 'Show us your powers, "Spider-Man."', 'date': '2017-07-06'}

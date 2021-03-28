@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Walking Dead' Stars Mourn The Death Of Stuntman John Bernecker", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/walking-dead-stuntman-john-bernecker_us_596a24d1e4b017418627d428', 'short_description': '"No words can express my sadness," actress Lauren Cohan wrote.', 'date': '2017-07-15'}

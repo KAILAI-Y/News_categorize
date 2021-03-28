@@ -1,0 +1,1 @@
+{'category': 'RELIGION', 'headline': "2017's Holiday Ads Will Make You Feel All Warm And Fuzzy Inside", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/holiday-ads-commercials-for-2017_us_5a181003e4b064948073e54b', 'short_description': "They'll undoubtedly get you into the festive spirit.", 'date': '2017-11-25'}

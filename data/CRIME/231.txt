@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Oklahoma Woman Who Married Her Mother Pleads Guilty To Incest', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/misty-spann-patricia-spann-mom-daughter-incest_us_5a0619c0e4b05673aa593a90', 'short_description': 'Previously, the mother was married to another child, her biological son.', 'date': '2017-11-11'}

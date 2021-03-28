@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Here's Why Alcohol Labels Don't Show Nutritional Information", 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/alcohol-nutritional-information_us_596cb1ebe4b03389bb18ca6b', 'short_description': "And don't expect it to change anytime soon.", 'date': '2017-07-18'}

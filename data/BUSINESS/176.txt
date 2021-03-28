@@ -1,0 +1,1 @@
+{'category': 'BUSINESS', 'headline': "Whole Foods' Yom Kippur Cake Doesn't Seem To Get The Holiday", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/whole-foods-yom-kippur-cake_us_59ce6af7e4b05f005d3402e2', 'short_description': 'Yom Kippur is typically observed by fasting.', 'date': '2017-09-29'}

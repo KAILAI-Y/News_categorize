@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Fake Donald Trump And Sean Hannity 'Pillow Talk' On 'The Late Show'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-sean-hannity-pillow-talk_us_5afc07b0e4b06a3fb50c38a8', 'short_description': '"I\'ve been watching you."', 'date': '2018-05-16'}

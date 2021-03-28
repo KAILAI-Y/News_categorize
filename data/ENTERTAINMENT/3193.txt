@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Emily Blunt Is Better Than A Spoonful Of Sugar In 'Mary Poppins Returns' Teaser", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/emily-blunt-is-better-than-a-spoonful-of-sugar-in-mary-poppins-teaser_us_596a6254e4b0d6341fe94947', 'short_description': 'In the most delightful way!', 'date': '2017-07-15'}

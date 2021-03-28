@@ -1,0 +1,1 @@
+{'category': 'IMPACT', 'headline': 'Austin Is Stepping Up Its Fight Against Gentrification', 'authors': 'Dianna Wray, On assignment for HuffPost', 'link': 'https://www.huffingtonpost.com/entry/east-austin-gentrification_us_5acb331be4b07a3485e6637a', 'short_description': 'But it may be too little, too late for the city with a history of inequality', 'date': '2018-04-11'}

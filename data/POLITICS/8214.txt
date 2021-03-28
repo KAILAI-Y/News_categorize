@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Donald Trump Admits He Didn't Tape Conversations With James Comey", 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/donald-trump-james-comey-tapes_us_594bf322e4b0312cfb62c1b1', 'short_description': 'Surprise, surprise.', 'date': '2017-06-22'}

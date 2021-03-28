@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Stephen Colbert Burns\xa0Donald Trump Jr. With\xa0One Simple\xa0Question', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-donald-trump-jr-are-you-insane_us_5a20f52ee4b03350e0b5a2a5', 'short_description': 'OUCH!', 'date': '2017-12-01'}

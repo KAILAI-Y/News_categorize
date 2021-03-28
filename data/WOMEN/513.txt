@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "Read Amber Tamblyn's Searing Open Letter To James Woods", 'authors': 'Emma Gray', 'link': 'https://www.huffingtonpost.com/entry/read-amber-tamblyns-searing-open-letter-to-james-woods_us_59b98fa1e4b0edff9718da20', 'short_description': '"Are you and your history with women and girls a part of the problem, Mr. Woods?”', 'date': '2017-09-13'}

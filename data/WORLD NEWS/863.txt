@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Inside The Lavish Makeshift Prison Where Arrested Saudi Royals Are Being Held', 'authors': 'Jesselyn Cook', 'link': 'https://www.huffingtonpost.com/entry/saudi-royals-arrested-hotel_us_5a01ca07e4b07eb511822c68', 'short_description': 'The Ritz-Carlton is "among the most majestic five-star hotels in Saudi Arabia."', 'date': '2017-11-07'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Prize Of Christmas Breakfast With Donald Trump Makes Stomachs Turn', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/gop-christmas-breakfast-donald-trump-twitter_us_5a0d9147e4b0b37054f4bcd6', 'short_description': '"No thank you. Would rather chew glass."', 'date': '2017-11-16'}

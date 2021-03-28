@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'This New Book Is Teaching Kids To Be Racially Conscious', 'authors': 'Emily McCombs', 'link': 'https://www.huffingtonpost.com/entry/childrens-book-teaching-kids-about-race_us_59c13f23e4b087fdf5084b40', 'short_description': 'Racially conscious children embrace and celebrate differences.', 'date': '2017-09-19'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Janelle Monáe To Anyone Who Dares Try To Silence Women: 'Time's Up'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/janelle-monae-times-up_us_5a6e9802e4b01fbbefb322db', 'short_description': '"We come in peace, but we mean business.”', 'date': '2018-01-29'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "The GOP's Extremist Agenda Is Making It Easy For Democrats To Stand Their Ground", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/politically-vulnerable-democrats-trump_us_5a1878d0e4b0cee6c04fa04a', 'short_description': 'Not even the politically vulnerable ones are afraid to defy Trump.', 'date': '2017-11-26'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "People Are Pissed About One Of Emily Ratajkowski's Latest Instagram Posts", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/emily-ratajkowski-instagram-post-caption_us_5a566314e4b03bc4d03d8358', 'short_description': 'The model and actress has since deleted the offending portion of her caption.', 'date': '2018-01-10'}

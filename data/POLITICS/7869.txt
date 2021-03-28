@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Russia, U.S. Still Working Out Details Of Putin-Trump Meeting', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/putin-trump-meeting_us_595a49dee4b02734df337e45', 'short_description': 'They plan to meet at the at the G20 summit this week.', 'date': '2017-07-03'}

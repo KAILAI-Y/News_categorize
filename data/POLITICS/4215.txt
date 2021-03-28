@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Sixth Roy Moore Accuser Comes Forward, Says He Groped Her In 1991', 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/roy-moore-tina-johnson-sexual-misconduct_us_5a0cc3e6e4b0c0b2f2f7930f', 'short_description': 'Two other women have also publicly accused him of unwanted advances.', 'date': '2017-11-15'}

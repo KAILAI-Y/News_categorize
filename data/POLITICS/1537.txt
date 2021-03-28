@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Parkland Survivor To Trump: 'Show Us That You Aren't Owned By The NRA'", 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/parkland-david-hogg-trump-nra_us_5aa6950ce4b087e5aaec5149', 'short_description': '"Show us you’re better than the other politicians," student David Hogg said.', 'date': '2018-03-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Arizona GOP Congressional Candidate Compares Abortion To Holocaust', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/wendy-rogers-arizona_us_5b05a67be4b07c4ea10457e2', 'short_description': '“The callousness that our country has for life is very disturbing," GOP candidate Wendy Rogers said.', 'date': '2018-05-23'}

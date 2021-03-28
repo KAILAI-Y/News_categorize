@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Texas Bomb Suspect's Family 'Devastated And Broken'", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/texas-bomb-suspect-family-devastated-and-broken_us_5ab29883e4b054d118df2726', 'short_description': 'Relatives of the suspected serial bomber said they were shocked to learn of his involvement.', 'date': '2018-03-21'}

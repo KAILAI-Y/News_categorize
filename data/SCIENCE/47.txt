@@ -1,0 +1,1 @@
+{'category': 'SCIENCE', 'headline': 'As World Turns More Slowly, We Face Earthquake Boom, Scientists Warn', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/slow-earth-earthquake-boom_us_5a12624be4b0dd63b1ab3cef', 'short_description': 'The number of severe quakes could triple next year.', 'date': '2017-11-21'}

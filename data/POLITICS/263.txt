@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Democrats Say They Don't Regret Making It Easier To Confirm Judges", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/democrats-senate-rule-change-judges_us_5af5b263e4b00d7e4c1a24c3', 'short_description': '“It wasn’t a mistake," Sen. Jeff Merkley said.', 'date': '2018-05-11'}

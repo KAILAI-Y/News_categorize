@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "This 'TED Talk' On Diarrhea Is The Crappiest Thing You'll Watch", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/finally-a-ted-talk-on-diarrhea_us_59a06bf0e4b05710aa5c0dd7', 'short_description': '💩💩💩', 'date': '2017-08-25'}

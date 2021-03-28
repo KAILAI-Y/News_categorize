@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Barack Obama Just Posted The Sweetest Father's Day Throwback Photo", 'authors': 'Nina Golgowski', 'link': 'https://www.huffingtonpost.com/entry/obama-fathers-day-throwback-photo_us_59469baae4b01eab7a2e6a0c', 'short_description': '"Of all that I\'ve done in my life, I\'m most proud to be Sasha and Malia\'s dad."', 'date': '2017-06-18'}

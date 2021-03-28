@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Calls Jeff Sessions 'Mr. Magoo' And Twitter Can't Get Over It", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-mrmagoo_us_5a978f40e4b09c872bb11c21', 'short_description': "Trump's reported new nickname for his attorney general has people divided.", 'date': '2018-03-01'}

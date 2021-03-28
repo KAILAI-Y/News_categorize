@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Monday's Morning Email: Philly Streets Run Green After Eagles' Super Bowl Win", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/mondays-morning-email-philly-streets-run-green-after-eagles-super-bowl-win_us_5a784a85e4b01ce33eb52274', 'short_description': 'A first for the city.', 'date': '2018-02-05'}

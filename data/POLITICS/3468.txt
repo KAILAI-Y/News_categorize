@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tuesday's Morning Email: Trump Lawyers Call For Second Special Counsel", 'authors': 'Lauren Weber', 'link': 'https://www.huffingtonpost.com/entry/tuesdays-morning-email-trump-lawyers-call-for-second-special-counsel_us_5a2fc519e4b01598ac47f16b', 'short_description': "To investigate Mueller's team.", 'date': '2017-12-12'}

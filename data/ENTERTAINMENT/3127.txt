@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Game Of Thrones' Star Brings Ridiculously Cute Dog On Stage At Comic-Con", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/game-of-thrones-alfie-allen-dog-abby-comic-con_us_59731765e4b00e4363dfbf0d', 'short_description': "And fans just couldn't cope.", 'date': '2017-07-22'}

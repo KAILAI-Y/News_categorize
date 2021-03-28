@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Don Lemon Has 2 Words For People Who Say It's Not Time To Talk About Guns", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/don-lemon-talk-about-guns_us_5a852718e4b0774f31d1f602', 'short_description': 'CNN host calls out politicians who refuse to act.', 'date': '2018-02-15'}

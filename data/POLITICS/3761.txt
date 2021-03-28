@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "U.S. Allies Fret As 'Guillotine' Hangs Over Rex Tillerson", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/rex-tillerson-trump_us_5a2405c4e4b0a02abe91cca6', 'short_description': 'European leaders yearn for stability in U.S. foreign policy.', 'date': '2017-12-03'}

@@ -1,0 +1,1 @@
+{'category': 'COLLEGE', 'headline': "Cornell Frat's 'Pig Roast' Gave Points For Sex With Heaviest Woman", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/cornell-frats-pig-roast-gave-points-for-sex-with-heaviest-woman_us_5a7b15aee4b07af4e81ff142', 'short_description': 'Zeta Beta Tau was slapped with probation.', 'date': '2018-02-07'}

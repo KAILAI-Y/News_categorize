@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Lena Dunham, Tina Brown Reportedly Warned Clinton Campaign About Weinstein', 'authors': 'Dominique Mosbergen', 'link': 'https://www.huffingtonpost.com/entry/lena-dunham-tina-brown-clinton-weinstein_us_5a275dc6e4b0c2117626ae87', 'short_description': "The women said they'd cautioned her aides in 2008 and 2016.", 'date': '2017-12-06'}

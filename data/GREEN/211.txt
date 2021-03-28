@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Beached Manatees Rescued From Low Tide In Wake of Hurricane Irma', 'authors': 'Samantha Tomaszewski', 'link': 'https://www.huffingtonpost.com/entry/beached-manatees-rescued-low-tide-hurricane-irma_us_59b5b0b8e4b0354e44129193', 'short_description': 'The strength of the storm left two manatees stranded in the mud.', 'date': '2017-09-11'}

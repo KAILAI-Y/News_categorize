@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Chrissy Teigen's Complaint About John Legend 'Is Marriage Summed Up In One Tweet'", 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-john-legend-phone-chargers_us_5a7c63e9e4b044b3821a25b5', 'short_description': 'So relatable.', 'date': '2018-02-08'}

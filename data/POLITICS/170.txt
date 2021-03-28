@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Cynthia Nixon's 'Fix Our Subway' Ads Shred Cuomo's MTA, Commuters Rejoice", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/cynthia-nixon-mta-subway-ads-andrew-cuomo_us_5afda284e4b0a59b4e019369', 'short_description': '"Does N E 1 C A train?" reads one of the subway-themed campaign ads.', 'date': '2018-05-17'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'EPA Watchdog Opens ‘New Reviews’ Into Scott Pruitt, Including First Probe Of Condo Deal', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/scott-pruitt-epa-i_us_5ae38788e4b055fd7fcbd15c', 'short_description': "Add this to the EPA administrator's nine other ongoing federal investigations.", 'date': '2018-04-27'}

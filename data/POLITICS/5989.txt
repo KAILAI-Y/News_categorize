@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Chuck Schumer Channels LBJ For A Dealmaking Day', 'authors': 'Howard Fineman', 'link': 'https://www.huffingtonpost.com/entry/chuck-schumer-trump-deal-photo_us_59b1a95ae4b0354e44108495', 'short_description': "Trump handed him a gift, but the Democrats' workaholic-in-chief had earned it.", 'date': '2017-09-07'}

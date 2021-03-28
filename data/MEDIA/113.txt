@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Laura Ingraham Ripped On Twitter For Hiding Behind Religion In 'Bogus' Apology", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/laura-ingraham-religion-apology_us_5abd9f57e4b0a47437a9cedd', 'short_description': 'The Fox News host taunted a mass shooting survivor on Twitter.', 'date': '2018-03-30'}

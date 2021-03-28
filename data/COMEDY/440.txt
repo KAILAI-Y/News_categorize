@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Colbert Releases Erectile Dysfunction Parody About Trump's Nuclear Button", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/colbert-erectile-dysfunction-nuclear-button_us_5a33e9ede4b0ff955ad25b9d', 'short_description': '"Ask your doctor if your heart is healthy enough to destroy the world."', 'date': '2018-01-04'}

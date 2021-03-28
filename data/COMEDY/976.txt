@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Turns Out Superman Is A Really Mean Drunk', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/turns-out-superman-is-a-really-mean-drunk_us_593538a9e4b02478cb9cfc55', 'short_description': 'He hits the bottle, then Batman in this spoof.', 'date': '2017-06-05'}

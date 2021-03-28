@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Senators Fumbled At Sending Stronger Message In Support Of Robert Mueller', 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/robert-mueller-defense-senators_us_5acd097de4b06a6aac8c77ea', 'short_description': 'Democracy dies on vacation.', 'date': '2018-04-10'}

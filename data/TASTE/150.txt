@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': '15 Beautiful Beer Cans For The Design-Forward Imbiber', 'authors': 'Julie R. Thomson', 'link': 'https://www.huffingtonpost.com/entry/beautiful-beer-can-design_us_59b02ea9e4b0dfaafcf4d31d', 'short_description': 'Now these brews look as good as they taste.', 'date': '2017-09-07'}

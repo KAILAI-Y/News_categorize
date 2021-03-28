@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Weird Al' Yankovic's First-Ever Guitar Solo Was Al-solutely Flawless", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/weird-al-guitar-solo_us_5ab9ec3de4b054d118e64be0', 'short_description': 'The parody king briefly swapped his accordion for a guitar.', 'date': '2018-03-27'}

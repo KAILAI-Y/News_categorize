@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'With State Of The Union Guests, Democrats Send Trump A Message', 'authors': 'Marina Fang', 'link': 'https://www.huffingtonpost.com/entry/state-of-the-union-guests_us_5a6f679be4b01fbbefb4af19', 'short_description': "Nearly 30 Democratic lawmakers have invited Dreamers to Trump's first State of the Union address.", 'date': '2018-01-30'}

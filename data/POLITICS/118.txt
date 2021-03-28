@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Oliver North Blames School Shootings On Ritalin', 'authors': 'Jenavieve Hatch', 'link': 'https://www.huffingtonpost.com/entry/oliver-north-school-shootings_us_5b018dece4b0a046186d22be', 'short_description': 'The incoming NRA president, who once promoted a violent video game, also cited a "culture of violence."', 'date': '2018-05-20'}

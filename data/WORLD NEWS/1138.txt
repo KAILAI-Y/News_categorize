@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Trump's Threat To 'Destroy' North Korea Is Wrong: Merkel", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trumps-threat-to-destroy-north-korea-is-wrong-merkel_us_59c299d4e4b0186c22076bbc', 'short_description': 'The German Chancellor said any form of military solution would be "totally inappropriate."', 'date': '2017-09-20'}

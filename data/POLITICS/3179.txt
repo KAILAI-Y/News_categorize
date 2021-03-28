@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Congress Punts DACA Fix To Next Year, With Dreamers Losing Protections Each Day', 'authors': 'Elise Foley', 'link': 'https://www.huffingtonpost.com/entry/congress-daca-dreamers_us_5a3c35a7e4b06d1621b3263d', 'short_description': 'Lawmakers kept the government open. But they did nothing for young undocumented immigrants.', 'date': '2017-12-22'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Bernie Sanders Slow-Clapping Donald Trump Is Your New Favorite Meme', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/bernie-sanders-clapping-donald-trump-meme_us_5a72d358e4b06fa61b4d8740', 'short_description': '"Bernie clapping like Slytherin just won the house cup."', 'date': '2018-02-01'}

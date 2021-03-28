@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "We Finally Know Why The Scavengers Speak So Strangely On 'Walking Dead'", 'authors': 'Bill Bradley', 'link': 'https://www.huffingtonpost.com/entry/strange-walking-dead-mystery-finally-gets-explained_us_59d8df29e4b0f6eed35090f6', 'short_description': 'Executive Producer David Alpert clears things up.', 'date': '2017-10-07'}

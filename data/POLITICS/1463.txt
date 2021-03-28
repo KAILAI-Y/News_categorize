@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Vanessa Trump Files For Divorce From Donald Trump Jr.', 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/vanessa-trump-donald-trump-jr-divorce-filing_us_5aaae310e4b05b2217fd533c', 'short_description': 'Trump filed for an uncontested proceeding, according to multiple reports.', 'date': '2018-03-15'}

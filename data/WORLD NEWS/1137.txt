@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'The U.S. Is Giving $32 Million To Assist Rohingya Refugees', 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/us-32-million-rohingya_us_59c2637ae4b087fdf509690a', 'short_description': "It's the Trump administration's first show of support for the persecuted minority.", 'date': '2017-09-20'}

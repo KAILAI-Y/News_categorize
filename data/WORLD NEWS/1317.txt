@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'British Police Detain Man With Knife Outside Buckingham Palace', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/buckingham-palace-man-knife-arrested_us_59a08b1be4b06d67e337a316', 'short_description': 'The man was arrested on suspicion of grievous bodily harm and assault on police.', 'date': '2017-08-25'}

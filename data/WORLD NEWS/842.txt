@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Hundreds Dead After Powerful Earthquake Hits Border Between Iran And Iraq', 'authors': 'By Raya Jalabi and Parisa Hafezi, Reuters', 'link': 'https://www.huffingtonpost.com/entry/iraq-earthquake-baghad_us_5a08986ce4b05673aa59f8ab', 'short_description': 'It was Iran’s deadliest earthquake in more than a decade.', 'date': '2017-11-12'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Report: Trump Pursued Moscow Tower Deal During Campaign', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/report-trump-pursued-moscow-tower-deal-during-campaign_us_59a4070be4b0821444c48783', 'short_description': 'Discussions about the Moscow project reportedly began in earnest in September 2015.', 'date': '2017-08-28'}

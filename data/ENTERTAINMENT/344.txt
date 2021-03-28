@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Super Fed: James Comey Stars In His Own Comic Book', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/james-comey-stars-in-comic-book_us_5ae2bcf3e4b055fd7fca4d06', 'short_description': "It's a bird, it's a plane, it's Memo Man.", 'date': '2018-04-27'}

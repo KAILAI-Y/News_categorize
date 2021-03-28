@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Nancy Meyers Shares Charming Deleted Scene From 'Something's Gotta Give'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/nancy-meyers-shares-oh-so-charming-deleted-scene-from-somethings-gotta-give_us_5983fa3ce4b08b75dcc61a85', 'short_description': '"Why did I ever delete this?"', 'date': '2017-08-04'}

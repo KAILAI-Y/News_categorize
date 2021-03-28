@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Landlord Accused Of Masturbating On Tenant's Clothes When She Wasn't Home", 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/thomas-fallon-masturbating-clothes_us_5a2ed507e4b01598ac471016', 'short_description': "The suspect told police he was in the woman's apartment to fix a hot water heater.", 'date': '2017-12-11'}

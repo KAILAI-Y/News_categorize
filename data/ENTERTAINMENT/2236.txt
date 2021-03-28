@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Mark Hamill Drops Clue He's Not Going To The Dark Side In 'The Last Jedi'", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/mark-hamill-dark-side-jedi_us_59fbd1bfe4b0b0c7fa393e94', 'short_description': 'He points to Ren instead in "conspiracy" tweet.', 'date': '2017-11-03'}

@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Gary Clark Jr. Puts The Beatles’ ‘Come Together’ Back On The Charts', 'authors': 'Lauren Moraski', 'link': 'https://www.huffingtonpost.com/entry/gary-clark-jr-come-together-justice-league_us_5a0b3225e4b0bc648a0e4fcb', 'short_description': 'The classic song gets a guitar-heavy remake for "Justice League."', 'date': '2017-11-16'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Convicted Domestic Abusers Will No Longer Be Able To Own Guns In New York State', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/domestic-abuse-guns-new-york_us_5ac241d3e4b0f112dc9de756', 'short_description': 'Gov. Andrew Cuomo called for the legislation last year.', 'date': '2018-04-02'}

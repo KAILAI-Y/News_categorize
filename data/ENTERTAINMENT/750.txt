@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Gal Gadot Beautifully Thanks Wonder Woman On Superhero's Birthday", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/gal-gadot-thanks-wonder-woman-on-dc-superheros-birthday_us_5ab4bfdbe4b054d118e1aacf', 'short_description': 'The actress\' "my amazing Amazon" shoutout is one for the gods.', 'date': '2018-03-23'}

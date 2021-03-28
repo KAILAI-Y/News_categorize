@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Calls Out Donald Trump Jr. As The 'Dumbest' Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-donald-trump-jr-dumb-trump_us_5a0bf574e4b0bc648a0ec22f', 'short_description': '"That family still hasn\'t finished a game of Trivial Pursuit they started in 1988."', 'date': '2017-11-15'}

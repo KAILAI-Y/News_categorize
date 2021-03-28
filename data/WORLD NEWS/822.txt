@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Photos Show 'Biblical' Flooding In Greece Following Severe Storm", 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/athens-flash-floods_us_5a0c73fbe4b0bc648a0f67e8', 'short_description': 'More than a dozen people were killed in the flash floods.', 'date': '2017-11-15'}

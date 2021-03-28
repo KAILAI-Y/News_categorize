@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': "Little Girl's First Interaction With A Sanitary Pad Is A Thing Of Beauty", 'authors': 'Jamie Feldman', 'link': 'https://www.huffingtonpost.com/entry/makeup-tutorial-pad_us_5984bf69e4b0cb15b1be4cb6', 'short_description': "She stumbles upon it while making a makeup tutorial video and doesn't quite know what to do with it.", 'date': '2017-08-04'}

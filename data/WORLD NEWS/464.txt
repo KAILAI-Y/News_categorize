@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Vladimir Putin Strips For Ice-Cold Dip During Religious Ceremony', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/vladimir-putin-ice-cold-bath-orthodox-epiphany_us_5a61be91e4b074ce7a072cd6', 'short_description': 'The Russian president was taking part in Epiphany celebrations.', 'date': '2018-01-19'}

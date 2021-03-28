@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Colbert Exposes The\xa0Biggest Flaw In Trump’s Latest Conspiracy Theory', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/stephen-colbert-flaw-trump-conspiracy-theory_us_5b060ef2e4b0784cd2b11824', 'short_description': 'Colbert follows Trump "down the rabbit hole."', 'date': '2018-05-24'}

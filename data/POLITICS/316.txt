@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Elizabeth Warren’s Pick Wins Ohio's Democratic Gubernatorial Primary", 'authors': 'Kevin Robillard', 'link': 'https://www.huffingtonpost.com/entry/cordray-wins-ohio-primary_us_5af20ddbe4b0aab8a789ebad', 'short_description': 'Democrat Richard Cordray will face Republican Mike DeWine in November.', 'date': '2018-05-09'}

@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Matador Fatally Gored After He Trips On Cape In French Bullring (WARNING: GRAPHIC VIDEO)', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/ivan-fandino-goring-death_us_59471988e4b06bb7d2741b84', 'short_description': 'Basque Ivan Fandino suffered heart attacks as he was rushed to a hospital.', 'date': '2017-06-19'}

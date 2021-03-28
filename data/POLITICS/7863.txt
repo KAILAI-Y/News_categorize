@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "CNN Has The 'Trust' Advantage Over President Trump In A New Poll", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/more-americans-trust-cnn-than-trump-poll_us_595bc9e9e4b0da2c73258bf2', 'short_description': 'The split among partisans, though, is dramatic.', 'date': '2017-07-04'}

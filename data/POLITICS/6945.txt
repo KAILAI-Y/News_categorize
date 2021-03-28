@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The Sport Of The Plutocrats', 'authors': "Robert Lipsyte, ContributorAuthor, 'An Accidental Sportswriter'", 'link': 'https://www.huffingtonpost.com/entry/trump-golf-the-sport-of-the-plutocrats_us_598328f5e4b0fa1575fc4231', 'short_description': 'Golf is the perfect metaphor for the Trump presidency.', 'date': '2017-08-03'}

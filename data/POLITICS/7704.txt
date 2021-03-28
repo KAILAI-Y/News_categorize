@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Chelsea Clinton Throws Cold Water On Donald Trump's Claim About Her Mother", 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/chelsea-clinton-donald-trump_us_596372fce4b0615b9e92e1e6', 'short_description': "Facing his own controversy, Trump couldn't resist a dig at the Clintons.", 'date': '2017-07-10'}

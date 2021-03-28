@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': '16 Gifts For Your BFF Who Needs Help Nailing This Adulthood Thing', 'authors': 'Amanda Pena', 'link': 'https://www.huffingtonpost.com/entry/gifts-for-friends-who-need-help-adulting_us_5a03320ee4b09205305991d7', 'short_description': "Pro tip: We're all kind of faking it.", 'date': '2017-11-08'}

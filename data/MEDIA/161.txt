@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Sean Hannity Asked 'The Left’ To React To Right-Wing Art. The Response Was Priceless.", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/sean-hannity-art_us_5a94dd78e4b01f65f599a756', 'short_description': "That probably didn't go as he planned.", 'date': '2018-02-27'}

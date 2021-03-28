@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's How You Can Help People In Puerto Rico", 'authors': 'Jennifer Bendery', 'link': 'https://www.huffingtonpost.com/entry/puerto-rica-hurricane-irma-maria_us_59c7f699e4b06ddf45f89c7a', 'short_description': '3.4 million Americans are enduring "apocalyptic" conditions right now because of Hurricane Maria.', 'date': '2017-09-24'}

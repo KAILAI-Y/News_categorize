@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "Texas A&M Coach's Wife Calls Out Racist Who Sent Threatening Letter", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/kevin-sumlin-racist-letter_us_59b29601e4b0354e44114914', 'short_description': '"Did it occur to you that a child may open it?" Charlene Sumlin wrote.', 'date': '2017-09-08'}

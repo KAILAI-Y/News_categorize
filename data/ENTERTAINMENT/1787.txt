@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Eminem Loses Himself Over Donald Trump: 'He Makes My Blood Boil'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/eminem-donald-trump-interview_us_5a38e17be4b0860bf4aac766', 'short_description': '"What he’s doing putting people against each other is scary f*****g s**t."', 'date': '2017-12-19'}

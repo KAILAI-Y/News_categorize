@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Dream Act Likely To Pick Up Far More Co-Sponsors In Coming Days', 'authors': 'Elise Foley and Amanda Terkel', 'link': 'https://www.huffingtonpost.com/entry/dream-act-house-sponsors_us_59b07519e4b0b5e531037e8c', 'short_description': 'Democrats and Republicans agree to lift a restriction on who can sign on.', 'date': '2017-09-07'}

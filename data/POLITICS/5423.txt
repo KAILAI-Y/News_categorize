@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'White House Waives Jones Act For Puerto Rico', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/white-house-waives-jones-act-for-puerto-rico_us_59cce64fe4b0210dfdfc5b63', 'short_description': 'The law would have slapped huge fees on ships transporting aid to the hurricane-ravaged territory.', 'date': '2017-09-28'}

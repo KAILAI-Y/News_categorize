@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "GOP Sen. Bob Corker: Trump Hasn't Demonstrated 'Stability' Or 'Competence'", 'authors': 'Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/bob-corker-trump-stability_us_5995e1dee4b01f6e801ce808', 'short_description': 'The senator was an early supporter of Trump.', 'date': '2017-08-17'}

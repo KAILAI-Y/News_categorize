@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Joins Mar-a-Lago Disco Party After Visiting Survivors Of School Shooting', 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trump-disco-party-after-victims-visit_us_5a88d654e4b00bc49f44e36b', 'short_description': 'But the president appeared to be in a "somber" mood, a witness noted.', 'date': '2018-02-18'}

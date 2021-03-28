@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "'The Daily Show' Issues Spoof Fox News Guide On How To Interview Donald Trump", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/the-daily-show-fox-news-donald-trump-interview_us_5a6c2ff3e4b0ddb658c6a983', 'short_description': '"Step 2: Flattery will get you everywhere."', 'date': '2018-01-27'}

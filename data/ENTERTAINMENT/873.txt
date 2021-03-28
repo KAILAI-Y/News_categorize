@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Emma Watson Reportedly Dating 'Glee' Star Chord Overstreet", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/emma-watson-reportedly-dating-glee-star-chord-overstreet_us_5aa6b81de4b03c9edfae733b', 'short_description': 'They were spotted holding hands and looking very much like a couple.', 'date': '2018-03-12'}

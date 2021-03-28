@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Fox Anchors Slammed For Calling Black Teen Who Got Into 20 Colleges 'Obnoxious'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/fox-5-dc-anchors-black-student-20-colleges_us_5acbdf40e4b07a3485e78869', 'short_description': 'The Fox 5 DC segment has gone viral.', 'date': '2018-04-10'}

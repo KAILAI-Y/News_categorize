@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Sandy Hook Mom Slams Megyn Kelly For Alex Jones Interview', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/mom-sandy-hook-victim-megyn-kelly-interview-alex-jones_us_593ecd2de4b0b13f2c6cdc24', 'short_description': 'In the past, Jones said that the parents of Sandy Hook victims were actors.', 'date': '2017-06-12'}

@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Woman Takes Selfies With Her Catcallers To Show How Often It Happens', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/woman-takes-selfies-with-her-catcallers-to-show-how-often-it-happens_us_59d7aecbe4b072637c43c1e7', 'short_description': '“It’s not a compliment.”', 'date': '2017-10-06'}

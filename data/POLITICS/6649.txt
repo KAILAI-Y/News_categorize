@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Our President Is A White Nationalist', 'authors': 'Jesse Mechanic, ContributorWriter. Founding Editor of TheOvergrown.com', 'link': 'https://www.huffingtonpost.com/entry/our-president-is-a-white-nationalist_us_5990eedde4b0caa1687a6169', 'short_description': 'Make America Great Again—we all knew what that meant.', 'date': '2017-08-14'}

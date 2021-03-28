@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Federal Judge Says Alabama Doesn't Have To Tell Felons They May Now Be Able To Vote", 'authors': 'Sam Levine', 'link': 'https://www.huffingtonpost.com/entry/alabama-felon-moral-turpitude_us_597ce859e4b02a4ebb75d693', 'short_description': 'Voting advocates say a recent change in state law is likely to cause confusion.', 'date': '2017-07-29'}

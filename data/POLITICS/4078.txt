@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Rex Tillerson Says Transgender People Should Not Be Discriminated Against', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/rex-tillerson-transgender-day-of-remembrance_us_5a13066ee4b0c335e9963108', 'short_description': 'Meanwhile, the Trump administration is pushing anti-trans policies.', 'date': '2017-11-20'}

@@ -1,0 +1,1 @@
+{'category': 'GREEN', 'headline': 'Storm Barrels Toward Northeast On 5-Year Sandy Anniversary', 'authors': "Lydia O'Connor", 'link': 'https://www.huffingtonpost.com/entry/northeast-storm-sandy-anniversary_us_59f616c8e4b077d8dfca3cd3', 'short_description': 'Hurricane-force wind gusts are possible, the National Weather Service warns.', 'date': '2017-10-29'}

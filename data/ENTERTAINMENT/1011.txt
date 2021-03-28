@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kristen Wiig Reportedly In Talks To Play The Villain In 'Wonder Woman' Sequel", 'authors': 'Andy McDonald', 'link': 'https://www.huffingtonpost.com/entry/kristen-wiig-in-talks-to-play-the-villain-in-wonder-woman-sequel_us_5a980d2be4b0e6a523057077', 'short_description': 'The "SNL" alum would play nemesis Cheetah.', 'date': '2018-03-01'}

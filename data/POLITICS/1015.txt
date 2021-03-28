@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Could The Cold War Return With A Vengeance?', 'authors': 'TomDispatch, Editorial Partner', 'link': 'https://www.huffingtonpost.com/entry/the-new-long-war_us_5ac3e203e4b0e56fdf750418', 'short_description': 'The Pentagon plans for a perpetual three-front “Long War” against China and Russia.', 'date': '2018-04-04'}

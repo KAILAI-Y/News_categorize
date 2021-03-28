@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Jeremy Corbyn’s Surprising Gains', 'authors': 'Robert Kuttner, ColumnistColumnist', 'link': 'https://www.huffingtonpost.com/entry/jeremy-corbyns-surprising-gains_us_592b4973e4b0065b20b75a34', 'short_description': 'Corbyn is similar to Bernie Sanders, and not just ideologically.', 'date': '2017-05-28'}

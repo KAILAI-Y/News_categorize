@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "James Corden Takes 'Avengers' Stars On An Epic Hollywood Stars Tour", 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/james-corden-avengers-hollywood-stars-tour_us_5ae2f454e4b04aa23f221eb0', 'short_description': 'All aboard for a heroically funny, rollicking ride.', 'date': '2018-04-27'}

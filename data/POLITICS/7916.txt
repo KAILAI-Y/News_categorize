@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Tweeters Troll Corey Lewandowski For Calling Donald Trump 'Hemingway Of Twitter'", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-corey-lewandowski-hemingway-twitter-mocked_us_59575568e4b02734df3291bc', 'short_description': '"Trump ain\'t even Ernest Goes To Camp!!!"', 'date': '2017-07-01'}

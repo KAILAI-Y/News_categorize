@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Washington Still Offended By Vulgarity, The Word 'Pussy'", 'authors': 'Arthur Delaney', 'link': 'https://www.huffingtonpost.com/entry/white-house-correspondents-dinner_us_5ae5d72fe4b055fd7fccb355', 'short_description': 'A comedian told nasty jokes, but the president still sets the standard for crudity here.', 'date': '2018-04-29'}

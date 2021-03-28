@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'The Ultimate Detroit Road Trip Playlist', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/the-ultimate-detroit-michigan-road-trip-playlist_us_59caaf7be4b0d0b254c5088e', 'short_description': "Spotify data shows people here have an ear for their city's rich musical past.", 'date': '2017-10-02'}

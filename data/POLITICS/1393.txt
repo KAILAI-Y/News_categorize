@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Exclusive: Wife Of Top Trump Aide Dan Scavino Files For Divorce', 'authors': 'Yashar Ali', 'link': 'https://www.huffingtonpost.com/entry/trump-aide-dan-scavino-divorce_us_5aaef507e4b0c33361b1bdcb', 'short_description': 'Dan Scavino, 42, has a long history with the Trump family.', 'date': '2018-03-19'}

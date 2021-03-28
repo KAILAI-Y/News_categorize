@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Paul Ryan Stands Behind Special Counsel Robert Mueller', 'authors': 'Matt Fuller', 'link': 'https://www.huffingtonpost.com/entry/paul-ryan-backs-robert-mueller_us_593ffbc4e4b02402687cec9b', 'short_description': 'Wait, is this what the Ryan standing up to Trump would look like?', 'date': '2017-06-13'}

@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'All The Looks Worth Seeing From The 2017 American Music Awards Red Carpet', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/2017-american-music-awards-red-carpet_us_5a12d0b0e4b045cf43729c98', 'short_description': 'Selena Gomez debuted her new blond hair.', 'date': '2017-11-20'}

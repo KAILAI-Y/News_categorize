@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Seth Meyers Roasts Trump For Using 'Ghostbusters' Theme Song For Entrance At Halloween Party", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-trump-halloween-ghostbusters_us_59faa804e4b01b47404829e8', 'short_description': '"That\'s right. Trump ain\'t afraid of no ghosts."', 'date': '2017-11-02'}

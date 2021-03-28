@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump's Advice To 25-Year-Old Self: 'Don't Run For President'", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/trump-advice-25-year-old-self_us_5ab41b24e4b008c9e5f583e5', 'short_description': "So naturally, he'll seek re-election in 2020.", 'date': '2018-03-23'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Texas Sues Trump Administration To End DACA', 'authors': 'Lawrence Hurley, Reuters', 'link': 'https://www.huffingtonpost.com/entry/texas-sues-government-daca_us_5ae8dface4b022f71a02ca5d', 'short_description': 'Six other Republican-governed states joined Texas in the suit.', 'date': '2018-05-01'}

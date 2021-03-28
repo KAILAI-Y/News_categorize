@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Kellyanne Conway Rips Campaigns That Seek Oppo Research From 'Foreign Nationals'", 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/kellyanne-conway-foreign-nationals_us_59f715fae4b07fdc5fbf6dc6', 'short_description': 'The White House counselor might want to have a chat with Donald Trump Jr.', 'date': '2017-10-30'}

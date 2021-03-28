@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Empowering Disney Princess Classics Are Returning To Theaters', 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/empowering-disney-princess-classics-are-returning-to-theaters_us_59835112e4b0fa1575fc79f7', 'short_description': 'The lineup also includes newer movies like "Brave" and "Moana."', 'date': '2017-08-03'}

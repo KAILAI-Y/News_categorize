@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Rapper Fabolous Accused Of Assaulting Girlfriend Emily B', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/fabolous-rapper-assault-emily-b_us_5abe68bde4b055e50acd49b1', 'short_description': 'He allegedly told his longtime girlfriend he wanted to hit her in the head with a baseball bat.', 'date': '2018-03-30'}

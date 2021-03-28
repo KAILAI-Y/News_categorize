@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Alec Baldwin's Donald Trump Says What He Really Thinks Of Jared Kushner On 'Weekend Update'", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/alec-baldwin-jared-kushner-donald-trump_us_599fbedbe4b0821444c25fea', 'short_description': "Baldwin's Trump also gives Steve Bannon a proper sendoff.", 'date': '2017-08-25'}

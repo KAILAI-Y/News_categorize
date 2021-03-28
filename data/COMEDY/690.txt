@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'John Oliver Calls Out The Academy For Hypocrisy After Weinstein Decision', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/john-oliver-harvey-weinstein-academy_us_59e463b3e4b04d1d5182c072', 'short_description': 'The "Last Week Tonight" host takes on Hollywood\'s sexual harassment problem.', 'date': '2017-10-16'}

@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': "Man Faces Charges After Pulling Knife, Stun Gun On Muslim Students At McDonald's", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/man-knife-stun-gun-muslim-students_us_5b084cece4b0802d69cb1ba8', 'short_description': '“We thought we were going to die," one of the students said.', 'date': '2018-05-25'}

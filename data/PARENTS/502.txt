@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "'The Chew' Co-Host Wants Her Kids To Know Moms Can Be More Than Mothers", 'authors': 'Taylor Pittman', 'link': 'https://www.huffingtonpost.com/entry/the-chew-co-host-wants-her-kids-to-know-moms-can-be-more-than-mothers_us_5980b1dae4b08e1430061583', 'short_description': '"Being moms doesn’t mean we stop being women."', 'date': '2017-08-01'}

@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Jake Tapper Shreds Donald Trump With A Long List Of His Conspiracy Theories', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/jake-tapper-donald-trump-conspiracy-theories_us_5b06598de4b05f0fc8448d0c', 'short_description': '"I could go on, but this is just an hour show."', 'date': '2018-05-24'}

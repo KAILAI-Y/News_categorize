@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': 'French Digital Minister Comes Out As Gay To Fight Homophobia', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/france-mounir-mahjoubi-comes-out_us_5b01868ee4b0a046186d1c02', 'short_description': 'Mounir Mahjoubi hopes his experience will inspire other LGBTQ people.', 'date': '2018-05-21'}

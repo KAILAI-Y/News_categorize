@@ -1,0 +1,1 @@
+{'category': 'QUEER VOICES', 'headline': "Martha Stewart: I 'Don't Differentiate' Between Gay And Straight Weddings", 'authors': 'Curtis M. Wong', 'link': 'https://www.huffingtonpost.com/entry/martha-stewart-gay-weddings_us_5a26f346e4b069df71fa4d11', 'short_description': 'The domestic diva has a longtime pal she playfully calls her "gay son," too.', 'date': '2017-12-05'}

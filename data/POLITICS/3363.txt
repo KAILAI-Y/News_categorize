@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Says Roy Moore Should Concede Senate Race To Doug Jones', 'authors': 'Sara Boboltz', 'link': 'https://www.huffingtonpost.com/entry/trump-roy-moore-concede_us_5a33e007e4b01d429cc81fc8', 'short_description': 'Democrat Jones won the Alabama seat, but Moore has refused to accept the result.', 'date': '2017-12-15'}

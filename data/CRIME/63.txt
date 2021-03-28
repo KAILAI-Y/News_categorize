@@ -1,0 +1,1 @@
+{'category': 'CRIME', 'headline': 'Chicago Shootings Spike Amid Weekend Violence', 'authors': 'David Lohr', 'link': 'https://www.huffingtonpost.com/entry/chicago-shootings-spike-amid-weekend-violence_us_5ad6703de4b03c426da92c24', 'short_description': 'More than 600 people have been shot in the city this year.', 'date': '2018-04-17'}

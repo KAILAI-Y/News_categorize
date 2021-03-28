@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Rafael Nadal Justifies Why His Shorts Have Been Getting Shorter Lately', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/rafael-nadal-explains-why-he-stopped-wearing-long-shorts-a-few-years-ago_us_59a56ee5e4b041393a208fb2', 'short_description': 'The 31-year-old is making some adjustments.', 'date': '2017-08-29'}

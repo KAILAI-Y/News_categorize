@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Trevor Noah Hails Twitter 'King' Trump, Plugs 'Daily Show' Presidential Tweet Library", 'authors': 'Mary Papenfuss', 'link': 'https://www.huffingtonpost.com/entry/trevor-noah-trump-tweets_us_593f6ccee4b02402687c62d3', 'short_description': '"You can\'t deny that when it comes to Twitter, he is the king," Noah says.', 'date': '2017-06-13'}

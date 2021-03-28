@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': "Fox Sports' Jamie Horowitz Fired Amid Sexual Harassment Investigation", 'authors': 'Doha Madani', 'link': 'https://www.huffingtonpost.com/entry/fox-sports-jamie-horowitz-fired-sexual-harassment_us_595aa27ae4b05c37bb7fcf8e', 'short_description': 'The news comes a week into the probe.', 'date': '2017-07-03'}

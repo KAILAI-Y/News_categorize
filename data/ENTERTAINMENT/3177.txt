@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Oscar-Winning Actor Martin Landau Dead At 89', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/martin-landau-death_us_596c062de4b03389bb186f61', 'short_description': 'The star made a late-career comeback with an Academy Award-winning performance in the 1994 film “Ed Wood.”', 'date': '2017-07-17'}

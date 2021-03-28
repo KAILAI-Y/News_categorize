@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'The GOP Tax Cut Plan Opens A New Front In The War On Obamacare', 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/tax-reform-affordable-care-act-mandate_us_5a0b903be4b00a6eece51a0e', 'short_description': "Among the casualties: Millions of Americans who wouldn't have health insurance.", 'date': '2017-11-15'}

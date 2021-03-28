@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Rages Against Comey Over Claims In New Book', 'authors': 'Hayley Miller', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-james-comey-tweets_us_5ad35e23e4b0edca2cbabb10', 'short_description': 'Trump tweeted Sunday that the former FBI director "always ends up badly and out of whack."', 'date': '2018-04-15'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Is Governing Like A Traditional Republican', 'authors': 'Amanda Terkel and Igor Bobic', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-is-republican_us_5ac2826be4b04646b6452ca6', 'short_description': "He may not always sound like one, but his actions are in line with the GOP's agenda.", 'date': '2018-04-03'}

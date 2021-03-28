@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Kentucky Neighbor Expected To Plead Guilty In Assault On Sen. Rand Paul', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/rand-paul-assault-federal-charge_us_5a627246e4b0dc592a08c5e7', 'short_description': 'The retired doctor has maintained that the fight was about yard waste, not politics.', 'date': '2018-01-20'}

@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': "30 'Star Wars'-Inspired Names Parents Are Giving Their Babies", 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/star-wars-baby-names_us_5a2e98b4e4b073789f6b7074', 'short_description': 'Get ready to meet some more Kylos and Anakins.', 'date': '2018-01-26'}

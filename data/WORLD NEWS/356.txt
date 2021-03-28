@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': 'Reconstruction From War With ISIS Will Cost Iraq $88 Billion', 'authors': 'By Maher Chmaytelli and Ahmed Hagagy, Reuters', 'link': 'https://www.huffingtonpost.com/entry/iraq-reconstruction-war-with-isis_us_5a816d3ae4b08dfc9305d661', 'short_description': 'About 2.5 million Iraqis remain displaced by the fighting.', 'date': '2018-02-12'}

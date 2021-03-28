@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Cam Newton Insults Female Sports Reporter Just Doing Her Job', 'authors': 'David Moye', 'link': 'https://www.huffingtonpost.com/entry/cam-newton-nfl-jourdan-rodrigue_us_59d55f08e4b0380b6c9a1daa', 'short_description': 'Newton thought it was funny a woman might understand the concept of "routes."', 'date': '2017-10-04'}

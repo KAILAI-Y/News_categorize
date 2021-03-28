@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': 'Neil deGrasse Tyson Has A Haunting Question About Bears', 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/neil-degrasse-tyson-bears_us_5a6586d8e4b0e56300710ad5', 'short_description': 'Hmmm...', 'date': '2018-01-22'}

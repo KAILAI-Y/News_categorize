@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Trump Nominee: It's 'Insane' Civilians Can Buy Assault Rifles", 'authors': 'Ryan Grenoble', 'link': 'https://www.huffingtonpost.com/entry/trump-nominee-insane-buy-assault-rifles_us_5a020f76e4b09205305884d8', 'short_description': 'A senator cut off the former U.S. Air Force colonel before he could say more.', 'date': '2017-11-07'}

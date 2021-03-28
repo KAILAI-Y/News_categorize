@@ -1,0 +1,1 @@
+{'category': 'TASTE', 'headline': "Pineapple Casserole, The Southern Dish That's A Paradox Of Flavors", 'authors': 'Kristen Aiken', 'link': 'https://www.huffingtonpost.com/entry/pineapple-casserole-recipe_us_5a562ef6e4b0d614e48b9b98', 'short_description': "It's got pineapple, cheddar and a whole lot of butter.", 'date': '2018-01-16'}

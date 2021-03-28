@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': "Twitter Users Have Some Burning Questions To Add To Mueller's List", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-mueller-extra-questions_us_5ae7d4e4e4b02baed1bd70e3', 'short_description': '“What does covfefe mean?”', 'date': '2018-05-01'}

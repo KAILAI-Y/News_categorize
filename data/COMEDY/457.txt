@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Seth Meyers Suggests Other Words The Trump Administration May Want To Replace', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/seth-meyers-trump-administration-words-replace_us_5a3a136be4b025f99e1329e8', 'short_description': '"From now on, coal will be referred to as patriot rocks."', 'date': '2017-12-20'}

@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': 'Hundreds Gather For The March For Black Women In D.C.', 'authors': 'Taryn Finley', 'link': 'https://www.huffingtonpost.com/entry/march-for-black-women-dc_us_59ce4ffbe4b06791bb102659', 'short_description': '“We are marching to say that black women’s lives matter..."', 'date': '2017-09-29'}

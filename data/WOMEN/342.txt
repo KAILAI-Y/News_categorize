@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': 'Olympic Fencer Ibtihaj Muhammad Just Got Her Very Own Barbie', 'authors': 'Alanna Vagianos', 'link': 'https://www.huffingtonpost.com/entry/olympic-fencer-ibtihaj-muhammad-debuts-her-very-own-shero-barbie_us_5a00b7e1e4b0c9653001a04f', 'short_description': 'The doll will be available in stores in 2018.', 'date': '2017-11-13'}

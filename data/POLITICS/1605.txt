@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's What You Should Know About That Secret Seychelles Meeting", 'authors': 'Nick Visser', 'link': 'https://www.huffingtonpost.com/entry/erik-prince-seychelles-meeting_us_5aa0be4ae4b0d4f5b66d566d', 'short_description': 'Robert Mueller has zeroed in on the clandestine affair in recent weeks.', 'date': '2018-03-08'}

@@ -1,0 +1,1 @@
+{'category': 'COMEDY', 'headline': 'Pranksters Slip KKK Hoods And Urine-Proof Sheets Into Trump Tower’s Gift Shop', 'authors': 'Elyse Wanshel', 'link': 'https://www.huffingtonpost.com/entry/trump-tower-gift-shop-kkk-hoods-russian-flags-sheets_us_59a5c159e4b063ae34d978a7', 'short_description': 'The hoods were marketed to “fine people.”', 'date': '2017-08-29'}

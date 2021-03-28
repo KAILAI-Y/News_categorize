@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Texas Group That Fueled Trump Voter Fraud Claim Scales Back 2016 Election Audit', 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/trump-voter-fraud_us_594ad1d4e4b0a3a837bcaafd', 'short_description': '“As it stands, we do not have the funding to do what we want to do."', 'date': '2017-06-21'}

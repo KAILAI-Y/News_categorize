@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'GOP Senator Uses Muslims In Ridiculous Argument Against Gun Control', 'authors': 'Antonia Blumberg', 'link': 'https://www.huffingtonpost.com/entry/senator-john-kennedy-gun-control_us_59d3d1d0e4b04b9f920579d4', 'short_description': 'Gun control is not equivalent to Islamophobia.', 'date': '2017-10-03'}

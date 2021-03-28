@@ -1,0 +1,1 @@
+{'category': 'MEDIA', 'headline': 'Leak: How NYT Editor James Bennet Justifies The Op-Ed Page To His Colleagues', 'authors': 'Ashley Feinberg', 'link': 'https://www.huffingtonpost.com/entry/new-york-times-opinion-james-bennet_us_5a8db27de4b0273053a70f47', 'short_description': '“The world needs this from us right now."', 'date': '2018-02-27'}

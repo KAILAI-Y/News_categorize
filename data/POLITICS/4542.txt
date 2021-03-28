@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donna Brazile Says Clinton Campaign Took Over The DNC', 'authors': 'Paige Lavender', 'link': 'https://www.huffingtonpost.com/entry/donna-brazile-dnc-clinton-campaign_us_59fb1a5ce4b0b0c7fa3866ea', 'short_description': 'The former interim DNC chair writes that she "followed the money" to find a "shocking truth."', 'date': '2017-11-02'}

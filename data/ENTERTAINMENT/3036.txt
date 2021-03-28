@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Rotten Tomatoes Is Causing Hollywood's Latest Existential Crisis", 'authors': 'Matthew Jacobs', 'link': 'https://www.huffingtonpost.com/entry/rotten-tomatoes-is-causing-hollywoods-latest-existential-crisis_us_59834084e4b06d488874a560', 'short_description': 'No one wanted "The Emoji Movie." Get over it.', 'date': '2017-08-03'}

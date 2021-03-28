@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Emmanuel Macron Folds: I 'Respect' Donald Trump Ditching Paris Climate Agreement", 'authors': 'Willa Frej', 'link': 'https://www.huffingtonpost.com/entry/macron-respect-trump-paris-climate_us_5967a904e4b0a8d46d130a41', 'short_description': 'He wants to focus on areas in which they share common ground, he said.', 'date': '2017-07-13'}

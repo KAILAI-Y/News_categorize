@@ -1,0 +1,1 @@
+{'category': 'PARENTS', 'headline': 'Mom Battling Breast Cancer Welcomes Baby Boy In Stunning Birth Photos', 'authors': 'Caroline Bologna', 'link': 'https://www.huffingtonpost.com/entry/mom-fighting-breast-cancer-welcomes-baby-boy-in-stunning-birth-photos_us_599bbcfde4b04c532f43e0e0', 'short_description': '“It’s been an emotional rollercoaster.”', 'date': '2017-10-19'}

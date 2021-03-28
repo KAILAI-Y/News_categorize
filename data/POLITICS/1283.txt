@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Donald Trump-Joe Biden Feud Sparks Savage Meme Ridiculing The Pair', 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-joe-biden-fight-meme_us_5ab3abbde4b054d118e04e99', 'short_description': '"I\'m selling two tickets to the Trump vs Biden fight."', 'date': '2018-03-22'}

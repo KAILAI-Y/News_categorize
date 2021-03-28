@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': 'Chrissy Teigen Says She Knows Which Actress Bit Beyoncé In The Face', 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/chrissy-teigen-beyonce_us_5aba41fce4b0decad04e1dd1', 'short_description': 'SPILL THE TEA.', 'date': '2018-03-27'}

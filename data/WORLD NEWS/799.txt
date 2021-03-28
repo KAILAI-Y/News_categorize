@@ -1,0 +1,1 @@
+{'category': 'WORLD NEWS', 'headline': "Merkel's Fourth Term In Doubt", 'authors': '', 'link': 'https://www.huffingtonpost.com/entry/merkel-fourth-term_us_5a12ea8ae4b0dd63b1abe83c', 'short_description': 'Efforts to form a coalition have failed.', 'date': '2017-11-20'}

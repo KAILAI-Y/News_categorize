@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Corporations Make Big Climate Promises Only To Retreat After A Few Years, Study Finds', 'authors': 'Alexander C. Kaufman', 'link': 'https://www.huffingtonpost.com/entry/corporate-sustainability-climate-change_us_5a1c7002e4b0e9bc3368d93e', 'short_description': 'Sustainable capitalism is basically an oxymoron.', 'date': '2017-11-27'}

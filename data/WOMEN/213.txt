@@ -1,0 +1,1 @@
+{'category': 'WOMEN', 'headline': "25 Spot-On Galentine's Day Gifts For Your Long-Distance BFF", 'authors': 'Brittany Nims', 'link': 'https://www.huffingtonpost.com/entry/25-spot-on-galentines-day-gifts-for-your-long-distance-bff_us_5a5e5798e4b096ecfca832f9', 'short_description': "It's only the best day of the year 👯", 'date': '2018-01-16'}

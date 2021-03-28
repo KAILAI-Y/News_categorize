@@ -1,0 +1,1 @@
+{'category': 'HEALTHY LIVING', 'headline': 'Adult Gambling Addiction Tied To Childhood Trauma', 'authors': 'Lisa Rapaport, Reuters', 'link': 'https://www.huffingtonpost.com/entry/adult-gambling-addiction-tied-to-childhood-trauma_us_599754bae4b0e8cc855ddc77', 'short_description': 'Growing evidence links stressful life experiences and addiction.', 'date': '2017-08-18'}

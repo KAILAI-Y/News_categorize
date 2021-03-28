@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Mike Pence's Cat, Pickle, Has Died", 'authors': 'Rebecca Shapiro', 'link': 'https://www.huffingtonpost.com/entry/mike-pence-pickle-cat-died_us_5a2a04d8e4b069ec48ac2e82', 'short_description': 'The cat, who moved with the family to Washington D.C., was 16 years old.', 'date': '2017-12-08'}

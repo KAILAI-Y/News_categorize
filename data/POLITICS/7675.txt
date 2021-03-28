@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's How Much Obamacare Repeal Would Take From Poor And Give To Rich", 'authors': 'Jonathan Cohn', 'link': 'https://www.huffingtonpost.com/entry/obamacare-repeal-rich-and-poor_us_596522e7e4b03f144e2e951a', 'short_description': "A new analysis breaks down the benefits in the Senate's health care bill.", 'date': '2017-07-11'}

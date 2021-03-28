@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'U.S. Judge Refuses To Toss Suit Against Trump On Foreign Payments', 'authors': 'Andrew Chung, Reuters', 'link': 'https://www.huffingtonpost.com/entry/donald-trump-emoluments-lawsuit_us_5abbd965e4b04a59a313cf71', 'short_description': 'The District of Columbia and the state of Maryland filed the lawsuit last June.', 'date': '2018-03-28'}

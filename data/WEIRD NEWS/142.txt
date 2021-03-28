@@ -1,0 +1,1 @@
+{'category': 'WEIRD NEWS', 'headline': "Mind-Boggling Optical Illusion Will Make You Think You Can't See Straight", 'authors': 'Ed Mazza', 'link': 'https://www.huffingtonpost.com/entry/cobblestone-street-optical-illusion_us_5a7948f1e4b00f94fe945c33', 'short_description': 'Whoa!', 'date': '2018-02-06'}

@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Here's How Many People Would Give Up Alcohol To See Donald Trump Impeached", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/quit-alcohol-donald-trump-impeached_us_59535b2ee4b05c37bb7a778b', 'short_description': "They'd all quit drinking for good if it meant Trump would be impeached tomorrow.", 'date': '2017-06-28'}

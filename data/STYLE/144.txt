@@ -1,0 +1,1 @@
+{'category': 'STYLE', 'headline': 'Justin Trudeau Dressed As Clark Kent For Halloween And It Was Super, Man', 'authors': 'Carly Ledbetter', 'link': 'https://www.huffingtonpost.com/entry/justin-trudeau-superman-clark-kent-halloween-costume_us_59f9cffde4b046017fb02df7', 'short_description': '"I want to marry him but my husband would get mad."', 'date': '2017-11-01'}

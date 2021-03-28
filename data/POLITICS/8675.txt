@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': 'Trump Tries to Rebrand ‘James Comey Week’ As ‘Infrastructure Week’', 'authors': 'S.V. Date', 'link': 'https://www.huffingtonpost.com/entry/trump-comey-infrastructure_us_59385dcfe4b0b13f2c667dd9', 'short_description': 'It’s not working.', 'date': '2017-06-07'}

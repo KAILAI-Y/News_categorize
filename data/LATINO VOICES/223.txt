@@ -1,0 +1,1 @@
+{'category': 'LATINO VOICES', 'headline': "J.Lo Posts Moving Photo Of Ex Marc Anthony After His Mother's Death", 'authors': 'Carolina Moreno', 'link': 'https://www.huffingtonpost.com/entry/marc-anthony-mother-death_us_5980ce67e4b09d24e9938b04', 'short_description': '“Just what the doctor ordered...Surrounded by love...❤️”', 'date': '2017-08-01'}

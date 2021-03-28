@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Meek Mill Opens 76ers' NBA Playoff Game Immediately After Prison Release", 'authors': 'Carla Herreria', 'link': 'https://www.huffingtonpost.com/entry/meek-mill-76ers-game_us_5adfbac0e4b07be4d4c5ab3c', 'short_description': 'The Philadelphia rapper arrived at the game in a helicopter and sat with Kevin Hart.', 'date': '2018-04-25'}

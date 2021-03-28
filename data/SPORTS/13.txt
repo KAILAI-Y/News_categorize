@@ -1,0 +1,1 @@
+{'category': 'SPORTS', 'headline': 'MLB Pitcher Punches Himself In Face Really Hard After Blowing Game', 'authors': 'Ron Dicker', 'link': 'https://www.huffingtonpost.com/entry/ken-giles-punches-himself-in-face_us_5ae97b7ae4b00f70f0ed65dc', 'short_description': 'Astros reliever Ken Giles said he was "frustrated."', 'date': '2018-05-02'}

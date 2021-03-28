@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "Kris Jenner Turned All The Way Up For Drunken Valentine's Day Karaoke", 'authors': 'Cole Delbyck', 'link': 'https://www.huffingtonpost.com/entry/kris-jenner-turned-all-the-way-up-for-drunken-valentines-day-karaoke_us_5a859a15e4b0774f31d2ceb0', 'short_description': 'No one does the holidays like the Kardashians.', 'date': '2018-02-15'}

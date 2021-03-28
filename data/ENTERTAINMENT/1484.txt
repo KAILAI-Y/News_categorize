@@ -1,0 +1,1 @@
+{'category': 'ENTERTAINMENT', 'headline': "'Jersey Shore' Star Mike 'The Situation' Sorrentino Pleads Guilty To Tax Evasion", 'authors': 'Jenna Amatulli', 'link': 'https://www.huffingtonpost.com/entry/jersey-shore-mike-the-situation-sorrentino-pleads-guilty_us_5a6255afe4b0dc592a089a69', 'short_description': 'Gym, tan... prison?', 'date': '2018-01-19'}

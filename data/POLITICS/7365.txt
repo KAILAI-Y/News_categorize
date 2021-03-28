@@ -1,0 +1,1 @@
+{'category': 'POLITICS', 'headline': "Russia's Foreign Minister Says There May Have Been More Putin-Trump Meetings", 'authors': 'Alana Horowitz Satlin', 'link': 'https://www.huffingtonpost.com/entry/lavrov-putin-trump_us_5971e4c6e4b09e5f6ccea978', 'short_description': '“Maybe they went to the toilet together."', 'date': '2017-07-21'}

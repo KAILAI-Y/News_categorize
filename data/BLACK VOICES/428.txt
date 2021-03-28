@@ -1,0 +1,1 @@
+{'category': 'BLACK VOICES', 'headline': "'Late Night' Writer Amber Ruffin Hails Alabama's Black Women For Saving America", 'authors': 'Lee Moran', 'link': 'https://www.huffingtonpost.com/entry/amber-ruffin-late-night-roy-moore-alabama_us_5a323db4e4b07ff75b00554b', 'short_description': '"You\'re welcome!"', 'date': '2017-12-14'}
